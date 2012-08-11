@@ -51,16 +51,16 @@ on_view
 period
 ==
 
-printer
+printers
 ==
 
-printer.name
+printers.name
 ==
 
-publisher
+publishers
 ==
 
-publisher.name
+publishers.name
 ==
 
 rights
