@@ -1,30 +1,34 @@
 {
-    "accession_number": "72.47.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1807", 
-            "death_date": "1873", 
-            "name": "Utagawa Sadahide", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1863, 6th month", 
-    "credit_line": "Gift of Mrs. Kate Kiser Klein", 
-    "cultures": [], 
-    "dimensions": "36.0 x 24.7 cm.", 
-    "dynasty": null, 
-    "irn": 53228, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Maruya Jinpachi"
-        }
-    ], 
-    "rights": null, 
-    "title": "A View of Naniwa (Osaka) Bay"
+  "publishers": [
+    {
+      "name": "Maruya Jinpachi"
+    }
+  ], 
+  "dimensions": "36.0 x 24.7 cm.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Kate Kiser Klein", 
+  "accession_number": "72.47.23", 
+  "title": "A View of Naniwa (Osaka) Bay", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18268939, 
+  "creation_date": "1863, 6th month", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Sadahide", 
+      "after_follower": null, 
+      "death_date": "1873", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305473, 
+      "role": "Artist", 
+      "birth_date": "1807", 
+      "nationality": null
+    }
+  ], 
+  "irn": 53228, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "49.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1727", 
-            "death_date": "1788", 
-            "name": "Gainsborough, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1763", 
-    "credit_line": "Gift of John G. Rauch", 
-    "cultures": [], 
-    "dimensions": "30 x 25 in.", 
-    "dynasty": null, 
-    "irn": 3769, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lady in a Mob Cap"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "30 x 25 in.", 
+  "title": "Lady in a Mob Cap", 
+  "accession_number": "49.1", 
+  "credit_line": "Gift of John G. Rauch", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140259, 
+  "creation_date": "about 1763", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Gainsborough, Thomas", 
+      "after_follower": null, 
+      "death_date": "1788", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296553, 
+      "role": "Artist", 
+      "birth_date": "1727", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3769, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

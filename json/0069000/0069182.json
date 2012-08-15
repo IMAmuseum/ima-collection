@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.43.1A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1908", 
-            "death_date": "1986", 
-            "name": "Nelson, George", 
-            "nationality": null, 
-            "role": "designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Herman Miller Furniture Company", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "About 1955", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "34 x 37 x 80 in.", 
-    "dynasty": null, 
-    "irn": 69182, 
-    "materials": "wood, steel", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bed"
+  "publishers": [], 
+  "dimensions": "34 x 37 x 80 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.43.1A", 
+  "title": "Bed", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284299, 
+  "creation_date": "About 1955", 
+  "materials": "wood, steel", 
+  "actors": [
+    {
+      "name": "Nelson, George", 
+      "after_follower": null, 
+      "death_date": "1986", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308193, 
+      "role": "designer", 
+      "birth_date": "1908", 
+      "nationality": null
+    }, 
+    {
+      "name": "Herman Miller Furniture Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301627, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69182, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.168", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1906", 
-            "death_date": "1993", 
-            "name": "Mr. John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1950", 
-    "credit_line": "Bequest of Kathryne S. Block", 
-    "cultures": [], 
-    "dimensions": "H: 4 3/4 in. D: 9 in.", 
-    "dynasty": null, 
-    "irn": 23442, 
-    "materials": "silk satin", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "hat"
+  "publishers": [], 
+  "dimensions": "H: 4 3/4 in. D: 9 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Kathryne S. Block", 
+  "accession_number": "1985.168", 
+  "title": "hat", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200783, 
+  "creation_date": "about 1950", 
+  "materials": "silk satin", 
+  "actors": [
+    {
+      "name": "Mr. John", 
+      "after_follower": null, 
+      "death_date": "1993", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301279, 
+      "role": "Artist", 
+      "birth_date": "1906", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23442, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,46 +1,54 @@
 {
-    "accession_number": "LH2003.43D-F", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Anne Bront\u00eb", 
-            "nationality": null, 
-            "role": "Author"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Charlotte Bront\u00eb", 
-            "nationality": null, 
-            "role": "Author"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Emily Bront\u00eb", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "8 3/8 x 5 7/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 63040, 
-    "materials": null, 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Bigelow, Brown & Co. Inc."
-        }
-    ], 
-    "rights": null, 
-    "title": "The Works of the Sisters Bront\u00eb (volumes 4-6)"
+  "publishers": [
+    {
+      "name": "Bigelow, Brown & Co. Inc."
+    }
+  ], 
+  "dimensions": "8 3/8 x 5 7/8 in. (each)", 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "LH2003.43D-F", 
+  "title": "The Works of the Sisters Bront\u00eb (volumes 4-6)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278225, 
+  "creation_date": null, 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Anne Bront\u00eb", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306207, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Charlotte Bront\u00eb", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306209, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Emily Bront\u00eb", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306213, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63040, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

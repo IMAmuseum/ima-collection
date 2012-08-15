@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.16.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1958", 
-            "death_date": null, 
-            "name": "Lovegrove, Ross", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ty Nant Spring Water Ltd.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1999-2001", 
-    "credit_line": "Gift of Ty Nant Spring Water Ltd.", 
-    "cultures": [], 
-    "dimensions": "12 3/4 x 3 in.", 
-    "dynasty": null, 
-    "irn": 67361, 
-    "materials": "polyethylene terephthalate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ross Lovegrove", 
-    "title": "Ty Nant bottle"
+  "publishers": [], 
+  "dimensions": "12 3/4 x 3 in.", 
+  "rights": "\u00a9 Ross Lovegrove", 
+  "credit_line": "Gift of Ty Nant Spring Water Ltd.", 
+  "accession_number": "2010.16.2", 
+  "title": "Ty Nant bottle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282713, 
+  "creation_date": "1999-2001", 
+  "materials": "polyethylene terephthalate", 
+  "actors": [
+    {
+      "name": "Lovegrove, Ross", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307041, 
+      "role": "Designer", 
+      "birth_date": "1958", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ty Nant Spring Water Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307043, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67361, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.28", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Erlebacher, Martha Mayer", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8777, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Still Life"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Still Life", 
+  "accession_number": "78.28", 
+  "credit_line": "Delavan Smith Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152085, 
+  "creation_date": "1978", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Erlebacher, Martha Mayer", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298119, 
+      "role": "Artist", 
+      "birth_date": "1938", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8777, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

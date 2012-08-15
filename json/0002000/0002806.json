@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.964", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1697", 
-            "death_date": "1764", 
-            "name": "Hogarth, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1764", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": "14 1/2 x 13 1/2 in. (image)\n21 x 16 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 2806, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Self-Portrait"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "14 1/2 x 13 1/2 in. (image)\n21 x 16 3/4 in. (sheet)", 
+  "title": "Self-Portrait", 
+  "accession_number": "30.964", 
+  "credit_line": "Gift of William George Sullivan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137991, 
+  "creation_date": "1764", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Hogarth, William", 
+      "after_follower": null, 
+      "death_date": "1764", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294939, 
+      "role": "Artist", 
+      "birth_date": "1697", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2806, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

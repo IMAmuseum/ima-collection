@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.58.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1854", 
-            "death_date": "1935", 
-            "name": "Forsyth, William J.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1881", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 43754, 
-    "materials": "charcoal on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Estates of William J. and Constance Forsyth \u00a9 The Estates of William J. and Constance Forsyth", 
-    "title": "Tree Trunks"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 The Estates of William J. and Constance Forsyth \u00a9 The Estates of William J. and Constance Forsyth", 
+  "credit_line": "Museum Accession", 
+  "accession_number": "1985.58.4", 
+  "title": "Tree Trunks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18250129, 
+  "creation_date": "1881", 
+  "materials": "charcoal on off-white paper", 
+  "actors": [
+    {
+      "name": "Forsyth, William J.", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294989, 
+      "role": "Artist", 
+      "birth_date": "1854", 
+      "nationality": null
+    }
+  ], 
+  "irn": 43754, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

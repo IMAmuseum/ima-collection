@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.137", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1831", 
-            "name": "Hope, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1807", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "10 1/4 X 15 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 46019, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chimney piece and armchairs form the Egyptian Gallery"
+  "publishers": [], 
+  "dimensions": "10 1/4 X 15 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "73.2.137", 
+  "title": "Chimney piece and armchairs form the Egyptian Gallery", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18255775, 
+  "creation_date": "1807", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Hope, Thomas", 
+      "after_follower": null, 
+      "death_date": "1831", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295579, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46019, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

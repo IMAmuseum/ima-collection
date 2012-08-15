@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.255", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1963", 
-            "death_date": null, 
-            "name": "Marc Newson", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Cappellini International Interiors", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1988", 
-    "credit_line": "Jane Weldon Myers Acquisition Fund", 
-    "cultures": [], 
-    "dimensions": "31 3/4 x 33 x 37 in.", 
-    "dynasty": null, 
-    "irn": 65421, 
-    "materials": "chrome-plated tubular steel, polyurethane, and neoprene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Marc Newson", 
-    "title": "Embryo chair"
+  "publishers": [], 
+  "dimensions": "31 3/4 x 33 x 37 in.", 
+  "rights": "\u00a9 Marc Newson", 
+  "credit_line": "Jane Weldon Myers Acquisition Fund", 
+  "accession_number": "2008.255", 
+  "title": "Embryo chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280075, 
+  "creation_date": "1988", 
+  "materials": "chrome-plated tubular steel, polyurethane, and neoprene", 
+  "actors": [
+    {
+      "name": "Marc Newson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307375, 
+      "role": "Designer", 
+      "birth_date": "1963", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cappellini International Interiors", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307381, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65421, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1806", 
-            "death_date": null, 
-            "name": "Chen Huan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1872", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 24259, 
-    "materials": "ink and colors on silk or paper.fan painting.", 
-    "on_view": false, 
-    "period": "Tongzhi", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Remote Temple and Rivers and Mountains"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.26", 
+  "title": "Remote Temple and Rivers and Mountains", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Tongzhi", 
+  "artisinal:id": 18202671, 
+  "creation_date": "1872", 
+  "materials": "ink and colors on silk or paper.fan painting.", 
+  "actors": [
+    {
+      "name": "Chen Huan", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301835, 
+      "role": "Artist", 
+      "birth_date": "1806", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24259, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

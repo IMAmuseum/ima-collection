@@ -1,38 +1,44 @@
 {
-    "accession_number": "2006.63", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1884", 
-            "death_date": "1950", 
-            "name": "Beckmann, Max", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Franz Hanfstaengel", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "about 1916", 
-    "credit_line": "Gift of Edwin F. Koch, Jr., M.D.", 
-    "cultures": [], 
-    "dimensions": "11 9/16 x 9 3/16 in (image) \n17 3/4 x 14 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 63535, 
-    "materials": "drypoint on off-white laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Verlag der Mar\u00e9es-Gesellschaft, R. Piper & Co."
-        }
-    ], 
-    "rights": "\u00a9 2007 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn", 
-    "title": "Self-Portrait with Stylus (Selbstbildnis mit Griffel)"
+  "publishers": [
+    {
+      "name": "Verlag der Mar\u00e9es-Gesellschaft, R. Piper & Co."
+    }
+  ], 
+  "dimensions": "11 9/16 x 9 3/16 in (image) \n17 3/4 x 14 1/2 in (sheet)", 
+  "rights": "\u00a9 2007 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn", 
+  "credit_line": "Gift of Edwin F. Koch, Jr., M.D.", 
+  "accession_number": "2006.63", 
+  "title": "Self-Portrait with Stylus (Selbstbildnis mit Griffel)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278625, 
+  "creation_date": "about 1916", 
+  "materials": "drypoint on off-white laid paper", 
+  "actors": [
+    {
+      "name": "Beckmann, Max", 
+      "after_follower": null, 
+      "death_date": "1950", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301063, 
+      "role": "Artist", 
+      "birth_date": "1884", 
+      "nationality": null
+    }, 
+    {
+      "name": "Franz Hanfstaengel", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306659, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63535, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.216", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": "1998", 
-            "name": "Erik Hoglund", 
-            "nationality": "Swedish", 
-            "role": "designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kosta Boda", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "5 x 9 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 69776, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bowl"
+  "publishers": [], 
+  "dimensions": "5 x 9 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.216", 
+  "title": "Bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18285561, 
+  "creation_date": null, 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Erik Hoglund", 
+      "after_follower": null, 
+      "death_date": "1998", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308285, 
+      "role": "designer", 
+      "birth_date": "1932", 
+      "nationality": "Swedish"
+    }, 
+    {
+      "name": "Kosta Boda", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307185, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69776, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

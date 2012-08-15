@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.346", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1958", 
-            "death_date": null, 
-            "name": "Lovegrove, Ross", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bernhardt Design USA", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Gift of Bernhardt Design USA", 
-    "cultures": [], 
-    "dimensions": "30 x 22 1/2 x 26 in.", 
-    "dynasty": null, 
-    "irn": 64746, 
-    "materials": "magnesium-aluminum and polycarbonate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ross Lovegrove", 
-    "title": "Go chair"
+  "publishers": [], 
+  "dimensions": "30 x 22 1/2 x 26 in.", 
+  "rights": "\u00a9 Ross Lovegrove", 
+  "credit_line": "Gift of Bernhardt Design USA", 
+  "accession_number": "2009.346", 
+  "title": "Go chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279261, 
+  "creation_date": "1998", 
+  "materials": "magnesium-aluminum and polycarbonate", 
+  "actors": [
+    {
+      "name": "Lovegrove, Ross", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307041, 
+      "role": "Designer", 
+      "birth_date": "1958", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bernhardt Design USA", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307047, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64746, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

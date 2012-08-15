@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.529A-K", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1964", 
-            "death_date": null, 
-            "name": "Marti Guixe", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Galeria H2O", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Gift of Joaquin Ruiz Millet and Ana Planella, Galeria H2O, Barcelona", 
-    "cultures": [], 
-    "dimensions": "30 3/4 x 16 x 10 in.", 
-    "dynasty": null, 
-    "irn": 64699, 
-    "materials": "resin and existing books", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Marti Guixe", 
-    "title": "Galeria H2O chair"
+  "publishers": [], 
+  "dimensions": "30 3/4 x 16 x 10 in.", 
+  "rights": "\u00a9 Marti Guixe", 
+  "credit_line": "Gift of Joaquin Ruiz Millet and Ana Planella, Galeria H2O, Barcelona", 
+  "accession_number": "2009.529A-K", 
+  "title": "Galeria H2O chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279211, 
+  "creation_date": "1998", 
+  "materials": "resin and existing books", 
+  "actors": [
+    {
+      "name": "Marti Guixe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306953, 
+      "role": "Designer", 
+      "birth_date": "1964", 
+      "nationality": null
+    }, 
+    {
+      "name": "Galeria H2O", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306957, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64699, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "38.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1552", 
-            "death_date": "1648", 
-            "name": "Longhi, Barbara", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1580-1585", 
-    "credit_line": "Gift of Mrs. Albert J. Beveridge", 
-    "cultures": [], 
-    "dimensions": "17 1/4 x 11 3/8 in.", 
-    "dynasty": null, 
-    "irn": 33494, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna and Child"
+  "publishers": [], 
+  "dimensions": "17 1/4 x 11 3/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Albert J. Beveridge", 
+  "accession_number": "38.6", 
+  "title": "Madonna and Child", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224205, 
+  "creation_date": "about 1580-1585", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Longhi, Barbara", 
+      "after_follower": null, 
+      "death_date": "1648", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303395, 
+      "role": "Artist", 
+      "birth_date": "1552", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33494, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

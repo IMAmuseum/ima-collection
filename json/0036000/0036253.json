@@ -1,34 +1,40 @@
 {
-    "accession_number": "79.550", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1863", 
-            "death_date": "1963", 
-            "name": "Carder, Frederick", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Steuben Glass Works", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1920-1932", 
-    "credit_line": "Gift of Mrs. Sylvia Orrell in memory of Col. and Mrs. F. J. Keelty", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36253, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Sylvia Orrell in memory of Col. and Mrs. F. J. Keelty", 
+  "accession_number": "79.550", 
+  "title": "vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230525, 
+  "creation_date": "about 1920-1932", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Carder, Frederick", 
+      "after_follower": null, 
+      "death_date": "1963", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299561, 
+      "role": "Designer", 
+      "birth_date": "1863", 
+      "nationality": null
+    }, 
+    {
+      "name": "Steuben Glass Works", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299467, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 36253, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "49.46F", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1925", 
-            "death_date": null, 
-            "name": "Vian, Orfeo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1949", 
-    "credit_line": "Gift of the John Herron Art School Alumni Association", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8448, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Incredulity of St. Thomas"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Incredulity of St. Thomas", 
+  "accession_number": "49.46F", 
+  "credit_line": "Gift of the John Herron Art School Alumni Association", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151267, 
+  "creation_date": "1949", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "Vian, Orfeo", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297385, 
+      "role": "Artist", 
+      "birth_date": "1925", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8448, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

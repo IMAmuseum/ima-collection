@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.396", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": "1987", 
-            "name": "Warhol, Andy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1971", 
-    "credit_line": "Gift of Mr. Robert Meltzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4930, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists Rights Society (ARS),  New York", 
-    "title": "Electric Chair (magenta, red, muted yellow, orange, black, white)"
+  "publishers": [], 
+  "rights": "\u00a9 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists Rights Society (ARS),  New York", 
+  "dimensions": null, 
+  "title": "Electric Chair (magenta, red, muted yellow, orange, black, white)", 
+  "accession_number": "74.396", 
+  "credit_line": "Gift of Mr. Robert Meltzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142945, 
+  "creation_date": "1971", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Warhol, Andy", 
+      "after_follower": null, 
+      "death_date": "1987", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296963, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4930, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

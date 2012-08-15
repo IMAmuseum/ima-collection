@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.35", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1914", 
-            "death_date": "2007", 
-            "name": "Wegner, Hans J.", 
-            "nationality": null, 
-            "role": "designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Mikael Laursen", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "circa 1942", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "32 x 24 x 21 in.", 
-    "dynasty": null, 
-    "irn": 69168, 
-    "materials": "cloth, oak", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "ML-33 Rocking Chair"
+  "publishers": [], 
+  "dimensions": "32 x 24 x 21 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.35", 
+  "title": "ML-33 Rocking Chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284263, 
+  "creation_date": "circa 1942", 
+  "materials": "cloth, oak", 
+  "actors": [
+    {
+      "name": "Wegner, Hans J.", 
+      "after_follower": null, 
+      "death_date": "2007", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307455, 
+      "role": "designer", 
+      "birth_date": "1914", 
+      "nationality": null
+    }, 
+    {
+      "name": "Mikael Laursen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308191, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69168, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

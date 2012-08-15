@@ -1,26 +1,30 @@
 {
-    "accession_number": "43.109", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1500", 
-            "death_date": "1575", 
-            "name": "Corneille de Lyon", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1540", 
-    "credit_line": "Gift in commemoration of the 60th Anniversary of the Art Association of Indianapolis.  In memory of Daniel W. and Elizabeth C. Marmon", 
-    "cultures": [], 
-    "dimensions": "8 x 6 1/2 in.", 
-    "dynasty": null, 
-    "irn": 30841, 
-    "materials": "oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Man with a Glove"
+  "publishers": [], 
+  "dimensions": "8 x 6 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift in commemoration of the 60th Anniversary of the Art Association of Indianapolis.  In memory of Daniel W. and Elizabeth C. Marmon", 
+  "accession_number": "43.109", 
+  "title": "Portrait of a Man with a Glove", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18218039, 
+  "creation_date": "about 1540", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Corneille de Lyon", 
+      "after_follower": null, 
+      "death_date": "1575", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300409, 
+      "role": "Artist", 
+      "birth_date": "1500", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30841, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

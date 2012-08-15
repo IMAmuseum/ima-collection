@@ -1,26 +1,30 @@
 {
-    "accession_number": "04.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1839", 
-            "death_date": "1921", 
-            "name": "Heymans, Adriaan Joseph", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Purchased at the St. Louis Exposition", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46697, 
-    "materials": "Oil", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "An October Afternoon"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Purchased at the St. Louis Exposition", 
+  "accession_number": "04.20", 
+  "title": "An October Afternoon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18257129, 
+  "creation_date": null, 
+  "materials": "Oil", 
+  "actors": [
+    {
+      "name": "Heymans, Adriaan Joseph", 
+      "after_follower": null, 
+      "death_date": "1921", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296817, 
+      "role": "Artist", 
+      "birth_date": "1839", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46697, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

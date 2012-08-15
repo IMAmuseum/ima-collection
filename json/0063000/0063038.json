@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.7H-L", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "O. Henry", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1912", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "10 x 7 1/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 63038, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Doubleday, Page & Co."
-        }
-    ], 
-    "rights": null, 
-    "title": "The Complete Works of O. Henry"
+  "publishers": [
+    {
+      "name": "Doubleday, Page & Co."
+    }
+  ], 
+  "dimensions": "10 x 7 1/8 in. (each)", 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "LH2003.7H-L", 
+  "title": "The Complete Works of O. Henry", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278221, 
+  "creation_date": "1912", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "O. Henry", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306099, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63038, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

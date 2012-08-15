@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.825.50", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Miller, John Frederick", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Green, Benjamin", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1765", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37988, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Allegorical: On the Publication of The Marmora Oxoniensia"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.50", 
+  "title": "Allegorical: On the Publication of The Marmora Oxoniensia", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234913, 
+  "creation_date": "1765", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Miller, John Frederick", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304205, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Green, Benjamin", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304201, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 37988, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

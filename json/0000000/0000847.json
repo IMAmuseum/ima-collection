@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": null, 
-            "name": "Kipniss, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Carl H. Lieber and Jacob Metzger Memorial Funds", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 847, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Secrets"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Secrets", 
+  "accession_number": "80.4", 
+  "credit_line": "Carl H. Lieber and Jacob Metzger Memorial Funds", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133235, 
+  "creation_date": "1979", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Kipniss, Robert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295241, 
+      "role": "Artist", 
+      "birth_date": "1931", 
+      "nationality": null
+    }
+  ], 
+  "irn": 847, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

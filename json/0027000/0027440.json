@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1758", 
-            "death_date": "1810", 
-            "name": "Hoppner, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1800", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "92 1/2 x 56 in.", 
-    "dynasty": null, 
-    "irn": 27440, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Henry Augustus Berkeley Craven and Keppel Richard Craven"
+  "publishers": [], 
+  "dimensions": "92 1/2 x 56 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "75.20", 
+  "title": "Henry Augustus Berkeley Craven and Keppel Richard Craven", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18210099, 
+  "creation_date": "1800", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Hoppner, John", 
+      "after_follower": null, 
+      "death_date": "1810", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300835, 
+      "role": "Artist", 
+      "birth_date": "1758", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27440, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

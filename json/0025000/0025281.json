@@ -1,26 +1,30 @@
 {
-    "accession_number": "1988.59", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1962", 
-            "name": "Lewis, Martin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1918", 
-    "credit_line": "Gift of Thomas French", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25281, 
-    "materials": "steel faced copper engraving plate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "mezzotint plate for \"Winter Moon\""
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Thomas French", 
+  "accession_number": "1988.59", 
+  "title": "mezzotint plate for \"Winter Moon\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205011, 
+  "creation_date": "1918", 
+  "materials": "steel faced copper engraving plate", 
+  "actors": [
+    {
+      "name": "Lewis, Martin", 
+      "after_follower": null, 
+      "death_date": "1962", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297693, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25281, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

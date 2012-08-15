@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.124", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1896", 
-            "name": "Morris, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mitchell Kennedy (Anderson Galleries)", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 22295, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Keepsake (?)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mitchell Kennedy (Anderson Galleries)", 
+  "accession_number": "24.124", 
+  "title": "Keepsake (?)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18198091, 
+  "creation_date": "19th century", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Morris, William", 
+      "after_follower": null, 
+      "death_date": "1896", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296011, 
+      "role": "Artist", 
+      "birth_date": "1834", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22295, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

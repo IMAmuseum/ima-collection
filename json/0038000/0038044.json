@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.825.108", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1787-1788", 
-            "death_date": "1854", 
-            "name": "Mackenzie, Frederick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1836", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38044, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Interior of the Radcliffe Library"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.108", 
+  "title": "Interior of the Radcliffe Library", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235083, 
+  "creation_date": "1836", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Mackenzie, Frederick", 
+      "after_follower": null, 
+      "death_date": "1854", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304219, 
+      "role": "Artist", 
+      "birth_date": "1787-1788", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38044, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

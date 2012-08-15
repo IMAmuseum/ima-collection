@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.258A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1942", 
-            "death_date": null, 
-            "name": "Jan Roth", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ingo Maurer GmbH", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Murray Moss and Franklin Getchell", 
-    "cultures": [], 
-    "dimensions": "A) lamp: 18 3/4 x 10 1/2 in.; B) box: 22 1/2 x 10 3/8 x 10 3/8 in.", 
-    "dynasty": null, 
-    "irn": 69466, 
-    "materials": "polystyrene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jan Roth", 
-    "title": "Metropolight lamp"
+  "publishers": [], 
+  "dimensions": "A) lamp: 18 3/4 x 10 1/2 in.; B) box: 22 1/2 x 10 3/8 x 10 3/8 in.", 
+  "rights": "\u00a9 Jan Roth", 
+  "credit_line": "Gift of Murray Moss and Franklin Getchell", 
+  "accession_number": "2010.258A-B", 
+  "title": "Metropolight lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284859, 
+  "creation_date": "1970", 
+  "materials": "polystyrene", 
+  "actors": [
+    {
+      "name": "Jan Roth", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308241, 
+      "role": "Designer", 
+      "birth_date": "1942", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ingo Maurer GmbH", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307865, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69466, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

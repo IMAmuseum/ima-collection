@@ -1,26 +1,30 @@
 {
-    "accession_number": "1986.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1930", 
-            "death_date": null, 
-            "name": "Bailey, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Clarence O. Hamilton Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14731, 
-    "materials": "pencil on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 William Bailey", 
-    "title": "figure"
+  "publishers": [], 
+  "rights": "\u00a9 William Bailey", 
+  "dimensions": null, 
+  "title": "figure", 
+  "accession_number": "1986.4", 
+  "credit_line": "Clarence O. Hamilton Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166443, 
+  "creation_date": "1978", 
+  "materials": "pencil on white paper", 
+  "actors": [
+    {
+      "name": "Bailey, William", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295185, 
+      "role": "Artist", 
+      "birth_date": "1930", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14731, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

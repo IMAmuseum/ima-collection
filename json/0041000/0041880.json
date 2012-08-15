@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1727.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775-1802", 
-            "death_date": "1775-1802", 
-            "name": "Girtin, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1791", 
-            "death_date": "1873", 
-            "name": "Lupton, Thomas Goff", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1825", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41880, 
-    "materials": "mezzotint on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ripon Minster on the Rivers Ure and Skell"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1727.15", 
+  "title": "Ripon Minster on the Rivers Ure and Skell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18245813, 
+  "creation_date": "1825", 
+  "materials": "mezzotint on plain paper", 
+  "actors": [
+    {
+      "name": "Girtin, Thomas", 
+      "after_follower": null, 
+      "death_date": "1775-1802", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297187, 
+      "role": "Artist", 
+      "birth_date": "1775-1802", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lupton, Thomas Goff", 
+      "after_follower": null, 
+      "death_date": "1873", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295089, 
+      "role": "Engraver", 
+      "birth_date": "1791", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41880, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

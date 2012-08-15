@@ -1,26 +1,30 @@
 {
-    "accession_number": "S2210.77.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "late 19th-early 20th century", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "28 x 26 in.", 
-    "dynasty": null, 
-    "irn": 62441, 
-    "materials": "metal and silk embroidery on velvet", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "cover"
+  "publishers": [], 
+  "dimensions": "28 x 26 in.", 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "S2210.77.1", 
+  "title": "cover", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277667, 
+  "creation_date": "late 19th-early 20th century", 
+  "materials": "metal and silk embroidery on velvet", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62441, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "43.29", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1977", 
-            "name": "Schreiber, Georges", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36000, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Noon"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Jacob Metzger Fund", 
+  "accession_number": "43.29", 
+  "title": "Noon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229925, 
+  "creation_date": "20th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Schreiber, Georges", 
+      "after_follower": null, 
+      "death_date": "1977", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298561, 
+      "role": "Artist", 
+      "birth_date": "1904", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36000, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

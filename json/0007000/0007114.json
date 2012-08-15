@@ -1,26 +1,30 @@
 {
-    "accession_number": "1988.259", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1856", 
-            "death_date": "1909", 
-            "name": "Bacher, Otto Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1880", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mr. and Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7114, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fondamenta Delle Zattere"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Fondamenta Delle Zattere", 
+  "accession_number": "1988.259", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mr. and Mrs. H. L. Conant", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18148165, 
+  "creation_date": "1880", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Bacher, Otto Henry", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295559, 
+      "role": "Artist", 
+      "birth_date": "1856", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7114, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

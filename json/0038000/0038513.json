@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.900", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1778", 
-            "death_date": "1855", 
-            "name": "Cooke, William Bernard", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "9/1/1816", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38513, 
-    "materials": "engraving on copper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Brightling Observatory, Seen From Rosehill Park"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.900", 
+  "title": "Brightling Observatory, Seen From Rosehill Park", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18236363, 
+  "creation_date": "9/1/1816", 
+  "materials": "engraving on copper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cooke, William Bernard", 
+      "after_follower": null, 
+      "death_date": "1855", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299997, 
+      "role": "Engraver", 
+      "birth_date": "1778", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38513, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

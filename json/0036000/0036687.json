@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.189", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1951", 
-            "name": "Sloan, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1916", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36687, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Delaware Art Museum/ Artists Rights Society (ARS), New York", 
-    "title": "McSorley's Back Room"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Delaware Art Museum/ Artists Rights Society (ARS), New York", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "47.189", 
+  "title": "McSorley's Back Room", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231561, 
+  "creation_date": "1916", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Sloan, John", 
+      "after_follower": null, 
+      "death_date": "1951", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295703, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36687, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

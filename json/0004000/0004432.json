@@ -1,26 +1,30 @@
 {
-    "accession_number": "66.182", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1813", 
-            "death_date": "1888", 
-            "name": "Currier, Nathaniel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1842", 
-    "credit_line": "Gift of Mrs. M. S. Cassen", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4432, 
-    "materials": "hand-colored lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Tomb of Genl. W. H. Harrison"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Tomb of Genl. W. H. Harrison", 
+  "accession_number": "66.182", 
+  "credit_line": "Gift of Mrs. M. S. Cassen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18141805, 
+  "creation_date": "1842", 
+  "materials": "hand-colored lithograph", 
+  "actors": [
+    {
+      "name": "Currier, Nathaniel", 
+      "after_follower": null, 
+      "death_date": "1888", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294763, 
+      "role": "Artist", 
+      "birth_date": "1813", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4432, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

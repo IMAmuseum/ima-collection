@@ -1,34 +1,40 @@
 {
-    "accession_number": "78.327", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": "Follower of", 
-            "birth_date": "1688", 
-            "death_date": "1766", 
-            "name": "Castiglione, Giuseppe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1800", 
-    "credit_line": "Gift of Mr. Edward Huber Dunlap", 
-    "cultures": [], 
-    "dimensions": "18 x 268 1/4", 
-    "dynasty": "Qing dynasty", 
-    "irn": 12199, 
-    "materials": "Ink On Satin | Brown Wash", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "100 Horses and Grooms"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "18 x 268 1/4", 
+  "title": "100 Horses and Grooms", 
+  "accession_number": "78.327", 
+  "credit_line": "Gift of Mr. Edward Huber Dunlap", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160169, 
+  "creation_date": "about 1800", 
+  "materials": "Ink On Satin | Brown Wash", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Castiglione, Giuseppe", 
+      "after_follower": "Follower of", 
+      "death_date": "1766", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298995, 
+      "role": "Artist", 
+      "birth_date": "1688", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12199, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

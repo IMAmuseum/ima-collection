@@ -1,26 +1,30 @@
 {
-    "accession_number": "2008.151", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1971", 
-            "name": "Baumann, Gustave", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1905", 
-    "credit_line": "Gift of Ann Baumann", 
-    "cultures": [], 
-    "dimensions": "19 x 16 3/4 in. (image)\n23 1/4 x 17 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 65309, 
-    "materials": "color linocut on ivory wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gustave Baumann", 
-    "title": "Munich Residence"
+  "publishers": [], 
+  "dimensions": "19 x 16 3/4 in. (image)\n23 1/4 x 17 7/8 in. (sheet)", 
+  "rights": "\u00a9 Gustave Baumann", 
+  "credit_line": "Gift of Ann Baumann", 
+  "accession_number": "2008.151", 
+  "title": "Munich Residence", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279937, 
+  "creation_date": "1905", 
+  "materials": "color linocut on ivory wove paper", 
+  "actors": [
+    {
+      "name": "Baumann, Gustave", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295839, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 65309, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

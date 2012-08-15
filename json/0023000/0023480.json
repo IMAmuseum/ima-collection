@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.387", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": "1999", 
-            "name": "Edmund Brucker", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. R. Norris Shreve", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23480, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Dr. R. Norris Shreve"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. R. Norris Shreve", 
+  "accession_number": "77.387", 
+  "title": "Portrait of Dr. R. Norris Shreve", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200859, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Edmund Brucker", 
+      "after_follower": null, 
+      "death_date": "1999", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294855, 
+      "role": "Artist", 
+      "birth_date": "1912", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23480, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

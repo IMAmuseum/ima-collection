@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.241", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1898", 
-            "death_date": "1962", 
-            "name": "Mess, George Jo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1941", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mr. and Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1030, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Summer Solitude"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Summer Solitude", 
+  "accession_number": "1985.241", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mr. and Mrs. H. L. Conant", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133695, 
+  "creation_date": "1941", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Mess, George Jo", 
+      "after_follower": null, 
+      "death_date": "1962", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295305, 
+      "role": "Artist", 
+      "birth_date": "1898", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1030, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.19", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1780", 
-            "death_date": "1867", 
-            "name": "Ingres, Jean Auguste Dominique", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "late 18th century - mid 19th century", 
-    "credit_line": "Gift of Mrs. William H. Thompson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20200, 
-    "materials": "pencil on tracing paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Paolo and Francesca"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. William H. Thompson", 
+  "accession_number": "47.19", 
+  "title": "Paolo and Francesca", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193343, 
+  "creation_date": "late 18th century - mid 19th century", 
+  "materials": "pencil on tracing paper", 
+  "actors": [
+    {
+      "name": "Ingres, Jean Auguste Dominique", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296943, 
+      "role": "Artist", 
+      "birth_date": "1780", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20200, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

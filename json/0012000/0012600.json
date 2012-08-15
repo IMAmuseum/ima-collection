@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1959", 
-            "name": "McBey, James", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12600, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Surrey Down"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Surrey Down", 
+  "accession_number": "25.32", 
+  "credit_line": "Bequest of Delavan Smith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18161405, 
+  "creation_date": "20th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "McBey, James", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299083, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12600, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

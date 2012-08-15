@@ -1,26 +1,30 @@
 {
-    "accession_number": "65.147", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Meissen Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1745", 
-    "credit_line": "Gift of Mrs. Robertine Daniels", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4613, 
-    "materials": "pencil", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Africa"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Africa", 
+  "accession_number": "65.147", 
+  "credit_line": "Gift of Mrs. Robertine Daniels", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142207, 
+  "creation_date": "about 1745", 
+  "materials": "pencil", 
+  "actors": [
+    {
+      "name": "Meissen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294771, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 4613, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

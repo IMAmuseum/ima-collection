@@ -1,26 +1,30 @@
 {
-    "accession_number": "76.257", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1715", 
-            "death_date": "1808", 
-            "name": "Wille, Johann Georg", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Robert Brady Adams", 
-    "cultures": [], 
-    "dimensions": "10 x 7 1/2 in. (plate)\n21 5/8 x 19 1/8 in. (framed)", 
-    "dynasty": null, 
-    "irn": 15700, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Soeur de la Bonne Femme de Normandie"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "10 x 7 1/2 in. (plate)\n21 5/8 x 19 1/8 in. (framed)", 
+  "title": "Soeur de la Bonne Femme de Normandie", 
+  "accession_number": "76.257", 
+  "credit_line": "Gift of Mrs. Robert Brady Adams", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168629, 
+  "creation_date": null, 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Wille, Johann Georg", 
+      "after_follower": null, 
+      "death_date": "1808", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299949, 
+      "role": "Artist", 
+      "birth_date": "1715", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15700, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

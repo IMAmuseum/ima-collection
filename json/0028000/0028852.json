@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.11.105", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Beardsley, Aubrey Vincent", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1894", 
-    "credit_line": "Museum Acquisition", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28852, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "For Sale Here - The Yellow Book"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Museum Acquisition", 
+  "accession_number": "67.11.105", 
+  "title": "For Sale Here - The Yellow Book", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213403, 
+  "creation_date": "1894", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Beardsley, Aubrey Vincent", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302677, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 28852, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

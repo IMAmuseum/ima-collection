@@ -1,26 +1,30 @@
 {
-    "accession_number": "62.148", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1592", 
-            "death_date": "1635", 
-            "name": "Callot, Jacques", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1618-1621", 
-    "credit_line": "Gift of Mr. T. Victor Keene", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1677, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Man with Big Sword"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Man with Big Sword", 
+  "accession_number": "62.148", 
+  "credit_line": "Gift of Mr. T. Victor Keene", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135289, 
+  "creation_date": "1618-1621", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Callot, Jacques", 
+      "after_follower": null, 
+      "death_date": "1635", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295121, 
+      "role": "Artist", 
+      "birth_date": "1592", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1677, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

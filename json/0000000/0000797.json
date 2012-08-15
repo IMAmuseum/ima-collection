@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.800", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1930", 
-            "death_date": null, 
-            "name": "Bailey, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of Dr. and Mrs. Norbet Neuss", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 797, 
-    "materials": "collotype", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 William Bailey", 
-    "title": "Still Life with Eggs, Candlestick and Bowl"
+  "publishers": [], 
+  "rights": "\u00a9 William Bailey", 
+  "dimensions": null, 
+  "title": "Still Life with Eggs, Candlestick and Bowl", 
+  "accession_number": "81.800", 
+  "credit_line": "Gift of Dr. and Mrs. Norbet Neuss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133107, 
+  "creation_date": "1975", 
+  "materials": "collotype", 
+  "actors": [
+    {
+      "name": "Bailey, William", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295185, 
+      "role": "Artist", 
+      "birth_date": "1930", 
+      "nationality": null
+    }
+  ], 
+  "irn": 797, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

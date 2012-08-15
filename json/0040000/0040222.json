@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1320.118", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1787", 
-            "death_date": "1819", 
-            "name": "Harlow, George Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1818", 
-            "death_date": "1843", 
-            "name": "Hollis, Thomas", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1834", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40222, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "M. G. Lewis"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1320.118", 
+  "title": "M. G. Lewis", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18241175, 
+  "creation_date": "1834", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Harlow, George Henry", 
+      "after_follower": null, 
+      "death_date": "1819", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299189, 
+      "role": "Artist", 
+      "birth_date": "1787", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hollis, Thomas", 
+      "after_follower": null, 
+      "death_date": "1843", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304607, 
+      "role": "Engraver", 
+      "birth_date": "1818", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40222, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

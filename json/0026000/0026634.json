@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.72", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Vierge, Daniel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26634, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Malaguena"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "11.72", 
+  "title": "Malaguena", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18208153, 
+  "creation_date": "19th century", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Vierge, Daniel", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302307, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 26634, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

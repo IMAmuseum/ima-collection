@@ -1,26 +1,30 @@
 {
-    "accession_number": "10.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Lalanne, Maxime", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1867", 
-    "credit_line": "Gift of George C. Calvert", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5671, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Vue prise du Pont de la Concorde"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Vue prise du Pont de la Concorde", 
+  "accession_number": "10.5", 
+  "credit_line": "Gift of George C. Calvert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144691, 
+  "creation_date": "1867", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Lalanne, Maxime", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295817, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 5671, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

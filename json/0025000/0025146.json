@@ -1,26 +1,30 @@
 {
-    "accession_number": "08.72", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1606", 
-            "death_date": "1669", 
-            "name": "Rembrandt van Rijn", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1634", 
-    "credit_line": "Purchased from the John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25146, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Joseph and Potiphar's Wife"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Purchased from the John Herron Fund", 
+  "accession_number": "08.72", 
+  "title": "Joseph and Potiphar's Wife", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204701, 
+  "creation_date": "1634", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Rembrandt van Rijn", 
+      "after_follower": null, 
+      "death_date": "1669", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295685, 
+      "role": "Artist", 
+      "birth_date": "1606", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25146, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

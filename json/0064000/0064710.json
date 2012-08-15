@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.517", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1967", 
-            "death_date": null, 
-            "name": "Richard Hutten", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Droog Design", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1997", 
-    "credit_line": "Gift of Abel and Boris Hutten", 
-    "cultures": [], 
-    "dimensions": "26 1/16 x 11 13/16 x 14 3/16 in.", 
-    "dynasty": null, 
-    "irn": 64710, 
-    "materials": "polyurethane", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Richard Hutten", 
-    "title": "Bronto chair"
+  "publishers": [], 
+  "dimensions": "26 1/16 x 11 13/16 x 14 3/16 in.", 
+  "rights": "\u00a9 Richard Hutten", 
+  "credit_line": "Gift of Abel and Boris Hutten", 
+  "accession_number": "2009.517", 
+  "title": "Bronto chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279225, 
+  "creation_date": "1997", 
+  "materials": "polyurethane", 
+  "actors": [
+    {
+      "name": "Richard Hutten", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306987, 
+      "role": "Designer", 
+      "birth_date": "1967", 
+      "nationality": null
+    }, 
+    {
+      "name": "Droog Design", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306817, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64710, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "29.189", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1808-1897", 
-            "death_date": "1808-1897", 
-            "name": "Sartain, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ja. Irwin, Philadelphia", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1853", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20373, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Henry Clay"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "29.189", 
+  "title": "Henry Clay", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193719, 
+  "creation_date": "1853", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Sartain, John", 
+      "after_follower": null, 
+      "death_date": "1808-1897", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300995, 
+      "role": "Artist", 
+      "birth_date": "1808-1897", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ja. Irwin, Philadelphia", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300997, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 20373, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

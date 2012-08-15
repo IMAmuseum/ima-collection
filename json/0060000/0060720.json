@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.39", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1894-1985", 
-            "death_date": "1894-1985", 
-            "name": "Kert\u00e9sz, Andr\u00e9", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1919", 
-    "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "4 x 5 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 60720, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Estate of Andre Kertesz", 
-    "title": "My Mother's Hands, Budapest"
+  "publishers": [], 
+  "dimensions": "4 x 5 1/4 in. (sheet)", 
+  "rights": "\u00a9 The Estate of Andre Kertesz", 
+  "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
+  "accession_number": "2003.39", 
+  "title": "My Mother's Hands, Budapest", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276669, 
+  "creation_date": "1919", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Kert\u00e9sz, Andr\u00e9", 
+      "after_follower": null, 
+      "death_date": "1894-1985", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305895, 
+      "role": "Artist", 
+      "birth_date": "1894-1985", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60720, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

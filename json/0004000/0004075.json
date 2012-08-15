@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.115", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1806", 
-            "death_date": "1843", 
-            "name": "Jacottet, Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th Century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4075, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fete of St. Isidro del Cambo at Madrid"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Fete of St. Isidro del Cambo at Madrid", 
+  "accession_number": "09.115", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140947, 
+  "creation_date": "19th Century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Jacottet, Jean", 
+      "after_follower": null, 
+      "death_date": "1843", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296669, 
+      "role": "Artist", 
+      "birth_date": "1806", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4075, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

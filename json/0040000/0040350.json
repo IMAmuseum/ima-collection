@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1352.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1806", 
-            "death_date": "1867", 
-            "name": "Jeavons, Thomas", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40350, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Canal of the Loire and Cher Near Tours"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1352.8", 
+  "title": "The Canal of the Loire and Cher Near Tours", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18241539, 
+  "creation_date": "1833", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Jeavons, Thomas", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300289, 
+      "role": "Engraver", 
+      "birth_date": "1806", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40350, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

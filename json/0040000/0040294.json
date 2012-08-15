@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1320.91", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1794", 
-            "death_date": "1872", 
-            "name": "Page, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1787", 
-            "death_date": "1852", 
-            "name": "Finden, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40294, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Parthenon"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1320.91", 
+  "title": "The Parthenon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18241381, 
+  "creation_date": "1833", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Page, William", 
+      "after_follower": null, 
+      "death_date": "1872", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304629, 
+      "role": "Artist", 
+      "birth_date": "1794", 
+      "nationality": null
+    }, 
+    {
+      "name": "Finden, William", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304393, 
+      "role": "Engraver", 
+      "birth_date": "1787", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40294, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

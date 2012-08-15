@@ -1,26 +1,30 @@
 {
-    "accession_number": "07.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1853", 
-            "death_date": "1902", 
-            "name": "Twachtman, John Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1900", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "27 x 30 in.\n34 5/8 x 39 1/2 in.", 
-    "dynasty": null, 
-    "irn": 10922, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Summer Day"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "27 x 30 in.\n34 5/8 x 39 1/2 in.", 
+  "title": "A Summer Day", 
+  "accession_number": "07.3", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157255, 
+  "creation_date": "about 1900", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Twachtman, John Henry", 
+      "after_follower": null, 
+      "death_date": "1902", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298715, 
+      "role": "Artist", 
+      "birth_date": "1853", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10922, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

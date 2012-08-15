@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.225", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1744", 
-            "death_date": "1818", 
-            "name": "Cook, Thomas", 
-            "nationality": "English", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23742, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Beggars"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.225", 
+  "title": "The Beggars", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18201473, 
+  "creation_date": "19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Cook, Thomas", 
+      "after_follower": null, 
+      "death_date": "1818", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298159, 
+      "role": "Artist", 
+      "birth_date": "1744", 
+      "nationality": "English"
+    }
+  ], 
+  "irn": 23742, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

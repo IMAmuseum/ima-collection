@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.43", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1817", 
-            "death_date": "1878", 
-            "name": "Daubigny, Charles Fran\u00e7ois", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1855", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6747, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Buisson"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Le Buisson", 
+  "accession_number": "11.43", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147273, 
+  "creation_date": "1855", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Daubigny, Charles Fran\u00e7ois", 
+      "after_follower": null, 
+      "death_date": "1878", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294829, 
+      "role": "Artist", 
+      "birth_date": "1817", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6747, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

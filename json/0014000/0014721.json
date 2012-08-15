@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.241", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Henriquez, Benott Louis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14721, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna and Child with Saints"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Madonna and Child with Saints", 
+  "accession_number": "09.241", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166419, 
+  "creation_date": "18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Henriquez, Benott Louis", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296985, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 14721, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

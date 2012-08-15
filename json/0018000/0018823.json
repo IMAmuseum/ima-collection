@@ -1,26 +1,30 @@
 {
-    "accession_number": "08.67", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1610", 
-            "death_date": "1685", 
-            "name": "Ostade, Adriaen van", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "7 1/8 x 6 5/16 inches", 
-    "dynasty": null, 
-    "irn": 18823, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Family"
+  "publishers": [], 
+  "dimensions": "7 1/8 x 6 5/16 inches", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "08.67", 
+  "title": "The Family", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190147, 
+  "creation_date": null, 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Ostade, Adriaen van", 
+      "after_follower": null, 
+      "death_date": "1685", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295243, 
+      "role": "Artist", 
+      "birth_date": "1610", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18823, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

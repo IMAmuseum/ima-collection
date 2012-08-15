@@ -1,30 +1,34 @@
 {
-    "accession_number": "27.115", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1874", 
-    "credit_line": "Anonymous Gift", 
-    "cultures": [], 
-    "dimensions": "7 1/4 x 6 in. (image)\n11 3/8 x 7 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 45715, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "A. W. Sijthoff"
-        }
-    ], 
-    "rights": null, 
-    "title": "Portrait of Nicolaas Bruyningh"
+  "publishers": [
+    {
+      "name": "A. W. Sijthoff"
+    }
+  ], 
+  "dimensions": "7 1/4 x 6 in. (image)\n11 3/8 x 7 7/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Anonymous Gift", 
+  "accession_number": "27.115", 
+  "title": "Portrait of Nicolaas Bruyningh", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254939, 
+  "creation_date": "1874", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 45715, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "39.83", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1880-1885", 
-    "credit_line": "Gift of Brandt Steele", 
-    "cultures": [], 
-    "dimensions": "18 x 23 5/8 inches(framed)", 
-    "dynasty": null, 
-    "irn": 24366, 
-    "materials": "charcoal on green-grey paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "German Cottage"
+  "publishers": [], 
+  "dimensions": "18 x 23 5/8 inches(framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Brandt Steele", 
+  "accession_number": "39.83", 
+  "title": "German Cottage", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18202917, 
+  "creation_date": "1880-1885", 
+  "materials": "charcoal on green-grey paper", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24366, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

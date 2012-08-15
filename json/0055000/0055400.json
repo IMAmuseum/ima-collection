@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1641", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "White, George Francis", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55400, 
-    "materials": "letterpress and engravings", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": null
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1641", 
+  "title": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272595, 
+  "creation_date": "19th century", 
+  "materials": "letterpress and engravings", 
+  "actors": [
+    {
+      "name": "White, George Francis", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304683, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55400, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

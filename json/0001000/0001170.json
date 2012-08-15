@@ -1,26 +1,30 @@
 {
-    "accession_number": "68.21.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1876", 
-            "death_date": "July 18, 1948", 
-            "name": "Janet Payne Bowles", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1913", 
-    "credit_line": "Gift of Jan and Mira Bowles in memory of their mother, Janet Payne Bowles", 
-    "cultures": [], 
-    "dimensions": "4 1/4 x 2 1/4 x 2 5/8 in.", 
-    "dynasty": null, 
-    "irn": 1170, 
-    "materials": "copper, silver, yellow enamel and brass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "jewel box (model)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "4 1/4 x 2 1/4 x 2 5/8 in.", 
+  "title": "jewel box (model)", 
+  "accession_number": "68.21.10", 
+  "credit_line": "Gift of Jan and Mira Bowles in memory of their mother, Janet Payne Bowles", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134025, 
+  "creation_date": "about 1913", 
+  "materials": "copper, silver, yellow enamel and brass", 
+  "actors": [
+    {
+      "name": "Janet Payne Bowles", 
+      "after_follower": null, 
+      "death_date": "July 18, 1948", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294705, 
+      "role": "Artist", 
+      "birth_date": "1876", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1170, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "12.29.30", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1855", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 27846, 
-    "materials": "Color Woodblock Print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Station 30, Hamamatsu"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "12.29.30", 
+  "title": "Station 30, Hamamatsu", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211023, 
+  "creation_date": "1855", 
+  "materials": "Color Woodblock Print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27846, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

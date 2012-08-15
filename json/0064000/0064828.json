@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.442", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1956", 
-            "death_date": null, 
-            "name": "Mats Theselius", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "K\u00e4llemo AB", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1994", 
-    "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks, Sr., and Her Late Son, Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "27 5/8 \u00d7 23 5/8 \u00d7 24 1/2  in.", 
-    "dynasty": null, 
-    "irn": 64828, 
-    "materials": "iron, rawhide, and wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Mats Theselius", 
-    "title": "Fatolji chair"
+  "publishers": [], 
+  "dimensions": "27 5/8 \u00d7 23 5/8 \u00d7 24 1/2  in.", 
+  "rights": "\u00a9 Mats Theselius", 
+  "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks, Sr., and Her Late Son, Michael Fairbanks", 
+  "accession_number": "2009.442", 
+  "title": "Fatolji chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279369, 
+  "creation_date": "1994", 
+  "materials": "iron, rawhide, and wood", 
+  "actors": [
+    {
+      "name": "Mats Theselius", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307155, 
+      "role": "Designer", 
+      "birth_date": "1956", 
+      "nationality": null
+    }, 
+    {
+      "name": "K\u00e4llemo AB", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307019, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64828, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

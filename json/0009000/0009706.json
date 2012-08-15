@@ -1,34 +1,40 @@
 {
-    "accession_number": "79.777", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Paolozzi, Eduardo Luigi", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kelpra Studios", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1974", 
-    "credit_line": "Gift of Mr. Mark Jacobson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9706, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Karakus Doner Havada"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": null, 
+  "title": "Karakus Doner Havada", 
+  "accession_number": "79.777", 
+  "credit_line": "Gift of Mr. Mark Jacobson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154355, 
+  "creation_date": "1974", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Paolozzi, Eduardo Luigi", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295359, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Kelpra Studios", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295361, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 9706, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

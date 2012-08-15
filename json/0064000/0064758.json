@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.410", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1959", 
-            "death_date": null, 
-            "name": "Morrison, Jasper", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Cappellini Design SpA", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1991", 
-    "credit_line": "Deaccessioned Decorative/Design Art Fund", 
-    "cultures": [], 
-    "dimensions": "28 3/8 \u00d7 78 3/4 \u00d7 27 5/8 in.", 
-    "dynasty": null, 
-    "irn": 64758, 
-    "materials": "aluminum and fabric", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jasper Morrison", 
-    "title": "Three Sofa Deluxe"
+  "publishers": [], 
+  "dimensions": "28 3/8 \u00d7 78 3/4 \u00d7 27 5/8 in.", 
+  "rights": "\u00a9 Jasper Morrison", 
+  "credit_line": "Deaccessioned Decorative/Design Art Fund", 
+  "accession_number": "2009.410", 
+  "title": "Three Sofa Deluxe", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279279, 
+  "creation_date": "1991", 
+  "materials": "aluminum and fabric", 
+  "actors": [
+    {
+      "name": "Morrison, Jasper", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307081, 
+      "role": "Designer", 
+      "birth_date": "1959", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cappellini Design SpA", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306803, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64758, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.19", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1640", 
-            "death_date": "1711", 
-            "name": "B\u00e9rain, Jean, I", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1685", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "11 1/8 X 7 5/8 in. (image)\n14 5/8 X 9 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9269, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lampstand and a candlestick"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "11 1/8 X 7 5/8 in. (image)\n14 5/8 X 9 1/2 in. (sheet)", 
+  "title": "Lampstand and a candlestick", 
+  "accession_number": "73.2.19", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153321, 
+  "creation_date": "about 1685", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "B\u00e9rain, Jean, I", 
+      "after_follower": null, 
+      "death_date": "1711", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295153, 
+      "role": "Artist", 
+      "birth_date": "1640", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9269, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

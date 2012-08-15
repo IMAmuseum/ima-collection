@@ -1,26 +1,30 @@
 {
-    "accession_number": "2010.142", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1980", 
-            "name": "Howard Cook", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1950", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "2 1/8 x 3 in. (image)\n3 3/8 x 4 3/4 inches (sheet)", 
-    "dynasty": null, 
-    "irn": 68950, 
-    "materials": "woodblock print on cream Japanese paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Howard Norton Cook", 
-    "title": "Me"
+  "publishers": [], 
+  "dimensions": "2 1/8 x 3 in. (image)\n3 3/8 x 4 3/4 inches (sheet)", 
+  "rights": "\u00a9 Howard Norton Cook", 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2010.142", 
+  "title": "Me", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283923, 
+  "creation_date": "1950", 
+  "materials": "woodblock print on cream Japanese paper", 
+  "actors": [
+    {
+      "name": "Howard Cook", 
+      "after_follower": null, 
+      "death_date": "1980", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298753, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68950, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

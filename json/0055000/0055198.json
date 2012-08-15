@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.43.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1811", 
-            "death_date": "1890", 
-            "name": "Cope, Charles West", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "before 1868", 
-    "credit_line": "Gift of Mrs. Herbert S. Call", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55198, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Winter Song"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herbert S. Call", 
+  "accession_number": "72.43.4", 
+  "title": "Winter Song", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272301, 
+  "creation_date": "before 1868", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Cope, Charles West", 
+      "after_follower": null, 
+      "death_date": "1890", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305647, 
+      "role": "Artist", 
+      "birth_date": "1811", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55198, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

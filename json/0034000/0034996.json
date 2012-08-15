@@ -1,26 +1,30 @@
 {
-    "accession_number": "69.24.9.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Chelsea", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "From the estate of Miss Evelyn Craig", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34996, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Figurine"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "From the estate of Miss Evelyn Craig", 
+  "accession_number": "69.24.9.1", 
+  "title": "Figurine", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227643, 
+  "creation_date": null, 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Chelsea", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303675, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 34996, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

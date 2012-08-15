@@ -1,26 +1,30 @@
 {
-    "accession_number": "C10078B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1380", 
-            "death_date": "1480", 
-            "name": "Vall, Pere", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1400", 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "35 1/2 x 26 in.", 
-    "dynasty": null, 
-    "irn": 16419, 
-    "materials": "tempera and gold on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "St. Stephen and St. Mary Magdalene"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "35 1/2 x 26 in.", 
+  "title": "St. Stephen and St. Mary Magdalene", 
+  "accession_number": "C10078B", 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170603, 
+  "creation_date": "about 1400", 
+  "materials": "tempera and gold on wood", 
+  "actors": [
+    {
+      "name": "Vall, Pere", 
+      "after_follower": null, 
+      "death_date": "1480", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299455, 
+      "role": "Artist", 
+      "birth_date": "1380", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16419, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

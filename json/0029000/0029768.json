@@ -1,34 +1,40 @@
 {
-    "accession_number": "74.544", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1983", 
-            "name": "Yunkers, Adja", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": null, 
-            "name": "Garo Z. Antreasian", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1960", 
-    "credit_line": "Gift (?) of Garo Antreasian", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 29768, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Garo Antreatsian", 
-    "title": "Skies of Venice IX"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Garo Antreatsian", 
+  "credit_line": "Gift (?) of Garo Antreasian", 
+  "accession_number": "74.544", 
+  "title": "Skies of Venice IX", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18215539, 
+  "creation_date": "1960", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Yunkers, Adja", 
+      "after_follower": null, 
+      "death_date": "1983", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302605, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }, 
+    {
+      "name": "Garo Z. Antreasian", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294693, 
+      "role": "Printer", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29768, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "S1309.76.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "1927", 
-            "name": "Grover, Oliver Dennett", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1911", 
-    "credit_line": "Gift of Mrs. Robert Brady Adams", 
-    "cultures": [], 
-    "dimensions": "18 1/4 x 24 1/4 in.", 
-    "dynasty": null, 
-    "irn": 28196, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Inner Harbor"
+  "publishers": [], 
+  "dimensions": "18 1/4 x 24 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Robert Brady Adams", 
+  "accession_number": "S1309.76.1", 
+  "title": "Inner Harbor", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211853, 
+  "creation_date": "1911", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Grover, Oliver Dennett", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302591, 
+      "role": "Artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28196, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

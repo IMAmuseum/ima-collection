@@ -1,26 +1,30 @@
 {
-    "accession_number": "56.158", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1590", 
-            "death_date": "1649", 
-            "name": "Vouet, Simon", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1630", 
-    "credit_line": "Gift of Evans Woollen and James H. Fitts III", 
-    "cultures": [], 
-    "dimensions": "73 1/2 x 53 1/2 in.", 
-    "dynasty": null, 
-    "irn": 1564, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bellona"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "73 1/2 x 53 1/2 in.", 
+  "title": "Bellona", 
+  "accession_number": "56.158", 
+  "credit_line": "Gift of Evans Woollen and James H. Fitts III", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135009, 
+  "creation_date": "1630", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Vouet, Simon", 
+      "after_follower": null, 
+      "death_date": "1649", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295573, 
+      "role": "Artist", 
+      "birth_date": "1590", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1564, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

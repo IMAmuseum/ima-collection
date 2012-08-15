@@ -1,26 +1,30 @@
 {
-    "accession_number": "63.200", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1915", 
-            "death_date": null, 
-            "name": "Levine, Jack", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "James V. Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 17559, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "The General"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "James V. Sweetser Fund", 
+  "accession_number": "63.200", 
+  "title": "The General", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18173491, 
+  "creation_date": "20th century", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Levine, Jack", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300429, 
+      "role": "Artist", 
+      "birth_date": "1915", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17559, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1992.90", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1890", 
-            "death_date": "1976", 
-            "name": "Man Ray", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1912", 
-    "credit_line": "The Robert and Traude Hensel Collection", 
-    "cultures": [], 
-    "dimensions": "9 3/4 x 13 3/4 in.", 
-    "dynasty": null, 
-    "irn": 28299, 
-    "materials": "pen, ink and watercolor on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Premier Promenade"
+  "publishers": [], 
+  "dimensions": "9 3/4 x 13 3/4 in.", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "The Robert and Traude Hensel Collection", 
+  "accession_number": "1992.90", 
+  "title": "Premier Promenade", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18212103, 
+  "creation_date": "1912", 
+  "materials": "pen, ink and watercolor on off-white paper", 
+  "actors": [
+    {
+      "name": "Man Ray", 
+      "after_follower": null, 
+      "death_date": "1976", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296681, 
+      "role": "Artist", 
+      "birth_date": "1890", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28299, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,38 @@
 {
-    "accession_number": "2010.288", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1961", 
-            "death_date": null, 
-            "name": "Kate Shepherd", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "2010", 
-    "credit_line": "Gift of Ann M. Stack", 
-    "cultures": [], 
-    "dimensions": "39 x 24 in. (image)\n39 1/2 x 24 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 71360, 
-    "materials": "screenprint on off-white Coventry Rag paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Axelle Editions"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "The Chinati Foundation"
-        }
-    ], 
-    "rights": "\u00a9 Kate Shepherd", 
-    "title": "Circling Around Yellow, Bigmouth"
+  "publishers": [
+    {
+      "name": "The Chinati Foundation"
+    }
+  ], 
+  "dimensions": "39 x 24 in. (image)\n39 1/2 x 24 5/8 in. (sheet)", 
+  "rights": "\u00a9 Kate Shepherd", 
+  "credit_line": "Gift of Ann M. Stack", 
+  "accession_number": "2010.288", 
+  "title": "Circling Around Yellow, Bigmouth", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287041, 
+  "creation_date": "2010", 
+  "materials": "screenprint on off-white Coventry Rag paper", 
+  "actors": [
+    {
+      "name": "Kate Shepherd", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306477, 
+      "role": "Artist", 
+      "birth_date": "1961", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71360, 
+  "printers": [
+    {
+      "name": "Axelle Editions"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

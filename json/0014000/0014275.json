@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.713.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "February 20, 1808", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14275, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Straw Yard"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Straw Yard", 
+  "accession_number": "80.713.1", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165375, 
+  "creation_date": "February 20, 1808", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14275, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

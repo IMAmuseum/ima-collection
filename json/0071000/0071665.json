@@ -1,42 +1,50 @@
 {
-    "accession_number": "2011.54.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1906", 
-            "death_date": "2011", 
-            "name": "Zeisel, Eva", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1924", 
-            "death_date": "2000", 
-            "name": "Littell, Ross", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Hall China", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1950-1952", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "4 5/16 x 5 1/4 x 3 3/4 in.", 
-    "dynasty": null, 
-    "irn": 71665, 
-    "materials": "ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Eva Zeisel", 
-    "title": "Tomorrow's Classic Hallcraft, Fantasy pattern creamer"
+  "publishers": [], 
+  "dimensions": "4 5/16 x 5 1/4 x 3 3/4 in.", 
+  "rights": "\u00a9 Eva Zeisel", 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2011.54.4", 
+  "title": "Tomorrow's Classic Hallcraft, Fantasy pattern creamer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287351, 
+  "creation_date": "1950-1952", 
+  "materials": "ceramic", 
+  "actors": [
+    {
+      "name": "Zeisel, Eva", 
+      "after_follower": null, 
+      "death_date": "2011", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303783, 
+      "role": "Designer", 
+      "birth_date": "1906", 
+      "nationality": null
+    }, 
+    {
+      "name": "Littell, Ross", 
+      "after_follower": null, 
+      "death_date": "2000", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307915, 
+      "role": "Designer", 
+      "birth_date": "1924", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hall China", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307729, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71665, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

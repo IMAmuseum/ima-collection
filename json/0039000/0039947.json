@@ -1,26 +1,30 @@
 {
-    "accession_number": "28.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1836", 
-            "death_date": "1904", 
-            "name": "Lenbach, Franz Seraph von", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1890", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 39947, 
-    "materials": "oil paint on wood panel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Ignatz von Dollinger"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "28.1", 
+  "title": "Portrait of Ignatz von Dollinger", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18240415, 
+  "creation_date": "about 1890", 
+  "materials": "oil paint on wood panel", 
+  "actors": [
+    {
+      "name": "Lenbach, Franz Seraph von", 
+      "after_follower": null, 
+      "death_date": "1904", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299735, 
+      "role": "Artist", 
+      "birth_date": "1836", 
+      "nationality": null
+    }
+  ], 
+  "irn": 39947, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

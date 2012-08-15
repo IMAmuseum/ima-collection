@@ -1,26 +1,30 @@
 {
-    "accession_number": "S3628.80.14", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": "1932", 
-            "name": "House, Gordon", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1971", 
-    "credit_line": "Gift of Miss Marjorie Dorman", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23235, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Arc D"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Miss Marjorie Dorman", 
+  "accession_number": "S3628.80.14", 
+  "title": "Arc D", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200285, 
+  "creation_date": "1971", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "House, Gordon", 
+      "after_follower": null, 
+      "death_date": "1932", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294967, 
+      "role": "Artist", 
+      "birth_date": "1932", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23235, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

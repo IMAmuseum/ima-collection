@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1888", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1773", 
-            "death_date": "1857", 
-            "name": "Charles Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 42276, 
-    "materials": "mezzotint on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rainbow"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1888", 
+  "title": "Rainbow", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18246927, 
+  "creation_date": null, 
+  "materials": "mezzotint on plain paper", 
+  "actors": [
+    {
+      "name": "Charles Turner", 
+      "after_follower": null, 
+      "death_date": "1857", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295011, 
+      "role": "Artist", 
+      "birth_date": "1773", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42276, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

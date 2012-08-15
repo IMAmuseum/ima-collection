@@ -1,26 +1,30 @@
 {
-    "accession_number": "1994.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1923", 
-            "death_date": "2004", 
-            "name": "Avedon, Richard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1958", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23260, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Picasso"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Delavan Smith Fund", 
+  "accession_number": "1994.22", 
+  "title": "Portrait of Picasso", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200337, 
+  "creation_date": "1958", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Avedon, Richard", 
+      "after_follower": null, 
+      "death_date": "2004", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301585, 
+      "role": "Artist", 
+      "birth_date": "1923", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23260, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

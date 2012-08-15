@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "about 1510", 
-            "death_date": "1570", 
-            "name": "Cock, Hieronymous", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1510-1570", 
-    "credit_line": "Alliance Auction Fund", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 10 1/4 in.", 
-    "dynasty": null, 
-    "irn": 3873, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Blind Leading the Blind"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "8 3/4 x 10 1/4 in.", 
+  "title": "The Blind Leading the Blind", 
+  "accession_number": "73.12", 
+  "credit_line": "Alliance Auction Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140481, 
+  "creation_date": "1510-1570", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Cock, Hieronymous", 
+      "after_follower": null, 
+      "death_date": "1570", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296575, 
+      "role": "Artist", 
+      "birth_date": "about 1510", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3873, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.160", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1720", 
-            "death_date": "1778", 
-            "name": "Piranesi, Giovanni Battista", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1765", 
-    "credit_line": "Gift of Mr. and Mrs. F. Noble Ropkey", 
-    "cultures": [], 
-    "dimensions": "18 3/4 x 28 1/4 in (plate) \n22 1/8 x 30 in (sheet)", 
-    "dynasty": null, 
-    "irn": 18776, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Waterfall at Tivoli"
+  "publishers": [], 
+  "dimensions": "18 3/4 x 28 1/4 in (plate) \n22 1/8 x 30 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. F. Noble Ropkey", 
+  "accession_number": "74.160", 
+  "title": "The Waterfall at Tivoli", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190033, 
+  "creation_date": "1765", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Piranesi, Giovanni Battista", 
+      "after_follower": null, 
+      "death_date": "1778", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296039, 
+      "role": "Artist", 
+      "birth_date": "1720", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18776, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

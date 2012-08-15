@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.36", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1794", 
-            "death_date": "1877", 
-            "name": "Wang Su", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 27256, 
-    "materials": "ink and colors on silk.fan painting.", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Zhong Kui catching frogs"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.36", 
+  "title": "Zhong Kui catching frogs", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18209621, 
+  "creation_date": null, 
+  "materials": "ink and colors on silk.fan painting.", 
+  "actors": [
+    {
+      "name": "Wang Su", 
+      "after_follower": null, 
+      "death_date": "1877", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302401, 
+      "role": "Artist", 
+      "birth_date": "1794", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27256, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

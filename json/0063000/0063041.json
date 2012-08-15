@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.68A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1804", 
-            "death_date": "1864", 
-            "name": "Nathaniel Hawthorne", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1923", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 1/2 x 6 in. (each)", 
-    "dynasty": null, 
-    "irn": 63041, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Bigelow, Brown & Co. Inc."
-        }
-    ], 
-    "rights": null, 
-    "title": "Works of Nathaniel Hawthorne (volume 1)"
+  "publishers": [
+    {
+      "name": "Bigelow, Brown & Co. Inc."
+    }
+  ], 
+  "dimensions": "8 1/2 x 6 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.68A", 
+  "title": "Works of Nathaniel Hawthorne (volume 1)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278227, 
+  "creation_date": "1923", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Nathaniel Hawthorne", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306331, 
+      "role": "Author", 
+      "birth_date": "1804", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63041, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

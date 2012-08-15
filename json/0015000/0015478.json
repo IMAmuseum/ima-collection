@@ -1,26 +1,30 @@
 {
-    "accession_number": "61.32A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Hochst Porcelain Manufactory", 
-            "nationality": "German", 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1775", 
-    "credit_line": "Gift of Mr. and Mrs. John H. Bookwalter", 
-    "cultures": [], 
-    "dimensions": "5 in.", 
-    "dynasty": null, 
-    "irn": 15478, 
-    "materials": "hard-paste porcelain, polychrome enamels, gilding", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Harlequin and Columbine"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "5 in.", 
+  "title": "Harlequin and Columbine", 
+  "accession_number": "61.32A-B", 
+  "credit_line": "Gift of Mr. and Mrs. John H. Bookwalter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168133, 
+  "creation_date": "about 1775", 
+  "materials": "hard-paste porcelain, polychrome enamels, gilding", 
+  "actors": [
+    {
+      "name": "Hochst Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299895, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": "German"
+    }
+  ], 
+  "irn": 15478, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

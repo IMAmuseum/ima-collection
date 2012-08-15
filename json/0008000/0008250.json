@@ -1,26 +1,30 @@
 {
-    "accession_number": "12.19", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1937", 
-            "name": "Frank T. Hutchens", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": "30 x 25 in.", 
-    "dynasty": null, 
-    "irn": 8250, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Winter Morning"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "30 x 25 in.", 
+  "title": "A Winter Morning", 
+  "accession_number": "12.19", 
+  "credit_line": "Julius F. Pratt Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18150787, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Frank T. Hutchens", 
+      "after_follower": null, 
+      "death_date": "1937", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297965, 
+      "role": "Artist", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8250, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.678", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": null, 
-            "name": "Ponce de Leon, Michael", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift of Dr. Frederick P. Nause and Rebecca A. Nause", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25410, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Once Upon A Journey"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Frederick P. Nause and Rebecca A. Nause", 
+  "accession_number": "80.678", 
+  "title": "Once Upon A Journey", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205291, 
+  "creation_date": "1979", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Ponce de Leon, Michael", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302051, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25410, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

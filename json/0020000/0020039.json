@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.331", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Closson, William Baxter Palmer", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of William Baxter Closson, through Doll & Richards, Boston", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20039, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Ralph Waldo Emerson"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of William Baxter Closson, through Doll & Richards, Boston", 
+  "accession_number": "13.331", 
+  "title": "Portrait of Ralph Waldo Emerson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192983, 
+  "creation_date": "19th century", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Closson, William Baxter Palmer", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297961, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 20039, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

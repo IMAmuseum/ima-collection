@@ -1,42 +1,50 @@
 {
-    "accession_number": "80.830", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1771", 
-            "death_date": "1853", 
-            "name": "Storer, James", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1771", 
-            "death_date": "1853", 
-            "name": "Storer, James", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1801", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38068, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hampton Court, Herefordshire"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.830", 
+  "title": "Hampton Court, Herefordshire", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235151, 
+  "creation_date": "1801", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Storer, James", 
+      "after_follower": null, 
+      "death_date": "1853", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296431, 
+      "role": "Artist", 
+      "birth_date": "1771", 
+      "nationality": null
+    }, 
+    {
+      "name": "Storer, James", 
+      "after_follower": null, 
+      "death_date": "1853", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296431, 
+      "role": "Engraver", 
+      "birth_date": "1771", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38068, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

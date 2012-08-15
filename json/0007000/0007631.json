@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.409", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1966", 
-            "name": "Carlsen, Dines", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1931-1931", 
-    "credit_line": "Gift of Mr. and Mrs. Lawrence R. Weiss", 
-    "cultures": [], 
-    "dimensions": "35 x 23 1/4 in.", 
-    "dynasty": null, 
-    "irn": 7631, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Self-Portrait in Studio"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "35 x 23 1/4 in.", 
+  "title": "Self-Portrait in Studio", 
+  "accession_number": "81.409", 
+  "credit_line": "Gift of Mr. and Mrs. Lawrence R. Weiss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149389, 
+  "creation_date": "1931-1931", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Carlsen, Dines", 
+      "after_follower": null, 
+      "death_date": "1966", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294777, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7631, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

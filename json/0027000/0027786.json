@@ -1,26 +1,30 @@
 {
-    "accession_number": "54.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "1909", 
-            "name": "Remington, Frederic", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1888-1889", 
-    "credit_line": "Gift of Mr. and Mrs. John Rauch", 
-    "cultures": [], 
-    "dimensions": "16 3/8 x 11 3/4 in.", 
-    "dynasty": null, 
-    "irn": 27786, 
-    "materials": "pen and ink on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "An Apache Soldier, or Scout"
+  "publishers": [], 
+  "dimensions": "16 3/8 x 11 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. John Rauch", 
+  "accession_number": "54.3", 
+  "title": "An Apache Soldier, or Scout", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18210901, 
+  "creation_date": "1888-1889", 
+  "materials": "pen and ink on white paper", 
+  "actors": [
+    {
+      "name": "Remington, Frederic", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297453, 
+      "role": "Artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27786, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.868", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1876", 
-            "death_date": "July 18, 1948", 
-            "name": "Janet Payne Bowles", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "late 1910s, early 1920s", 
-    "credit_line": "Gift of Jan and Mira Bowles in memory of their mother, Janet Payne Bowles", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5772, 
-    "materials": "linen", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "hand towel"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "hand towel", 
+  "accession_number": "81.868", 
+  "credit_line": "Gift of Jan and Mira Bowles in memory of their mother, Janet Payne Bowles", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144927, 
+  "creation_date": "late 1910s, early 1920s", 
+  "materials": "linen", 
+  "actors": [
+    {
+      "name": "Janet Payne Bowles", 
+      "after_follower": null, 
+      "death_date": "July 18, 1948", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294705, 
+      "role": "Artist", 
+      "birth_date": "1876", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5772, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

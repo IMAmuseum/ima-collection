@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.724.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "March 29, 1809", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16182, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Fall of the Clyde"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Fall of the Clyde", 
+  "accession_number": "80.724.1", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169949, 
+  "creation_date": "March 29, 1809", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16182, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

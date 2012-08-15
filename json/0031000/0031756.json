@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.56", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1787", 
-            "death_date": "1879", 
-            "name": "Blore, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1823", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 31756, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Monument in North Mimms Church"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.56", 
+  "title": "Monument in North Mimms Church", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220103, 
+  "creation_date": "1823", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Blore, Edward", 
+      "after_follower": null, 
+      "death_date": "1879", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303101, 
+      "role": "Artist", 
+      "birth_date": "1787", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31756, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

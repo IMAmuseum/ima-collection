@@ -1,26 +1,30 @@
 {
-    "accession_number": "1989.166", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1943", 
-            "death_date": "1995", 
-            "name": "Bill Tice", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1987", 
-    "credit_line": "Gift of Bill Tice", 
-    "cultures": [], 
-    "dimensions": "L: 185 in.", 
-    "dynasty": null, 
-    "irn": 19324, 
-    "materials": "cut velvet on chiffon with white ostrich feathers on sleeves", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "robe"
+  "publishers": [], 
+  "dimensions": "L: 185 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Bill Tice", 
+  "accession_number": "1989.166", 
+  "title": "robe", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191401, 
+  "creation_date": "1987", 
+  "materials": "cut velvet on chiffon with white ostrich feathers on sleeves", 
+  "actors": [
+    {
+      "name": "Bill Tice", 
+      "after_follower": null, 
+      "death_date": "1995", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299045, 
+      "role": "Designer", 
+      "birth_date": "1943", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19324, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

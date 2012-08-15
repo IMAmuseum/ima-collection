@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.40", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1902", 
-            "death_date": "1995", 
-            "name": "Margo, Boris", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1972", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 57588, 
-    "materials": "color aquatint and cellocut", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "November '72"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2002.40", 
+  "title": "November '72", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18274419, 
+  "creation_date": "1972", 
+  "materials": "color aquatint and cellocut", 
+  "actors": [
+    {
+      "name": "Margo, Boris", 
+      "after_follower": null, 
+      "death_date": "1995", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298427, 
+      "role": "Artist", 
+      "birth_date": "1902", 
+      "nationality": null
+    }
+  ], 
+  "irn": 57588, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

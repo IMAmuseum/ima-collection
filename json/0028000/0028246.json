@@ -1,30 +1,34 @@
 {
-    "accession_number": "57.74", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1623", 
-            "death_date": "1678", 
-            "name": "Nanteuil, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1651", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "13 1/8 x 9 7/8 in.", 
-    "dynasty": null, 
-    "irn": 28246, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Le Blond"
-        }
-    ], 
-    "rights": null, 
-    "title": "Fran\u00e7ois de Vendome, Duc de Beaufort"
+  "publishers": [
+    {
+      "name": "Le Blond"
+    }
+  ], 
+  "dimensions": "13 1/8 x 9 7/8 in.", 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "57.74", 
+  "title": "Fran\u00e7ois de Vendome, Duc de Beaufort", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211977, 
+  "creation_date": "1651", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Nanteuil, Robert", 
+      "after_follower": null, 
+      "death_date": "1678", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297903, 
+      "role": "Artist", 
+      "birth_date": "1623", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28246, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

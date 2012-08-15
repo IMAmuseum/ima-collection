@@ -1,26 +1,30 @@
 {
-    "accession_number": "31.164", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883-1946", 
-            "death_date": "1883-1946", 
-            "name": "Moor, Dmitrij Stahievic", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1917-1931", 
-    "credit_line": "Gift of Hilton U. Brown", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 634, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Eldest of the Gods"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Eldest of the Gods", 
+  "accession_number": "31.164", 
+  "credit_line": "Gift of Hilton U. Brown", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132725, 
+  "creation_date": "1917-1931", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Moor, Dmitrij Stahievic", 
+      "after_follower": null, 
+      "death_date": "1883-1946", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295087, 
+      "role": "Artist", 
+      "birth_date": "1883-1946", 
+      "nationality": null
+    }
+  ], 
+  "irn": 634, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

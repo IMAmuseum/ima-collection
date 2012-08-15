@@ -1,30 +1,34 @@
 {
-    "accession_number": "2006.53", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1833", 
-            "death_date": "1904", 
-            "name": "Utagawa Yoshiiku", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1865, 10th month", 
-    "credit_line": "Miscellaneous Asian Art Fund", 
-    "cultures": [], 
-    "dimensions": "14 1/8 x 9 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 64011, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Kogaya Katsugor^o"
-        }
-    ], 
-    "rights": null, 
-    "title": "Sawamura Tossh^o II as Abe Yasuna and Hikosaburo V as Kuzunoha in a scene from the play Kuzunoha"
+  "publishers": [
+    {
+      "name": "Kogaya Katsugor^o"
+    }
+  ], 
+  "dimensions": "14 1/8 x 9 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Miscellaneous Asian Art Fund", 
+  "accession_number": "2006.53", 
+  "title": "Sawamura Tossh^o II as Abe Yasuna and Hikosaburo V as Kuzunoha in a scene from the play Kuzunoha", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18278819, 
+  "creation_date": "1865, 10th month", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Yoshiiku", 
+      "after_follower": null, 
+      "death_date": "1904", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302459, 
+      "role": "Artist", 
+      "birth_date": "1833", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64011, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

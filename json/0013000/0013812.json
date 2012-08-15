@@ -1,26 +1,30 @@
 {
-    "accession_number": "23.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860", 
-            "death_date": "1926", 
-            "name": "Pennell, Joseph", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Carl H. Lieber", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13812, 
-    "materials": "etching", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Flat Iron Building"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Flat Iron Building", 
+  "accession_number": "23.10", 
+  "credit_line": "Gift of Carl H. Lieber", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164233, 
+  "creation_date": "19th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Pennell, Joseph", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295161, 
+      "role": "Artist", 
+      "birth_date": "1860", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13812, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.672", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": "1984", 
-            "name": "Winogrand, Garry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1967", 
-    "credit_line": "Gift of Dr. and Mrs. F.E. McAree", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28037, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "New York City"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. and Mrs. F.E. McAree", 
+  "accession_number": "79.672", 
+  "title": "New York City", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211483, 
+  "creation_date": "1967", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Winogrand, Garry", 
+      "after_follower": null, 
+      "death_date": "1984", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297281, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28037, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

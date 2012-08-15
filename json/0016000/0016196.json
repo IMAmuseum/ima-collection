@@ -1,26 +1,30 @@
 {
-    "accession_number": "45.195", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1891", 
-            "name": "Seurat, Georges", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1890", 
-    "credit_line": "Gift of Mrs. James W. Fesler in memory of Daniel W. and Elizabeth C. Marmon", 
-    "cultures": [], 
-    "dimensions": "28 7/8 x 36 1/2 in.", 
-    "dynasty": null, 
-    "irn": 16196, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Channel of Gravelines, Petit Fort Philippe"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "28 7/8 x 36 1/2 in.", 
+  "title": "The Channel of Gravelines, Petit Fort Philippe", 
+  "accession_number": "45.195", 
+  "credit_line": "Gift of Mrs. James W. Fesler in memory of Daniel W. and Elizabeth C. Marmon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169977, 
+  "creation_date": "1890", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Seurat, Georges", 
+      "after_follower": null, 
+      "death_date": "1891", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296791, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16196, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

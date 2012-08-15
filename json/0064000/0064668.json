@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.460", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Nora de Rudder", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Nora de Rudder", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1994", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "70 7/8 \u00d7 13 3/4 in.", 
-    "dynasty": null, 
-    "irn": 64668, 
-    "materials": "feathers, copper and papier-m\u00e2ch\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Nora De Rudder", 
-    "title": "Wings floor lamp"
+  "publishers": [], 
+  "dimensions": "70 7/8 \u00d7 13 3/4 in.", 
+  "rights": "\u00a9 Nora De Rudder", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "2009.460", 
+  "title": "Wings floor lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279173, 
+  "creation_date": "1994", 
+  "materials": "feathers, copper and papier-m\u00e2ch\u00e9", 
+  "actors": [
+    {
+      "name": "Nora de Rudder", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306885, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Nora de Rudder", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306885, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64668, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

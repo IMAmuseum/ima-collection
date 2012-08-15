@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.364", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1767", 
-            "death_date": "1855", 
-            "name": "Isabey, Jean Baptiste", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1822", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18806, 
-    "materials": "charcoal on off-white wove paper with incising", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Gentleman"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "80.364", 
+  "title": "Portrait of a Gentleman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190107, 
+  "creation_date": "1822", 
+  "materials": "charcoal on off-white wove paper with incising", 
+  "actors": [
+    {
+      "name": "Isabey, Jean Baptiste", 
+      "after_follower": null, 
+      "death_date": "1855", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300675, 
+      "role": "Artist", 
+      "birth_date": "1767", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18806, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

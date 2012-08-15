@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.244", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1948", 
-            "name": "Gorky, Arshile", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1946", 
-    "credit_line": "Gift of Dr. Roberta L. A. Kirch", 
-    "cultures": [], 
-    "dimensions": "22 1/2 x 30 1/2 in", 
-    "dynasty": null, 
-    "irn": 32351, 
-    "materials": "pencil and crayon on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": "22 1/2 x 30 1/2 in", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Dr. Roberta L. A. Kirch", 
+  "accession_number": "80.244", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221457, 
+  "creation_date": "1946", 
+  "materials": "pencil and crayon on white paper", 
+  "actors": [
+    {
+      "name": "Gorky, Arshile", 
+      "after_follower": null, 
+      "death_date": "1948", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303227, 
+      "role": "Artist", 
+      "birth_date": "1904", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32351, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

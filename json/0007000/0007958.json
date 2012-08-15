@@ -1,30 +1,34 @@
 {
-    "accession_number": "72.47.121", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1854", 
-    "credit_line": "Gift of Mrs. Kate Kiser Klein", 
-    "cultures": [], 
-    "dimensions": "22 x 28 in.", 
-    "dynasty": null, 
-    "irn": 7958, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Ise-ya Kanekichi"
-        }
-    ], 
-    "rights": null, 
-    "title": "Nuregami Ch^ogor^o"
+  "publishers": [
+    {
+      "name": "Ise-ya Kanekichi"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "22 x 28 in.", 
+  "title": "Nuregami Ch^ogor^o", 
+  "accession_number": "72.47.121", 
+  "credit_line": "Gift of Mrs. Kate Kiser Klein", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18150125, 
+  "creation_date": "1854", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7958, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

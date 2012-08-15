@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.209", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1790", 
-            "death_date": "1849", 
-            "name": "Weng Luo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "early 1800s", 
-    "credit_line": "Thomas W. Ayton Fund", 
-    "cultures": [], 
-    "dimensions": "13 x 12 1/4 in.", 
-    "dynasty": "Qing dynasty", 
-    "irn": 12116, 
-    "materials": "ink and color on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "portrait of Wang Hui"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 x 12 1/4 in.", 
+  "title": "portrait of Wang Hui", 
+  "accession_number": "81.209", 
+  "credit_line": "Thomas W. Ayton Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18159973, 
+  "creation_date": "early 1800s", 
+  "materials": "ink and color on paper", 
+  "actors": [
+    {
+      "name": "Weng Luo", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298981, 
+      "role": "Artist", 
+      "birth_date": "1790", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12116, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

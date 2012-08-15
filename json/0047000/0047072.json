@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.232.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1909", 
-            "death_date": "1999", 
-            "name": "Blatas, Arbit", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1962", 
-    "credit_line": "Gift of Miss Emily Genauer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 47072, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Maurice Utrillo"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Miss Emily Genauer", 
+  "accession_number": "71.232.12", 
+  "title": "Portrait of Maurice Utrillo", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18258019, 
+  "creation_date": "1962", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Blatas, Arbit", 
+      "after_follower": null, 
+      "death_date": "1999", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305333, 
+      "role": "Artist", 
+      "birth_date": "1909", 
+      "nationality": null
+    }
+  ], 
+  "irn": 47072, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

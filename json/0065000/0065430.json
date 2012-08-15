@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.253", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1939", 
-            "death_date": null, 
-            "name": "Pesce, Gaetano", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "C & B Italia", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Lucille Stewart Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "31 1/2 x 63 x 21 in.", 
-    "dynasty": null, 
-    "irn": 65430, 
-    "materials": "polyurethane foam", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gaetano Pesce", 
-    "title": "UP7 (II Piede) chair"
+  "publishers": [], 
+  "dimensions": "31 1/2 x 63 x 21 in.", 
+  "rights": "\u00a9 Gaetano Pesce", 
+  "credit_line": "Lucille Stewart Endowed Art Fund", 
+  "accession_number": "2008.253", 
+  "title": "UP7 (II Piede) chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280083, 
+  "creation_date": "1969", 
+  "materials": "polyurethane foam", 
+  "actors": [
+    {
+      "name": "Pesce, Gaetano", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307385, 
+      "role": "Designer", 
+      "birth_date": "1939", 
+      "nationality": null
+    }, 
+    {
+      "name": "C & B Italia", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307389, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65430, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

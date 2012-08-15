@@ -1,26 +1,30 @@
 {
-    "accession_number": "12.29.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10934, 
-    "materials": "Color Woodblock Print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Station 22, Okabe"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Station 22, Okabe", 
+  "accession_number": "12.29.22", 
+  "credit_line": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157279, 
+  "creation_date": null, 
+  "materials": "Color Woodblock Print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10934, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

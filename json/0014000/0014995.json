@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.196", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1612", 
-            "death_date": "1692", 
-            "name": "Cesi, Carlo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14995, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hercules and Omphale"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Hercules and Omphale", 
+  "accession_number": "09.196", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167089, 
+  "creation_date": "17th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Cesi, Carlo", 
+      "after_follower": null, 
+      "death_date": "1692", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299769, 
+      "role": "Artist", 
+      "birth_date": "1612", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14995, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

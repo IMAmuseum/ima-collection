@@ -1,26 +1,30 @@
 {
-    "accession_number": "31.311A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1626", 
-            "death_date": "1678", 
-            "name": "Dujardin, Karel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Source unknown", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4113, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Reclining Sheep"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Reclining Sheep", 
+  "accession_number": "31.311A", 
+  "credit_line": "Source unknown", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18141045, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Dujardin, Karel", 
+      "after_follower": null, 
+      "death_date": "1678", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296683, 
+      "role": "Artist", 
+      "birth_date": "1626", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4113, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

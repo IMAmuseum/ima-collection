@@ -1,26 +1,30 @@
 {
-    "accession_number": "07.21", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1906", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "30 x 45 in.", 
-    "dynasty": null, 
-    "irn": 34212, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The River"
+  "publishers": [], 
+  "dimensions": "30 x 45 in.", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "07.21", 
+  "title": "The River", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18225847, 
+  "creation_date": "1906", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34212, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

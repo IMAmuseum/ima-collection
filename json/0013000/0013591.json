@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.50", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": null, 
-            "name": "Jerome Goodman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1968", 
-    "credit_line": "Gift of Mr. Jerome Goodman", 
-    "cultures": [], 
-    "dimensions": "32 3/4 in. x 69 in. x 59 in.", 
-    "dynasty": null, 
-    "irn": 13591, 
-    "materials": "fiberglass, acrylic construction", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "UNTITLED"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "32 3/4 in. x 69 in. x 59 in.", 
+  "title": "UNTITLED", 
+  "accession_number": "71.50", 
+  "credit_line": "Gift of Mr. Jerome Goodman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163705, 
+  "creation_date": "1968", 
+  "materials": "fiberglass, acrylic construction", 
+  "actors": [
+    {
+      "name": "Jerome Goodman", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299387, 
+      "role": "Artist", 
+      "birth_date": "1926", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13591, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

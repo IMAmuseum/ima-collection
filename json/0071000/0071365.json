@@ -1,30 +1,34 @@
 {
-    "accession_number": "2011.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": null, 
-            "name": "Moses, Ed", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1997", 
-    "credit_line": "Gift of the Sam Francis Foundation", 
-    "cultures": [], 
-    "dimensions": "23 1/2 x 17 1/2 in. (image)\n32 7/8 x 25 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 71365, 
-    "materials": "etching and aquatint on off-white wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Lapsis Press"
-        }
-    ], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": "23 1/2 x 17 1/2 in. (image)\n32 7/8 x 25 7/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of the Sam Francis Foundation", 
+  "accession_number": "2011.24", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287055, 
+  "creation_date": "1997", 
+  "materials": "etching and aquatint on off-white wove paper", 
+  "actors": [
+    {
+      "name": "Moses, Ed", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308405, 
+      "role": "Artist", 
+      "birth_date": "1926", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71365, 
+  "printers": [
+    {
+      "name": "Lapsis Press"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

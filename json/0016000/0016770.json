@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.92", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1753", 
-            "death_date": "1839", 
-            "name": "Beechey, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1807-1813", 
-    "credit_line": "Gift of Mrs. Thomas Chandler Werbe in memory of her husband", 
-    "cultures": [], 
-    "dimensions": "50 x 40 in.", 
-    "dynasty": null, 
-    "irn": 16770, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lieutenant John Pollock (John Pocock)"
+  "publishers": [], 
+  "dimensions": "50 x 40 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Thomas Chandler Werbe in memory of her husband", 
+  "accession_number": "52.92", 
+  "title": "Lieutenant John Pollock (John Pocock)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171443, 
+  "creation_date": "about 1807-1813", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Beechey, William", 
+      "after_follower": null, 
+      "death_date": "1839", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300253, 
+      "role": "Artist", 
+      "birth_date": "1753", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16770, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

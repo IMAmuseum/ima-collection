@@ -1,26 +1,30 @@
 {
-    "accession_number": "S4026.81.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1849", 
-            "death_date": "1911", 
-            "name": "Toussaint, Henri", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1883", 
-    "credit_line": "Gift of Mrs. Marvin E. Curle", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45462, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Reims Cathedral"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Marvin E. Curle", 
+  "accession_number": "S4026.81.3", 
+  "title": "Reims Cathedral", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254471, 
+  "creation_date": "1883", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Toussaint, Henri", 
+      "after_follower": null, 
+      "death_date": "1911", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305203, 
+      "role": "Artist", 
+      "birth_date": "1849", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45462, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

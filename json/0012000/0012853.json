@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.111", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1945", 
-            "name": "Trowbridge, Vaughn", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1907", 
-    "credit_line": "Bequest fo Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12853, 
-    "materials": "color etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "St. Maclou, Rouen"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "St. Maclou, Rouen", 
+  "accession_number": "25.111", 
+  "credit_line": "Bequest fo Delavan Smith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162029, 
+  "creation_date": "1907", 
+  "materials": "color etching", 
+  "actors": [
+    {
+      "name": "Trowbridge, Vaughn", 
+      "after_follower": null, 
+      "death_date": "1945", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299151, 
+      "role": "Artist", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12853, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

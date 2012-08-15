@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.33.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1926", 
-            "name": "Stark, Otto", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1911", 
-    "credit_line": "Gift of Miss Gretchen Stark", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10610, 
-    "materials": "pastel on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape with a Barn"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Landscape with a Barn", 
+  "accession_number": "71.33.6", 
+  "credit_line": "Gift of Miss Gretchen Stark", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156479, 
+  "creation_date": "1911", 
+  "materials": "pastel on off-white paper", 
+  "actors": [
+    {
+      "name": "Stark, Otto", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295679, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10610, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

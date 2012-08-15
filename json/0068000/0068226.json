@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.526.3A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1906", 
-            "death_date": "2011", 
-            "name": "Zeisel, Eva", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "SMFSchramberger Majolikafabrik", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1928-1930", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "coffee pot) H: 3 5/8 in.\nlid) L: 4 1/4 in.\nplate) Diam.: 5 1/4 in.", 
-    "dynasty": null, 
-    "irn": 68226, 
-    "materials": "ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Eva Zeisel", 
-    "title": "Gobelin ceramics small coffee pot with lid and under plate"
+  "publishers": [], 
+  "dimensions": "coffee pot) H: 3 5/8 in.\nlid) L: 4 1/4 in.\nplate) Diam.: 5 1/4 in.", 
+  "rights": "\u00a9 Eva Zeisel", 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2009.526.3A-C", 
+  "title": "Gobelin ceramics small coffee pot with lid and under plate", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283229, 
+  "creation_date": "1928-1930", 
+  "materials": "ceramic", 
+  "actors": [
+    {
+      "name": "Zeisel, Eva", 
+      "after_follower": null, 
+      "death_date": "2011", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303783, 
+      "role": "Designer", 
+      "birth_date": "1906", 
+      "nationality": null
+    }, 
+    {
+      "name": "SMFSchramberger Majolikafabrik", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303785, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68226, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

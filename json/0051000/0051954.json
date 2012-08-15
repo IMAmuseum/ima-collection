@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.251", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "20th Century", 
-            "death_date": "20th Century", 
-            "name": "Breer, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1973", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 51954, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "untitled"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
+  "accession_number": "2001.251", 
+  "title": "untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18266351, 
+  "creation_date": "1973", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Breer, Robert", 
+      "after_follower": null, 
+      "death_date": "20th Century", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305489, 
+      "role": "Artist", 
+      "birth_date": "20th Century", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51954, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

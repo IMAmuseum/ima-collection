@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.112.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1945-", 
-            "death_date": "1945-", 
-            "name": "Jackson, Herb", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1973", 
-    "credit_line": "Gift of Christopher A. Graf and Janet Graf", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8726, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Open"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Open", 
+  "accession_number": "73.112.17", 
+  "credit_line": "Gift of Christopher A. Graf and Janet Graf", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151969, 
+  "creation_date": "1973", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Jackson, Herb", 
+      "after_follower": null, 
+      "death_date": "1945-", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298103, 
+      "role": "Artist", 
+      "birth_date": "1945-", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8726, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

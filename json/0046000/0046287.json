@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.984", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1722", 
-            "death_date": "1795", 
-            "name": "Brand, Johann Christian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift in Memory of Henry and Ruth Elias", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46287, 
-    "materials": "hand-colored etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Kupferstiehhandler - Vendeur d'Estampes"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift in Memory of Henry and Ruth Elias", 
+  "accession_number": "75.984", 
+  "title": "Kupferstiehhandler - Vendeur d'Estampes", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18256217, 
+  "creation_date": null, 
+  "materials": "hand-colored etching", 
+  "actors": [
+    {
+      "name": "Brand, Johann Christian", 
+      "after_follower": null, 
+      "death_date": "1795", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297471, 
+      "role": "Artist", 
+      "birth_date": "1722", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46287, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

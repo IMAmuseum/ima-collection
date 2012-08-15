@@ -1,42 +1,50 @@
 {
-    "accession_number": "2007.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Iseya Kanekichi", 
-            "nationality": null, 
-            "role": "Publisher"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Yokogawa Horitake", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1858", 
-    "credit_line": "Mary and Agness Wetsell Fund", 
-    "cultures": [], 
-    "dimensions": "14 3/8 x 9 15/16 in., trimmed on all margins", 
-    "dynasty": null, 
-    "irn": 63222, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "^Otomo Kuronushi"
+  "publishers": [], 
+  "dimensions": "14 3/8 x 9 15/16 in., trimmed on all margins", 
+  "rights": null, 
+  "credit_line": "Mary and Agness Wetsell Fund", 
+  "accession_number": "2007.15", 
+  "title": "^Otomo Kuronushi", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18278383, 
+  "creation_date": "1858", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }, 
+    {
+      "name": "Iseya Kanekichi", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306533, 
+      "role": "Publisher", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Yokogawa Horitake", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295425, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63222, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "76.435", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1896", 
-            "name": "Morris, William", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": null, 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1875", 
-    "credit_line": "Gift of Miss Charity Dye", 
-    "cultures": [], 
-    "dimensions": "37 1/2 x 56 in.", 
-    "dynasty": null, 
-    "irn": 28895, 
-    "materials": "cotton, block printed", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "furnishing fabric; \"Marigold\""
+  "publishers": [], 
+  "dimensions": "37 1/2 x 56 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Miss Charity Dye", 
+  "accession_number": "76.435", 
+  "title": "furnishing fabric; \"Marigold\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213497, 
+  "creation_date": "1875", 
+  "materials": "cotton, block printed", 
+  "actors": [
+    {
+      "name": "Morris, William", 
+      "after_follower": null, 
+      "death_date": "1896", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296011, 
+      "role": "Designer", 
+      "birth_date": "1834", 
+      "nationality": null
+    }, 
+    {
+      "name": null, 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295437, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 28895, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

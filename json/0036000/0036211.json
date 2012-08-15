@@ -1,26 +1,30 @@
 {
-    "accession_number": "49.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1870", 
-            "death_date": "1938", 
-            "name": "Barlach, Ernst", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1919", 
-    "credit_line": "Carl H. Lieber Fund", 
-    "cultures": [], 
-    "dimensions": "10 1/4 x 14 1/4 in (image)\n13 1/4 x 17 3/8 in (sheet)", 
-    "dynasty": null, 
-    "irn": 36211, 
-    "materials": "woodcut", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Kreuz- und Sargrauber (Cross and Grave Robbers)"
+  "publishers": [], 
+  "dimensions": "10 1/4 x 14 1/4 in (image)\n13 1/4 x 17 3/8 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Fund", 
+  "accession_number": "49.4", 
+  "title": "Kreuz- und Sargrauber (Cross and Grave Robbers)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230435, 
+  "creation_date": "1919", 
+  "materials": "woodcut", 
+  "actors": [
+    {
+      "name": "Barlach, Ernst", 
+      "after_follower": null, 
+      "death_date": "1938", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303835, 
+      "role": "Artist", 
+      "birth_date": "1870", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36211, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

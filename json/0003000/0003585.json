@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.53", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1971", 
-            "name": "Baumann, Gustave", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1949", 
-    "credit_line": "Gift of Elaine Ewing Fess and Stephen W. Fess", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3585, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gustave Baumann", 
-    "title": "Superstition Mountain"
+  "publishers": [], 
+  "rights": "\u00a9 Gustave Baumann", 
+  "dimensions": null, 
+  "title": "Superstition Mountain", 
+  "accession_number": "1999.53", 
+  "credit_line": "Gift of Elaine Ewing Fess and Stephen W. Fess", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18139795, 
+  "creation_date": "1949", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Baumann, Gustave", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295839, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3585, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

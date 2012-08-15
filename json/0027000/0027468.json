@@ -1,46 +1,54 @@
 {
-    "accession_number": "25.93", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1773", 
-            "death_date": "1857", 
-            "name": "Charles Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1773", 
-            "death_date": "1857", 
-            "name": "Charles Turner", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1807", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 27468, 
-    "materials": "mezzotint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Joseph Mallord William Turner"
-        }
-    ], 
-    "rights": null, 
-    "title": "Scene on the French Coast"
+  "publishers": [
+    {
+      "name": "Joseph Mallord William Turner"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Delavan Smith", 
+  "accession_number": "25.93", 
+  "title": "Scene on the French Coast", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18210163, 
+  "creation_date": "1807", 
+  "materials": "mezzotint", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Charles Turner", 
+      "after_follower": null, 
+      "death_date": "1857", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295011, 
+      "role": "Artist", 
+      "birth_date": "1773", 
+      "nationality": null
+    }, 
+    {
+      "name": "Charles Turner", 
+      "after_follower": null, 
+      "death_date": "1857", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295011, 
+      "role": "Engraver", 
+      "birth_date": "1773", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27468, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

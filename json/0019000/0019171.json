@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.124", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1935", 
-            "name": "Hassam, Childe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1918", 
-    "credit_line": "Gift of Mrs. Childe Hassam", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19171, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Spar Shop, Gloucester"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Childe Hassam", 
+  "accession_number": "40.124", 
+  "title": "Spar Shop, Gloucester", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191055, 
+  "creation_date": "1918", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Hassam, Childe", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295317, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19171, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

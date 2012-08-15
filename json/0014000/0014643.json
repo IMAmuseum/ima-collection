@@ -1,34 +1,40 @@
 {
-    "accession_number": "26.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1798", 
-            "death_date": "1863", 
-            "name": "Harding, James Duffield", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1789", 
-            "death_date": "1850", 
-            "name": "Hullmandel, Charles Joseph", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1829", 
-    "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14643, 
-    "materials": "lithograph on India paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cascades de Thiers, Auvergne"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Cascades de Thiers, Auvergne", 
+  "accession_number": "26.20", 
+  "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166231, 
+  "creation_date": "1829", 
+  "materials": "lithograph on India paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Harding, James Duffield", 
+      "after_follower": null, 
+      "death_date": "1863", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294779, 
+      "role": "Artist", 
+      "birth_date": "1798", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hullmandel, Charles Joseph", 
+      "after_follower": null, 
+      "death_date": "1850", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299681, 
+      "role": "Printer", 
+      "birth_date": "1789", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14643, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

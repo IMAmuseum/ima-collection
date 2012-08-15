@@ -1,30 +1,34 @@
 {
-    "accession_number": "71.86.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1898", 
-            "death_date": "1976", 
-            "name": "Calder, Alexander", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Gift of Carl J. Weinhardt, Jr.", 
-    "cultures": [], 
-    "dimensions": "28 3/4 x 19 7/16 in.", 
-    "dynasty": null, 
-    "irn": 17721, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Maeght"
-        }
-    ], 
-    "rights": "\u00a9 Estate of Alexander Calder / Artists Rights Society (ARS), New York", 
-    "title": "Galerie Maeght, Calder, Fleches"
+  "publishers": [
+    {
+      "name": "Maeght"
+    }
+  ], 
+  "dimensions": "28 3/4 x 19 7/16 in.", 
+  "rights": "\u00a9 Estate of Alexander Calder / Artists Rights Society (ARS), New York", 
+  "credit_line": "Gift of Carl J. Weinhardt, Jr.", 
+  "accession_number": "71.86.16", 
+  "title": "Galerie Maeght, Calder, Fleches", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18173981, 
+  "creation_date": "20th century", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Calder, Alexander", 
+      "after_follower": null, 
+      "death_date": "1976", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300447, 
+      "role": "Artist", 
+      "birth_date": "1898", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17721, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32305, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Station 10, Odawara"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "32.3", 
+  "title": "Station 10, Odawara", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221365, 
+  "creation_date": null, 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32305, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

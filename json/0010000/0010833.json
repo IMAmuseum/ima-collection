@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.269", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1736", 
-            "death_date": null, 
-            "name": "Coulet, Anne-Philiberte", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10833, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Les Jetteurs de Filets"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Les Jetteurs de Filets", 
+  "accession_number": "09.269", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157037, 
+  "creation_date": "18th century", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Coulet, Anne-Philiberte", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297259, 
+      "role": "Artist", 
+      "birth_date": "1736", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10833, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

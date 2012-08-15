@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.90.12V", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1583", 
-            "death_date": "ca 1621", 
-            "name": "Sadeler, Justus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1621", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 423, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Otilia Bavara"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Otilia Bavara", 
+  "accession_number": "72.90.12V", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132175, 
+  "creation_date": "1621", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Sadeler, Justus", 
+      "after_follower": null, 
+      "death_date": "ca 1621", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294845, 
+      "role": "Artist", 
+      "birth_date": "1583", 
+      "nationality": null
+    }
+  ], 
+  "irn": 423, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

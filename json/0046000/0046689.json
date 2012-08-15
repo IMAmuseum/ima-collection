@@ -1,26 +1,30 @@
 {
-    "accession_number": "02.31", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1850", 
-            "death_date": "1920", 
-            "name": "Massani, Pompeo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "18 x 12 in.", 
-    "dynasty": null, 
-    "irn": 46689, 
-    "materials": "oil", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Favorite Vintage"
+  "publishers": [], 
+  "dimensions": "18 x 12 in.", 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "02.31", 
+  "title": "The Favorite Vintage", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18257107, 
+  "creation_date": null, 
+  "materials": "oil", 
+  "actors": [
+    {
+      "name": "Massani, Pompeo", 
+      "after_follower": null, 
+      "death_date": "1920", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299775, 
+      "role": "Artist", 
+      "birth_date": "1850", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46689, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

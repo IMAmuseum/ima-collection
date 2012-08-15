@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.63", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1807", 
-            "death_date": "1884", 
-            "name": "No\u00ebl, Alphonse L\u00e9on", 
-            "nationality": "French", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 31696, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Four Men at Table"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.63", 
+  "title": "Four Men at Table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18219977, 
+  "creation_date": "19th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "No\u00ebl, Alphonse L\u00e9on", 
+      "after_follower": null, 
+      "death_date": "1884", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303097, 
+      "role": "Artist", 
+      "birth_date": "1807", 
+      "nationality": "French"
+    }
+  ], 
+  "irn": 31696, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "44.63", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860", 
-            "death_date": "1926", 
-            "name": "Pennell, Joseph", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1922", 
-    "credit_line": "Gift of Miss Drusilla Cravens", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7658, 
-    "materials": "aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Bay, New York"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Bay, New York", 
+  "accession_number": "44.63", 
+  "credit_line": "Gift of Miss Drusilla Cravens", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149469, 
+  "creation_date": "1922", 
+  "materials": "aquatint", 
+  "actors": [
+    {
+      "name": "Pennell, Joseph", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295161, 
+      "role": "Artist", 
+      "birth_date": "1860", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7658, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

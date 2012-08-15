@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.313", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1927", 
-            "death_date": null, 
-            "name": "Bellegarde, Claude", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1973", 
-    "credit_line": "Gift of Walter Cahn", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34975, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bellegarde, Galerie J. Goldschmidt"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Walter Cahn", 
+  "accession_number": "81.313", 
+  "title": "Bellegarde, Galerie J. Goldschmidt", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227601, 
+  "creation_date": "1973", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Bellegarde, Claude", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303667, 
+      "role": "Artist", 
+      "birth_date": "1927", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34975, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

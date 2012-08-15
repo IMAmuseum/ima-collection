@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1235.25", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1789", 
-            "death_date": "1848", 
-            "name": "Batty, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1830", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 39599, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Palazzo Vecchio, Florence"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1235.25", 
+  "title": "Palazzo Vecchio, Florence", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18239453, 
+  "creation_date": "1830", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Batty, Robert", 
+      "after_follower": null, 
+      "death_date": "1848", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304527, 
+      "role": "Artist", 
+      "birth_date": "1789", 
+      "nationality": null
+    }
+  ], 
+  "irn": 39599, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "76.221", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1930", 
-            "death_date": null, 
-            "name": "Marisol", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of the Kent Brand of Lorillard", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3882, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Women's Equality"
+  "publishers": [], 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "dimensions": null, 
+  "title": "Women's Equality", 
+  "accession_number": "76.221", 
+  "credit_line": "Gift of the Kent Brand of Lorillard", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140505, 
+  "creation_date": "1975", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Marisol", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295271, 
+      "role": "Artist", 
+      "birth_date": "1930", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3882, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

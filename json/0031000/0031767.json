@@ -1,34 +1,38 @@
 {
-    "accession_number": "74.520", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1910", 
-            "death_date": "1985", 
-            "name": "Childs, Bernard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1967", 
-    "credit_line": "Gift of Dr. Arthur Herrington", 
-    "cultures": [], 
-    "dimensions": "15 1/16 x 8 3/4 in. (image)\n22 1/8 x 17 15/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 31767, 
-    "materials": "collagraph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Lockwood, George"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Impressions Workshop"
-        }
-    ], 
-    "rights": null, 
-    "title": "Winds"
+  "publishers": [
+    {
+      "name": "Impressions Workshop"
+    }
+  ], 
+  "dimensions": "15 1/16 x 8 3/4 in. (image)\n22 1/8 x 17 15/16 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Arthur Herrington", 
+  "accession_number": "74.520", 
+  "title": "Winds", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220131, 
+  "creation_date": "1967", 
+  "materials": "collagraph", 
+  "actors": [
+    {
+      "name": "Childs, Bernard", 
+      "after_follower": null, 
+      "death_date": "1985", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296541, 
+      "role": "Artist", 
+      "birth_date": "1910", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31767, 
+  "printers": [
+    {
+      "name": "Lockwood, George"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

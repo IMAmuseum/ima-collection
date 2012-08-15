@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1640", 
-            "death_date": "1711", 
-            "name": "B\u00e9rain, Jean, I", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1690", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "9 7/8 X 12 1/4 in. (image)\n11 3/4 X 14 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9273, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Panel or tapestry design"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 7/8 X 12 1/4 in. (image)\n11 3/4 X 14 5/8 in. (sheet)", 
+  "title": "Panel or tapestry design", 
+  "accession_number": "73.2.23", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153333, 
+  "creation_date": "about 1690", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "B\u00e9rain, Jean, I", 
+      "after_follower": null, 
+      "death_date": "1711", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295153, 
+      "role": "Artist", 
+      "birth_date": "1640", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9273, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

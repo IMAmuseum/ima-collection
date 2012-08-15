@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.36", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Fantin-Latour, Henri", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1900", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8176, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ariane"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Ariane", 
+  "accession_number": "25.36", 
+  "credit_line": "Bequest of Delavan Smith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18150607, 
+  "creation_date": "1900", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Fantin-Latour, Henri", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297485, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 8176, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

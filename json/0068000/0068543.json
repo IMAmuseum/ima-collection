@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Starck, Philippe", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Vitra AG", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1990", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
-    "cultures": [], 
-    "dimensions": "38 \u00d7 22 \u00d7 21 in.", 
-    "dynasty": null, 
-    "irn": 68543, 
-    "materials": "lacquered aluminum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Philippe Starck", 
-    "title": "W.W. stool"
+  "publishers": [], 
+  "dimensions": "38 \u00d7 22 \u00d7 21 in.", 
+  "rights": "\u00a9 Philippe Starck", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
+  "accession_number": "2010.1", 
+  "title": "W.W. stool", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283523, 
+  "creation_date": "1990", 
+  "materials": "lacquered aluminum", 
+  "actors": [
+    {
+      "name": "Starck, Philippe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306863, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "Vitra AG", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306781, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68543, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

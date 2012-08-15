@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.501", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1959", 
-            "name": "Wayman Adams", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1929", 
-    "credit_line": "Gift of the artist", 
-    "cultures": [], 
-    "dimensions": "9 5/8 x 7 7/8 x 2 3/8 in.", 
-    "dynasty": null, 
-    "irn": 12629, 
-    "materials": "limestone and lithographic crayon", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "lithographic stone for \"The Clinging Vine\"; verso: lithographic stone for \"Song Service\""
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 5/8 x 7 7/8 x 2 3/8 in.", 
+  "title": "lithographic stone for \"The Clinging Vine\"; verso: lithographic stone for \"Song Service\"", 
+  "accession_number": "30.501", 
+  "credit_line": "Gift of the artist", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18161483, 
+  "creation_date": "1929", 
+  "materials": "limestone and lithographic crayon", 
+  "actors": [
+    {
+      "name": "Wayman Adams", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296333, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12629, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

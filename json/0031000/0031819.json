@@ -1,38 +1,44 @@
 {
-    "accession_number": "73.84.55", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Goodwin, Francis", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Rosenberg, C.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 31819, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Goodwin, Francis"
-        }
-    ], 
-    "rights": null, 
-    "title": "Bailiff's Lodge"
+  "publishers": [
+    {
+      "name": "Goodwin, Francis"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Discretionary Fund", 
+  "accession_number": "73.84.55", 
+  "title": "Bailiff's Lodge", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220239, 
+  "creation_date": "1833", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Goodwin, Francis", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296435, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Rosenberg, C.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300297, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 31819, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

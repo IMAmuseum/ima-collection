@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.233", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1873", 
-            "death_date": "1952", 
-            "name": "Christy, Howard Chandler", 
-            "nationality": null, 
-            "role": "Illustrator"
-        }
-    ], 
-    "creation_date": "1910", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10475, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Girl I Loved"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Girl I Loved", 
+  "accession_number": "71.233", 
+  "credit_line": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156157, 
+  "creation_date": "1910", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Christy, Howard Chandler", 
+      "after_follower": null, 
+      "death_date": "1952", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295577, 
+      "role": "Illustrator", 
+      "birth_date": "1873", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10475, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

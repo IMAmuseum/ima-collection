@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.825.59", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1724", 
-            "death_date": "1774", 
-            "name": "Rooker, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1746", 
-            "death_date": "1801", 
-            "name": "Rooker, Michael Angelo", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1775", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37786, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "South Front of Queen's College"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.59", 
+  "title": "South Front of Queen's College", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234347, 
+  "creation_date": "1775", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Rooker, Edward", 
+      "after_follower": null, 
+      "death_date": "1774", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304123, 
+      "role": "Artist", 
+      "birth_date": "1724", 
+      "nationality": null
+    }, 
+    {
+      "name": "Rooker, Michael Angelo", 
+      "after_follower": null, 
+      "death_date": "1801", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304125, 
+      "role": "Engraver", 
+      "birth_date": "1746", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37786, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

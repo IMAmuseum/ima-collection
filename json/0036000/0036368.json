@@ -1,30 +1,34 @@
 {
-    "accession_number": "82.64", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Celmins, Vija", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Thomas W. Ayton Fund", 
-    "cultures": [], 
-    "dimensions": "12 3/8 x 16 1/2 in. |  31.7 x 41.9 cm. (image) |  16 1/2 x 20 1/2 in. |  41.9 x 52.1 cm. (sheet)", 
-    "dynasty": null, 
-    "irn": 36368, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Cirrus Editions"
-        }
-    ], 
-    "rights": "\u00a9 Vija Celmins", 
-    "title": "Untitled (Sky)"
+  "publishers": [
+    {
+      "name": "Cirrus Editions"
+    }
+  ], 
+  "dimensions": "12 3/8 x 16 1/2 in. |  31.7 x 41.9 cm. (image) |  16 1/2 x 20 1/2 in. |  41.9 x 52.1 cm. (sheet)", 
+  "rights": "\u00a9 Vija Celmins", 
+  "credit_line": "Thomas W. Ayton Fund", 
+  "accession_number": "82.64", 
+  "title": "Untitled (Sky)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230793, 
+  "creation_date": "1975", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Celmins, Vija", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295471, 
+      "role": "Artist", 
+      "birth_date": "1938", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36368, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

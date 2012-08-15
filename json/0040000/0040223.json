@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1320.119", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1770", 
-            "death_date": "1837", 
-            "name": "G\u00e9rard, Fran\u00e7ois", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1791", 
-            "death_date": "1857", 
-            "name": "Finden, Edward", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1834", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40223, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madame de Stael"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1320.119", 
+  "title": "Madame de Stael", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18241177, 
+  "creation_date": "1834", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "G\u00e9rard, Fran\u00e7ois", 
+      "after_follower": null, 
+      "death_date": "1837", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304611, 
+      "role": "Artist", 
+      "birth_date": "1770", 
+      "nationality": null
+    }, 
+    {
+      "name": "Finden, Edward", 
+      "after_follower": null, 
+      "death_date": "1857", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304265, 
+      "role": "Engraver", 
+      "birth_date": "1791", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40223, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.85", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1927", 
-            "death_date": null, 
-            "name": "Hollander, Irwin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Gift of Dr. Frederick P. Nause and Rebecca Nause", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28043, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "B. Bear"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Frederick P. Nause and Rebecca Nause", 
+  "accession_number": "80.85", 
+  "title": "B. Bear", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211493, 
+  "creation_date": "1978", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Hollander, Irwin", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298505, 
+      "role": "Artist", 
+      "birth_date": "1927", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28043, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

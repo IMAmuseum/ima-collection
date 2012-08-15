@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.11.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1471", 
-            "death_date": "1528", 
-            "name": "D\u00fcrer, Albrecht", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1496", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18787, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Knight and Lansquenet"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "67.11.1", 
+  "title": "Knight and Lansquenet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190063, 
+  "creation_date": "about 1496", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "D\u00fcrer, Albrecht", 
+      "after_follower": null, 
+      "death_date": "1528", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297251, 
+      "role": "Artist", 
+      "birth_date": "1471", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18787, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.285", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1930", 
-            "name": "Puigaudeau, Fernand", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "19 5/8 x 25 5/8 in.", 
-    "dynasty": null, 
-    "irn": 31766, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Pond at Sunset (La Mare au coucher du soleil)"
+  "publishers": [], 
+  "dimensions": "19 5/8 x 25 5/8 in.", 
+  "rights": null, 
+  "credit_line": "The Holliday Collection", 
+  "accession_number": "79.285", 
+  "title": "The Pond at Sunset (La Mare au coucher du soleil)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220127, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Puigaudeau, Fernand", 
+      "after_follower": null, 
+      "death_date": "1930", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303107, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31766, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

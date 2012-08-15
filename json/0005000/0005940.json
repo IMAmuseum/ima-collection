@@ -1,34 +1,40 @@
 {
-    "accession_number": "1992.147", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Marvin Lipofsky", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1942", 
-            "death_date": null, 
-            "name": "Toso, Gianni", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1977-1978", 
-    "credit_line": "Gift of Marilyn and Eugene Glick", 
-    "cultures": [], 
-    "dimensions": "A) 7 x 13 x 10 in. | B) 14 x 16 x 18 in.", 
-    "dynasty": null, 
-    "irn": 5940, 
-    "materials": "blown glass, cut and polished", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Marvin Lipofsky", 
-    "title": "Serie Fratelli Toso - Split Piece"
+  "publishers": [], 
+  "rights": "\u00a9 Marvin Lipofsky", 
+  "dimensions": "A) 7 x 13 x 10 in. | B) 14 x 16 x 18 in.", 
+  "title": "Serie Fratelli Toso - Split Piece", 
+  "accession_number": "1992.147", 
+  "credit_line": "Gift of Marilyn and Eugene Glick", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145353, 
+  "creation_date": "1977-1978", 
+  "materials": "blown glass, cut and polished", 
+  "actors": [
+    {
+      "name": "Marvin Lipofsky", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297287, 
+      "role": "Artist", 
+      "birth_date": "1938", 
+      "nationality": null
+    }, 
+    {
+      "name": "Toso, Gianni", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297291, 
+      "role": "Artist", 
+      "birth_date": "1942", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5940, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

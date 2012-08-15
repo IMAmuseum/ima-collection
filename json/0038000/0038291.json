@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.164", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1772-1844", 
-            "death_date": "1772-1844", 
-            "name": "Minzan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1859", 
-    "credit_line": "Gift in memory of Dorothy Whipple Robinson", 
-    "cultures": [], 
-    "dimensions": "60 1/8 x 107 7/8 in.", 
-    "dynasty": null, 
-    "irn": 38291, 
-    "materials": "ink and color on paper, six-panel screen", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Activity at a Kiln"
+  "publishers": [], 
+  "dimensions": "60 1/8 x 107 7/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift in memory of Dorothy Whipple Robinson", 
+  "accession_number": "2000.164", 
+  "title": "Activity at a Kiln", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18235743, 
+  "creation_date": "1859", 
+  "materials": "ink and color on paper, six-panel screen", 
+  "actors": [
+    {
+      "name": "Minzan", 
+      "after_follower": null, 
+      "death_date": "1772-1844", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304293, 
+      "role": "Artist", 
+      "birth_date": "1772-1844", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38291, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

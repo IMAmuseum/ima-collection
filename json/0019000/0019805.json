@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.140", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Fraser, Alexander II", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19805, 
-    "materials": "monotype and drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Chateau, Etaples"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
+  "accession_number": "79.140", 
+  "title": "Le Chateau, Etaples", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192441, 
+  "creation_date": "19th century", 
+  "materials": "monotype and drypoint", 
+  "actors": [
+    {
+      "name": "Fraser, Alexander II", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300855, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 19805, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

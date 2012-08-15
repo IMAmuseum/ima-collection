@@ -1,42 +1,50 @@
 {
-    "accession_number": "2008.339.4B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Gwathmey, Charles", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1939", 
-            "death_date": null, 
-            "name": "Siegel, Robert H.", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Swid Powell Company", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "about 1985", 
-    "credit_line": "Gift of Dorothy and Lee Alig", 
-    "cultures": [], 
-    "dimensions": "2 1/8 x 3 9/16 (diam) in.", 
-    "dynasty": null, 
-    "irn": 66449, 
-    "materials": "ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Charles Gwathmey", 
-    "title": "Tuxedo cup"
+  "publishers": [], 
+  "dimensions": "2 1/8 x 3 9/16 (diam) in.", 
+  "rights": "\u00a9 Charles Gwathmey", 
+  "credit_line": "Gift of Dorothy and Lee Alig", 
+  "accession_number": "2008.339.4B", 
+  "title": "Tuxedo cup", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280873, 
+  "creation_date": "about 1985", 
+  "materials": "ceramic", 
+  "actors": [
+    {
+      "name": "Gwathmey, Charles", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303639, 
+      "role": "Designer", 
+      "birth_date": "1938", 
+      "nationality": null
+    }, 
+    {
+      "name": "Siegel, Robert H.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303643, 
+      "role": "Designer", 
+      "birth_date": "1939", 
+      "nationality": null
+    }, 
+    {
+      "name": "Swid Powell Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296515, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 66449, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

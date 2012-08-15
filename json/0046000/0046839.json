@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.201A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1781", 
-            "death_date": "1835", 
-            "name": "Pinelli, Bartolomeo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1813", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46839, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Title Page"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.201A", 
+  "title": "Title Page", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18257501, 
+  "creation_date": "1813", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Pinelli, Bartolomeo", 
+      "after_follower": null, 
+      "death_date": "1835", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296649, 
+      "role": "Artist", 
+      "birth_date": "1781", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46839, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

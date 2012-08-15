@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.1017", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1697", 
-            "death_date": "1764", 
-            "name": "Hogarth, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1746", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": "13 1/8 x 8 1/4 in. (image)\n17 x 11 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 7881, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Simon, Lord Lovat"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 1/8 x 8 1/4 in. (image)\n17 x 11 1/8 in. (sheet)", 
+  "title": "Simon, Lord Lovat", 
+  "accession_number": "30.1017", 
+  "credit_line": "Gift of William George Sullivan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149947, 
+  "creation_date": "1746", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Hogarth, William", 
+      "after_follower": null, 
+      "death_date": "1764", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294939, 
+      "role": "Artist", 
+      "birth_date": "1697", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7881, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

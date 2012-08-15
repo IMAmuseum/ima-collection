@@ -1,26 +1,30 @@
 {
-    "accession_number": "53.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1790", 
-            "death_date": "1848", 
-            "name": "Ikeda Eisen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 52708, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Oiwake"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "53.10", 
+  "title": "Oiwake", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18267735, 
+  "creation_date": null, 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Ikeda Eisen", 
+      "after_follower": null, 
+      "death_date": "1848", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305513, 
+      "role": "Artist", 
+      "birth_date": "1790", 
+      "nationality": null
+    }
+  ], 
+  "irn": 52708, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

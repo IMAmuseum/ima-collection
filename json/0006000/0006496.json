@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Tardieu, Nicolas Henri", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th-18th century", 
-    "credit_line": "Director's Discretionery Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6496, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L' Autonne"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "L' Autonne", 
+  "accession_number": "75.9", 
+  "credit_line": "Director's Discretionery Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18146673, 
+  "creation_date": "17th-18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Tardieu, Nicolas Henri", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297445, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 6496, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

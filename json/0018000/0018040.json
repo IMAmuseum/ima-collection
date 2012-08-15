@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.326", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": null, 
-            "name": "Richard Sapper", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Artemide S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1972", 
-    "credit_line": "Gift of James E. and Patricia J. LaCrosse", 
-    "cultures": [], 
-    "dimensions": "H: 32 1/2 in.", 
-    "dynasty": null, 
-    "irn": 18040, 
-    "materials": "ABS plastic, aluminum, metal alloy, electrical, and halogen bulb", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Richard Sapper", 
-    "title": "Tizio table lamp"
+  "publishers": [], 
+  "dimensions": "H: 32 1/2 in.", 
+  "rights": "\u00a9 Richard Sapper", 
+  "credit_line": "Gift of James E. and Patricia J. LaCrosse", 
+  "accession_number": "2009.326", 
+  "title": "Tizio table lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18174787, 
+  "creation_date": "1972", 
+  "materials": "ABS plastic, aluminum, metal alloy, electrical, and halogen bulb", 
+  "actors": [
+    {
+      "name": "Richard Sapper", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300501, 
+      "role": "Designer", 
+      "birth_date": "1932", 
+      "nationality": null
+    }, 
+    {
+      "name": "Artemide S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300503, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 18040, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

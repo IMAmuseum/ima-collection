@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.84.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1747-1812", 
-            "death_date": "1747-1812", 
-            "name": "Jukes, Francis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1790", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26086, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cottage in North Wales"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Discretionary Fund", 
+  "accession_number": "73.84.2", 
+  "title": "Cottage in North Wales", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18206873, 
+  "creation_date": "1790", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Jukes, Francis", 
+      "after_follower": null, 
+      "death_date": "1747-1812", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300757, 
+      "role": "Artist", 
+      "birth_date": "1747-1812", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26086, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

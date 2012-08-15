@@ -1,26 +1,30 @@
 {
-    "accession_number": "22.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1890", 
-            "death_date": "1947", 
-            "name": "Carl C. Graf", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1921-1921", 
-    "credit_line": "General Fund", 
-    "cultures": [], 
-    "dimensions": "33 5/8 x 37 1/2 in.\n41 x 45 in. (framed)", 
-    "dynasty": null, 
-    "irn": 31893, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Vineclad"
+  "publishers": [], 
+  "dimensions": "33 5/8 x 37 1/2 in.\n41 x 45 in. (framed)", 
+  "rights": null, 
+  "credit_line": "General Fund", 
+  "accession_number": "22.4", 
+  "title": "Vineclad", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220413, 
+  "creation_date": "1921-1921", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Carl C. Graf", 
+      "after_follower": null, 
+      "death_date": "1947", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303143, 
+      "role": "Artist", 
+      "birth_date": "1890", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31893, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

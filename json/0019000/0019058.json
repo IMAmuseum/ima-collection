@@ -1,26 +1,30 @@
 {
-    "accession_number": "58.89", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1621", 
-            "death_date": "1674", 
-            "name": "Eeckhout, Gerbrand van den", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1669", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "10 5/8 x 8 1/16 in.", 
-    "dynasty": null, 
-    "irn": 19058, 
-    "materials": "oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Vertumnus and Pomona"
+  "publishers": [], 
+  "dimensions": "10 5/8 x 8 1/16 in.", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "58.89", 
+  "title": "Vertumnus and Pomona", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190775, 
+  "creation_date": "about 1669", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Eeckhout, Gerbrand van den", 
+      "after_follower": null, 
+      "death_date": "1674", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300725, 
+      "role": "Artist", 
+      "birth_date": "1621", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19058, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

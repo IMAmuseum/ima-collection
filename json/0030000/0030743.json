@@ -1,26 +1,30 @@
 {
-    "accession_number": "46.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "1909", 
-            "name": "Remington, Frederic", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1898", 
-    "credit_line": "Gift of Mrs. Theodore B. Griffith", 
-    "cultures": [], 
-    "dimensions": "H: 23 1/4 in.", 
-    "dynasty": null, 
-    "irn": 30743, 
-    "materials": "bronze", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bronco Buster"
+  "publishers": [], 
+  "dimensions": "H: 23 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Theodore B. Griffith", 
+  "accession_number": "46.16", 
+  "title": "Bronco Buster", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18217819, 
+  "creation_date": "1898", 
+  "materials": "bronze", 
+  "actors": [
+    {
+      "name": "Remington, Frederic", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297453, 
+      "role": "Artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30743, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2004.49", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1773", 
-            "death_date": "1845", 
-            "name": "Okamoto Toyohiko", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1822", 
-    "credit_line": "Gift of Catharine Lichtenauer", 
-    "cultures": [], 
-    "dimensions": "12 5/8 x 179 7/8 in. (scroll)", 
-    "dynasty": null, 
-    "irn": 61951, 
-    "materials": "ink and light colors on paper, handscroll", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rocks"
+  "publishers": [], 
+  "dimensions": "12 5/8 x 179 7/8 in. (scroll)", 
+  "rights": null, 
+  "credit_line": "Gift of Catharine Lichtenauer", 
+  "accession_number": "2004.49", 
+  "title": "Rocks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18277397, 
+  "creation_date": "1822", 
+  "materials": "ink and light colors on paper, handscroll", 
+  "actors": [
+    {
+      "name": "Okamoto Toyohiko", 
+      "after_follower": null, 
+      "death_date": "1845", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306273, 
+      "role": "Artist", 
+      "birth_date": "1773", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61951, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

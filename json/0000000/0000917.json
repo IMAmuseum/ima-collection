@@ -1,34 +1,40 @@
 {
-    "accession_number": "1986.237A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": null, 
-            "name": "Bohan, Marc", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Christian Dior Couture", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "late 1960s", 
-    "credit_line": "Gift of Jane B. Holzer", 
-    "cultures": [], 
-    "dimensions": "L: 24 1/2 in.", 
-    "dynasty": null, 
-    "irn": 917, 
-    "materials": "silk chiffon, sequins, paillettes, leather (belt)", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "dress with belt"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "L: 24 1/2 in.", 
+  "title": "dress with belt", 
+  "accession_number": "1986.237A-B", 
+  "credit_line": "Gift of Jane B. Holzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133413, 
+  "creation_date": "late 1960s", 
+  "materials": "silk chiffon, sequins, paillettes, leather (belt)", 
+  "actors": [
+    {
+      "name": "Bohan, Marc", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295265, 
+      "role": "Designer", 
+      "birth_date": "1926", 
+      "nationality": null
+    }, 
+    {
+      "name": "Christian Dior Couture", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295267, 
+      "role": "Design House", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 917, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

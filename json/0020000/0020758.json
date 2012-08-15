@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.84.86", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1752-1835", 
-            "death_date": "1752-1835", 
-            "name": "Nash, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1789-1865", 
-            "death_date": "1789-1865", 
-            "name": "Gendall, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1827", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20758, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Marine Villa"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Discretionary Fund", 
+  "accession_number": "73.84.86", 
+  "title": "Marine Villa", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194591, 
+  "creation_date": "1827", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Nash, John", 
+      "after_follower": null, 
+      "death_date": "1752-1835", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300149, 
+      "role": "Artist", 
+      "birth_date": "1752-1835", 
+      "nationality": null
+    }, 
+    {
+      "name": "Gendall, John", 
+      "after_follower": null, 
+      "death_date": "1789-1865", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297451, 
+      "role": "Artist", 
+      "birth_date": "1789-1865", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20758, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

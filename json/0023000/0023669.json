@@ -1,26 +1,30 @@
 {
-    "accession_number": "58.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1440", 
-            "death_date": "1503", 
-            "name": "Meckenem, Israhel van, the younger", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1490-1500", 
-    "credit_line": "Kiss of the Siren Fund", 
-    "cultures": [], 
-    "dimensions": "10 5/8 x 7 1/4 in.", 
-    "dynasty": null, 
-    "irn": 23669, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Circumcision"
+  "publishers": [], 
+  "dimensions": "10 5/8 x 7 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Kiss of the Siren Fund", 
+  "accession_number": "58.5", 
+  "title": "The Circumcision", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18201293, 
+  "creation_date": "1490-1500", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Meckenem, Israhel van, the younger", 
+      "after_follower": null, 
+      "death_date": "1503", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301663, 
+      "role": "Artist", 
+      "birth_date": "1440", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23669, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

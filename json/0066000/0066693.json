@@ -1,37 +1,41 @@
 {
-    "accession_number": "2008.757", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": "2008", 
-            "name": "Hartigan, Grace", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1953", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "10 x 7 in. (image)\n10 5/8 x 7 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 66693, 
-    "materials": "screenprint on cream wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Floriano Vecchi"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Daisy Alden"
-        }, 
-        {
-            "name": "Richard Miller"
-        }
-    ], 
-    "rights": "\u00a9 Estate of Grace Hartigan", 
-    "title": "The Persian Jacket"
+  "publishers": [
+    {
+      "name": "Daisy Alden"
+    }, 
+    {
+      "name": "Richard Miller"
+    }
+  ], 
+  "dimensions": "10 x 7 in. (image)\n10 5/8 x 7 5/8 in. (sheet)", 
+  "rights": "\u00a9 Estate of Grace Hartigan", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2008.757", 
+  "title": "The Persian Jacket", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18281107, 
+  "creation_date": "1953", 
+  "materials": "screenprint on cream wove paper", 
+  "actors": [
+    {
+      "name": "Hartigan, Grace", 
+      "after_follower": null, 
+      "death_date": "2008", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303839, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 66693, 
+  "printers": [
+    {
+      "name": "Floriano Vecchi"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

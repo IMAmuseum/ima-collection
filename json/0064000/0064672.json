@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.405", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1959", 
-            "death_date": null, 
-            "name": "Tom Dixon", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Cappellini Design SpA", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1988", 
-    "credit_line": "Deaccessioned Decorative/Design Art Fund", 
-    "cultures": [], 
-    "dimensions": "40 1/8 \u00d7 19 3/4 \u00d7 16 5/8 in.", 
-    "dynasty": null, 
-    "irn": 64672, 
-    "materials": "steel and rush", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Tom Dixon", 
-    "title": "S Chair"
+  "publishers": [], 
+  "dimensions": "40 1/8 \u00d7 19 3/4 \u00d7 16 5/8 in.", 
+  "rights": "\u00a9 Tom Dixon", 
+  "credit_line": "Deaccessioned Decorative/Design Art Fund", 
+  "accession_number": "2009.405", 
+  "title": "S Chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279181, 
+  "creation_date": "1988", 
+  "materials": "steel and rush", 
+  "actors": [
+    {
+      "name": "Tom Dixon", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306897, 
+      "role": "Designer", 
+      "birth_date": "1959", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cappellini Design SpA", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306803, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64672, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,42 +1,50 @@
 {
-    "accession_number": "2007.36", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1948", 
-            "death_date": "2006", 
-            "name": "Rudolf de Crignis", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Felix Harlan", 
-            "nationality": null, 
-            "role": "Printer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Carol Weaver", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "2006", 
-    "credit_line": "Ann M. Stack Fund for Contemporary Art", 
-    "cultures": [], 
-    "dimensions": "15 3/4 x 15 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 63928, 
-    "materials": "Hard and soft ground etching and drypoint on white  Magnani Pescia Satinato paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of Rudolf de Crignis", 
-    "title": "Blue"
+  "publishers": [], 
+  "dimensions": "15 3/4 x 15 3/4 in. (sheet)", 
+  "rights": "\u00a9 Estate of Rudolf de Crignis", 
+  "credit_line": "Ann M. Stack Fund for Contemporary Art", 
+  "accession_number": "2007.36", 
+  "title": "Blue", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278793, 
+  "creation_date": "2006", 
+  "materials": "Hard and soft ground etching and drypoint on white  Magnani Pescia Satinato paper", 
+  "actors": [
+    {
+      "name": "Rudolf de Crignis", 
+      "after_follower": null, 
+      "death_date": "2006", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306073, 
+      "role": "Artist", 
+      "birth_date": "1948", 
+      "nationality": null
+    }, 
+    {
+      "name": "Felix Harlan", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306737, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Carol Weaver", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306739, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63928, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

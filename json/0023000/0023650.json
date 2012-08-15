@@ -1,26 +1,30 @@
 {
-    "accession_number": "38.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1609", 
-            "death_date": "1685", 
-            "name": "Sassoferrato", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Albert J. Beveridge", 
-    "cultures": [], 
-    "dimensions": "25 1/8 x 18 13/16 in.", 
-    "dynasty": null, 
-    "irn": 23650, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna and Child"
+  "publishers": [], 
+  "dimensions": "25 1/8 x 18 13/16 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Albert J. Beveridge", 
+  "accession_number": "38.7", 
+  "title": "Madonna and Child", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18201247, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Sassoferrato", 
+      "after_follower": null, 
+      "death_date": "1685", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301655, 
+      "role": "Artist", 
+      "birth_date": "1609", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23650, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

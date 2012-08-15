@@ -1,26 +1,30 @@
 {
-    "accession_number": "48.92", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1862", 
-            "death_date": "1928", 
-            "name": "Davies, Arthur Bowen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1925", 
-    "credit_line": "Gift of Phillip L. Goodwin", 
-    "cultures": [], 
-    "dimensions": "10 1/2 x 14 1/2", 
-    "dynasty": null, 
-    "irn": 23508, 
-    "materials": "gouache on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "La Grande Jatte, Seine"
+  "publishers": [], 
+  "dimensions": "10 1/2 x 14 1/2", 
+  "rights": null, 
+  "credit_line": "Gift of Phillip L. Goodwin", 
+  "accession_number": "48.92", 
+  "title": "La Grande Jatte, Seine", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200927, 
+  "creation_date": "1925", 
+  "materials": "gouache on paper", 
+  "actors": [
+    {
+      "name": "Davies, Arthur Bowen", 
+      "after_follower": null, 
+      "death_date": "1928", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297081, 
+      "role": "Artist", 
+      "birth_date": "1862", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23508, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

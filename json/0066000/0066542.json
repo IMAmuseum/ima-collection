@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.298", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1961", 
-            "death_date": null, 
-            "name": "Junya Watanabe", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Comme des Gar\u00e7ons", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2003", 
-    "credit_line": "Deaccessioned Textiles Fund", 
-    "cultures": [], 
-    "dimensions": "L: 48 in.\nW: 52 in.\nsize: M", 
-    "dynasty": null, 
-    "irn": 66542, 
-    "materials": "Polyester, cotton twill tape, metal buckles", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "dress"
+  "publishers": [], 
+  "dimensions": "L: 48 in.\nW: 52 in.\nsize: M", 
+  "rights": null, 
+  "credit_line": "Deaccessioned Textiles Fund", 
+  "accession_number": "2009.298", 
+  "title": "dress", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18281057, 
+  "creation_date": "2003", 
+  "materials": "Polyester, cotton twill tape, metal buckles", 
+  "actors": [
+    {
+      "name": "Junya Watanabe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307567, 
+      "role": "Designer", 
+      "birth_date": "1961", 
+      "nationality": null
+    }, 
+    {
+      "name": "Comme des Gar\u00e7ons", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307569, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 66542, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

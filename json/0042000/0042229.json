@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1875", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1819", 
-            "death_date": "1900", 
-            "name": "Ruskin, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1877", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 42229, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Glastonbury"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1875", 
+  "title": "Glastonbury", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18246781, 
+  "creation_date": "1877", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Ruskin, John", 
+      "after_follower": null, 
+      "death_date": "1900", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294805, 
+      "role": "Artist", 
+      "birth_date": "1819", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42229, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

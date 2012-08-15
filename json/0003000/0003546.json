@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.265", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1757", 
-            "death_date": "1827", 
-            "name": "Blake, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1825", 
-    "credit_line": "Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3546, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hell is Naked Before Him and Destruction has no Covering"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Hell is Naked Before Him and Destruction has no Covering", 
+  "accession_number": "32.265", 
+  "credit_line": "Julius F. Pratt Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18139693, 
+  "creation_date": "1825", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Blake, William", 
+      "after_follower": null, 
+      "death_date": "1827", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296425, 
+      "role": "Artist", 
+      "birth_date": "1757", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3546, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.84.48", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775-1847", 
-            "death_date": "1775-1847", 
-            "name": "Papworth, John Buonarotti", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1818", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 30778, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cottage Orn\u00e9e"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Discretionary Fund", 
+  "accession_number": "73.84.48", 
+  "title": "Cottage Orn\u00e9e", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18217893, 
+  "creation_date": "1818", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Papworth, John Buonarotti", 
+      "after_follower": null, 
+      "death_date": "1775-1847", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299533, 
+      "role": "Artist", 
+      "birth_date": "1775-1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30778, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

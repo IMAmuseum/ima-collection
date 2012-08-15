@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.808", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1933", 
-            "death_date": null, 
-            "name": "Rosenquist, James Albert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 805, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Miles"
+  "publishers": [], 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "dimensions": null, 
+  "title": "Miles", 
+  "accession_number": "81.808", 
+  "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133129, 
+  "creation_date": "1975", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Rosenquist, James Albert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295201, 
+      "role": "Artist", 
+      "birth_date": "1933", 
+      "nationality": null
+    }
+  ], 
+  "irn": 805, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

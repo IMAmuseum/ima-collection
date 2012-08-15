@@ -1,26 +1,30 @@
 {
-    "accession_number": "44.74", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1853", 
-            "death_date": "1890", 
-            "name": "Gogh, Vincent van", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1889", 
-    "credit_line": "Gift of Mrs James W. Fesler in memory of Daniel W. and Elizabeth C. Marmon", 
-    "cultures": [], 
-    "dimensions": "29 x 36 1/4 in. (sight)", 
-    "dynasty": null, 
-    "irn": 11636, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape at Saint-R\u00e9my (Enclosed Field with Peasant)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "29 x 36 1/4 in. (sight)", 
+  "title": "Landscape at Saint-R\u00e9my (Enclosed Field with Peasant)", 
+  "accession_number": "44.74", 
+  "credit_line": "Gift of Mrs James W. Fesler in memory of Daniel W. and Elizabeth C. Marmon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18158921, 
+  "creation_date": "1889", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Gogh, Vincent van", 
+      "after_follower": null, 
+      "death_date": "1890", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298895, 
+      "role": "Artist", 
+      "birth_date": "1853", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11636, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

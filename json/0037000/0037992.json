@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.825.54", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1724", 
-            "death_date": "1774", 
-            "name": "Rooker, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1746", 
-            "death_date": "1801", 
-            "name": "Rooker, Michael Angelo", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1769", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37992, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "View of All Souls College"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.54", 
+  "title": "View of All Souls College", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234925, 
+  "creation_date": "1769", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Rooker, Edward", 
+      "after_follower": null, 
+      "death_date": "1774", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304123, 
+      "role": "Artist", 
+      "birth_date": "1724", 
+      "nationality": null
+    }, 
+    {
+      "name": "Rooker, Michael Angelo", 
+      "after_follower": null, 
+      "death_date": "1801", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304125, 
+      "role": "Engraver", 
+      "birth_date": "1746", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37992, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

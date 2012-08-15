@@ -1,42 +1,50 @@
 {
-    "accession_number": "2010.260A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1974", 
-            "death_date": null, 
-            "name": "Dan Black", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1964", 
-            "death_date": null, 
-            "name": "Martin Blum", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Black + Blum Ltd.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2004", 
-    "credit_line": "Gift of David A. Hanks, in honor of George R. Kravis II", 
-    "cultures": [], 
-    "dimensions": "A) Diam.: 10 1/4 in.\nB) L: 7 in.", 
-    "dynasty": null, 
-    "irn": 69109, 
-    "materials": "zinc alloy, cast aluminum, and rubber", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Black + Blum Ltd.", 
-    "title": "Propello desktop fan"
+  "publishers": [], 
+  "dimensions": "A) Diam.: 10 1/4 in.\nB) L: 7 in.", 
+  "rights": "\u00a9 Black + Blum Ltd.", 
+  "credit_line": "Gift of David A. Hanks, in honor of George R. Kravis II", 
+  "accession_number": "2010.260A-B", 
+  "title": "Propello desktop fan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284129, 
+  "creation_date": "2004", 
+  "materials": "zinc alloy, cast aluminum, and rubber", 
+  "actors": [
+    {
+      "name": "Dan Black", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308155, 
+      "role": "Designer", 
+      "birth_date": "1974", 
+      "nationality": null
+    }, 
+    {
+      "name": "Martin Blum", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308157, 
+      "role": "Designer", 
+      "birth_date": "1964", 
+      "nationality": null
+    }, 
+    {
+      "name": "Black + Blum Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308161, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69109, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

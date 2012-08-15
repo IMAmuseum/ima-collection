@@ -1,34 +1,40 @@
 {
-    "accession_number": "LH2005.53", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Josiah Wedgwood and Sons, Ltd.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Thomas Lovatt", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "1800-1825", 
-    "credit_line": "Bequest of Ann McClelland Ropkey", 
-    "cultures": [], 
-    "dimensions": "10 x 7 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 6847, 
-    "materials": "stoneware", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase (copy of Portland Vase)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "10 x 7 (diam.) in.", 
+  "title": "vase (copy of Portland Vase)", 
+  "accession_number": "LH2005.53", 
+  "credit_line": "Bequest of Ann McClelland Ropkey", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147503, 
+  "creation_date": "1800-1825", 
+  "materials": "stoneware", 
+  "actors": [
+    {
+      "name": "Josiah Wedgwood and Sons, Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296273, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Thomas Lovatt", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297561, 
+      "role": "Modeler", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 6847, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

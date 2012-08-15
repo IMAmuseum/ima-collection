@@ -1,34 +1,40 @@
 {
-    "accession_number": "30.981", 
-    "actors": [
-        {
-            "after_follower": "After", 
-            "birth_date": "1697", 
-            "death_date": "1764", 
-            "name": "Hogarth, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1696", 
-            "death_date": "1766", 
-            "name": "Baron, Bernard", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1745", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": "13 7/8 x 17 5/8 in. (image)\n17 1/8 x 21 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 3156, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Quack: Marriage \u00e1 la Mode, Plate 3"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 7/8 x 17 5/8 in. (image)\n17 1/8 x 21 1/8 in. (sheet)", 
+  "title": "The Quack: Marriage \u00e1 la Mode, Plate 3", 
+  "accession_number": "30.981", 
+  "credit_line": "Gift of William George Sullivan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138777, 
+  "creation_date": "1745", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Hogarth, William", 
+      "after_follower": "After", 
+      "death_date": "1764", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294939, 
+      "role": "Artist", 
+      "birth_date": "1697", 
+      "nationality": null
+    }, 
+    {
+      "name": "Baron, Bernard", 
+      "after_follower": null, 
+      "death_date": "1766", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296277, 
+      "role": "Engraver", 
+      "birth_date": "1696", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3156, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

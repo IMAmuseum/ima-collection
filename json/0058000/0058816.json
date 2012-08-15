@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.70.64C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Justin Vulliamy", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "op.1774-d.1805", 
-            "death_date": "1805", 
-            "name": "William H. Craft", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1774-1775", 
-    "credit_line": "Bequest of Ruth Allison Lilly", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 58816, 
-    "materials": "gold, enamel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "key for double cased watch"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Ruth Allison Lilly", 
+  "accession_number": "73.70.64C", 
+  "title": "key for double cased watch", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18275873, 
+  "creation_date": "1774-1775", 
+  "materials": "gold, enamel", 
+  "actors": [
+    {
+      "name": "Justin Vulliamy", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305789, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "William H. Craft", 
+      "after_follower": null, 
+      "death_date": "1805", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305795, 
+      "role": "Artist", 
+      "birth_date": "op.1774-d.1805", 
+      "nationality": null
+    }
+  ], 
+  "irn": 58816, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

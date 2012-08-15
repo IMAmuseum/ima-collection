@@ -1,33 +1,37 @@
 {
-    "accession_number": "LH2003.1O-P", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "George Borrow", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1923-1924", 
-    "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
-    "cultures": [], 
-    "dimensions": "9 3/8 x 6 1/4 in. (each)", 
-    "dynasty": null, 
-    "irn": 63012, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Constable & Co. Ltd."
-        }, 
-        {
-            "name": "Gabriel Wells"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Works of George Borrow (volumes 15-16)"
+  "publishers": [
+    {
+      "name": "Constable & Co. Ltd."
+    }, 
+    {
+      "name": "Gabriel Wells"
+    }
+  ], 
+  "dimensions": "9 3/8 x 6 1/4 in. (each)", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
+  "accession_number": "LH2003.1O-P", 
+  "title": "The Works of George Borrow (volumes 15-16)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278205, 
+  "creation_date": "1923-1924", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "George Borrow", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306081, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63012, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,42 +1,50 @@
 {
-    "accession_number": "MH2010.62", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1907", 
-            "death_date": "1978", 
-            "name": "Eames, Charles", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": "1988", 
-            "name": "Eames, Ray Kaiser", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1907", 
-            "death_date": "1993", 
-            "name": "Girard, Alexander Hayden", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "about 1955", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "15 x 24 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 69855, 
-    "materials": "cloth, metal", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Alexander Hayden Girard \u00a9 Charles and Ray Eames", 
-    "title": "Ottoman"
+  "publishers": [], 
+  "dimensions": "15 x 24 (diam.) in.", 
+  "rights": "\u00a9 Alexander Hayden Girard \u00a9 Charles and Ray Eames", 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.62", 
+  "title": "Ottoman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18285685, 
+  "creation_date": "about 1955", 
+  "materials": "cloth, metal", 
+  "actors": [
+    {
+      "name": "Eames, Charles", 
+      "after_follower": null, 
+      "death_date": "1978", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307585, 
+      "role": "Designer", 
+      "birth_date": "1907", 
+      "nationality": null
+    }, 
+    {
+      "name": "Eames, Ray Kaiser", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307587, 
+      "role": "Designer", 
+      "birth_date": "1912", 
+      "nationality": null
+    }, 
+    {
+      "name": "Girard, Alexander Hayden", 
+      "after_follower": null, 
+      "death_date": "1993", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308141, 
+      "role": "Designer", 
+      "birth_date": "1907", 
+      "nationality": null
+    }
+  ], 
+  "irn": 69855, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "62.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1760", 
-            "death_date": "1849", 
-            "name": "Katsushika Hokusai", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1760-1849", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "13 1/2 x 19 3/4", 
-    "dynasty": null, 
-    "irn": 33278, 
-    "materials": "ink | Colors On Silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dream of the Rush Gatherer"
+  "publishers": [], 
+  "dimensions": "13 1/2 x 19 3/4", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "62.8", 
+  "title": "Dream of the Rush Gatherer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18223683, 
+  "creation_date": "1760-1849", 
+  "materials": "ink | Colors On Silk", 
+  "actors": [
+    {
+      "name": "Katsushika Hokusai", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298933, 
+      "role": "Artist", 
+      "birth_date": "1760", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33278, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

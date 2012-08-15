@@ -1,34 +1,40 @@
 {
-    "accession_number": "82.95", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1989", 
-            "name": "Valentina Sanina", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Valentina Gowns, Inc.", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "about 1935", 
-    "credit_line": "Gift of David W. Campbell in memory of his mother Ella Marie Lilly Campbell", 
-    "cultures": [], 
-    "dimensions": "L: 59 3/4 in.", 
-    "dynasty": null, 
-    "irn": 34297, 
-    "materials": "silk crepe", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "evening dress"
+  "publishers": [], 
+  "dimensions": "L: 59 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of David W. Campbell in memory of his mother Ella Marie Lilly Campbell", 
+  "accession_number": "82.95", 
+  "title": "evening dress", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18226037, 
+  "creation_date": "about 1935", 
+  "materials": "silk crepe", 
+  "actors": [
+    {
+      "name": "Valentina Sanina", 
+      "after_follower": null, 
+      "death_date": "1989", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303527, 
+      "role": "Designer", 
+      "birth_date": "1904", 
+      "nationality": null
+    }, 
+    {
+      "name": "Valentina Gowns, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303531, 
+      "role": "Design House", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 34297, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

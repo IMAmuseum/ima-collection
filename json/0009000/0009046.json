@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.680", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": "1984", 
-            "name": "Winogrand, Garry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1974", 
-    "credit_line": "Gift of Dr. and Mrs. F.E. McAree", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9046, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Austin, Texas"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Austin, Texas", 
+  "accession_number": "79.680", 
+  "credit_line": "Gift of Dr. and Mrs. F.E. McAree", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152751, 
+  "creation_date": "1974", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Winogrand, Garry", 
+      "after_follower": null, 
+      "death_date": "1984", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297281, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9046, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

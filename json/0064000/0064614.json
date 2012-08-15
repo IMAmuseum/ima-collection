@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.66", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1978", 
-            "death_date": null, 
-            "name": "Maarten Baas", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Moooi", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2002", 
-    "credit_line": "Gift of IMA Design Center", 
-    "cultures": [], 
-    "dimensions": "41 3/8 \u00d7 28 \u00d7 28 in. (104.9 \u00d7 71.1 \u00d7 71.1 cm)\n41 1/2 x 28 1/2 x 28 1/2 inches", 
-    "dynasty": null, 
-    "irn": 64614, 
-    "materials": "wood and leather", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Moooi \u00a9 Maarten Baas", 
-    "title": "Smoke lounge chair"
+  "publishers": [], 
+  "dimensions": "41 3/8 \u00d7 28 \u00d7 28 in. (104.9 \u00d7 71.1 \u00d7 71.1 cm)\n41 1/2 x 28 1/2 x 28 1/2 inches", 
+  "rights": "\u00a9 Moooi \u00a9 Maarten Baas", 
+  "credit_line": "Gift of IMA Design Center", 
+  "accession_number": "2010.66", 
+  "title": "Smoke lounge chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279101, 
+  "creation_date": "2002", 
+  "materials": "wood and leather", 
+  "actors": [
+    {
+      "name": "Maarten Baas", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306789, 
+      "role": "Designer", 
+      "birth_date": "1978", 
+      "nationality": null
+    }, 
+    {
+      "name": "Moooi", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306793, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64614, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

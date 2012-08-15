@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.492", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Eero Koivisto", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Offecct AB", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2004", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
-    "cultures": [], 
-    "dimensions": "17 3/8 \u00d7 21 \u00bc \u00d7 21 \u00bc in.", 
-    "dynasty": null, 
-    "irn": 67395, 
-    "materials": "polyurethane", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Eero Koivisto", 
-    "title": "Flower stool"
+  "publishers": [], 
+  "dimensions": "17 3/8 \u00d7 21 \u00bc \u00d7 21 \u00bc in.", 
+  "rights": "\u00a9 Eero Koivisto", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
+  "accession_number": "2009.492", 
+  "title": "Flower stool", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282753, 
+  "creation_date": "2004", 
+  "materials": "polyurethane", 
+  "actors": [
+    {
+      "name": "Eero Koivisto", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307659, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Offecct AB", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307661, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67395, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

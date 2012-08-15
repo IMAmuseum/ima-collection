@@ -1,26 +1,30 @@
 {
-    "accession_number": "08.103", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1874", 
-            "death_date": "1954", 
-            "name": "Longman, Evelyn Beatrice", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 47080, 
-    "materials": "plaster cast reproduction", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Ryle Memorial"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "08.103", 
+  "title": "The Ryle Memorial", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18258041, 
+  "creation_date": null, 
+  "materials": "plaster cast reproduction", 
+  "actors": [
+    {
+      "name": "Longman, Evelyn Beatrice", 
+      "after_follower": null, 
+      "death_date": "1954", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300231, 
+      "role": "Artist", 
+      "birth_date": "1874", 
+      "nationality": null
+    }
+  ], 
+  "irn": 47080, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

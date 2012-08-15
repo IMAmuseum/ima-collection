@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.255A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1925", 
-            "death_date": null, 
-            "name": "Venturi, Robert", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1980", 
-            "death_date": "1989", 
-            "name": "Venturi, Rauch, and Scott Brown", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1985", 
-    "credit_line": "Gift of Robert and Lisa Kessler", 
-    "cultures": [], 
-    "dimensions": "A) 29 3/4 x 11 3/4 x 10 in.; B) 29 3/4 x 11 3/4 x 10 in.", 
-    "dynasty": null, 
-    "irn": 68934, 
-    "materials": "wood and plastic laminate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Robert Venturi", 
-    "title": "pair of sconces (prototypes)"
+  "publishers": [], 
+  "dimensions": "A) 29 3/4 x 11 3/4 x 10 in.; B) 29 3/4 x 11 3/4 x 10 in.", 
+  "rights": "\u00a9 Robert Venturi", 
+  "credit_line": "Gift of Robert and Lisa Kessler", 
+  "accession_number": "2010.255A-B", 
+  "title": "pair of sconces (prototypes)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283881, 
+  "creation_date": "about 1985", 
+  "materials": "wood and plastic laminate", 
+  "actors": [
+    {
+      "name": "Venturi, Robert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307279, 
+      "role": "Designer", 
+      "birth_date": "1925", 
+      "nationality": null
+    }, 
+    {
+      "name": "Venturi, Rauch, and Scott Brown", 
+      "after_follower": null, 
+      "death_date": "1989", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308065, 
+      "role": "Manufacturer", 
+      "birth_date": "1980", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68934, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

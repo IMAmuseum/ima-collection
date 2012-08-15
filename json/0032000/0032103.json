@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.355", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1876", 
-            "death_date": "1934", 
-            "name": "Norton, John Warner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1917-1918", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32103, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Keep These Off the U.S.A."
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "80.355", 
+  "title": "Keep These Off the U.S.A.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220909, 
+  "creation_date": "1917-1918", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Norton, John Warner", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303171, 
+      "role": "Artist", 
+      "birth_date": "1876", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32103, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

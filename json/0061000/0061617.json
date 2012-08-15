@@ -1,26 +1,30 @@
 {
-    "accession_number": "2004.23A-H", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1597", 
-            "death_date": "1645", 
-            "name": "Yang Wencong", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1644", 
-    "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
-    "cultures": [], 
-    "dimensions": "11 7/8 x 9 3/4 in. (image)\n15 1/4 x 11 7/8 x 1 1/8 in. (album)", 
-    "dynasty": "Ming dynasty", 
-    "irn": 61617, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": "Chongzhen", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Album of Landscape Paintings"
+  "publishers": [], 
+  "dimensions": "11 7/8 x 9 3/4 in. (image)\n15 1/4 x 11 7/8 x 1 1/8 in. (album)", 
+  "rights": null, 
+  "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
+  "accession_number": "2004.23A-H", 
+  "title": "Album of Landscape Paintings", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Chongzhen", 
+  "artisinal:id": 18277025, 
+  "creation_date": "1644", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Yang Wencong", 
+      "after_follower": null, 
+      "death_date": "1645", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306029, 
+      "role": "Artist", 
+      "birth_date": "1597", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61617, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Ming dynasty", 
+  "on_view": false
 }

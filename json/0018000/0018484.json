@@ -1,26 +1,30 @@
 {
-    "accession_number": "59.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": "French", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1570", 
-    "credit_line": "Given in memory of Dr. G. H. A. Clowes", 
-    "cultures": [], 
-    "dimensions": "21 1/4 x 17 5/8 in.", 
-    "dynasty": null, 
-    "irn": 18484, 
-    "materials": "oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Nobleman"
+  "publishers": [], 
+  "dimensions": "21 1/4 x 17 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Given in memory of Dr. G. H. A. Clowes", 
+  "accession_number": "59.24", 
+  "title": "Portrait of a Nobleman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18189315, 
+  "creation_date": "1570", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": "French"
+    }
+  ], 
+  "irn": 18484, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

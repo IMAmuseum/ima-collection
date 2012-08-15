@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.61R-DD", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Anatole France", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1924", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "9 x 6 in. (each)", 
-    "dynasty": null, 
-    "irn": 63011, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Gabriel Wells"
-        }
-    ], 
-    "rights": null, 
-    "title": "Works of Anatole France (volumes 18-30)"
+  "publishers": [
+    {
+      "name": "Gabriel Wells"
+    }
+  ], 
+  "dimensions": "9 x 6 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.61R-DD", 
+  "title": "Works of Anatole France (volumes 18-30)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278203, 
+  "creation_date": "1924", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Anatole France", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306259, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63011, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

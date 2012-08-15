@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.52", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1712", 
-            "death_date": "1786", 
-            "name": "S^o Shiseki", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1766", 
-    "credit_line": "Mr. and Mrs. Richard Crane Fund", 
-    "cultures": [], 
-    "dimensions": "38 1/4 x 13 1/8 in.", 
-    "dynasty": null, 
-    "irn": 15973, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cock and Hen"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "38 1/4 x 13 1/8 in.", 
+  "title": "Cock and Hen", 
+  "accession_number": "2000.52", 
+  "credit_line": "Mr. and Mrs. Richard Crane Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18169279, 
+  "creation_date": "1766", 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "S^o Shiseki", 
+      "after_follower": null, 
+      "death_date": "1786", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300019, 
+      "role": "Artist", 
+      "birth_date": "1712", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15973, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

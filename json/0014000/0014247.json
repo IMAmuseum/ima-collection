@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.707.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "May 23, 1812", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14247, 
-    "materials": "etching and mezzotint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Frontispiece"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Frontispiece", 
+  "accession_number": "80.707.6", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165305, 
+  "creation_date": "May 23, 1812", 
+  "materials": "etching and mezzotint", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14247, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

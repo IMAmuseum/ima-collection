@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1697", 
-            "death_date": "1764", 
-            "name": "Hogarth, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1725-1726", 
-    "credit_line": "Purchased from the John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "9 5/8 x 131/4 in. (image)\n10 9/16 x 13 9/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 16468, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hudibras Sallying Forth"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 5/8 x 131/4 in. (image)\n10 9/16 x 13 9/16 in. (sheet)", 
+  "title": "Hudibras Sallying Forth", 
+  "accession_number": "11.3", 
+  "credit_line": "Purchased from the John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170717, 
+  "creation_date": "1725-1726", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Hogarth, William", 
+      "after_follower": null, 
+      "death_date": "1764", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294939, 
+      "role": "Artist", 
+      "birth_date": "1697", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16468, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

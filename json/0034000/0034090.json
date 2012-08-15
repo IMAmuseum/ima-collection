@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1856", 
-            "death_date": "1932", 
-            "name": "Pieters, Evert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": "9 1/4 x ll l/2", 
-    "dynasty": null, 
-    "irn": 34090, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Marine"
+  "publishers": [], 
+  "dimensions": "9 1/4 x ll l/2", 
+  "rights": null, 
+  "credit_line": "Bequest of Delavan Smith", 
+  "accession_number": "25.20", 
+  "title": "Marine", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18225579, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Pieters, Evert", 
+      "after_follower": null, 
+      "death_date": "1932", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300745, 
+      "role": "Artist", 
+      "birth_date": "1856", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34090, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

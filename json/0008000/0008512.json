@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.314", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1954", 
-            "name": "Matisse, Henri", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1925", 
-    "credit_line": "Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8512, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Jeune Fille aux boucles brunes"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": null, 
+  "title": "Jeune Fille aux boucles brunes", 
+  "accession_number": "25.314", 
+  "credit_line": "Julius F. Pratt Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151433, 
+  "creation_date": "1925", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Matisse, Henri", 
+      "after_follower": null, 
+      "death_date": "1954", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298025, 
+      "role": "Artist", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8512, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

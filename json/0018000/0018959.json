@@ -1,34 +1,40 @@
 {
-    "accession_number": "1990.59", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1863", 
-            "death_date": "1957", 
-            "name": "Velde, Henry van de", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Meissen Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1903-1904", 
-    "credit_line": "Alicia Ballard Fine Arts Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "3 5/8  x 8 3/4 in.", 
-    "dynasty": null, 
-    "irn": 18959, 
-    "materials": "hard-paste porcelain, underglaze blue decoration", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "salad bowl"
+  "publishers": [], 
+  "dimensions": "3 5/8  x 8 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Alicia Ballard Fine Arts Purchase Fund", 
+  "accession_number": "1990.59", 
+  "title": "salad bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190519, 
+  "creation_date": "about 1903-1904", 
+  "materials": "hard-paste porcelain, underglaze blue decoration", 
+  "actors": [
+    {
+      "name": "Velde, Henry van de", 
+      "after_follower": null, 
+      "death_date": "1957", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297061, 
+      "role": "Artist", 
+      "birth_date": "1863", 
+      "nationality": null
+    }, 
+    {
+      "name": "Meissen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294771, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 18959, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

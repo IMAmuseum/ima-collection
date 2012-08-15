@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.825.52", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1731", 
-            "death_date": "1812", 
-            "name": "Malchair, John Baptist", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1767", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37990, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "View of Oxford from the South West"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.52", 
+  "title": "View of Oxford from the South West", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234919, 
+  "creation_date": "1767", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Malchair, John Baptist", 
+      "after_follower": null, 
+      "death_date": "1812", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304209, 
+      "role": "Artist", 
+      "birth_date": "1731", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37990, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.111", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1940", 
-            "death_date": "1995", 
-            "name": "Graves, Nancy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1972", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Dr. Barbara Herman", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 59194, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "V (\"Montes Apenninus Region of the Moon\")"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Dr. Barbara Herman", 
+  "accession_number": "2002.111", 
+  "title": "V (\"Montes Apenninus Region of the Moon\")", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276059, 
+  "creation_date": "1972", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Graves, Nancy", 
+      "after_follower": null, 
+      "death_date": "1995", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305821, 
+      "role": "Artist", 
+      "birth_date": "1940", 
+      "nationality": null
+    }
+  ], 
+  "irn": 59194, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

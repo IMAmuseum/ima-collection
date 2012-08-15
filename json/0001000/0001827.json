@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.1116", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Carlsen, Emil", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1827, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Connecticut Hillside"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Connecticut Hillside", 
+  "accession_number": "79.1116", 
+  "credit_line": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135671, 
+  "creation_date": "1979", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Carlsen, Emil", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295663, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1827, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

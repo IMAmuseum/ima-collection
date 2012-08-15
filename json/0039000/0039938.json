@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.256", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1930", 
-            "death_date": null, 
-            "name": "Adams, Alice", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1977", 
-    "credit_line": "Gift of Jean E. Feinberg", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 39938, 
-    "materials": "graphite on graph paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Alice Adams", 
-    "title": "Untitled (drawing for Adams House)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Alice Adams", 
+  "credit_line": "Gift of Jean E. Feinberg", 
+  "accession_number": "2000.256", 
+  "title": "Untitled (drawing for Adams House)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18240395, 
+  "creation_date": "1977", 
+  "materials": "graphite on graph paper", 
+  "actors": [
+    {
+      "name": "Adams, Alice", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304563, 
+      "role": "Artist", 
+      "birth_date": "1930", 
+      "nationality": null
+    }
+  ], 
+  "irn": 39938, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

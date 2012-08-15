@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.71", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Frederic C. Bartlett", 
-    "cultures": [], 
-    "dimensions": "22 x 32 in.\n32 x 42 1/8 in. (framed)", 
-    "dynasty": null, 
-    "irn": 31709, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape"
+  "publishers": [], 
+  "dimensions": "22 x 32 in.\n32 x 42 1/8 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Frederic C. Bartlett", 
+  "accession_number": "55.71", 
+  "title": "Landscape", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220005, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31709, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

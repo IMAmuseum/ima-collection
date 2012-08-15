@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.16.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1730", 
-            "death_date": "1771", 
-            "name": "Weirotter, Franz Edmund", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Mrs. Booth Tarkington Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 17359, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "a roman ruin"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Mrs. Booth Tarkington Fund", 
+  "accession_number": "73.16.4", 
+  "title": "a roman ruin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18173021, 
+  "creation_date": "18th century", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Weirotter, Franz Edmund", 
+      "after_follower": null, 
+      "death_date": "1771", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295623, 
+      "role": "Artist", 
+      "birth_date": "1730", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17359, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

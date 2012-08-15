@@ -1,26 +1,30 @@
 {
-    "accession_number": "1983.263", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1913", 
-            "death_date": "2006", 
-            "name": "Oleg Cassini", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1960s", 
-    "credit_line": "Gift of James F. Bash in memory of Pauline Beattey Bash", 
-    "cultures": [], 
-    "dimensions": "L: 42 in.", 
-    "dynasty": null, 
-    "irn": 7680, 
-    "materials": "leopard skin, vinyl, wool", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "belt"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "L: 42 in.", 
+  "title": "belt", 
+  "accession_number": "1983.263", 
+  "credit_line": "Gift of James F. Bash in memory of Pauline Beattey Bash", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149505, 
+  "creation_date": "1960s", 
+  "materials": "leopard skin, vinyl, wool", 
+  "actors": [
+    {
+      "name": "Oleg Cassini", 
+      "after_follower": null, 
+      "death_date": "2006", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295977, 
+      "role": "Designer", 
+      "birth_date": "1913", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7680, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "09.347", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1750", 
-            "death_date": "1831", 
-            "name": "Middiman, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1782", 
-            "death_date": "1874", 
-            "name": "Pye, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 29856, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.347", 
+  "title": "Landscape", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18215743, 
+  "creation_date": "19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Middiman, Samuel", 
+      "after_follower": null, 
+      "death_date": "1831", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298983, 
+      "role": "Artist", 
+      "birth_date": "1750", 
+      "nationality": null
+    }, 
+    {
+      "name": "Pye, John", 
+      "after_follower": null, 
+      "death_date": "1874", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302827, 
+      "role": "Artist", 
+      "birth_date": "1782", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29856, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

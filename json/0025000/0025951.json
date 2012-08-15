@@ -1,26 +1,30 @@
 {
-    "accession_number": "26.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1925", 
-            "name": "Bellows, George Wesley", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1923-1924", 
-    "credit_line": "Acquired by exchange", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25951, 
-    "materials": "lithograph", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "River Front"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Acquired by exchange", 
+  "accession_number": "26.11", 
+  "title": "River Front", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18206557, 
+  "creation_date": "1923-1924", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Bellows, George Wesley", 
+      "after_follower": null, 
+      "death_date": "1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296847, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25951, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

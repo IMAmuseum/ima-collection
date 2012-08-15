@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.164", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1898", 
-            "death_date": "1954", 
-            "name": "Marsh, Reginald", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1928", 
-    "credit_line": "Bequest of Felicia Mayer Marsh", 
-    "cultures": [], 
-    "dimensions": "13 7/8 x 19 7/8", 
-    "dynasty": null, 
-    "irn": 21805, 
-    "materials": "watercolor on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Locomotive"
+  "publishers": [], 
+  "dimensions": "13 7/8 x 19 7/8", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Bequest of Felicia Mayer Marsh", 
+  "accession_number": "79.164", 
+  "title": "Locomotive", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18196983, 
+  "creation_date": "1928", 
+  "materials": "watercolor on paper", 
+  "actors": [
+    {
+      "name": "Marsh, Reginald", 
+      "after_follower": null, 
+      "death_date": "1954", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297121, 
+      "role": "Artist", 
+      "birth_date": "1898", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21805, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

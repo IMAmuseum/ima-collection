@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.236A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1988", 
-            "name": "Noguchi, Isamu", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Knoll Associates, Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1953, redesigned about 1957", 
-    "credit_line": "The Liliane and David M. Stewart Collection", 
-    "cultures": [], 
-    "dimensions": "top) diam.: 46 5/8 in.\nbase) H: 27 5/8 in.", 
-    "dynasty": null, 
-    "irn": 65133, 
-    "materials": "mica, plywood, beaverboard, cast iron, and steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Isamu Noguchi Foundation and Garden Museum, New York/Artists Rights Society (ARS), New York", 
-    "title": "No. 311 dining table"
+  "publishers": [], 
+  "dimensions": "top) diam.: 46 5/8 in.\nbase) H: 27 5/8 in.", 
+  "rights": "\u00a9 The Isamu Noguchi Foundation and Garden Museum, New York/Artists Rights Society (ARS), New York", 
+  "credit_line": "The Liliane and David M. Stewart Collection", 
+  "accession_number": "2008.236A-B", 
+  "title": "No. 311 dining table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279709, 
+  "creation_date": "about 1953, redesigned about 1957", 
+  "materials": "mica, plywood, beaverboard, cast iron, and steel", 
+  "actors": [
+    {
+      "name": "Noguchi, Isamu", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297873, 
+      "role": "Designer", 
+      "birth_date": "1904", 
+      "nationality": null
+    }, 
+    {
+      "name": "Knoll Associates, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307105, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65133, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

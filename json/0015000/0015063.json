@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.324", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1921", 
-            "death_date": null, 
-            "name": "Mason, Frank Herbert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift of Robert Kipniss", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15063, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Tony's Tavern, Little Italy"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Tony's Tavern, Little Italy", 
+  "accession_number": "82.324", 
+  "credit_line": "Gift of Robert Kipniss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167247, 
+  "creation_date": "1979", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Mason, Frank Herbert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299787, 
+      "role": "Artist", 
+      "birth_date": "1921", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15063, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

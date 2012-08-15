@@ -1,26 +1,30 @@
 {
-    "accession_number": "46.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1890", 
-            "death_date": "1946", 
-            "name": "Eby, Kerr", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1918", 
-    "credit_line": "Gift of Mrs. William H. Thompson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 728, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "No Man's Land, September 13, 1918 (St. Mihiel Drive)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "No Man's Land, September 13, 1918 (St. Mihiel Drive)", 
+  "accession_number": "46.4", 
+  "credit_line": "Gift of Mrs. William H. Thompson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132955, 
+  "creation_date": "1918", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Eby, Kerr", 
+      "after_follower": null, 
+      "death_date": "1946", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295131, 
+      "role": "Artist", 
+      "birth_date": "1890", 
+      "nationality": null
+    }
+  ], 
+  "irn": 728, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

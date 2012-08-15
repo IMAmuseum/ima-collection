@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.540.1-.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1952", 
-            "death_date": null, 
-            "name": "Olivier Gagn\u00e8re", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bernardaud", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1997", 
-    "credit_line": "Gift of Bernardaud", 
-    "cultures": [], 
-    "dimensions": "1) tea pot\n2-3) plates\n4-5) small plates\n6-7) pair of coffee cups and saucers                                8-9) pair of tea cups and saucers                               10) creamer                                             11) sugar bowl", 
-    "dynasty": null, 
-    "irn": 68291, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Olivier Gagn\u00e8re", 
-    "title": "Galerie Royale Black Tulip dinnerware"
+  "publishers": [], 
+  "dimensions": "1) tea pot\n2-3) plates\n4-5) small plates\n6-7) pair of coffee cups and saucers                                8-9) pair of tea cups and saucers                               10) creamer                                             11) sugar bowl", 
+  "rights": "\u00a9 Olivier Gagn\u00e8re", 
+  "credit_line": "Gift of Bernardaud", 
+  "accession_number": "2009.540.1-.11", 
+  "title": "Galerie Royale Black Tulip dinnerware", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283319, 
+  "creation_date": "1997", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Olivier Gagn\u00e8re", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306929, 
+      "role": "Designer", 
+      "birth_date": "1952", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bernardaud", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307831, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68291, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

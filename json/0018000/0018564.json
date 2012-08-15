@@ -1,38 +1,44 @@
 {
-    "accession_number": "69.64", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1923", 
-            "death_date": "1997", 
-            "name": "Lichtenstein, Roy", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Stuart Henderson", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": "41 3/4 x 27 in (image)\n48 1/2 x 32 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 18564, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Gemini G.E.L."
-        }
-    ], 
-    "rights": null, 
-    "title": "Cathedral #2"
+  "publishers": [
+    {
+      "name": "Gemini G.E.L."
+    }
+  ], 
+  "dimensions": "41 3/4 x 27 in (image)\n48 1/2 x 32 1/2 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Delavan Smith Fund", 
+  "accession_number": "69.64", 
+  "title": "Cathedral #2", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18189511, 
+  "creation_date": "1969", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Lichtenstein, Roy", 
+      "after_follower": null, 
+      "death_date": "1997", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295191, 
+      "role": "Artist", 
+      "birth_date": "1923", 
+      "nationality": null
+    }, 
+    {
+      "name": "Stuart Henderson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300621, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 18564, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.114", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1857", 
-            "death_date": "1903", 
-            "name": "Blum, Robert Frederick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1885", 
-    "credit_line": "Gift of Cincinnati Museum Association", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2190, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Scene at a Circus"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Scene at a Circus", 
+  "accession_number": "11.114", 
+  "credit_line": "Gift of Cincinnati Museum Association", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136513, 
+  "creation_date": "1885", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Blum, Robert Frederick", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295861, 
+      "role": "Artist", 
+      "birth_date": "1857", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2190, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

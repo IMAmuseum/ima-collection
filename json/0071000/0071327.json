@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.274", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1902", 
-            "death_date": "2000", 
-            "name": "Belle Kogan", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Boonton Plastics Molding Co.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1948", 
-    "credit_line": "Gift of Rosemarie Haag Bletter and Martin Filler", 
-    "cultures": [], 
-    "dimensions": "2 1/2 x 10 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 71327, 
-    "materials": "Melamine", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vegetable dish"
+  "publishers": [], 
+  "dimensions": "2 1/2 x 10 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Rosemarie Haag Bletter and Martin Filler", 
+  "accession_number": "2010.274", 
+  "title": "vegetable dish", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18286975, 
+  "creation_date": "1948", 
+  "materials": "Melamine", 
+  "actors": [
+    {
+      "name": "Belle Kogan", 
+      "after_follower": null, 
+      "death_date": "2000", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308365, 
+      "role": "Designer", 
+      "birth_date": "1902", 
+      "nationality": null
+    }, 
+    {
+      "name": "Boonton Plastics Molding Co.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308369, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71327, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

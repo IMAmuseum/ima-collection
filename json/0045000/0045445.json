@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.192", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1937", 
-            "death_date": null, 
-            "name": "Mangold, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1977", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45445, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "A Square within a Triangle"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2001.192", 
+  "title": "A Square within a Triangle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254419, 
+  "creation_date": "1977", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Mangold, Robert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303701, 
+      "role": "Artist", 
+      "birth_date": "1937", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45445, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

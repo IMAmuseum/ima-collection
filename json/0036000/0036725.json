@@ -1,26 +1,30 @@
 {
-    "accession_number": "46.66", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1785", 
-            "death_date": "1885", 
-            "name": "Sutherland, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1820", 
-    "credit_line": "Gift of Charles Kryter", 
-    "cultures": [], 
-    "dimensions": "8 x 10 7/8 in (image)\n10 1/8 x 12 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 36725, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hammerstein"
+  "publishers": [], 
+  "dimensions": "8 x 10 7/8 in (image)\n10 1/8 x 12 1/2 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Charles Kryter", 
+  "accession_number": "46.66", 
+  "title": "Hammerstein", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231639, 
+  "creation_date": "1820", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Sutherland, Thomas", 
+      "after_follower": null, 
+      "death_date": "1885", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297143, 
+      "role": "Artist", 
+      "birth_date": "1785", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36725, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

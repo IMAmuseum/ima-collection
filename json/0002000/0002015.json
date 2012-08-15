@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.70", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1899", 
-            "death_date": "1972", 
-            "name": "Eisenbach, Dorothy L.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1927", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "17 1/8 x 15 1/2 in. (sight)", 
-    "dynasty": null, 
-    "irn": 2015, 
-    "materials": "watercolor on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Interior of a Studio"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "17 1/8 x 15 1/2 in. (sight)", 
+  "title": "Interior of a Studio", 
+  "accession_number": "70.70", 
+  "credit_line": "Museum Accession", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136097, 
+  "creation_date": "1927", 
+  "materials": "watercolor on paper", 
+  "actors": [
+    {
+      "name": "Eisenbach, Dorothy L.", 
+      "after_follower": null, 
+      "death_date": "1972", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295775, 
+      "role": "Artist", 
+      "birth_date": "1899", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2015, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

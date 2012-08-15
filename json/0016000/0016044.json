@@ -1,34 +1,40 @@
 {
-    "accession_number": "09.284", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1577", 
-            "death_date": "1640", 
-            "name": "Rubens, Peter Paul", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1586", 
-            "death_date": "1659", 
-            "name": "Bolswert, Schelte Adams", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1635", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances  J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16044, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Assumption"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Assumption", 
+  "accession_number": "09.284", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances  J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169433, 
+  "creation_date": "about 1635", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Rubens, Peter Paul", 
+      "after_follower": null, 
+      "death_date": "1640", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295395, 
+      "role": "Artist", 
+      "birth_date": "1577", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bolswert, Schelte Adams", 
+      "after_follower": null, 
+      "death_date": "1659", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300045, 
+      "role": "Engraver", 
+      "birth_date": "1586", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16044, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

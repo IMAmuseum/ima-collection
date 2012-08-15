@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1694", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1882", 
-            "name": "Miller, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1875", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41354, 
-    "materials": "steel engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Prince of Orange Landing at Torbay"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1694", 
+  "title": "The Prince of Orange Landing at Torbay", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18244401, 
+  "creation_date": "1875", 
+  "materials": "steel engraving", 
+  "actors": [
+    {
+      "name": "Miller, William", 
+      "after_follower": null, 
+      "death_date": "1882", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299379, 
+      "role": "Engraver", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41354, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

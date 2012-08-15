@@ -1,33 +1,37 @@
 {
-    "accession_number": "44.90", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1858, 4th month", 
-    "credit_line": "Gift of Charles C. Kryter", 
-    "cultures": [], 
-    "dimensions": "13 3/16 x 8 11/16 in. (image and sheet, trimmed all around)", 
-    "dynasty": null, 
-    "irn": 5009, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "K^oeid^o"
-        }, 
-        {
-            "name": "Tsuta-ya Kichiz^o"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Seven-ri Beach in Sagami Province (Sagami shichi-ri ga hama)"
+  "publishers": [
+    {
+      "name": "K^oeid^o"
+    }, 
+    {
+      "name": "Tsuta-ya Kichiz^o"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "13 3/16 x 8 11/16 in. (image and sheet, trimmed all around)", 
+  "title": "The Seven-ri Beach in Sagami Province (Sagami shichi-ri ga hama)", 
+  "accession_number": "44.90", 
+  "credit_line": "Gift of Charles C. Kryter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18143129, 
+  "creation_date": "1858, 4th month", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5009, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

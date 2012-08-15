@@ -1,30 +1,34 @@
 {
-    "accession_number": "27.92", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1874", 
-    "credit_line": "Anonymous Gift", 
-    "cultures": [], 
-    "dimensions": "8 x 5 7/8 in. (image)\n11 3/8 x 8 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 45692, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "A. W. Sijthoff"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Entombment"
+  "publishers": [
+    {
+      "name": "A. W. Sijthoff"
+    }
+  ], 
+  "dimensions": "8 x 5 7/8 in. (image)\n11 3/8 x 8 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Anonymous Gift", 
+  "accession_number": "27.92", 
+  "title": "The Entombment", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254873, 
+  "creation_date": "1874", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 45692, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "39.86", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1882", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28592, 
-    "materials": "charcoal on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mittenheim Near Munich"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "39.86", 
+  "title": "Mittenheim Near Munich", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18212783, 
+  "creation_date": "1882", 
+  "materials": "charcoal on off-white paper", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28592, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

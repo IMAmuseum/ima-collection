@@ -1,26 +1,30 @@
 {
-    "accession_number": "69.1.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1888-", 
-            "death_date": "1976", 
-            "name": "Albers, Josef", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1967", 
-    "credit_line": "Leiber Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2467, 
-    "materials": "screeprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York", 
-    "title": "VIII"
+  "publishers": [], 
+  "rights": "\u00a9 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York", 
+  "dimensions": null, 
+  "title": "VIII", 
+  "accession_number": "69.1.8", 
+  "credit_line": "Leiber Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137189, 
+  "creation_date": "1967", 
+  "materials": "screeprint", 
+  "actors": [
+    {
+      "name": "Albers, Josef", 
+      "after_follower": null, 
+      "death_date": "1976", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295581, 
+      "role": "Artist", 
+      "birth_date": "1888-", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2467, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

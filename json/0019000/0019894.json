@@ -1,26 +1,30 @@
 {
-    "accession_number": "20.193", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1810", 
-            "death_date": "1892", 
-            "name": "Cox, Jacob", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. George Hume", 
-    "cultures": [], 
-    "dimensions": "31 x 40 in.", 
-    "dynasty": null, 
-    "irn": 19894, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fruit Still Life"
+  "publishers": [], 
+  "dimensions": "31 x 40 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. George Hume", 
+  "accession_number": "20.193", 
+  "title": "Fruit Still Life", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192653, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Cox, Jacob", 
+      "after_follower": null, 
+      "death_date": "1892", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295815, 
+      "role": "Artist", 
+      "birth_date": "1810", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19894, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

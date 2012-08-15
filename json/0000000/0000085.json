@@ -1,26 +1,30 @@
 {
-    "accession_number": "36.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1699", 
-            "death_date": "1779", 
-            "name": "Chardin, Jean-Sim\u00e9on", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1732", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "12 1/4  x 15 3/8 in.", 
-    "dynasty": null, 
-    "irn": 85, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Vegetables for the Soup"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "12 1/4  x 15 3/8 in.", 
+  "title": "Vegetables for the Soup", 
+  "accession_number": "36.22", 
+  "credit_line": "James E. Roberts Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131347, 
+  "creation_date": "about 1732", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Chardin, Jean-Sim\u00e9on", 
+      "after_follower": null, 
+      "death_date": "1779", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294785, 
+      "role": "Artist", 
+      "birth_date": "1699", 
+      "nationality": null
+    }
+  ], 
+  "irn": 85, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

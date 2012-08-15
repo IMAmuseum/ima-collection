@@ -1,34 +1,40 @@
 {
-    "accession_number": "30.1005", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1697", 
-            "death_date": "1764", 
-            "name": "Hogarth, William", 
-            "nationality": null, 
-            "role": "Artist and Engraver"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1727", 
-            "death_date": "1780", 
-            "name": "Aveline, Fran\u00e7ois Antoine II", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1758", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": "15 3/4 x 21 1/4 in. (image)\n17 1/4 x 23 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 37277, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chairing the Members: Four Prints of an Election, Plate 4"
+  "publishers": [], 
+  "dimensions": "15 3/4 x 21 1/4 in. (image)\n17 1/4 x 23 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of William George Sullivan", 
+  "accession_number": "30.1005", 
+  "title": "Chairing the Members: Four Prints of an Election, Plate 4", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232913, 
+  "creation_date": "1758", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Hogarth, William", 
+      "after_follower": null, 
+      "death_date": "1764", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294939, 
+      "role": "Artist and Engraver", 
+      "birth_date": "1697", 
+      "nationality": null
+    }, 
+    {
+      "name": "Aveline, Fran\u00e7ois Antoine II", 
+      "after_follower": null, 
+      "death_date": "1780", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304035, 
+      "role": "Engraver", 
+      "birth_date": "1727", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37277, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1320.86", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1800", 
-            "death_date": "1868", 
-            "name": "Cattermole, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1787", 
-            "death_date": "1852", 
-            "name": "Finden, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40289, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Corinth"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1320.86", 
+  "title": "Corinth", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18241365, 
+  "creation_date": "1833", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Cattermole, George", 
+      "after_follower": null, 
+      "death_date": "1868", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304587, 
+      "role": "Artist", 
+      "birth_date": "1800", 
+      "nationality": null
+    }, 
+    {
+      "name": "Finden, William", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304393, 
+      "role": "Engraver", 
+      "birth_date": "1787", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40289, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

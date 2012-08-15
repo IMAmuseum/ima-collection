@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.12.124", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1894", 
-            "death_date": "1978", 
-            "name": "Rockwell, Norman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1943", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16529, 
-    "materials": "offset lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Norman Rockwell", 
-    "title": "Ours To Fight For, Freedom From Want"
+  "publishers": [], 
+  "rights": "\u00a9 Norman Rockwell", 
+  "dimensions": null, 
+  "title": "Ours To Fight For, Freedom From Want", 
+  "accession_number": "72.12.124", 
+  "credit_line": "Museum Accession", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170867, 
+  "creation_date": "1943", 
+  "materials": "offset lithograph", 
+  "actors": [
+    {
+      "name": "Rockwell, Norman", 
+      "after_follower": null, 
+      "death_date": "1978", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300201, 
+      "role": "Artist", 
+      "birth_date": "1894", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16529, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.43.30", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1894", 
-            "name": "Hamerton, Philip Gilbert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "before 1868", 
-    "credit_line": "Gift of Mrs. Herbert S. Call", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55224, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Towers of Autun"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herbert S. Call", 
+  "accession_number": "72.43.30", 
+  "title": "The Towers of Autun", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272377, 
+  "creation_date": "before 1868", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Hamerton, Philip Gilbert", 
+      "after_follower": null, 
+      "death_date": "1894", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297335, 
+      "role": "Artist", 
+      "birth_date": "1834", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55224, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

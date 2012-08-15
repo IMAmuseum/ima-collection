@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.47.75", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1850", 
-    "credit_line": "Gift of Mrs. Kate Kiser Klein", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 53267, 
-    "materials": "color woodcut", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Revenge at Uguisuzuka"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Kate Kiser Klein", 
+  "accession_number": "72.47.75", 
+  "title": "Revenge at Uguisuzuka", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18269051, 
+  "creation_date": "about 1850", 
+  "materials": "color woodcut", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 53267, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

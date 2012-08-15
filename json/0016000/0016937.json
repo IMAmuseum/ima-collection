@@ -1,26 +1,30 @@
 {
-    "accession_number": "34.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1925", 
-            "name": "Bellows, George Wesley", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1921", 
-    "credit_line": "Gift of the Friends of American Art", 
-    "cultures": [], 
-    "dimensions": "34 x 30 in.\n42 x 38 in. (framed)", 
-    "dynasty": null, 
-    "irn": 16937, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Boy"
+  "publishers": [], 
+  "dimensions": "34 x 30 in.\n42 x 38 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of the Friends of American Art", 
+  "accession_number": "34.5", 
+  "title": "Portrait of a Boy", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171869, 
+  "creation_date": "1921", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Bellows, George Wesley", 
+      "after_follower": null, 
+      "death_date": "1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296847, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16937, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1995.49", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1606", 
-            "death_date": "1669", 
-            "name": "Rembrandt van Rijn", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1651", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "5 x 4 5/16 in.", 
-    "dynasty": null, 
-    "irn": 24601, 
-    "materials": "etching and drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Flight into Egypt: A Night Piece"
+  "publishers": [], 
+  "dimensions": "5 x 4 5/16 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "1995.49", 
+  "title": "Flight into Egypt: A Night Piece", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18203449, 
+  "creation_date": "1651", 
+  "materials": "etching and drypoint", 
+  "actors": [
+    {
+      "name": "Rembrandt van Rijn", 
+      "after_follower": null, 
+      "death_date": "1669", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295685, 
+      "role": "Artist", 
+      "birth_date": "1606", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24601, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.501", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1972", 
-            "death_date": null, 
-            "name": "Monika Mulder", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "IKEA", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2003", 
-    "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks Sr., and Her Late Son, Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "12 3/4 x 14 x 4 3/4 in.", 
-    "dynasty": null, 
-    "irn": 68104, 
-    "materials": "polypropylene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Monika Mulder", 
-    "title": "V\u00e4ll\u00f6 watering can (pink)"
+  "publishers": [], 
+  "dimensions": "12 3/4 x 14 x 4 3/4 in.", 
+  "rights": "\u00a9 Monika Mulder", 
+  "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks Sr., and Her Late Son, Michael Fairbanks", 
+  "accession_number": "2009.501", 
+  "title": "V\u00e4ll\u00f6 watering can (pink)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283183, 
+  "creation_date": "2003", 
+  "materials": "polypropylene", 
+  "actors": [
+    {
+      "name": "Monika Mulder", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307085, 
+      "role": "Designer", 
+      "birth_date": "1972", 
+      "nationality": null
+    }, 
+    {
+      "name": "IKEA", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306921, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68104, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

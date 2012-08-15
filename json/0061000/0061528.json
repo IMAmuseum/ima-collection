@@ -1,26 +1,30 @@
 {
-    "accession_number": "2004.63", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1642", 
-            "death_date": "1715", 
-            "name": "Wang Yuanqi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of James Freeman", 
-    "cultures": [], 
-    "dimensions": "48 3/4 x 29 3/4 in. (scroll)", 
-    "dynasty": "Qing dynasty", 
-    "irn": 61528, 
-    "materials": "ink and color on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hills, streams and dark clouds"
+  "publishers": [], 
+  "dimensions": "48 3/4 x 29 3/4 in. (scroll)", 
+  "rights": null, 
+  "credit_line": "Gift of James Freeman", 
+  "accession_number": "2004.63", 
+  "title": "Hills, streams and dark clouds", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276965, 
+  "creation_date": null, 
+  "materials": "ink and color on paper", 
+  "actors": [
+    {
+      "name": "Wang Yuanqi", 
+      "after_follower": null, 
+      "death_date": "1715", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305981, 
+      "role": "Artist", 
+      "birth_date": "1642", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61528, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.58", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Pesne, Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23014, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Triumph of Galatea"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "11.58", 
+  "title": "Triumph of Galatea", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18199749, 
+  "creation_date": "17th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Pesne, Jean", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300741, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 23014, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

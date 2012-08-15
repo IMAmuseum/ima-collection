@@ -1,28 +1,32 @@
 {
-    "accession_number": "2004.67", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 3000BC", 
-    "credit_line": "Gift of Iver M. Nelson Jr.", 
-    "cultures": [
-        "Majiayao"
-    ], 
-    "dimensions": "H: 1 3/4 in. W: 4 1/2  in. D: 5 1/4 in.", 
-    "dynasty": null, 
-    "irn": 46555, 
-    "materials": "earthenware and paint, Majiayao type", 
-    "on_view": false, 
-    "period": "Neolithic", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "small bowl with long-tailed dots"
+  "publishers": [], 
+  "dimensions": "H: 1 3/4 in. W: 4 1/2  in. D: 5 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Iver M. Nelson Jr.", 
+  "accession_number": "2004.67", 
+  "title": "small bowl with long-tailed dots", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Neolithic", 
+  "artisinal:id": 18256891, 
+  "creation_date": "about 3000BC", 
+  "materials": "earthenware and paint, Majiayao type", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 46555, 
+  "printers": [], 
+  "cultures": [
+    "Majiayao"
+  ], 
+  "dynasty": null, 
+  "on_view": false
 }

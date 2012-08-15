@@ -1,33 +1,37 @@
 {
-    "accession_number": "45.103", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1834-1835", 
-    "credit_line": "Gift in memory of Charles C. Kryter", 
-    "cultures": [], 
-    "dimensions": "8 15/16 x 13 3/4 in. (image)\nTrimmed all around (sheet)", 
-    "dynasty": null, 
-    "irn": 20952, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Yamamoto-ya Heikichi"
-        }, 
-        {
-            "name": null
-        }
-    ], 
-    "rights": null, 
-    "title": "Descending Geese at Katada"
+  "publishers": [
+    {
+      "name": "Yamamoto-ya Heikichi"
+    }, 
+    {
+      "name": null
+    }
+  ], 
+  "dimensions": "8 15/16 x 13 3/4 in. (image)\nTrimmed all around (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift in memory of Charles C. Kryter", 
+  "accession_number": "45.103", 
+  "title": "Descending Geese at Katada", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18195031, 
+  "creation_date": "1834-1835", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20952, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

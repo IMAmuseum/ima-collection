@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.125", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1966", 
-            "name": "Hasselman, Anna", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8783, 
-    "materials": "ink | print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bay of Naples"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Bay of Naples", 
+  "accession_number": "79.125", 
+  "credit_line": "Museum Accession", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152099, 
+  "creation_date": "20th century", 
+  "materials": "ink | print", 
+  "actors": [
+    {
+      "name": "Hasselman, Anna", 
+      "after_follower": null, 
+      "death_date": "1966", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297115, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8783, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

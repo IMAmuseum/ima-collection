@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.318", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1771", 
-            "death_date": "1853", 
-            "name": "Storer, James", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Presented by Mrs. Louise Leffingwell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3554, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Seraglio"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Seraglio", 
+  "accession_number": "13.318", 
+  "credit_line": "Presented by Mrs. Louise Leffingwell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18139715, 
+  "creation_date": "19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Storer, James", 
+      "after_follower": null, 
+      "death_date": "1853", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296431, 
+      "role": "Artist", 
+      "birth_date": "1771", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3554, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

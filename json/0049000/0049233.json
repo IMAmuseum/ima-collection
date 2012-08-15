@@ -1,26 +1,30 @@
 {
-    "accession_number": "12.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1863", 
-            "death_date": "1938", 
-            "name": "Barnard, George Grey", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of George Gray Barnard (sculptor)", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 49233, 
-    "materials": "Plaster Cast", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Two Figures"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of George Gray Barnard (sculptor)", 
+  "accession_number": "12.32", 
+  "title": "Two Figures", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18259859, 
+  "creation_date": null, 
+  "materials": "Plaster Cast", 
+  "actors": [
+    {
+      "name": "Barnard, George Grey", 
+      "after_follower": null, 
+      "death_date": "1938", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305381, 
+      "role": "Artist", 
+      "birth_date": "1863", 
+      "nationality": null
+    }
+  ], 
+  "irn": 49233, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

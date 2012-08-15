@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.355", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1909", 
-            "death_date": "1984", 
-            "name": "Floyd D. Hopper", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century", 
-    "credit_line": "Bequest of Mrs. Floyd Hopper", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 53743, 
-    "materials": "oil on board", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Blue Monday"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Mrs. Floyd Hopper", 
+  "accession_number": "2001.355", 
+  "title": "Blue Monday", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18270221, 
+  "creation_date": "20th Century", 
+  "materials": "oil on board", 
+  "actors": [
+    {
+      "name": "Floyd D. Hopper", 
+      "after_follower": null, 
+      "death_date": "1984", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295709, 
+      "role": "Artist", 
+      "birth_date": "1909", 
+      "nationality": null
+    }
+  ], 
+  "irn": 53743, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

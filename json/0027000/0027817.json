@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.187", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1613", 
-            "death_date": "1689-1690", 
-            "name": "Voet, Alexander, I", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 27817, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lucius Annaeus Seneca"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.187", 
+  "title": "Lucius Annaeus Seneca", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18210963, 
+  "creation_date": "17th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Voet, Alexander, I", 
+      "after_follower": null, 
+      "death_date": "1689-1690", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302519, 
+      "role": "Artist", 
+      "birth_date": "1613", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27817, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

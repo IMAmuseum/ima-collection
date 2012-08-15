@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.181", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1817", 
-    "credit_line": "Gift in Memory of Dr. and Mrs. Hugo O. Pantzer by their Children", 
-    "cultures": [], 
-    "dimensions": "7 3/4 x 12 9/16 in (sheet)", 
-    "dynasty": null, 
-    "irn": 31472, 
-    "materials": "watercolor on white paper prepared with a gray wash", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Marxburg"
+  "publishers": [], 
+  "dimensions": "7 3/4 x 12 9/16 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift in Memory of Dr. and Mrs. Hugo O. Pantzer by their Children", 
+  "accession_number": "72.181", 
+  "title": "The Marxburg", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18219463, 
+  "creation_date": "1817", 
+  "materials": "watercolor on white paper prepared with a gray wash", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31472, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

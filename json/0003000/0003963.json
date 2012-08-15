@@ -1,26 +1,30 @@
 {
-    "accession_number": "63.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1801", 
-            "death_date": "1846", 
-            "name": "Inman, Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1828", 
-    "credit_line": "Gift of Mrs. John E. Fehsenfeld", 
-    "cultures": [], 
-    "dimensions": "30 x 25 in.\n38 x 33 1/8 in. (framed)", 
-    "dynasty": null, 
-    "irn": 3963, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Clara Fisher"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "30 x 25 in.\n38 x 33 1/8 in. (framed)", 
+  "title": "Portrait of Clara Fisher", 
+  "accession_number": "63.1", 
+  "credit_line": "Gift of Mrs. John E. Fehsenfeld", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140681, 
+  "creation_date": "1828", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Inman, Henry", 
+      "after_follower": null, 
+      "death_date": "1846", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296625, 
+      "role": "Artist", 
+      "birth_date": "1801", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3963, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

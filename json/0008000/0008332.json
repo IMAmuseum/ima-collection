@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.218", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1639", 
-            "death_date": "1708", 
-            "name": "Sun Yueban", 
-            "nationality": null, 
-            "role": "Calligrapher"
-        }
-    ], 
-    "creation_date": "1639-1708", 
-    "credit_line": "Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "92 3/8 x 23 5/8 in. (image)\n117 1/2 x 30 3/4 in. (overall)", 
-    "dynasty": "Qing dynasty", 
-    "irn": 8332, 
-    "materials": "ink on paper", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Poem in Cursive Script"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "92 3/8 x 23 5/8 in. (image)\n117 1/2 x 30 3/4 in. (overall)", 
+  "title": "Poem in Cursive Script", 
+  "accession_number": "77.218", 
+  "credit_line": "Emma Harter Sweetser Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18150971, 
+  "creation_date": "1639-1708", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Sun Yueban", 
+      "after_follower": null, 
+      "death_date": "1708", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297979, 
+      "role": "Calligrapher", 
+      "birth_date": "1639", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8332, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": true
 }

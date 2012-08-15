@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.640", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": null, 
-            "name": "Giotto Stoppino", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Heller S.r.l.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1971", 
-    "credit_line": "Gift of David A. Hanks in honor of Liliane M. Stewart", 
-    "cultures": [], 
-    "dimensions": "H: 13 7/8 in.", 
-    "dynasty": null, 
-    "irn": 68329, 
-    "materials": "ABS plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Deda vase"
+  "publishers": [], 
+  "dimensions": "H: 13 7/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of David A. Hanks in honor of Liliane M. Stewart", 
+  "accession_number": "2009.640", 
+  "title": "Deda vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283361, 
+  "creation_date": "1971", 
+  "materials": "ABS plastic", 
+  "actors": [
+    {
+      "name": "Giotto Stoppino", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307859, 
+      "role": "Designer", 
+      "birth_date": "1926", 
+      "nationality": null
+    }, 
+    {
+      "name": "Heller S.r.l.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307125, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68329, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

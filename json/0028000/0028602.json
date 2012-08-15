@@ -1,26 +1,30 @@
 {
-    "accession_number": "61.42", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1870-1953", 
-            "death_date": "1870-1953", 
-            "name": "Marin, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1944", 
-    "credit_line": "Estate of Mrs. James W. Fesler", 
-    "cultures": [], 
-    "dimensions": "25 x 30 in.\n30 x 35 1/4 x 2 1/4 in. (framed)", 
-    "dynasty": null, 
-    "irn": 28602, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of John Marin / Artists Rights Society (ARS), New York", 
-    "title": "Hurricane"
+  "publishers": [], 
+  "dimensions": "25 x 30 in.\n30 x 35 1/4 x 2 1/4 in. (framed)", 
+  "rights": "\u00a9 Estate of John Marin / Artists Rights Society (ARS), New York", 
+  "credit_line": "Estate of Mrs. James W. Fesler", 
+  "accession_number": "61.42", 
+  "title": "Hurricane", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18212803, 
+  "creation_date": "1944", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Marin, John", 
+      "after_follower": null, 
+      "death_date": "1870-1953", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299123, 
+      "role": "Artist", 
+      "birth_date": "1870-1953", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28602, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "2010.272", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1914", 
-            "death_date": "1971", 
-            "name": "Castellon, Federico", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1947", 
-    "credit_line": "Gift of Jacqueline and Maxwell Anderson", 
-    "cultures": [], 
-    "dimensions": "10 x 12 3/4 in. (image)\n11 7/8 x 14 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 69514, 
-    "materials": "lithograph on cream wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Associated American Artists"
-        }
-    ], 
-    "rights": "\u00a9 Federico Castellon", 
-    "title": "The Groom"
+  "publishers": [
+    {
+      "name": "Associated American Artists"
+    }
+  ], 
+  "dimensions": "10 x 12 3/4 in. (image)\n11 7/8 x 14 1/2 in. (sheet)", 
+  "rights": "\u00a9 Federico Castellon", 
+  "credit_line": "Gift of Jacqueline and Maxwell Anderson", 
+  "accession_number": "2010.272", 
+  "title": "The Groom", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284975, 
+  "creation_date": "1947", 
+  "materials": "lithograph on cream wove paper", 
+  "actors": [
+    {
+      "name": "Castellon, Federico", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299811, 
+      "role": "Artist", 
+      "birth_date": "1914", 
+      "nationality": null
+    }
+  ], 
+  "irn": 69514, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

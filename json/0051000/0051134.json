@@ -1,26 +1,30 @@
 {
-    "accession_number": "29.70", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1935", 
-            "name": "Hassam, Childe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1920", 
-    "credit_line": "Purchased from the Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 51134, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Deep Sea Bathers"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Purchased from the Jacob Metzger Fund", 
+  "accession_number": "29.70", 
+  "title": "Deep Sea Bathers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18264379, 
+  "creation_date": "1920", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Hassam, Childe", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295317, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51134, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

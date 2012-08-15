@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1794.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1821", 
-            "name": "Edridge, Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1770", 
-            "death_date": "1850", 
-            "name": "Hill, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1816", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 42012, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cassiobury, West Front of the Old Building"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1794.3", 
+  "title": "Cassiobury, West Front of the Old Building", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18246165, 
+  "creation_date": "1816", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Edridge, Henry", 
+      "after_follower": null, 
+      "death_date": "1821", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298845, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hill, John", 
+      "after_follower": null, 
+      "death_date": "1850", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303033, 
+      "role": "Engraver", 
+      "birth_date": "1770", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42012, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

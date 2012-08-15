@@ -1,26 +1,30 @@
 {
-    "accession_number": "12.98", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1810", 
-            "death_date": "1892", 
-            "name": "Cox, Jacob", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Charles Mayer", 
-    "cultures": [], 
-    "dimensions": "36 x 60 in.", 
-    "dynasty": null, 
-    "irn": 49283, 
-    "materials": "oil", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape"
+  "publishers": [], 
+  "dimensions": "36 x 60 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Charles Mayer", 
+  "accession_number": "12.98", 
+  "title": "Landscape", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18259895, 
+  "creation_date": null, 
+  "materials": "oil", 
+  "actors": [
+    {
+      "name": "Cox, Jacob", 
+      "after_follower": null, 
+      "death_date": "1892", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295815, 
+      "role": "Artist", 
+      "birth_date": "1810", 
+      "nationality": null
+    }
+  ], 
+  "irn": 49283, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

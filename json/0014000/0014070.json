@@ -1,34 +1,40 @@
 {
-    "accession_number": "78.183", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1921", 
-            "name": "Strang, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1842", 
-            "death_date": "1909", 
-            "name": "Goulding, Frederick", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Martha Delzell Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14070, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Man and Witch"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Man and Witch", 
+  "accession_number": "78.183", 
+  "credit_line": "Martha Delzell Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164873, 
+  "creation_date": null, 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Strang, William", 
+      "after_follower": null, 
+      "death_date": "1921", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296189, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }, 
+    {
+      "name": "Goulding, Frederick", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299511, 
+      "role": "Printer", 
+      "birth_date": "1842", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14070, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

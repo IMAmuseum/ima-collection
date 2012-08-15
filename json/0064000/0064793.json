@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.546", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1968", 
-            "death_date": null, 
-            "name": "Jerszy Seymour", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Magis S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2003", 
-    "credit_line": "Gift of Magis", 
-    "cultures": [], 
-    "dimensions": "29 5/8 x 23 x 21 in.", 
-    "dynasty": null, 
-    "irn": 64793, 
-    "materials": "polypropylene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jerszy Seymour", 
-    "title": "Easy chair (yellow)"
+  "publishers": [], 
+  "dimensions": "29 5/8 x 23 x 21 in.", 
+  "rights": "\u00a9 Jerszy Seymour", 
+  "credit_line": "Gift of Magis", 
+  "accession_number": "2009.546", 
+  "title": "Easy chair (yellow)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279319, 
+  "creation_date": "2003", 
+  "materials": "polypropylene", 
+  "actors": [
+    {
+      "name": "Jerszy Seymour", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307131, 
+      "role": "Designer", 
+      "birth_date": "1968", 
+      "nationality": null
+    }, 
+    {
+      "name": "Magis S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306915, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64793, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

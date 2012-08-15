@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.244", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": null, 
-            "name": "Hollein, Hans", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Rossi & Arcandi S.r.L.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1979-1980", 
-    "credit_line": "Gift of Robert and Lisa Kessler", 
-    "cultures": [], 
-    "dimensions": "8 1/4 x 18 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 68923, 
-    "materials": "silver", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Hans Hollein", 
-    "title": "Fruttiera Rotonda centerpiece"
+  "publishers": [], 
+  "dimensions": "8 1/4 x 18 (diam.) in.", 
+  "rights": "\u00a9 Hans Hollein", 
+  "credit_line": "Gift of Robert and Lisa Kessler", 
+  "accession_number": "2010.244", 
+  "title": "Fruttiera Rotonda centerpiece", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283851, 
+  "creation_date": "1979-1980", 
+  "materials": "silver", 
+  "actors": [
+    {
+      "name": "Hollein, Hans", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308053, 
+      "role": "Designer", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Rossi & Arcandi S.r.L.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308055, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68923, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

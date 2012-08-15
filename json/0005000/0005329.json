@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.107", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860-1920", 
-            "death_date": "1860-1920", 
-            "name": "Zorn, Anders Leonard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1909", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5329, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The New Maid"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The New Maid", 
+  "accession_number": "25.107", 
+  "credit_line": "Bequest of Delavan Smith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143877, 
+  "creation_date": "1909", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Zorn, Anders Leonard", 
+      "after_follower": null, 
+      "death_date": "1860-1920", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297129, 
+      "role": "Artist", 
+      "birth_date": "1860-1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5329, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

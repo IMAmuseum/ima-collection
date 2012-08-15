@@ -1,34 +1,40 @@
 {
-    "accession_number": "79.362.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": "2006", 
-            "name": "Sarpaneva, Timo", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Rosenthal GmbH", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift of Jerry M. Wright", 
-    "cultures": [], 
-    "dimensions": "Diam: 7 5/8", 
-    "dynasty": null, 
-    "irn": 7874, 
-    "materials": "Hard Paste | print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "salad plate"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "Diam: 7 5/8", 
+  "title": "salad plate", 
+  "accession_number": "79.362.2", 
+  "credit_line": "Gift of Jerry M. Wright", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149931, 
+  "creation_date": "1979", 
+  "materials": "Hard Paste | print", 
+  "actors": [
+    {
+      "name": "Sarpaneva, Timo", 
+      "after_follower": null, 
+      "death_date": "2006", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295459, 
+      "role": "Designer", 
+      "birth_date": "1926", 
+      "nationality": null
+    }, 
+    {
+      "name": "Rosenthal GmbH", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295463, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 7874, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

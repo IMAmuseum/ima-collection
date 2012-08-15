@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.2.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1640", 
-            "death_date": "1711", 
-            "name": "B\u00e9rain, Jean, I", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bernard, J. F.", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1700", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "11 1/2 X 16 1/2 in. (image)\n13 1/4 X 18 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 43008, 
-    "materials": "engraving on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Arabesque"
+  "publishers": [], 
+  "dimensions": "11 1/2 X 16 1/2 in. (image)\n13 1/4 X 18 1/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "73.2.24", 
+  "title": "Arabesque", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18248883, 
+  "creation_date": "about 1700", 
+  "materials": "engraving on paper", 
+  "actors": [
+    {
+      "name": "B\u00e9rain, Jean, I", 
+      "after_follower": null, 
+      "death_date": "1711", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295153, 
+      "role": "Artist", 
+      "birth_date": "1640", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bernard, J. F.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305041, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 43008, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

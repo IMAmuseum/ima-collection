@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1910", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1793", 
-            "death_date": "1867", 
-            "name": "Stanfield, Clarkson", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1800", 
-            "death_date": "1863", 
-            "name": "James T. Willmore", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1832", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "5 1/4 x 4 1/4 in. (image)\n17 1/4 x 11 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 42298, 
-    "materials": "engraving", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landech in the Tyrol"
+  "publishers": [], 
+  "dimensions": "5 1/4 x 4 1/4 in. (image)\n17 1/4 x 11 3/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1910", 
+  "title": "Landech in the Tyrol", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18246991, 
+  "creation_date": "1832", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Stanfield, Clarkson", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297077, 
+      "role": "Artist", 
+      "birth_date": "1793", 
+      "nationality": null
+    }, 
+    {
+      "name": "James T. Willmore", 
+      "after_follower": null, 
+      "death_date": "1863", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296465, 
+      "role": "Engraver", 
+      "birth_date": "1800", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42298, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

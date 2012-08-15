@@ -1,34 +1,40 @@
 {
-    "accession_number": "75.986", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1722", 
-            "death_date": "1795", 
-            "name": "Brand, Johann Christian", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1745", 
-            "death_date": "1800", 
-            "name": "Sch\u00fctz, Carl", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1775", 
-    "credit_line": "Gift in Memory of Henry and Ruth Elias", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45440, 
-    "materials": "hand-colored etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Kauft Dinten! (Buy Ink!) De l'encre!"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift in Memory of Henry and Ruth Elias", 
+  "accession_number": "75.986", 
+  "title": "Kauft Dinten! (Buy Ink!) De l'encre!", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254405, 
+  "creation_date": "about 1775", 
+  "materials": "hand-colored etching", 
+  "actors": [
+    {
+      "name": "Brand, Johann Christian", 
+      "after_follower": null, 
+      "death_date": "1795", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297471, 
+      "role": "Artist", 
+      "birth_date": "1722", 
+      "nationality": null
+    }, 
+    {
+      "name": "Sch\u00fctz, Carl", 
+      "after_follower": null, 
+      "death_date": "1800", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305185, 
+      "role": "Engraver", 
+      "birth_date": "1745", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45440, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

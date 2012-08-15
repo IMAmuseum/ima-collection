@@ -1,34 +1,40 @@
 {
-    "accession_number": "09.157", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1752", 
-            "death_date": "1781", 
-            "name": "Grandjean, Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1752", 
-            "death_date": "1824", 
-            "name": "Piroli, Tommaso", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1781", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9436, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Illustration from Homer"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Illustration from Homer", 
+  "accession_number": "09.157", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153735, 
+  "creation_date": "1781", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Grandjean, Jean", 
+      "after_follower": null, 
+      "death_date": "1781", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298351, 
+      "role": "Artist", 
+      "birth_date": "1752", 
+      "nationality": null
+    }, 
+    {
+      "name": "Piroli, Tommaso", 
+      "after_follower": null, 
+      "death_date": "1824", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298353, 
+      "role": "Engraver", 
+      "birth_date": "1752", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9436, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

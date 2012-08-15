@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.336", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Starck, Philippe", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kartell S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1988", 
-    "credit_line": "Gift of Kartell Museum", 
-    "cultures": [], 
-    "dimensions": "29 x 37 in.", 
-    "dynasty": null, 
-    "irn": 64819, 
-    "materials": "polypropylene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Philippe Starck", 
-    "title": "Miss Balu table"
+  "publishers": [], 
+  "dimensions": "29 x 37 in.", 
+  "rights": "\u00a9 Philippe Starck", 
+  "credit_line": "Gift of Kartell Museum", 
+  "accession_number": "2009.336", 
+  "title": "Miss Balu table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279355, 
+  "creation_date": "1988", 
+  "materials": "polypropylene", 
+  "actors": [
+    {
+      "name": "Starck, Philippe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306863, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kartell S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306787, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64819, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

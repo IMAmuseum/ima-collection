@@ -1,26 +1,30 @@
 {
-    "accession_number": "1989.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1920", 
-            "death_date": null, 
-            "name": "Tooker, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Fisk Landers Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19763, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 George Tooker", 
-    "title": "Mirror"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 George Tooker", 
+  "credit_line": "Fisk Landers Memorial Fund", 
+  "accession_number": "1989.17", 
+  "title": "Mirror", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192353, 
+  "creation_date": "1978", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Tooker, George", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300845, 
+      "role": "Artist", 
+      "birth_date": "1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19763, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

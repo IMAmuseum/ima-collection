@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.102", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1812", 
-            "death_date": "1897", 
-            "name": "Linton, William James", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1879", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35365, 
-    "materials": "ink | pen | ink | pencil", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Allan Wardner"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "47.102", 
+  "title": "Portrait of Allan Wardner", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18228487, 
+  "creation_date": "1879", 
+  "materials": "ink | pen | ink | pencil", 
+  "actors": [
+    {
+      "name": "Linton, William James", 
+      "after_follower": null, 
+      "death_date": "1897", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303723, 
+      "role": "Artist", 
+      "birth_date": "1812", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35365, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

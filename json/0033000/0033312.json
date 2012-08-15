@@ -1,26 +1,30 @@
 {
-    "accession_number": "1986.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1532", 
-            "death_date": "1577", 
-            "name": "Samacchini, Orazio", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "16th century", 
-    "credit_line": "Clarence O. Hamilton Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 33312, 
-    "materials": "pen, brown ink and gray wash over black chalk on off-white laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Angels Intervening to Save St. Catherine"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Clarence O. Hamilton Fund", 
+  "accession_number": "1986.2", 
+  "title": "Angels Intervening to Save St. Catherine", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223761, 
+  "creation_date": "16th century", 
+  "materials": "pen, brown ink and gray wash over black chalk on off-white laid paper", 
+  "actors": [
+    {
+      "name": "Samacchini, Orazio", 
+      "after_follower": null, 
+      "death_date": "1577", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303363, 
+      "role": "Artist", 
+      "birth_date": "1532", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33312, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

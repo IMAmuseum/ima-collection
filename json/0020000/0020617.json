@@ -1,34 +1,40 @@
 {
-    "accession_number": "1992.59", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1976", 
-            "name": "Russel Wright", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "The Steubenville Pottery", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1940", 
-    "credit_line": "Gift of Marcus and Marie Chandler in memory of Ralph Chandler", 
-    "cultures": [], 
-    "dimensions": "13 1/2 in.", 
-    "dynasty": null, 
-    "irn": 20617, 
-    "materials": "earthenware", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Russel Wright", 
-    "title": "celery dish"
+  "publishers": [], 
+  "dimensions": "13 1/2 in.", 
+  "rights": "\u00a9 Russel Wright", 
+  "credit_line": "Gift of Marcus and Marie Chandler in memory of Ralph Chandler", 
+  "accession_number": "1992.59", 
+  "title": "celery dish", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194273, 
+  "creation_date": "about 1940", 
+  "materials": "earthenware", 
+  "actors": [
+    {
+      "name": "Russel Wright", 
+      "after_follower": null, 
+      "death_date": "1976", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296469, 
+      "role": "Designer", 
+      "birth_date": "1904", 
+      "nationality": null
+    }, 
+    {
+      "name": "The Steubenville Pottery", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296473, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 20617, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

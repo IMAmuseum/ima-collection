@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.49A-G", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Lord Byron", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1900-1904", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 5 1/2 in. (each)", 
-    "dynasty": null, 
-    "irn": 61867, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "John Murray"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Works of Lord Byron, Poetry New, Revised and Enlarged Edition with Illustrations"
+  "publishers": [
+    {
+      "name": "John Murray"
+    }
+  ], 
+  "dimensions": "8 3/4 x 5 1/2 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.49A-G", 
+  "title": "The Works of Lord Byron, Poetry New, Revised and Enlarged Edition with Illustrations", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277355, 
+  "creation_date": "1900-1904", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Lord Byron", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306227, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61867, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

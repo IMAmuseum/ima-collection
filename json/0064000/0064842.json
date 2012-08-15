@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.483", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1963", 
-            "death_date": null, 
-            "name": "Marcel Wanders", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Marcel Wanders Studio", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "2001", 
-    "credit_line": "The Ballard Fund", 
-    "cultures": [], 
-    "dimensions": "6 1/4 \u00d7 8 1/4 \u00d7 5 1/4 in.", 
-    "dynasty": null, 
-    "irn": 64842, 
-    "materials": "polyamide", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Marcel Wanders", 
-    "title": "Airborne Snotty (Pollinosis) vase"
+  "publishers": [], 
+  "dimensions": "6 1/4 \u00d7 8 1/4 \u00d7 5 1/4 in.", 
+  "rights": "\u00a9 Marcel Wanders", 
+  "credit_line": "The Ballard Fund", 
+  "accession_number": "2009.483", 
+  "title": "Airborne Snotty (Pollinosis) vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279391, 
+  "creation_date": "2001", 
+  "materials": "polyamide", 
+  "actors": [
+    {
+      "name": "Marcel Wanders", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307187, 
+      "role": "Designer", 
+      "birth_date": "1963", 
+      "nationality": null
+    }, 
+    {
+      "name": "Marcel Wanders Studio", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307191, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64842, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

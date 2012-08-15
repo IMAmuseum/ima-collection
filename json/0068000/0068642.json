@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.60", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Starck, Philippe", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kartell US, Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2005", 
-    "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
-    "cultures": [], 
-    "dimensions": "35 1/2 x 15 1/2 x 15 inches", 
-    "dynasty": null, 
-    "irn": 68642, 
-    "materials": "polycarbonate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Philippe Starck", 
-    "title": "Victoria Ghost side chair (dark orange)"
+  "publishers": [], 
+  "dimensions": "35 1/2 x 15 1/2 x 15 inches", 
+  "rights": "\u00a9 Philippe Starck", 
+  "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
+  "accession_number": "2010.60", 
+  "title": "Victoria Ghost side chair (dark orange)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283569, 
+  "creation_date": "2005", 
+  "materials": "polycarbonate", 
+  "actors": [
+    {
+      "name": "Starck, Philippe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306863, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kartell US, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307897, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68642, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

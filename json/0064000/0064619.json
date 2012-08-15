@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.378", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1971", 
-            "death_date": null, 
-            "name": "Mathias Bengtsson", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bengtsson Design, Ltd.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1999", 
-    "credit_line": "Frank Curtis Springer & Irving Moxley Springer Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "29 1/2 \u00d7 35 1/8 \u00d7 26 3/4 in.", 
-    "dynasty": null, 
-    "irn": 64619, 
-    "materials": "aluminum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Mathias Bengtsson", 
-    "title": "03 Slice chair"
+  "publishers": [], 
+  "dimensions": "29 1/2 \u00d7 35 1/8 \u00d7 26 3/4 in.", 
+  "rights": "\u00a9 Mathias Bengtsson", 
+  "credit_line": "Frank Curtis Springer & Irving Moxley Springer Purchase Fund", 
+  "accession_number": "2009.378", 
+  "title": "03 Slice chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279111, 
+  "creation_date": "1999", 
+  "materials": "aluminum", 
+  "actors": [
+    {
+      "name": "Mathias Bengtsson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306809, 
+      "role": "Designer", 
+      "birth_date": "1971", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bengtsson Design, Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306811, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64619, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.343", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1950", 
-            "death_date": null, 
-            "name": "Citterio, Antonio", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "B&B Italia, S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1996", 
-    "credit_line": "Gift of B&B Italia USA Inc.", 
-    "cultures": [], 
-    "dimensions": "24 \u00d7 103 \u00d7 24 in.", 
-    "dynasty": null, 
-    "irn": 64652, 
-    "materials": "wood and steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Antonio Citterio", 
-    "title": "Apta 9630 sofa"
+  "publishers": [], 
+  "dimensions": "24 \u00d7 103 \u00d7 24 in.", 
+  "rights": "\u00a9 Antonio Citterio", 
+  "credit_line": "Gift of B&B Italia USA Inc.", 
+  "accession_number": "2009.343", 
+  "title": "Apta 9630 sofa", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279145, 
+  "creation_date": "1996", 
+  "materials": "wood and steel", 
+  "actors": [
+    {
+      "name": "Citterio, Antonio", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306841, 
+      "role": "Designer", 
+      "birth_date": "1950", 
+      "nationality": null
+    }, 
+    {
+      "name": "B&B Italia, S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306845, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64652, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

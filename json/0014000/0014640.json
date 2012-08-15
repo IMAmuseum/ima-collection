@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.305", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1810", 
-            "death_date": "1892", 
-            "name": "Cox, Jacob", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1853", 
-    "credit_line": "Collection of Anna Hasselman", 
-    "cultures": [], 
-    "dimensions": "16 x 12 15/16 in. |  40.6 x 32.9 cm.", 
-    "dynasty": null, 
-    "irn": 14640, 
-    "materials": "pastel on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Otto Harley Hasselman"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "16 x 12 15/16 in. |  40.6 x 32.9 cm.", 
+  "title": "Otto Harley Hasselman", 
+  "accession_number": "78.305", 
+  "credit_line": "Collection of Anna Hasselman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166221, 
+  "creation_date": "1853", 
+  "materials": "pastel on paper", 
+  "actors": [
+    {
+      "name": "Cox, Jacob", 
+      "after_follower": null, 
+      "death_date": "1892", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295815, 
+      "role": "Artist", 
+      "birth_date": "1810", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14640, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.268", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1921", 
-            "death_date": "1992", 
-            "name": "Ingeborg Lundin", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Orrefors Glasbruk", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1960's", 
-    "credit_line": "Gift of John P. Antonelli", 
-    "cultures": [], 
-    "dimensions": "6 1/4 x 4 x 4 in.", 
-    "dynasty": null, 
-    "irn": 73798, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Vase"
+  "publishers": [], 
+  "dimensions": "6 1/4 x 4 x 4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of John P. Antonelli", 
+  "accession_number": "2011.268", 
+  "title": "Vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288231, 
+  "creation_date": "1960's", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Ingeborg Lundin", 
+      "after_follower": null, 
+      "death_date": "1992", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308659, 
+      "role": "Designer", 
+      "birth_date": "1921", 
+      "nationality": null
+    }, 
+    {
+      "name": "Orrefors Glasbruk", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308661, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 73798, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

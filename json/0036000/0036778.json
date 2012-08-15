@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.442", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1795-1797", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "7 1/2 x 6 in", 
-    "dynasty": null, 
-    "irn": 36778, 
-    "materials": "gray ink washes over pencil on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Beech Trees"
+  "publishers": [], 
+  "dimensions": "7 1/2 x 6 in", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "13.442", 
+  "title": "Beech Trees", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231747, 
+  "creation_date": "1795-1797", 
+  "materials": "gray ink washes over pencil on white paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36778, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

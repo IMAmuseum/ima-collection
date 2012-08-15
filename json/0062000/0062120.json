@@ -1,38 +1,44 @@
 {
-    "accession_number": "2004.94", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1982", 
-            "name": "Tworkov, Jack", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Tamarind Institute", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "25 x 25 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 62120, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tamarind Institute"
-        }
-    ], 
-    "rights": "\u00a9 Jack Tworkov", 
-    "title": "T.L.# 7"
+  "publishers": [
+    {
+      "name": "Tamarind Institute"
+    }
+  ], 
+  "dimensions": "25 x 25 in. (sheet)", 
+  "rights": "\u00a9 Jack Tworkov", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2004.94", 
+  "title": "T.L.# 7", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277461, 
+  "creation_date": "1978", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Tworkov, Jack", 
+      "after_follower": null, 
+      "death_date": "1982", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295763, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }, 
+    {
+      "name": "Tamarind Institute", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299577, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62120, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

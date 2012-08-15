@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.541", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "El \u00daltimo Grito", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Magis S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2004", 
-    "credit_line": "Gift of Magis", 
-    "cultures": [], 
-    "dimensions": "16 x 26 x 24 in.", 
-    "dynasty": null, 
-    "irn": 64679, 
-    "materials": "polyethylene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 El \u00daltimo Grito", 
-    "title": "Mico chair"
+  "publishers": [], 
+  "dimensions": "16 x 26 x 24 in.", 
+  "rights": "\u00a9 El \u00daltimo Grito", 
+  "credit_line": "Gift of Magis", 
+  "accession_number": "2009.541", 
+  "title": "Mico chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279189, 
+  "creation_date": "2004", 
+  "materials": "polyethylene", 
+  "actors": [
+    {
+      "name": "El \u00daltimo Grito", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306911, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Magis S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306915, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64679, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

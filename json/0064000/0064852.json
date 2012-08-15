@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.476", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1960", 
-            "death_date": null, 
-            "name": "Robert Wettstein", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1960", 
-            "death_date": null, 
-            "name": "Robert Wettstein", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1991", 
-    "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks, Sr., and Her Late Son, Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "35 x 49 x 16 in.", 
-    "dynasty": null, 
-    "irn": 64852, 
-    "materials": "paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Robert Wettstein", 
-    "title": "Tristan chaise lounge"
+  "publishers": [], 
+  "dimensions": "35 x 49 x 16 in.", 
+  "rights": "\u00a9 Robert Wettstein", 
+  "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks, Sr., and Her Late Son, Michael Fairbanks", 
+  "accession_number": "2009.476", 
+  "title": "Tristan chaise lounge", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279407, 
+  "creation_date": "1991", 
+  "materials": "paper", 
+  "actors": [
+    {
+      "name": "Robert Wettstein", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307193, 
+      "role": "Designer", 
+      "birth_date": "1960", 
+      "nationality": null
+    }, 
+    {
+      "name": "Robert Wettstein", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307193, 
+      "role": "Manufacturer", 
+      "birth_date": "1960", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64852, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

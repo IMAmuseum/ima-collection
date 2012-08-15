@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.69", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1598", 
-            "death_date": "1688", 
-            "name": "Mellan, Claude", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1641", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 22129, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Henriette Maria de Buade-Frontenac"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "57.69", 
+  "title": "Portrait of Henriette Maria de Buade-Frontenac", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18197703, 
+  "creation_date": "1641", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Mellan, Claude", 
+      "after_follower": null, 
+      "death_date": "1688", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298991, 
+      "role": "Artist", 
+      "birth_date": "1598", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22129, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.33.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1926", 
-            "name": "Stark, Otto", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1887-1887", 
-    "credit_line": "Gift of Miss Gretchen Stark", 
-    "cultures": [], 
-    "dimensions": "14 1/4 x 11 1/4 in.\n20 3/8 x 17 1/4 in. (framed)", 
-    "dynasty": null, 
-    "irn": 11401, 
-    "materials": "oil on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Marie Stark"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "14 1/4 x 11 1/4 in.\n20 3/8 x 17 1/4 in. (framed)", 
+  "title": "Marie Stark", 
+  "accession_number": "71.33.3", 
+  "credit_line": "Gift of Miss Gretchen Stark", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18158389, 
+  "creation_date": "1887-1887", 
+  "materials": "oil on paper", 
+  "actors": [
+    {
+      "name": "Stark, Otto", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295679, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11401, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

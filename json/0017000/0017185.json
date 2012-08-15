@@ -1,34 +1,40 @@
 {
-    "accession_number": "1990.42", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "S\u00e8vres Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Pierre-Antoine M\u00e9reaud", 
-            "nationality": null, 
-            "role": "Decorator"
-        }
-    ], 
-    "creation_date": "1760", 
-    "credit_line": "Decorative Arts Society Fund, Lilly Pavilion Discretionary Fund and Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "5 7/8 x 9 x 4 1/2 in.", 
-    "dynasty": null, 
-    "irn": 17185, 
-    "materials": "soft-paste porcelain, polychrome enamels, gilding", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase (Cuvette Mahon)"
+  "publishers": [], 
+  "dimensions": "5 7/8 x 9 x 4 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Decorative Arts Society Fund, Lilly Pavilion Discretionary Fund and Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "1990.42", 
+  "title": "vase (Cuvette Mahon)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18172615, 
+  "creation_date": "1760", 
+  "materials": "soft-paste porcelain, polychrome enamels, gilding", 
+  "actors": [
+    {
+      "name": "S\u00e8vres Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295809, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Pierre-Antoine M\u00e9reaud", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300369, 
+      "role": "Decorator", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 17185, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

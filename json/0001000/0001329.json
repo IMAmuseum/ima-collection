@@ -1,26 +1,30 @@
 {
-    "accession_number": "61.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1923", 
-            "death_date": "2001", 
-            "name": "Joe H. Herrera", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1920-1961", 
-    "credit_line": "Gift of E. Vernon Hahn", 
-    "cultures": [], 
-    "dimensions": "11 1/2 x 8 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 1329, 
-    "materials": "gouache on blue paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Buffalo Dancer"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "11 1/2 x 8 3/4 in. (sheet)", 
+  "title": "Buffalo Dancer", 
+  "accession_number": "61.22", 
+  "credit_line": "Gift of E. Vernon Hahn", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134451, 
+  "creation_date": "1920-1961", 
+  "materials": "gouache on blue paper", 
+  "actors": [
+    {
+      "name": "Joe H. Herrera", 
+      "after_follower": null, 
+      "death_date": "2001", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295475, 
+      "role": "Artist", 
+      "birth_date": "1923", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1329, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "2002.197", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Daphnis, Nassos", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1982", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60179, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "John Nichols, New York"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "SS-1-82"
+  "publishers": [
+    {
+      "name": "John Nichols, New York"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2002.197", 
+  "title": "SS-1-82", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276409, 
+  "creation_date": "1982", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Daphnis, Nassos", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305425, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 60179, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

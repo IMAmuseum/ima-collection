@@ -1,26 +1,30 @@
 {
-    "accession_number": "43.28", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1896", 
-            "death_date": "1968", 
-            "name": "Blanch, Arnold", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26441, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Suwannee River"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Jacob Metzger Fund", 
+  "accession_number": "43.28", 
+  "title": "The Suwannee River", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18207701, 
+  "creation_date": "20th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Blanch, Arnold", 
+      "after_follower": null, 
+      "death_date": "1968", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302289, 
+      "role": "Artist", 
+      "birth_date": "1896", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26441, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

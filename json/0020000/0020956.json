@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.794.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1790", 
-            "death_date": "1848", 
-            "name": "Dawe, Henry Edward", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1820", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "7 7/8 x 10 7/8 in. (image)\n12 1/8 x 15 11/16 in. (sheet)\n8 7/8 x 11 13/16 in. (plate)", 
-    "dynasty": null, 
-    "irn": 20956, 
-    "materials": "mezzotint", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Deluge"
+  "publishers": [], 
+  "dimensions": "7 7/8 x 10 7/8 in. (image)\n12 1/8 x 15 11/16 in. (sheet)\n8 7/8 x 11 13/16 in. (plate)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.794.2", 
+  "title": "The Deluge", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18195043, 
+  "creation_date": "about 1820", 
+  "materials": "mezzotint", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Dawe, Henry Edward", 
+      "after_follower": null, 
+      "death_date": "1848", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294755, 
+      "role": "Engraver", 
+      "birth_date": "1790", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20956, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

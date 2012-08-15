@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.43.18", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1811", 
-            "death_date": "1886", 
-            "name": "Hillemacher, Fr\u00e9d\u00e9ric-D\u00e9sir\u00e9", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "before 1868", 
-    "credit_line": "Gift of Mrs. Herbert S. Call", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55212, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of John Bellini"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herbert S. Call", 
+  "accession_number": "72.43.18", 
+  "title": "Portrait of John Bellini", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272341, 
+  "creation_date": "before 1868", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Hillemacher, Fr\u00e9d\u00e9ric-D\u00e9sir\u00e9", 
+      "after_follower": null, 
+      "death_date": "1886", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305671, 
+      "role": "Artist", 
+      "birth_date": "1811", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55212, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

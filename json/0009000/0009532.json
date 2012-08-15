@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.29", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1748", 
-            "death_date": "1815", 
-            "name": "Wicart, Nicolaas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century - early 19th century", 
-    "credit_line": "Gift of Mr. and Mrs. John E. Otis, Jr.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9532, 
-    "materials": "grey wash on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape with Peasants and Cows"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Landscape with Peasants and Cows", 
+  "accession_number": "55.29", 
+  "credit_line": "Gift of Mr. and Mrs. John E. Otis, Jr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153971, 
+  "creation_date": "18th century - early 19th century", 
+  "materials": "grey wash on off-white paper", 
+  "actors": [
+    {
+      "name": "Wicart, Nicolaas", 
+      "after_follower": null, 
+      "death_date": "1815", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298379, 
+      "role": "Artist", 
+      "birth_date": "1748", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9532, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

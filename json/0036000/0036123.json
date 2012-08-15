@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.10.228.3A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Meissen Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Children of J.K. Lilly", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36123, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "sugar bowl with lid"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J.K. Lilly", 
+  "accession_number": "67.10.228.3A-B", 
+  "title": "sugar bowl with lid", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230229, 
+  "creation_date": null, 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Meissen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294771, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 36123, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

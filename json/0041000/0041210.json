@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1640.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1804", 
-            "death_date": "1872", 
-            "name": "Allom, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Floyd, W.", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1837", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41210, 
-    "materials": "engraving on India paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Village of Koghera & Deodar Forest Near the Choor"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1640.24", 
+  "title": "Village of Koghera & Deodar Forest Near the Choor", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243987, 
+  "creation_date": "1837", 
+  "materials": "engraving on India paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Allom, Thomas", 
+      "after_follower": null, 
+      "death_date": "1872", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296161, 
+      "role": "Artist", 
+      "birth_date": "1804", 
+      "nationality": null
+    }, 
+    {
+      "name": "Floyd, W.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304821, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 41210, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

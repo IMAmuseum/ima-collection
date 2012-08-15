@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.96", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1610", 
-            "death_date": "1686", 
-            "name": "Rousselet, Gilles", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20601, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sphiron"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.96", 
+  "title": "Sphiron", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194245, 
+  "creation_date": "17th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Rousselet, Gilles", 
+      "after_follower": null, 
+      "death_date": "1686", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301033, 
+      "role": "Artist", 
+      "birth_date": "1610", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20601, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

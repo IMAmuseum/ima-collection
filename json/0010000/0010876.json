@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.485.15A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Chelsea porcelain factory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1770", 
-    "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10876, 
-    "materials": "Polychromed Enamels", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "coffee pot with lid"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "coffee pot with lid", 
+  "accession_number": "75.485.15A-B", 
+  "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157151, 
+  "creation_date": "1770", 
+  "materials": "Polychromed Enamels", 
+  "actors": [
+    {
+      "name": "Chelsea porcelain factory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296349, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 10876, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "16.1168", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1832", 
-    "credit_line": "unknown", 
-    "cultures": [], 
-    "dimensions": "14 x 9 3/4 in. (image, trimmed at right and bottom margins)", 
-    "dynasty": null, 
-    "irn": 6870, 
-    "materials": "color woodblock print", 
-    "on_view": true, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Soga Brothers Cutting Down Ten [Retainers of Kud^o Suketsune] (Soga j^uban kiri no zu)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "14 x 9 3/4 in. (image, trimmed at right and bottom margins)", 
+  "title": "The Soga Brothers Cutting Down Ten [Retainers of Kud^o Suketsune] (Soga j^uban kiri no zu)", 
+  "accession_number": "16.1168", 
+  "credit_line": "unknown", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18147561, 
+  "creation_date": "about 1832", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6870, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

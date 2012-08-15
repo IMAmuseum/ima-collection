@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.654", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1966", 
-            "name": "Carlsen, Dines", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Dr. Gilbert Erlechman", 
-    "cultures": [], 
-    "dimensions": "28 x 22 in.\n36 x 30 in. (framed)", 
-    "dynasty": null, 
-    "irn": 26294, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Self-Portrait"
+  "publishers": [], 
+  "dimensions": "28 x 22 in.\n36 x 30 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Gilbert Erlechman", 
+  "accession_number": "80.654", 
+  "title": "Self-Portrait", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18207333, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Carlsen, Dines", 
+      "after_follower": null, 
+      "death_date": "1966", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294777, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26294, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

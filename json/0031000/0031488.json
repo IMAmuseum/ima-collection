@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "ca 1480", 
-            "death_date": "1542", 
-            "name": "Beck, Leonhard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "15th-16th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 31488, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The White King Meeting the Queen of Feuereisen and Her Daughter"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.32", 
+  "title": "The White King Meeting the Queen of Feuereisen and Her Daughter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18219493, 
+  "creation_date": "15th-16th century", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Beck, Leonhard", 
+      "after_follower": null, 
+      "death_date": "1542", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296015, 
+      "role": "Artist", 
+      "birth_date": "ca 1480", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31488, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

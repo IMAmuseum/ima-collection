@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.475", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Meissen Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1750", 
-    "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "5 5/8 L", 
-    "dynasty": null, 
-    "irn": 13788, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "QUAIL"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "5 5/8 L", 
+  "title": "QUAIL", 
+  "accession_number": "75.475", 
+  "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164189, 
+  "creation_date": "about 1750", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Meissen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294771, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 13788, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2008.351", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": "1990", 
-            "name": "Halston", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "late 1950s", 
-    "credit_line": "Gift of Evie and Alan Fell", 
-    "cultures": [], 
-    "dimensions": "3 x 16 1/2 x 15", 
-    "dynasty": null, 
-    "irn": 65404, 
-    "materials": "straw, silk (?), plastic, elastic, metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "hat"
+  "publishers": [], 
+  "dimensions": "3 x 16 1/2 x 15", 
+  "rights": null, 
+  "credit_line": "Gift of Evie and Alan Fell", 
+  "accession_number": "2008.351", 
+  "title": "hat", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280053, 
+  "creation_date": "late 1950s", 
+  "materials": "straw, silk (?), plastic, elastic, metal", 
+  "actors": [
+    {
+      "name": "Halston", 
+      "after_follower": null, 
+      "death_date": "1990", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294977, 
+      "role": "Designer", 
+      "birth_date": "1932", 
+      "nationality": null
+    }
+  ], 
+  "irn": 65404, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

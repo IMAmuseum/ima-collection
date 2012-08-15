@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.127", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1889", 
-            "death_date": "1960", 
-            "name": "Pfeiffer, Fritz", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1943", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan D. Weisenberger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19080, 
-    "materials": "watercolor and gouache on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Earth, Sea & Sky"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan D. Weisenberger", 
+  "accession_number": "1999.127", 
+  "title": "Earth, Sea & Sky", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190835, 
+  "creation_date": "1943", 
+  "materials": "watercolor and gouache on off-white paper", 
+  "actors": [
+    {
+      "name": "Pfeiffer, Fritz", 
+      "after_follower": null, 
+      "death_date": "1960", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300729, 
+      "role": "Artist", 
+      "birth_date": "1889", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19080, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

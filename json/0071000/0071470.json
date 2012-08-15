@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1960", 
-            "death_date": null, 
-            "name": "Ferruccio Laviani", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kartell US, Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2004", 
-    "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
-    "cultures": [], 
-    "dimensions": "28 1/2 x 76 x 31 in.", 
-    "dynasty": null, 
-    "irn": 71470, 
-    "materials": "steel and plastic laminate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ferruccio Laviani", 
-    "title": "Four Table"
+  "publishers": [], 
+  "dimensions": "28 1/2 x 76 x 31 in.", 
+  "rights": "\u00a9 Ferruccio Laviani", 
+  "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
+  "accession_number": "2011.9", 
+  "title": "Four Table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287149, 
+  "creation_date": "2004", 
+  "materials": "steel and plastic laminate", 
+  "actors": [
+    {
+      "name": "Ferruccio Laviani", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307029, 
+      "role": "Designer", 
+      "birth_date": "1960", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kartell US, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307897, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71470, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

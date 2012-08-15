@@ -1,26 +1,30 @@
 {
-    "accession_number": "2009.53", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1776", 
-            "death_date": "1837", 
-            "name": "John Constable", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1816", 
-    "credit_line": "The Clowes Collection", 
-    "cultures": [], 
-    "dimensions": "12 1/2 x 8 1/2 in.", 
-    "dynasty": null, 
-    "irn": 31395, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Cornfield"
+  "publishers": [], 
+  "dimensions": "12 1/2 x 8 1/2 in.", 
+  "rights": null, 
+  "credit_line": "The Clowes Collection", 
+  "accession_number": "2009.53", 
+  "title": "The Cornfield", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18219303, 
+  "creation_date": "about 1816", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "John Constable", 
+      "after_follower": null, 
+      "death_date": "1837", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296115, 
+      "role": "Artist", 
+      "birth_date": "1776", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31395, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

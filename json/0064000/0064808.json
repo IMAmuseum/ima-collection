@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.13", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Snowcrash", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Snowcrash", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1995", 
-    "credit_line": "Gift of Proventus", 
-    "cultures": [], 
-    "dimensions": "38 1/2 \u00d7 63 3/8 \u00d7 30 7/8 in.", 
-    "dynasty": null, 
-    "irn": 64808, 
-    "materials": "steel and leather", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Netsurfer computer workstation"
+  "publishers": [], 
+  "dimensions": "38 1/2 \u00d7 63 3/8 \u00d7 30 7/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Proventus", 
+  "accession_number": "2011.13", 
+  "title": "Netsurfer computer workstation", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279339, 
+  "creation_date": "1995", 
+  "materials": "steel and leather", 
+  "actors": [
+    {
+      "name": "Snowcrash", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307143, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Snowcrash", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307143, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64808, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

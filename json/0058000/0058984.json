@@ -1,30 +1,34 @@
 {
-    "accession_number": "2002.132", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1861", 
-            "name": "Utagawa Kuniyoshi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1848", 
-    "credit_line": "Gift of Tom and Nancy Yamamoto", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 58984, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Shimizu-ya Naojiro"
-        }
-    ], 
-    "rights": null, 
-    "title": "Yada Jir^oemon Suketake"
+  "publishers": [
+    {
+      "name": "Shimizu-ya Naojiro"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Tom and Nancy Yamamoto", 
+  "accession_number": "2002.132", 
+  "title": "Yada Jir^oemon Suketake", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18275969, 
+  "creation_date": "1848", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kuniyoshi", 
+      "after_follower": null, 
+      "death_date": "1861", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301701, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 58984, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

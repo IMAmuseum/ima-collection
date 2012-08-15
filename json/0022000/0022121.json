@@ -1,26 +1,30 @@
 {
-    "accession_number": "45.111", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1858", 
-    "credit_line": "Gift in memory of Charles C. Kryter", 
-    "cultures": [], 
-    "dimensions": "13 3/8 x 8 5/8 in. (image)\n14 5/16 x 9 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 22121, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ichikoku Bridge in the Eastern Capital (T^oto: Ichikoku bashi)"
+  "publishers": [], 
+  "dimensions": "13 3/8 x 8 5/8 in. (image)\n14 5/16 x 9 3/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift in memory of Charles C. Kryter", 
+  "accession_number": "45.111", 
+  "title": "Ichikoku Bridge in the Eastern Capital (T^oto: Ichikoku bashi)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18197689, 
+  "creation_date": "1858", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22121, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

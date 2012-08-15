@@ -1,26 +1,30 @@
 {
-    "accession_number": "58.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1863", 
-            "death_date": "1937", 
-            "name": "Shannon, Charles Haslewood", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Miss Blanche Stillson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 29940, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "August"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Miss Blanche Stillson", 
+  "accession_number": "58.9", 
+  "title": "August", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18215937, 
+  "creation_date": "19th century", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Shannon, Charles Haslewood", 
+      "after_follower": null, 
+      "death_date": "1937", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302859, 
+      "role": "Artist", 
+      "birth_date": "1863", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29940, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

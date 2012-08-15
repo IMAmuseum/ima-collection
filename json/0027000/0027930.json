@@ -1,26 +1,30 @@
 {
-    "accession_number": "03.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1853", 
-            "death_date": "1893", 
-            "name": "Richards, Samuel G.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1890", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 27930, 
-    "materials": "pen and ink on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of John Addington Symonds"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "03.2", 
+  "title": "Portrait of John Addington Symonds", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211217, 
+  "creation_date": "1890", 
+  "materials": "pen and ink on off-white paper", 
+  "actors": [
+    {
+      "name": "Richards, Samuel G.", 
+      "after_follower": null, 
+      "death_date": "1893", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295163, 
+      "role": "Artist", 
+      "birth_date": "1853", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27930, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

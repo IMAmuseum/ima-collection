@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.45.23B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1599", 
-            "death_date": "1652", 
-            "name": "Laer, Pieter van", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Mr. T. Victor Keene", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45164, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Horse"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. T. Victor Keene", 
+  "accession_number": "70.45.23B", 
+  "title": "Horse", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253669, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Laer, Pieter van", 
+      "after_follower": null, 
+      "death_date": "1652", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295535, 
+      "role": "Artist", 
+      "birth_date": "1599", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45164, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

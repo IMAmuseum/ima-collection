@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1470", 
-            "death_date": "1533", 
-            "name": "Cornelisz. van Oostsanen, Jacob", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1508", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "24 x 17 5/8 in.", 
-    "dynasty": null, 
-    "irn": 25413, 
-    "materials": "oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Annunciation"
+  "publishers": [], 
+  "dimensions": "24 x 17 5/8 in.", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "24.1", 
+  "title": "Annunciation", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205297, 
+  "creation_date": "about 1508", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Cornelisz. van Oostsanen, Jacob", 
+      "after_follower": null, 
+      "death_date": "1533", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302053, 
+      "role": "Artist", 
+      "birth_date": "1470", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25413, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

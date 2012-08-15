@@ -1,26 +1,30 @@
 {
-    "accession_number": "C10025", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1776", 
-            "death_date": "1837", 
-            "name": "John Constable", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1821", 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "21 1/2 x 31 1/2 in.", 
-    "dynasty": null, 
-    "irn": 2791, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Harnham Bridge, Salisbury"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "21 1/2 x 31 1/2 in.", 
+  "title": "Harnham Bridge, Salisbury", 
+  "accession_number": "C10025", 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137963, 
+  "creation_date": "about 1821", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "John Constable", 
+      "after_follower": null, 
+      "death_date": "1837", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296115, 
+      "role": "Artist", 
+      "birth_date": "1776", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2791, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

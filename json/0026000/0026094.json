@@ -1,34 +1,40 @@
 {
-    "accession_number": "38.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1885", 
-            "death_date": "1975", 
-            "name": "Chiura Obata", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Takamizawa", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1930", 
-    "credit_line": "Gift of Mr. Charles Kryter", 
-    "cultures": [], 
-    "dimensions": "11 x 15 3/4 in.", 
-    "dynasty": null, 
-    "irn": 26094, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Showa", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Great Nature, Storm on Lyell"
+  "publishers": [], 
+  "dimensions": "11 x 15 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. Charles Kryter", 
+  "accession_number": "38.24", 
+  "title": "Great Nature, Storm on Lyell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Showa", 
+  "artisinal:id": 18206893, 
+  "creation_date": "1930", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Chiura Obata", 
+      "after_follower": null, 
+      "death_date": "1975", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298549, 
+      "role": "Artist", 
+      "birth_date": "1885", 
+      "nationality": null
+    }, 
+    {
+      "name": "Takamizawa", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298553, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 26094, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

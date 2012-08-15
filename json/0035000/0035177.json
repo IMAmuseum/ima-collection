@@ -1,26 +1,30 @@
 {
-    "accession_number": "06.122", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1850", 
-            "death_date": "1931", 
-            "name": "French, Daniel Chester", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Daniel French", 
-    "cultures": [], 
-    "dimensions": "68 H (base 45 x 60)", 
-    "dynasty": null, 
-    "irn": 35177, 
-    "materials": "Plaster Cast Working Model", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "AMERICA"
+  "publishers": [], 
+  "dimensions": "68 H (base 45 x 60)", 
+  "rights": null, 
+  "credit_line": "Gift of Daniel French", 
+  "accession_number": "06.122", 
+  "title": "AMERICA", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18228075, 
+  "creation_date": null, 
+  "materials": "Plaster Cast Working Model", 
+  "actors": [
+    {
+      "name": "French, Daniel Chester", 
+      "after_follower": null, 
+      "death_date": "1931", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298707, 
+      "role": "Artist", 
+      "birth_date": "1850", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35177, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

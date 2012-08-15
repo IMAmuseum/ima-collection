@@ -1,26 +1,30 @@
 {
-    "accession_number": "1989.114", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Rookwood Pottery", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1918", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "H: 8 in.", 
-    "dynasty": null, 
-    "irn": 37049, 
-    "materials": "earthenware", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase"
+  "publishers": [], 
+  "dimensions": "H: 8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "1989.114", 
+  "title": "vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232385, 
+  "creation_date": "1918", 
+  "materials": "earthenware", 
+  "actors": [
+    {
+      "name": "Rookwood Pottery", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295725, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 37049, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

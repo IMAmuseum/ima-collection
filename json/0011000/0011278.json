@@ -1,26 +1,30 @@
 {
-    "accession_number": "21.134", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1757", 
-            "death_date": "1827", 
-            "name": "Blake, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "10/8/1810", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11278, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chaucer's Canterbury Pilgrims"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Chaucer's Canterbury Pilgrims", 
+  "accession_number": "21.134", 
+  "credit_line": "Gift of William George Sullivan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18158111, 
+  "creation_date": "10/8/1810", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Blake, William", 
+      "after_follower": null, 
+      "death_date": "1827", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296425, 
+      "role": "Artist", 
+      "birth_date": "1757", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11278, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

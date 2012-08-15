@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.699", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1471", 
-            "death_date": "1528", 
-            "name": "D\u00fcrer, Albrecht", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1510", 
-    "credit_line": "Gift of Mrs. J. E. Fehsenfeld", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26143, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Assumption and Coronation of the Virgin"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. J. E. Fehsenfeld", 
+  "accession_number": "79.699", 
+  "title": "The Assumption and Coronation of the Virgin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18206995, 
+  "creation_date": "1510", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "D\u00fcrer, Albrecht", 
+      "after_follower": null, 
+      "death_date": "1528", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297251, 
+      "role": "Artist", 
+      "birth_date": "1471", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26143, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

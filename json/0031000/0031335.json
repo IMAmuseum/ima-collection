@@ -1,26 +1,30 @@
 {
-    "accession_number": "S3628.80.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": "1932", 
-            "name": "House, Gordon", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Miss Marjorie Dorman", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 31335, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mitred Matrix"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Miss Marjorie Dorman", 
+  "accession_number": "S3628.80.20", 
+  "title": "Mitred Matrix", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18219169, 
+  "creation_date": "1970", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "House, Gordon", 
+      "after_follower": null, 
+      "death_date": "1932", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294967, 
+      "role": "Artist", 
+      "birth_date": "1932", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31335, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

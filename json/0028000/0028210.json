@@ -1,26 +1,30 @@
 {
-    "accession_number": "19.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1800", 
-            "death_date": "1899", 
-            "name": "Plasent, Gomez", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Mrs. Henry C. Long", 
-    "cultures": [], 
-    "dimensions": "42 1/2 x 31 1/2 in.", 
-    "dynasty": null, 
-    "irn": 28210, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Flemish Fisherwomen"
+  "publishers": [], 
+  "dimensions": "42 1/2 x 31 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Mrs. Henry C. Long", 
+  "accession_number": "19.24", 
+  "title": "Flemish Fisherwomen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211887, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Plasent, Gomez", 
+      "after_follower": null, 
+      "death_date": "1899", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302595, 
+      "role": "Artist", 
+      "birth_date": "1800", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28210, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

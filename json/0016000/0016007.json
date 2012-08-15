@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.101", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1886", 
-            "death_date": "1944", 
-            "name": "Booth, Hanson", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Purchased from the Sarah F. Banning Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16007, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Cross Action"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "A Cross Action", 
+  "accession_number": "30.101", 
+  "credit_line": "Purchased from the Sarah F. Banning Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169349, 
+  "creation_date": null, 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Booth, Hanson", 
+      "after_follower": null, 
+      "death_date": "1944", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300035, 
+      "role": "Artist", 
+      "birth_date": "1886", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16007, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.225", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Harry S. Preble Jr.", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "A.C. Gilbert Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1944", 
-    "credit_line": "The Liliane and David M. Stewart Collection", 
-    "cultures": [], 
-    "dimensions": "5 5/8 x 4 1/4 in.", 
-    "dynasty": null, 
-    "irn": 65120, 
-    "materials": "Bakelite, chromium-plated and enameled steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "hairdryer"
+  "publishers": [], 
+  "dimensions": "5 5/8 x 4 1/4 in.", 
+  "rights": null, 
+  "credit_line": "The Liliane and David M. Stewart Collection", 
+  "accession_number": "2008.225", 
+  "title": "hairdryer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279685, 
+  "creation_date": "about 1944", 
+  "materials": "Bakelite, chromium-plated and enameled steel", 
+  "actors": [
+    {
+      "name": "Harry S. Preble Jr.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307329, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "A.C. Gilbert Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307331, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65120, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

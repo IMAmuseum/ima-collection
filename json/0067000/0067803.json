@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.520", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1950", 
-            "death_date": null, 
-            "name": "Hadid, Zaha", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Alessi S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2005", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "16 7/16 x 3 1/8 x 2 5/16 in.", 
-    "dynasty": null, 
-    "irn": 67803, 
-    "materials": "polished stainless steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Zaha Hadid", 
-    "title": "Crevasse flower vase for Officina Alessi"
+  "publishers": [], 
+  "dimensions": "16 7/16 x 3 1/8 x 2 5/16 in.", 
+  "rights": "\u00a9 Zaha Hadid", 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2009.520", 
+  "title": "Crevasse flower vase for Officina Alessi", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283017, 
+  "creation_date": "2005", 
+  "materials": "polished stainless steel", 
+  "actors": [
+    {
+      "name": "Hadid, Zaha", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306963, 
+      "role": "Designer", 
+      "birth_date": "1950", 
+      "nationality": null
+    }, 
+    {
+      "name": "Alessi S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304005, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67803, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

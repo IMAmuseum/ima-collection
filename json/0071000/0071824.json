@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.193A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Robert Oberheim", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Braun", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1965", 
-    "credit_line": "Gift of A.C. Fernandez", 
-    "cultures": [], 
-    "dimensions": "A) camera: 8 1/4 x 9 1/2 x 2 in.\nB) case: 8 1/2 x 11 1/4 x 3 1/2 in.", 
-    "dynasty": null, 
-    "irn": 71824, 
-    "materials": "plastic, aluminum, and leather", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Braun", 
-    "title": "Nizo S 8 T Camera and Case"
+  "publishers": [], 
+  "dimensions": "A) camera: 8 1/4 x 9 1/2 x 2 in.\nB) case: 8 1/2 x 11 1/4 x 3 1/2 in.", 
+  "rights": "\u00a9 Braun", 
+  "credit_line": "Gift of A.C. Fernandez", 
+  "accession_number": "2011.193A-B", 
+  "title": "Nizo S 8 T Camera and Case", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287503, 
+  "creation_date": "1965", 
+  "materials": "plastic, aluminum, and leather", 
+  "actors": [
+    {
+      "name": "Robert Oberheim", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308503, 
+      "role": "Designer", 
+      "birth_date": "1938", 
+      "nationality": null
+    }, 
+    {
+      "name": "Braun", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307401, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71824, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

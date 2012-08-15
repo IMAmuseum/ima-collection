@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.231", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1889-1889", 
-    "credit_line": "Gift of Mr. Robert Martindale", 
-    "cultures": [], 
-    "dimensions": "36 x 26 in.\n36 3/4 x 27 7/8 in. (framed)", 
-    "dynasty": null, 
-    "irn": 30208, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Man"
+  "publishers": [], 
+  "dimensions": "36 x 26 in.\n36 3/4 x 27 7/8 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. Robert Martindale", 
+  "accession_number": "77.231", 
+  "title": "Portrait of a Man", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18216539, 
+  "creation_date": "1889-1889", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30208, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

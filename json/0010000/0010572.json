@@ -1,26 +1,30 @@
 {
-    "accession_number": "17.100", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1850", 
-            "death_date": "1917", 
-            "name": "Lewis H. Meakin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1890", 
-    "credit_line": "Gift of Frank Duveneck and L. H. Meakin", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10572, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "On Loganda Creek, Ohio"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "On Loganda Creek, Ohio", 
+  "accession_number": "17.100", 
+  "credit_line": "Gift of Frank Duveneck and L. H. Meakin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156395, 
+  "creation_date": "about 1890", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Lewis H. Meakin", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294863, 
+      "role": "Artist", 
+      "birth_date": "1850", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10572, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

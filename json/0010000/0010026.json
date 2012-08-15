@@ -1,34 +1,38 @@
 {
-    "accession_number": "81.798", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": null, 
-            "name": "Cage, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1971", 
-    "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
-    "cultures": [], 
-    "dimensions": "27 1/2 x 40 in.", 
-    "dynasty": null, 
-    "irn": 10026, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Erwin Hollander"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Eye Editions"
-        }
-    ], 
-    "rights": "\u00a9 John Cage Trust", 
-    "title": "Not Wanting to Say Anything About Marcel (Duchamp)"
+  "publishers": [
+    {
+      "name": "Eye Editions"
+    }
+  ], 
+  "rights": "\u00a9 John Cage Trust", 
+  "dimensions": "27 1/2 x 40 in.", 
+  "title": "Not Wanting to Say Anything About Marcel (Duchamp)", 
+  "accession_number": "81.798", 
+  "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155099, 
+  "creation_date": "1971", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Cage, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298503, 
+      "role": "Artist", 
+      "birth_date": "1912", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10026, 
+  "printers": [
+    {
+      "name": "Erwin Hollander"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

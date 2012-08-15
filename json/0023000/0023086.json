@@ -1,26 +1,30 @@
 {
-    "accession_number": "50.44", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1500", 
-            "death_date": "1550", 
-            "name": "Beham, Hans Sebald", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1547", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "2 7/8 x 4 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 23086, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Job Conversing with his Friends"
+  "publishers": [], 
+  "dimensions": "2 7/8 x 4 1/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "50.44", 
+  "title": "Job Conversing with his Friends", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18199927, 
+  "creation_date": "1547", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Beham, Hans Sebald", 
+      "after_follower": null, 
+      "death_date": "1550", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299835, 
+      "role": "Artist", 
+      "birth_date": "1500", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23086, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

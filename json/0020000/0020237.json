@@ -1,26 +1,30 @@
 {
-    "accession_number": "45.242", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1758", 
-            "death_date": "1810", 
-            "name": "Hoppner, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1800", 
-    "credit_line": "Gift of Mr. and Mrs. Joseph E. Cain", 
-    "cultures": [], 
-    "dimensions": "30 x 25 in.", 
-    "dynasty": null, 
-    "irn": 20237, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of William Inigo Jones"
+  "publishers": [], 
+  "dimensions": "30 x 25 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Joseph E. Cain", 
+  "accession_number": "45.242", 
+  "title": "Portrait of William Inigo Jones", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193409, 
+  "creation_date": "about 1800", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Hoppner, John", 
+      "after_follower": null, 
+      "death_date": "1810", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300835, 
+      "role": "Artist", 
+      "birth_date": "1758", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20237, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

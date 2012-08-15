@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.57.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "J\u00e1nos Megyik", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Amboss", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "15/16 x 5 7/8 x 1 1/16 in.", 
-    "dynasty": null, 
-    "irn": 71647, 
-    "materials": "18/8 stainless steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "7000 flatware, teaspoon"
+  "publishers": [], 
+  "dimensions": "15/16 x 5 7/8 x 1 1/16 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2011.57.1", 
+  "title": "7000 flatware, teaspoon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287301, 
+  "creation_date": "1970", 
+  "materials": "18/8 stainless steel", 
+  "actors": [
+    {
+      "name": "J\u00e1nos Megyik", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307931, 
+      "role": "Designer", 
+      "birth_date": "1938", 
+      "nationality": null
+    }, 
+    {
+      "name": "Amboss", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307933, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71647, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

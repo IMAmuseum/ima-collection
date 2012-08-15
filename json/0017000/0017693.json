@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.46", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1804", 
-            "death_date": "1866", 
-            "name": "Gavarni, Paul", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 17693, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Faites et Gestes du Proprietaire"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Gamboliers", 
+  "accession_number": "32.46", 
+  "title": "Faites et Gestes du Proprietaire", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18173909, 
+  "creation_date": "19th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Gavarni, Paul", 
+      "after_follower": null, 
+      "death_date": "1866", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295481, 
+      "role": "Artist", 
+      "birth_date": "1804", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17693, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

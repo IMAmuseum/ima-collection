@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.64.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1804", 
-            "death_date": "1866", 
-            "name": "Gavarni, Paul", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1839", 
-    "credit_line": "Gift of Mr. Elmer E. Taflinger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10806, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Les Suites du Bal Masque"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Les Suites du Bal Masque", 
+  "accession_number": "71.64.2", 
+  "credit_line": "Gift of Mr. Elmer E. Taflinger", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156977, 
+  "creation_date": "1839", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Gavarni, Paul", 
+      "after_follower": null, 
+      "death_date": "1866", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295481, 
+      "role": "Artist", 
+      "birth_date": "1804", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10806, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

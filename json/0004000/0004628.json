@@ -1,26 +1,30 @@
 {
-    "accession_number": "38.30", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1874", 
-            "death_date": "1934", 
-            "name": "Noble, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs John N. Carey", 
-    "cultures": [], 
-    "dimensions": "25 x 30 in.", 
-    "dynasty": null, 
-    "irn": 4628, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Horse at the Ford"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "25 x 30 in.", 
+  "title": "Horse at the Ford", 
+  "accession_number": "38.30", 
+  "credit_line": "Gift of Mrs John N. Carey", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142251, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Noble, John", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296869, 
+      "role": "Artist", 
+      "birth_date": "1874", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4628, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

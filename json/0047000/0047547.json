@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.39", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1707", 
-            "death_date": "1783", 
-            "name": "Le Bas, Jacques Philippe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs A J Brownell and Miss F J Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 47547, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "View of Flanders"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs A J Brownell and Miss F J Brownell", 
+  "accession_number": "09.39", 
+  "title": "View of Flanders", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18258437, 
+  "creation_date": null, 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Le Bas, Jacques Philippe", 
+      "after_follower": null, 
+      "death_date": "1783", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298907, 
+      "role": "Artist", 
+      "birth_date": "1707", 
+      "nationality": null
+    }
+  ], 
+  "irn": 47547, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.714.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1773", 
-            "death_date": "1857", 
-            "name": "Charles Turner", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "February 20, 1808", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13851, 
-    "materials": "etching and mezzotint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Castle Above the Meadows"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Castle Above the Meadows", 
+  "accession_number": "80.714.5", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164335, 
+  "creation_date": "February 20, 1808", 
+  "materials": "etching and mezzotint", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Charles Turner", 
+      "after_follower": null, 
+      "death_date": "1857", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295011, 
+      "role": "Engraver", 
+      "birth_date": "1773", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13851, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

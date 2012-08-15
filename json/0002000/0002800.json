@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.349", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1877", 
-            "death_date": "1960", 
-            "name": "Flagg, James Montgomery", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1917-1918", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2800, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Together We Win"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Together We Win", 
+  "accession_number": "80.349", 
+  "credit_line": "Museum Accession", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137977, 
+  "creation_date": "1917-1918", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Flagg, James Montgomery", 
+      "after_follower": null, 
+      "death_date": "1960", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296123, 
+      "role": "Artist", 
+      "birth_date": "1877", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2800, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

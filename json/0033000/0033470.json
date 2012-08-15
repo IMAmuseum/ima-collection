@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.88", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1854", 
-            "death_date": "1935", 
-            "name": "Forsyth, William J.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1883", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "18 7/8 x 10 3/4", 
-    "dynasty": null, 
-    "irn": 33470, 
-    "materials": "watercolor on blue paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Estates of William J. and Constance Forsyth \u00a9 The Estates of William J. and Constance Forsyth", 
-    "title": "Girl with Pitcher"
+  "publishers": [], 
+  "dimensions": "18 7/8 x 10 3/4", 
+  "rights": "\u00a9 The Estates of William J. and Constance Forsyth \u00a9 The Estates of William J. and Constance Forsyth", 
+  "credit_line": "Museum Accession", 
+  "accession_number": "1985.88", 
+  "title": "Girl with Pitcher", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224147, 
+  "creation_date": "1883", 
+  "materials": "watercolor on blue paper", 
+  "actors": [
+    {
+      "name": "Forsyth, William J.", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294989, 
+      "role": "Artist", 
+      "birth_date": "1854", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33470, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1983.81", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1806", 
-            "death_date": "1876", 
-            "name": "Zhou Tang", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1874", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "10 x 10 (image)", 
-    "dynasty": "Qing dynasty", 
-    "irn": 19056, 
-    "materials": "album (10 leaves), ink and color on silk", 
-    "on_view": false, 
-    "period": "Tongzhi", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "album of marvelous rocks"
+  "publishers": [], 
+  "dimensions": "10 x 10 (image)", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "1983.81", 
+  "title": "album of marvelous rocks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Tongzhi", 
+  "artisinal:id": 18190769, 
+  "creation_date": "1874", 
+  "materials": "album (10 leaves), ink and color on silk", 
+  "actors": [
+    {
+      "name": "Zhou Tang", 
+      "after_follower": null, 
+      "death_date": "1876", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295081, 
+      "role": "Artist", 
+      "birth_date": "1806", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19056, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

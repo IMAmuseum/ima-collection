@@ -1,26 +1,30 @@
 {
-    "accession_number": "17.182", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1473", 
-            "death_date": "1531", 
-            "name": "Burgkmair, Hans, the elder", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "late 15th century - early 16th century", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 653, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Five horsemen carrying staves and wearing knives."
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Five horsemen carrying staves and wearing knives.", 
+  "accession_number": "17.182", 
+  "credit_line": "Gift of William George Sullivan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132767, 
+  "creation_date": "late 15th century - early 16th century", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Burgkmair, Hans, the elder", 
+      "after_follower": null, 
+      "death_date": "1531", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295107, 
+      "role": "Artist", 
+      "birth_date": "1473", 
+      "nationality": null
+    }
+  ], 
+  "irn": 653, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

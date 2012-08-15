@@ -1,42 +1,50 @@
 {
-    "accession_number": "MH2010.36.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1907", 
-            "death_date": "1978", 
-            "name": "Eames, Charles", 
-            "nationality": null, 
-            "role": "designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": "1988", 
-            "name": "Eames, Ray Kaiser", 
-            "nationality": null, 
-            "role": "designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Herman Miller Furniture Company", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "About 1965", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "30 x 25 x 25 in.", 
-    "dynasty": null, 
-    "irn": 69173, 
-    "materials": "Naugahyde, fiberglass, aluminum", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Charles and Ray Eames", 
-    "title": "DAR-1 chair (4 of 6)"
+  "publishers": [], 
+  "dimensions": "30 x 25 x 25 in.", 
+  "rights": "\u00a9 Charles and Ray Eames", 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.36.4", 
+  "title": "DAR-1 chair (4 of 6)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284275, 
+  "creation_date": "About 1965", 
+  "materials": "Naugahyde, fiberglass, aluminum", 
+  "actors": [
+    {
+      "name": "Eames, Charles", 
+      "after_follower": null, 
+      "death_date": "1978", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307585, 
+      "role": "designer", 
+      "birth_date": "1907", 
+      "nationality": null
+    }, 
+    {
+      "name": "Eames, Ray Kaiser", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307587, 
+      "role": "designer", 
+      "birth_date": "1912", 
+      "nationality": null
+    }, 
+    {
+      "name": "Herman Miller Furniture Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301627, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69173, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

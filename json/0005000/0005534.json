@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.52", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Luo Qing", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1800s", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 5534, 
-    "materials": "ink on silk", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bamboo"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Bamboo", 
+  "accession_number": "73.61.52", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144355, 
+  "creation_date": "1800s", 
+  "materials": "ink on silk", 
+  "actors": [
+    {
+      "name": "Luo Qing", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297181, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 5534, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": true
 }

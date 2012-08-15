@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.489.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Annaleena Hakatie", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Iittala", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Anonymous Endowed Decorative Art Fund", 
-    "cultures": [], 
-    "dimensions": "8 x 7 1/4 in.", 
-    "dynasty": null, 
-    "irn": 68091, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Annaleena Hakatie", 
-    "title": "Relations bowl"
+  "publishers": [], 
+  "dimensions": "8 x 7 1/4 in.", 
+  "rights": "\u00a9 Annaleena Hakatie", 
+  "credit_line": "Anonymous Endowed Decorative Art Fund", 
+  "accession_number": "2009.489.3", 
+  "title": "Relations bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283165, 
+  "creation_date": "1998", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Annaleena Hakatie", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306969, 
+      "role": "Designer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }, 
+    {
+      "name": "Iittala", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306847, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68091, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

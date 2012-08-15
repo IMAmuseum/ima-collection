@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.392", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1950", 
-            "death_date": null, 
-            "name": "Hadid, Zaha", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Sawaya & Moroni S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Frank Curtis Springer & Irving Moxley Springer Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "31 x 135 5/8 x 66 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64702, 
-    "materials": "wool over molded foam", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Zaha Hadid", 
-    "title": "Moraine sofa"
+  "publishers": [], 
+  "dimensions": "31 x 135 5/8 x 66 1/2 in.", 
+  "rights": "\u00a9 Zaha Hadid", 
+  "credit_line": "Frank Curtis Springer & Irving Moxley Springer Purchase Fund", 
+  "accession_number": "2009.392", 
+  "title": "Moraine sofa", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279215, 
+  "creation_date": "2000", 
+  "materials": "wool over molded foam", 
+  "actors": [
+    {
+      "name": "Hadid, Zaha", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306963, 
+      "role": "Designer", 
+      "birth_date": "1950", 
+      "nationality": null
+    }, 
+    {
+      "name": "Sawaya & Moroni S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306965, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64702, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

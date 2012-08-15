@@ -1,26 +1,30 @@
 {
-    "accession_number": "63.259", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1829", 
-            "death_date": "1904", 
-            "name": "Rogers, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mr. J. K. Lilly", 
-    "cultures": [], 
-    "dimensions": "22 H", 
-    "dynasty": null, 
-    "irn": 36194, 
-    "materials": "plaster", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "John Alden and Priscilla"
+  "publishers": [], 
+  "dimensions": "22 H", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. J. K. Lilly", 
+  "accession_number": "63.259", 
+  "title": "John Alden and Priscilla", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230405, 
+  "creation_date": null, 
+  "materials": "plaster", 
+  "actors": [
+    {
+      "name": "Rogers, John", 
+      "after_follower": null, 
+      "death_date": "1904", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299385, 
+      "role": "Artist", 
+      "birth_date": "1829", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36194, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

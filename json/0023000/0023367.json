@@ -1,26 +1,30 @@
 {
-    "accession_number": "08.60", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1636", 
-            "death_date": "1675", 
-            "name": "Lochon, Rene", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23367, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Henry d' Orleans duc de Longueville"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "08.60", 
+  "title": "Henry d' Orleans duc de Longueville", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200597, 
+  "creation_date": "17th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lochon, Rene", 
+      "after_follower": null, 
+      "death_date": "1675", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301607, 
+      "role": "Artist", 
+      "birth_date": "1636", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23367, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

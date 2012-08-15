@@ -1,38 +1,44 @@
 {
-    "accession_number": "09.267A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1747", 
-            "death_date": "1821", 
-            "name": "Farington, Joseph", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1710", 
-            "death_date": "1777", 
-            "name": "Canot, Pierre-Charles", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1776", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1691, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Boydell, John"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Goats Herd"
+  "publishers": [
+    {
+      "name": "Boydell, John"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Goats Herd", 
+  "accession_number": "09.267A", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135323, 
+  "creation_date": "1776", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Farington, Joseph", 
+      "after_follower": null, 
+      "death_date": "1821", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295025, 
+      "role": "Artist", 
+      "birth_date": "1747", 
+      "nationality": null
+    }, 
+    {
+      "name": "Canot, Pierre-Charles", 
+      "after_follower": null, 
+      "death_date": "1777", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295571, 
+      "role": "Engraver", 
+      "birth_date": "1710", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1691, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.199", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1891", 
-            "death_date": "1981", 
-            "name": "Elmer E. Taflinger", 
-            "nationality": "  ", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Estate of Elmer E. Taflinger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16370, 
-    "materials": "charcoal and chalk on gray paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Portrait", 
+  "accession_number": "82.199", 
+  "credit_line": "Estate of Elmer E. Taflinger", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170491, 
+  "creation_date": "20th century", 
+  "materials": "charcoal and chalk on gray paper", 
+  "actors": [
+    {
+      "name": "Elmer E. Taflinger", 
+      "after_follower": null, 
+      "death_date": "1981", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296153, 
+      "role": "Artist", 
+      "birth_date": "1891", 
+      "nationality": "  "
+    }
+  ], 
+  "irn": 16370, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

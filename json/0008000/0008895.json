@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.59", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1936", 
-            "name": "Brown, Bolton Coit", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1919", 
-    "credit_line": "Gift of Mrs. Lucy Fletcher Brown", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8895, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Willow Tree"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Willow Tree", 
+  "accession_number": "40.59", 
+  "credit_line": "Gift of Mrs. Lucy Fletcher Brown", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152415, 
+  "creation_date": "1919", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Brown, Bolton Coit", 
+      "after_follower": null, 
+      "death_date": "1936", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297519, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8895, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

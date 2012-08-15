@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1320.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1793", 
-            "death_date": "1867", 
-            "name": "Stanfield, Clarkson", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1787", 
-            "death_date": "1852", 
-            "name": "Finden, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1832", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40208, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Temple of Jupiter Olympus, Athens"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1320.26", 
+  "title": "The Temple of Jupiter Olympus, Athens", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18241135, 
+  "creation_date": "1832", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Stanfield, Clarkson", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297077, 
+      "role": "Artist", 
+      "birth_date": "1793", 
+      "nationality": null
+    }, 
+    {
+      "name": "Finden, William", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304393, 
+      "role": "Engraver", 
+      "birth_date": "1787", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40208, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1697", 
-            "death_date": "1764", 
-            "name": "Hogarth, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1725-1726", 
-    "credit_line": "Purchased from the John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "9 3/8 x 13 1/8 in. (image)\n10 7/16 x 13 9/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 11980, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Committee"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 3/8 x 13 1/8 in. (image)\n10 7/16 x 13 9/16 in. (sheet)", 
+  "title": "The Committee", 
+  "accession_number": "11.10", 
+  "credit_line": "Purchased from the John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18159681, 
+  "creation_date": "1725-1726", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Hogarth, William", 
+      "after_follower": null, 
+      "death_date": "1764", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294939, 
+      "role": "Artist", 
+      "birth_date": "1697", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11980, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

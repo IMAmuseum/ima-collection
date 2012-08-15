@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.760", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1927", 
-            "name": "Adams, John Ottis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1898-1910", 
-    "credit_line": "Gift of Mr. Edward W. Adams", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7907, 
-    "materials": "pencil on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Brookville, Indiana"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Brookville, Indiana", 
+  "accession_number": "75.760", 
+  "credit_line": "Gift of Mr. Edward W. Adams", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18150005, 
+  "creation_date": "1898-1910", 
+  "materials": "pencil on off-white paper", 
+  "actors": [
+    {
+      "name": "Adams, John Ottis", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295417, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7907, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

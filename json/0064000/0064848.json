@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.406A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1963", 
-            "death_date": null, 
-            "name": "Marcel Wanders", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Cappellini Design SpA", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Deaccessioned Decorative/Design Art Fund", 
-    "cultures": [], 
-    "dimensions": "79 1/2 \u00d7 37 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64848, 
-    "materials": "metal and cotton", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Marcel Wanders", 
-    "title": "Extra Big Shadows lamp"
+  "publishers": [], 
+  "dimensions": "79 1/2 \u00d7 37 1/2 in.", 
+  "rights": "\u00a9 Marcel Wanders", 
+  "credit_line": "Deaccessioned Decorative/Design Art Fund", 
+  "accession_number": "2009.406A-C", 
+  "title": "Extra Big Shadows lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279401, 
+  "creation_date": "1998", 
+  "materials": "metal and cotton", 
+  "actors": [
+    {
+      "name": "Marcel Wanders", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307187, 
+      "role": "Designer", 
+      "birth_date": "1963", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cappellini Design SpA", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306803, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64848, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "58.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1697", 
-            "death_date": "1768", 
-            "name": "Canaletto", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1745", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "11 3/4 x 17 in. (image)\n13 1/8 x 18 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 31319, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Imaginary View of Padua"
+  "publishers": [], 
+  "dimensions": "11 3/4 x 17 in. (image)\n13 1/8 x 18 1/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "58.6", 
+  "title": "Imaginary View of Padua", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18219135, 
+  "creation_date": "about 1745", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Canaletto", 
+      "after_follower": null, 
+      "death_date": "1768", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300735, 
+      "role": "Artist", 
+      "birth_date": "1697", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31319, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

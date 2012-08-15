@@ -1,26 +1,30 @@
 {
-    "accession_number": "1984.305", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1552", 
-            "death_date": "1680", 
-            "name": "Wang Shimin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1653", 
-    "credit_line": "Gift of Sonia and Joseph Lesser", 
-    "cultures": [], 
-    "dimensions": "12 3/4 x 24 1/2", 
-    "dynasty": "Qing dynasty", 
-    "irn": 34392, 
-    "materials": "ink on gilt paper", 
-    "on_view": false, 
-    "period": "Shunzhi", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "river landscape"
+  "publishers": [], 
+  "dimensions": "12 3/4 x 24 1/2", 
+  "rights": null, 
+  "credit_line": "Gift of Sonia and Joseph Lesser", 
+  "accession_number": "1984.305", 
+  "title": "river landscape", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Shunzhi", 
+  "artisinal:id": 18226257, 
+  "creation_date": "1653", 
+  "materials": "ink on gilt paper", 
+  "actors": [
+    {
+      "name": "Wang Shimin", 
+      "after_follower": null, 
+      "death_date": "1680", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303561, 
+      "role": "Artist", 
+      "birth_date": "1552", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34392, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

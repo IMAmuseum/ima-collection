@@ -1,26 +1,30 @@
 {
-    "accession_number": "45.34", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1866", 
-            "name": "Utagawa Yooshtsuya", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1860", 
-    "credit_line": "Gift in memory of Charles C. Kryter", 
-    "cultures": [], 
-    "dimensions": "14 1/4 x 9 1/2 in.", 
-    "dynasty": null, 
-    "irn": 52511, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Kichiz^0 of the Okajimaya"
+  "publishers": [], 
+  "dimensions": "14 1/4 x 9 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift in memory of Charles C. Kryter", 
+  "accession_number": "45.34", 
+  "title": "Kichiz^0 of the Okajimaya", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18267283, 
+  "creation_date": "1860", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Yooshtsuya", 
+      "after_follower": null, 
+      "death_date": "1866", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305527, 
+      "role": "Artist", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 52511, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

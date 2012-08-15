@@ -1,34 +1,40 @@
 {
-    "accession_number": "1992.247", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1857", 
-            "death_date": "1927", 
-            "name": "Atget, Eug\u00e8ne", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1898", 
-            "death_date": "1991", 
-            "name": "Abbott, Berenice", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1925", 
-    "credit_line": "Gift of Dr. and Mrs. Robert W. Greenleaf", 
-    "cultures": [], 
-    "dimensions": "9 x 6 3/4 in. (image)", 
-    "dynasty": null, 
-    "irn": 14708, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Berenice Abbott/Commerce Graphics, NYC", 
-    "title": "Men's Fashions (Magasin, Avenue des Gobelins)"
+  "publishers": [], 
+  "rights": "\u00a9 Berenice Abbott/Commerce Graphics, NYC", 
+  "dimensions": "9 x 6 3/4 in. (image)", 
+  "title": "Men's Fashions (Magasin, Avenue des Gobelins)", 
+  "accession_number": "1992.247", 
+  "credit_line": "Gift of Dr. and Mrs. Robert W. Greenleaf", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166389, 
+  "creation_date": "1925", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Atget, Eug\u00e8ne", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299691, 
+      "role": "Artist", 
+      "birth_date": "1857", 
+      "nationality": null
+    }, 
+    {
+      "name": "Abbott, Berenice", 
+      "after_follower": null, 
+      "death_date": "1991", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299693, 
+      "role": "Printer", 
+      "birth_date": "1898", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14708, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

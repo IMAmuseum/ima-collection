@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.129", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1558", 
-            "death_date": "1617", 
-            "name": "Goltzius, Hendrick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1589", 
-    "credit_line": "Gift of Mr. and Mrs. Hiram W. McKee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11369, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "St. Bartholomew"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "St. Bartholomew", 
+  "accession_number": "70.129", 
+  "credit_line": "Gift of Mr. and Mrs. Hiram W. McKee", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18158333, 
+  "creation_date": "about 1589", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Goltzius, Hendrick", 
+      "after_follower": null, 
+      "death_date": "1617", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296647, 
+      "role": "Artist", 
+      "birth_date": "1558", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11369, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

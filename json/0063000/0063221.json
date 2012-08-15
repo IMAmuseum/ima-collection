@@ -1,38 +1,44 @@
 {
-    "accession_number": "2005.71", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Yokogawa Horitake", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1859, by censor's seal", 
-    "credit_line": "Mary Margaret Tomlinson Memorial and General Memorial Art Funds", 
-    "cultures": [], 
-    "dimensions": "14 15/16 x 9 11/16 in.", 
-    "dynasty": null, 
-    "irn": 63221, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Fujiokaya Keijir"
-        }
-    ], 
-    "rights": null, 
-    "title": "Actor in the role of Kobayashi Asahina"
+  "publishers": [
+    {
+      "name": "Fujiokaya Keijir"
+    }
+  ], 
+  "dimensions": "14 15/16 x 9 11/16 in.", 
+  "rights": null, 
+  "credit_line": "Mary Margaret Tomlinson Memorial and General Memorial Art Funds", 
+  "accession_number": "2005.71", 
+  "title": "Actor in the role of Kobayashi Asahina", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18278381, 
+  "creation_date": "1859, by censor's seal", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }, 
+    {
+      "name": "Yokogawa Horitake", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295425, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63221, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

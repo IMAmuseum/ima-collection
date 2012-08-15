@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.2010", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775-1802", 
-            "death_date": "1775-1802", 
-            "name": "Girtin, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1803", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 56029, 
-    "materials": "soft-ground etchings and aquatints", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Selection of Twenty of the most Picturesque Views in Paris and its Environs"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.2010", 
+  "title": "A Selection of Twenty of the most Picturesque Views in Paris and its Environs", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18273493, 
+  "creation_date": "1803", 
+  "materials": "soft-ground etchings and aquatints", 
+  "actors": [
+    {
+      "name": "Girtin, Thomas", 
+      "after_follower": null, 
+      "death_date": "1775-1802", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297187, 
+      "role": "Artist", 
+      "birth_date": "1775-1802", 
+      "nationality": null
+    }
+  ], 
+  "irn": 56029, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

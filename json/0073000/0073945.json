@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.495.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1891", 
-            "death_date": "1979", 
-            "name": "Ponti, Giovanni", 
-            "nationality": "Italian", 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Venini S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "About 1955", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "5 3/4 x 3 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 73945, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Striped drinking glass"
+  "publishers": [], 
+  "dimensions": "5 3/4 x 3 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.495.6", 
+  "title": "Striped drinking glass", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288345, 
+  "creation_date": "About 1955", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Ponti, Giovanni", 
+      "after_follower": null, 
+      "death_date": "1979", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308631, 
+      "role": "Designer", 
+      "birth_date": "1891", 
+      "nationality": "Italian"
+    }, 
+    {
+      "name": "Venini S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307683, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 73945, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

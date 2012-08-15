@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.47.31", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1848", 
-    "credit_line": "Gift of Mrs. Kate Kiser Klein", 
-    "cultures": [], 
-    "dimensions": "13 3/4 x 9 3/16 in. (image and sheet)", 
-    "dynasty": null, 
-    "irn": 53231, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ichikawa Danj^ur^o VIII in the role of Komazawa Jir^ozaemon"
+  "publishers": [], 
+  "dimensions": "13 3/4 x 9 3/16 in. (image and sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Kate Kiser Klein", 
+  "accession_number": "72.47.31", 
+  "title": "Ichikawa Danj^ur^o VIII in the role of Komazawa Jir^ozaemon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18268947, 
+  "creation_date": "1848", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 53231, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

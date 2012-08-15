@@ -1,26 +1,30 @@
 {
-    "accession_number": "54.55", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1951", 
-            "name": "Sloan, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1912", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "24 x 20 in.\n32 x 28 in. (framed)", 
-    "dynasty": null, 
-    "irn": 27102, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Delaware Art Museum/ Artists Rights Society (ARS), New York", 
-    "title": "Red Kimono on the Roof"
+  "publishers": [], 
+  "dimensions": "24 x 20 in.\n32 x 28 in. (framed)", 
+  "rights": "\u00a9 Delaware Art Museum/ Artists Rights Society (ARS), New York", 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "54.55", 
+  "title": "Red Kimono on the Roof", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18209263, 
+  "creation_date": "1912", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Sloan, John", 
+      "after_follower": null, 
+      "death_date": "1951", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295703, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27102, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

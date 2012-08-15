@@ -1,34 +1,40 @@
 {
-    "accession_number": "76.298.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1934", 
-            "name": "Giuseffi, Girolamo", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "G. Giuseffi L.T. Company", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "1900 - 1905", 
-    "credit_line": "Gift of Mrs. William Garrigues, estate of Caroline Ella Burford", 
-    "cultures": [], 
-    "dimensions": "skirt: L: 53 in., 134.6 cm", 
-    "dynasty": null, 
-    "irn": 58496, 
-    "materials": "velvet, taffeta, lace", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "skirt"
+  "publishers": [], 
+  "dimensions": "skirt: L: 53 in., 134.6 cm", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. William Garrigues, estate of Caroline Ella Burford", 
+  "accession_number": "76.298.3", 
+  "title": "skirt", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18275625, 
+  "creation_date": "1900 - 1905", 
+  "materials": "velvet, taffeta, lace", 
+  "actors": [
+    {
+      "name": "Giuseffi, Girolamo", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294897, 
+      "role": "Designer", 
+      "birth_date": "1864", 
+      "nationality": null
+    }, 
+    {
+      "name": "G. Giuseffi L.T. Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294899, 
+      "role": "Design House", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 58496, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

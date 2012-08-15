@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.493.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1891", 
-            "death_date": "1979", 
-            "name": "Ponti, Giovanni", 
-            "nationality": "Italian", 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Venini S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "About 1955", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "4 x 3 1/2 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 73574, 
-    "materials": "multicolored glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "short tumbler"
+  "publishers": [], 
+  "dimensions": "4 x 3 1/2 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.493.4", 
+  "title": "short tumbler", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288185, 
+  "creation_date": "About 1955", 
+  "materials": "multicolored glass", 
+  "actors": [
+    {
+      "name": "Ponti, Giovanni", 
+      "after_follower": null, 
+      "death_date": "1979", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308631, 
+      "role": "Designer", 
+      "birth_date": "1891", 
+      "nationality": "Italian"
+    }, 
+    {
+      "name": "Venini S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307683, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 73574, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

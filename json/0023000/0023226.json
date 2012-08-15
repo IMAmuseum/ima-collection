@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.198", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1654", 
-            "death_date": "1714", 
-            "name": "Passeri, Giuseppe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23226, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna and Child"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.198", 
+  "title": "Madonna and Child", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200255, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Passeri, Giuseppe", 
+      "after_follower": null, 
+      "death_date": "1714", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301575, 
+      "role": "Artist", 
+      "birth_date": "1654", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23226, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

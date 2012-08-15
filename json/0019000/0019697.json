@@ -1,26 +1,30 @@
 {
-    "accession_number": "43.99", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1810", 
-            "death_date": "1864", 
-            "name": "Calame, Alexandre", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Louis Ludorff in memory of Mr. & Mrs. Julius Karrmann", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19697, 
-    "materials": "lithograph on chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lac des 4 Cantons pr\u00e8s de Brennen"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Louis Ludorff in memory of Mr. & Mrs. Julius Karrmann", 
+  "accession_number": "43.99", 
+  "title": "Lac des 4 Cantons pr\u00e8s de Brennen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192211, 
+  "creation_date": "19th century", 
+  "materials": "lithograph on chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Calame, Alexandre", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296689, 
+      "role": "Artist", 
+      "birth_date": "1810", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19697, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

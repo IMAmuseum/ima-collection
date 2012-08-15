@@ -1,34 +1,38 @@
 {
-    "accession_number": "2009.570", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1940", 
-            "death_date": null, 
-            "name": "Heilmann, Mary", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1987", 
-    "credit_line": "Gift of Dr. Steven Conant, Dr. Thomas Kuebler, and Dr. Barbara Herman in memory of Ursula Kolmstetter", 
-    "cultures": [], 
-    "dimensions": "30 1/8  x 22 1/2 in.", 
-    "dynasty": null, 
-    "irn": 68269, 
-    "materials": "screen print on white wove Arches paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Simca Print Artists, Inc."
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Simca Print Artists, Inc."
-        }
-    ], 
-    "rights": "\u00a9 Mary Heilmann", 
-    "title": "Sunday Morning"
+  "publishers": [
+    {
+      "name": "Simca Print Artists, Inc."
+    }
+  ], 
+  "dimensions": "30 1/8  x 22 1/2 in.", 
+  "rights": "\u00a9 Mary Heilmann", 
+  "credit_line": "Gift of Dr. Steven Conant, Dr. Thomas Kuebler, and Dr. Barbara Herman in memory of Ursula Kolmstetter", 
+  "accession_number": "2009.570", 
+  "title": "Sunday Morning", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283269, 
+  "creation_date": "1987", 
+  "materials": "screen print on white wove Arches paper", 
+  "actors": [
+    {
+      "name": "Heilmann, Mary", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307807, 
+      "role": "Artist", 
+      "birth_date": "1940", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68269, 
+  "printers": [
+    {
+      "name": "Simca Print Artists, Inc."
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

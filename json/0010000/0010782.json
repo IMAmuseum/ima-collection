@@ -1,26 +1,30 @@
 {
-    "accession_number": "26.48", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1837", 
-            "name": "Daniell, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1817", 
-    "credit_line": "Gift of Gordon O. Wedding", 
-    "cultures": [], 
-    "dimensions": "8 7/8 x 11 7/8 in.", 
-    "dynasty": null, 
-    "irn": 10782, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Greenock on the Clyde"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "8 7/8 x 11 7/8 in.", 
+  "title": "Greenock on the Clyde", 
+  "accession_number": "26.48", 
+  "credit_line": "Gift of Gordon O. Wedding", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156927, 
+  "creation_date": "1817", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Daniell, William", 
+      "after_follower": null, 
+      "death_date": "1837", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297729, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10782, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1602.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1787", 
-            "death_date": "1855", 
-            "name": "Fielding, Anthony Vandyke Copley", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1834", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41095, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Barnard Castle"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1602.3", 
+  "title": "Barnard Castle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243675, 
+  "creation_date": "about 1834", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Fielding, Anthony Vandyke Copley", 
+      "after_follower": null, 
+      "death_date": "1855", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294695, 
+      "role": "Artist", 
+      "birth_date": "1787", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41095, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

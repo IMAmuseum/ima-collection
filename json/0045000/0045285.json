@@ -1,26 +1,30 @@
 {
-    "accession_number": "1996.273", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1783", 
-            "death_date": "1852", 
-            "name": "Prout, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1819", 
-    "credit_line": "Miscellaneous Print Fund", 
-    "cultures": [], 
-    "dimensions": "7 3/8 x 11 5/8 in (image)\n11 x 14 3/4 in (sheet)", 
-    "dynasty": null, 
-    "irn": 45285, 
-    "materials": "soft-ground etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cottage near Chagford"
+  "publishers": [], 
+  "dimensions": "7 3/8 x 11 5/8 in (image)\n11 x 14 3/4 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Miscellaneous Print Fund", 
+  "accession_number": "1996.273", 
+  "title": "Cottage near Chagford", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254015, 
+  "creation_date": "1819", 
+  "materials": "soft-ground etching", 
+  "actors": [
+    {
+      "name": "Prout, Samuel", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295339, 
+      "role": "Artist", 
+      "birth_date": "1783", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45285, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1906", 
-            "death_date": "1965", 
-            "name": "Smith, David", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1962", 
-    "credit_line": "Dan and Lori Efroymson Fund", 
-    "cultures": [], 
-    "dimensions": "13 1/8 x 19 in.", 
-    "dynasty": null, 
-    "irn": 45465, 
-    "materials": "spray enamel on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of David Smith/Licensed by VAGA, New York, NY", 
-    "title": "Untitled 62"
+  "publishers": [], 
+  "dimensions": "13 1/8 x 19 in.", 
+  "rights": "\u00a9 Estate of David Smith/Licensed by VAGA, New York, NY", 
+  "credit_line": "Dan and Lori Efroymson Fund", 
+  "accession_number": "2001.4", 
+  "title": "Untitled 62", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254479, 
+  "creation_date": "1962", 
+  "materials": "spray enamel on paper", 
+  "actors": [
+    {
+      "name": "Smith, David", 
+      "after_follower": null, 
+      "death_date": "1965", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296853, 
+      "role": "Artist", 
+      "birth_date": "1906", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45465, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.84.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1743", 
-            "death_date": "1805", 
-            "name": "Byrne, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1810", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14911, 
-    "materials": "copperplate engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Hop Ground"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Hop Ground", 
+  "accession_number": "73.84.3", 
+  "credit_line": "Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166885, 
+  "creation_date": "1810", 
+  "materials": "copperplate engraving", 
+  "actors": [
+    {
+      "name": "Byrne, William", 
+      "after_follower": null, 
+      "death_date": "1805", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299747, 
+      "role": "Artist", 
+      "birth_date": "1743", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14911, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "55.136", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1791", 
-            "death_date": "1873", 
-            "name": "Lupton, Thomas Goff", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Given anonymously in memory of Evan F. Lilly, with the hope that they will bring beauty and inspiration to the lives of others.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35666, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Liber Studiorum 62. Watercress Gatherers"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Given anonymously in memory of Evan F. Lilly, with the hope that they will bring beauty and inspiration to the lives of others.", 
+  "accession_number": "55.136", 
+  "title": "Liber Studiorum 62. Watercress Gatherers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229123, 
+  "creation_date": "19th century", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lupton, Thomas Goff", 
+      "after_follower": null, 
+      "death_date": "1873", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295089, 
+      "role": "Engraver", 
+      "birth_date": "1791", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35666, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "73.84.77", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1773", 
-            "death_date": "1839", 
-            "name": "Atkinson, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1804", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18597, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Atkinson, William"
-        }
-    ], 
-    "rights": null, 
-    "title": "A Picturesque Cottage"
+  "publishers": [
+    {
+      "name": "Atkinson, William"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Discretionary Fund", 
+  "accession_number": "73.84.77", 
+  "title": "A Picturesque Cottage", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18189583, 
+  "creation_date": "1804", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Atkinson, William", 
+      "after_follower": null, 
+      "death_date": "1839", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300627, 
+      "role": "Artist", 
+      "birth_date": "1773", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18597, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

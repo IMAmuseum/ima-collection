@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.179", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1744", 
-            "death_date": "1817", 
-            "name": "Hearne, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1777", 
-    "credit_line": "Bequest of Kurt Pantzer, Sr.", 
-    "cultures": [], 
-    "dimensions": "6 13/16 x 9 3/8 (sheet)", 
-    "dynasty": null, 
-    "irn": 5209, 
-    "materials": "gray ink washes over pencil on white paper laid down", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Beverstone Castle, West View"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 13/16 x 9 3/8 (sheet)", 
+  "title": "Beverstone Castle, West View", 
+  "accession_number": "82.179", 
+  "credit_line": "Bequest of Kurt Pantzer, Sr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143599, 
+  "creation_date": "1777", 
+  "materials": "gray ink washes over pencil on white paper laid down", 
+  "actors": [
+    {
+      "name": "Hearne, Thomas", 
+      "after_follower": null, 
+      "death_date": "1817", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297073, 
+      "role": "Artist", 
+      "birth_date": "1744", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5209, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

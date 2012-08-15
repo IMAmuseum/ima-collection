@@ -1,26 +1,30 @@
 {
-    "accession_number": "41.33", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1878", 
-            "death_date": "1962", 
-            "name": "Clark, Virginia Keep", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Mary Milliken Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18953, 
-    "materials": "watercolor on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Nassau Woman"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Mary Milliken Fund", 
+  "accession_number": "41.33", 
+  "title": "Nassau Woman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190503, 
+  "creation_date": null, 
+  "materials": "watercolor on off-white paper", 
+  "actors": [
+    {
+      "name": "Clark, Virginia Keep", 
+      "after_follower": null, 
+      "death_date": "1962", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300705, 
+      "role": "Artist", 
+      "birth_date": "1878", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18953, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

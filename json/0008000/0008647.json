@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1927", 
-            "name": "Wu Deyi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1892", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 8647, 
-    "materials": "ink and colors on silk .fan painting.", 
-    "on_view": false, 
-    "period": "Guangxu", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "bees and flowers"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "bees and flowers", 
+  "accession_number": "73.61.32", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Guangxu", 
+  "artisinal:id": 18151743, 
+  "creation_date": "1892", 
+  "materials": "ink and colors on silk .fan painting.", 
+  "actors": [
+    {
+      "name": "Wu Deyi", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298085, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8647, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

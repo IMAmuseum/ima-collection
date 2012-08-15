@@ -1,34 +1,40 @@
 {
-    "accession_number": "24.233", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1817", 
-            "death_date": "1878", 
-            "name": "Daubigny, Charles Fran\u00e7ois", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1907", 
-            "name": "Del\u00e2tre, Auguste", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1860", 
-    "credit_line": "Gift of the Children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 269, 
-    "materials": "etching on chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "La Poule et ses Poussins (Hen and her Chicks)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "La Poule et ses Poussins (Hen and her Chicks)", 
+  "accession_number": "24.233", 
+  "credit_line": "Gift of the Children of Thomas E. Hibben", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131807, 
+  "creation_date": "1860", 
+  "materials": "etching on chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Daubigny, Charles Fran\u00e7ois", 
+      "after_follower": null, 
+      "death_date": "1878", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294829, 
+      "role": "Artist", 
+      "birth_date": "1817", 
+      "nationality": null
+    }, 
+    {
+      "name": "Del\u00e2tre, Auguste", 
+      "after_follower": null, 
+      "death_date": "1907", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294903, 
+      "role": "Printer", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 269, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

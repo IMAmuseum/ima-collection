@@ -1,26 +1,30 @@
 {
-    "accession_number": "1998.270", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "1918", 
-            "name": "Maufra, Maxime", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1893", 
-    "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2007, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Pont de Lezardrieux (The Bridge at Lezardrieux)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Le Pont de Lezardrieux (The Bridge at Lezardrieux)", 
+  "accession_number": "1998.270", 
+  "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136083, 
+  "creation_date": "1893", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Maufra, Maxime", 
+      "after_follower": null, 
+      "death_date": "1918", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295759, 
+      "role": "Artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2007, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

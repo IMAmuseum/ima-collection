@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.127", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1836", 
-            "death_date": "1932", 
-            "name": "Ch\u00e9ret, Jules", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1894", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "16 5/8 x 12 1/4 in", 
-    "dynasty": null, 
-    "irn": 29151, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Au Quartier Latin"
+  "publishers": [], 
+  "dimensions": "16 5/8 x 12 1/4 in", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "79.127", 
+  "title": "Au Quartier Latin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18214067, 
+  "creation_date": "1894", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Ch\u00e9ret, Jules", 
+      "after_follower": null, 
+      "death_date": "1932", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297331, 
+      "role": "Artist", 
+      "birth_date": "1836", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29151, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

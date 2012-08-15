@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.57", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1814", 
-            "death_date": "1875", 
-            "name": "Millet, Jean-Fran\u00e7ois", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1855", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": "6 3/8 x 5 1/8 in. (image)\n13 x 10 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 12208, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Paysan Rentrant du Fumier"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 3/8 x 5 1/8 in. (image)\n13 x 10 7/8 in. (sheet)", 
+  "title": "Le Paysan Rentrant du Fumier", 
+  "accession_number": "25.57", 
+  "credit_line": "Bequest of Delavan Smith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160193, 
+  "creation_date": "1855", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Millet, Jean-Fran\u00e7ois", 
+      "after_follower": null, 
+      "death_date": "1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296721, 
+      "role": "Artist", 
+      "birth_date": "1814", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12208, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

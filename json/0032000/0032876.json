@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.233", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1929-1999", 
-            "death_date": "1929-1999", 
-            "name": "Krushenick, Nicholas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1972", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32876, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Composition"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "74.233", 
+  "title": "Composition", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222739, 
+  "creation_date": "1972", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Krushenick, Nicholas", 
+      "after_follower": null, 
+      "death_date": "1929-1999", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303283, 
+      "role": "Artist", 
+      "birth_date": "1929-1999", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32876, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

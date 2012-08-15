@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.491", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Meissen Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1755", 
-    "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "H: 9 1/4 in.", 
-    "dynasty": null, 
-    "irn": 105, 
-    "materials": "hard paste porcelain", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Summer"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 9 1/4 in.", 
+  "title": "Summer", 
+  "accession_number": "75.491", 
+  "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131405, 
+  "creation_date": "about 1755", 
+  "materials": "hard paste porcelain", 
+  "actors": [
+    {
+      "name": "Meissen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294771, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 105, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

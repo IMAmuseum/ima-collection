@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.435.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1963", 
-            "death_date": null, 
-            "name": "Marcel Wanders", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Royal Tichelaar Makkum", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2003", 
-    "credit_line": "The Ballard Fund", 
-    "cultures": [], 
-    "dimensions": "5 1/2 in.", 
-    "dynasty": null, 
-    "irn": 67311, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Marcel Wanders", 
-    "title": "Patchwork Plates Series: Coloured Lines"
+  "publishers": [], 
+  "dimensions": "5 1/2 in.", 
+  "rights": "\u00a9 Marcel Wanders", 
+  "credit_line": "The Ballard Fund", 
+  "accession_number": "2009.435.4", 
+  "title": "Patchwork Plates Series: Coloured Lines", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282653, 
+  "creation_date": "2003", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Marcel Wanders", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307187, 
+      "role": "Designer", 
+      "birth_date": "1963", 
+      "nationality": null
+    }, 
+    {
+      "name": "Royal Tichelaar Makkum", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307011, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67311, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

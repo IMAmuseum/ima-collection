@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.81.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Annaleena Hakatie", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Iittala", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
-    "cultures": [], 
-    "dimensions": "5 1/16 x 3 5/8 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 68757, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Annaleena Hakatie", 
-    "title": "55 centiliter pitcher"
+  "publishers": [], 
+  "dimensions": "5 1/16 x 3 5/8 (diam.) in.", 
+  "rights": "\u00a9 Annaleena Hakatie", 
+  "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
+  "accession_number": "2010.81.1", 
+  "title": "55 centiliter pitcher", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283647, 
+  "creation_date": null, 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Annaleena Hakatie", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306969, 
+      "role": "Designer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }, 
+    {
+      "name": "Iittala", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306847, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68757, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

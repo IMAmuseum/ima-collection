@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.10.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Konstantin Grcic", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "ClassiCon", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2002", 
-    "credit_line": "Gift of The Liliane and David M. Stewart Collection", 
-    "cultures": [], 
-    "dimensions": "16 3/4 x 20 7/8 x 9 7/8 in.", 
-    "dynasty": null, 
-    "irn": 68893, 
-    "materials": "Painted steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Konstantin Grcic", 
-    "title": "Diana A table"
+  "publishers": [], 
+  "dimensions": "16 3/4 x 20 7/8 x 9 7/8 in.", 
+  "rights": "\u00a9 Konstantin Grcic", 
+  "credit_line": "Gift of The Liliane and David M. Stewart Collection", 
+  "accession_number": "2011.10.3", 
+  "title": "Diana A table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283833, 
+  "creation_date": "2002", 
+  "materials": "Painted steel", 
+  "actors": [
+    {
+      "name": "Konstantin Grcic", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306937, 
+      "role": "Designer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }, 
+    {
+      "name": "ClassiCon", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306943, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68893, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

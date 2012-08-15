@@ -1,26 +1,30 @@
 {
-    "accession_number": "2004.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1525", 
-            "death_date": "1590", 
-            "name": "Xiang Yuanbian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1525-1590", 
-    "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
-    "cultures": [], 
-    "dimensions": "48 7/16 x 12 3/8 in. (image)\n91 1/2 x 18 7/16 in. (overall)", 
-    "dynasty": "Ming dynasty", 
-    "irn": 61629, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ink Lotus"
+  "publishers": [], 
+  "dimensions": "48 7/16 x 12 3/8 in. (image)\n91 1/2 x 18 7/16 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
+  "accession_number": "2004.8", 
+  "title": "Ink Lotus", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277047, 
+  "creation_date": "1525-1590", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Xiang Yuanbian", 
+      "after_follower": null, 
+      "death_date": "1590", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306049, 
+      "role": "Artist", 
+      "birth_date": "1525", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61629, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Ming dynasty", 
+  "on_view": false
 }

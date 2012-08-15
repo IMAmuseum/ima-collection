@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.317", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1750", 
-            "death_date": "1831", 
-            "name": "Middiman, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th Century/EARLY", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12154, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Tomb of Our Savior"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Tomb of Our Savior", 
+  "accession_number": "09.317", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160061, 
+  "creation_date": "19th Century/EARLY", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Middiman, Samuel", 
+      "after_follower": null, 
+      "death_date": "1831", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298983, 
+      "role": "Artist", 
+      "birth_date": "1750", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12154, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

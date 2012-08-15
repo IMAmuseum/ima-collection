@@ -1,26 +1,30 @@
 {
-    "accession_number": "56.72", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1591", 
-            "death_date": "1632", 
-            "name": "Boulogne, Valentin de", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1630-1632", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": "31 1/2 x 25 5/8 in.", 
-    "dynasty": null, 
-    "irn": 14609, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rafaello Menicucci"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "31 1/2 x 25 5/8 in.", 
+  "title": "Rafaello Menicucci", 
+  "accession_number": "56.72", 
+  "credit_line": "Delavan Smith Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166157, 
+  "creation_date": "1630-1632", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Boulogne, Valentin de", 
+      "after_follower": null, 
+      "death_date": "1632", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299671, 
+      "role": "Artist", 
+      "birth_date": "1591", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14609, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

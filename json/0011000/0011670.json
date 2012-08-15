@@ -1,26 +1,30 @@
 {
-    "accession_number": "65.19", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1724", 
-            "death_date": "1770", 
-            "name": "Suzuki Harunobu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1769", 
-    "credit_line": "James V. Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "10 13/16 x 8 1/8 in. (image & sheet)", 
-    "dynasty": null, 
-    "irn": 11670, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Snow at Dusk on Matsuchiyama (Matsuchiyama no bosetsu)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "10 13/16 x 8 1/8 in. (image & sheet)", 
+  "title": "Snow at Dusk on Matsuchiyama (Matsuchiyama no bosetsu)", 
+  "accession_number": "65.19", 
+  "credit_line": "James V. Sweetser Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18158981, 
+  "creation_date": "about 1769", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Suzuki Harunobu", 
+      "after_follower": null, 
+      "death_date": "1770", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298903, 
+      "role": "Artist", 
+      "birth_date": "1724", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11670, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

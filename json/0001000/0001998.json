@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1894", 
-            "death_date": "1984", 
-            "name": "Hugo, Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1927", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1998, 
-    "materials": "pochoir", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L'Inconnu"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "L'Inconnu", 
+  "accession_number": "32.26", 
+  "credit_line": "Gift of the Gamboliers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136067, 
+  "creation_date": "1927", 
+  "materials": "pochoir", 
+  "actors": [
+    {
+      "name": "Hugo, Jean", 
+      "after_follower": null, 
+      "death_date": "1984", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295749, 
+      "role": "Artist", 
+      "birth_date": "1894", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1998, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

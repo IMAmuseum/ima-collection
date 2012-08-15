@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.130A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Vienna Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1730-1735", 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "14 3/8 in.", 
-    "dynasty": null, 
-    "irn": 30979, 
-    "materials": "hard paste porcelain, polychrome enamels, gilding", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "wine bottle"
+  "publishers": [], 
+  "dimensions": "14 3/8 in.", 
+  "rights": null, 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "accession_number": "79.130A-B", 
+  "title": "wine bottle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18218357, 
+  "creation_date": "about 1730-1735", 
+  "materials": "hard paste porcelain, polychrome enamels, gilding", 
+  "actors": [
+    {
+      "name": "Vienna Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297511, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 30979, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

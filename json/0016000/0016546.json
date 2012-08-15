@@ -1,34 +1,40 @@
 {
-    "accession_number": "32.261", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1757", 
-            "death_date": "1827", 
-            "name": "Blake, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1765", 
-            "death_date": "1810", 
-            "name": "Schiavonetti, Luigi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16546, 
-    "materials": "paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Grave by Robert Blair"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Grave by Robert Blair", 
+  "accession_number": "32.261", 
+  "credit_line": "Gift of William George Sullivan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170905, 
+  "creation_date": null, 
+  "materials": "paper", 
+  "actors": [
+    {
+      "name": "Blake, William", 
+      "after_follower": null, 
+      "death_date": "1827", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296425, 
+      "role": "Artist", 
+      "birth_date": "1757", 
+      "nationality": null
+    }, 
+    {
+      "name": "Schiavonetti, Luigi", 
+      "after_follower": null, 
+      "death_date": "1810", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300207, 
+      "role": "Artist", 
+      "birth_date": "1765", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16546, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

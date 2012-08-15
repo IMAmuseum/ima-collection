@@ -1,38 +1,44 @@
 {
-    "accession_number": "49.64", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1868", 
-            "death_date": "1940", 
-            "name": "Vuillard, Edouard", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1858", 
-            "death_date": "1936", 
-            "name": "Clot, Auguste", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1899", 
-    "credit_line": "Carl H. Lieber Fund", 
-    "cultures": [], 
-    "dimensions": "15 1/2 x 12 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 33359, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Ambrose Vollard"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Interieur aux Teinture Roses"
+  "publishers": [
+    {
+      "name": "Ambrose Vollard"
+    }
+  ], 
+  "dimensions": "15 1/2 x 12 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Carl H. Lieber Fund", 
+  "accession_number": "49.64", 
+  "title": "Interieur aux Teinture Roses", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223887, 
+  "creation_date": "1899", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Vuillard, Edouard", 
+      "after_follower": null, 
+      "death_date": "1940", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296795, 
+      "role": "Artist", 
+      "birth_date": "1868", 
+      "nationality": null
+    }, 
+    {
+      "name": "Clot, Auguste", 
+      "after_follower": null, 
+      "death_date": "1936", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298567, 
+      "role": "Printer", 
+      "birth_date": "1858", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33359, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

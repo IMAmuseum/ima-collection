@@ -1,34 +1,40 @@
 {
-    "accession_number": "56.100A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1826", 
-            "death_date": "1869", 
-            "name": "Utagawa Hir^oshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1861", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "A. (Left) 14 3/4 x 10 3/16 in.\nB. (Center) 14 3/4 x 9 3/4 in.\nC. (Right) 14 3/4 x 9 7/8 in.", 
-    "dynasty": null, 
-    "irn": 4732, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Moon in Every Field of Shinsh^u"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "A. (Left) 14 3/4 x 10 3/16 in.\nB. (Center) 14 3/4 x 9 3/4 in.\nC. (Right) 14 3/4 x 9 7/8 in.", 
+  "title": "The Moon in Every Field of Shinsh^u", 
+  "accession_number": "56.100A-C", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18142481, 
+  "creation_date": "1861", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }, 
+    {
+      "name": "Utagawa Hir^oshige", 
+      "after_follower": null, 
+      "death_date": "1869", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296889, 
+      "role": "Artist", 
+      "birth_date": "1826", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4732, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

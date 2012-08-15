@@ -1,26 +1,30 @@
 {
-    "accession_number": "31.268A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1861", 
-            "name": "Utagawa Kuniyoshi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Purchased form the D. P. Erwin Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 51614, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Actors"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Purchased form the D. P. Erwin Fund", 
+  "accession_number": "31.268A-B", 
+  "title": "Actors", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18265507, 
+  "creation_date": null, 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Utagawa Kuniyoshi", 
+      "after_follower": null, 
+      "death_date": "1861", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301701, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51614, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

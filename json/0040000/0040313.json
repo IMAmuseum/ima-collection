@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1320.110", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1793", 
-            "death_date": "1873", 
-            "name": "Parris, Edmond Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1811", 
-            "death_date": "1867", 
-            "name": "Ryall, Henry Thomas", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40313, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Countess of Jersey"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1320.110", 
+  "title": "Countess of Jersey", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18241435, 
+  "creation_date": "1833", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Parris, Edmond Thomas", 
+      "after_follower": null, 
+      "death_date": "1873", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304645, 
+      "role": "Artist", 
+      "birth_date": "1793", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ryall, Henry Thomas", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296567, 
+      "role": "Engraver", 
+      "birth_date": "1811", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40313, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1274.44", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1755", 
-            "death_date": "1834", 
-            "name": "Stothard, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1787", 
-            "death_date": "1852", 
-            "name": "Finden, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1834", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 39839, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "On A Tear"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1274.44", 
+  "title": "On A Tear", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18240113, 
+  "creation_date": "1834", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Stothard, Thomas", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304505, 
+      "role": "Artist", 
+      "birth_date": "1755", 
+      "nationality": null
+    }, 
+    {
+      "name": "Finden, William", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304393, 
+      "role": "Engraver", 
+      "birth_date": "1787", 
+      "nationality": null
+    }
+  ], 
+  "irn": 39839, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

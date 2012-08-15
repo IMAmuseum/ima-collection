@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.138", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1933", 
-            "death_date": null, 
-            "name": "Frank, Mary", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan D. Weisenberger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9346, 
-    "materials": "monotype", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Flowers and Pear"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Flowers and Pear", 
+  "accession_number": "1999.138", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan D. Weisenberger", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153539, 
+  "creation_date": null, 
+  "materials": "monotype", 
+  "actors": [
+    {
+      "name": "Frank, Mary", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298321, 
+      "role": "Artist", 
+      "birth_date": "1933", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9346, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

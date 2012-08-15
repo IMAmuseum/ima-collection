@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.301", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1949", 
-            "name": "Boutet de Monvel, Bernard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1907", 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "27 1/4 x 74 3/4 in.", 
-    "dynasty": null, 
-    "irn": 4454, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rita del Erido"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "27 1/4 x 74 3/4 in.", 
+  "title": "Rita del Erido", 
+  "accession_number": "79.301", 
+  "credit_line": "The Holliday Collection", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18141851, 
+  "creation_date": "1907", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Boutet de Monvel, Bernard", 
+      "after_follower": null, 
+      "death_date": "1949", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296787, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4454, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

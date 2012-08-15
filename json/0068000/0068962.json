@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.229", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1957", 
-            "death_date": null, 
-            "name": "Martin Margiela", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Maison Martin Margiela", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "Spring/Summer 1997", 
-    "credit_line": "Caroline Marmon Fesler Fund", 
-    "cultures": [], 
-    "dimensions": "L: 27 1/16 in. (front neck to hem)\nL: 30 in. (back neck to hem)", 
-    "dynasty": null, 
-    "irn": 68962, 
-    "materials": "linen, cotton lining, metal hook & eye fasteners", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "jacket"
+  "publishers": [], 
+  "dimensions": "L: 27 1/16 in. (front neck to hem)\nL: 30 in. (back neck to hem)", 
+  "rights": null, 
+  "credit_line": "Caroline Marmon Fesler Fund", 
+  "accession_number": "2010.229", 
+  "title": "jacket", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283949, 
+  "creation_date": "Spring/Summer 1997", 
+  "materials": "linen, cotton lining, metal hook & eye fasteners", 
+  "actors": [
+    {
+      "name": "Martin Margiela", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308097, 
+      "role": "Designer", 
+      "birth_date": "1957", 
+      "nationality": null
+    }, 
+    {
+      "name": "Maison Martin Margiela", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308099, 
+      "role": "Design House", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68962, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.118", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "9 7/8 x 14 5/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 60970, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Kuwana, Schichi-ri watahshi-guchi (Port of Kuwana)"
+  "publishers": [], 
+  "dimensions": "9 7/8 x 14 5/16 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Emma Harter Sweetser Fund", 
+  "accession_number": "2003.118", 
+  "title": "Kuwana, Schichi-ri watahshi-guchi (Port of Kuwana)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18276833, 
+  "creation_date": "1833", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60970, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

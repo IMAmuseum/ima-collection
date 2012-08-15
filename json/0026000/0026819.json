@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.228", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1778", 
-            "death_date": "1843", 
-            "name": "Duttenhofer, Charles", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1801-1900", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": "14 x 19 in.", 
-    "dynasty": null, 
-    "irn": 26819, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hercule et Ach\u00e9lous"
+  "publishers": [], 
+  "dimensions": "14 x 19 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.228", 
+  "title": "Hercule et Ach\u00e9lous", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18208607, 
+  "creation_date": "1801-1900", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Duttenhofer, Charles", 
+      "after_follower": null, 
+      "death_date": "1843", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302325, 
+      "role": "Artist", 
+      "birth_date": "1778", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26819, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

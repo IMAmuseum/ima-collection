@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.102", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1755", 
-            "death_date": "1838", 
-            "name": "Pollard, Robert I", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1801-1900", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 24977, 
-    "materials": "etching and letterpress", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Memorial to Francis Russell, Duke of Bedford"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.102", 
+  "title": "Memorial to Francis Russell, Duke of Bedford", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204299, 
+  "creation_date": "1801-1900", 
+  "materials": "etching and letterpress", 
+  "actors": [
+    {
+      "name": "Pollard, Robert I", 
+      "after_follower": null, 
+      "death_date": "1838", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301955, 
+      "role": "Artist", 
+      "birth_date": "1755", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24977, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

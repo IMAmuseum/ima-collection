@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.21A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1711", 
-            "death_date": "1779", 
-            "name": "Punt, Jan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1744", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26818, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lot and Abraham (Lot Scheidt Zich Van Abraham)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.21A", 
+  "title": "Lot and Abraham (Lot Scheidt Zich Van Abraham)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18208603, 
+  "creation_date": "1744", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Punt, Jan", 
+      "after_follower": null, 
+      "death_date": "1779", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296357, 
+      "role": "Artist", 
+      "birth_date": "1711", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26818, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

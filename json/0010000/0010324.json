@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.47.177", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1839", 
-            "death_date": "1892", 
-            "name": "Yoshitoshi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Kate Kiser Klein", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10324, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hashiba Taiko Toyotomi Hideyoshi"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Hashiba Taiko Toyotomi Hideyoshi", 
+  "accession_number": "72.47.177", 
+  "credit_line": "Gift of Mrs. Kate Kiser Klein", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155835, 
+  "creation_date": null, 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Yoshitoshi", 
+      "after_follower": null, 
+      "death_date": "1892", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298613, 
+      "role": "Artist", 
+      "birth_date": "1839", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10324, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

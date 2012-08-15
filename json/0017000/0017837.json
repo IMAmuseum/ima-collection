@@ -1,26 +1,30 @@
 {
-    "accession_number": "19.201", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1971", 
-            "name": "Baumann, Gustave", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1916", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "11 x 9 7/8 in. (image)\n17 3/4 x 13 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 17837, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gustave Baumann", 
-    "title": "The Landmark"
+  "publishers": [], 
+  "dimensions": "11 x 9 7/8 in. (image)\n17 3/4 x 13 5/8 in. (sheet)", 
+  "rights": "\u00a9 Gustave Baumann", 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "19.201", 
+  "title": "The Landmark", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18174329, 
+  "creation_date": "1916", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Baumann, Gustave", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295839, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17837, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

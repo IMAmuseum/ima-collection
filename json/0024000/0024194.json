@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1696", 
-            "death_date": "1770", 
-            "name": "Tiepolo, Giovanni Battista", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century - 18th century", 
-    "credit_line": "Gift of Mrs. William H. Thompson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 24194, 
-    "materials": "pen, ink, and brown ink wash over black chalk on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Two Studies of Moses"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. William H. Thompson", 
+  "accession_number": "47.15", 
+  "title": "Two Studies of Moses", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18202523, 
+  "creation_date": "17th century - 18th century", 
+  "materials": "pen, ink, and brown ink wash over black chalk on white paper", 
+  "actors": [
+    {
+      "name": "Tiepolo, Giovanni Battista", 
+      "after_follower": null, 
+      "death_date": "1770", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301799, 
+      "role": "Artist", 
+      "birth_date": "1696", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24194, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

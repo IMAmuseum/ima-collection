@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.119", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1728", 
-            "death_date": "1792", 
-            "name": "Adam, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1777", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "23 X 17 1/4 in. (image)\n26 5/8 X 18 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 1204, 
-    "materials": "hand-colored engraving on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The House of Sir Watkin Williams-Wynn. Ceiling of the Eating Room."
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "23 X 17 1/4 in. (image)\n26 5/8 X 18 3/8 in. (sheet)", 
+  "title": "The House of Sir Watkin Williams-Wynn. Ceiling of the Eating Room.", 
+  "accession_number": "73.2.119", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134109, 
+  "creation_date": "1777", 
+  "materials": "hand-colored engraving on paper", 
+  "actors": [
+    {
+      "name": "Adam, Robert", 
+      "after_follower": null, 
+      "death_date": "1792", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295411, 
+      "role": "Artist", 
+      "birth_date": "1728", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1204, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.351", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1876", 
-            "death_date": "1925", 
-            "name": "Haskell, Ernest", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1899", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8798, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mrs. Fiske as Becky Sharp"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Mrs. Fiske as Becky Sharp", 
+  "accession_number": "80.351", 
+  "credit_line": "Museum Accession", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152135, 
+  "creation_date": "1899", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Haskell, Ernest", 
+      "after_follower": null, 
+      "death_date": "1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295169, 
+      "role": "Artist", 
+      "birth_date": "1876", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8798, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

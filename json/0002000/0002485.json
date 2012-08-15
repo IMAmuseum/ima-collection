@@ -1,34 +1,40 @@
 {
-    "accession_number": "76.436", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1896", 
-            "name": "Morris, William", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": null, 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1876", 
-    "credit_line": "The Eliza M. and Sarah L. Niblack Collection", 
-    "cultures": [], 
-    "dimensions": "38 x 36 in.", 
-    "dynasty": null, 
-    "irn": 2485, 
-    "materials": "cotton, block printed", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "furnishing fabric; \"Honeysuckle\""
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "38 x 36 in.", 
+  "title": "furnishing fabric; \"Honeysuckle\"", 
+  "accession_number": "76.436", 
+  "credit_line": "The Eliza M. and Sarah L. Niblack Collection", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137237, 
+  "creation_date": "1876", 
+  "materials": "cotton, block printed", 
+  "actors": [
+    {
+      "name": "Morris, William", 
+      "after_follower": null, 
+      "death_date": "1896", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296011, 
+      "role": "Designer", 
+      "birth_date": "1834", 
+      "nationality": null
+    }, 
+    {
+      "name": null, 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295437, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 2485, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

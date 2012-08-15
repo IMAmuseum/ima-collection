@@ -1,26 +1,30 @@
 {
-    "accession_number": "1983.128", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1914", 
-            "death_date": "1999", 
-            "name": "Steinberg, Saul", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1973", 
-    "credit_line": "Gift of the McKee Foundation", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16600, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Bleeker Street"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": null, 
+  "title": "Bleeker Street", 
+  "accession_number": "1983.128", 
+  "credit_line": "Gift of the McKee Foundation", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171043, 
+  "creation_date": "1973", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Steinberg, Saul", 
+      "after_follower": null, 
+      "death_date": "1999", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300225, 
+      "role": "Artist", 
+      "birth_date": "1914", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16600, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "LH2006.12A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Royal Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1870-1900", 
-    "credit_line": "Gift from the estate of Mrs. Bertram B. Adams in memory of Wm. Haueisen through Mrs. Hollingsworth", 
-    "cultures": [], 
-    "dimensions": "2 3/4 x 3 3/8 x 2 3/8 in. (w/lid)", 
-    "dynasty": null, 
-    "irn": 31770, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "covered box"
+  "publishers": [], 
+  "dimensions": "2 3/4 x 3 3/8 x 2 3/8 in. (w/lid)", 
+  "rights": null, 
+  "credit_line": "Gift from the estate of Mrs. Bertram B. Adams in memory of Wm. Haueisen through Mrs. Hollingsworth", 
+  "accession_number": "LH2006.12A-B", 
+  "title": "covered box", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220135, 
+  "creation_date": "1870-1900", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Royal Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297257, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 31770, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

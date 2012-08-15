@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.222", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1741", 
-            "death_date": "1810", 
-            "name": "L\u00e9lu, Pierre", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1762", 
-    "credit_line": "Gift of Mr. and Mrs. Percy Simmons", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6883, 
-    "materials": "pen, ink, adn brown ink wash on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mother and Child"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Mother and Child", 
+  "accession_number": "71.222", 
+  "credit_line": "Gift of Mr. and Mrs. Percy Simmons", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147595, 
+  "creation_date": "1762", 
+  "materials": "pen, ink, adn brown ink wash on off-white paper", 
+  "actors": [
+    {
+      "name": "L\u00e9lu, Pierre", 
+      "after_follower": null, 
+      "death_date": "1810", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297583, 
+      "role": "Artist", 
+      "birth_date": "1741", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6883, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

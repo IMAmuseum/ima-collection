@@ -1,26 +1,30 @@
 {
-    "accession_number": "51.8", 
-    "actors": [
-        {
-            "after_follower": "Copy of", 
-            "birth_date": "1470", 
-            "death_date": "1524", 
-            "name": "Tang Yin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1644-1911", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "53 5/8 x 24 7/8 in. (image)\n102 1/4 x 30 11/16 in. (overall)", 
-    "dynasty": "Qing dynasty", 
-    "irn": 26774, 
-    "materials": "ink on silk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Strange Peaks and Lofty Recluse"
+  "publishers": [], 
+  "dimensions": "53 5/8 x 24 7/8 in. (image)\n102 1/4 x 30 11/16 in. (overall)", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "51.8", 
+  "title": "Strange Peaks and Lofty Recluse", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18208491, 
+  "creation_date": "1644-1911", 
+  "materials": "ink on silk", 
+  "actors": [
+    {
+      "name": "Tang Yin", 
+      "after_follower": "Copy of", 
+      "death_date": "1524", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295383, 
+      "role": "Artist", 
+      "birth_date": "1470", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26774, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

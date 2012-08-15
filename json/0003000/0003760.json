@@ -1,26 +1,30 @@
 {
-    "accession_number": "1988.224", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Neumann, Hans", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1904", 
-    "credit_line": "Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3760, 
-    "materials": "color woodblock print with embossment", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Borzoi"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Borzoi", 
+  "accession_number": "1988.224", 
+  "credit_line": "Emma Harter Sweetser Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140235, 
+  "creation_date": "1904", 
+  "materials": "color woodblock print with embossment", 
+  "actors": [
+    {
+      "name": "Neumann, Hans", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296545, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 3760, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

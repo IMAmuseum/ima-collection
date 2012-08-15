@@ -1,26 +1,30 @@
 {
-    "accession_number": "2010.227", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": "1990", 
-            "name": "Halston", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1972", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art and purchased with funds provided by Gene and Rosemary Tanner, Patricia J. LaCrosse, Walter and Joan Wolf, Anne Greenleaf, and Frank and Barbara Grunwald", 
-    "cultures": [], 
-    "dimensions": "56 x 38 in.", 
-    "dynasty": null, 
-    "irn": 65040, 
-    "materials": "silk knit", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "evening dress"
+  "publishers": [], 
+  "dimensions": "56 x 38 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art and purchased with funds provided by Gene and Rosemary Tanner, Patricia J. LaCrosse, Walter and Joan Wolf, Anne Greenleaf, and Frank and Barbara Grunwald", 
+  "accession_number": "2010.227", 
+  "title": "evening dress", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279609, 
+  "creation_date": "1972", 
+  "materials": "silk knit", 
+  "actors": [
+    {
+      "name": "Halston", 
+      "after_follower": null, 
+      "death_date": "1990", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294977, 
+      "role": "Designer", 
+      "birth_date": "1932", 
+      "nationality": null
+    }
+  ], 
+  "irn": 65040, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

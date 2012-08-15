@@ -1,26 +1,30 @@
 {
-    "accession_number": "01.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1841", 
-            "death_date": "1930", 
-            "name": "Ketcham, Susan Merrill", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1896-1896", 
-    "credit_line": "Purchased by Subscription", 
-    "cultures": [], 
-    "dimensions": "28 x 22 in.", 
-    "dynasty": null, 
-    "irn": 7808, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Young Student"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "28 x 22 in.", 
+  "title": "A Young Student", 
+  "accession_number": "01.3", 
+  "credit_line": "Purchased by Subscription", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149777, 
+  "creation_date": "1896-1896", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Ketcham, Susan Merrill", 
+      "after_follower": null, 
+      "death_date": "1930", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297863, 
+      "role": "Artist", 
+      "birth_date": "1841", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7808, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.200B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Baccarat", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1979", 
-            "name": "Truex, Van Day", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "Mid 20th century", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "2 1/4 x 1 1/4 x 3/4 in.", 
-    "dynasty": null, 
-    "irn": 70296, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bottle stopper"
+  "publishers": [], 
+  "dimensions": "2 1/4 x 1 1/4 x 3/4 in.", 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "MH2010.200B", 
+  "title": "Bottle stopper", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18286635, 
+  "creation_date": "Mid 20th century", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Baccarat", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308261, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Truex, Van Day", 
+      "after_follower": null, 
+      "death_date": "1979", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308279, 
+      "role": "Designer", 
+      "birth_date": "1904", 
+      "nationality": null
+    }
+  ], 
+  "irn": 70296, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

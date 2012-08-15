@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.43.19", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1825", 
-            "death_date": "1894", 
-            "name": "Gautier, Armand", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "before 1868", 
-    "credit_line": "Gift of Mrs. Herbert S. Call", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55213, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Travial"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herbert S. Call", 
+  "accession_number": "72.43.19", 
+  "title": "Le Travial", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272345, 
+  "creation_date": "before 1868", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Gautier, Armand", 
+      "after_follower": null, 
+      "death_date": "1894", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305673, 
+      "role": "Artist", 
+      "birth_date": "1825", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55213, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

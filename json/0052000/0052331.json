@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.123", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1756", 
-            "death_date": "1829", 
-            "name": "Hosoda Eishi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1791", 
-    "credit_line": "Gift of George C. Calvert", 
-    "cultures": [], 
-    "dimensions": "14 3/8 x 9 5/8 in. (image, trimmed all around)", 
-    "dynasty": null, 
-    "irn": 52331, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Asago (Morning Glory)"
+  "publishers": [], 
+  "dimensions": "14 3/8 x 9 5/8 in. (image, trimmed all around)", 
+  "rights": null, 
+  "credit_line": "Gift of George C. Calvert", 
+  "accession_number": "47.123", 
+  "title": "Asago (Morning Glory)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18266893, 
+  "creation_date": "about 1791", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Hosoda Eishi", 
+      "after_follower": null, 
+      "death_date": "1829", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295047, 
+      "role": "Artist", 
+      "birth_date": "1756", 
+      "nationality": null
+    }
+  ], 
+  "irn": 52331, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.215", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1976", 
-            "name": "Pierre Daura", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1927", 
-    "credit_line": "Gift of Martha R. Daura", 
-    "cultures": [], 
-    "dimensions": "12 3/4 x 16 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 39857, 
-    "materials": "etching and aquatint, ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Pierre Daura", 
-    "title": "Minorca"
+  "publishers": [], 
+  "dimensions": "12 3/4 x 16 1/4 in. (sheet)", 
+  "rights": "\u00a9 Pierre Daura", 
+  "credit_line": "Gift of Martha R. Daura", 
+  "accession_number": "2000.215", 
+  "title": "Minorca", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18240163, 
+  "creation_date": "1927", 
+  "materials": "etching and aquatint, ink on paper", 
+  "actors": [
+    {
+      "name": "Pierre Daura", 
+      "after_follower": null, 
+      "death_date": "1976", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304535, 
+      "role": "Artist", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 39857, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "26.63", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Heintzelman, Arthur William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1918", 
-    "credit_line": "D. P. Erwin Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26932, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Gloucester Musician"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "D. P. Erwin Fund", 
+  "accession_number": "26.63", 
+  "title": "Gloucester Musician", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18208865, 
+  "creation_date": "1918", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Heintzelman, Arthur William", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295277, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 26932, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

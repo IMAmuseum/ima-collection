@@ -1,26 +1,30 @@
 {
-    "accession_number": "46.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "1909", 
-            "name": "Remington, Frederic", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1861-1909", 
-    "credit_line": "Gift of Mr. and Mrs. Theodore B. Griffith", 
-    "cultures": [], 
-    "dimensions": "9 x 11 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 6523, 
-    "materials": "pencil on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mexican Pony and other Sketches"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 x 11 3/4 in. (sheet)", 
+  "title": "Mexican Pony and other Sketches", 
+  "accession_number": "46.26", 
+  "credit_line": "Gift of Mr. and Mrs. Theodore B. Griffith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18146735, 
+  "creation_date": "1861-1909", 
+  "materials": "pencil on off-white paper", 
+  "actors": [
+    {
+      "name": "Remington, Frederic", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297453, 
+      "role": "Artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6523, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

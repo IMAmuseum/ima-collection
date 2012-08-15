@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1291.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1781", 
-            "death_date": "1849", 
-            "name": "Westall, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1791", 
-            "death_date": "1857", 
-            "name": "Finden, Edward", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1832", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40154, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hucknall Church, Nottinghamshire"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1291.1", 
+  "title": "Hucknall Church, Nottinghamshire", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18240995, 
+  "creation_date": "1832", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Westall, William", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301185, 
+      "role": "Artist", 
+      "birth_date": "1781", 
+      "nationality": null
+    }, 
+    {
+      "name": "Finden, Edward", 
+      "after_follower": null, 
+      "death_date": "1857", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304265, 
+      "role": "Engraver", 
+      "birth_date": "1791", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40154, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

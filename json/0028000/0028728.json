@@ -1,26 +1,30 @@
 {
-    "accession_number": "18.46", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1625", 
-            "death_date": "1713", 
-            "name": "Carlo Maratta", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28728, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Marriage of St. Catherine"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of William George Sullivan", 
+  "accession_number": "18.46", 
+  "title": "Marriage of St. Catherine", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213109, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Carlo Maratta", 
+      "after_follower": null, 
+      "death_date": "1713", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299403, 
+      "role": "Artist", 
+      "birth_date": "1625", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28728, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

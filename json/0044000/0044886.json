@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.2.122", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1728", 
-            "death_date": "1792", 
-            "name": "Adam, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Patrick Begbie", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1775", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "23 7/8 x 18 1/4 in. (image)\n26 7/8 x 20 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 44886, 
-    "materials": "engraving on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Designs for lamps and clockcases"
+  "publishers": [], 
+  "dimensions": "23 7/8 x 18 1/4 in. (image)\n26 7/8 x 20 1/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "73.2.122", 
+  "title": "Designs for lamps and clockcases", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253199, 
+  "creation_date": "1775", 
+  "materials": "engraving on paper", 
+  "actors": [
+    {
+      "name": "Adam, Robert", 
+      "after_follower": null, 
+      "death_date": "1792", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295411, 
+      "role": "Artist", 
+      "birth_date": "1728", 
+      "nationality": null
+    }, 
+    {
+      "name": "Patrick Begbie", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305133, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 44886, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

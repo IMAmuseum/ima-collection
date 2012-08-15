@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.56", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Starck, Philippe", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kartell US, Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1989", 
-    "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
-    "cultures": [], 
-    "dimensions": "28 1/2 x 25 x 25 in.", 
-    "dynasty": null, 
-    "irn": 68638, 
-    "materials": "polypropylene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Philippe Starck", 
-    "title": "Miss Balu table (square, light gray)"
+  "publishers": [], 
+  "dimensions": "28 1/2 x 25 x 25 in.", 
+  "rights": "\u00a9 Philippe Starck", 
+  "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
+  "accession_number": "2010.56", 
+  "title": "Miss Balu table (square, light gray)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283557, 
+  "creation_date": "1989", 
+  "materials": "polypropylene", 
+  "actors": [
+    {
+      "name": "Starck, Philippe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306863, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kartell US, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307897, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68638, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

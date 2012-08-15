@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.265", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1880", 
-            "death_date": "1962", 
-            "name": "Leveill\u00e9, Andr\u00e9", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1903", 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "14 3/4 x 21 7/16 in.", 
-    "dynasty": null, 
-    "irn": 34416, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Side of the Farm"
+  "publishers": [], 
+  "dimensions": "14 3/4 x 21 7/16 in.", 
+  "rights": null, 
+  "credit_line": "The Holliday Collection", 
+  "accession_number": "79.265", 
+  "title": "The Side of the Farm", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18226311, 
+  "creation_date": "1903", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Leveill\u00e9, Andr\u00e9", 
+      "after_follower": null, 
+      "death_date": "1962", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303571, 
+      "role": "Artist", 
+      "birth_date": "1880", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34416, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

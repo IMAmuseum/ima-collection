@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.759", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1903", 
-            "death_date": "1975", 
-            "name": "Hepworth, Barbara", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Mr. Mark Jacobson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6279, 
-    "materials": "paper|ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Bowness, Hepworth Estate", 
-    "title": "Two Opposing Forms"
+  "publishers": [], 
+  "rights": "\u00a9 Bowness, Hepworth Estate", 
+  "dimensions": null, 
+  "title": "Two Opposing Forms", 
+  "accession_number": "79.759", 
+  "credit_line": "Gift of Mr. Mark Jacobson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18146129, 
+  "creation_date": "1970", 
+  "materials": "paper|ink", 
+  "actors": [
+    {
+      "name": "Hepworth, Barbara", 
+      "after_follower": null, 
+      "death_date": "1975", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295227, 
+      "role": "Artist", 
+      "birth_date": "1903", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6279, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

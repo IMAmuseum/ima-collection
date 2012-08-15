@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.111B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1951", 
-            "death_date": null, 
-            "name": "Christian Lacroix", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1880", 
-            "death_date": "1936", 
-            "name": "Patou, Jean", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "Spring / Summer 1987", 
-    "credit_line": "Deaccessioned Textiles Fund", 
-    "cultures": [], 
-    "dimensions": "L: 24 1/2 in.\nwaist: 13 1/2 in.", 
-    "dynasty": null, 
-    "irn": 72381, 
-    "materials": "linen", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "skirt for \"Entre Nous\"ensemble"
+  "publishers": [], 
+  "dimensions": "L: 24 1/2 in.\nwaist: 13 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Deaccessioned Textiles Fund", 
+  "accession_number": "2011.111B", 
+  "title": "skirt for \"Entre Nous\"ensemble", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287811, 
+  "creation_date": "Spring / Summer 1987", 
+  "materials": "linen", 
+  "actors": [
+    {
+      "name": "Christian Lacroix", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307911, 
+      "role": "Designer", 
+      "birth_date": "1951", 
+      "nationality": null
+    }, 
+    {
+      "name": "Patou, Jean", 
+      "after_follower": null, 
+      "death_date": "1936", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306443, 
+      "role": "Design House", 
+      "birth_date": "1880", 
+      "nationality": null
+    }
+  ], 
+  "irn": 72381, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

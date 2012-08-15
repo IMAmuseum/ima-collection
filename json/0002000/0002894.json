@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1373", 
-            "death_date": "1452", 
-            "name": "Bicci di Lorenzo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1445", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "66 1/2 x 32 1/4 in.", 
-    "dynasty": null, 
-    "irn": 2894, 
-    "materials": "tempera and gold on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "St. Blaise"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "66 1/2 x 32 1/4 in.", 
+  "title": "St. Blaise", 
+  "accession_number": "24.10", 
+  "credit_line": "James E. Roberts Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138201, 
+  "creation_date": "about 1445", 
+  "materials": "tempera and gold on wood", 
+  "actors": [
+    {
+      "name": "Bicci di Lorenzo", 
+      "after_follower": null, 
+      "death_date": "1452", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296169, 
+      "role": "Artist", 
+      "birth_date": "1373", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2894, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

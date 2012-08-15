@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.28", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1955", 
-            "name": "L\u00e9ger, Fernand", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1921", 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "36 1/4 x 25 1/2 in.", 
-    "dynasty": null, 
-    "irn": 1379, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
-    "title": "Man and Woman"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
+  "dimensions": "36 1/4 x 25 1/2 in.", 
+  "title": "Man and Woman", 
+  "accession_number": "52.28", 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134569, 
+  "creation_date": "1921", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "L\u00e9ger, Fernand", 
+      "after_follower": null, 
+      "death_date": "1955", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295495, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1379, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

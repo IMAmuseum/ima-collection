@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.825.110", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1784", 
-            "death_date": "1849", 
-            "name": "De Wint, Peter", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1855", 
-            "name": "Radclyffe, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1843", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38046, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A View of Oxford from Wytham"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.110", 
+  "title": "A View of Oxford from Wytham", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235089, 
+  "creation_date": "1843", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "De Wint, Peter", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304223, 
+      "role": "Artist", 
+      "birth_date": "1784", 
+      "nationality": null
+    }, 
+    {
+      "name": "Radclyffe, William", 
+      "after_follower": null, 
+      "death_date": "1855", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298511, 
+      "role": "Engraver", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38046, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

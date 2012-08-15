@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.90.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "ca 1530", 
-            "death_date": "1585", 
-            "name": "Scultori, Adamo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "16th century", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9445, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mystic Marriage of St. Catherine"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Mystic Marriage of St. Catherine", 
+  "accession_number": "72.90.9", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153761, 
+  "creation_date": "16th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Scultori, Adamo", 
+      "after_follower": null, 
+      "death_date": "1585", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298359, 
+      "role": "Artist", 
+      "birth_date": "ca 1530", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9445, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

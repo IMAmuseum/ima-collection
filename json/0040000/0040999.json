@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1586.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1788", 
-            "death_date": "1856", 
-            "name": "Steuben, Charles Auguste Guillaume", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1798", 
-            "death_date": "1873", 
-            "name": "Graves, Robert", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1835", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40999, 
-    "materials": "engraving on plain paper with hand-coloring", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Napoleon"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1586.1", 
+  "title": "Napoleon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243381, 
+  "creation_date": "1835", 
+  "materials": "engraving on plain paper with hand-coloring", 
+  "actors": [
+    {
+      "name": "Steuben, Charles Auguste Guillaume", 
+      "after_follower": null, 
+      "death_date": "1856", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304755, 
+      "role": "Artist", 
+      "birth_date": "1788", 
+      "nationality": null
+    }, 
+    {
+      "name": "Graves, Robert", 
+      "after_follower": null, 
+      "death_date": "1873", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304759, 
+      "role": "Engraver", 
+      "birth_date": "1798", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40999, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

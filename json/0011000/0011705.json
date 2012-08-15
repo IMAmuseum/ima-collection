@@ -1,26 +1,30 @@
 {
-    "accession_number": "48.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1798", 
-            "death_date": "1863", 
-            "name": "Delacroix, Eugene", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1828", 
-    "credit_line": "Carl H. Lieber Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11705, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L' Ombre de Marguerite appraissant \u00e1 Faust"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "L' Ombre de Marguerite appraissant \u00e1 Faust", 
+  "accession_number": "48.6", 
+  "credit_line": "Carl H. Lieber Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18159057, 
+  "creation_date": "1828", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Delacroix, Eugene", 
+      "after_follower": null, 
+      "death_date": "1863", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295489, 
+      "role": "Artist", 
+      "birth_date": "1798", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11705, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

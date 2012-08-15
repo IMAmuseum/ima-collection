@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.244.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Bertil Vallien", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kosta Boda", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1980", 
-    "credit_line": "Gift of Ben Dreith", 
-    "cultures": [], 
-    "dimensions": "8 3/8 x 2 1/2 x 1 1/4 in.", 
-    "dynasty": null, 
-    "irn": 72353, 
-    "materials": "hand blown glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Satellite Bottle (2 of 3)"
+  "publishers": [], 
+  "dimensions": "8 3/8 x 2 1/2 x 1 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Ben Dreith", 
+  "accession_number": "2011.244.2", 
+  "title": "Satellite Bottle (2 of 3)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287757, 
+  "creation_date": "about 1980", 
+  "materials": "hand blown glass", 
+  "actors": [
+    {
+      "name": "Bertil Vallien", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296887, 
+      "role": "Artist", 
+      "birth_date": "1938", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kosta Boda", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307185, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 72353, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

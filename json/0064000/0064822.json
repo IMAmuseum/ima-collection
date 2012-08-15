@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.334", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Starck, Philippe", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kartell S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2003", 
-    "credit_line": "Gift of Kartell Museum", 
-    "cultures": [], 
-    "dimensions": "31 \u00bd \u00d7 21 \u00bd \u00d7 21 in.", 
-    "dynasty": null, 
-    "irn": 64822, 
-    "materials": "polycarbonate and fabric", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Philippe Starck", 
-    "title": "Mademoiselle chair"
+  "publishers": [], 
+  "dimensions": "31 \u00bd \u00d7 21 \u00bd \u00d7 21 in.", 
+  "rights": "\u00a9 Philippe Starck", 
+  "credit_line": "Gift of Kartell Museum", 
+  "accession_number": "2009.334", 
+  "title": "Mademoiselle chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279361, 
+  "creation_date": "2003", 
+  "materials": "polycarbonate and fabric", 
+  "actors": [
+    {
+      "name": "Starck, Philippe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306863, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kartell S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306787, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64822, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

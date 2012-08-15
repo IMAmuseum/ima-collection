@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.549.1-.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1956", 
-            "death_date": "2005", 
-            "name": "Maarten van Severen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "When Objects Work", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2005", 
-    "credit_line": "Gift of When Objects Work", 
-    "cultures": [], 
-    "dimensions": "A) fork: L: 8 5/16 in.\nB) knife: L: 9 1/8 in.\nC) spoon: L: 7 1/8 in.", 
-    "dynasty": null, 
-    "irn": 67719, 
-    "materials": "titanium, zirconium ceramic and lacquer", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Maarten Van Severen", 
-    "title": "Hybrid flatware"
+  "publishers": [], 
+  "dimensions": "A) fork: L: 8 5/16 in.\nB) knife: L: 9 1/8 in.\nC) spoon: L: 7 1/8 in.", 
+  "rights": "\u00a9 Maarten Van Severen", 
+  "credit_line": "Gift of When Objects Work", 
+  "accession_number": "2009.549.1-.3", 
+  "title": "Hybrid flatware", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282965, 
+  "creation_date": "2005", 
+  "materials": "titanium, zirconium ceramic and lacquer", 
+  "actors": [
+    {
+      "name": "Maarten van Severen", 
+      "after_follower": null, 
+      "death_date": "2005", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307171, 
+      "role": "Designer", 
+      "birth_date": "1956", 
+      "nationality": null
+    }, 
+    {
+      "name": "When Objects Work", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307097, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67719, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

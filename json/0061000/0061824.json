@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.6A-L", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1707", 
-            "death_date": "1754", 
-            "name": "Henry Fielding", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1911", 
-    "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
-    "cultures": [], 
-    "dimensions": "8 5/8 x 5 7/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 61824, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Jenson Society"
-        }
-    ], 
-    "rights": null, 
-    "title": null
+  "publishers": [
+    {
+      "name": "Jenson Society"
+    }
+  ], 
+  "dimensions": "8 5/8 x 5 7/8 in. (each)", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
+  "accession_number": "LH2003.6A-L", 
+  "title": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277269, 
+  "creation_date": "1911", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Henry Fielding", 
+      "after_follower": null, 
+      "death_date": "1754", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306095, 
+      "role": "Author", 
+      "birth_date": "1707", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61824, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.37", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1848", 
-            "death_date": "1935", 
-            "name": "Chen Baochen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1886", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 18543, 
-    "materials": "ink on silk or paper. fan painting.", 
-    "on_view": false, 
-    "period": "Guangxu", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "fan calligraphy"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.37", 
+  "title": "fan calligraphy", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Guangxu", 
+  "artisinal:id": 18189461, 
+  "creation_date": "1886", 
+  "materials": "ink on silk or paper. fan painting.", 
+  "actors": [
+    {
+      "name": "Chen Baochen", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300607, 
+      "role": "Artist", 
+      "birth_date": "1848", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18543, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1997.76", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": "1999", 
-            "name": "Edmund Brucker", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1944", 
-    "credit_line": "Gift of Joan D. Weisenberger in honor of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 21179, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Adirondacks"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Joan D. Weisenberger in honor of Dr. Steven Conant", 
+  "accession_number": "1997.76", 
+  "title": "Adirondacks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18195565, 
+  "creation_date": "1944", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Edmund Brucker", 
+      "after_follower": null, 
+      "death_date": "1999", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294855, 
+      "role": "Artist", 
+      "birth_date": "1912", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21179, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

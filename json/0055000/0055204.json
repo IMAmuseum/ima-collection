@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.43.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1592", 
-            "death_date": "1635", 
-            "name": "Callot, Jacques", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Mrs. Herbert S. Call", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55204, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "La Tour de Nesle"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herbert S. Call", 
+  "accession_number": "72.43.10", 
+  "title": "La Tour de Nesle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272319, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Callot, Jacques", 
+      "after_follower": null, 
+      "death_date": "1635", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295121, 
+      "role": "Artist", 
+      "birth_date": "1592", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55204, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

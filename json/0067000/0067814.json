@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.413", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1963", 
-            "death_date": null, 
-            "name": "Hella Jongerius", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "JongeriusLab", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
-    "cultures": [], 
-    "dimensions": "19 3/8 x 5 1/8 in.", 
-    "dynasty": null, 
-    "irn": 67814, 
-    "materials": "porcelain, glass, and tap", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Hella Jongerius", 
-    "title": "Long Neck Bottle vase"
+  "publishers": [], 
+  "dimensions": "19 3/8 x 5 1/8 in.", 
+  "rights": "\u00a9 Hella Jongerius", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
+  "accession_number": "2009.413", 
+  "title": "Long Neck Bottle vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283049, 
+  "creation_date": "2000", 
+  "materials": "porcelain, glass, and tap", 
+  "actors": [
+    {
+      "name": "Hella Jongerius", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307009, 
+      "role": "Designer", 
+      "birth_date": "1963", 
+      "nationality": null
+    }, 
+    {
+      "name": "JongeriusLab", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307015, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67814, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

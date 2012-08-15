@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.832", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1743", 
-            "death_date": "1805", 
-            "name": "Byrne, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1805", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "9 x 11 1/4 in (image) \n10 7/16 x 13 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 38073, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Abingdon, from the Thames Navigation"
+  "publishers": [], 
+  "dimensions": "9 x 11 1/4 in (image) \n10 7/16 x 13 1/2 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.832", 
+  "title": "Abingdon, from the Thames Navigation", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235157, 
+  "creation_date": "1805", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Byrne, William", 
+      "after_follower": null, 
+      "death_date": "1805", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299747, 
+      "role": "Engraver", 
+      "birth_date": "1743", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38073, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

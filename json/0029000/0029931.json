@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.387", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1872", 
-            "death_date": "1945", 
-            "name": "Rothenstein, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1918", 
-    "credit_line": "Helen Adams Bobbs Fund", 
-    "cultures": [], 
-    "dimensions": "5 1/2 x 8 1/8 in (image) \n10 1/4 x 15 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 29931, 
-    "materials": "drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fresne"
+  "publishers": [], 
+  "dimensions": "5 1/2 x 8 1/8 in (image) \n10 1/4 x 15 1/2 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Helen Adams Bobbs Fund", 
+  "accession_number": "81.387", 
+  "title": "Fresne", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18215917, 
+  "creation_date": "1918", 
+  "materials": "drypoint", 
+  "actors": [
+    {
+      "name": "Rothenstein, William", 
+      "after_follower": null, 
+      "death_date": "1945", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302855, 
+      "role": "Artist", 
+      "birth_date": "1872", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29931, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

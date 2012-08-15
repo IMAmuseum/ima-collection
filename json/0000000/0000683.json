@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1809", 
-            "death_date": "1888", 
-            "name": "Sneyd, Walter", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Elma D. Wilkinson Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 683, 
-    "materials": "pen, ink and crayon on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Roman Exquisite"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "A Roman Exquisite", 
+  "accession_number": "74.17", 
+  "credit_line": "Elma D. Wilkinson Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132839, 
+  "creation_date": "19th century", 
+  "materials": "pen, ink and crayon on white paper", 
+  "actors": [
+    {
+      "name": "Sneyd, Walter", 
+      "after_follower": null, 
+      "death_date": "1888", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294833, 
+      "role": "Artist", 
+      "birth_date": "1809", 
+      "nationality": null
+    }
+  ], 
+  "irn": 683, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

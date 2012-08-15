@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.69", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1926", 
-            "name": "Stark, Otto", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1900", 
-    "credit_line": "Gift of Robert G. Stark", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3224, 
-    "materials": "watercolor on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fall Landscape, Brookville"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Fall Landscape, Brookville", 
+  "accession_number": "1999.69", 
+  "credit_line": "Gift of Robert G. Stark", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138955, 
+  "creation_date": "1900", 
+  "materials": "watercolor on off-white paper", 
+  "actors": [
+    {
+      "name": "Stark, Otto", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295679, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3224, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

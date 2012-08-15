@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.356", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1940", 
-            "name": "Gill, Eric", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Miss Joan D. Weisenberger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 54070, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Stay Me with Apples"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Miss Joan D. Weisenberger", 
+  "accession_number": "2001.356", 
+  "title": "Stay Me with Apples", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18270845, 
+  "creation_date": "20th Century", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Gill, Eric", 
+      "after_follower": null, 
+      "death_date": "1940", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297591, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 54070, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

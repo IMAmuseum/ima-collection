@@ -1,34 +1,40 @@
 {
-    "accession_number": "2012.3A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1917", 
-            "death_date": "2007", 
-            "name": "Sottsass, Ettore", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Rossi & Arcandi S.r.L.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "designed 1982", 
-    "credit_line": "Design Arts Society Fund with funds provided by Kay Koch", 
-    "cultures": [], 
-    "dimensions": "11 1/4 x 14 1/2 in.", 
-    "dynasty": null, 
-    "irn": 74996, 
-    "materials": "silver plate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Murmansk centerpiece"
+  "publishers": [], 
+  "dimensions": "11 1/4 x 14 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Design Arts Society Fund with funds provided by Kay Koch", 
+  "accession_number": "2012.3A-B", 
+  "title": "Murmansk centerpiece", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288579, 
+  "creation_date": "designed 1982", 
+  "materials": "silver plate", 
+  "actors": [
+    {
+      "name": "Sottsass, Ettore", 
+      "after_follower": null, 
+      "death_date": "2007", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304001, 
+      "role": "Designer", 
+      "birth_date": "1917", 
+      "nationality": null
+    }, 
+    {
+      "name": "Rossi & Arcandi S.r.L.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308055, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 74996, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

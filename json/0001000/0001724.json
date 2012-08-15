@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.161", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1885", 
-            "death_date": "1973", 
-            "name": "Biddle, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1928", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": "13 1/8 x 9 3/8 in. (image)", 
-    "dynasty": null, 
-    "irn": 1724, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bloomingdale Flower Basket"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 1/8 x 9 3/8 in. (image)", 
+  "title": "Bloomingdale Flower Basket", 
+  "accession_number": "32.161", 
+  "credit_line": "Gift of the Gamboliers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135409, 
+  "creation_date": "1928", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Biddle, George", 
+      "after_follower": null, 
+      "death_date": "1973", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295631, 
+      "role": "Artist", 
+      "birth_date": "1885", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1724, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

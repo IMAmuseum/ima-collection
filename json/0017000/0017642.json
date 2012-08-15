@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1783", 
-            "death_date": "1856", 
-            "name": "Yamamoto Baiitsu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1838", 
-    "credit_line": "Mr. and Mrs. William R. Spurlock Fund", 
-    "cultures": [], 
-    "dimensions": "52 1/8 x 20 1/2 in.", 
-    "dynasty": null, 
-    "irn": 17642, 
-    "materials": "ink on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bamboo and Rocks"
+  "publishers": [], 
+  "dimensions": "52 1/8 x 20 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. William R. Spurlock Fund", 
+  "accession_number": "2000.16", 
+  "title": "Bamboo and Rocks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18173787, 
+  "creation_date": "1838", 
+  "materials": "ink on silk", 
+  "actors": [
+    {
+      "name": "Yamamoto Baiitsu", 
+      "after_follower": null, 
+      "death_date": "1856", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300443, 
+      "role": "Artist", 
+      "birth_date": "1783", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17642, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

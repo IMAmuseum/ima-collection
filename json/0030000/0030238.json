@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.25", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1548", 
-            "death_date": "1604", 
-            "name": "Ma Shouzhen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1604", 
-    "credit_line": "Gift of Mr & Mrs Eli Lilly", 
-    "cultures": [], 
-    "dimensions": "10 3/4 x 90 5/16 in. (image)\n10 3/4 x 155 3/4 in. (overall)", 
-    "dynasty": "Ming dynasty", 
-    "irn": 30238, 
-    "materials": "ink and color on paper", 
-    "on_view": false, 
-    "period": "Wanli", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Colored Fungus, Orchids, Bamboo and Rocks"
+  "publishers": [], 
+  "dimensions": "10 3/4 x 90 5/16 in. (image)\n10 3/4 x 155 3/4 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr & Mrs Eli Lilly", 
+  "accession_number": "60.25", 
+  "title": "Colored Fungus, Orchids, Bamboo and Rocks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Wanli", 
+  "artisinal:id": 18216631, 
+  "creation_date": "1604", 
+  "materials": "ink and color on paper", 
+  "actors": [
+    {
+      "name": "Ma Shouzhen", 
+      "after_follower": null, 
+      "death_date": "1604", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302903, 
+      "role": "Artist", 
+      "birth_date": "1548", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30238, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Ming dynasty", 
+  "on_view": false
 }

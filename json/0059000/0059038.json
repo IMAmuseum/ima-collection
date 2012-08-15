@@ -1,33 +1,37 @@
 {
-    "accession_number": "2002.124", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1899", 
-            "death_date": "1988", 
-            "name": "Nevelson, Louise", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1966", 
-    "credit_line": "Gift of Mary and DeWitt Brown", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 59038, 
-    "materials": "print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Harry N. Abrams, Inc."
-        }, 
-        {
-            "name": "The Pace Gallery"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "The Octogenarian"
+  "publishers": [
+    {
+      "name": "Harry N. Abrams, Inc."
+    }, 
+    {
+      "name": "The Pace Gallery"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Mary and DeWitt Brown", 
+  "accession_number": "2002.124", 
+  "title": "The Octogenarian", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276017, 
+  "creation_date": "1966", 
+  "materials": "print", 
+  "actors": [
+    {
+      "name": "Nevelson, Louise", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298257, 
+      "role": "Artist", 
+      "birth_date": "1899", 
+      "nationality": null
+    }
+  ], 
+  "irn": 59038, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

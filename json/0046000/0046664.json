@@ -1,26 +1,30 @@
 {
-    "accession_number": "S3876.80.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ross Brown", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "13 1/4 x 24 in. (image)\n20 x 27 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 46664, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Old Convertible"
+  "publishers": [], 
+  "dimensions": "13 1/4 x 24 in. (image)\n20 x 27 1/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "S3876.80.2", 
+  "title": "The Old Convertible", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18257043, 
+  "creation_date": null, 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "Ross Brown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305295, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 46664, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

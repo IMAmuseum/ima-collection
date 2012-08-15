@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.707.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "J.C. Easling", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "May 23, 1812", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "8 1/4 x 11 9/16 in (plate) \n11 1/2 x 17 5/8 in (sheet)", 
-    "dynasty": null, 
-    "irn": 29316, 
-    "materials": "mezzotint over etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Frontispiece"
+  "publishers": [], 
+  "dimensions": "8 1/4 x 11 9/16 in (plate) \n11 1/2 x 17 5/8 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.707.3", 
+  "title": "Frontispiece", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18214455, 
+  "creation_date": "May 23, 1812", 
+  "materials": "mezzotint over etching", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "J.C. Easling", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302731, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 29316, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

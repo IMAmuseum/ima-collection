@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.238", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1902", 
-            "death_date": "1984", 
-            "name": "Adams, Ansel Easton", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1938", 
-    "credit_line": "Gift of Dr. and Mrs. James B. Steichen", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60319, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Half Dome, Merced River, Winter, Yosemite National Park"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. and Mrs. James B. Steichen", 
+  "accession_number": "2002.238", 
+  "title": "Half Dome, Merced River, Winter, Yosemite National Park", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276517, 
+  "creation_date": "1938", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Adams, Ansel Easton", 
+      "after_follower": null, 
+      "death_date": "1984", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299879, 
+      "role": "Artist", 
+      "birth_date": "1902", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60319, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

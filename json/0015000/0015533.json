@@ -1,34 +1,40 @@
 {
-    "accession_number": "09.354", 
-    "actors": [
-        {
-            "after_follower": "Possibly", 
-            "birth_date": "1730", 
-            "death_date": "1807", 
-            "name": "Taylor, Isaac, I", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": "Possibly", 
-            "birth_date": "1759", 
-            "death_date": "1829", 
-            "name": "Taylor, Isaac, II", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15533, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dutch Boors"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Dutch Boors", 
+  "accession_number": "09.354", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168263, 
+  "creation_date": "19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Taylor, Isaac, I", 
+      "after_follower": "Possibly", 
+      "death_date": "1807", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295981, 
+      "role": "Artist", 
+      "birth_date": "1730", 
+      "nationality": null
+    }, 
+    {
+      "name": "Taylor, Isaac, II", 
+      "after_follower": "Possibly", 
+      "death_date": "1829", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295985, 
+      "role": "Artist", 
+      "birth_date": "1759", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15533, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

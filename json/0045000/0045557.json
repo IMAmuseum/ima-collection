@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.14", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1892", 
-            "death_date": "1966", 
-            "name": "Lur\u00e7at, Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1925", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45557, 
-    "materials": "pochoir", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Arlequin et la Jardin\u00e8re"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Gamboliers", 
+  "accession_number": "32.14", 
+  "title": "Arlequin et la Jardin\u00e8re", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254589, 
+  "creation_date": "1925", 
+  "materials": "pochoir", 
+  "actors": [
+    {
+      "name": "Lur\u00e7at, Jean", 
+      "after_follower": null, 
+      "death_date": "1966", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303051, 
+      "role": "Artist", 
+      "birth_date": "1892", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45557, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

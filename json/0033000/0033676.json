@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1885", 
-            "death_date": "1956", 
-            "name": "John Bradley Storrs", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1925", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "21 x 3 7/8 x 1 1/4 in. (w/out base)\n25 7/8 x 5 1/2 x 3 1/2 in. (w/base)", 
-    "dynasty": null, 
-    "irn": 33676, 
-    "materials": "brass and steel on black marble base (or vulcanite base)", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "New York"
+  "publishers": [], 
+  "dimensions": "21 x 3 7/8 x 1 1/4 in. (w/out base)\n25 7/8 x 5 1/2 x 3 1/2 in. (w/base)", 
+  "rights": null, 
+  "credit_line": "Discretionary Fund", 
+  "accession_number": "73.8", 
+  "title": "New York", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224601, 
+  "creation_date": "about 1925", 
+  "materials": "brass and steel on black marble base (or vulcanite base)", 
+  "actors": [
+    {
+      "name": "John Bradley Storrs", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303419, 
+      "role": "Artist", 
+      "birth_date": "1885", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33676, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

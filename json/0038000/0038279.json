@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.890.63", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1778", 
-            "death_date": "1843", 
-            "name": "Hakewill, James", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38279, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The New Gate, Winchelsea"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.890.63", 
+  "title": "The New Gate, Winchelsea", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235707, 
+  "creation_date": null, 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Hakewill, James", 
+      "after_follower": null, 
+      "death_date": "1843", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304273, 
+      "role": "Artist", 
+      "birth_date": "1778", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38279, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

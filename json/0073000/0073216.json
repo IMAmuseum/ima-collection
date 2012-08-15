@@ -1,26 +1,30 @@
 {
-    "accession_number": "2011.221", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1785", 
-            "death_date": "1851", 
-            "name": "Audubon, John James", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1849-1854", 
-    "credit_line": "Gift of William W. and Karen W. Thompson in memory of William F. Thompson", 
-    "cultures": [], 
-    "dimensions": "10 1/2 x 7 1/2 x 1 5/8 in.", 
-    "dynasty": null, 
-    "irn": 73216, 
-    "materials": "ink on paper, bound volume", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Quadrupeds of North America (volume 1)"
+  "publishers": [], 
+  "dimensions": "10 1/2 x 7 1/2 x 1 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of William W. and Karen W. Thompson in memory of William F. Thompson", 
+  "accession_number": "2011.221", 
+  "title": "The Quadrupeds of North America (volume 1)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287907, 
+  "creation_date": "1849-1854", 
+  "materials": "ink on paper, bound volume", 
+  "actors": [
+    {
+      "name": "Audubon, John James", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308607, 
+      "role": "Artist", 
+      "birth_date": "1785", 
+      "nationality": null
+    }
+  ], 
+  "irn": 73216, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

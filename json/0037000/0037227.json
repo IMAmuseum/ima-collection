@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.809.59", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1757", 
-            "death_date": "1827", 
-            "name": "Capon, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Walker, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "7/1/1801", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37227, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Billingsgate, London"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.809.59", 
+  "title": "Billingsgate, London", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232787, 
+  "creation_date": "7/1/1801", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Capon, William", 
+      "after_follower": null, 
+      "death_date": "1827", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304011, 
+      "role": "Artist", 
+      "birth_date": "1757", 
+      "nationality": null
+    }, 
+    {
+      "name": "Walker, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298459, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 37227, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

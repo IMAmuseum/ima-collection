@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Peale, Anna Claypoole", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1828", 
-    "credit_line": "The Orville A. and Elma D. Wilkinson Fund", 
-    "cultures": [], 
-    "dimensions": "3 1/16 x 2 1/4 in.", 
-    "dynasty": null, 
-    "irn": 28036, 
-    "materials": "watercolor on ivory", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Man"
+  "publishers": [], 
+  "dimensions": "3 1/16 x 2 1/4 in.", 
+  "rights": null, 
+  "credit_line": "The Orville A. and Elma D. Wilkinson Fund", 
+  "accession_number": "75.5", 
+  "title": "Portrait of a Man", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211479, 
+  "creation_date": "1828", 
+  "materials": "watercolor on ivory", 
+  "actors": [
+    {
+      "name": "Peale, Anna Claypoole", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302567, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 28036, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

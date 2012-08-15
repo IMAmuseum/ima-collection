@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.79", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1840", 
-            "death_date": "1916", 
-            "name": "Redon, Odilon", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1900", 
-    "credit_line": "The Lockton Collection", 
-    "cultures": [], 
-    "dimensions": "25 1/4 x 19 3/4 in.", 
-    "dynasty": null, 
-    "irn": 12887, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Gothic Window"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "25 1/4 x 19 3/4 in.", 
+  "title": "The Gothic Window", 
+  "accession_number": "70.79", 
+  "credit_line": "The Lockton Collection", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162095, 
+  "creation_date": "1900", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Redon, Odilon", 
+      "after_follower": null, 
+      "death_date": "1916", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295661, 
+      "role": "Artist", 
+      "birth_date": "1840", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12887, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

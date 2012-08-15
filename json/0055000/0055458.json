@@ -1,38 +1,44 @@
 {
-    "accession_number": "80.1726", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1775-1802", 
-            "death_date": "1775-1802", 
-            "name": "Girtin, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55458, 
-    "materials": "mezzotints and letterpress on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Cooke, William Bernard"
-        }
-    ], 
-    "rights": null, 
-    "title": null
+  "publishers": [
+    {
+      "name": "Cooke, William Bernard"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1726", 
+  "title": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272713, 
+  "creation_date": null, 
+  "materials": "mezzotints and letterpress on plain paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Girtin, Thomas", 
+      "after_follower": null, 
+      "death_date": "1775-1802", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297187, 
+      "role": "Artist", 
+      "birth_date": "1775-1802", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55458, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

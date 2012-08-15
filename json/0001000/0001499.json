@@ -1,46 +1,54 @@
 {
-    "accession_number": "81.816", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Allen, James C.", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Witherington, William Frederick", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Allen, James C.", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1825", 
-    "credit_line": "Gift of Dr. and Mrs. M. E. Hodes", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1499, 
-    "materials": "engraving on india paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Cooke, William Bernard"
-        }
-    ], 
-    "rights": null, 
-    "title": "Cannes"
+  "publishers": [
+    {
+      "name": "Cooke, William Bernard"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Cannes", 
+  "accession_number": "81.816", 
+  "credit_line": "Gift of Dr. and Mrs. M. E. Hodes", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134853, 
+  "creation_date": "1825", 
+  "materials": "engraving on india paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Allen, James C.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295541, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Witherington, William Frederick", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295545, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Allen, James C.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295541, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1499, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

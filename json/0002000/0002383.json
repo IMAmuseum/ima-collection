@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1801", 
-            "death_date": "1848", 
-            "name": "Cole, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1863", 
-    "credit_line": "Orville A. and Elma D. Wilkinson Fund", 
-    "cultures": [], 
-    "dimensions": "30 x 40 in.", 
-    "dynasty": null, 
-    "irn": 2383, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dream of Arcadia"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "30 x 40 in.", 
+  "title": "Dream of Arcadia", 
+  "accession_number": "78.6", 
+  "credit_line": "Orville A. and Elma D. Wilkinson Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136991, 
+  "creation_date": "about 1863", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Cole, Thomas", 
+      "after_follower": null, 
+      "death_date": "1848", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295967, 
+      "role": "Artist", 
+      "birth_date": "1801", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2383, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1602.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1862", 
-            "name": "Reinagle, Ramsay Richard", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1791", 
-            "death_date": "1857", 
-            "name": "Finden, Edward", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1834", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41117, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bothwell Castle"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1602.23", 
+  "title": "Bothwell Castle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243731, 
+  "creation_date": "about 1834", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Reinagle, Ramsay Richard", 
+      "after_follower": null, 
+      "death_date": "1862", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304107, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Finden, Edward", 
+      "after_follower": null, 
+      "death_date": "1857", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304265, 
+      "role": "Engraver", 
+      "birth_date": "1791", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41117, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

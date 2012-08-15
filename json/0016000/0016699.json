@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.229.18", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1789", 
-            "death_date": "1854", 
-            "name": "Martin, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1826", 
-    "credit_line": "Gift of Mrs. Peter A. Richardson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16699, 
-    "materials": "mezzotint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Raphael conversing with Adam and Eve"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Peter A. Richardson", 
+  "accession_number": "71.229.18", 
+  "title": "Raphael conversing with Adam and Eve", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171273, 
+  "creation_date": "1826", 
+  "materials": "mezzotint", 
+  "actors": [
+    {
+      "name": "Martin, John", 
+      "after_follower": null, 
+      "death_date": "1854", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296281, 
+      "role": "Artist", 
+      "birth_date": "1789", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16699, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

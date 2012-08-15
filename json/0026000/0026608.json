@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.28.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1927", 
-            "name": "Adams, John Ottis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. John A. Adams", 
-    "cultures": [], 
-    "dimensions": "21 3/4 x 31 3/4 in.\n29 x 39 in. (framed)", 
-    "dynasty": null, 
-    "irn": 26608, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Coosje van Bruggen", 
-    "title": "The Wane of Winter"
+  "publishers": [], 
+  "dimensions": "21 3/4 x 31 3/4 in.\n29 x 39 in. (framed)", 
+  "rights": "\u00a9 Coosje van Bruggen", 
+  "credit_line": "Gift of Mrs. John A. Adams", 
+  "accession_number": "72.28.2", 
+  "title": "The Wane of Winter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18208093, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Adams, John Ottis", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295417, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26608, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

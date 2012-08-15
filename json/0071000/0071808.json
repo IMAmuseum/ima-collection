@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.175A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1941", 
-            "death_date": null, 
-            "name": "Vivienne Westwood", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1946", 
-            "death_date": "2010", 
-            "name": "Malcolm McLaren", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1976", 
-    "credit_line": "Caroline Marmon Fesler Fund, Deaccessioned Textiles Fund", 
-    "cultures": [], 
-    "dimensions": "A) jacket: 28 1/8 x 56 1/4 in.\nB) pants: 38 1/2 x 20 3/8 in.\nC) belt: 21 3/8 x 2 in.", 
-    "dynasty": null, 
-    "irn": 71808, 
-    "materials": "cotton, metal zippers, nylon", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "suit; 'bondage' (Seditionaries Collection)"
+  "publishers": [], 
+  "dimensions": "A) jacket: 28 1/8 x 56 1/4 in.\nB) pants: 38 1/2 x 20 3/8 in.\nC) belt: 21 3/8 x 2 in.", 
+  "rights": null, 
+  "credit_line": "Caroline Marmon Fesler Fund, Deaccessioned Textiles Fund", 
+  "accession_number": "2011.175A-C", 
+  "title": "suit; 'bondage' (Seditionaries Collection)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287477, 
+  "creation_date": "1976", 
+  "materials": "cotton, metal zippers, nylon", 
+  "actors": [
+    {
+      "name": "Vivienne Westwood", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308487, 
+      "role": "Designer", 
+      "birth_date": "1941", 
+      "nationality": null
+    }, 
+    {
+      "name": "Malcolm McLaren", 
+      "after_follower": null, 
+      "death_date": "2010", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308489, 
+      "role": "Designer", 
+      "birth_date": "1946", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71808, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

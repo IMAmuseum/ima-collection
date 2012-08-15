@@ -1,26 +1,30 @@
 {
-    "accession_number": "S10427.06.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1865", 
-            "death_date": "1943", 
-            "name": "Anna L. Stacey", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1915", 
-    "credit_line": "Bequest of Eleanor Harter McFarland of Kalamazoo, Michigan, a former resident of Indianapolis, who studied at the Herron School of Art", 
-    "cultures": [], 
-    "dimensions": "29 x 24 1/2 in.", 
-    "dynasty": null, 
-    "irn": 63818, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Emma Harter Sweetser"
+  "publishers": [], 
+  "dimensions": "29 x 24 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Eleanor Harter McFarland of Kalamazoo, Michigan, a former resident of Indianapolis, who studied at the Herron School of Art", 
+  "accession_number": "S10427.06.1", 
+  "title": "Portrait of Emma Harter Sweetser", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278721, 
+  "creation_date": "1915", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Anna L. Stacey", 
+      "after_follower": null, 
+      "death_date": "1943", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306719, 
+      "role": "Artist", 
+      "birth_date": "1865", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63818, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

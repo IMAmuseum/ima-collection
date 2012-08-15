@@ -1,34 +1,40 @@
 {
-    "accession_number": "1986.44", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1848", 
-            "death_date": "1933", 
-            "name": "Louis Comfort Tiffany", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Louis C. Tiffany Furnaces, Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1900", 
-    "credit_line": "Mrs. G.H.A. Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "6 x 6 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 832, 
-    "materials": "iridescent amber glass (favrile)", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "compotier"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 x 6 (diam.) in.", 
+  "title": "compotier", 
+  "accession_number": "1986.44", 
+  "credit_line": "Mrs. G.H.A. Clowes Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133197, 
+  "creation_date": "about 1900", 
+  "materials": "iridescent amber glass (favrile)", 
+  "actors": [
+    {
+      "name": "Louis Comfort Tiffany", 
+      "after_follower": null, 
+      "death_date": "1933", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295219, 
+      "role": "Artist", 
+      "birth_date": "1848", 
+      "nationality": null
+    }, 
+    {
+      "name": "Louis C. Tiffany Furnaces, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295221, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 832, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

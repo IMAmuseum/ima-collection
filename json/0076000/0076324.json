@@ -1,26 +1,30 @@
 {
-    "accession_number": "2012.31A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1861, 4th month", 
-    "credit_line": "Purchased with funds provided by Mrs. Nina K. Winter in memory of our daughter, Jane Elizabeth Winter", 
-    "cultures": [], 
-    "dimensions": "14 3/16 x 10 in. (image)", 
-    "dynasty": null, 
-    "irn": 76324, 
-    "materials": "color woodblock print, diptych", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "wai Kumesabur^o III in the role of Takao of Miura-ya"
+  "publishers": [], 
+  "dimensions": "14 3/16 x 10 in. (image)", 
+  "rights": null, 
+  "credit_line": "Purchased with funds provided by Mrs. Nina K. Winter in memory of our daughter, Jane Elizabeth Winter", 
+  "accession_number": "2012.31A", 
+  "title": "wai Kumesabur^o III in the role of Takao of Miura-ya", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18288789, 
+  "creation_date": "1861, 4th month", 
+  "materials": "color woodblock print, diptych", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 76324, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

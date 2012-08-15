@@ -1,34 +1,40 @@
 {
-    "accession_number": "1984.311", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1892", 
-            "death_date": "1962", 
-            "name": "Dorothy Doughty", 
-            "nationality": null, 
-            "role": "Modeler"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Worcester Royal Porcelain Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mildred Almen Reeves in honor of Carl Marshall reeves", 
-    "cultures": [], 
-    "dimensions": "H: 9 15/16 in.", 
-    "dynasty": null, 
-    "irn": 64385, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "over bird"
+  "publishers": [], 
+  "dimensions": "H: 9 15/16 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mildred Almen Reeves in honor of Carl Marshall reeves", 
+  "accession_number": "1984.311", 
+  "title": "over bird", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279031, 
+  "creation_date": null, 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Dorothy Doughty", 
+      "after_follower": null, 
+      "death_date": "1962", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296365, 
+      "role": "Modeler", 
+      "birth_date": "1892", 
+      "nationality": null
+    }, 
+    {
+      "name": "Worcester Royal Porcelain Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296371, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64385, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

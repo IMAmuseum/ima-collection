@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1888", 
-            "death_date": "1954", 
-            "name": "Thieme, Anthony", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Francine and Roger Hurwitz", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 44216, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Seaweed Gatherers"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Francine and Roger Hurwitz", 
+  "accession_number": "2001.16", 
+  "title": "Seaweed Gatherers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18251411, 
+  "creation_date": null, 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Thieme, Anthony", 
+      "after_follower": null, 
+      "death_date": "1954", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305083, 
+      "role": "Artist", 
+      "birth_date": "1888", 
+      "nationality": null
+    }
+  ], 
+  "irn": 44216, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

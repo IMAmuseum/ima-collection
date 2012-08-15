@@ -1,26 +1,30 @@
 {
-    "accession_number": "51.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Master MZ", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1503", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "6 3/16 x 4 5/8 in. (image)\n6 3/8 x 4 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 33688, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Embrace"
+  "publishers": [], 
+  "dimensions": "6 3/16 x 4 5/8 in. (image)\n6 3/8 x 4 5/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "51.1", 
+  "title": "The Embrace", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224629, 
+  "creation_date": "1503", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Master MZ", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303421, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 33688, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

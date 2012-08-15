@@ -1,30 +1,34 @@
 {
-    "accession_number": "2008.819", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1936", 
-            "death_date": null, 
-            "name": "Stella, Frank", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Joan and Walter Wolf", 
-    "cultures": [], 
-    "dimensions": "39 7/8 x 26 7/8 in. (image)\n40 7/8 x 28 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 67287, 
-    "materials": "screenprint on cream wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Gemini G.E.L."
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Pastel Stack"
+  "publishers": [
+    {
+      "name": "Gemini G.E.L."
+    }
+  ], 
+  "dimensions": "39 7/8 x 26 7/8 in. (image)\n40 7/8 x 28 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Joan and Walter Wolf", 
+  "accession_number": "2008.819", 
+  "title": "Pastel Stack", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282639, 
+  "creation_date": "1970", 
+  "materials": "screenprint on cream wove paper", 
+  "actors": [
+    {
+      "name": "Stella, Frank", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300599, 
+      "role": "Artist", 
+      "birth_date": "1936", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67287, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

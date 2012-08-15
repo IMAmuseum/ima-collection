@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1903", 
-            "death_date": "1974", 
-            "name": "Gottlieb, Adolph", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1971", 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 246, 
-    "materials": "color aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "Art \u00a9 Adolph and Esther Gottlieb Foundation/Licensed by VAGA, New York, NY", 
-    "title": "Imaginary Landscape"
+  "publishers": [], 
+  "rights": "Art \u00a9 Adolph and Esther Gottlieb Foundation/Licensed by VAGA, New York, NY", 
+  "dimensions": null, 
+  "title": "Imaginary Landscape", 
+  "accession_number": "71.22", 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131743, 
+  "creation_date": "1971", 
+  "materials": "color aquatint", 
+  "actors": [
+    {
+      "name": "Gottlieb, Adolph", 
+      "after_follower": null, 
+      "death_date": "1974", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294883, 
+      "role": "Artist", 
+      "birth_date": "1903", 
+      "nationality": null
+    }
+  ], 
+  "irn": 246, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

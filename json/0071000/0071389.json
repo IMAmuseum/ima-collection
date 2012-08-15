@@ -1,38 +1,44 @@
 {
-    "accession_number": "2010.303", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Tokokudo", 
-            "nationality": null, 
-            "role": "Publisher"
-        }
-    ], 
-    "creation_date": "1852, 12th month", 
-    "credit_line": "Gift of Francine and Roger Hurwitz", 
-    "cultures": [], 
-    "dimensions": "9 3/4 x 6 7/8 in. (bled to edge)", 
-    "dynasty": null, 
-    "irn": 71389, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tokokudo"
-        }
-    ], 
-    "rights": null, 
-    "title": "Matsukaze, with Genji crest for chapter 44, \u0093Takegawa,\u0094of the Tale of Genji"
+  "publishers": [
+    {
+      "name": "Tokokudo"
+    }
+  ], 
+  "dimensions": "9 3/4 x 6 7/8 in. (bled to edge)", 
+  "rights": null, 
+  "credit_line": "Gift of Francine and Roger Hurwitz", 
+  "accession_number": "2010.303", 
+  "title": "Matsukaze, with Genji crest for chapter 44, \u0093Takegawa,\u0094of the Tale of Genji", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18287109, 
+  "creation_date": "1852, 12th month", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }, 
+    {
+      "name": "Tokokudo", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308427, 
+      "role": "Publisher", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71389, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

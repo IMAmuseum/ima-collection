@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.249", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "20th Century", 
-            "death_date": "20th Century", 
-            "name": "Lozano, Lee", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 51283, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Boring Drawing"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
+  "accession_number": "2001.249", 
+  "title": "A Boring Drawing", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18264717, 
+  "creation_date": "1969", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Lozano, Lee", 
+      "after_follower": null, 
+      "death_date": "20th Century", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305459, 
+      "role": "Artist", 
+      "birth_date": "20th Century", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51283, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

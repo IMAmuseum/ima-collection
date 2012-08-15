@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.325", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1833-1834", 
-    "credit_line": "Bequest of Grace Ritchie", 
-    "cultures": [], 
-    "dimensions": "12 3/4 x 18 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 42893, 
-    "materials": "color woodcut", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Kanbara, Night Snow"
+  "publishers": [], 
+  "dimensions": "12 3/4 x 18 5/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Grace Ritchie", 
+  "accession_number": "2000.325", 
+  "title": "Kanbara, Night Snow", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18248589, 
+  "creation_date": "1833-1834", 
+  "materials": "color woodcut", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42893, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.915", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1782", 
-            "death_date": "1874", 
-            "name": "Pye, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1820", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "5 5/8 x 8 5/8 in (image)\n10 3/4 x 15 1/4 in (sheet)", 
-    "dynasty": null, 
-    "irn": 38535, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Rialto, Venice"
+  "publishers": [], 
+  "dimensions": "5 5/8 x 8 5/8 in (image)\n10 3/4 x 15 1/4 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.915", 
+  "title": "The Rialto, Venice", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18236407, 
+  "creation_date": "1820", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Pye, John", 
+      "after_follower": null, 
+      "death_date": "1874", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302827, 
+      "role": "Engraver", 
+      "birth_date": "1782", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38535, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

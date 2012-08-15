@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.130", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Pensz, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "16th century", 
-    "credit_line": "Mr. and Mrs. Hiram W. McKee Foundation", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11372, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Triumph of Chastity"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Triumph of Chastity", 
+  "accession_number": "70.130", 
+  "credit_line": "Mr. and Mrs. Hiram W. McKee Foundation", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18158339, 
+  "creation_date": "16th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Pensz, George", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298821, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 11372, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

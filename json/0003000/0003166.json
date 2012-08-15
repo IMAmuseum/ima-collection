@@ -1,34 +1,40 @@
 {
-    "accession_number": "72.75", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1848", 
-            "death_date": "1933", 
-            "name": "Louis Comfort Tiffany", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Tiffany Studios", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1904", 
-    "credit_line": "Gift of the First Meridian Heights Presbyterian Church, Indianapolis", 
-    "cultures": [], 
-    "dimensions": "348 x 168 x 4 in.", 
-    "dynasty": null, 
-    "irn": 3166, 
-    "materials": "stained glass, lead", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Angel of the Resurrection"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "348 x 168 x 4 in.", 
+  "title": "Angel of the Resurrection", 
+  "accession_number": "72.75", 
+  "credit_line": "Gift of the First Meridian Heights Presbyterian Church, Indianapolis", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138803, 
+  "creation_date": "1904", 
+  "materials": "stained glass, lead", 
+  "actors": [
+    {
+      "name": "Louis Comfort Tiffany", 
+      "after_follower": null, 
+      "death_date": "1933", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295219, 
+      "role": "Artist", 
+      "birth_date": "1848", 
+      "nationality": null
+    }, 
+    {
+      "name": "Tiffany Studios", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296283, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 3166, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

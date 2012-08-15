@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.477", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1969", 
-            "death_date": null, 
-            "name": "Hrafnkell Birgisson", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1969", 
-            "death_date": null, 
-            "name": "Hrafnkell Birgisson", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund (by exchange)", 
-    "cultures": [], 
-    "dimensions": "75 \u00d7 45 in.", 
-    "dynasty": null, 
-    "irn": 64629, 
-    "materials": "polyurethane", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Hrafnkell Birgisson", 
-    "title": "Hab' cabinet"
+  "publishers": [], 
+  "dimensions": "75 \u00d7 45 in.", 
+  "rights": "\u00a9 Hrafnkell Birgisson", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund (by exchange)", 
+  "accession_number": "2009.477", 
+  "title": "Hab' cabinet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279123, 
+  "creation_date": "1998", 
+  "materials": "polyurethane", 
+  "actors": [
+    {
+      "name": "Hrafnkell Birgisson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306819, 
+      "role": "Designer", 
+      "birth_date": "1969", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hrafnkell Birgisson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306819, 
+      "role": "manufacturer", 
+      "birth_date": "1969", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64629, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

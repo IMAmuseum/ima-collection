@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.553.7A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "CreaDesign", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Abloy Oy", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Gift of Abloy Oy", 
-    "cultures": [], 
-    "dimensions": "2 1/4 x 2 in.", 
-    "dynasty": null, 
-    "irn": 67368, 
-    "materials": "ABS plastic and steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Abloy Oy", 
-    "title": "Ava Padlock (blue/yellow)"
+  "publishers": [], 
+  "dimensions": "2 1/4 x 2 in.", 
+  "rights": "\u00a9 Abloy Oy", 
+  "credit_line": "Gift of Abloy Oy", 
+  "accession_number": "2009.553.7A-B", 
+  "title": "Ava Padlock (blue/yellow)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282727, 
+  "creation_date": "1992", 
+  "materials": "ABS plastic and steel", 
+  "actors": [
+    {
+      "name": "CreaDesign", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306865, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Abloy Oy", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306869, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67368, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

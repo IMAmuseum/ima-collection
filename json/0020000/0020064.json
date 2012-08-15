@@ -1,26 +1,30 @@
 {
-    "accession_number": "15.205", 
-    "actors": [
-        {
-            "after_follower": "Attributed to", 
-            "birth_date": "1778", 
-            "death_date": "1860", 
-            "name": "Peale, Rembrandt", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. C. W. Lord", 
-    "cultures": [], 
-    "dimensions": "24 x 20 in. \n29 1/2 x 26 in. (framed)", 
-    "dynasty": null, 
-    "irn": 20064, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of David Cox"
+  "publishers": [], 
+  "dimensions": "24 x 20 in. \n29 1/2 x 26 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. C. W. Lord", 
+  "accession_number": "15.205", 
+  "title": "Portrait of David Cox", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193041, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Peale, Rembrandt", 
+      "after_follower": "Attributed to", 
+      "death_date": "1860", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300927, 
+      "role": "Artist", 
+      "birth_date": "1778", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20064, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

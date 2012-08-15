@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.469", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1951", 
-            "death_date": null, 
-            "name": "Michele De Lucchi", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Produzione Privata", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1990", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "16 5/8 \u00d7 11 7/8 in.", 
-    "dynasty": null, 
-    "irn": 64666, 
-    "materials": "ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Michele De Lucchi", 
-    "title": "Bianco vase"
+  "publishers": [], 
+  "dimensions": "16 5/8 \u00d7 11 7/8 in.", 
+  "rights": "\u00a9 Michele De Lucchi", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "2009.469", 
+  "title": "Bianco vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279169, 
+  "creation_date": "1990", 
+  "materials": "ceramic", 
+  "actors": [
+    {
+      "name": "Michele De Lucchi", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306877, 
+      "role": "Designer", 
+      "birth_date": "1951", 
+      "nationality": null
+    }, 
+    {
+      "name": "Produzione Privata", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306883, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64666, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

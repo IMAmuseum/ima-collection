@@ -1,26 +1,30 @@
 {
-    "accession_number": "17.87", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1848", 
-            "death_date": "1919", 
-            "name": "Duveneck, Frank", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1884", 
-    "credit_line": "Gift of Frank Duveneck and L. H. Meakin", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34173, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Mercuria, Venice"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Frank Duveneck and L. H. Meakin", 
+  "accession_number": "17.87", 
+  "title": "The Mercuria, Venice", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18225765, 
+  "creation_date": "1884", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Duveneck, Frank", 
+      "after_follower": null, 
+      "death_date": "1919", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295049, 
+      "role": "Artist", 
+      "birth_date": "1848", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34173, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "1990.49", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1695", 
-            "death_date": "1758", 
-            "name": "Pond, Arthur", 
-            "nationality": "English", 
-            "role": "Engraver"
-        }, 
-        {
-            "after_follower": "After", 
-            "birth_date": "1625", 
-            "death_date": "1713", 
-            "name": "Carlo Maratta", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1742", 
-    "credit_line": "McKee Fine Arts Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "8 1/2 x 6 1/4 in.", 
-    "dynasty": null, 
-    "irn": 13708, 
-    "materials": "crayon manner engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Caricature of a Cleric Wearing Spectacles"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "8 1/2 x 6 1/4 in.", 
+  "title": "Caricature of a Cleric Wearing Spectacles", 
+  "accession_number": "1990.49", 
+  "credit_line": "McKee Fine Arts Purchase Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163999, 
+  "creation_date": "1742", 
+  "materials": "crayon manner engraving", 
+  "actors": [
+    {
+      "name": "Pond, Arthur", 
+      "after_follower": null, 
+      "death_date": "1758", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299401, 
+      "role": "Engraver", 
+      "birth_date": "1695", 
+      "nationality": "English"
+    }, 
+    {
+      "name": "Carlo Maratta", 
+      "after_follower": "After", 
+      "death_date": "1713", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299403, 
+      "role": "Artist", 
+      "birth_date": "1625", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13708, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

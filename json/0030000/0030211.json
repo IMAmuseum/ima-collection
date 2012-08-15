@@ -1,26 +1,30 @@
 {
-    "accession_number": "69.28.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1941", 
-            "death_date": null, 
-            "name": "Pond, Clayton", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Art Rental Gallery, Herron Alliance", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 30211, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Flowering Woman"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Art Rental Gallery, Herron Alliance", 
+  "accession_number": "69.28.5", 
+  "title": "Flowering Woman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18216571, 
+  "creation_date": "1969", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Pond, Clayton", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299705, 
+      "role": "Artist", 
+      "birth_date": "1941", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30211, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

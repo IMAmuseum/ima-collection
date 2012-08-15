@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1755", 
-            "death_date": "1828", 
-            "name": "Stuart, Gilbert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Baron Langer von Langendorff", 
-    "cultures": [], 
-    "dimensions": "30 x 25 in. \n36 7/8 x 32 in. (framed)", 
-    "dynasty": null, 
-    "irn": 4750, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sir Jonah Barrington"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "30 x 25 in. \n36 7/8 x 32 in. (framed)", 
+  "title": "Sir Jonah Barrington", 
+  "accession_number": "60.3", 
+  "credit_line": "Gift of Baron Langer von Langendorff", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142523, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Stuart, Gilbert", 
+      "after_follower": null, 
+      "death_date": "1828", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296899, 
+      "role": "Artist", 
+      "birth_date": "1755", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4750, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

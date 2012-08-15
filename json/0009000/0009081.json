@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.2.47", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1736", 
-            "death_date": "1782", 
-            "name": "Boucher, Juste-Nathan", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1753", 
-            "death_date": "1853", 
-            "name": "Dupin le Jeune", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1775", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "7 3/8 X 12 1/4 in. (image)\n9 3/8 X 13 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9081, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portable bath"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "7 3/8 X 12 1/4 in. (image)\n9 3/8 X 13 1/2 in. (sheet)", 
+  "title": "Portable bath", 
+  "accession_number": "73.2.47", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152829, 
+  "creation_date": "about 1775", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Boucher, Juste-Nathan", 
+      "after_follower": null, 
+      "death_date": "1782", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298213, 
+      "role": "Artist", 
+      "birth_date": "1736", 
+      "nationality": null
+    }, 
+    {
+      "name": "Dupin le Jeune", 
+      "after_follower": null, 
+      "death_date": "1853", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298215, 
+      "role": "Engraver", 
+      "birth_date": "1753", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9081, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "1994.370", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1918", 
-            "death_date": "2011", 
-            "name": "Wayne, June C.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1961", 
-    "credit_line": "Gift of Garo Antreasian", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 56099, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tamarind Lithography Workshop, Inc."
-        }
-    ], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "The Orator"
+  "publishers": [
+    {
+      "name": "Tamarind Lithography Workshop, Inc."
+    }
+  ], 
+  "dimensions": null, 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Garo Antreasian", 
+  "accession_number": "1994.370", 
+  "title": "The Orator", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18273631, 
+  "creation_date": "1961", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Wayne, June C.", 
+      "after_follower": null, 
+      "death_date": "2011", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296813, 
+      "role": "Artist", 
+      "birth_date": "1918", 
+      "nationality": null
+    }
+  ], 
+  "irn": 56099, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

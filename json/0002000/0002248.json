@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.203", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1827", 
-    "credit_line": "Gift in Memory of Dr. and Mrs. Hugo O. Pantzer by their children", 
-    "cultures": [], 
-    "dimensions": "10 1/8 x 6 7/8 in (sheet)", 
-    "dynasty": null, 
-    "irn": 2248, 
-    "materials": "gouache on blue paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lowestoffe Lighthouse"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "10 1/8 x 6 7/8 in (sheet)", 
+  "title": "Lowestoffe Lighthouse", 
+  "accession_number": "72.203", 
+  "credit_line": "Gift in Memory of Dr. and Mrs. Hugo O. Pantzer by their children", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136655, 
+  "creation_date": "about 1827", 
+  "materials": "gouache on blue paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2248, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

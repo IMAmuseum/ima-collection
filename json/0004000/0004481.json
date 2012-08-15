@@ -1,26 +1,30 @@
 {
-    "accession_number": "69.84", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1501", 
-            "death_date": "1556", 
-            "name": "Girolamo da Carpi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "16th century", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4481, 
-    "materials": "pen and ink and wash, heightened with white", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "recto: Caius Marius and His Mother Veturia; verso: Studies for the Crucifixion"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "recto: Caius Marius and His Mother Veturia; verso: Studies for the Crucifixion", 
+  "accession_number": "69.84", 
+  "credit_line": "Jacob Metzger Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18141907, 
+  "creation_date": "16th century", 
+  "materials": "pen and ink and wash, heightened with white", 
+  "actors": [
+    {
+      "name": "Girolamo da Carpi", 
+      "after_follower": null, 
+      "death_date": "1556", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296803, 
+      "role": "Artist", 
+      "birth_date": "1501", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4481, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

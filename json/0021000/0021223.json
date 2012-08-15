@@ -1,26 +1,30 @@
 {
-    "accession_number": "38.43", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "1944", 
-            "name": "Maillol, Aristide", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1902", 
-    "credit_line": "James V. Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "11 1/4 x 6 1/4 x 5 1/4 in.", 
-    "dynasty": null, 
-    "irn": 21223, 
-    "materials": "bronze", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Leda"
+  "publishers": [], 
+  "dimensions": "11 1/4 x 6 1/4 x 5 1/4 in.", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "James V. Sweetser Fund", 
+  "accession_number": "38.43", 
+  "title": "Leda", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18195671, 
+  "creation_date": "1902", 
+  "materials": "bronze", 
+  "actors": [
+    {
+      "name": "Maillol, Aristide", 
+      "after_follower": null, 
+      "death_date": "1944", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295347, 
+      "role": "Artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21223, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

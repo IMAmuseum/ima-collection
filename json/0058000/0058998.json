@@ -1,30 +1,34 @@
 {
-    "accession_number": "2002.92", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1915", 
-            "death_date": "2001", 
-            "name": "Peterdi, Gabor F.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1955", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Bud Stalnaker", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 58998, 
-    "materials": "etching, soft-ground etching and engraving with stenciled color", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "International Graphic Arts Society"
-        }
-    ], 
-    "rights": "\u00a9 The Estate of Gabor F. Peterdi", 
-    "title": "Triumph of the Stones"
+  "publishers": [
+    {
+      "name": "International Graphic Arts Society"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": "\u00a9 The Estate of Gabor F. Peterdi", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Bud Stalnaker", 
+  "accession_number": "2002.92", 
+  "title": "Triumph of the Stones", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18275985, 
+  "creation_date": "1955", 
+  "materials": "etching, soft-ground etching and engraving with stenciled color", 
+  "actors": [
+    {
+      "name": "Peterdi, Gabor F.", 
+      "after_follower": null, 
+      "death_date": "2001", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295523, 
+      "role": "Artist", 
+      "birth_date": "1915", 
+      "nationality": null
+    }
+  ], 
+  "irn": 58998, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

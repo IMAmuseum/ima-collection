@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.34", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1933", 
-            "death_date": null, 
-            "name": "Mariuccia Mandelli", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Krizia", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1983", 
-    "credit_line": "Mr. and Mrs. William B. Ansted, Jr. Art Fund", 
-    "cultures": [], 
-    "dimensions": "L: 42 3/4 in. (overall front to hem)\nL: 32 11/16 in. (back to hem)", 
-    "dynasty": null, 
-    "irn": 68339, 
-    "materials": "metallic cellulose acetate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "dress"
+  "publishers": [], 
+  "dimensions": "L: 42 3/4 in. (overall front to hem)\nL: 32 11/16 in. (back to hem)", 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. William B. Ansted, Jr. Art Fund", 
+  "accession_number": "2010.34", 
+  "title": "dress", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283389, 
+  "creation_date": "about 1983", 
+  "materials": "metallic cellulose acetate", 
+  "actors": [
+    {
+      "name": "Mariuccia Mandelli", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307871, 
+      "role": "Designer", 
+      "birth_date": "1933", 
+      "nationality": null
+    }, 
+    {
+      "name": "Krizia", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307875, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68339, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

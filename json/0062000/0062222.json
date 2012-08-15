@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.69A-P", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1850", 
-            "death_date": "1904", 
-            "name": "Lafcadio Hearn", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1923", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 1/8 x 5 3/4 in. (each)", 
-    "dynasty": null, 
-    "irn": 62222, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Houghton Mifflin Company"
-        }
-    ], 
-    "rights": null, 
-    "title": "Writings of Lafcadio Hearn"
+  "publishers": [
+    {
+      "name": "Houghton Mifflin Company"
+    }
+  ], 
+  "dimensions": "8 1/8 x 5 3/4 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.69A-P", 
+  "title": "Writings of Lafcadio Hearn", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277577, 
+  "creation_date": "1923", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Lafcadio Hearn", 
+      "after_follower": null, 
+      "death_date": "1904", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306333, 
+      "role": "Author", 
+      "birth_date": "1850", 
+      "nationality": null
+    }
+  ], 
+  "irn": 62222, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

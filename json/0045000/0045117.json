@@ -1,26 +1,30 @@
 {
-    "accession_number": "63.216", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1876", 
-            "death_date": "1952", 
-            "name": "Robinson, Boardman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1939", 
-    "credit_line": "Gift of Mr. and Mrs. Joseph Cantor", 
-    "cultures": [], 
-    "dimensions": "12 1/8 x 16 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 45117, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Horse Auction"
+  "publishers": [], 
+  "dimensions": "12 1/8 x 16 1/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Joseph Cantor", 
+  "accession_number": "63.216", 
+  "title": "Horse Auction", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253549, 
+  "creation_date": "1939", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Robinson, Boardman", 
+      "after_follower": null, 
+      "death_date": "1952", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305143, 
+      "role": "Artist", 
+      "birth_date": "1876", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45117, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

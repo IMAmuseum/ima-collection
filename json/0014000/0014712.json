@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.283", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "1940", 
-            "name": "Waugh, Frederick Judd", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1924", 
-    "credit_line": "Alice Finch Bequest", 
-    "cultures": [], 
-    "dimensions": "36 x 38 in.\n40 1/8 x 42 1/8 in.", 
-    "dynasty": null, 
-    "irn": 14712, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Next Wave"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "36 x 38 in.\n40 1/8 x 42 1/8 in.", 
+  "title": "The Next Wave", 
+  "accession_number": "25.283", 
+  "credit_line": "Alice Finch Bequest", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166399, 
+  "creation_date": "1924", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Waugh, Frederick Judd", 
+      "after_follower": null, 
+      "death_date": "1940", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296715, 
+      "role": "Artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14712, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

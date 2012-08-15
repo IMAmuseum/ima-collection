@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.213", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1720", 
-            "death_date": "1778", 
-            "name": "Piranesi, Giovanni Battista", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1762", 
-    "credit_line": "Given in memory of Cora Tama Lindamood by her grandson Richard Lindamood Warrum", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11345, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ruins of the Senaculum"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Ruins of the Senaculum", 
+  "accession_number": "75.213", 
+  "credit_line": "Given in memory of Cora Tama Lindamood by her grandson Richard Lindamood Warrum", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18158279, 
+  "creation_date": "1762", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Piranesi, Giovanni Battista", 
+      "after_follower": null, 
+      "death_date": "1778", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296039, 
+      "role": "Artist", 
+      "birth_date": "1720", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11345, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

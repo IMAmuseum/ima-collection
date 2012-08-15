@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.400", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1920", 
-            "death_date": "1984", 
-            "name": "Ernst, Jimmy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Dr. Owen Berger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3435, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Untitled"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": null, 
+  "title": "Untitled", 
+  "accession_number": "77.400", 
+  "credit_line": "Gift of Dr. Owen Berger", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18139429, 
+  "creation_date": "1970", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Ernst, Jimmy", 
+      "after_follower": null, 
+      "death_date": "1984", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296383, 
+      "role": "Artist", 
+      "birth_date": "1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3435, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.64A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1988", 
-            "name": "Noguchi, Isamu", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Herman Miller Furniture Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1948", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "2 3/4 x 50 x 18 in.", 
-    "dynasty": null, 
-    "irn": 23485, 
-    "materials": "birch, glass, and aluminum", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Isamu Noguchi Foundation and Garden Museum, New York/Artists Rights Society (ARS), New York", 
-    "title": "IN-50 coffee table"
+  "publishers": [], 
+  "dimensions": "2 3/4 x 50 x 18 in.", 
+  "rights": "\u00a9 The Isamu Noguchi Foundation and Garden Museum, New York/Artists Rights Society (ARS), New York", 
+  "credit_line": "Museum Accession", 
+  "accession_number": "2011.64A-B", 
+  "title": "IN-50 coffee table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200871, 
+  "creation_date": "1948", 
+  "materials": "birch, glass, and aluminum", 
+  "actors": [
+    {
+      "name": "Noguchi, Isamu", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297873, 
+      "role": "Artist", 
+      "birth_date": "1904", 
+      "nationality": null
+    }, 
+    {
+      "name": "Herman Miller Furniture Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301627, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 23485, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

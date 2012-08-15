@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.46", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Starck, Philippe", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Alessi S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Gift of Dr. Michael Sze", 
-    "cultures": [], 
-    "dimensions": "L: 17 1/4 in.", 
-    "dynasty": null, 
-    "irn": 66435, 
-    "materials": "plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Philippe Starck", 
-    "title": "Dr. Skud Flyswatter (orange)"
+  "publishers": [], 
+  "dimensions": "L: 17 1/4 in.", 
+  "rights": "\u00a9 Philippe Starck", 
+  "credit_line": "Gift of Dr. Michael Sze", 
+  "accession_number": "2009.46", 
+  "title": "Dr. Skud Flyswatter (orange)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280835, 
+  "creation_date": "1998", 
+  "materials": "plastic", 
+  "actors": [
+    {
+      "name": "Starck, Philippe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306863, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "Alessi S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304005, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 66435, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

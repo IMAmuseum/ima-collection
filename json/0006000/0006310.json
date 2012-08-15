@@ -1,26 +1,30 @@
 {
-    "accession_number": "61.139B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": null, 
-            "name": "Garo Z. Antreasian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1961", 
-    "credit_line": "Gift of Mrs. Anton Hulman, Jr.", 
-    "cultures": [], 
-    "dimensions": "30 x 22 1/4 in (sheet)", 
-    "dynasty": null, 
-    "irn": 6310, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Garo Antreatsian", 
-    "title": "Colophon"
+  "publishers": [], 
+  "rights": "\u00a9 Garo Antreatsian", 
+  "dimensions": "30 x 22 1/4 in (sheet)", 
+  "title": "Colophon", 
+  "accession_number": "61.139B", 
+  "credit_line": "Gift of Mrs. Anton Hulman, Jr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18146211, 
+  "creation_date": "1961", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Garo Z. Antreasian", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294693, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6310, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "04.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1873", 
-            "death_date": "1940", 
-            "name": "Scudder, Janet", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1903", 
-    "credit_line": "Gift of the Artist", 
-    "cultures": [], 
-    "dimensions": "4.5 x 3.75 x .125 in.", 
-    "dynasty": null, 
-    "irn": 34830, 
-    "materials": "silver", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait Medallion"
+  "publishers": [], 
+  "dimensions": "4.5 x 3.75 x .125 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Artist", 
+  "accession_number": "04.12", 
+  "title": "Portrait Medallion", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227275, 
+  "creation_date": "1903", 
+  "materials": "silver", 
+  "actors": [
+    {
+      "name": "Scudder, Janet", 
+      "after_follower": null, 
+      "death_date": "1940", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296199, 
+      "role": "Artist", 
+      "birth_date": "1873", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34830, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

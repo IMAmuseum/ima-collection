@@ -1,26 +1,30 @@
 {
-    "accession_number": "S1715.76.58", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1966", 
-            "name": "Carlsen, Dines", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1946", 
-    "credit_line": "Purchased from the Estate of Florence B.G.S. Carlsen, wife of the artist, Gift of Mr. and Mrs. Samuel Krasney, Mr. and Mrs. Sol Roth and Dr. Gilbert Erlechman", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23852, 
-    "materials": "charcoal on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "El Cathedral de Santa Prisca, Taxco, Guerrero, Mexico"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Purchased from the Estate of Florence B.G.S. Carlsen, wife of the artist, Gift of Mr. and Mrs. Samuel Krasney, Mr. and Mrs. Sol Roth and Dr. Gilbert Erlechman", 
+  "accession_number": "S1715.76.58", 
+  "title": "El Cathedral de Santa Prisca, Taxco, Guerrero, Mexico", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18201741, 
+  "creation_date": "1946", 
+  "materials": "charcoal on off-white paper", 
+  "actors": [
+    {
+      "name": "Carlsen, Dines", 
+      "after_follower": null, 
+      "death_date": "1966", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294777, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23852, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

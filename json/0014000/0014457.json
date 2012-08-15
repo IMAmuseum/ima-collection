@@ -1,34 +1,40 @@
 {
-    "accession_number": "C10010", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1589", 
-            "death_date": "1626", 
-            "name": "Govaerts, Abraham", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1585", 
-            "death_date": "1632", 
-            "name": "Francken, Ambrosius, II", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1615-1620", 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "21 1/4 x 31 1/2 in.", 
-    "dynasty": null, 
-    "irn": 14457, 
-    "materials": "oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Virgin and Child in a Wooded Landscape"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "21 1/4 x 31 1/2 in.", 
+  "title": "Virgin and Child in a Wooded Landscape", 
+  "accession_number": "C10010", 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165827, 
+  "creation_date": "about 1615-1620", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Govaerts, Abraham", 
+      "after_follower": null, 
+      "death_date": "1626", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299629, 
+      "role": "Artist", 
+      "birth_date": "1589", 
+      "nationality": null
+    }, 
+    {
+      "name": "Francken, Ambrosius, II", 
+      "after_follower": null, 
+      "death_date": "1632", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299633, 
+      "role": "Artist", 
+      "birth_date": "1585", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14457, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

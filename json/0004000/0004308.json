@@ -1,26 +1,30 @@
 {
-    "accession_number": "1997.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1736", 
-            "death_date": "1810", 
-            "name": "Boissieu, Jean Jacques de", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1790", 
-    "credit_line": "McKee Fine Arts Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "10 1/4 x 15 1/4 in.", 
-    "dynasty": null, 
-    "irn": 4308, 
-    "materials": "etching and roulette", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L'Ecrivain Public"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "10 1/4 x 15 1/4 in.", 
+  "title": "L'Ecrivain Public", 
+  "accession_number": "1997.26", 
+  "credit_line": "McKee Fine Arts Purchase Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18141495, 
+  "creation_date": "1790", 
+  "materials": "etching and roulette", 
+  "actors": [
+    {
+      "name": "Boissieu, Jean Jacques de", 
+      "after_follower": null, 
+      "death_date": "1810", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296345, 
+      "role": "Artist", 
+      "birth_date": "1736", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4308, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

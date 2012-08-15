@@ -1,34 +1,40 @@
 {
-    "accession_number": "20.87", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1896", 
-            "name": "Morris, William", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": null, 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1877", 
-    "credit_line": "Gift of Charity Dye", 
-    "cultures": [], 
-    "dimensions": "37 1/2 x 21 in. |  95.3 x 53.3 cm.", 
-    "dynasty": null, 
-    "irn": 30553, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "wallpaper sample \"Apple\""
+  "publishers": [], 
+  "dimensions": "37 1/2 x 21 in. |  95.3 x 53.3 cm.", 
+  "rights": null, 
+  "credit_line": "Gift of Charity Dye", 
+  "accession_number": "20.87", 
+  "title": "wallpaper sample \"Apple\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18217397, 
+  "creation_date": "1877", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Morris, William", 
+      "after_follower": null, 
+      "death_date": "1896", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296011, 
+      "role": "Designer", 
+      "birth_date": "1834", 
+      "nationality": null
+    }, 
+    {
+      "name": null, 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295437, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 30553, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

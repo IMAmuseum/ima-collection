@@ -1,26 +1,30 @@
 {
-    "accession_number": "61.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1633", 
-            "death_date": "1707", 
-            "name": "Velde, Willem van de, II", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1665", 
-    "credit_line": "James V. Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8636, 
-    "materials": "pen, ink, and grey ink wash on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fleet in the Helder"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Fleet in the Helder", 
+  "accession_number": "61.1", 
+  "credit_line": "James V. Sweetser Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151723, 
+  "creation_date": "1665", 
+  "materials": "pen, ink, and grey ink wash on off-white paper", 
+  "actors": [
+    {
+      "name": "Velde, Willem van de, II", 
+      "after_follower": null, 
+      "death_date": "1707", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298079, 
+      "role": "Artist", 
+      "birth_date": "1633", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8636, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

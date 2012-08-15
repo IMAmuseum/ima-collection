@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.89", 
-    "actors": [
-        {
-            "after_follower": "After", 
-            "birth_date": "1470", 
-            "death_date": "1524", 
-            "name": "Tang Yin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 37000, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "travellers in a riverside village"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
+  "accession_number": "78.89", 
+  "title": "travellers in a riverside village", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232263, 
+  "creation_date": null, 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Tang Yin", 
+      "after_follower": "After", 
+      "death_date": "1524", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295383, 
+      "role": "Artist", 
+      "birth_date": "1470", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37000, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

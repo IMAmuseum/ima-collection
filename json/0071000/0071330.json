@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.277", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1902", 
-            "death_date": "1973", 
-            "name": "Goren Hongell", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Karhula Glassworks", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1930", 
-    "credit_line": "Gift of Rosemarie Haag Bletter and Martin Filler", 
-    "cultures": [], 
-    "dimensions": "4 3/4 x 6 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 71330, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "bowl"
+  "publishers": [], 
+  "dimensions": "4 3/4 x 6 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Rosemarie Haag Bletter and Martin Filler", 
+  "accession_number": "2010.277", 
+  "title": "bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18286983, 
+  "creation_date": "about 1930", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Goren Hongell", 
+      "after_follower": null, 
+      "death_date": "1973", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308379, 
+      "role": "Designer", 
+      "birth_date": "1902", 
+      "nationality": null
+    }, 
+    {
+      "name": "Karhula Glassworks", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308383, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71330, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

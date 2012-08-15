@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.123C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1700", 
-            "death_date": "1766", 
-            "name": "Worlidge, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34000, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Cock"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.123C", 
+  "title": "A Cock", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18225357, 
+  "creation_date": "18th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Worlidge, Thomas", 
+      "after_follower": null, 
+      "death_date": "1766", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295207, 
+      "role": "Artist", 
+      "birth_date": "1700", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34000, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.58", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bayot, Adolphe Jean-Baptiste", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1678, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ruinas del Palacio Llamado de Galiana en les Huertas del Rey de Toledo"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Ruinas del Palacio Llamado de Galiana en les Huertas del Rey de Toledo", 
+  "accession_number": "09.58", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135291, 
+  "creation_date": "19th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Bayot, Adolphe Jean-Baptiste", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295611, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1678, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

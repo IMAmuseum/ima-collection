@@ -1,26 +1,30 @@
 {
-    "accession_number": "62.131", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1592", 
-            "death_date": "1635", 
-            "name": "Callot, Jacques", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Mr. T. Victor Keene", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 704, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Martyrdom of St. Lawrence"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Martyrdom of St. Lawrence", 
+  "accession_number": "62.131", 
+  "credit_line": "Gift of Mr. T. Victor Keene", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132887, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Callot, Jacques", 
+      "after_follower": null, 
+      "death_date": "1635", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295121, 
+      "role": "Artist", 
+      "birth_date": "1592", 
+      "nationality": null
+    }
+  ], 
+  "irn": 704, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

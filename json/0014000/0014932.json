@@ -1,26 +1,30 @@
 {
-    "accession_number": "48.89", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1892", 
-            "death_date": "1964", 
-            "name": "Davis, Stuart", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1939", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "13 x 17 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 14932, 
-    "materials": "screen print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of Stuart Davis/Licensed by VAGA, New York, NY", 
-    "title": "Bass Rocks"
+  "publishers": [], 
+  "rights": "\u00a9 Estate of Stuart Davis/Licensed by VAGA, New York, NY", 
+  "dimensions": "13 x 17 1/8 in. (sheet)", 
+  "title": "Bass Rocks", 
+  "accession_number": "48.89", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166941, 
+  "creation_date": "1939", 
+  "materials": "screen print", 
+  "actors": [
+    {
+      "name": "Davis, Stuart", 
+      "after_follower": null, 
+      "death_date": "1964", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299753, 
+      "role": "Artist", 
+      "birth_date": "1892", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14932, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

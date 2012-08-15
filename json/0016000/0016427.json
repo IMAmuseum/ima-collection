@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.98", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kimie Iijima", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "late 1900s", 
-    "credit_line": "Gift of Kimie Iijima", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16427, 
-    "materials": "wood, silk, paper, ink, metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "screen with poems from \"New Collection of Ancient and Modern Poems\""
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "screen with poems from \"New Collection of Ancient and Modern Poems\"", 
+  "accession_number": "1999.98", 
+  "credit_line": "Gift of Kimie Iijima", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170621, 
+  "creation_date": "late 1900s", 
+  "materials": "wood, silk, paper, ink, metal", 
+  "actors": [
+    {
+      "name": "Kimie Iijima", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300167, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 16427, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

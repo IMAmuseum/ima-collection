@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1592.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1805", 
-            "death_date": "1889", 
-            "name": "Forrest, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1836", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41010, 
-    "materials": "engraving on plain paper with hand-coloring", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Allanton, Lanarkshire"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1592.1", 
+  "title": "Allanton, Lanarkshire", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243413, 
+  "creation_date": "1836", 
+  "materials": "engraving on plain paper with hand-coloring", 
+  "actors": [
+    {
+      "name": "Forrest, William", 
+      "after_follower": null, 
+      "death_date": "1889", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304753, 
+      "role": "Engraver", 
+      "birth_date": "1805", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41010, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

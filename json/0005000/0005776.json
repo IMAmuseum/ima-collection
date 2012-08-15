@@ -1,26 +1,30 @@
 {
-    "accession_number": "05.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1471", 
-            "death_date": "1528", 
-            "name": "D\u00fcrer, Albrecht", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1496", 
-    "credit_line": "Gift of Mrs. E. F. Hodges", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5776, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Lamentation"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Lamentation", 
+  "accession_number": "05.3", 
+  "credit_line": "Gift of Mrs. E. F. Hodges", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144933, 
+  "creation_date": "about 1496", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "D\u00fcrer, Albrecht", 
+      "after_follower": null, 
+      "death_date": "1528", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297251, 
+      "role": "Artist", 
+      "birth_date": "1471", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5776, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

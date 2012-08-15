@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1886", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1748", 
-            "death_date": "1804", 
-            "name": "Malton, Thomas, II", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1795", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "12 x 9 1/16 in (image) \n15 x 11 1/4 in (sheet)", 
-    "dynasty": null, 
-    "irn": 42274, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Adelphi Terrace"
+  "publishers": [], 
+  "dimensions": "12 x 9 1/16 in (image) \n15 x 11 1/4 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1886", 
+  "title": "The Adelphi Terrace", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18246921, 
+  "creation_date": "1795", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Malton, Thomas, II", 
+      "after_follower": null, 
+      "death_date": "1804", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304927, 
+      "role": "Artist", 
+      "birth_date": "1748", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42274, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

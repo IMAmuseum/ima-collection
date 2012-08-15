@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.133", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1898", 
-            "death_date": "1954", 
-            "name": "Marsh, Reginald", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1928", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": "12 1/2 x 8 1/2 in. (image)", 
-    "dynasty": null, 
-    "irn": 32072, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Rue St. Jacques"
+  "publishers": [], 
+  "dimensions": "12 1/2 x 8 1/2 in. (image)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of the Gamboliers", 
+  "accession_number": "32.133", 
+  "title": "Rue St. Jacques", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220839, 
+  "creation_date": "1928", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Marsh, Reginald", 
+      "after_follower": null, 
+      "death_date": "1954", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297121, 
+      "role": "Artist", 
+      "birth_date": "1898", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32072, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

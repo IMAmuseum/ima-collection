@@ -1,26 +1,30 @@
 {
-    "accession_number": "61.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1893", 
-            "death_date": "1959", 
-            "name": "Grosz, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1920-1921", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 29956, 
-    "materials": "photolithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Inflation"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "61.4", 
+  "title": "Inflation", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18215969, 
+  "creation_date": "1920-1921", 
+  "materials": "photolithograph", 
+  "actors": [
+    {
+      "name": "Grosz, George", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300635, 
+      "role": "Artist", 
+      "birth_date": "1893", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29956, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

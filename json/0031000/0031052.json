@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.246", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1768", 
-            "death_date": "1839", 
-            "name": "Voogd, Hendrik", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1820", 
-    "credit_line": "Lucy M. Taggart Estate", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 31052, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Two Trees"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Lucy M. Taggart Estate", 
+  "accession_number": "60.246", 
+  "title": "Two Trees", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18218543, 
+  "creation_date": "1820", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Voogd, Hendrik", 
+      "after_follower": null, 
+      "death_date": "1839", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295867, 
+      "role": "Artist", 
+      "birth_date": "1768", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31052, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

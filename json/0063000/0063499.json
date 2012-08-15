@@ -1,26 +1,30 @@
 {
-    "accession_number": "2006.29", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1971", 
-            "name": "Mead, Roderick Fletcher", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "6 5/16 x 13 13/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 63499, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Roderick Fletcher Mead", 
-    "title": "Family Group"
+  "publishers": [], 
+  "dimensions": "6 5/16 x 13 13/16 in. (sheet)", 
+  "rights": "\u00a9 Roderick Fletcher Mead", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2006.29", 
+  "title": "Family Group", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278563, 
+  "creation_date": null, 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Mead, Roderick Fletcher", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306517, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63499, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

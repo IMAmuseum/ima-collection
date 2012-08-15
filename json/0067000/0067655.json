@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.534.3A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1959", 
-            "death_date": null, 
-            "name": "Tom Dixon", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Eurolounge", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1997", 
-    "credit_line": "Gift of Inflate Products Ltd.", 
-    "cultures": [], 
-    "dimensions": "21 x 21 x 21 in.", 
-    "dynasty": null, 
-    "irn": 67655, 
-    "materials": "polyethylene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Tom Dixon", 
-    "title": "Jack Light chair (blue)"
+  "publishers": [], 
+  "dimensions": "21 x 21 x 21 in.", 
+  "rights": "\u00a9 Tom Dixon", 
+  "credit_line": "Gift of Inflate Products Ltd.", 
+  "accession_number": "2009.534.3A-B", 
+  "title": "Jack Light chair (blue)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282927, 
+  "creation_date": "1997", 
+  "materials": "polyethylene", 
+  "actors": [
+    {
+      "name": "Tom Dixon", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306897, 
+      "role": "Designer", 
+      "birth_date": "1959", 
+      "nationality": null
+    }, 
+    {
+      "name": "Eurolounge", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306899, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67655, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

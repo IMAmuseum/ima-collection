@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.280A-D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": null, 
-            "name": "Richard Sapper", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Alessi S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Gift of Form + Function", 
-    "cultures": [], 
-    "dimensions": "Overall) 15 1/2 x 9 1/4 x 9 3/4 in.\nA) machine: 9 1/4 x 9 1/4 x 9 3/4 in.\nB) grate: 1/16 x 8 3/4 x 3 7/8 in.\nC) filter: 2 x 7 x 2 1/2 in.\nD) reservoir: 7 1/4 x 4 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 73768, 
-    "materials": "aluminum, chrome, and anthracite", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Coban RS05 Nespresso Espresso Machine"
+  "publishers": [], 
+  "dimensions": "Overall) 15 1/2 x 9 1/4 x 9 3/4 in.\nA) machine: 9 1/4 x 9 1/4 x 9 3/4 in.\nB) grate: 1/16 x 8 3/4 x 3 7/8 in.\nC) filter: 2 x 7 x 2 1/2 in.\nD) reservoir: 7 1/4 x 4 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Form + Function", 
+  "accession_number": "2011.280A-D", 
+  "title": "Coban RS05 Nespresso Espresso Machine", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288213, 
+  "creation_date": "1998", 
+  "materials": "aluminum, chrome, and anthracite", 
+  "actors": [
+    {
+      "name": "Richard Sapper", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300501, 
+      "role": "Designer", 
+      "birth_date": "1932", 
+      "nationality": null
+    }, 
+    {
+      "name": "Alessi S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304005, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 73768, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.349", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1758", 
-            "death_date": "1835", 
-            "name": "Fittler, James", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5072, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Plague"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Plague", 
+  "accession_number": "09.349", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143281, 
+  "creation_date": "19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Fittler, James", 
+      "after_follower": null, 
+      "death_date": "1835", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296659, 
+      "role": "Artist", 
+      "birth_date": "1758", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5072, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

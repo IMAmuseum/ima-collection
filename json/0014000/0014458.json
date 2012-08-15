@@ -1,34 +1,40 @@
 {
-    "accession_number": "C10009", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1644", 
-            "death_date": "1711", 
-            "name": "Boudewyns, Adriaen Frans", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1658", 
-            "death_date": "1719", 
-            "name": "Bout, Peeter", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "10 1/4 x 16 1/2 in.", 
-    "dynasty": null, 
-    "irn": 14458, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Market Day"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "10 1/4 x 16 1/2 in.", 
+  "title": "Market Day", 
+  "accession_number": "C10009", 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165829, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Boudewyns, Adriaen Frans", 
+      "after_follower": null, 
+      "death_date": "1711", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299635, 
+      "role": "Artist", 
+      "birth_date": "1644", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bout, Peeter", 
+      "after_follower": null, 
+      "death_date": "1719", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299639, 
+      "role": "Artist", 
+      "birth_date": "1658", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14458, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

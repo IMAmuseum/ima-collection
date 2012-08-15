@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.64", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1782", 
-            "death_date": "1861", 
-            "name": "Purcell, Edward", 
-            "nationality": "English", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34942, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cows in Brock"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.64", 
+  "title": "Cows in Brock", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227535, 
+  "creation_date": "19th century", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Purcell, Edward", 
+      "after_follower": null, 
+      "death_date": "1861", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303661, 
+      "role": "Artist", 
+      "birth_date": "1782", 
+      "nationality": "English"
+    }
+  ], 
+  "irn": 34942, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

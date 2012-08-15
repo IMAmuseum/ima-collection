@@ -1,34 +1,40 @@
 {
-    "accession_number": "2003.67", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1918", 
-            "death_date": null, 
-            "name": "Adams, Clinton", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1897", 
-            "death_date": null, 
-            "name": "Kistler, Lynton R.", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1950", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant and in honor of Joan D. Weisenberger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60822, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Silver Bottle"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant and in honor of Joan D. Weisenberger", 
+  "accession_number": "2003.67", 
+  "title": "Silver Bottle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276701, 
+  "creation_date": "1950", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Adams, Clinton", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298131, 
+      "role": "Artist", 
+      "birth_date": "1918", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kistler, Lynton R.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303217, 
+      "role": "Printer", 
+      "birth_date": "1897", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60822, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

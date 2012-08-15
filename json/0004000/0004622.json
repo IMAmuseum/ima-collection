@@ -1,26 +1,30 @@
 {
-    "accession_number": "10.252", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1971", 
-            "name": "Baumann, Gustave", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1910", 
-    "credit_line": "Gift of Fred A. Hetherington", 
-    "cultures": [], 
-    "dimensions": "9 1/8 x 13 1/8 in. (image)\n10 1/4 x 13 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 4622, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gustave Baumann", 
-    "title": "An Evening Chat"
+  "publishers": [], 
+  "rights": "\u00a9 Gustave Baumann", 
+  "dimensions": "9 1/8 x 13 1/8 in. (image)\n10 1/4 x 13 7/8 in. (sheet)", 
+  "title": "An Evening Chat", 
+  "accession_number": "10.252", 
+  "credit_line": "Gift of Fred A. Hetherington", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142233, 
+  "creation_date": "1910", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Baumann, Gustave", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295839, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4622, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

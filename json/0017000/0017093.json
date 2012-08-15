@@ -1,34 +1,40 @@
 {
-    "accession_number": "32.200A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "L.S. Ayres and Co.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "L.S. Ayres and Co.", 
-            "nationality": null, 
-            "role": "Retailer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Addison C. Harris", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 17093, 
-    "materials": "satin | Rhinestone Pins", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "SLIPPERS"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Addison C. Harris", 
+  "accession_number": "32.200A-B", 
+  "title": "SLIPPERS", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18172399, 
+  "creation_date": null, 
+  "materials": "satin | Rhinestone Pins", 
+  "actors": [
+    {
+      "name": "L.S. Ayres and Co.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296213, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "L.S. Ayres and Co.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296213, 
+      "role": "Retailer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 17093, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

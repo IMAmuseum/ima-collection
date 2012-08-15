@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.45.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1700", 
-            "death_date": "1766", 
-            "name": "Worlidge, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1796", 
-    "credit_line": "Gift of Mr. T. Victor Keene", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 31713, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "head of a boy"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. T. Victor Keene", 
+  "accession_number": "70.45.3", 
+  "title": "head of a boy", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220015, 
+  "creation_date": "1796", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Worlidge, Thomas", 
+      "after_follower": null, 
+      "death_date": "1766", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295207, 
+      "role": "Artist", 
+      "birth_date": "1700", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31713, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

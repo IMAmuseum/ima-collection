@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1502", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1882", 
-            "name": "Miller, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "4 1/4 x 3 1/2 in. (image)\n13 x 8 1/2 in. (sheet)\n9 7/8 x 5 7/8 in. (plate)", 
-    "dynasty": null, 
-    "irn": 40869, 
-    "materials": "engraving touched with white and pencil", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "New Abbey near Dumfries"
+  "publishers": [], 
+  "dimensions": "4 1/4 x 3 1/2 in. (image)\n13 x 8 1/2 in. (sheet)\n9 7/8 x 5 7/8 in. (plate)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1502", 
+  "title": "New Abbey near Dumfries", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243031, 
+  "creation_date": "1833", 
+  "materials": "engraving touched with white and pencil", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Miller, William", 
+      "after_follower": null, 
+      "death_date": "1882", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299379, 
+      "role": "Engraver", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40869, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

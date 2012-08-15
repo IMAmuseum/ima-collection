@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.198", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1923", 
-            "death_date": null, 
-            "name": "Richard Davis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1980", 
-    "credit_line": "Gift of the Artist", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45754, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dr. Harold Joachim"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Artist", 
+  "accession_number": "2001.198", 
+  "title": "Dr. Harold Joachim", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18255041, 
+  "creation_date": "1980", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "Richard Davis", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304319, 
+      "role": "Artist", 
+      "birth_date": "1923", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45754, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

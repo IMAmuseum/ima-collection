@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.252", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1695", 
-            "death_date": "1760", 
-            "name": "Manglard, Adrien", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1753", 
-    "credit_line": "Gift of Mrs. Hiram W. McKee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 21965, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "La Galere"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Hiram W. McKee", 
+  "accession_number": "80.252", 
+  "title": "La Galere", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18197329, 
+  "creation_date": "1753", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Manglard, Adrien", 
+      "after_follower": null, 
+      "death_date": "1760", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301319, 
+      "role": "Artist", 
+      "birth_date": "1695", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21965, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

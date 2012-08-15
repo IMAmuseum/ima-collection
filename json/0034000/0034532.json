@@ -1,26 +1,30 @@
 {
-    "accession_number": "1991.42", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1926", 
-            "name": "Louis Majorelle", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1900", 
-    "credit_line": "Purchased in memory of Josephine Cowgill Jameson (Mrs. Booth Tarkington Jameson) by the Alliance of the Indianapolis Museum of Art and the Josephine Cowgill Jameson Fund", 
-    "cultures": [], 
-    "dimensions": "71 5/8 x 23 1/4 x 18 1/8 in.", 
-    "dynasty": null, 
-    "irn": 34532, 
-    "materials": "kingwood, mahogany, amaranth, metal, silk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "cabinet"
+  "publishers": [], 
+  "dimensions": "71 5/8 x 23 1/4 x 18 1/8 in.", 
+  "rights": null, 
+  "credit_line": "Purchased in memory of Josephine Cowgill Jameson (Mrs. Booth Tarkington Jameson) by the Alliance of the Indianapolis Museum of Art and the Josephine Cowgill Jameson Fund", 
+  "accession_number": "1991.42", 
+  "title": "cabinet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18226581, 
+  "creation_date": "about 1900", 
+  "materials": "kingwood, mahogany, amaranth, metal, silk", 
+  "actors": [
+    {
+      "name": "Louis Majorelle", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303589, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34532, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

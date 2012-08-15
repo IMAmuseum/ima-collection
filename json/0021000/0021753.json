@@ -1,34 +1,40 @@
 {
-    "accession_number": "24.349", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Hedouin, Edmond", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1907", 
-            "name": "Del\u00e2tre, Auguste", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of the Children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 21753, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Glaneuses a Chambaudoin"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Children of Thomas E. Hibben", 
+  "accession_number": "24.349", 
+  "title": "Glaneuses a Chambaudoin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18196873, 
+  "creation_date": "19th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Hedouin, Edmond", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301283, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Del\u00e2tre, Auguste", 
+      "after_follower": null, 
+      "death_date": "1907", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294903, 
+      "role": "Printer", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21753, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

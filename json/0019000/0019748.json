@@ -1,38 +1,44 @@
 {
-    "accession_number": "11.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1768", 
-            "death_date": "1834", 
-            "name": "Say, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1814", 
-    "credit_line": "Purchased from the John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19748, 
-    "materials": "mezzotint over etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Joseph Mallord William Turner"
-        }
-    ], 
-    "rights": null, 
-    "title": "Near Blair Athol, Scotland"
+  "publishers": [
+    {
+      "name": "Joseph Mallord William Turner"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Purchased from the John Herron Fund", 
+  "accession_number": "11.32", 
+  "title": "Near Blair Athol, Scotland", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192319, 
+  "creation_date": "1814", 
+  "materials": "mezzotint over etching", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Say, William", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294873, 
+      "role": "Artist", 
+      "birth_date": "1768", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19748, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

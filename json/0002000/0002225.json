@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.121.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1813", 
-            "death_date": "1880", 
-            "name": "Compte-Calix, Francois Claudius", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Anonymous Gift in Memory of Carl J. Weinhardt, Sr.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2225, 
-    "materials": "charcoal on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna and Child"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Madonna and Child", 
+  "accession_number": "70.121.10", 
+  "credit_line": "Anonymous Gift in Memory of Carl J. Weinhardt, Sr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136609, 
+  "creation_date": "19th century", 
+  "materials": "charcoal on paper", 
+  "actors": [
+    {
+      "name": "Compte-Calix, Francois Claudius", 
+      "after_follower": null, 
+      "death_date": "1880", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295885, 
+      "role": "Artist", 
+      "birth_date": "1813", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2225, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

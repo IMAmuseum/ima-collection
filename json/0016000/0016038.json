@@ -1,33 +1,37 @@
 {
-    "accession_number": "06.134", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1833-1834", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "8 7/8 x 13 7/8 in. (image)\nSheet trimmed to margin all around", 
-    "dynasty": null, 
-    "irn": 16038, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": null
-        }, 
-        {
-            "name": "Takenouchi Magohachi"
-        }
-    ], 
-    "rights": null, 
-    "title": "Futakawa"
+  "publishers": [
+    {
+      "name": null
+    }, 
+    {
+      "name": "Takenouchi Magohachi"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "8 7/8 x 13 7/8 in. (image)\nSheet trimmed to margin all around", 
+  "title": "Futakawa", 
+  "accession_number": "06.134", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18169415, 
+  "creation_date": "1833-1834", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16038, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.641", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": null, 
-            "name": "Ingo Maurer", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ingo Maurer GmbH", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1994", 
-    "credit_line": "Gift of David A. Hanks in honor of Marilynn Johnson", 
-    "cultures": [], 
-    "dimensions": "H: 25 in. (extended)", 
-    "dynasty": null, 
-    "irn": 68330, 
-    "materials": "stainless steel and aluminum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Los Minimalos Uno table lamp"
+  "publishers": [], 
+  "dimensions": "H: 25 in. (extended)", 
+  "rights": null, 
+  "credit_line": "Gift of David A. Hanks in honor of Marilynn Johnson", 
+  "accession_number": "2009.641", 
+  "title": "Los Minimalos Uno table lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283365, 
+  "creation_date": "1994", 
+  "materials": "stainless steel and aluminum", 
+  "actors": [
+    {
+      "name": "Ingo Maurer", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307863, 
+      "role": "Designer", 
+      "birth_date": "1932", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ingo Maurer GmbH", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307865, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68330, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

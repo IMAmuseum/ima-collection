@@ -1,26 +1,30 @@
 {
-    "accession_number": "18.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860", 
-            "death_date": "1926", 
-            "name": "Pennell, Joseph", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Gift of the Contemporary Club", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3779, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Shell Factory No. 1"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Shell Factory No. 1", 
+  "accession_number": "18.2", 
+  "credit_line": "Gift of the Contemporary Club", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140281, 
+  "creation_date": "20th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Pennell, Joseph", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295161, 
+      "role": "Artist", 
+      "birth_date": "1860", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3779, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

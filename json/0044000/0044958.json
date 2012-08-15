@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.47.23B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1927", 
-            "name": "Adams, John Ottis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1885", 
-    "credit_line": "Gift of Mrs. John A. Adams", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 44958, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Unterschleissheim"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. John A. Adams", 
+  "accession_number": "73.47.23B", 
+  "title": "Unterschleissheim", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253207, 
+  "creation_date": "about 1885", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Adams, John Ottis", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295417, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 44958, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.510.1-.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1950", 
-            "death_date": null, 
-            "name": "Citterio, Antonio", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Iittala", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Anonymous Endowed Decorative Art Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 64651, 
-    "materials": "steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Antonio Citterio", 
-    "title": "Citterio 98"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Antonio Citterio", 
+  "credit_line": "Anonymous Endowed Decorative Art Fund", 
+  "accession_number": "2009.510.1-.9", 
+  "title": "Citterio 98", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279143, 
+  "creation_date": "1998", 
+  "materials": "steel", 
+  "actors": [
+    {
+      "name": "Citterio, Antonio", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306841, 
+      "role": "Designer", 
+      "birth_date": "1950", 
+      "nationality": null
+    }, 
+    {
+      "name": "Iittala", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306847, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64651, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

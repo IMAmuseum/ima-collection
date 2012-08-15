@@ -1,26 +1,30 @@
 {
-    "accession_number": "14.55", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "1884", 
-            "name": "Charles J. Fiscus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Artist's mother, Mrs. E. J. Fiscus", 
-    "cultures": [], 
-    "dimensions": "27 x 16 in.\n34 1/2 x 24 in. (framed)", 
-    "dynasty": null, 
-    "irn": 1065, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cornor of the Studio"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "27 x 16 in.\n34 1/2 x 24 in. (framed)", 
+  "title": "Cornor of the Studio", 
+  "accession_number": "14.55", 
+  "credit_line": "Gift of the Artist's mother, Mrs. E. J. Fiscus", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133783, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Charles J. Fiscus", 
+      "after_follower": null, 
+      "death_date": "1884", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295325, 
+      "role": "Artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1065, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1993.21", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1833", 
-            "death_date": "1914", 
-            "name": "Bracquemond, F\u00e9lix", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1868", 
-    "credit_line": "Gift of Mrs. Hiram W. McKee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28977, 
-    "materials": "watercolor over pencil on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Saw Mill at Bas-Meudon"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Hiram W. McKee", 
+  "accession_number": "1993.21", 
+  "title": "The Saw Mill at Bas-Meudon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213665, 
+  "creation_date": "1868", 
+  "materials": "watercolor over pencil on white paper", 
+  "actors": [
+    {
+      "name": "Bracquemond, F\u00e9lix", 
+      "after_follower": null, 
+      "death_date": "1914", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294869, 
+      "role": "Artist", 
+      "birth_date": "1833", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28977, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

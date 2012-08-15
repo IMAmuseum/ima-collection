@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1898", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1804", 
-            "death_date": "1880", 
-            "name": "Cousen, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 42286, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hulks"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1898", 
+  "title": "Hulks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18246955, 
+  "creation_date": null, 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Cousen, John", 
+      "after_follower": null, 
+      "death_date": "1880", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296901, 
+      "role": "Artist", 
+      "birth_date": "1804", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42286, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

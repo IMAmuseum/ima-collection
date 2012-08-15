@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.21", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1606", 
-            "death_date": "1669", 
-            "name": "Rembrandt van Rijn", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1635", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": "4 1/4 x 3 1/8 in.", 
-    "dynasty": null, 
-    "irn": 1924, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Pancake Woman"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "4 1/4 x 3 1/8 in.", 
+  "title": "The Pancake Woman", 
+  "accession_number": "25.21", 
+  "credit_line": "Bequest of Delavan Smith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135905, 
+  "creation_date": "1635", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Rembrandt van Rijn", 
+      "after_follower": null, 
+      "death_date": "1669", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295685, 
+      "role": "Artist", 
+      "birth_date": "1606", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1924, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

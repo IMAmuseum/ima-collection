@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.156", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1907", 
-            "death_date": "2002", 
-            "name": "Rickey, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1973", 
-    "credit_line": "Julius F. Pratt Fund.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7005, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of George Rickey/Licensed by VAGA, New York, NY", 
-    "title": "Untitled"
+  "publishers": [], 
+  "rights": "\u00a9 Estate of George Rickey/Licensed by VAGA, New York, NY", 
+  "dimensions": null, 
+  "title": "Untitled", 
+  "accession_number": "82.156", 
+  "credit_line": "Julius F. Pratt Fund.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147911, 
+  "creation_date": "1973", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Rickey, George", 
+      "after_follower": null, 
+      "death_date": "2002", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296863, 
+      "role": "Artist", 
+      "birth_date": "1907", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7005, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

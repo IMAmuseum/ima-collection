@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.123", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1686", 
-            "death_date": "1786", 
-            "name": "Hepplewhite, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1787", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "6 7/8 X 10 in. (image)\n9 1/4 x 13 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9318, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Confidante"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 7/8 X 10 in. (image)\n9 1/4 x 13 7/8 in. (sheet)", 
+  "title": "Confidante", 
+  "accession_number": "73.2.123", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153461, 
+  "creation_date": "1787", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Hepplewhite, George", 
+      "after_follower": null, 
+      "death_date": "1786", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298299, 
+      "role": "Artist", 
+      "birth_date": "1686", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9318, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

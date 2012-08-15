@@ -1,26 +1,30 @@
 {
-    "accession_number": "06.125", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1718", 
-            "death_date": "1770", 
-            "name": "Suzuki Haranobu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46985, 
-    "materials": "wood block print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "woodblock print"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "06.125", 
+  "title": "woodblock print", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18257799, 
+  "creation_date": null, 
+  "materials": "wood block print", 
+  "actors": [
+    {
+      "name": "Suzuki Haranobu", 
+      "after_follower": null, 
+      "death_date": "1770", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305321, 
+      "role": "Artist", 
+      "birth_date": "1718", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46985, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.830", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1907-1975", 
-            "death_date": "1907-1975", 
-            "name": "Wotruba, Fritz", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1967", 
-    "credit_line": "Gift og Donald L. Thal", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 497, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Untitled", 
+  "accession_number": "79.830", 
+  "credit_line": "Gift og Donald L. Thal", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132353, 
+  "creation_date": "1967", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Wotruba, Fritz", 
+      "after_follower": null, 
+      "death_date": "1907-1975", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294849, 
+      "role": "Artist", 
+      "birth_date": "1907-1975", 
+      "nationality": null
+    }
+  ], 
+  "irn": 497, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

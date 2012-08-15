@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.177", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1746", 
-            "death_date": "1797", 
-            "name": "Heinrich W. Schweickhardt", 
-            "nationality": "German", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1400, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rocky Landscape"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Rocky Landscape", 
+  "accession_number": "09.177", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134613, 
+  "creation_date": "18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Heinrich W. Schweickhardt", 
+      "after_follower": null, 
+      "death_date": "1797", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295503, 
+      "role": "Artist", 
+      "birth_date": "1746", 
+      "nationality": "German"
+    }
+  ], 
+  "irn": 1400, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

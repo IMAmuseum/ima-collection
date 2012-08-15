@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1765", 
-            "death_date": "1822", 
-            "name": "Rullmann, Ludwig", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th Century/EARLY", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2077, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": null
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": null, 
+  "accession_number": "09.1", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136251, 
+  "creation_date": "19th Century/EARLY", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Rullmann, Ludwig", 
+      "after_follower": null, 
+      "death_date": "1822", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295833, 
+      "role": "Artist", 
+      "birth_date": "1765", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2077, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

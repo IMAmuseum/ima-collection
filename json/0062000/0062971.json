@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.10Q-AA", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Rudyard Kipling", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1913-1926", 
-    "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
-    "cultures": [], 
-    "dimensions": "9 5/8 x 6 7/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 62971, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Doubleday, Page & Co."
-        }
-    ], 
-    "rights": null, 
-    "title": "Works of Rudyard Kipling (volumes 17-27)"
+  "publishers": [
+    {
+      "name": "Doubleday, Page & Co."
+    }
+  ], 
+  "dimensions": "9 5/8 x 6 7/8 in. (each)", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
+  "accession_number": "LH2003.10Q-AA", 
+  "title": "Works of Rudyard Kipling (volumes 17-27)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278141, 
+  "creation_date": "1913-1926", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Rudyard Kipling", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306111, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62971, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

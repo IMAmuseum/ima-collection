@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.182", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1818", 
-    "credit_line": "Gift in Memory of Dr. and Mrs. Hugo O. Pantzer by their children.", 
-    "cultures": [], 
-    "dimensions": "6 3/8 x 9 1/2 in. (image and sheet)", 
-    "dynasty": null, 
-    "irn": 22565, 
-    "materials": "watercolor on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Borthwick Castle"
+  "publishers": [], 
+  "dimensions": "6 3/8 x 9 1/2 in. (image and sheet)", 
+  "rights": null, 
+  "credit_line": "Gift in Memory of Dr. and Mrs. Hugo O. Pantzer by their children.", 
+  "accession_number": "72.182", 
+  "title": "Borthwick Castle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18198681, 
+  "creation_date": "1818", 
+  "materials": "watercolor on white paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22565, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

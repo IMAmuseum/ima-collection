@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.353", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1828", 
-            "death_date": "1875", 
-            "name": "Cadart, Alfred", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of the children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10383, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Trop Chaude"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Trop Chaude", 
+  "accession_number": "24.353", 
+  "credit_line": "Gift of the children of Thomas E. Hibben", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155959, 
+  "creation_date": "19th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Cadart, Alfred", 
+      "after_follower": null, 
+      "death_date": "1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295073, 
+      "role": "Printer", 
+      "birth_date": "1828", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10383, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

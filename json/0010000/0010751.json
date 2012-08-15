@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1440", 
-            "death_date": "1520", 
-            "name": "Rondinelli, Nicol\u00f2", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1500", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "30 x 23 1/8 in.", 
-    "dynasty": null, 
-    "irn": 10751, 
-    "materials": "tempera and oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna and Child"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "30 x 23 1/8 in.", 
+  "title": "Madonna and Child", 
+  "accession_number": "24.6", 
+  "credit_line": "James E. Roberts Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156833, 
+  "creation_date": "about 1500", 
+  "materials": "tempera and oil on wood", 
+  "actors": [
+    {
+      "name": "Rondinelli, Nicol\u00f2", 
+      "after_follower": null, 
+      "death_date": "1520", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298685, 
+      "role": "Artist", 
+      "birth_date": "1440", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10751, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

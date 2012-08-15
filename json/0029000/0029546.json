@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.78", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1937", 
-            "death_date": "2003", 
-            "name": "Boghossian, Skunder", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "14 3/4 x 22 1/2 in.", 
-    "dynasty": null, 
-    "irn": 29546, 
-    "materials": "sand, enamel, mixed media, paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Birth of the Mummy"
+  "publishers": [], 
+  "dimensions": "14 3/4 x 22 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "1999.78", 
+  "title": "Birth of the Mummy", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18215001, 
+  "creation_date": "1992", 
+  "materials": "sand, enamel, mixed media, paper", 
+  "actors": [
+    {
+      "name": "Boghossian, Skunder", 
+      "after_follower": null, 
+      "death_date": "2003", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302779, 
+      "role": "Artist", 
+      "birth_date": "1937", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29546, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

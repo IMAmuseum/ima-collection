@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.30", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1841", 
-            "death_date": "1914", 
-            "name": "Edward W. Stodart", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32724, 
-    "materials": "stipple engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Diana, Lady Sinclair, after Richard Cosway"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Delavan Smith", 
+  "accession_number": "25.30", 
+  "title": "Diana, Lady Sinclair, after Richard Cosway", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222355, 
+  "creation_date": "18th century", 
+  "materials": "stipple engraving", 
+  "actors": [
+    {
+      "name": "Edward W. Stodart", 
+      "after_follower": null, 
+      "death_date": "1914", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303259, 
+      "role": "Artist", 
+      "birth_date": "1841", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32724, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

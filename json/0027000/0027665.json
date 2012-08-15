@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.280", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": "2002", 
-            "name": "Blass, Bill", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "late 1960s", 
-    "credit_line": "Gift of Mrs. John E. Miklozek", 
-    "cultures": [], 
-    "dimensions": "L: 38 in. (coat)", 
-    "dynasty": null, 
-    "irn": 27665, 
-    "materials": "silk satin (dress), cotton velvet (coat)", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "dress with coat"
+  "publishers": [], 
+  "dimensions": "L: 38 in. (coat)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. John E. Miklozek", 
+  "accession_number": "80.280", 
+  "title": "dress with coat", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18210615, 
+  "creation_date": "late 1960s", 
+  "materials": "silk satin (dress), cotton velvet (coat)", 
+  "actors": [
+    {
+      "name": "Blass, Bill", 
+      "after_follower": null, 
+      "death_date": "2002", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295143, 
+      "role": "Designer", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27665, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

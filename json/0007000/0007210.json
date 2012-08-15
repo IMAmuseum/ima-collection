@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.109", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1818", 
-            "death_date": "1910", 
-            "name": "Haden, Seymour", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1864", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7210, 
-    "materials": "drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Towing Path"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Towing Path", 
+  "accession_number": "25.109", 
+  "credit_line": "Bequest of Delavan Smith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18148379, 
+  "creation_date": "1864", 
+  "materials": "drypoint", 
+  "actors": [
+    {
+      "name": "Haden, Seymour", 
+      "after_follower": null, 
+      "death_date": "1910", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296675, 
+      "role": "Artist", 
+      "birth_date": "1818", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7210, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

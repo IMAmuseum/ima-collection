@@ -1,26 +1,30 @@
 {
-    "accession_number": "1983.137", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Pach, Ebert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1906", 
-    "credit_line": "The Ballard Family Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 24860, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mark Twain"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "The Ballard Family Memorial Fund", 
+  "accession_number": "1983.137", 
+  "title": "Mark Twain", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204037, 
+  "creation_date": "1906", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Pach, Ebert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301933, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 24860, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

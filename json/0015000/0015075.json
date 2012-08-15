@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.61", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1819", 
-            "death_date": "1852", 
-            "name": "Hawkins, G.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15075, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Henbury Church"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Henbury Church", 
+  "accession_number": "09.61", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167283, 
+  "creation_date": "19th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Hawkins, G.", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299793, 
+      "role": "Artist", 
+      "birth_date": "1819", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15075, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

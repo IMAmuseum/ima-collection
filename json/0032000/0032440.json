@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.109.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1896", 
-            "death_date": "1991", 
-            "name": "Citron, Minna Wright", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1971", 
-    "credit_line": "Gift of Dr. and Mrs. Frederick P. Nause", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32440, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of Minna Citron/Licensed by VAGA, New York, NY", 
-    "title": "Formation"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Estate of Minna Citron/Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Dr. and Mrs. Frederick P. Nause", 
+  "accession_number": "72.109.17", 
+  "title": "Formation", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221667, 
+  "creation_date": "1971", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Citron, Minna Wright", 
+      "after_follower": null, 
+      "death_date": "1991", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298039, 
+      "role": "Artist", 
+      "birth_date": "1896", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32440, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

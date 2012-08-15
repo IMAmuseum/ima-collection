@@ -1,26 +1,30 @@
 {
-    "accession_number": "2007.53", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1541", 
-            "death_date": "1614", 
-            "name": "El Greco", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1610-1614", 
-    "credit_line": "The Clowes Collection", 
-    "cultures": [], 
-    "dimensions": "28 1/4 x 21 5/8 in.", 
-    "dynasty": null, 
-    "irn": 26457, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "St. Matthew"
+  "publishers": [], 
+  "dimensions": "28 1/4 x 21 5/8 in.", 
+  "rights": null, 
+  "credit_line": "The Clowes Collection", 
+  "accession_number": "2007.53", 
+  "title": "St. Matthew", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18207735, 
+  "creation_date": "about 1610-1614", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "El Greco", 
+      "after_follower": null, 
+      "death_date": "1614", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294893, 
+      "role": "Artist", 
+      "birth_date": "1541", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26457, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

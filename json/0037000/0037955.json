@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.825.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1684", 
-            "death_date": "1756", 
-            "name": "Vertue, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1735", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37955, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "University College"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.20", 
+  "title": "University College", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234823, 
+  "creation_date": "1735", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Vertue, George", 
+      "after_follower": null, 
+      "death_date": "1756", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304191, 
+      "role": "Artist", 
+      "birth_date": "1684", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37955, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

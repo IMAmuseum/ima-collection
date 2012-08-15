@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.810.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775-1802", 
-            "death_date": "1775-1802", 
-            "name": "Girtin, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Walker, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1797", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37903, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bamborough Castle, Northumberland"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.810.16", 
+  "title": "Bamborough Castle, Northumberland", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234679, 
+  "creation_date": "1797", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Girtin, Thomas", 
+      "after_follower": null, 
+      "death_date": "1775-1802", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297187, 
+      "role": "Artist", 
+      "birth_date": "1775-1802", 
+      "nationality": null
+    }, 
+    {
+      "name": "Walker, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298459, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 37903, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

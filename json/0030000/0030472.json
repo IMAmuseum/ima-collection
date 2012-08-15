@@ -1,34 +1,38 @@
 {
-    "accession_number": "1996.207", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": null, 
-            "name": "Yasushi Ohmoto", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1996", 
-    "credit_line": "Gift of Mr. Yasushi Ohmoto", 
-    "cultures": [], 
-    "dimensions": "16 5/8 x 22 1/8 in.", 
-    "dynasty": null, 
-    "irn": 30472, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Yasushi Ohmoto"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Yasushi Ohmoto"
-        }
-    ], 
-    "rights": null, 
-    "title": "'A Third in Bloom' (sanbu-zaki)"
+  "publishers": [
+    {
+      "name": "Yasushi Ohmoto"
+    }
+  ], 
+  "dimensions": "16 5/8 x 22 1/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. Yasushi Ohmoto", 
+  "accession_number": "1996.207", 
+  "title": "'A Third in Bloom' (sanbu-zaki)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18217213, 
+  "creation_date": "about 1996", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "Yasushi Ohmoto", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302943, 
+      "role": "Artist", 
+      "birth_date": "1926", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30472, 
+  "printers": [
+    {
+      "name": "Yasushi Ohmoto"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.238", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1910", 
-            "death_date": "1977", 
-            "name": "Noyes, Eliot Fette", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "The IBM Corporation", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1961", 
-    "credit_line": "Gift of the Indianapolis Star", 
-    "cultures": [], 
-    "dimensions": "6 3/4 x 16 x 14 5/8 in.", 
-    "dynasty": null, 
-    "irn": 65047, 
-    "materials": "metal and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Selectric typewriter I"
+  "publishers": [], 
+  "dimensions": "6 3/4 x 16 x 14 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Indianapolis Star", 
+  "accession_number": "2008.238", 
+  "title": "Selectric typewriter I", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279613, 
+  "creation_date": "1961", 
+  "materials": "metal and plastic", 
+  "actors": [
+    {
+      "name": "Noyes, Eliot Fette", 
+      "after_follower": null, 
+      "death_date": "1977", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307243, 
+      "role": "Designer", 
+      "birth_date": "1910", 
+      "nationality": null
+    }, 
+    {
+      "name": "The IBM Corporation", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307245, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65047, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

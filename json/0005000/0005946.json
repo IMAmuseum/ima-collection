@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.688", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1813", 
-            "death_date": "1888", 
-            "name": "Currier, Nathaniel", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1824-1895", 
-            "death_date": "1824-1895", 
-            "name": "Ives, James Merritt", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1869", 
-    "credit_line": "Gift of Mr. and Mrs. Charles E. Ballard in memory of Ed and Dolly Ballard", 
-    "cultures": [], 
-    "dimensions": "8 x 12 5/8 in. (image)\n10 1/4 x 14 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 5946, 
-    "materials": "hand-colored lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "On the Mississippi"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "8 x 12 5/8 in. (image)\n10 1/4 x 14 1/8 in. (sheet)", 
+  "title": "On the Mississippi", 
+  "accession_number": "80.688", 
+  "credit_line": "Gift of Mr. and Mrs. Charles E. Ballard in memory of Ed and Dolly Ballard", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145365, 
+  "creation_date": "1869", 
+  "materials": "hand-colored lithograph", 
+  "actors": [
+    {
+      "name": "Currier, Nathaniel", 
+      "after_follower": null, 
+      "death_date": "1888", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294763, 
+      "role": "Artist", 
+      "birth_date": "1813", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ives, James Merritt", 
+      "after_follower": null, 
+      "death_date": "1824-1895", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294765, 
+      "role": "Artist", 
+      "birth_date": "1824-1895", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5946, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

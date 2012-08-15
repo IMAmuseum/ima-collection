@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.2.72", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1811", 
-            "death_date": "1893", 
-            "name": "Daly, C\u00e9sar Denis", 
-            "nationality": null, 
-            "role": "Editor"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1808", 
-            "death_date": "1894", 
-            "name": "Werner, Carl Friedrich Heinrich", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1877", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "11 1/2 X 8 in. (image)\n17 1/2 X 12 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 45957, 
-    "materials": "chromolithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Staircase, H\u00f4tel Boulevard Exelmans, Paris,"
+  "publishers": [], 
+  "dimensions": "11 1/2 X 8 in. (image)\n17 1/2 X 12 3/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "73.2.72", 
+  "title": "Staircase, H\u00f4tel Boulevard Exelmans, Paris,", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18255607, 
+  "creation_date": "1877", 
+  "materials": "chromolithograph", 
+  "actors": [
+    {
+      "name": "Daly, C\u00e9sar Denis", 
+      "after_follower": null, 
+      "death_date": "1893", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296953, 
+      "role": "Editor", 
+      "birth_date": "1811", 
+      "nationality": null
+    }, 
+    {
+      "name": "Werner, Carl Friedrich Heinrich", 
+      "after_follower": null, 
+      "death_date": "1894", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305225, 
+      "role": "Artist", 
+      "birth_date": "1808", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45957, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,42 +1,50 @@
 {
-    "accession_number": "80.968.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1782", 
-            "death_date": "1874", 
-            "name": "Pye, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1750", 
-            "death_date": "1831", 
-            "name": "Middiman, Samuel", 
-            "nationality": null, 
-            "role": "Etcher"
-        }
-    ], 
-    "creation_date": "1818", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38674, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hardraw Fall"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.968.24", 
+  "title": "Hardraw Fall", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18236771, 
+  "creation_date": "1818", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Pye, John", 
+      "after_follower": null, 
+      "death_date": "1874", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302827, 
+      "role": "Engraver", 
+      "birth_date": "1782", 
+      "nationality": null
+    }, 
+    {
+      "name": "Middiman, Samuel", 
+      "after_follower": null, 
+      "death_date": "1831", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298983, 
+      "role": "Etcher", 
+      "birth_date": "1750", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38674, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "10.224", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1855 (Hare 9)", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "13-1/2 x 8-15/16 in", 
-    "dynasty": null, 
-    "irn": 15268, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Koshimura-ya Heisuke"
-        }
-    ], 
-    "rights": null, 
-    "title": "Kii"
+  "publishers": [
+    {
+      "name": "Koshimura-ya Heisuke"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "13-1/2 x 8-15/16 in", 
+  "title": "Kii", 
+  "accession_number": "10.224", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18167697, 
+  "creation_date": "1855 (Hare 9)", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15268, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

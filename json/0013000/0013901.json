@@ -1,26 +1,30 @@
 {
-    "accession_number": "1989.130", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Newcomb Pottery", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1911-1930", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "H: 5 in.", 
-    "dynasty": null, 
-    "irn": 13901, 
-    "materials": "earthenware", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 5 in.", 
+  "title": "vase", 
+  "accession_number": "1989.130", 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164441, 
+  "creation_date": "1911-1930", 
+  "materials": "earthenware", 
+  "actors": [
+    {
+      "name": "Newcomb Pottery", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299451, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 13901, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

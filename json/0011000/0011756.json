@@ -1,26 +1,30 @@
 {
-    "accession_number": "59.19", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1756", 
-            "death_date": "1844", 
-            "name": "Constantin, Jean-Antoine", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "mid 18th century - mid 19th century", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11756, 
-    "materials": "pen and sepia on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Landscape", 
+  "accession_number": "59.19", 
+  "credit_line": "Jacob Metzger Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18159175, 
+  "creation_date": "mid 18th century - mid 19th century", 
+  "materials": "pen and sepia on paper", 
+  "actors": [
+    {
+      "name": "Constantin, Jean-Antoine", 
+      "after_follower": null, 
+      "death_date": "1844", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298919, 
+      "role": "Artist", 
+      "birth_date": "1756", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11756, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

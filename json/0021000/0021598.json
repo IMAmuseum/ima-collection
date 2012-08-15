@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1873", 
-            "death_date": "1953", 
-            "name": "Bartlett, Frederic Clay", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1925-1925", 
-    "credit_line": "Gift of Mrs. Albert Beveridge", 
-    "cultures": [], 
-    "dimensions": "37 1/8 x 34 in.\n43 x 40 in. (framed)", 
-    "dynasty": null, 
-    "irn": 21598, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Seamstress"
+  "publishers": [], 
+  "dimensions": "37 1/8 x 34 in.\n43 x 40 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Albert Beveridge", 
+  "accession_number": "57.1", 
+  "title": "The Seamstress", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18196513, 
+  "creation_date": "1925-1925", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Bartlett, Frederic Clay", 
+      "after_follower": null, 
+      "death_date": "1953", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295279, 
+      "role": "Artist", 
+      "birth_date": "1873", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21598, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

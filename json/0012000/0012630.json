@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.153", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1959", 
-            "name": "Wayman Adams", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1929", 
-    "credit_line": "Purchased from the Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": "15 1/2 x 11 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 12630, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Clinging Vine"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "15 1/2 x 11 1/4 in. (sheet)", 
+  "title": "The Clinging Vine", 
+  "accession_number": "30.153", 
+  "credit_line": "Purchased from the Julius F. Pratt Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18161485, 
+  "creation_date": "1929", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Wayman Adams", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296333, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12630, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

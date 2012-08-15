@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1640", 
-            "death_date": "1711", 
-            "name": "B\u00e9rain, Jean, I", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1680", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "13 1/4 X 10 in. (image)\n16 1/8 X 10 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 755, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Decoration"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 1/4 X 10 in. (image)\n16 1/8 X 10 7/8 in. (sheet)", 
+  "title": "Decoration", 
+  "accession_number": "73.2.17", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133011, 
+  "creation_date": "about 1680", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "B\u00e9rain, Jean, I", 
+      "after_follower": null, 
+      "death_date": "1711", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295153, 
+      "role": "Artist", 
+      "birth_date": "1640", 
+      "nationality": null
+    }
+  ], 
+  "irn": 755, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

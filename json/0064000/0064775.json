@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.348A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1971", 
-            "death_date": null, 
-            "name": "J\u00e9r\u00f4me Olivet", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Alessi S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1996", 
-    "credit_line": "Gift of Museo Alessi", 
-    "cultures": [], 
-    "dimensions": "3 1/8 \u00d7 8 1/4 \u00d7 5 5/8 in.", 
-    "dynasty": null, 
-    "irn": 64775, 
-    "materials": "polystyrene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 J\u00e9r\u00f4me Olivet", 
-    "title": "Moosk Radio (yellow)"
+  "publishers": [], 
+  "dimensions": "3 1/8 \u00d7 8 1/4 \u00d7 5 5/8 in.", 
+  "rights": "\u00a9 J\u00e9r\u00f4me Olivet", 
+  "credit_line": "Gift of Museo Alessi", 
+  "accession_number": "2009.348A-B", 
+  "title": "Moosk Radio (yellow)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279295, 
+  "creation_date": "1996", 
+  "materials": "polystyrene", 
+  "actors": [
+    {
+      "name": "J\u00e9r\u00f4me Olivet", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307091, 
+      "role": "Designer", 
+      "birth_date": "1971", 
+      "nationality": null
+    }, 
+    {
+      "name": "Alessi S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304005, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64775, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

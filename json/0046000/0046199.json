@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.323", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1948", 
-            "death_date": null, 
-            "name": "Yoshio Taylor", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century", 
-    "credit_line": "Gift of Penny Ogle Weldon in memory of Jack Weldon", 
-    "cultures": [], 
-    "dimensions": "39 x 20 x 14 in.", 
-    "dynasty": null, 
-    "irn": 46199, 
-    "materials": "polychrome ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Blue Cat"
+  "publishers": [], 
+  "dimensions": "39 x 20 x 14 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Penny Ogle Weldon in memory of Jack Weldon", 
+  "accession_number": "2001.323", 
+  "title": "Blue Cat", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18256089, 
+  "creation_date": "20th Century", 
+  "materials": "polychrome ceramic", 
+  "actors": [
+    {
+      "name": "Yoshio Taylor", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305255, 
+      "role": "Artist", 
+      "birth_date": "1948", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46199, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

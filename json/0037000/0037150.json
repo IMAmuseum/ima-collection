@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.48", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1733", 
-            "death_date": "1795", 
-            "name": "Maruyama ^Okyo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1786", 
-    "credit_line": "Caroline Marmon Fesler Fund", 
-    "cultures": [], 
-    "dimensions": "39 3/8 x 14 1/4 in.", 
-    "dynasty": null, 
-    "irn": 37150, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Tiger"
+  "publishers": [], 
+  "dimensions": "39 3/8 x 14 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Caroline Marmon Fesler Fund", 
+  "accession_number": "2000.48", 
+  "title": "Tiger", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18232615, 
+  "creation_date": "1786", 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Maruyama ^Okyo", 
+      "after_follower": null, 
+      "death_date": "1795", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303987, 
+      "role": "Artist", 
+      "birth_date": "1733", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37150, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

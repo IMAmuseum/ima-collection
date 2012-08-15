@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.41", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "J\u00e9r\u00f4me Paris", 
-            "nationality": "French", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th Century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5450, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "View Near Tours"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "View Near Tours", 
+  "accession_number": "09.41", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144171, 
+  "creation_date": "18th Century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "J\u00e9r\u00f4me Paris", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297157, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": "French"
+    }
+  ], 
+  "irn": 5450, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

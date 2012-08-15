@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.45.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1599", 
-            "death_date": "1652", 
-            "name": "Laer, Pieter van", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Mr. T. Victor Keene", 
-    "cultures": [], 
-    "dimensions": "3 1/4 x 3 1/8 in.", 
-    "dynasty": null, 
-    "irn": 1486, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": null
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "3 1/4 x 3 1/8 in.", 
+  "title": null, 
+  "accession_number": "70.45.23", 
+  "credit_line": "Gift of Mr. T. Victor Keene", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134825, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Laer, Pieter van", 
+      "after_follower": null, 
+      "death_date": "1652", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295535, 
+      "role": "Artist", 
+      "birth_date": "1599", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1486, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

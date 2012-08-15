@@ -1,34 +1,40 @@
 {
-    "accession_number": "55.212.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Derby China Works", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Derby China Works", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1756-1758", 
-    "credit_line": "Gift of Mrs. Herbert R. Duckwall in memory of her husband", 
-    "cultures": [], 
-    "dimensions": "6 in.", 
-    "dynasty": null, 
-    "irn": 28594, 
-    "materials": "porcelain, enamels, gilding", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "one of a pair of Chinese musicians"
+  "publishers": [], 
+  "dimensions": "6 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herbert R. Duckwall in memory of her husband", 
+  "accession_number": "55.212.2", 
+  "title": "one of a pair of Chinese musicians", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18212787, 
+  "creation_date": "1756-1758", 
+  "materials": "porcelain, enamels, gilding", 
+  "actors": [
+    {
+      "name": "Derby China Works", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299759, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Derby China Works", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299759, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 28594, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

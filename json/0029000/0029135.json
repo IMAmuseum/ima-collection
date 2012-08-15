@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.815", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1852", 
-            "name": "Landseer, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1799", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "7 3/8 x 10 in (image) \n9 7/8 x 12 15/16 in (plate) \n13 7/16 x 18 15/16 in (sheet)", 
-    "dynasty": null, 
-    "irn": 29135, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Orchard Bay"
+  "publishers": [], 
+  "dimensions": "7 3/8 x 10 in (image) \n9 7/8 x 12 15/16 in (plate) \n13 7/16 x 18 15/16 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.815", 
+  "title": "Orchard Bay", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18214025, 
+  "creation_date": "about 1799", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Landseer, John", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302707, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29135, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "2006.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1916", 
-            "death_date": null, 
-            "name": "Racz, Andr\u00e9", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1945", 
-    "credit_line": "McKee Fine Arts Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "28 x 18 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 63471, 
-    "materials": "etching, aquatint and engraving on white J. Whatman paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Atelier 17"
-        }
-    ], 
-    "rights": "\u00a9 Andr\u00e9 Racz", 
-    "title": "Perseus Beheading Medusa IV"
+  "publishers": [
+    {
+      "name": "Atelier 17"
+    }
+  ], 
+  "dimensions": "28 x 18 5/8 in. (sheet)", 
+  "rights": "\u00a9 Andr\u00e9 Racz", 
+  "credit_line": "McKee Fine Arts Purchase Fund", 
+  "accession_number": "2006.9", 
+  "title": "Perseus Beheading Medusa IV", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278523, 
+  "creation_date": "1945", 
+  "materials": "etching, aquatint and engraving on white J. Whatman paper", 
+  "actors": [
+    {
+      "name": "Racz, Andr\u00e9", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306609, 
+      "role": "Artist", 
+      "birth_date": "1916", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63471, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

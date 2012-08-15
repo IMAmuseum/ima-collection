@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.239", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1741", 
-            "death_date": "1804", 
-            "name": "Gaucher, Charles-Etienne", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14895, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L' Apres Din\u00e9e Flamande (The Flemish After-Dinner)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "L' Apres Din\u00e9e Flamande (The Flemish After-Dinner)", 
+  "accession_number": "09.239", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166841, 
+  "creation_date": "18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Gaucher, Charles-Etienne", 
+      "after_follower": null, 
+      "death_date": "1804", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299741, 
+      "role": "Artist", 
+      "birth_date": "1741", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14895, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,38 +1,44 @@
 {
-    "accession_number": "24.223", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1818", 
-            "death_date": "1898", 
-            "name": "Appian, Adolphe", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1828", 
-            "death_date": "1875", 
-            "name": "Cadart, Alfred", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1876", 
-    "credit_line": "Gift of the children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1496, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Cadart, Alfred"
-        }
-    ], 
-    "rights": null, 
-    "title": "Venise (Inondation da 15 Octobre 1875)"
+  "publishers": [
+    {
+      "name": "Cadart, Alfred"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Venise (Inondation da 15 Octobre 1875)", 
+  "accession_number": "24.223", 
+  "credit_line": "Gift of the children of Thomas E. Hibben", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134843, 
+  "creation_date": "1876", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Appian, Adolphe", 
+      "after_follower": null, 
+      "death_date": "1898", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295539, 
+      "role": "Artist", 
+      "birth_date": "1818", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cadart, Alfred", 
+      "after_follower": null, 
+      "death_date": "1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295073, 
+      "role": "Printer", 
+      "birth_date": "1828", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1496, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

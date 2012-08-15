@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.447", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1783", 
-            "death_date": "1852", 
-            "name": "Prout, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1824", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "14 1/2 x 10 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 25777, 
-    "materials": "pencil heightened with white on gray paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Evionnaz (Liviana), near St. Maurice"
+  "publishers": [], 
+  "dimensions": "14 1/2 x 10 1/2 in (sheet)", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "13.447", 
+  "title": "Evionnaz (Liviana), near St. Maurice", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18206155, 
+  "creation_date": "1824", 
+  "materials": "pencil heightened with white on gray paper", 
+  "actors": [
+    {
+      "name": "Prout, Samuel", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295339, 
+      "role": "Artist", 
+      "birth_date": "1783", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25777, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

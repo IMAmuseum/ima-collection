@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.241", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1768", 
-            "death_date": "1839", 
-            "name": "Voogd, Hendrik", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1820", 
-    "credit_line": "Lucy M. Taggart Estate", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5625, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ravine in Italy"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Ravine in Italy", 
+  "accession_number": "60.241", 
+  "credit_line": "Lucy M. Taggart Estate", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144587, 
+  "creation_date": "1820", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Voogd, Hendrik", 
+      "after_follower": null, 
+      "death_date": "1839", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295867, 
+      "role": "Artist", 
+      "birth_date": "1768", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5625, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

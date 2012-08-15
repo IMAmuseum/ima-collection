@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.231A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1919", 
-            "death_date": "2008", 
-            "name": "Jens H. Quistgaard", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Dansk International Designs, Ltd.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1957", 
-    "credit_line": "The Liliane and David M. Stewart Collection", 
-    "cultures": [], 
-    "dimensions": "A) bucket: 19 1/4 x 9 1/4 in.\nB) lid: diam.: 7 1/4 in.", 
-    "dynasty": null, 
-    "irn": 65127, 
-    "materials": "teak and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "ice bucket"
+  "publishers": [], 
+  "dimensions": "A) bucket: 19 1/4 x 9 1/4 in.\nB) lid: diam.: 7 1/4 in.", 
+  "rights": null, 
+  "credit_line": "The Liliane and David M. Stewart Collection", 
+  "accession_number": "2008.231A-B", 
+  "title": "ice bucket", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279697, 
+  "creation_date": "about 1957", 
+  "materials": "teak and plastic", 
+  "actors": [
+    {
+      "name": "Jens H. Quistgaard", 
+      "after_follower": null, 
+      "death_date": "2008", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307335, 
+      "role": "Designer", 
+      "birth_date": "1919", 
+      "nationality": null
+    }, 
+    {
+      "name": "Dansk International Designs, Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307337, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65127, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.419", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1925", 
-            "death_date": null, 
-            "name": "Robert Rauschenberg", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1973", 
-    "credit_line": "Gift of Mrs. John Thompson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13469, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of Robert Rauschenberg/ Licensed by VAGA, New York, NY", 
-    "title": "Hays"
+  "publishers": [], 
+  "rights": "\u00a9 Estate of Robert Rauschenberg/ Licensed by VAGA, New York, NY", 
+  "dimensions": null, 
+  "title": "Hays", 
+  "accession_number": "74.419", 
+  "credit_line": "Gift of Mrs. John Thompson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163409, 
+  "creation_date": "1973", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Robert Rauschenberg", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294687, 
+      "role": "Artist", 
+      "birth_date": "1925", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13469, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

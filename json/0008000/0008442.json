@@ -1,66 +1,80 @@
 {
-    "accession_number": "49.46", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": null, 
-            "name": "Garo Z. Antreasian", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1916", 
-            "death_date": "2002", 
-            "name": "Kohn, Misch", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1921", 
-            "death_date": "1963", 
-            "name": "John Bernhardt", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1913", 
-            "death_date": "2003", 
-            "name": "Fulwider, Edwin", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1898", 
-            "death_date": "1962", 
-            "name": "Mess, George Jo", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1925", 
-            "death_date": null, 
-            "name": "Vian, Orfeo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1901-1949", 
-    "credit_line": "Gift of the John Herron Art School Alumni Association", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8442, 
-    "materials": "portfolio", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Garo Antreatsian \u00a9 Estate of John Bernhardt", 
-    "title": "Herron Alumni Portfolio"
+  "publishers": [], 
+  "rights": "\u00a9 Garo Antreatsian \u00a9 Estate of John Bernhardt", 
+  "dimensions": null, 
+  "title": "Herron Alumni Portfolio", 
+  "accession_number": "49.46", 
+  "credit_line": "Gift of the John Herron Art School Alumni Association", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151249, 
+  "creation_date": "1901-1949", 
+  "materials": "portfolio", 
+  "actors": [
+    {
+      "name": "Garo Z. Antreasian", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294693, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kohn, Misch", 
+      "after_follower": null, 
+      "death_date": "2002", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296695, 
+      "role": "Artist", 
+      "birth_date": "1916", 
+      "nationality": null
+    }, 
+    {
+      "name": "John Bernhardt", 
+      "after_follower": null, 
+      "death_date": "1963", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296259, 
+      "role": "Artist", 
+      "birth_date": "1921", 
+      "nationality": null
+    }, 
+    {
+      "name": "Fulwider, Edwin", 
+      "after_follower": null, 
+      "death_date": "2003", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298007, 
+      "role": "Artist", 
+      "birth_date": "1913", 
+      "nationality": null
+    }, 
+    {
+      "name": "Mess, George Jo", 
+      "after_follower": null, 
+      "death_date": "1962", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295305, 
+      "role": "Artist", 
+      "birth_date": "1898", 
+      "nationality": null
+    }, 
+    {
+      "name": "Vian, Orfeo", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297385, 
+      "role": "Artist", 
+      "birth_date": "1925", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8442, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1756", 
-            "death_date": "1829", 
-            "name": "Hosoda Eishi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1756-1829", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "37 7/8 x 17 1/2 in. (image)\n71 1/4 x 20 in. (overall)", 
-    "dynasty": null, 
-    "irn": 562, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Beauty Gazing into a Mirror"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "37 7/8 x 17 1/2 in. (image)\n71 1/4 x 20 in. (overall)", 
+  "title": "A Beauty Gazing into a Mirror", 
+  "accession_number": "2000.22", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18132531, 
+  "creation_date": "1756-1829", 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Hosoda Eishi", 
+      "after_follower": null, 
+      "death_date": "1829", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295047, 
+      "role": "Artist", 
+      "birth_date": "1756", 
+      "nationality": null
+    }
+  ], 
+  "irn": 562, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

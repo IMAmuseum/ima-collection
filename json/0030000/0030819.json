@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.141", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Wei Zhike", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1604", 
-    "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
-    "cultures": [], 
-    "dimensions": "12 7/8 x 184 5/8 in. (image)", 
-    "dynasty": "Ming dynasty", 
-    "irn": 30819, 
-    "materials": "ink and color on paper", 
-    "on_view": false, 
-    "period": "Wanli", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "twenty-four seasonal flowers"
+  "publishers": [], 
+  "dimensions": "12 7/8 x 184 5/8 in. (image)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
+  "accession_number": "60.141", 
+  "title": "twenty-four seasonal flowers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Wanli", 
+  "artisinal:id": 18217989, 
+  "creation_date": "1604", 
+  "materials": "ink and color on paper", 
+  "actors": [
+    {
+      "name": "Wei Zhike", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302987, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 30819, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Ming dynasty", 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "27.125", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1839", 
-            "death_date": "1907", 
-            "name": "Diez, Wilhelm von", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1896", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": "15 x 11 in.", 
-    "dynasty": null, 
-    "irn": 33389, 
-    "materials": "oil on panel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "St. George"
+  "publishers": [], 
+  "dimensions": "15 x 11 in.", 
+  "rights": null, 
+  "credit_line": "Delavan Smith Fund", 
+  "accession_number": "27.125", 
+  "title": "St. George", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223959, 
+  "creation_date": "1896", 
+  "materials": "oil on panel", 
+  "actors": [
+    {
+      "name": "Diez, Wilhelm von", 
+      "after_follower": null, 
+      "death_date": "1907", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303371, 
+      "role": "Artist", 
+      "birth_date": "1839", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33389, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

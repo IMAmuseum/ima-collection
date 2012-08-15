@@ -1,26 +1,30 @@
 {
-    "accession_number": "68.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1840", 
-            "death_date": "1917", 
-            "name": "Auguste Rodin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "modeled 1885, cast 1960", 
-    "credit_line": "Gift of B. Gerald Cantor", 
-    "cultures": [], 
-    "dimensions": "5 1/2 x  23  x 17 in.", 
-    "dynasty": null, 
-    "irn": 6555, 
-    "materials": "bronze", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Martyr #5"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "5 1/2 x  23  x 17 in.", 
+  "title": "The Martyr #5", 
+  "accession_number": "68.32", 
+  "credit_line": "Gift of B. Gerald Cantor", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18146803, 
+  "creation_date": "modeled 1885, cast 1960", 
+  "materials": "bronze", 
+  "actors": [
+    {
+      "name": "Auguste Rodin", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297455, 
+      "role": "Artist", 
+      "birth_date": "1840", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6555, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

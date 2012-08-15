@@ -1,34 +1,40 @@
 {
-    "accession_number": "08.50", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1817", 
-            "death_date": "1878", 
-            "name": "Daubigny, Charles Fran\u00e7ois", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1907", 
-            "name": "Del\u00e2tre, Auguste", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1859", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23451, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L'Ane a L'Abreuvoir"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "08.50", 
+  "title": "L'Ane a L'Abreuvoir", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200807, 
+  "creation_date": "1859", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Daubigny, Charles Fran\u00e7ois", 
+      "after_follower": null, 
+      "death_date": "1878", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294829, 
+      "role": "Artist", 
+      "birth_date": "1817", 
+      "nationality": null
+    }, 
+    {
+      "name": "Del\u00e2tre, Auguste", 
+      "after_follower": null, 
+      "death_date": "1907", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294903, 
+      "role": "Printer", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23451, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

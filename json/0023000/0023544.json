@@ -1,26 +1,30 @@
 {
-    "accession_number": "42.46", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1893", 
-            "death_date": "1962", 
-            "name": "Mauny, Jacques", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": "18 x 21 in.", 
-    "dynasty": null, 
-    "irn": 23544, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bridge at Charenton"
+  "publishers": [], 
+  "dimensions": "18 x 21 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Gamboliers", 
+  "accession_number": "42.46", 
+  "title": "Bridge at Charenton", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18201013, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Mauny, Jacques", 
+      "after_follower": null, 
+      "death_date": "1962", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301647, 
+      "role": "Artist", 
+      "birth_date": "1893", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23544, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

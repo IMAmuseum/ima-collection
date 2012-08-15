@@ -1,38 +1,44 @@
 {
-    "accession_number": "1996.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1935", 
-            "death_date": null, 
-            "name": "Dine, Jim", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Pratt Graphic Art Center", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1960", 
-    "credit_line": "Roger G. Wolcott Fund", 
-    "cultures": [], 
-    "dimensions": "30 x 22 1/4 in.", 
-    "dynasty": null, 
-    "irn": 46443, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Martha Jackson Gallery"
-        }
-    ], 
-    "rights": "\u00a9 Jim Dine/Artists Rights Society (ARS), New York", 
-    "title": "The Crash #4"
+  "publishers": [
+    {
+      "name": "Martha Jackson Gallery"
+    }
+  ], 
+  "dimensions": "30 x 22 1/4 in.", 
+  "rights": "\u00a9 Jim Dine/Artists Rights Society (ARS), New York", 
+  "credit_line": "Roger G. Wolcott Fund", 
+  "accession_number": "1996.9", 
+  "title": "The Crash #4", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18256623, 
+  "creation_date": "1960", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Dine, Jim", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297243, 
+      "role": "Artist", 
+      "birth_date": "1935", 
+      "nationality": null
+    }, 
+    {
+      "name": "Pratt Graphic Art Center", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302149, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 46443, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.191", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1913", 
-            "death_date": null, 
-            "name": "Lassaw, Ibram", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift fo Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45444, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift fo Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2001.191", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254415, 
+  "creation_date": "1970", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Lassaw, Ibram", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305187, 
+      "role": "Artist", 
+      "birth_date": "1913", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45444, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

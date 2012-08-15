@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.383A-X", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1964", 
-            "death_date": null, 
-            "name": "Marti Guixe", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Droog Design", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "1 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64698, 
-    "materials": "adhesive tape", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Marti Guixe", 
-    "title": "Do Frame"
+  "publishers": [], 
+  "dimensions": "1 1/2 in.", 
+  "rights": "\u00a9 Marti Guixe", 
+  "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
+  "accession_number": "2009.383A-X", 
+  "title": "Do Frame", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279209, 
+  "creation_date": "2000", 
+  "materials": "adhesive tape", 
+  "actors": [
+    {
+      "name": "Marti Guixe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306953, 
+      "role": "Designer", 
+      "birth_date": "1964", 
+      "nationality": null
+    }, 
+    {
+      "name": "Droog Design", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306817, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64698, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

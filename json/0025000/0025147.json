@@ -1,26 +1,30 @@
 {
-    "accession_number": "08.57", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "bef 1590", 
-            "death_date": "1667", 
-            "name": "Lasne, Michel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25147, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Woman with Mandolin"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "08.57", 
+  "title": "Woman with Mandolin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204705, 
+  "creation_date": "17th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lasne, Michel", 
+      "after_follower": null, 
+      "death_date": "1667", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300165, 
+      "role": "Artist", 
+      "birth_date": "bef 1590", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25147, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.979.39", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1787", 
-            "death_date": "1879", 
-            "name": "Blore, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1823", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38827, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Interior of the Hall of Linlithgow Palace"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.979.39", 
+  "title": "Interior of the Hall of Linlithgow Palace", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18237219, 
+  "creation_date": "1823", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Blore, Edward", 
+      "after_follower": null, 
+      "death_date": "1879", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303101, 
+      "role": "Artist", 
+      "birth_date": "1787", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38827, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

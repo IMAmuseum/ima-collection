@@ -1,26 +1,30 @@
 {
-    "accession_number": "27.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1927", 
-            "name": "Adams, John Ottis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Wayman Adams to the Art School", 
-    "cultures": [], 
-    "dimensions": "38 x 32 in.", 
-    "dynasty": null, 
-    "irn": 1633, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Discouraged Art Student"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "38 x 32 in.", 
+  "title": "The Discouraged Art Student", 
+  "accession_number": "27.8", 
+  "credit_line": "Gift of Wayman Adams to the Art School", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135165, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Adams, John Ottis", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295417, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1633, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

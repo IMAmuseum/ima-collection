@@ -1,26 +1,30 @@
 {
-    "accession_number": "39.07", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Anderloni, Pietro", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Charles C. Kryter", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1747, 
-    "materials": "steel engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Assumption of the Virgin"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Assumption of the Virgin", 
+  "accession_number": "39.07", 
+  "credit_line": "Gift of Charles C. Kryter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135467, 
+  "creation_date": "19th century", 
+  "materials": "steel engraving", 
+  "actors": [
+    {
+      "name": "Anderloni, Pietro", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295637, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1747, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

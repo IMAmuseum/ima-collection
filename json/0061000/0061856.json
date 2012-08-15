@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.38A-J", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Francis Bacon", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1824", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 5 1/2 in. (each)", 
-    "dynasty": null, 
-    "irn": 61856, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "W. Baynes and Son"
-        }
-    ], 
-    "rights": null, 
-    "title": "Works of Francis Bacon (volumes 1-10)"
+  "publishers": [
+    {
+      "name": "W. Baynes and Son"
+    }
+  ], 
+  "dimensions": "8 3/4 x 5 1/2 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.38A-J", 
+  "title": "Works of Francis Bacon (volumes 1-10)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277333, 
+  "creation_date": "1824", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Francis Bacon", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306189, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61856, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

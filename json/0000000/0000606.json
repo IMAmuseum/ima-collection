@@ -1,34 +1,40 @@
 {
-    "accession_number": "81.810", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": null, 
-            "name": "Saunders, Raymond Jennings", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Cirrus Editions", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 606, 
-    "materials": "color lithograph, screenprint and collage", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Duck Out of Water"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Duck Out of Water", 
+  "accession_number": "81.810", 
+  "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132647, 
+  "creation_date": "1975", 
+  "materials": "color lithograph, screenprint and collage", 
+  "actors": [
+    {
+      "name": "Saunders, Raymond Jennings", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295063, 
+      "role": "Artist", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cirrus Editions", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295065, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 606, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

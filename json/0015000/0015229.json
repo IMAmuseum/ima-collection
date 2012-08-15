@@ -1,26 +1,30 @@
 {
-    "accession_number": "1992.222", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": "1994", 
-            "name": "Doisneau, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1949", 
-    "credit_line": "Gift of Dr. and Mrs. F. E. McAree", 
-    "cultures": [], 
-    "dimensions": "16 x 12 in. |  40.7 x 30.5 cm.", 
-    "dynasty": null, 
-    "irn": 15229, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L'Innocent"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "16 x 12 in. |  40.7 x 30.5 cm.", 
+  "title": "L'Innocent", 
+  "accession_number": "1992.222", 
+  "credit_line": "Gift of Dr. and Mrs. F. E. McAree", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167605, 
+  "creation_date": "1949", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Doisneau, Robert", 
+      "after_follower": null, 
+      "death_date": "1994", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295103, 
+      "role": "Artist", 
+      "birth_date": "1912", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15229, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

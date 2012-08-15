@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.200", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1626", 
-            "death_date": "1678", 
-            "name": "Dujardin, Karel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Mrs. Anton Vonnegut Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15759, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Three Boars"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Three Boars", 
+  "accession_number": "71.200", 
+  "credit_line": "Mrs. Anton Vonnegut Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168775, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Dujardin, Karel", 
+      "after_follower": null, 
+      "death_date": "1678", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296683, 
+      "role": "Artist", 
+      "birth_date": "1626", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15759, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "73.2.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1671", 
-            "death_date": "1723", 
-            "name": "Poilly, Francois de, the younger", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1712", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "10 X 6 1/8 in. (image)\n10 1/4 X 6 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9278, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Poilly, Francois de, the younger"
-        }
-    ], 
-    "rights": null, 
-    "title": "Fireplace design"
+  "publishers": [
+    {
+      "name": "Poilly, Francois de, the younger"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "10 X 6 1/8 in. (image)\n10 1/4 X 6 1/2 in. (sheet)", 
+  "title": "Fireplace design", 
+  "accession_number": "73.2.32", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153347, 
+  "creation_date": "1712", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Poilly, Francois de, the younger", 
+      "after_follower": null, 
+      "death_date": "1723", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298283, 
+      "role": "Artist", 
+      "birth_date": "1671", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9278, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

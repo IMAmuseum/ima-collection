@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.126", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1713", 
-            "death_date": null, 
-            "name": "Johann M. Berningroth", 
-            "nationality": "German", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1748", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 30328, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Jacob Saurin"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.126", 
+  "title": "Jacob Saurin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18216871, 
+  "creation_date": "1748", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Johann M. Berningroth", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302925, 
+      "role": "Artist", 
+      "birth_date": "1713", 
+      "nationality": "German"
+    }
+  ], 
+  "irn": 30328, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

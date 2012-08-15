@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.497.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1924", 
-            "death_date": null, 
-            "name": "Donald Pollard", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Steuben Glass Works", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1952", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "5 1/4 x 5  (diam.) in.", 
-    "dynasty": null, 
-    "irn": 75251, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Candlestick (1 of 5)"
+  "publishers": [], 
+  "dimensions": "5 1/4 x 5  (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.497.1", 
+  "title": "Candlestick (1 of 5)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288649, 
+  "creation_date": "1952", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Donald Pollard", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308611, 
+      "role": "Designer", 
+      "birth_date": "1924", 
+      "nationality": null
+    }, 
+    {
+      "name": "Steuben Glass Works", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299467, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 75251, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1998.245", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1903", 
-            "name": "S\u00e9guin, Armand", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1894-1895", 
-    "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 27926, 
-    "materials": "zincograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Jeune Gar\u00e7on (Young Boy)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
+  "accession_number": "1998.245", 
+  "title": "Jeune Gar\u00e7on (Young Boy)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211211, 
+  "creation_date": "1894-1895", 
+  "materials": "zincograph", 
+  "actors": [
+    {
+      "name": "S\u00e9guin, Armand", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295281, 
+      "role": "Artist", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27926, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

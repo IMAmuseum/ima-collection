@@ -1,34 +1,40 @@
 {
-    "accession_number": "1992.367", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1868", 
-            "death_date": "1940", 
-            "name": "Peter Behrens", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Simon P. Gerz", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1907", 
-    "credit_line": "Harold Victor Decorative Arts Fund", 
-    "cultures": [], 
-    "dimensions": "H: 12 in.", 
-    "dynasty": null, 
-    "irn": 16793, 
-    "materials": "salt-glazed stoneware, painted cobalt blue decoration, pewter cover", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "pitcher"
+  "publishers": [], 
+  "dimensions": "H: 12 in.", 
+  "rights": null, 
+  "credit_line": "Harold Victor Decorative Arts Fund", 
+  "accession_number": "1992.367", 
+  "title": "pitcher", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171507, 
+  "creation_date": "about 1907", 
+  "materials": "salt-glazed stoneware, painted cobalt blue decoration, pewter cover", 
+  "actors": [
+    {
+      "name": "Peter Behrens", 
+      "after_follower": null, 
+      "death_date": "1940", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300267, 
+      "role": "Designer", 
+      "birth_date": "1868", 
+      "nationality": null
+    }, 
+    {
+      "name": "Simon P. Gerz", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300269, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 16793, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

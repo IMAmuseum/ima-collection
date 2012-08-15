@@ -1,50 +1,60 @@
 {
-    "accession_number": "80.257", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1865", 
-            "death_date": "1946", 
-            "name": "Charles Virion", 
-            "nationality": null, 
-            "role": "Decorator"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1862", 
-            "death_date": "1918", 
-            "name": "Albert Bou\u00e9", 
-            "nationality": null, 
-            "role": "Modeler"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1862", 
-            "death_date": "1927", 
-            "name": "Alphonse Petit", 
-            "nationality": null, 
-            "role": "Modeler"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Montigny-sur-Loing Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1898-1900", 
-    "credit_line": "Gift of Gertrude S. Rauch in memory of her husband, John G. Rauch", 
-    "cultures": [], 
-    "dimensions": "11 3/4 in.", 
-    "dynasty": null, 
-    "irn": 24231, 
-    "materials": "stoneware, glaze", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase"
+  "publishers": [], 
+  "dimensions": "11 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Gertrude S. Rauch in memory of her husband, John G. Rauch", 
+  "accession_number": "80.257", 
+  "title": "vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18202599, 
+  "creation_date": "about 1898-1900", 
+  "materials": "stoneware, glaze", 
+  "actors": [
+    {
+      "name": "Charles Virion", 
+      "after_follower": null, 
+      "death_date": "1946", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301817, 
+      "role": "Decorator", 
+      "birth_date": "1865", 
+      "nationality": null
+    }, 
+    {
+      "name": "Albert Bou\u00e9", 
+      "after_follower": null, 
+      "death_date": "1918", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301821, 
+      "role": "Modeler", 
+      "birth_date": "1862", 
+      "nationality": null
+    }, 
+    {
+      "name": "Alphonse Petit", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301823, 
+      "role": "Modeler", 
+      "birth_date": "1862", 
+      "nationality": null
+    }, 
+    {
+      "name": "Montigny-sur-Loing Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301829, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 24231, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

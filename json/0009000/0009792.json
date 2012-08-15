@@ -1,26 +1,30 @@
 {
-    "accession_number": "27.21", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1843-1924", 
-            "death_date": "1843-1924", 
-            "name": "Sartain, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1866", 
-    "credit_line": "Gift of Mrs. Flo C. Burford", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9792, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Maiden's Prayer"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Maiden's Prayer", 
+  "accession_number": "27.21", 
+  "credit_line": "Gift of Mrs. Flo C. Burford", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154555, 
+  "creation_date": "1866", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Sartain, William", 
+      "after_follower": null, 
+      "death_date": "1843-1924", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298447, 
+      "role": "Artist", 
+      "birth_date": "1843-1924", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9792, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

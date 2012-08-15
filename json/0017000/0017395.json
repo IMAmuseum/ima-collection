@@ -1,38 +1,44 @@
 {
-    "accession_number": "29.64", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1532", 
-            "death_date": "1603", 
-            "name": "Vos, Maarten de", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1550", 
-            "death_date": "1600", 
-            "name": "Sadeler, Jan, I", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1585", 
-    "credit_line": "Gift of Mrs. Corinne Dahmen", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 17395, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Sadeler, Jan, I"
-        }
-    ], 
-    "rights": null, 
-    "title": "Venus"
+  "publishers": [
+    {
+      "name": "Sadeler, Jan, I"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Corinne Dahmen", 
+  "accession_number": "29.64", 
+  "title": "Venus", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18173105, 
+  "creation_date": "1585", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Vos, Maarten de", 
+      "after_follower": null, 
+      "death_date": "1603", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297603, 
+      "role": "Artist", 
+      "birth_date": "1532", 
+      "nationality": null
+    }, 
+    {
+      "name": "Sadeler, Jan, I", 
+      "after_follower": null, 
+      "death_date": "1600", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297605, 
+      "role": "Engraver", 
+      "birth_date": "1550", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17395, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

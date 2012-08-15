@@ -1,26 +1,30 @@
 {
-    "accession_number": "02.29", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1852", 
-            "death_date": "1921", 
-            "name": "Hagborg, August Wilhelm Nikolaus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of D. P. Erwin", 
-    "cultures": [], 
-    "dimensions": "29 x 40 in", 
-    "dynasty": null, 
-    "irn": 20015, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Young Fisherwoman"
+  "publishers": [], 
+  "dimensions": "29 x 40 in", 
+  "rights": null, 
+  "credit_line": "Bequest of D. P. Erwin", 
+  "accession_number": "02.29", 
+  "title": "Young Fisherwoman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192929, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Hagborg, August Wilhelm Nikolaus", 
+      "after_follower": null, 
+      "death_date": "1921", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300907, 
+      "role": "Artist", 
+      "birth_date": "1852", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20015, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

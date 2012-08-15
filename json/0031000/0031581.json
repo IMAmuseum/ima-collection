@@ -1,26 +1,30 @@
 {
-    "accession_number": "48.69", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of George C. Calvert", 
-    "cultures": [], 
-    "dimensions": "13 1/4 x 9", 
-    "dynasty": null, 
-    "irn": 31581, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Miyuki Pine"
+  "publishers": [], 
+  "dimensions": "13 1/4 x 9", 
+  "rights": null, 
+  "credit_line": "Gift of George C. Calvert", 
+  "accession_number": "48.69", 
+  "title": "Miyuki Pine", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18219713, 
+  "creation_date": null, 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31581, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

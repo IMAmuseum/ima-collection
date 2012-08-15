@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.26", 
-    "actors": [
-        {
-            "after_follower": "Follower of", 
-            "birth_date": "1779", 
-            "death_date": "1844", 
-            "name": "Callcott, Augustus Wall", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Estate of Elijah B. Martindale", 
-    "cultures": [], 
-    "dimensions": "15 3/4 x 19 3/8 in.", 
-    "dynasty": null, 
-    "irn": 749, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Haymakers"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "15 3/4 x 19 3/8 in.", 
+  "title": "The Haymakers", 
+  "accession_number": "67.26", 
+  "credit_line": "Estate of Elijah B. Martindale", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132997, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Callcott, Augustus Wall", 
+      "after_follower": "Follower of", 
+      "death_date": "1844", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295147, 
+      "role": "Artist", 
+      "birth_date": "1779", 
+      "nationality": null
+    }
+  ], 
+  "irn": 749, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

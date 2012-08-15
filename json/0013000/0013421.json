@@ -1,34 +1,40 @@
 {
-    "accession_number": "1986.173", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1583", 
-            "death_date": "1648", 
-            "name": "Goudt, Hendrik", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": "after", 
-            "birth_date": "1578", 
-            "death_date": "1610", 
-            "name": "Elsheimer, Adam", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1613", 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "9 7/8 x 10 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 13421, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Tobias and the Angel"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 7/8 x 10 in. (sheet)", 
+  "title": "Tobias and the Angel", 
+  "accession_number": "1986.173", 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163307, 
+  "creation_date": "1613", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Goudt, Hendrik", 
+      "after_follower": null, 
+      "death_date": "1648", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299339, 
+      "role": "Artist", 
+      "birth_date": "1583", 
+      "nationality": null
+    }, 
+    {
+      "name": "Elsheimer, Adam", 
+      "after_follower": "after", 
+      "death_date": "1610", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299343, 
+      "role": "Artist", 
+      "birth_date": "1578", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13421, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

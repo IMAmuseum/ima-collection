@@ -1,34 +1,40 @@
 {
-    "accession_number": "1992.375", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1730", 
-            "death_date": "1795", 
-            "name": "Josiah Wedgwood", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "William Beattie", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "about 1865", 
-    "credit_line": "Bequest of Ann McClelland Ropkey", 
-    "cultures": [], 
-    "dimensions": "20 x 13 1/2 x 9 1/2 in.", 
-    "dynasty": null, 
-    "irn": 34759, 
-    "materials": "hard paste porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Isaac and Rebekah"
+  "publishers": [], 
+  "dimensions": "20 x 13 1/2 x 9 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Ann McClelland Ropkey", 
+  "accession_number": "1992.375", 
+  "title": "Isaac and Rebekah", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227103, 
+  "creation_date": "about 1865", 
+  "materials": "hard paste porcelain", 
+  "actors": [
+    {
+      "name": "Josiah Wedgwood", 
+      "after_follower": null, 
+      "death_date": "1795", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297569, 
+      "role": "Manufacturer", 
+      "birth_date": "1730", 
+      "nationality": null
+    }, 
+    {
+      "name": "William Beattie", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303637, 
+      "role": "Modeler", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 34759, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

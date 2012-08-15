@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.262", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1915", 
-            "death_date": "1985", 
-            "name": "Weidenaar, Reynold Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1947", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 44700, 
-    "materials": "mezzotin", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Penitent"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "60.262", 
+  "title": "Penitent", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18252681, 
+  "creation_date": "1947", 
+  "materials": "mezzotin", 
+  "actors": [
+    {
+      "name": "Weidenaar, Reynold Henry", 
+      "after_follower": null, 
+      "death_date": "1985", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305115, 
+      "role": "Artist", 
+      "birth_date": "1915", 
+      "nationality": null
+    }
+  ], 
+  "irn": 44700, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

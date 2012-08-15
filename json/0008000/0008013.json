@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.733.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1890", 
-            "death_date": "1976", 
-            "name": "Man Ray", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1916-1917", 
-    "credit_line": "Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8013, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Legend"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": null, 
+  "title": "Legend", 
+  "accession_number": "75.733.5", 
+  "credit_line": "Emma Harter Sweetser Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18150243, 
+  "creation_date": "1916-1917", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Man Ray", 
+      "after_follower": null, 
+      "death_date": "1976", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296681, 
+      "role": "Artist", 
+      "birth_date": "1890", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8013, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

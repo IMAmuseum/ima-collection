@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.75", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1623", 
-            "death_date": "1678", 
-            "name": "Nanteuil, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1658", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36822, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Gilles Boileau"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "57.75", 
+  "title": "Gilles Boileau", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231855, 
+  "creation_date": "1658", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Nanteuil, Robert", 
+      "after_follower": null, 
+      "death_date": "1678", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297903, 
+      "role": "Artist", 
+      "birth_date": "1623", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36822, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

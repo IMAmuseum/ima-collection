@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.46.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1963", 
-            "name": "Shulz, Adolph Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1902", 
-    "credit_line": "The Family of the Artist", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 53799, 
-    "materials": "pen and ink and colored pencil on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Page 1"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "The Family of the Artist", 
+  "accession_number": "72.46.3", 
+  "title": "Page 1", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18270265, 
+  "creation_date": "1902", 
+  "materials": "pen and ink and colored pencil on off-white paper", 
+  "actors": [
+    {
+      "name": "Shulz, Adolph Robert", 
+      "after_follower": null, 
+      "death_date": "1963", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296559, 
+      "role": "Artist", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 53799, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "54.53", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1916", 
-            "death_date": null, 
-            "name": "Andersen, Mogens Helge Thestrup", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1953", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7020, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Still Life (Nature Morte)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Still Life (Nature Morte)", 
+  "accession_number": "54.53", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147941, 
+  "creation_date": "1953", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Andersen, Mogens Helge Thestrup", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297623, 
+      "role": "Artist", 
+      "birth_date": "1916", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7020, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

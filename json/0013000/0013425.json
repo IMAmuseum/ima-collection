@@ -1,26 +1,30 @@
 {
-    "accession_number": "50.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1885", 
-            "death_date": "1930", 
-            "name": "Pascin, Jules", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13425, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Group of Women"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "A Group of Women", 
+  "accession_number": "50.24", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163311, 
+  "creation_date": "20th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Pascin, Jules", 
+      "after_follower": null, 
+      "death_date": "1930", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299345, 
+      "role": "Artist", 
+      "birth_date": "1885", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13425, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

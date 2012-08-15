@@ -1,26 +1,30 @@
 {
-    "accession_number": "61.54", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1890", 
-            "death_date": "1983", 
-            "name": "Rosenberg, Louis Conrad", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1930", 
-    "credit_line": "Gift of John G. Rauch", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19702, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bab-el-Khoukha Kairovah"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of John G. Rauch", 
+  "accession_number": "61.54", 
+  "title": "Bab-el-Khoukha Kairovah", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192217, 
+  "creation_date": "1930", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Rosenberg, Louis Conrad", 
+      "after_follower": null, 
+      "death_date": "1983", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298729, 
+      "role": "Artist", 
+      "birth_date": "1890", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19702, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.253", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1896", 
-            "death_date": "1987", 
-            "name": "Masson, Andr\u00e9", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Robert Lichtenauer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 51971, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
-    "title": "untitled"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Robert Lichtenauer", 
+  "accession_number": "2001.253", 
+  "title": "untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18266383, 
+  "creation_date": "20th Century", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Masson, Andr\u00e9", 
+      "after_follower": null, 
+      "death_date": "1987", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302403, 
+      "role": "Artist", 
+      "birth_date": "1896", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51971, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

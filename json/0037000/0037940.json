@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.825.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1653", 
-            "death_date": "1727", 
-            "name": "Burghers, Michael", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1718", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37940, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Allegorical: Minerva and Hercules"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.3", 
+  "title": "Allegorical: Minerva and Hercules", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234781, 
+  "creation_date": "1718", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Burghers, Michael", 
+      "after_follower": null, 
+      "death_date": "1727", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304189, 
+      "role": "Artist", 
+      "birth_date": "1653", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37940, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

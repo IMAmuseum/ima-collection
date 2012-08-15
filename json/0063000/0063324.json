@@ -1,30 +1,34 @@
 {
-    "accession_number": "2006.69", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1825", 
-            "name": "Utagawa Toyokuni", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1810", 
-    "credit_line": "Gift of Thomas and Marsha French in memory of Kumazo Anthony Teramoto", 
-    "cultures": [], 
-    "dimensions": "10 1/4 x 15 1/4 in.", 
-    "dynasty": null, 
-    "irn": 63324, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Nishimura-ya Yohachi"
-        }
-    ], 
-    "rights": null, 
-    "title": "Treasury of Loyal Retainers (Ch^ushingura), 12 Acts: Prologue [Examination of the Helmets]"
+  "publishers": [
+    {
+      "name": "Nishimura-ya Yohachi"
+    }
+  ], 
+  "dimensions": "10 1/4 x 15 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Thomas and Marsha French in memory of Kumazo Anthony Teramoto", 
+  "accession_number": "2006.69", 
+  "title": "Treasury of Loyal Retainers (Ch^ushingura), 12 Acts: Prologue [Examination of the Helmets]", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18278437, 
+  "creation_date": "about 1810", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Toyokuni", 
+      "after_follower": null, 
+      "death_date": "1825", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296819, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63324, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

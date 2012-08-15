@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1898", 
-            "death_date": "1991", 
-            "name": "Abbott, Berenice", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century/1ST HALF", 
-    "credit_line": "Miscellaneous Print Fund, Carl H. Lieber Memorial Fund, Jacob Metzger Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 57944, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Berenice Abbott/Commerce Graphics, NYC", 
-    "title": "Willow Street, Brooklyn"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Berenice Abbott/Commerce Graphics, NYC", 
+  "credit_line": "Miscellaneous Print Fund, Carl H. Lieber Memorial Fund, Jacob Metzger Memorial Fund", 
+  "accession_number": "2002.32", 
+  "title": "Willow Street, Brooklyn", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18274845, 
+  "creation_date": "20th Century/1ST HALF", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Abbott, Berenice", 
+      "after_follower": null, 
+      "death_date": "1991", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299693, 
+      "role": "Artist", 
+      "birth_date": "1898", 
+      "nationality": null
+    }
+  ], 
+  "irn": 57944, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

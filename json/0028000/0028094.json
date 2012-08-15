@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.176", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1924", 
-            "death_date": null, 
-            "name": "Walter Stein", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1973", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "80 1/2 x 68 1/2 in.", 
-    "dynasty": null, 
-    "irn": 28094, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Walter Stein", 
-    "title": "Portrait of Josephine Cowgill Jameson"
+  "publishers": [], 
+  "dimensions": "80 1/2 x 68 1/2 in.", 
+  "rights": "\u00a9 Walter Stein", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.176", 
+  "title": "Portrait of Josephine Cowgill Jameson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211613, 
+  "creation_date": "1973", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Walter Stein", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302569, 
+      "role": "Artist", 
+      "birth_date": "1924", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28094, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,38 +1,44 @@
 {
-    "accession_number": "1991.288", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1933", 
-            "death_date": null, 
-            "name": "Joseph Raffael", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "John Sommers", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of Holliday T. Day", 
-    "cultures": [], 
-    "dimensions": "21 7/8 x 30 in. | 22 x 30 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 34145, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tamarind Institute"
-        }
-    ], 
-    "rights": null, 
-    "title": "Island Magic"
+  "publishers": [
+    {
+      "name": "Tamarind Institute"
+    }
+  ], 
+  "dimensions": "21 7/8 x 30 in. | 22 x 30 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Holliday T. Day", 
+  "accession_number": "1991.288", 
+  "title": "Island Magic", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18225697, 
+  "creation_date": "1975", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Joseph Raffael", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303487, 
+      "role": "Artist", 
+      "birth_date": "1933", 
+      "nationality": null
+    }, 
+    {
+      "name": "John Sommers", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299571, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 34145, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

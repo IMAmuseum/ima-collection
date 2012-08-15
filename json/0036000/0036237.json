@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.54", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1600", 
-            "death_date": "1635", 
-            "name": "Vliet, Jan Georg van", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1631", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36237, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lot and his Daughters"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "57.54", 
+  "title": "Lot and his Daughters", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230489, 
+  "creation_date": "1631", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Vliet, Jan Georg van", 
+      "after_follower": null, 
+      "death_date": "1635", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297987, 
+      "role": "Artist", 
+      "birth_date": "1600", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36237, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

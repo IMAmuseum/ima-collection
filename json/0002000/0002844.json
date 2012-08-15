@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.12.111A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1910", 
-            "death_date": "1981", 
-            "name": "Hirsch, Joseph", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1942", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2844, 
-    "materials": "offset lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Til We Meet Again Buy War Bonds"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Til We Meet Again Buy War Bonds", 
+  "accession_number": "72.12.111A", 
+  "credit_line": "Museum Accession", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138079, 
+  "creation_date": "1942", 
+  "materials": "offset lithograph", 
+  "actors": [
+    {
+      "name": "Hirsch, Joseph", 
+      "after_follower": null, 
+      "death_date": "1981", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296141, 
+      "role": "Artist", 
+      "birth_date": "1910", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2844, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

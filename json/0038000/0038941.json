@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.110", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1867", 
-            "death_date": "1947", 
-            "name": "Bonnard, Pierre", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1925", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38941, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Le Coupe et le Compotier"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
+  "accession_number": "2000.110", 
+  "title": "Le Coupe et le Compotier", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18237533, 
+  "creation_date": "1925", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Bonnard, Pierre", 
+      "after_follower": null, 
+      "death_date": "1947", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299191, 
+      "role": "Artist", 
+      "birth_date": "1867", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38941, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

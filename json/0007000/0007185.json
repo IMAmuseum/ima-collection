@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.73E", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1572-1673", 
-            "death_date": "1572-1673", 
-            "name": "Ben Johnson", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1816", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "9 7/8 x 6 3/8 in.", 
-    "dynasty": null, 
-    "irn": 7185, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "W. Bulmer and Co."
-        }
-    ], 
-    "rights": null, 
-    "title": "book"
+  "publishers": [
+    {
+      "name": "W. Bulmer and Co."
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "9 7/8 x 6 3/8 in.", 
+  "title": "book", 
+  "accession_number": "LH2003.73E", 
+  "credit_line": "Museum Accession", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18148331, 
+  "creation_date": "1816", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Ben Johnson", 
+      "after_follower": null, 
+      "death_date": "1572-1673", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294743, 
+      "role": "Author", 
+      "birth_date": "1572-1673", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7185, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

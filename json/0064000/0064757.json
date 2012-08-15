@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.544", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1959", 
-            "death_date": null, 
-            "name": "Morrison, Jasper", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Magis S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Gift of Magis", 
-    "cultures": [], 
-    "dimensions": "27 \u00d7 25 1/4  \u00d7 25 1/4  in.", 
-    "dynasty": null, 
-    "irn": 64757, 
-    "materials": "polypropylene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jasper Morrison", 
-    "title": "Air table"
+  "publishers": [], 
+  "dimensions": "27 \u00d7 25 1/4  \u00d7 25 1/4  in.", 
+  "rights": "\u00a9 Jasper Morrison", 
+  "credit_line": "Gift of Magis", 
+  "accession_number": "2009.544", 
+  "title": "Air table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279277, 
+  "creation_date": "2000", 
+  "materials": "polypropylene", 
+  "actors": [
+    {
+      "name": "Morrison, Jasper", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307081, 
+      "role": "Designer", 
+      "birth_date": "1959", 
+      "nationality": null
+    }, 
+    {
+      "name": "Magis S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306915, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64757, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

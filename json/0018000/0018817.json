@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.21", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1803", 
-            "death_date": "1886", 
-            "name": "Zhang Xiong", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1879", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 18817, 
-    "materials": "ink and colors on silk or paper.fan painting.", 
-    "on_view": false, 
-    "period": "Guangxu", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "flowers and rock"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.21", 
+  "title": "flowers and rock", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Guangxu", 
+  "artisinal:id": 18190131, 
+  "creation_date": "1879", 
+  "materials": "ink and colors on silk or paper.fan painting.", 
+  "actors": [
+    {
+      "name": "Zhang Xiong", 
+      "after_follower": null, 
+      "death_date": "1886", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300677, 
+      "role": "Artist", 
+      "birth_date": "1803", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18817, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

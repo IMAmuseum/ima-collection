@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.825.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1653", 
-            "death_date": "1727", 
-            "name": "Burghers, Michael", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1719", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37941, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Allegorical: Arts of Civilization"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.4", 
+  "title": "Allegorical: Arts of Civilization", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234783, 
+  "creation_date": "1719", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Burghers, Michael", 
+      "after_follower": null, 
+      "death_date": "1727", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304189, 
+      "role": "Artist", 
+      "birth_date": "1653", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37941, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.528F", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": null, 
-            "name": "Swan, Barbara", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Dr. Arthur Herrington", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2709, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Harold Lovish"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Harold Lovish", 
+  "accession_number": "74.528F", 
+  "credit_line": "Gift of Dr. Arthur Herrington", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137751, 
+  "creation_date": "1970", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Swan, Barbara", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296091, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2709, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

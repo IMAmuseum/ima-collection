@@ -1,26 +1,30 @@
 {
-    "accession_number": "1990.57", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1944", 
-            "death_date": null, 
-            "name": "Steinbach, Haim", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1990", 
-    "credit_line": "Henry F. and Katherine D. DeBoest Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "51 3/8 x 94 x 15 3/4 in.", 
-    "dynasty": null, 
-    "irn": 24733, 
-    "materials": "leather, wood, feathers, stoneware, plastic laminate", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Haim Steinbach", 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": "51 3/8 x 94 x 15 3/4 in.", 
+  "rights": "\u00a9 Haim Steinbach", 
+  "credit_line": "Henry F. and Katherine D. DeBoest Memorial Fund", 
+  "accession_number": "1990.57", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18203747, 
+  "creation_date": "1990", 
+  "materials": "leather, wood, feathers, stoneware, plastic laminate", 
+  "actors": [
+    {
+      "name": "Steinbach, Haim", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301905, 
+      "role": "Artist", 
+      "birth_date": "1944", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24733, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

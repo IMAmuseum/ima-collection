@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.8A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1714", 
-            "death_date": "1799", 
-            "name": "Major, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 30119, 
-    "materials": "engaving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Two Figures and Landscape"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.8A", 
+  "title": "Two Figures and Landscape", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18216333, 
+  "creation_date": "18th century", 
+  "materials": "engaving", 
+  "actors": [
+    {
+      "name": "Major, Thomas", 
+      "after_follower": null, 
+      "death_date": "1799", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297223, 
+      "role": "Artist", 
+      "birth_date": "1714", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30119, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

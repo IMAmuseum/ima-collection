@@ -1,26 +1,30 @@
 {
-    "accession_number": "2005.83", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1807", 
-            "death_date": "1895", 
-            "name": "Kiehl, Benjamin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1837", 
-    "credit_line": "Gift of Shirley DeCamp Gardner", 
-    "cultures": [], 
-    "dimensions": "98 x 76 1/2 in.", 
-    "dynasty": null, 
-    "irn": 63021, 
-    "materials": "wool", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Jacquard coverlet"
+  "publishers": [], 
+  "dimensions": "98 x 76 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Shirley DeCamp Gardner", 
+  "accession_number": "2005.83", 
+  "title": "Jacquard coverlet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278219, 
+  "creation_date": "1837", 
+  "materials": "wool", 
+  "actors": [
+    {
+      "name": "Kiehl, Benjamin", 
+      "after_follower": null, 
+      "death_date": "1895", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306501, 
+      "role": "Artist", 
+      "birth_date": "1807", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63021, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1844", 
-            "death_date": "1916", 
-            "name": "Eakins, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1896", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "23 1/2 x 19 3/4 in.\n32 x 28 1/2 in. (framed)", 
-    "dynasty": null, 
-    "irn": 15601, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Pianist (Stanley Addicks)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "23 1/2 x 19 3/4 in.\n32 x 28 1/2 in. (framed)", 
+  "title": "The Pianist (Stanley Addicks)", 
+  "accession_number": "40.9", 
+  "credit_line": "James E. Roberts Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168417, 
+  "creation_date": "1896", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Eakins, Thomas", 
+      "after_follower": null, 
+      "death_date": "1916", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299929, 
+      "role": "Artist", 
+      "birth_date": "1844", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15601, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

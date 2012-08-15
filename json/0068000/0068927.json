@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.248A-D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Sipek, Borek", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Driade S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Gift of Robert and Lisa Kessler", 
-    "cultures": [], 
-    "dimensions": "15 x 8 x 3 in. overall\nA) case: 9 3/4 x 7 x 3 3/4 in.; B) fork: 13 1/4 x 2 3/4 in.; C) knife: 13 x 3 1/4 in.; D) block: 8 1/2 x 4 3/4 x 3 in.", 
-    "dynasty": null, 
-    "irn": 68927, 
-    "materials": "silver plate, ebony, and painted rosewood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Borek \u008a\u00edpek", 
-    "title": "Ares knife block set"
+  "publishers": [], 
+  "dimensions": "15 x 8 x 3 in. overall\nA) case: 9 3/4 x 7 x 3 3/4 in.; B) fork: 13 1/4 x 2 3/4 in.; C) knife: 13 x 3 1/4 in.; D) block: 8 1/2 x 4 3/4 x 3 in.", 
+  "rights": "\u00a9 Borek \u008a\u00edpek", 
+  "credit_line": "Gift of Robert and Lisa Kessler", 
+  "accession_number": "2010.248A-D", 
+  "title": "Ares knife block set", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283861, 
+  "creation_date": "1992", 
+  "materials": "silver plate, ebony, and painted rosewood", 
+  "actors": [
+    {
+      "name": "Sipek, Borek", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307133, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "Driade S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307137, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68927, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

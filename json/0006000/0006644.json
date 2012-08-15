@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.237", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1736", 
-            "death_date": null, 
-            "name": "Coulet, Anne-Philiberte", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6644, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L' Heureux Passage"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "L' Heureux Passage", 
+  "accession_number": "09.237", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147017, 
+  "creation_date": "18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Coulet, Anne-Philiberte", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297259, 
+      "role": "Artist", 
+      "birth_date": "1736", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6644, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

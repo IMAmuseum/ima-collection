@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.502", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1805", 
-            "death_date": "1876", 
-            "name": "Lewis, John Frederick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Purchased from the John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1961, 
-    "materials": "etching on India paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Stable Scene"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Stable Scene", 
+  "accession_number": "13.502", 
+  "credit_line": "Purchased from the John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135993, 
+  "creation_date": "19th century", 
+  "materials": "etching on India paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Lewis, John Frederick", 
+      "after_follower": null, 
+      "death_date": "1876", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295717, 
+      "role": "Artist", 
+      "birth_date": "1805", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1961, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

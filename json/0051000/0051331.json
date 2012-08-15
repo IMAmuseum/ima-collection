@@ -1,30 +1,34 @@
 {
-    "accession_number": "30.389", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Utagawa Hirokage", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1859", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": "13 1/4 x 8 3/4 in. (image)\n13 3/4 x 9 1/2 in. (sheet, trimmed at bottom)", 
-    "dynasty": null, 
-    "irn": 51331, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tsujioka-ya Bunsuke"
-        }
-    ], 
-    "rights": null, 
-    "title": "Fishermen at Ochanomizu (Ochanomizu no tsuribito)"
+  "publishers": [
+    {
+      "name": "Tsujioka-ya Bunsuke"
+    }
+  ], 
+  "dimensions": "13 1/4 x 8 3/4 in. (image)\n13 3/4 x 9 1/2 in. (sheet, trimmed at bottom)", 
+  "rights": null, 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "accession_number": "30.389", 
+  "title": "Fishermen at Ochanomizu (Ochanomizu no tsuribito)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18264853, 
+  "creation_date": "1859", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hirokage", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305399, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 51331, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

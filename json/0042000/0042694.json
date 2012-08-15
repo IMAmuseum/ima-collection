@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.769.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1790", 
-            "death_date": "1848", 
-            "name": "Dawe, Henry Edward", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "January 1, 1819", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "7 1/8 x 10 1/4 in (image) \n8 3/16 x 11 3/8 in (plate) \n11 5/8 x 16 13/16 in (sheet)", 
-    "dynasty": null, 
-    "irn": 42694, 
-    "materials": "mezzotint over etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Isleworth"
+  "publishers": [], 
+  "dimensions": "7 1/8 x 10 1/4 in (image) \n8 3/16 x 11 3/8 in (plate) \n11 5/8 x 16 13/16 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.769.3", 
+  "title": "Isleworth", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18248039, 
+  "creation_date": "January 1, 1819", 
+  "materials": "mezzotint over etching", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Dawe, Henry Edward", 
+      "after_follower": null, 
+      "death_date": "1848", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294755, 
+      "role": "Engraver", 
+      "birth_date": "1790", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42694, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

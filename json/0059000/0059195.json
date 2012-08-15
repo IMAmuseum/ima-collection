@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.112", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1903", 
-            "death_date": "2001", 
-            "name": "Vicente, Esteban", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 59195, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "untitled"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2002.112", 
+  "title": "untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276061, 
+  "creation_date": null, 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Vicente, Esteban", 
+      "after_follower": null, 
+      "death_date": "2001", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303401, 
+      "role": "Artist", 
+      "birth_date": "1903", 
+      "nationality": null
+    }
+  ], 
+  "irn": 59195, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

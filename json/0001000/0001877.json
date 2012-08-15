@@ -1,26 +1,30 @@
 {
-    "accession_number": "21.133", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1926", 
-            "name": "Stark, Otto", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1901", 
-    "credit_line": "Gift of Otto Stark", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1877, 
-    "materials": "crayon on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Three Children"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Three Children", 
+  "accession_number": "21.133", 
+  "credit_line": "Gift of Otto Stark", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135793, 
+  "creation_date": "1901", 
+  "materials": "crayon on off-white paper", 
+  "actors": [
+    {
+      "name": "Stark, Otto", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295679, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1877, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

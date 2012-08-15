@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.80-85", 
-    "actors": [
-        {
-            "after_follower": "Copy of", 
-            "birth_date": "1049", 
-            "death_date": "1106", 
-            "name": "Li Gonglin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Thomas D Canada", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 53904, 
-    "materials": "ink on silk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Tribute bearers"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Thomas D Canada", 
+  "accession_number": "78.80-85", 
+  "title": "Tribute bearers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18270467, 
+  "creation_date": null, 
+  "materials": "ink on silk", 
+  "actors": [
+    {
+      "name": "Li Gonglin", 
+      "after_follower": "Copy of", 
+      "death_date": "1106", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305579, 
+      "role": "Artist", 
+      "birth_date": "1049", 
+      "nationality": null
+    }
+  ], 
+  "irn": 53904, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

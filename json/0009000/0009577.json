@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1794", 
-    "credit_line": "Gift in memory of Evan F. Lilly", 
-    "cultures": [], 
-    "dimensions": "12 1/16 x 16 1/2 in", 
-    "dynasty": null, 
-    "irn": 9577, 
-    "materials": "watercolor over pencil on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "King Edgar's Gate, Worcester"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "12 1/16 x 16 1/2 in", 
+  "title": "King Edgar's Gate, Worcester", 
+  "accession_number": "55.23", 
+  "credit_line": "Gift in memory of Evan F. Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154059, 
+  "creation_date": "about 1794", 
+  "materials": "watercolor over pencil on white paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9577, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

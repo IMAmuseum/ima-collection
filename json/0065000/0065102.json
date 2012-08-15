@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.186", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1929", 
-            "death_date": null, 
-            "name": "Gehry, Frank Owen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "New City Editions", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1979-1982", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "34 1/4 x 28 x 80 3/4 in.", 
-    "dynasty": null, 
-    "irn": 65102, 
-    "materials": "corrugated cardboard", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Frank Owen Gehry", 
-    "title": "Bubbles Chaise Lounge"
+  "publishers": [], 
+  "dimensions": "34 1/4 x 28 x 80 3/4 in.", 
+  "rights": "\u00a9 Frank Owen Gehry", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "2008.186", 
+  "title": "Bubbles Chaise Lounge", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279665, 
+  "creation_date": "1979-1982", 
+  "materials": "corrugated cardboard", 
+  "actors": [
+    {
+      "name": "Gehry, Frank Owen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307293, 
+      "role": "Designer", 
+      "birth_date": "1929", 
+      "nationality": null
+    }, 
+    {
+      "name": "New City Editions", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307295, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65102, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

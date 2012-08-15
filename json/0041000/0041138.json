@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1614.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1782", 
-            "death_date": "1850", 
-            "name": "Allan, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1839", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41138, 
-    "materials": "engraving on plain paper with hand-coloring", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Entrance Porch, Abbotsford"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1614.2", 
+  "title": "Entrance Porch, Abbotsford", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243787, 
+  "creation_date": "1839", 
+  "materials": "engraving on plain paper with hand-coloring", 
+  "actors": [
+    {
+      "name": "Allan, William", 
+      "after_follower": null, 
+      "death_date": "1850", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304681, 
+      "role": "Artist", 
+      "birth_date": "1782", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41138, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

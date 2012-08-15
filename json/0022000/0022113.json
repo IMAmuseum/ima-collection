@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.13.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ernst, Max", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 22113, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "L' Oiseau M\u00e8re"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Sweetser Fund", 
+  "accession_number": "73.13.2", 
+  "title": "L' Oiseau M\u00e8re", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18197667, 
+  "creation_date": "20th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Ernst, Max", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301351, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 22113, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.13", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1697", 
-            "death_date": "1764", 
-            "name": "Hogarth, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1725-1726", 
-    "credit_line": "Purchased from the John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "9 5/8 x 19 5/8 in. (image)\n10 5/8 x 20 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 15017, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hudibras and the Skimmington"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 5/8 x 19 5/8 in. (image)\n10 5/8 x 20 1/8 in. (sheet)", 
+  "title": "Hudibras and the Skimmington", 
+  "accession_number": "11.13", 
+  "credit_line": "Purchased from the John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167137, 
+  "creation_date": "1725-1726", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Hogarth, William", 
+      "after_follower": null, 
+      "death_date": "1764", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294939, 
+      "role": "Artist", 
+      "birth_date": "1697", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15017, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

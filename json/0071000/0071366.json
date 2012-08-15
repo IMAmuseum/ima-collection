@@ -1,30 +1,34 @@
 {
-    "accession_number": "2011.25A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1955", 
-            "death_date": null, 
-            "name": "Wool, Christopher", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Gift of the Sam Francis Foundation", 
-    "cultures": [], 
-    "dimensions": "Image: 15 7/8 x 11 7/8 in. (each)\nSheet:  25 x 20 in. (each)\nOverall: 25 x 60 in.", 
-    "dynasty": null, 
-    "irn": 71366, 
-    "materials": "soft-ground etching on off-white wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Lapsis Press"
-        }
-    ], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled (Triptych)"
+  "publishers": [], 
+  "dimensions": "Image: 15 7/8 x 11 7/8 in. (each)\nSheet:  25 x 20 in. (each)\nOverall: 25 x 60 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Sam Francis Foundation", 
+  "accession_number": "2011.25A-C", 
+  "title": "Untitled (Triptych)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287057, 
+  "creation_date": "1998", 
+  "materials": "soft-ground etching on off-white wove paper", 
+  "actors": [
+    {
+      "name": "Wool, Christopher", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308409, 
+      "role": "Artist", 
+      "birth_date": "1955", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71366, 
+  "printers": [
+    {
+      "name": "Lapsis Press"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

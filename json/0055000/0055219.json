@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.43.25", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1626", 
-            "death_date": "1678", 
-            "name": "Dujardin, Karel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Mrs. Herbert S. Call", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55219, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Pastural"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herbert S. Call", 
+  "accession_number": "72.43.25", 
+  "title": "Pastural", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272363, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Dujardin, Karel", 
+      "after_follower": null, 
+      "death_date": "1678", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296683, 
+      "role": "Artist", 
+      "birth_date": "1626", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55219, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

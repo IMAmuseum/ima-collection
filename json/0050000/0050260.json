@@ -1,26 +1,30 @@
 {
-    "accession_number": "17.224", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1848", 
-            "death_date": "1919", 
-            "name": "Duveneck, Frank", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Sculptor, Frank Duveneck", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 50260, 
-    "materials": "Plaster Cast", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Memorial to Elizabeth B. Duveneck"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Sculptor, Frank Duveneck", 
+  "accession_number": "17.224", 
+  "title": "Memorial to Elizabeth B. Duveneck", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18262319, 
+  "creation_date": null, 
+  "materials": "Plaster Cast", 
+  "actors": [
+    {
+      "name": "Duveneck, Frank", 
+      "after_follower": null, 
+      "death_date": "1919", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295049, 
+      "role": "Artist", 
+      "birth_date": "1848", 
+      "nationality": null
+    }
+  ], 
+  "irn": 50260, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.100", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1895", 
-            "death_date": "1982", 
-            "name": "Ora I. Maxim", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1895-1982", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 59006, 
-    "materials": "color woodblock print", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Sun Bath"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2002.100", 
+  "title": "The Sun Bath", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276001, 
+  "creation_date": "1895-1982", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Ora I. Maxim", 
+      "after_follower": null, 
+      "death_date": "1982", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302211, 
+      "role": "Artist", 
+      "birth_date": "1895", 
+      "nationality": null
+    }
+  ], 
+  "irn": 59006, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

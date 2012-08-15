@@ -1,34 +1,38 @@
 {
-    "accession_number": "2009.14", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1923", 
-            "death_date": null, 
-            "name": "Kelly, Ellsworth", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1964-1965", 
-    "credit_line": "Bequest of Eldon and Friedy Nyhart", 
-    "cultures": [], 
-    "dimensions": "35 1/8 x 23 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 67174, 
-    "materials": "color lithograph on cream wove BFK Rives paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Marcel Durassier"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Galerie Maeght, Editeur"
-        }
-    ], 
-    "rights": "\u00a9 Ellsworth Kelly", 
-    "title": "Blue and Yellow and Red-Orange"
+  "publishers": [
+    {
+      "name": "Galerie Maeght, Editeur"
+    }
+  ], 
+  "dimensions": "35 1/8 x 23 5/8 in. (sheet)", 
+  "rights": "\u00a9 Ellsworth Kelly", 
+  "credit_line": "Bequest of Eldon and Friedy Nyhart", 
+  "accession_number": "2009.14", 
+  "title": "Blue and Yellow and Red-Orange", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282427, 
+  "creation_date": "1964-1965", 
+  "materials": "color lithograph on cream wove BFK Rives paper", 
+  "actors": [
+    {
+      "name": "Kelly, Ellsworth", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295401, 
+      "role": "Artist", 
+      "birth_date": "1923", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67174, 
+  "printers": [
+    {
+      "name": "Marcel Durassier"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

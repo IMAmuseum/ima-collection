@@ -1,26 +1,30 @@
 {
-    "accession_number": "2008.118", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1971", 
-            "name": "Baumann, Gustave", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1927", 
-    "credit_line": "Gift of Ann Baumann", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 65275, 
-    "materials": "graphite on gray laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gustave Baumann", 
-    "title": "Ocotillo"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Gustave Baumann", 
+  "credit_line": "Gift of Ann Baumann", 
+  "accession_number": "2008.118", 
+  "title": "Ocotillo", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279869, 
+  "creation_date": "about 1927", 
+  "materials": "graphite on gray laid paper", 
+  "actors": [
+    {
+      "name": "Baumann, Gustave", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295839, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 65275, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

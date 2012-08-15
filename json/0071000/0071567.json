@@ -1,26 +1,30 @@
 {
-    "accession_number": "2011.95", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1887", 
-            "death_date": "1949", 
-            "name": "Curtis Moffat", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1925-1929", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Dr. Thomas Kuebler, Dr. Barbara Herman and Dr. Charlotte Ray", 
-    "cultures": [], 
-    "dimensions": "9 1/2 x 11 3/4 in. (image and sheet)", 
-    "dynasty": null, 
-    "irn": 71567, 
-    "materials": "photogram: gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Photogram Experiment"
+  "publishers": [], 
+  "dimensions": "9 1/2 x 11 3/4 in. (image and sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Dr. Thomas Kuebler, Dr. Barbara Herman and Dr. Charlotte Ray", 
+  "accession_number": "2011.95", 
+  "title": "Photogram Experiment", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287267, 
+  "creation_date": "1925-1929", 
+  "materials": "photogram: gelatin silver print", 
+  "actors": [
+    {
+      "name": "Curtis Moffat", 
+      "after_follower": null, 
+      "death_date": "1949", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308449, 
+      "role": "Artist", 
+      "birth_date": "1887", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71567, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

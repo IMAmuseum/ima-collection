@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1810", 
-            "death_date": "1882", 
-            "name": "Chen Li", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1880", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 27024, 
-    "materials": "ink on silk or paper. fan painting.", 
-    "on_view": false, 
-    "period": "Guangxu", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Orchid in blossom"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.23", 
+  "title": "Orchid in blossom", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Guangxu", 
+  "artisinal:id": 18209085, 
+  "creation_date": "1880", 
+  "materials": "ink on silk or paper. fan painting.", 
+  "actors": [
+    {
+      "name": "Chen Li", 
+      "after_follower": null, 
+      "death_date": "1882", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302365, 
+      "role": "Artist", 
+      "birth_date": "1810", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27024, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

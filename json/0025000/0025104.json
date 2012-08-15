@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1862", 
-            "death_date": "1928", 
-            "name": "Davies, Arthur Bowen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1921", 
-    "credit_line": "Daniel P. Erwin Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25104, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Pyramid"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Daniel P. Erwin Fund", 
+  "accession_number": "24.24", 
+  "title": "Pyramid", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204589, 
+  "creation_date": "1921", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Davies, Arthur Bowen", 
+      "after_follower": null, 
+      "death_date": "1928", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297081, 
+      "role": "Artist", 
+      "birth_date": "1862", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25104, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

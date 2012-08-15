@@ -1,34 +1,40 @@
 {
-    "accession_number": "26.19", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1801", 
-            "death_date": "1828", 
-            "name": "Bonington, Richard Parkes", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1788", 
-            "death_date": "1839", 
-            "name": "Engelmann, Gottfried", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1824", 
-    "credit_line": "Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": "17 1/8 x 12 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 14641, 
-    "materials": "lithograph chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Tour du Gros Horloge, Evreux"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "17 1/8 x 12 1/2 in. (sheet)", 
+  "title": "Tour du Gros Horloge, Evreux", 
+  "accession_number": "26.19", 
+  "credit_line": "Julius F. Pratt Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166225, 
+  "creation_date": "1824", 
+  "materials": "lithograph chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Bonington, Richard Parkes", 
+      "after_follower": null, 
+      "death_date": "1828", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299677, 
+      "role": "Artist", 
+      "birth_date": "1801", 
+      "nationality": null
+    }, 
+    {
+      "name": "Engelmann, Gottfried", 
+      "after_follower": null, 
+      "death_date": "1839", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299679, 
+      "role": "Printer", 
+      "birth_date": "1788", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14641, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

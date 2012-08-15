@@ -1,34 +1,40 @@
 {
-    "accession_number": "1997.49", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1843", 
-            "death_date": "1916", 
-            "name": "Alexandre Sandier", 
-            "nationality": "French", 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "S\u00e8vres Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1902", 
-    "credit_line": "Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "24 1/2 in.", 
-    "dynasty": null, 
-    "irn": 31596, 
-    "materials": "hard paste porcelain, polychrome enamels", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase (vase de Marly)"
+  "publishers": [], 
+  "dimensions": "24 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks", 
+  "accession_number": "1997.49", 
+  "title": "vase (vase de Marly)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18219751, 
+  "creation_date": "1902", 
+  "materials": "hard paste porcelain, polychrome enamels", 
+  "actors": [
+    {
+      "name": "Alexandre Sandier", 
+      "after_follower": null, 
+      "death_date": "1916", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303087, 
+      "role": "Designer", 
+      "birth_date": "1843", 
+      "nationality": "French"
+    }, 
+    {
+      "name": "S\u00e8vres Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295809, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 31596, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

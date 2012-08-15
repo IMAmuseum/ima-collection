@@ -1,26 +1,30 @@
 {
-    "accession_number": "1984.47", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1868", 
-            "death_date": "1962", 
-            "name": "Bradley, William H.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1896", 
-    "credit_line": "Miscellaneous Print Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10488, 
-    "materials": "ink | aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bradley, His Book, Prospectus"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Bradley, His Book, Prospectus", 
+  "accession_number": "1984.47", 
+  "credit_line": "Miscellaneous Print Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156195, 
+  "creation_date": "1896", 
+  "materials": "ink | aquatint", 
+  "actors": [
+    {
+      "name": "Bradley, William H.", 
+      "after_follower": null, 
+      "death_date": "1962", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296883, 
+      "role": "Artist", 
+      "birth_date": "1868", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10488, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

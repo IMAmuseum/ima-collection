@@ -1,26 +1,30 @@
 {
-    "accession_number": "08.51", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1817", 
-            "death_date": "1878", 
-            "name": "Daubigny, Charles Fran\u00e7ois", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 29400, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Depart des Hirondelles"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "08.51", 
+  "title": "Le Depart des Hirondelles", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18214669, 
+  "creation_date": "19th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Daubigny, Charles Fran\u00e7ois", 
+      "after_follower": null, 
+      "death_date": "1878", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294829, 
+      "role": "Artist", 
+      "birth_date": "1817", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29400, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

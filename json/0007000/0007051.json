@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.105", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1857", 
-            "death_date": "1903", 
-            "name": "Blum, Robert Frederick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1879", 
-    "credit_line": "Gift of Cincinnati Museum Association", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7051, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Japanese Woman in Kimono"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Japanese Woman in Kimono", 
+  "accession_number": "11.105", 
+  "credit_line": "Gift of Cincinnati Museum Association", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18148015, 
+  "creation_date": "1879", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Blum, Robert Frederick", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295861, 
+      "role": "Artist", 
+      "birth_date": "1857", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7051, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

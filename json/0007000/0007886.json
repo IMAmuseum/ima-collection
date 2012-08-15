@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.1000", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1897", 
-            "death_date": "1977", 
-            "name": "Gropper, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Gift of Dr. Gilbert Erlechman", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7886, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Estate of William Gropper", 
-    "title": "Bulgarian Shepherd (Black and Olive Stone)"
+  "publishers": [], 
+  "rights": "\u00a9 The Estate of William Gropper", 
+  "dimensions": null, 
+  "title": "Bulgarian Shepherd (Black and Olive Stone)", 
+  "accession_number": "81.1000", 
+  "credit_line": "Gift of Dr. Gilbert Erlechman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149959, 
+  "creation_date": "20th century", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Gropper, William", 
+      "after_follower": null, 
+      "death_date": "1977", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294735, 
+      "role": "Artist", 
+      "birth_date": "1897", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7886, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

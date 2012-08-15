@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.58", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1590", 
-            "death_date": "1652", 
-            "name": "Ribera, Jusepe de", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1628", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "10 1/2 x 13 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 37201, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Drunken Silenus"
+  "publishers": [], 
+  "dimensions": "10 1/2 x 13 5/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "52.58", 
+  "title": "Drunken Silenus", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232725, 
+  "creation_date": "1628", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Ribera, Jusepe de", 
+      "after_follower": null, 
+      "death_date": "1652", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303251, 
+      "role": "Artist", 
+      "birth_date": "1590", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37201, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

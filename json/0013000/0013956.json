@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.232", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1855", 
-            "death_date": "1926", 
-            "name": "Angrand, Charles", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1886", 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "8 5/8 x 15 13/16 in.", 
-    "dynasty": null, 
-    "irn": 13956, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Path in the Country"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "8 5/8 x 15 13/16 in.", 
+  "title": "Path in the Country", 
+  "accession_number": "79.232", 
+  "credit_line": "The Holliday Collection", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164589, 
+  "creation_date": "about 1886", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Angrand, Charles", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299477, 
+      "role": "Artist", 
+      "birth_date": "1855", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13956, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

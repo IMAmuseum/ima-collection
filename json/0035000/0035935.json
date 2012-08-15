@@ -1,34 +1,40 @@
 {
-    "accession_number": "24.267", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1813", 
-            "death_date": "1894", 
-            "name": "Jacque, Charles \u00c9mile", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1907", 
-            "name": "Del\u00e2tre, Auguste", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of the children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35935, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Une Cour \u00e0 Paris en 1865"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the children of Thomas E. Hibben", 
+  "accession_number": "24.267", 
+  "title": "Une Cour \u00e0 Paris en 1865", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229761, 
+  "creation_date": "19th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Jacque, Charles \u00c9mile", 
+      "after_follower": null, 
+      "death_date": "1894", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296231, 
+      "role": "Artist", 
+      "birth_date": "1813", 
+      "nationality": null
+    }, 
+    {
+      "name": "Del\u00e2tre, Auguste", 
+      "after_follower": null, 
+      "death_date": "1907", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294903, 
+      "role": "Printer", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35935, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

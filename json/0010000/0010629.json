@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.929", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1897", 
-            "death_date": "1977", 
-            "name": "Gropper, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1945", 
-    "credit_line": "Gift of Dr. Gilbert Erlechman", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10629, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Estate of William Gropper", 
-    "title": "McCarran"
+  "publishers": [], 
+  "rights": "\u00a9 The Estate of William Gropper", 
+  "dimensions": null, 
+  "title": "McCarran", 
+  "accession_number": "81.929", 
+  "credit_line": "Gift of Dr. Gilbert Erlechman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156531, 
+  "creation_date": "about 1945", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Gropper, William", 
+      "after_follower": null, 
+      "death_date": "1977", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294735, 
+      "role": "Artist", 
+      "birth_date": "1897", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10629, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

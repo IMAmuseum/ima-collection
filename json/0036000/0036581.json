@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.264", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1736", 
-            "death_date": null, 
-            "name": "Coulet, Anne-Philiberte", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1736-1800", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36581, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Rend\u00e9s vous \u00e0 la Collonne"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.264", 
+  "title": "Le Rend\u00e9s vous \u00e0 la Collonne", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231301, 
+  "creation_date": "1736-1800", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Coulet, Anne-Philiberte", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297259, 
+      "role": "Artist", 
+      "birth_date": "1736", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36581, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

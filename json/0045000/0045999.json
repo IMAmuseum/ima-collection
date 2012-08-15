@@ -1,38 +1,44 @@
 {
-    "accession_number": "73.2.110", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1718", 
-            "death_date": "1779", 
-            "name": "Chippendale, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1705", 
-            "death_date": "1792", 
-            "name": "M\u00fcller, Johann Sebastian", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1753", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "8 7/8 X 13 3/4 in. (image)\n10 7/8 X 18 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 45999, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Chippendale, Thomas"
-        }
-    ], 
-    "rights": null, 
-    "title": "Canopy Bed"
+  "publishers": [
+    {
+      "name": "Chippendale, Thomas"
+    }
+  ], 
+  "dimensions": "8 7/8 X 13 3/4 in. (image)\n10 7/8 X 18 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "73.2.110", 
+  "title": "Canopy Bed", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18255717, 
+  "creation_date": "1753", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Chippendale, Thomas", 
+      "after_follower": null, 
+      "death_date": "1779", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296021, 
+      "role": "Artist", 
+      "birth_date": "1718", 
+      "nationality": null
+    }, 
+    {
+      "name": "M\u00fcller, Johann Sebastian", 
+      "after_follower": null, 
+      "death_date": "1792", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305227, 
+      "role": "Engraver", 
+      "birth_date": "1705", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45999, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

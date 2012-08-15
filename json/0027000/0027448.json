@@ -1,30 +1,34 @@
 {
-    "accession_number": "10.179", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1853 (Ox 7)", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "13 1/2 x 9 1/16 in.", 
-    "dynasty": null, 
-    "irn": 27448, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Koshimura-ya Heisuke"
-        }
-    ], 
-    "rights": null, 
-    "title": "Shima"
+  "publishers": [
+    {
+      "name": "Koshimura-ya Heisuke"
+    }
+  ], 
+  "dimensions": "13 1/2 x 9 1/16 in.", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "10.179", 
+  "title": "Shima", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18210117, 
+  "creation_date": "1853 (Ox 7)", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27448, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

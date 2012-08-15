@@ -1,26 +1,30 @@
 {
-    "accession_number": "21.138", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1676", 
-            "death_date": "1746", 
-            "name": "Galeotti, Sebastiano", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century - 18th century", 
-    "credit_line": "Gift of Mrs. Hugh H. Hanna", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25743, 
-    "materials": "pen, ink and ink wash heightened with white on tan paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna with Child and Saints"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Hugh H. Hanna", 
+  "accession_number": "21.138", 
+  "title": "Madonna with Child and Saints", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18206069, 
+  "creation_date": "17th century - 18th century", 
+  "materials": "pen, ink and ink wash heightened with white on tan paper", 
+  "actors": [
+    {
+      "name": "Galeotti, Sebastiano", 
+      "after_follower": null, 
+      "death_date": "1746", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302105, 
+      "role": "Artist", 
+      "birth_date": "1676", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25743, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

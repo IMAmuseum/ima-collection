@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.89.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Smith, Sidney Lawton", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1905", 
-    "credit_line": "Gift of Mr. and Mrs. Roman J. Radecki", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19721, 
-    "materials": "engraving and etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Theordore Roosevelt"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Roman J. Radecki", 
+  "accession_number": "73.89.1", 
+  "title": "Theordore Roosevelt", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192263, 
+  "creation_date": "1905", 
+  "materials": "engraving and etching", 
+  "actors": [
+    {
+      "name": "Smith, Sidney Lawton", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300829, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 19721, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

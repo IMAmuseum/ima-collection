@@ -1,26 +1,30 @@
 {
-    "accession_number": "14.60", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1748", 
-            "death_date": "1827", 
-            "name": "Holloway, Thomas", 
-            "nationality": "English", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1816", 
-    "credit_line": "Gift of Mrs. Chapin C. Foster", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19810, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Death of Ananias"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Chapin C. Foster", 
+  "accession_number": "14.60", 
+  "title": "The Death of Ananias", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192451, 
+  "creation_date": "1816", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Holloway, Thomas", 
+      "after_follower": null, 
+      "death_date": "1827", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300857, 
+      "role": "Artist", 
+      "birth_date": "1748", 
+      "nationality": "English"
+    }
+  ], 
+  "irn": 19810, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

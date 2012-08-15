@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.214.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1887", 
-            "death_date": "1958", 
-            "name": "Paul T. Frankl", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "about 1927", 
-    "credit_line": "Gift of Mr. and Mrs. Robert H. Morse, Jr.", 
-    "cultures": [], 
-    "dimensions": "24 3/8 x 17 x 17", 
-    "dynasty": null, 
-    "irn": 5085, 
-    "materials": "cadmium plate, steel, glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "table"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "24 3/8 x 17 x 17", 
+  "title": "table", 
+  "accession_number": "71.214.2", 
+  "credit_line": "Gift of Mr. and Mrs. Robert H. Morse, Jr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143307, 
+  "creation_date": "about 1927", 
+  "materials": "cadmium plate, steel, glass", 
+  "actors": [
+    {
+      "name": "Paul T. Frankl", 
+      "after_follower": null, 
+      "death_date": "1958", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297039, 
+      "role": "Designer", 
+      "birth_date": "1887", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5085, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

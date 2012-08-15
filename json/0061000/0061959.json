@@ -1,26 +1,30 @@
 {
-    "accession_number": "2004.70", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1778", 
-            "death_date": "1853", 
-            "name": "Tang Yifen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1847", 
-    "credit_line": "Gift of Merrill Grayson M.D.", 
-    "cultures": [], 
-    "dimensions": "87 1/2 x 21 in. (overall)", 
-    "dynasty": "Qing dynasty", 
-    "irn": 61959, 
-    "materials": "ink and color on paper", 
-    "on_view": false, 
-    "period": "Daoguang", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Plum, Bamboo and Rock"
+  "publishers": [], 
+  "dimensions": "87 1/2 x 21 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Gift of Merrill Grayson M.D.", 
+  "accession_number": "2004.70", 
+  "title": "Plum, Bamboo and Rock", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Daoguang", 
+  "artisinal:id": 18277403, 
+  "creation_date": "1847", 
+  "materials": "ink and color on paper", 
+  "actors": [
+    {
+      "name": "Tang Yifen", 
+      "after_follower": null, 
+      "death_date": "1853", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306279, 
+      "role": "Artist", 
+      "birth_date": "1778", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61959, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

@@ -1,33 +1,37 @@
 {
-    "accession_number": "47.158", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1831-1834", 
-    "credit_line": "Gift of Mrs. Alex Taggert", 
-    "cultures": [], 
-    "dimensions": "8 13/16 x 13 11/16 in. (image & sheet trimmed to margins all around)", 
-    "dynasty": null, 
-    "irn": 18674, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": null
-        }, 
-        {
-            "name": "Takenouchi Magohachi"
-        }
-    ], 
-    "rights": null, 
-    "title": "Yokkaichi (Station #44)"
+  "publishers": [
+    {
+      "name": null
+    }, 
+    {
+      "name": "Takenouchi Magohachi"
+    }
+  ], 
+  "dimensions": "8 13/16 x 13 11/16 in. (image & sheet trimmed to margins all around)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Alex Taggert", 
+  "accession_number": "47.158", 
+  "title": "Yokkaichi (Station #44)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18189805, 
+  "creation_date": "1831-1834", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18674, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

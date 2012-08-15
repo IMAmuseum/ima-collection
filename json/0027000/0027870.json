@@ -1,26 +1,30 @@
 {
-    "accession_number": "43.33", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1889", 
-            "death_date": "1953", 
-            "name": "Kuniyoshi, Yasuo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1935", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 27870, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Taxco, Mexico"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Jacob Metzger Fund", 
+  "accession_number": "43.33", 
+  "title": "Taxco, Mexico", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211081, 
+  "creation_date": "1935", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Kuniyoshi, Yasuo", 
+      "after_follower": null, 
+      "death_date": "1953", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302537, 
+      "role": "Artist", 
+      "birth_date": "1889", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27870, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

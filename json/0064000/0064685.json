@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.396", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1952", 
-            "death_date": null, 
-            "name": "Olivier Gagn\u00e8re", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Galerie Maeght", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "8 3/4 \u00d7 9 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64685, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Olivier Gagn\u00e8re", 
-    "title": "Arita centerpiece"
+  "publishers": [], 
+  "dimensions": "8 3/4 \u00d7 9 1/2 in.", 
+  "rights": "\u00a9 Olivier Gagn\u00e8re", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "2009.396", 
+  "title": "Arita centerpiece", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279197, 
+  "creation_date": "1992", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Olivier Gagn\u00e8re", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306929, 
+      "role": "Designer", 
+      "birth_date": "1952", 
+      "nationality": null
+    }, 
+    {
+      "name": "Galerie Maeght", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306931, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64685, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.809.88", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1763", 
-            "death_date": "1833", 
-            "name": "Parkes, David", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Walker, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "11/1/1800", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37813, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Boscobel House, Staffordshire"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.809.88", 
+  "title": "Boscobel House, Staffordshire", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234425, 
+  "creation_date": "11/1/1800", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Parkes, David", 
+      "after_follower": null, 
+      "death_date": "1833", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304133, 
+      "role": "Artist", 
+      "birth_date": "1763", 
+      "nationality": null
+    }, 
+    {
+      "name": "Walker, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298459, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 37813, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

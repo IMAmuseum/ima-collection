@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.473", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1967", 
-            "death_date": null, 
-            "name": "Clarissa Berning", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "When Objects Work", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Lucille Stewart Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "H: 1 1/4 in.\nDiam.: 14 1/4 in.", 
-    "dynasty": null, 
-    "irn": 67811, 
-    "materials": "bohemian glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Clarissa Berning", 
-    "title": "Meniscus bowl"
+  "publishers": [], 
+  "dimensions": "H: 1 1/4 in.\nDiam.: 14 1/4 in.", 
+  "rights": "\u00a9 Clarissa Berning", 
+  "credit_line": "Lucille Stewart Endowed Art Fund", 
+  "accession_number": "2009.473", 
+  "title": "Meniscus bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283039, 
+  "creation_date": null, 
+  "materials": "bohemian glass", 
+  "actors": [
+    {
+      "name": "Clarissa Berning", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307733, 
+      "role": "Designer", 
+      "birth_date": "1967", 
+      "nationality": null
+    }, 
+    {
+      "name": "When Objects Work", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307097, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67811, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

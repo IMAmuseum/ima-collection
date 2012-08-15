@@ -1,26 +1,30 @@
 {
-    "accession_number": "41.36", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1873-", 
-            "death_date": "1873-", 
-            "name": "Waltz, Johann Jakob (\"Hansi\")", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "December 1914", 
-    "credit_line": "Gift of Alexander Hamilton", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6164, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "\"Battle of the Marne\""
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "\"Battle of the Marne\"", 
+  "accession_number": "41.36", 
+  "credit_line": "Gift of Alexander Hamilton", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145885, 
+  "creation_date": "December 1914", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Waltz, Johann Jakob (\"Hansi\")", 
+      "after_follower": null, 
+      "death_date": "1873-", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297379, 
+      "role": "Artist", 
+      "birth_date": "1873-", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6164, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

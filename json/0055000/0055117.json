@@ -1,26 +1,30 @@
 {
-    "accession_number": "S3882.80.7A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1925", 
-            "death_date": null, 
-            "name": "Williams, Emmett", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift of Mr. and Mrs. George Heimbach", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55117, 
-    "materials": "letterpress and offset reproductions", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Boy and the Bird"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. George Heimbach", 
+  "accession_number": "S3882.80.7A", 
+  "title": "The Boy and the Bird", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272145, 
+  "creation_date": "1979", 
+  "materials": "letterpress and offset reproductions", 
+  "actors": [
+    {
+      "name": "Williams, Emmett", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296335, 
+      "role": "Artist", 
+      "birth_date": "1925", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55117, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

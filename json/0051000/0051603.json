@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.314", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1826", 
-            "death_date": "1869", 
-            "name": "Utagawa Hir^oshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1864", 
-    "credit_line": "Gift of Mrs. Jeanne Gass Stump", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 6 1/2 in. (image)\n10 1/8 x 7 3/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 51603, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Maisaka"
+  "publishers": [], 
+  "dimensions": "8 3/4 x 6 1/2 in. (image)\n10 1/8 x 7 3/16 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Jeanne Gass Stump", 
+  "accession_number": "2001.314", 
+  "title": "Maisaka", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18265477, 
+  "creation_date": "1864", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hir^oshige", 
+      "after_follower": null, 
+      "death_date": "1869", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296889, 
+      "role": "Artist", 
+      "birth_date": "1826", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51603, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

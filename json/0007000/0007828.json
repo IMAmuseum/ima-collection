@@ -1,26 +1,30 @@
 {
-    "accession_number": "04.14", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1873", 
-            "death_date": "1940", 
-            "name": "Scudder, Janet", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1901", 
-    "credit_line": "Gift of the Artist", 
-    "cultures": [], 
-    "dimensions": "H: 4 1/2 in. W: 3 in.", 
-    "dynasty": null, 
-    "irn": 7828, 
-    "materials": "silver", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait Medallion (Louise Hartshorne Moore)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 4 1/2 in. W: 3 in.", 
+  "title": "Portrait Medallion (Louise Hartshorne Moore)", 
+  "accession_number": "04.14", 
+  "credit_line": "Gift of the Artist", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149817, 
+  "creation_date": "1901", 
+  "materials": "silver", 
+  "actors": [
+    {
+      "name": "Scudder, Janet", 
+      "after_follower": null, 
+      "death_date": "1940", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296199, 
+      "role": "Artist", 
+      "birth_date": "1873", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7828, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.82A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": "1991", 
-            "name": "Kuramata, Shiro", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ishimaru Co., Ltd.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1989", 
-    "credit_line": "Gift of Daniel Wolf", 
-    "cultures": [], 
-    "dimensions": "10 1/4 x 10 5/8 x 3 1/8 in.", 
-    "dynasty": null, 
-    "irn": 68786, 
-    "materials": "acrylic and glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Flower Vase #3"
+  "publishers": [], 
+  "dimensions": "10 1/4 x 10 5/8 x 3 1/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Daniel Wolf", 
+  "accession_number": "2010.82A-C", 
+  "title": "Flower Vase #3", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283711, 
+  "creation_date": "1989", 
+  "materials": "acrylic and glass", 
+  "actors": [
+    {
+      "name": "Kuramata, Shiro", 
+      "after_follower": null, 
+      "death_date": "1991", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307311, 
+      "role": "Designer", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ishimaru Co., Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307315, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68786, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

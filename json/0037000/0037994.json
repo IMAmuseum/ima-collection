@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.825.60", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1746", 
-            "death_date": "1801", 
-            "name": "Rooker, Michael Angelo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1776", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37994, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fell's Building, with other parts of Christ Church"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.60", 
+  "title": "Fell's Building, with other parts of Christ Church", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234931, 
+  "creation_date": "1776", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Rooker, Michael Angelo", 
+      "after_follower": null, 
+      "death_date": "1801", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304125, 
+      "role": "Artist", 
+      "birth_date": "1746", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37994, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

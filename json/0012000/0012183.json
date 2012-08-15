@@ -1,34 +1,40 @@
 {
-    "accession_number": "08.77", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1773", 
-            "death_date": "1835", 
-            "name": "Reynolds, Samuel William (I)", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1825", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12183, 
-    "materials": "mezzotint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dartmouth on River Dart"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Dartmouth on River Dart", 
+  "accession_number": "08.77", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160123, 
+  "creation_date": "1825", 
+  "materials": "mezzotint", 
+  "actors": [
+    {
+      "name": "Reynolds, Samuel William (I)", 
+      "after_follower": null, 
+      "death_date": "1835", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294911, 
+      "role": "Artist", 
+      "birth_date": "1773", 
+      "nationality": null
+    }, 
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12183, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

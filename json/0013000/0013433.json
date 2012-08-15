@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.967", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1897", 
-            "death_date": "1977", 
-            "name": "Gropper, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1950-1956", 
-    "credit_line": "Gift of Dr. Gilbert Erlechman", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13433, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Estate of William Gropper", 
-    "title": "Patrioteers"
+  "publishers": [], 
+  "rights": "\u00a9 The Estate of William Gropper", 
+  "dimensions": null, 
+  "title": "Patrioteers", 
+  "accession_number": "81.967", 
+  "credit_line": "Gift of Dr. Gilbert Erlechman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163337, 
+  "creation_date": "1950-1956", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Gropper, William", 
+      "after_follower": null, 
+      "death_date": "1977", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294735, 
+      "role": "Artist", 
+      "birth_date": "1897", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13433, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

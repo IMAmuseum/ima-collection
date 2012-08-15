@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.2.69", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1811", 
-            "death_date": "1893", 
-            "name": "Daly, C\u00e9sar Denis", 
-            "nationality": null, 
-            "role": "Editor"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1806", 
-            "death_date": "1866", 
-            "name": "L\u00e9veil, Jean Arnould", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1877", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "13 1/2 X  8 7/8 in. (image)\n17 1/2 X 12 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 4907, 
-    "materials": "chromolithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Staircase, H\u00f4tel du Figaro, Paris"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 1/2 X  8 7/8 in. (image)\n17 1/2 X 12 1/2 in. (sheet)", 
+  "title": "Staircase, H\u00f4tel du Figaro, Paris", 
+  "accession_number": "73.2.69", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142883, 
+  "creation_date": "1877", 
+  "materials": "chromolithograph", 
+  "actors": [
+    {
+      "name": "Daly, C\u00e9sar Denis", 
+      "after_follower": null, 
+      "death_date": "1893", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296953, 
+      "role": "Editor", 
+      "birth_date": "1811", 
+      "nationality": null
+    }, 
+    {
+      "name": "L\u00e9veil, Jean Arnould", 
+      "after_follower": null, 
+      "death_date": "1866", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296957, 
+      "role": "Artist", 
+      "birth_date": "1806", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4907, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.448", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1783", 
-            "death_date": "1852", 
-            "name": "Prout, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1815", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "11 x 15 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 9241, 
-    "materials": "pencil and brown wash on cream paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ruins of West Hythe Church and Lympne"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "11 x 15 1/2 in (sheet)", 
+  "title": "Ruins of West Hythe Church and Lympne", 
+  "accession_number": "13.448", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153247, 
+  "creation_date": "1815", 
+  "materials": "pencil and brown wash on cream paper", 
+  "actors": [
+    {
+      "name": "Prout, Samuel", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295339, 
+      "role": "Artist", 
+      "birth_date": "1783", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9241, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

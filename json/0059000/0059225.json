@@ -1,26 +1,30 @@
 {
-    "accession_number": "LH2006.9.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "S\u00e8vres Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1854", 
-    "credit_line": "Bequest of Allen Whitehill Clowes", 
-    "cultures": [], 
-    "dimensions": "7 x 8 x 8 in.", 
-    "dynasty": null, 
-    "irn": 59225, 
-    "materials": "porcelain", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "covered compote"
+  "publishers": [], 
+  "dimensions": "7 x 8 x 8 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Allen Whitehill Clowes", 
+  "accession_number": "LH2006.9.1", 
+  "title": "covered compote", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276081, 
+  "creation_date": "1854", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "S\u00e8vres Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295809, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 59225, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

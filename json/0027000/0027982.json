@@ -1,26 +1,30 @@
 {
-    "accession_number": "98.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1838", 
-            "death_date": "1909", 
-            "name": "Shirlaw, Walter", 
-            "nationality": "  ", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of the Artist", 
-    "cultures": [], 
-    "dimensions": "87 1/2 x 31 1/2 in.", 
-    "dynasty": null, 
-    "irn": 27982, 
-    "materials": "charcoal and crayon on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Geology"
+  "publishers": [], 
+  "dimensions": "87 1/2 x 31 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Artist", 
+  "accession_number": "98.7", 
+  "title": "Geology", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211335, 
+  "creation_date": "19th century", 
+  "materials": "charcoal and crayon on paper", 
+  "actors": [
+    {
+      "name": "Shirlaw, Walter", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301401, 
+      "role": "Artist", 
+      "birth_date": "1838", 
+      "nationality": "  "
+    }
+  ], 
+  "irn": 27982, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "59.30", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1606", 
-            "death_date": "1669", 
-            "name": "Rembrandt van Rijn", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1635", 
-    "credit_line": "Miscellaneous Purchase Fund (Friends of Art)", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 33156, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Christ Driving the Money Changers from the Temple"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Miscellaneous Purchase Fund (Friends of Art)", 
+  "accession_number": "59.30", 
+  "title": "Christ Driving the Money Changers from the Temple", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223395, 
+  "creation_date": "1635", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Rembrandt van Rijn", 
+      "after_follower": null, 
+      "death_date": "1669", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295685, 
+      "role": "Artist", 
+      "birth_date": "1606", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33156, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

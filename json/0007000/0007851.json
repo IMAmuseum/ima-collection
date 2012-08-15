@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.21", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1640", 
-            "death_date": "1711", 
-            "name": "Lairesse, Gerard de", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7851, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sperne Voluptates:  Nocet Empta Dolore Voluptas"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Sperne Voluptates:  Nocet Empta Dolore Voluptas", 
+  "accession_number": "78.21", 
+  "credit_line": "Emma Harter Sweetser Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149873, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Lairesse, Gerard de", 
+      "after_follower": null, 
+      "death_date": "1711", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297879, 
+      "role": "Artist", 
+      "birth_date": "1640", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7851, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

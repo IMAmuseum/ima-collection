@@ -1,26 +1,30 @@
 {
-    "accession_number": "1986.97", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1935", 
-            "death_date": null, 
-            "name": "Cottingham, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1986", 
-    "credit_line": "General Museum Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "36 x 48 in.", 
-    "dynasty": null, 
-    "irn": 7359, 
-    "materials": "etching and drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Robert Cottingham", 
-    "title": "Barrera-Rosa's"
+  "publishers": [], 
+  "rights": "\u00a9 Robert Cottingham", 
+  "dimensions": "36 x 48 in.", 
+  "title": "Barrera-Rosa's", 
+  "accession_number": "1986.97", 
+  "credit_line": "General Museum Purchase Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18148737, 
+  "creation_date": "1986", 
+  "materials": "etching and drypoint", 
+  "actors": [
+    {
+      "name": "Cottingham, Robert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295955, 
+      "role": "Artist", 
+      "birth_date": "1935", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7359, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

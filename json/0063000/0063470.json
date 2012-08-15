@@ -1,26 +1,30 @@
 {
-    "accession_number": "2007.18", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1852", 
-            "death_date": "1924", 
-            "name": "Lin Shu", 
-            "nationality": null, 
-            "role": "Calligrapher"
-        }
-    ], 
-    "creation_date": "1923", 
-    "credit_line": "Gift of Mr. and Mrs. Irving Y. Lo", 
-    "cultures": [], 
-    "dimensions": "33 1/2 x 11 3/4 x 1 3/8 in. (overall)", 
-    "dynasty": "Modern {Chinese period}", 
-    "irn": 63470, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Lin Shu", 
-    "title": "calligraphy in cursive script"
+  "publishers": [], 
+  "dimensions": "33 1/2 x 11 3/4 x 1 3/8 in. (overall)", 
+  "rights": "\u00a9 Lin Shu", 
+  "credit_line": "Gift of Mr. and Mrs. Irving Y. Lo", 
+  "accession_number": "2007.18", 
+  "title": "calligraphy in cursive script", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278521, 
+  "creation_date": "1923", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Lin Shu", 
+      "after_follower": null, 
+      "death_date": "1924", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306605, 
+      "role": "Calligrapher", 
+      "birth_date": "1852", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63470, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Modern {Chinese period}", 
+  "on_view": false
 }

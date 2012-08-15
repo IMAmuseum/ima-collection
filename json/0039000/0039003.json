@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1101", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1800", 
-            "death_date": "1863", 
-            "name": "James T. Willmore", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1834", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "6 1/2 x 9 in. (image)\n12 1/8 x 17 5/16 in. (sheet)\n10 x 12 7/16 in. (plate)", 
-    "dynasty": null, 
-    "irn": 39003, 
-    "materials": "engraving on copper, plain paper, touched in pencil and white gouche by Turner", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Penmaen Mawr, Caernarvonshire"
+  "publishers": [], 
+  "dimensions": "6 1/2 x 9 in. (image)\n12 1/8 x 17 5/16 in. (sheet)\n10 x 12 7/16 in. (plate)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1101", 
+  "title": "Penmaen Mawr, Caernarvonshire", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18237741, 
+  "creation_date": "1834", 
+  "materials": "engraving on copper, plain paper, touched in pencil and white gouche by Turner", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "James T. Willmore", 
+      "after_follower": null, 
+      "death_date": "1863", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296465, 
+      "role": "Engraver", 
+      "birth_date": "1800", 
+      "nationality": null
+    }
+  ], 
+  "irn": 39003, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.83", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1927", 
-            "death_date": null, 
-            "name": "Iwami Reika", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1989", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "23 1/4 x 34 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 60915, 
-    "materials": "woodblock print, ink and gold foil on paper", 
-    "on_view": false, 
-    "period": "Heisei", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Iwami Reika", 
-    "title": "New Moon and Sea"
+  "publishers": [], 
+  "dimensions": "23 1/4 x 34 1/2 in. (sheet)", 
+  "rights": "\u00a9 Iwami Reika", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "2003.83", 
+  "title": "New Moon and Sea", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Heisei", 
+  "artisinal:id": 18276747, 
+  "creation_date": "1989", 
+  "materials": "woodblock print, ink and gold foil on paper", 
+  "actors": [
+    {
+      "name": "Iwami Reika", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305929, 
+      "role": "Artist", 
+      "birth_date": "1927", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60915, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

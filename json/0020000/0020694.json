@@ -1,26 +1,30 @@
 {
-    "accession_number": "1995.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1891", 
-            "death_date": "1956", 
-            "name": "Rodcenko, Aleksandr Mihailovic", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1932", 
-    "credit_line": "Roger G. Wolcott Fund and Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20694, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Street Car"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Roger G. Wolcott Fund and Emma Harter Sweetser Fund", 
+  "accession_number": "1995.26", 
+  "title": "Street Car", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194461, 
+  "creation_date": "1932", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Rodcenko, Aleksandr Mihailovic", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301051, 
+      "role": "Artist", 
+      "birth_date": "1891", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20694, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

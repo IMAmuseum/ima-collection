@@ -1,26 +1,30 @@
 {
-    "accession_number": "MHS2010.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": null, 
-            "name": "Roche, Kevin", 
-            "nationality": null, 
-            "role": "author"
-        }
-    ], 
-    "creation_date": "1985", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "10 x 10 1/2 x 1 1/2 in.", 
-    "dynasty": null, 
-    "irn": 69559, 
-    "materials": "ink on paper book", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Kevin Roche book"
+  "publishers": [], 
+  "dimensions": "10 x 10 1/2 x 1 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MHS2010.26", 
+  "title": "Kevin Roche book", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18285081, 
+  "creation_date": "1985", 
+  "materials": "ink on paper book", 
+  "actors": [
+    {
+      "name": "Roche, Kevin", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308265, 
+      "role": "author", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 69559, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

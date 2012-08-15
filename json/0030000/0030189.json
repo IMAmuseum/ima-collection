@@ -1,26 +1,30 @@
 {
-    "accession_number": "04.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1840", 
-            "death_date": "1901", 
-            "name": "Moradei, Arturo", 
-            "nationality": "Italian", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1887", 
-    "credit_line": "Bequest of George A. Dickson", 
-    "cultures": [], 
-    "dimensions": "51 x 46 in.", 
-    "dynasty": null, 
-    "irn": 30189, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cerco, Cerco Bene (Blind Man's Bluff)"
+  "publishers": [], 
+  "dimensions": "51 x 46 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of George A. Dickson", 
+  "accession_number": "04.1", 
+  "title": "Cerco, Cerco Bene (Blind Man's Bluff)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18216495, 
+  "creation_date": "1887", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Moradei, Arturo", 
+      "after_follower": null, 
+      "death_date": "1901", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302897, 
+      "role": "Artist", 
+      "birth_date": "1840", 
+      "nationality": "Italian"
+    }
+  ], 
+  "irn": 30189, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.109.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1945-", 
-            "death_date": "1945-", 
-            "name": "Jackson, Herb", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1972", 
-    "credit_line": "Gift of Dr. and Mrs. Christopher A. Graf", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26033, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Passage"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. and Mrs. Christopher A. Graf", 
+  "accession_number": "72.109.1", 
+  "title": "Passage", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18206749, 
+  "creation_date": "1972", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Jackson, Herb", 
+      "after_follower": null, 
+      "death_date": "1945-", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298103, 
+      "role": "Artist", 
+      "birth_date": "1945-", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26033, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

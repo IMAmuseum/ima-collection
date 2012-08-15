@@ -1,26 +1,30 @@
 {
-    "accession_number": "2006.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1994", 
-            "name": "Dorothy Dehner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1953", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "13 13/16 x 9 3/4 in. (image)\n16 1/2 x 11 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 63480, 
-    "materials": "etching and aquatint with stencilled color", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Dorothy Dehner Foundation for the Visual Arts", 
-    "title": "Studio"
+  "publishers": [], 
+  "dimensions": "13 13/16 x 9 3/4 in. (image)\n16 1/2 x 11 1/4 in. (sheet)", 
+  "rights": "\u00a9 Dorothy Dehner Foundation for the Visual Arts", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2006.10", 
+  "title": "Studio", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278525, 
+  "creation_date": "1953", 
+  "materials": "etching and aquatint with stencilled color", 
+  "actors": [
+    {
+      "name": "Dorothy Dehner", 
+      "after_follower": null, 
+      "death_date": "1994", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306611, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63480, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

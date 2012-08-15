@@ -1,26 +1,30 @@
 {
-    "accession_number": "49.47", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1868", 
-            "death_date": "1933", 
-            "name": "Hart, George Overbury", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1925", 
-    "credit_line": "Gift of Dr. Lew Wallace", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10932, 
-    "materials": "ink | pencil", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Mule Car"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Mule Car", 
+  "accession_number": "49.47", 
+  "credit_line": "Gift of Dr. Lew Wallace", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157273, 
+  "creation_date": "1925", 
+  "materials": "ink | pencil", 
+  "actors": [
+    {
+      "name": "Hart, George Overbury", 
+      "after_follower": null, 
+      "death_date": "1933", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298717, 
+      "role": "Artist", 
+      "birth_date": "1868", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10932, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1988.60", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1927", 
-            "death_date": null, 
-            "name": "Katz, Alex", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1968", 
-    "credit_line": "Gift of Signet Arts", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25282, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Blueberry Hill"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Signet Arts", 
+  "accession_number": "1988.60", 
+  "title": "Blueberry Hill", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205015, 
+  "creation_date": "1968", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Katz, Alex", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296599, 
+      "role": "Artist", 
+      "birth_date": "1927", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25282, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

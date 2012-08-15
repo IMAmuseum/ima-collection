@@ -1,30 +1,34 @@
 {
-    "accession_number": "2003.34", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1946", 
-            "name": "Stieglitz, Alfred", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1910", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60715, 
-    "materials": "photogravure hinged to paper mount", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Camera Work"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "The Aeroplane"
+  "publishers": [
+    {
+      "name": "Camera Work"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "2003.34", 
+  "title": "The Aeroplane", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276659, 
+  "creation_date": "1910", 
+  "materials": "photogravure hinged to paper mount", 
+  "actors": [
+    {
+      "name": "Stieglitz, Alfred", 
+      "after_follower": null, 
+      "death_date": "1946", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299269, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60715, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

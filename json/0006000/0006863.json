@@ -1,26 +1,30 @@
 {
-    "accession_number": "1995.99", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": null, 
-            "name": "Caponigro, Paul", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of John Medveckis", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6863, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Stone henge"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Stone henge", 
+  "accession_number": "1995.99", 
+  "credit_line": "Gift of John Medveckis", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147541, 
+  "creation_date": "1970", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Caponigro, Paul", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297565, 
+      "role": "Artist", 
+      "birth_date": "1932", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6863, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

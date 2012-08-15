@@ -1,26 +1,30 @@
 {
-    "accession_number": "1994.738", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1941", 
-            "death_date": null, 
-            "name": "Pond, Clayton", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Gift of Garo Z. Antreasian", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32358, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "The Kitchen in my Studio on Broome Street"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Garo Z. Antreasian", 
+  "accession_number": "1994.738", 
+  "title": "The Kitchen in my Studio on Broome Street", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221473, 
+  "creation_date": "1969", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Pond, Clayton", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299705, 
+      "role": "Artist", 
+      "birth_date": "1941", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32358, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

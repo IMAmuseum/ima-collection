@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.791.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1820", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "7 3/4 x 10 5/8 in (image)\n10 7/8 x 13 7/16 (sheet)\n8 1/2 x 11 1/2 in. (plate)", 
-    "dynasty": null, 
-    "irn": 9809, 
-    "materials": "mezzotint over etching", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Moonlight at Sea"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "7 3/4 x 10 5/8 in (image)\n10 7/8 x 13 7/16 (sheet)\n8 1/2 x 11 1/2 in. (plate)", 
+  "title": "Moonlight at Sea", 
+  "accession_number": "80.791.1", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154613, 
+  "creation_date": "about 1820", 
+  "materials": "mezzotint over etching", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9809, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

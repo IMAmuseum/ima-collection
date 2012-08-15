@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.11.90", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1874", 
-            "death_date": "1951", 
-            "name": "Leyendecker, Joseph Christian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1896", 
-    "credit_line": "Museum Acquisition", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19240, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Century, August, Midsummer Holiday Number"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Museum Acquisition", 
+  "accession_number": "67.11.90", 
+  "title": "The Century, August, Midsummer Holiday Number", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191211, 
+  "creation_date": "1896", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Leyendecker, Joseph Christian", 
+      "after_follower": null, 
+      "death_date": "1951", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300753, 
+      "role": "Artist", 
+      "birth_date": "1874", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19240, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

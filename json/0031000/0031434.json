@@ -1,26 +1,30 @@
 {
-    "accession_number": "14.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1846", 
-            "death_date": "1938", 
-            "name": "Parrish, Stephen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Henry L. Beveridge", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 31434, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "South Dennis Cape Cod"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Henry L. Beveridge", 
+  "accession_number": "14.11", 
+  "title": "South Dennis Cape Cod", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18219381, 
+  "creation_date": "19th century", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Parrish, Stephen", 
+      "after_follower": null, 
+      "death_date": "1938", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301237, 
+      "role": "Artist", 
+      "birth_date": "1846", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31434, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "12.30G", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1830-1844", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "5 3/4 x 8 1/16 in. (image)\n6 11/16 x 9 11/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 34815, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Twilight Glow at Seta"
+  "publishers": [], 
+  "dimensions": "5 3/4 x 8 1/16 in. (image)\n6 11/16 x 9 11/16 in. (sheet)", 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "12.30G", 
+  "title": "Twilight Glow at Seta", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18227235, 
+  "creation_date": "1830-1844", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34815, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

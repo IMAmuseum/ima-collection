@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.385A-U", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Tejo Remy", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Droog Design", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1991", 
-    "credit_line": "The Ballard Fund", 
-    "cultures": [], 
-    "dimensions": "51 x 54 1/2 x 21 in.", 
-    "dynasty": null, 
-    "irn": 64786, 
-    "materials": "existing wood drawers, plywood, and fabric", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Tejo Remy", 
-    "title": "You Can't Lay Down Your Memories cabinet"
+  "publishers": [], 
+  "dimensions": "51 x 54 1/2 x 21 in.", 
+  "rights": "\u00a9 Tejo Remy", 
+  "credit_line": "The Ballard Fund", 
+  "accession_number": "2009.385A-U", 
+  "title": "You Can't Lay Down Your Memories cabinet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279307, 
+  "creation_date": "1991", 
+  "materials": "existing wood drawers, plywood, and fabric", 
+  "actors": [
+    {
+      "name": "Tejo Remy", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307111, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Droog Design", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306817, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64786, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

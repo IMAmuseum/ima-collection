@@ -1,26 +1,30 @@
 {
-    "accession_number": "1997.51", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1855", 
-            "death_date": "about 1948", 
-            "name": "Edmond Lachenal", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1900", 
-    "credit_line": "Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr. and her late son Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "17 1/4 x 5 1/4 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 23947, 
-    "materials": "earthenware, polychrome enamels", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase"
+  "publishers": [], 
+  "dimensions": "17 1/4 x 5 1/4 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr. and her late son Michael Fairbanks", 
+  "accession_number": "1997.51", 
+  "title": "vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18201951, 
+  "creation_date": "about 1900", 
+  "materials": "earthenware, polychrome enamels", 
+  "actors": [
+    {
+      "name": "Edmond Lachenal", 
+      "after_follower": null, 
+      "death_date": "about 1948", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301741, 
+      "role": "Artist", 
+      "birth_date": "1855", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23947, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

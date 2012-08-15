@@ -1,26 +1,30 @@
 {
-    "accession_number": "43.92", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1810", 
-            "death_date": "1864", 
-            "name": "Calame, Alexandre", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Louis Ludorff in memory of Mr. & Mrs. Julius Karrmann", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 33368, 
-    "materials": "lithograph on chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Route d'Amalfi \u00e0 Salerne"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Louis Ludorff in memory of Mr. & Mrs. Julius Karrmann", 
+  "accession_number": "43.92", 
+  "title": "Route d'Amalfi \u00e0 Salerne", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223907, 
+  "creation_date": "19th century", 
+  "materials": "lithograph on chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Calame, Alexandre", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296689, 
+      "role": "Artist", 
+      "birth_date": "1810", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33368, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

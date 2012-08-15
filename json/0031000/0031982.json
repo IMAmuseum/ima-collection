@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.4", 
-    "actors": [
-        {
-            "after_follower": "Workshop of", 
-            "birth_date": "1441", 
-            "death_date": "1493", 
-            "name": "Sellaio, Jacopo del", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1490-1493", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "32 x 20 3/4 in.", 
-    "dynasty": null, 
-    "irn": 31982, 
-    "materials": "oil on wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna Adoring The Christ Child"
+  "publishers": [], 
+  "dimensions": "32 x 20 3/4 in.", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "24.4", 
+  "title": "Madonna Adoring The Christ Child", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220617, 
+  "creation_date": "about 1490-1493", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Sellaio, Jacopo del", 
+      "after_follower": "Workshop of", 
+      "death_date": "1493", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303155, 
+      "role": "Artist", 
+      "birth_date": "1441", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31982, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

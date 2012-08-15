@@ -1,26 +1,30 @@
 {
-    "accession_number": "C10045", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1753", 
-            "death_date": "1830", 
-            "name": "Esteve y Marques, Agust\u00edn", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1788", 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "26 x 21 in.", 
-    "dynasty": null, 
-    "irn": 34553, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Little Girl"
+  "publishers": [], 
+  "dimensions": "26 x 21 in.", 
+  "rights": null, 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "accession_number": "C10045", 
+  "title": "Portrait of a Little Girl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18226639, 
+  "creation_date": "about 1788", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Esteve y Marques, Agust\u00edn", 
+      "after_follower": null, 
+      "death_date": "1830", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303597, 
+      "role": "Artist", 
+      "birth_date": "1753", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34553, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

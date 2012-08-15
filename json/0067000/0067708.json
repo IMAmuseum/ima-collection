@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.545A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1968", 
-            "death_date": null, 
-            "name": "Jerszy Seymour", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Magis S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Gift of Magis", 
-    "cultures": [], 
-    "dimensions": "10 1/2 \u00d7 11 7/8 \u00d7 6 7/8 in.", 
-    "dynasty": null, 
-    "irn": 67708, 
-    "materials": "polyethylene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jerszy Seymour", 
-    "title": "Pipe Dreams watering can"
+  "publishers": [], 
+  "dimensions": "10 1/2 \u00d7 11 7/8 \u00d7 6 7/8 in.", 
+  "rights": "\u00a9 Jerszy Seymour", 
+  "credit_line": "Gift of Magis", 
+  "accession_number": "2009.545A-B", 
+  "title": "Pipe Dreams watering can", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282951, 
+  "creation_date": "2000", 
+  "materials": "polyethylene", 
+  "actors": [
+    {
+      "name": "Jerszy Seymour", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307131, 
+      "role": "Designer", 
+      "birth_date": "1968", 
+      "nationality": null
+    }, 
+    {
+      "name": "Magis S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306915, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67708, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

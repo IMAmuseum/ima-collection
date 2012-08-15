@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.47.47", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1835", 
-            "death_date": "1900", 
-            "name": "Toyohara Kunichika", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Kate Kiser Klein", 
-    "cultures": [], 
-    "dimensions": "22 x 28 in.", 
-    "dynasty": null, 
-    "irn": 53245, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sendai Hagi"
+  "publishers": [], 
+  "dimensions": "22 x 28 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Kate Kiser Klein", 
+  "accession_number": "72.47.47", 
+  "title": "Sendai Hagi", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18268989, 
+  "creation_date": null, 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Toyohara Kunichika", 
+      "after_follower": null, 
+      "death_date": "1900", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305531, 
+      "role": "Artist", 
+      "birth_date": "1835", 
+      "nationality": null
+    }
+  ], 
+  "irn": 53245, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.474.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1955", 
-            "death_date": null, 
-            "name": "Laura de Santillana", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Arcade Group S.r.l.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1995", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
-    "cultures": [], 
-    "dimensions": "22 1/8 x 2 7/8 in.", 
-    "dynasty": null, 
-    "irn": 64670, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Laura de Santillana", 
-    "title": "Bambu vase (ice)"
+  "publishers": [], 
+  "dimensions": "22 1/8 x 2 7/8 in.", 
+  "rights": "\u00a9 Laura de Santillana", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
+  "accession_number": "2009.474.1", 
+  "title": "Bambu vase (ice)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279177, 
+  "creation_date": "1995", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Laura de Santillana", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306891, 
+      "role": "Designer", 
+      "birth_date": "1955", 
+      "nationality": null
+    }, 
+    {
+      "name": "Arcade Group S.r.l.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306893, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64670, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

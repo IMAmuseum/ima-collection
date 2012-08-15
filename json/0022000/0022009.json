@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.54", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1729", 
-            "death_date": "1795", 
-            "name": "Goldar, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "18th Century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 22009, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Great Seal of the Commonwealth of England"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.54", 
+  "title": "Great Seal of the Commonwealth of England", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18197439, 
+  "creation_date": "18th Century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Goldar, John", 
+      "after_follower": null, 
+      "death_date": "1795", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301327, 
+      "role": "Engraver", 
+      "birth_date": "1729", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22009, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

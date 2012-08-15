@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.162", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1911", 
-            "death_date": null, 
-            "name": "Toshi Yoshida", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1940", 
-    "credit_line": "Gift of Thomas Kuebler in honor of Walter and Dorothy Kuebler", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18177, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Toshi Yoshida", 
-    "title": "Matsumoto"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Toshi Yoshida", 
+  "credit_line": "Gift of Thomas Kuebler in honor of Walter and Dorothy Kuebler", 
+  "accession_number": "1999.162", 
+  "title": "Matsumoto", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18175111, 
+  "creation_date": "1940", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Toshi Yoshida", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298001, 
+      "role": "Artist", 
+      "birth_date": "1911", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18177, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

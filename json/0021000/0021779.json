@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.87", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1867", 
-            "death_date": "1956", 
-            "name": "Brangwyn, Sir Frank", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1907", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": "17 3/8 x 21 3/4 in (image)\n21 1/2 x 25 5/8 in (sheet)", 
-    "dynasty": null, 
-    "irn": 21779, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bridge at Barnard Castle"
+  "publishers": [], 
+  "dimensions": "17 3/8 x 21 3/4 in (image)\n21 1/2 x 25 5/8 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Delavan Smith", 
+  "accession_number": "25.87", 
+  "title": "Bridge at Barnard Castle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18196931, 
+  "creation_date": "1907", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Brangwyn, Sir Frank", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298405, 
+      "role": "Artist", 
+      "birth_date": "1867", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21779, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

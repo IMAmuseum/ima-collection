@@ -1,26 +1,30 @@
 {
-    "accession_number": "1986.37", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1596", 
-            "death_date": "1672", 
-            "name": "Obaku Dokuryu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1596-1672", 
-    "credit_line": "Roger G. Wolcott Fund", 
-    "cultures": [], 
-    "dimensions": "50 7/16 x 11 1/8 in.", 
-    "dynasty": null, 
-    "irn": 1917, 
-    "materials": "Ink On Paper", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "calligraphy"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "50 7/16 x 11 1/8 in.", 
+  "title": "calligraphy", 
+  "accession_number": "1986.37", 
+  "credit_line": "Roger G. Wolcott Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18135887, 
+  "creation_date": "1596-1672", 
+  "materials": "Ink On Paper", 
+  "actors": [
+    {
+      "name": "Obaku Dokuryu", 
+      "after_follower": null, 
+      "death_date": "1672", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295705, 
+      "role": "Artist", 
+      "birth_date": "1596", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1917, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

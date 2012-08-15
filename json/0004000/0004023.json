@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.315", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1728", 
-            "death_date": "1807", 
-            "name": "Lempereur, Louis-Simon", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4023, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Amusemens Flamans (Flemish Amusements)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Amusemens Flamans (Flemish Amusements)", 
+  "accession_number": "09.315", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140823, 
+  "creation_date": "18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lempereur, Louis-Simon", 
+      "after_follower": null, 
+      "death_date": "1807", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296363, 
+      "role": "Artist", 
+      "birth_date": "1728", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4023, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

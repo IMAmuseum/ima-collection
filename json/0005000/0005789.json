@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.10.102.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Royal Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Children of J.K. Lilly", 
-    "cultures": [], 
-    "dimensions": "H: 17 in.", 
-    "dynasty": null, 
-    "irn": 5789, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "urn"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 17 in.", 
+  "title": "urn", 
+  "accession_number": "67.10.102.2", 
+  "credit_line": "Gift of the Children of J.K. Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144965, 
+  "creation_date": null, 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Royal Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297257, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 5789, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

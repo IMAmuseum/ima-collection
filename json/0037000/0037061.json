@@ -1,42 +1,50 @@
 {
-    "accession_number": "1995.75", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1878", 
-            "death_date": "1956", 
-            "name": "Mary F. Overbeck", 
-            "nationality": null, 
-            "role": "Decorator"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Overbeck Pottery", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1875", 
-            "death_date": "1936", 
-            "name": "Overbeck, Elizabeth Gray", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "about 1930", 
-    "credit_line": "Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "10 1/2 in. x  5 1/4 in.", 
-    "dynasty": null, 
-    "irn": 37061, 
-    "materials": "stoneware, glazed", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase | vase"
+  "publishers": [], 
+  "dimensions": "10 1/2 in. x  5 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks", 
+  "accession_number": "1995.75", 
+  "title": "vase | vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232415, 
+  "creation_date": "about 1930", 
+  "materials": "stoneware, glazed", 
+  "actors": [
+    {
+      "name": "Mary F. Overbeck", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303973, 
+      "role": "Decorator", 
+      "birth_date": "1878", 
+      "nationality": null
+    }, 
+    {
+      "name": "Overbeck Pottery", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295085, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Overbeck, Elizabeth Gray", 
+      "after_follower": null, 
+      "death_date": "1936", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303977, 
+      "role": "Modeler", 
+      "birth_date": "1875", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37061, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

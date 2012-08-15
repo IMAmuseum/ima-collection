@@ -1,26 +1,30 @@
 {
-    "accession_number": "66.239", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1921", 
-            "death_date": null, 
-            "name": "Seymour Rosenthal", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Anonymous Gift", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10349, 
-    "materials": "pen and ink on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Daily Prayer"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Daily Prayer", 
+  "accession_number": "66.239", 
+  "credit_line": "Anonymous Gift", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155889, 
+  "creation_date": "20th century", 
+  "materials": "pen and ink on white paper", 
+  "actors": [
+    {
+      "name": "Seymour Rosenthal", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298619, 
+      "role": "Artist", 
+      "birth_date": "1921", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10349, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

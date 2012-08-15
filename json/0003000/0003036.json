@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.38", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1809", 
-            "death_date": "1888", 
-            "name": "Sneyd, Walter", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Elma D. Wilkinson Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3036, 
-    "materials": "charcoal and colored chalk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Corporal Trim"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Corporal Trim", 
+  "accession_number": "74.38", 
+  "credit_line": "Elma D. Wilkinson Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138517, 
+  "creation_date": "19th century", 
+  "materials": "charcoal and colored chalk", 
+  "actors": [
+    {
+      "name": "Sneyd, Walter", 
+      "after_follower": null, 
+      "death_date": "1888", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294833, 
+      "role": "Artist", 
+      "birth_date": "1809", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3036, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

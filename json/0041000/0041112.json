@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1602.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1800", 
-            "death_date": "1868", 
-            "name": "Cattermole, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1811", 
-            "death_date": "1882", 
-            "name": "Simmons, William Henry", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1834", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41112, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dunfermline"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1602.20", 
+  "title": "Dunfermline", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243723, 
+  "creation_date": "about 1834", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Cattermole, George", 
+      "after_follower": null, 
+      "death_date": "1868", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304587, 
+      "role": "Artist", 
+      "birth_date": "1800", 
+      "nationality": null
+    }, 
+    {
+      "name": "Simmons, William Henry", 
+      "after_follower": null, 
+      "death_date": "1882", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304785, 
+      "role": "Engraver", 
+      "birth_date": "1811", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41112, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

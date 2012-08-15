@@ -1,38 +1,44 @@
 {
-    "accession_number": "24.222", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1818", 
-            "death_date": "1898", 
-            "name": "Appian, Adolphe", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1828", 
-            "death_date": "1875", 
-            "name": "Cadart, Alfred", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1874", 
-    "credit_line": "Gift of the children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36712, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Cadart, Alfred"
-        }
-    ], 
-    "rights": null, 
-    "title": "Barques de Cabotage, Cotes d'Italie"
+  "publishers": [
+    {
+      "name": "Cadart, Alfred"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the children of Thomas E. Hibben", 
+  "accession_number": "24.222", 
+  "title": "Barques de Cabotage, Cotes d'Italie", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231607, 
+  "creation_date": "1874", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Appian, Adolphe", 
+      "after_follower": null, 
+      "death_date": "1898", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295539, 
+      "role": "Artist", 
+      "birth_date": "1818", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cadart, Alfred", 
+      "after_follower": null, 
+      "death_date": "1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295073, 
+      "role": "Printer", 
+      "birth_date": "1828", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36712, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

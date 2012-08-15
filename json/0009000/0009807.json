@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.801.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Walker, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1795", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "5 7/8 x 9 15/16 in (plate) \n7 9/16 x 10 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 9807, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bridgenorth"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "5 7/8 x 9 15/16 in (plate) \n7 9/16 x 10 1/2 in (sheet)", 
+  "title": "Bridgenorth", 
+  "accession_number": "80.801.1", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154607, 
+  "creation_date": "1795", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Walker, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298459, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 9807, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

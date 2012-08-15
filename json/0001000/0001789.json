@@ -1,38 +1,44 @@
 {
-    "accession_number": "71.56", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1958", 
-            "name": "Rouault, Georges", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Lacouri\u00e9re", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1936", 
-    "credit_line": "Gift of Mr. William Gumberts", 
-    "cultures": [], 
-    "dimensions": "22 5/8 x 30 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 1789, 
-    "materials": "color aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Ambrose Vollard"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
-    "title": "L'Automne"
+  "publishers": [
+    {
+      "name": "Ambrose Vollard"
+    }
+  ], 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
+  "dimensions": "22 5/8 x 30 5/8 in. (sheet)", 
+  "title": "L'Automne", 
+  "accession_number": "71.56", 
+  "credit_line": "Gift of Mr. William Gumberts", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135575, 
+  "creation_date": "1936", 
+  "materials": "color aquatint", 
+  "actors": [
+    {
+      "name": "Rouault, Georges", 
+      "after_follower": null, 
+      "death_date": "1958", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294877, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lacouri\u00e9re", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295649, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1789, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

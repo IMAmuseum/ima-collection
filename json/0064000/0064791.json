@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1948", 
-            "death_date": null, 
-            "name": "William Sawaya", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Heller S.r.l.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2001", 
-    "credit_line": "Gift of Heller Inc.", 
-    "cultures": [], 
-    "dimensions": "32 \u00d7 19 \u00d7 21 in.", 
-    "dynasty": null, 
-    "irn": 64791, 
-    "materials": "polypropylene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 William Sawaya", 
-    "title": "Calla side chair"
+  "publishers": [], 
+  "dimensions": "32 \u00d7 19 \u00d7 21 in.", 
+  "rights": "\u00a9 William Sawaya", 
+  "credit_line": "Gift of Heller Inc.", 
+  "accession_number": "2010.11", 
+  "title": "Calla side chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279315, 
+  "creation_date": "2001", 
+  "materials": "polypropylene", 
+  "actors": [
+    {
+      "name": "William Sawaya", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307121, 
+      "role": "Designer", 
+      "birth_date": "1948", 
+      "nationality": null
+    }, 
+    {
+      "name": "Heller S.r.l.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307125, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64791, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

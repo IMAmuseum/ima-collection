@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.399", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1852", 
-            "death_date": "1931", 
-            "name": "Cole, Timothy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1905", 
-    "credit_line": "Gift of the Century Co.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20135, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Education of the Virgin"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Century Co.", 
+  "accession_number": "13.399", 
+  "title": "Education of the Virgin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193213, 
+  "creation_date": "1905", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Cole, Timothy", 
+      "after_follower": null, 
+      "death_date": "1931", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298525, 
+      "role": "Artist", 
+      "birth_date": "1852", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20135, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

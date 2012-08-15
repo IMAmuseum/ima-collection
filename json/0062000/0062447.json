@@ -1,38 +1,44 @@
 {
-    "accession_number": "2004.166", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1901", 
-            "name": "Toulouse-Lautrec, Henri de", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Edward Ancourt", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1893", 
-    "credit_line": "Gift of Phillipa Hughes", 
-    "cultures": [], 
-    "dimensions": "14 1/4 x 10 in. (image)", 
-    "dynasty": null, 
-    "irn": 62447, 
-    "materials": "lithograph", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "L'Escarmoucher"
-        }
-    ], 
-    "rights": null, 
-    "title": "Au Moulin Rouge: Un Rude! Un Vrai Rude! (At the Moulin Rouge - A Rude! a True Rude!)"
+  "publishers": [
+    {
+      "name": "L'Escarmoucher"
+    }
+  ], 
+  "dimensions": "14 1/4 x 10 in. (image)", 
+  "rights": null, 
+  "credit_line": "Gift of Phillipa Hughes", 
+  "accession_number": "2004.166", 
+  "title": "Au Moulin Rouge: Un Rude! Un Vrai Rude! (At the Moulin Rouge - A Rude! a True Rude!)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277679, 
+  "creation_date": "1893", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Toulouse-Lautrec, Henri de", 
+      "after_follower": null, 
+      "death_date": "1901", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296139, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }, 
+    {
+      "name": "Edward Ancourt", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306433, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62447, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "39.79", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1817", 
-            "death_date": "1878", 
-            "name": "Daubigny, Charles Fran\u00e7ois", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1863", 
-    "credit_line": "Gift of William H. Thompson", 
-    "cultures": [], 
-    "dimensions": "9 x 15 in.", 
-    "dynasty": null, 
-    "irn": 27147, 
-    "materials": "oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "On the Oise"
+  "publishers": [], 
+  "dimensions": "9 x 15 in.", 
+  "rights": null, 
+  "credit_line": "Gift of William H. Thompson", 
+  "accession_number": "39.79", 
+  "title": "On the Oise", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18209377, 
+  "creation_date": "1863", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Daubigny, Charles Fran\u00e7ois", 
+      "after_follower": null, 
+      "death_date": "1878", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294829, 
+      "role": "Artist", 
+      "birth_date": "1817", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27147, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

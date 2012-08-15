@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.265C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1972", 
-            "name": "Norell, Norman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1962", 
-    "credit_line": "Gift of Mrs. Samuel C. Goldberg", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23661, 
-    "materials": "Chantilly lace, silk crepe", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Norman Norell", 
-    "title": "belt"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Norman Norell", 
+  "credit_line": "Gift of Mrs. Samuel C. Goldberg", 
+  "accession_number": "80.265C", 
+  "title": "belt", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18201271, 
+  "creation_date": "1962", 
+  "materials": "Chantilly lace, silk crepe", 
+  "actors": [
+    {
+      "name": "Norell, Norman", 
+      "after_follower": null, 
+      "death_date": "1972", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294959, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23661, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

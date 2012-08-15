@@ -1,26 +1,30 @@
 {
-    "accession_number": "65.18", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1685", 
-            "death_date": "1768", 
-            "name": "Hakuin Ekaku", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1685-1768", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "46 x 19 3/4 in.", 
-    "dynasty": null, 
-    "irn": 6408, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Daruma"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "46 x 19 3/4 in.", 
+  "title": "Daruma", 
+  "accession_number": "65.18", 
+  "credit_line": "James E. Roberts Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18146445, 
+  "creation_date": "1685-1768", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Hakuin Ekaku", 
+      "after_follower": null, 
+      "death_date": "1768", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297431, 
+      "role": "Artist", 
+      "birth_date": "1685", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6408, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.201", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1632", 
-            "death_date": "1717", 
-            "name": "Wang Hui", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1650-1717", 
-    "credit_line": "Thomas W. Ayton Fund", 
-    "cultures": [], 
-    "dimensions": "13 x 12 1/4 in.", 
-    "dynasty": "Qing dynasty", 
-    "irn": 36821, 
-    "materials": "album (10 leaves), ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "album after old masters and poems"
+  "publishers": [], 
+  "dimensions": "13 x 12 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Thomas W. Ayton Fund", 
+  "accession_number": "81.201", 
+  "title": "album after old masters and poems", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231853, 
+  "creation_date": "1650-1717", 
+  "materials": "album (10 leaves), ink on paper", 
+  "actors": [
+    {
+      "name": "Wang Hui", 
+      "after_follower": null, 
+      "death_date": "1717", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296337, 
+      "role": "Artist", 
+      "birth_date": "1632", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36821, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.229", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1462", 
-            "death_date": "1535", 
-            "name": "Robetta, Cristofano", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1497-1500", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "11 5/8 x 11 in. (image)\n12 x 11 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9978, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Adoration of the Magi"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "11 5/8 x 11 in. (image)\n12 x 11 1/8 in. (sheet)", 
+  "title": "Adoration of the Magi", 
+  "accession_number": "55.229", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155001, 
+  "creation_date": "1497-1500", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Robetta, Cristofano", 
+      "after_follower": null, 
+      "death_date": "1535", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298491, 
+      "role": "Artist", 
+      "birth_date": "1462", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9978, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

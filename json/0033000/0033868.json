@@ -1,34 +1,40 @@
 {
-    "accession_number": "30.1004", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1697", 
-            "death_date": "1764", 
-            "name": "Hogarth, William", 
-            "nationality": null, 
-            "role": "Artist and Engraver"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1691", 
-            "death_date": "1791", 
-            "name": "Cave, Francois Morellon La", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1758", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": "15 1/4 x 21 3/4 in. (image)\n17 1/4 x 23 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 33868, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Polling: Four Prints of an Election, Plate 3"
+  "publishers": [], 
+  "dimensions": "15 1/4 x 21 3/4 in. (image)\n17 1/4 x 23 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of William George Sullivan", 
+  "accession_number": "30.1004", 
+  "title": "The Polling: Four Prints of an Election, Plate 3", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18225035, 
+  "creation_date": "1758", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Hogarth, William", 
+      "after_follower": null, 
+      "death_date": "1764", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294939, 
+      "role": "Artist and Engraver", 
+      "birth_date": "1697", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cave, Francois Morellon La", 
+      "after_follower": null, 
+      "death_date": "1791", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303445, 
+      "role": "Engraver", 
+      "birth_date": "1691", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33868, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

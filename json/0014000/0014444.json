@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.292", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1863", 
-            "death_date": "1935", 
-            "name": "Signac, Paul", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1899", 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "16 3/8 x 19 7/8 in.", 
-    "dynasty": null, 
-    "irn": 14444, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Entrance to the Port of Honfleur"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "16 3/8 x 19 7/8 in.", 
+  "title": "Entrance to the Port of Honfleur", 
+  "accession_number": "79.292", 
+  "credit_line": "The Holliday Collection", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165799, 
+  "creation_date": "1899", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Signac, Paul", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297567, 
+      "role": "Artist", 
+      "birth_date": "1863", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14444, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

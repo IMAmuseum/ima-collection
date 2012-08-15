@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.98", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1854", 
-            "death_date": "1929", 
-            "name": "Harrison, Birge", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1900-1910", 
-    "credit_line": "Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": "24 x 30 in.\n28 1/4 x 34 1/4 in. (framed)", 
-    "dynasty": null, 
-    "irn": 14594, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Harbor Light"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "24 x 30 in.\n28 1/4 x 34 1/4 in. (framed)", 
+  "title": "The Harbor Light", 
+  "accession_number": "11.98", 
+  "credit_line": "Julius F. Pratt Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166127, 
+  "creation_date": "about 1900-1910", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Harrison, Birge", 
+      "after_follower": null, 
+      "death_date": "1929", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299665, 
+      "role": "Artist", 
+      "birth_date": "1854", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14594, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

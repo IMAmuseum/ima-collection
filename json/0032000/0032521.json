@@ -1,26 +1,30 @@
 {
-    "accession_number": "16.397B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1602", 
-            "death_date": "1674", 
-            "name": "Kano Tan'yu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1418", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32521, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Book of Design Vol. 4"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "16.397B", 
+  "title": "Book of Design Vol. 4", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221855, 
+  "creation_date": "1418", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Kano Tan'yu", 
+      "after_follower": null, 
+      "death_date": "1674", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298573, 
+      "role": "Artist", 
+      "birth_date": "1602", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32521, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.91", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1867", 
-            "death_date": "1956", 
-            "name": "Brangwyn, Frank", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1910", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35971, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The River Lot"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Delavan Smith", 
+  "accession_number": "25.91", 
+  "title": "The River Lot", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229853, 
+  "creation_date": "1910", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Brangwyn, Frank", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297791, 
+      "role": "Artist", 
+      "birth_date": "1867", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35971, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

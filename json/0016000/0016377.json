@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.109", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1831", 
-            "death_date": "1888", 
-            "name": "Jules-Clement Levasseur", 
-            "nationality": "French", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16377, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Figures in Land"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Figures in Land", 
+  "accession_number": "09.109", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170503, 
+  "creation_date": "19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Jules-Clement Levasseur", 
+      "after_follower": null, 
+      "death_date": "1888", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300157, 
+      "role": "Artist", 
+      "birth_date": "1831", 
+      "nationality": "French"
+    }
+  ], 
+  "irn": 16377, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

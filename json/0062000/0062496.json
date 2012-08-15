@@ -1,26 +1,30 @@
 {
-    "accession_number": "2004.154A-P", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1959", 
-            "death_date": null, 
-            "name": "Maria M. Campos-Pons", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "2002", 
-    "credit_line": "IMA Business Group Art Acquisition Fund", 
-    "cultures": [], 
-    "dimensions": "96 x 80 in. (installed)", 
-    "dynasty": null, 
-    "irn": 62496, 
-    "materials": "Composition of 16 Polaroid 20 x 24 camera using Polacolor #6 film", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Maria Magdalena Campos-Pons", 
-    "title": "Elevata"
+  "publishers": [], 
+  "dimensions": "96 x 80 in. (installed)", 
+  "rights": "\u00a9 Maria Magdalena Campos-Pons", 
+  "credit_line": "IMA Business Group Art Acquisition Fund", 
+  "accession_number": "2004.154A-P", 
+  "title": "Elevata", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277693, 
+  "creation_date": "2002", 
+  "materials": "Composition of 16 Polaroid 20 x 24 camera using Polacolor #6 film", 
+  "actors": [
+    {
+      "name": "Maria M. Campos-Pons", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306445, 
+      "role": "Artist", 
+      "birth_date": "1959", 
+      "nationality": null
+    }
+  ], 
+  "irn": 62496, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

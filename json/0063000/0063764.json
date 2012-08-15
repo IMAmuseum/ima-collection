@@ -1,38 +1,44 @@
 {
-    "accession_number": "2006.88", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1913", 
-            "death_date": "1980", 
-            "name": "Guston, Philip", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "The Hollander Workshop", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1966", 
-    "credit_line": "Lucille Stewart Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "22 1/2 x 30 1/8 in. (image and sheet)", 
-    "dynasty": null, 
-    "irn": 63764, 
-    "materials": "lithograph on off white Arches wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Hollander, Irwin"
-        }
-    ], 
-    "rights": "\u00a9 Philip Guston", 
-    "title": "Untitled #11"
+  "publishers": [
+    {
+      "name": "Hollander, Irwin"
+    }
+  ], 
+  "dimensions": "22 1/2 x 30 1/8 in. (image and sheet)", 
+  "rights": "\u00a9 Philip Guston", 
+  "credit_line": "Lucille Stewart Endowed Art Fund", 
+  "accession_number": "2006.88", 
+  "title": "Untitled #11", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278681, 
+  "creation_date": "1966", 
+  "materials": "lithograph on off white Arches wove paper", 
+  "actors": [
+    {
+      "name": "Guston, Philip", 
+      "after_follower": null, 
+      "death_date": "1980", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301123, 
+      "role": "Artist", 
+      "birth_date": "1913", 
+      "nationality": null
+    }, 
+    {
+      "name": "The Hollander Workshop", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306689, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63764, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

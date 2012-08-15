@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.183", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1971", 
-            "name": "Kent, Rockwell", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1927", 
-    "credit_line": "McKee Fine Arts Purchase Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35223, 
-    "materials": "watercolor on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "By permission of Plattsburgh State Art Museum, Rockwell Kent Gallery and Collection", 
-    "title": "Lobsterman"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "By permission of Plattsburgh State Art Museum, Rockwell Kent Gallery and Collection", 
+  "credit_line": "McKee Fine Arts Purchase Fund", 
+  "accession_number": "1985.183", 
+  "title": "Lobsterman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18228169, 
+  "creation_date": "1927", 
+  "materials": "watercolor on off-white paper", 
+  "actors": [
+    {
+      "name": "Kent, Rockwell", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296097, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35223, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

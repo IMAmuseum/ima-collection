@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.336", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1953", 
-            "death_date": null, 
-            "name": "Ted Muehling", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Nymphenburg Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "The Liliane and David M. Stewart Collection", 
-    "cultures": [], 
-    "dimensions": "5 1/8 x 14 3/8 x 7 1/2 in.", 
-    "dynasty": null, 
-    "irn": 65837, 
-    "materials": "porcelain, white bisque exterior, and white glazed interior", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ted Muehling", 
-    "title": "Volute bowl"
+  "publishers": [], 
+  "dimensions": "5 1/8 x 14 3/8 x 7 1/2 in.", 
+  "rights": "\u00a9 Ted Muehling", 
+  "credit_line": "The Liliane and David M. Stewart Collection", 
+  "accession_number": "2008.336", 
+  "title": "Volute bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280607, 
+  "creation_date": "2000", 
+  "materials": "porcelain, white bisque exterior, and white glazed interior", 
+  "actors": [
+    {
+      "name": "Ted Muehling", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307447, 
+      "role": "Designer", 
+      "birth_date": "1953", 
+      "nationality": null
+    }, 
+    {
+      "name": "Nymphenburg Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294715, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65837, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

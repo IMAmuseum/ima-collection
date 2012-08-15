@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.140", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": "2000", 
-            "name": "Baskin, Leonard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1952", 
-    "credit_line": "Gift of Mr. and Mrs. Carl J. Weinhardt, Jr. in memory of Henry F. DeBoest", 
-    "cultures": [], 
-    "dimensions": "64 x 34 1/2", 
-    "dynasty": null, 
-    "irn": 23212, 
-    "materials": "woodcut", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Leonard Baskin", 
-    "title": "Man of Peace"
+  "publishers": [], 
+  "dimensions": "64 x 34 1/2", 
+  "rights": "\u00a9 Leonard Baskin", 
+  "credit_line": "Gift of Mr. and Mrs. Carl J. Weinhardt, Jr. in memory of Henry F. DeBoest", 
+  "accession_number": "75.140", 
+  "title": "Man of Peace", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200227, 
+  "creation_date": "1952", 
+  "materials": "woodcut", 
+  "actors": [
+    {
+      "name": "Baskin, Leonard", 
+      "after_follower": null, 
+      "death_date": "2000", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294737, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23212, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

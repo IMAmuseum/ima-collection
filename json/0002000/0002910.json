@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.168", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1791", 
-    "credit_line": "Gift in memory of Dr. and Mrs. Hugo Pantzer", 
-    "cultures": [], 
-    "dimensions": "7 3/4 x 10 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 2910, 
-    "materials": "pencil on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Northwest View of Malmesbury Abbey"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "7 3/4 x 10 1/2 in (sheet)", 
+  "title": "Northwest View of Malmesbury Abbey", 
+  "accession_number": "72.168", 
+  "credit_line": "Gift in memory of Dr. and Mrs. Hugo Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138231, 
+  "creation_date": "about 1791", 
+  "materials": "pencil on white paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2910, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

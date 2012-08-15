@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.454", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1746", 
-            "death_date": "1828", 
-            "name": "Francisco Jos\u00e9 de Goya y Lucientes", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1794", 
-    "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "43 5/8 x 33 1/8 in.", 
-    "dynasty": null, 
-    "irn": 6949, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of F\u00e9lix Col\u00f3n de Larri\u00e1tegui"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "43 5/8 x 33 1/8 in.", 
+  "title": "Portrait of F\u00e9lix Col\u00f3n de Larri\u00e1tegui", 
+  "accession_number": "75.454", 
+  "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147747, 
+  "creation_date": "1794", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Francisco Jos\u00e9 de Goya y Lucientes", 
+      "after_follower": null, 
+      "death_date": "1828", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294783, 
+      "role": "Artist", 
+      "birth_date": "1746", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6949, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

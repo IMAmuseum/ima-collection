@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.790", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1839", 
-            "death_date": "1917", 
-            "name": "De Morgan, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1854", 
-            "death_date": "1928", 
-            "name": "Halsey Ricardo", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1888-1897", 
-    "credit_line": "Gift of Martin Filler and Rosemarie H. Bletter", 
-    "cultures": [], 
-    "dimensions": "6 x 6 in.", 
-    "dynasty": null, 
-    "irn": 67228, 
-    "materials": "glazed earthenware", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Art Nouveau tile"
+  "publishers": [], 
+  "dimensions": "6 x 6 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Martin Filler and Rosemarie H. Bletter", 
+  "accession_number": "2008.790", 
+  "title": "Art Nouveau tile", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282469, 
+  "creation_date": "1888-1897", 
+  "materials": "glazed earthenware", 
+  "actors": [
+    {
+      "name": "De Morgan, William", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307635, 
+      "role": "Artist", 
+      "birth_date": "1839", 
+      "nationality": null
+    }, 
+    {
+      "name": "Halsey Ricardo", 
+      "after_follower": null, 
+      "death_date": "1928", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307637, 
+      "role": "Designer", 
+      "birth_date": "1854", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67228, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

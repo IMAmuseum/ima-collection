@@ -1,26 +1,30 @@
 {
-    "accession_number": "76.148", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1951-", 
-            "death_date": "1951-", 
-            "name": "Wygonik, Melanie", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46501, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Emily and Vincent"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
+  "accession_number": "76.148", 
+  "title": "Emily and Vincent", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18256767, 
+  "creation_date": "1975", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Wygonik, Melanie", 
+      "after_follower": null, 
+      "death_date": "1951-", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305279, 
+      "role": "Artist", 
+      "birth_date": "1951-", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46501, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

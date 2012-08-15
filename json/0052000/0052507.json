@@ -1,26 +1,30 @@
 {
-    "accession_number": "45.29", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift in memory of Charles C. Kryter", 
-    "cultures": [], 
-    "dimensions": "13 3/4 x 9 5/8 in.", 
-    "dynasty": null, 
-    "irn": 52507, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Two Ladies on a Terrace"
+  "publishers": [], 
+  "dimensions": "13 3/4 x 9 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift in memory of Charles C. Kryter", 
+  "accession_number": "45.29", 
+  "title": "Two Ladies on a Terrace", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18267271, 
+  "creation_date": null, 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 52507, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

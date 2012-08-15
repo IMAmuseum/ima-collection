@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1809", 
-            "death_date": "1893", 
-            "name": "Bodmer, Karl", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1842", 
-    "credit_line": "Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": "11 3/4 x 17 in. (image)\n17 1/4 x 23 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 31093, 
-    "materials": "color etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "New Harmony on the Wabash"
+  "publishers": [], 
+  "dimensions": "11 3/4 x 17 in. (image)\n17 1/4 x 23 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Julius F. Pratt Fund", 
+  "accession_number": "40.5", 
+  "title": "New Harmony on the Wabash", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18218637, 
+  "creation_date": "1842", 
+  "materials": "color etching and aquatint", 
+  "actors": [
+    {
+      "name": "Bodmer, Karl", 
+      "after_follower": null, 
+      "death_date": "1893", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301145, 
+      "role": "Artist", 
+      "birth_date": "1809", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31093, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

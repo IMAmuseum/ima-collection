@@ -1,26 +1,30 @@
 {
-    "accession_number": "66.232", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1557", 
-            "death_date": "1629", 
-            "name": "Castello, Bernardo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1620", 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "47 3/4 x 38 1/2 in.", 
-    "dynasty": null, 
-    "irn": 31829, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Nativity"
+  "publishers": [], 
+  "dimensions": "47 3/4 x 38 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "accession_number": "66.232", 
+  "title": "Nativity", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220263, 
+  "creation_date": "about 1620", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Castello, Bernardo", 
+      "after_follower": null, 
+      "death_date": "1629", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303133, 
+      "role": "Artist", 
+      "birth_date": "1557", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31829, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

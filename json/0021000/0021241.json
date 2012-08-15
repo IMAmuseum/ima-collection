@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.100", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1756", 
-            "death_date": "1823", 
-            "name": "Raeburn, Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1800", 
-    "credit_line": "Gift of Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "28 x 36 in.", 
-    "dynasty": null, 
-    "irn": 21241, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mrs. Macdowall"
+  "publishers": [], 
+  "dimensions": "28 x 36 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herman C. Krannert", 
+  "accession_number": "74.100", 
+  "title": "Mrs. Macdowall", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18195705, 
+  "creation_date": "about 1800", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Raeburn, Henry", 
+      "after_follower": null, 
+      "death_date": "1823", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298329, 
+      "role": "Artist", 
+      "birth_date": "1756", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21241, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

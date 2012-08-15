@@ -1,26 +1,30 @@
 {
-    "accession_number": "66.185", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1813", 
-            "death_date": "1888", 
-            "name": "Currier, Nathaniel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1848", 
-    "credit_line": "Gift of Mrs. M. S. Cassen", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 22808, 
-    "materials": "hand-colored lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Prince Albert"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. M. S. Cassen", 
+  "accession_number": "66.185", 
+  "title": "Prince Albert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18199233, 
+  "creation_date": "1848", 
+  "materials": "hand-colored lithograph", 
+  "actors": [
+    {
+      "name": "Currier, Nathaniel", 
+      "after_follower": null, 
+      "death_date": "1888", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294763, 
+      "role": "Artist", 
+      "birth_date": "1813", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22808, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

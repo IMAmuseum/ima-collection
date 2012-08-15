@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.530.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Komplot", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "K\u00e4llemo AB", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Gift of K\u00e4llemo AB, Sweden", 
-    "cultures": [], 
-    "dimensions": "30 \u00d7 15 1/4 x 17 3/4 in.", 
-    "dynasty": null, 
-    "irn": 67704, 
-    "materials": "rubber", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Komplot", 
-    "title": "Non chair (grey)"
+  "publishers": [], 
+  "dimensions": "30 \u00d7 15 1/4 x 17 3/4 in.", 
+  "rights": "\u00a9 Komplot", 
+  "credit_line": "Gift of K\u00e4llemo AB, Sweden", 
+  "accession_number": "2009.530.2", 
+  "title": "Non chair (grey)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282939, 
+  "creation_date": "2000", 
+  "materials": "rubber", 
+  "actors": [
+    {
+      "name": "Komplot", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307017, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "K\u00e4llemo AB", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307019, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67704, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

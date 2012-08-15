@@ -1,30 +1,34 @@
 {
-    "accession_number": "73.2.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1618", 
-            "death_date": "1682", 
-            "name": "Lepautre, Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1665", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "8 1/4 X 5 1/2 in. (image)\n10 5/8 X 7 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9260, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Le Blond"
-        }
-    ], 
-    "rights": null, 
-    "title": "Cabinet"
+  "publishers": [
+    {
+      "name": "Le Blond"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "8 1/4 X 5 1/2 in. (image)\n10 5/8 X 7 5/8 in. (sheet)", 
+  "title": "Cabinet", 
+  "accession_number": "73.2.8", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153295, 
+  "creation_date": "about 1665", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lepautre, Jean", 
+      "after_follower": null, 
+      "death_date": "1682", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296297, 
+      "role": "Artist", 
+      "birth_date": "1618", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9260, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

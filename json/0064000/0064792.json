@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.381A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1974", 
-            "death_date": null, 
-            "name": "H\u00e9ctor Serrano", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Droog Design", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2002", 
-    "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "Lamp without shirt: 8 3/4  \u00d7 16 \u00d7 2 in.", 
-    "dynasty": null, 
-    "irn": 64792, 
-    "materials": "Acrylic and existing shirt", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Hector Serrano", 
-    "title": "Playboy light fixture"
+  "publishers": [], 
+  "dimensions": "Lamp without shirt: 8 3/4  \u00d7 16 \u00d7 2 in.", 
+  "rights": "\u00a9 Hector Serrano", 
+  "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
+  "accession_number": "2009.381A-B", 
+  "title": "Playboy light fixture", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279317, 
+  "creation_date": "2002", 
+  "materials": "Acrylic and existing shirt", 
+  "actors": [
+    {
+      "name": "H\u00e9ctor Serrano", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307127, 
+      "role": "Artist", 
+      "birth_date": "1974", 
+      "nationality": null
+    }, 
+    {
+      "name": "Droog Design", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306817, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64792, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.70.30", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Patek Phillippe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1925", 
-    "credit_line": "Bequest of Ruth Allison Lilly", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13766, 
-    "materials": "gold, cast, chased, enameled, champleve enamel, pearls, rubies", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "watch (incorporated into a brooch)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "watch (incorporated into a brooch)", 
+  "accession_number": "73.70.30", 
+  "credit_line": "Bequest of Ruth Allison Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164141, 
+  "creation_date": "about 1925", 
+  "materials": "gold, cast, chased, enameled, champleve enamel, pearls, rubies", 
+  "actors": [
+    {
+      "name": "Patek Phillippe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299421, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 13766, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

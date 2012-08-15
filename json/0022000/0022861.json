@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.10.159", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Chelsea porcelain factory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1770-1773", 
-    "credit_line": "Gift of the Children of J.K. Lilly", 
-    "cultures": [], 
-    "dimensions": "11 in.", 
-    "dynasty": null, 
-    "irn": 22861, 
-    "materials": "soft-paste porcelain, polychrome enamels, gilding", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Wilkes (figurine)"
+  "publishers": [], 
+  "dimensions": "11 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J.K. Lilly", 
+  "accession_number": "67.10.159", 
+  "title": "Wilkes (figurine)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18199389, 
+  "creation_date": "1770-1773", 
+  "materials": "soft-paste porcelain, polychrome enamels, gilding", 
+  "actors": [
+    {
+      "name": "Chelsea porcelain factory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296349, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 22861, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

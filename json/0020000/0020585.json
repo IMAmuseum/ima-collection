@@ -1,34 +1,40 @@
 {
-    "accession_number": "1998.36A-I", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": null, 
-            "name": "Hilla Becher", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": "2007", 
-            "name": "Bernd Becher", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1997", 
-    "credit_line": "Gift of the Contemporary Art Society", 
-    "cultures": [], 
-    "dimensions": "22 3/8 x 18 1/4 x 1 1/8 in. (each panel, framed)", 
-    "dynasty": null, 
-    "irn": 20585, 
-    "materials": "black and white photographs", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Hilla and Bernd Becher", 
-    "title": "Watertowers"
+  "publishers": [], 
+  "dimensions": "22 3/8 x 18 1/4 x 1 1/8 in. (each panel, framed)", 
+  "rights": "\u00a9 Hilla and Bernd Becher", 
+  "credit_line": "Gift of the Contemporary Art Society", 
+  "accession_number": "1998.36A-I", 
+  "title": "Watertowers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194209, 
+  "creation_date": "1997", 
+  "materials": "black and white photographs", 
+  "actors": [
+    {
+      "name": "Hilla Becher", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301027, 
+      "role": "Artist", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bernd Becher", 
+      "after_follower": null, 
+      "death_date": "2007", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301029, 
+      "role": "Artist", 
+      "birth_date": "1931", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20585, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

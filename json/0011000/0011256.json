@@ -1,38 +1,44 @@
 {
-    "accession_number": "1992.392", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1833", 
-            "death_date": "1914", 
-            "name": "Bracquemond, F\u00e9lix", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1907", 
-            "name": "Del\u00e2tre, Auguste", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1855", 
-    "credit_line": "Gift of Mrs. Hiram W. McKee", 
-    "cultures": [], 
-    "dimensions": "9 1/4 x 13 7/16 in. |  23.5 x 34.2 cm. (image)", 
-    "dynasty": null, 
-    "irn": 11256, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Cadart, Alfred"
-        }
-    ], 
-    "rights": null, 
-    "title": "'Il s'en allaient dodelinant de la t\u00eate et barytonnant du cul' (Rabelais) ('They went with wagging heads and trumpeting tails')"
+  "publishers": [
+    {
+      "name": "Cadart, Alfred"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "9 1/4 x 13 7/16 in. |  23.5 x 34.2 cm. (image)", 
+  "title": "'Il s'en allaient dodelinant de la t\u00eate et barytonnant du cul' (Rabelais) ('They went with wagging heads and trumpeting tails')", 
+  "accession_number": "1992.392", 
+  "credit_line": "Gift of Mrs. Hiram W. McKee", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18158057, 
+  "creation_date": "1855", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Bracquemond, F\u00e9lix", 
+      "after_follower": null, 
+      "death_date": "1914", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294869, 
+      "role": "Artist", 
+      "birth_date": "1833", 
+      "nationality": null
+    }, 
+    {
+      "name": "Del\u00e2tre, Auguste", 
+      "after_follower": null, 
+      "death_date": "1907", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294903, 
+      "role": "Printer", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11256, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

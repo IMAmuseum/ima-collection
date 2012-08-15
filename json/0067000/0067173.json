@@ -1,30 +1,34 @@
 {
-    "accession_number": "2009.13", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1886", 
-            "death_date": "1966", 
-            "name": "Arp, Hans", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1962-1965", 
-    "credit_line": "Bequest of Eldon and Friedy Nyhart", 
-    "cultures": [], 
-    "dimensions": "13 1/2 x 13 1/2 in. (image)\n18 x 17 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 67173, 
-    "materials": "color woodblock print on cream wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Fequet et Baudier"
-        }
-    ], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York/VG Bild-Kunst, Bonn", 
-    "title": "untitled, Plate II"
+  "publishers": [], 
+  "dimensions": "13 1/2 x 13 1/2 in. (image)\n18 x 17 1/4 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York/VG Bild-Kunst, Bonn", 
+  "credit_line": "Bequest of Eldon and Friedy Nyhart", 
+  "accession_number": "2009.13", 
+  "title": "untitled, Plate II", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282423, 
+  "creation_date": "1962-1965", 
+  "materials": "color woodblock print on cream wove paper", 
+  "actors": [
+    {
+      "name": "Arp, Hans", 
+      "after_follower": null, 
+      "death_date": "1966", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297923, 
+      "role": "Artist", 
+      "birth_date": "1886", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67173, 
+  "printers": [
+    {
+      "name": "Fequet et Baudier"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

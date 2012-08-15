@@ -1,26 +1,30 @@
 {
-    "accession_number": "29.35", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1863", 
-            "death_date": "1923", 
-            "name": "Sorolla y Bastida, Joaqu\u00edn", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century - 20th century", 
-    "credit_line": "Gift of Miss Lucy Taggart", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2670, 
-    "materials": "pencil on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Two Figures at a Table"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Two Figures at a Table", 
+  "accession_number": "29.35", 
+  "credit_line": "Gift of Miss Lucy Taggart", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137647, 
+  "creation_date": "19th century - 20th century", 
+  "materials": "pencil on off-white paper", 
+  "actors": [
+    {
+      "name": "Sorolla y Bastida, Joaqu\u00edn", 
+      "after_follower": null, 
+      "death_date": "1923", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296079, 
+      "role": "Artist", 
+      "birth_date": "1863", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2670, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

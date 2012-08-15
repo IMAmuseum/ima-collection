@@ -1,26 +1,30 @@
 {
-    "accession_number": "08.66", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1490", 
-            "death_date": "1540", 
-            "name": "Musi, Agostino (Agostino Veneziano)", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "16th century", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12618, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna and Child with St. John and Angels"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Madonna and Child with St. John and Angels", 
+  "accession_number": "08.66", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18161455, 
+  "creation_date": "16th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Musi, Agostino (Agostino Veneziano)", 
+      "after_follower": null, 
+      "death_date": "1540", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299091, 
+      "role": "Artist", 
+      "birth_date": "1490", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12618, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

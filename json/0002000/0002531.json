@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.734.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1811", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "8 1/16 x 11 1/4 in (plate) \n11 9/16 x 17 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 2531, 
-    "materials": "aquatint and mezzotint over etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Junction of the Severn and Wye"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "8 1/16 x 11 1/4 in (plate) \n11 9/16 x 17 1/2 in (sheet)", 
+  "title": "The Junction of the Severn and Wye", 
+  "accession_number": "80.734.2", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137319, 
+  "creation_date": "1811", 
+  "materials": "aquatint and mezzotint over etching", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2531, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

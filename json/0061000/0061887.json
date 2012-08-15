@@ -1,33 +1,37 @@
 {
-    "accession_number": "LH2003.65A-D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1728", 
-            "death_date": "1774", 
-            "name": "Oliver Goldsmith", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1854", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 6 in. (each)", 
-    "dynasty": null, 
-    "irn": 61887, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Peter Cunningham, F.S.A."
-        }, 
-        {
-            "name": "John Murray"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Works of Oliver Goldsmith (volumes 1-4)"
+  "publishers": [
+    {
+      "name": "Peter Cunningham, F.S.A."
+    }, 
+    {
+      "name": "John Murray"
+    }
+  ], 
+  "dimensions": "8 3/4 x 6 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.65A-D", 
+  "title": "The Works of Oliver Goldsmith (volumes 1-4)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277395, 
+  "creation_date": "1854", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Oliver Goldsmith", 
+      "after_follower": null, 
+      "death_date": "1774", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306271, 
+      "role": "Author", 
+      "birth_date": "1728", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61887, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

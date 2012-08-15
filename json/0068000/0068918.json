@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.273", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": "1991", 
-            "name": "Kuramata, Shiro", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ishimaru Co., Ltd.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1989", 
-    "credit_line": "Gift of Dr. Michael Sze", 
-    "cultures": [], 
-    "dimensions": "A) block: 7 1/2 x 4 5/16 x 4 5/16 in.\nB) tube: 5 3/4 x 9/16 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 68918, 
-    "materials": "acrylic and glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Flower Vase #2"
+  "publishers": [], 
+  "dimensions": "A) block: 7 1/2 x 4 5/16 x 4 5/16 in.\nB) tube: 5 3/4 x 9/16 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Michael Sze", 
+  "accession_number": "2010.273", 
+  "title": "Flower Vase #2", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283843, 
+  "creation_date": "1989", 
+  "materials": "acrylic and glass", 
+  "actors": [
+    {
+      "name": "Kuramata, Shiro", 
+      "after_follower": null, 
+      "death_date": "1991", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307311, 
+      "role": "Designer", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ishimaru Co., Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307315, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68918, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

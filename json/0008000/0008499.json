@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.12B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1843", 
-            "name": "Pyne, William Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1814", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8499, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "men, women, donkeys and children"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "men, women, donkeys and children", 
+  "accession_number": "09.12B", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151397, 
+  "creation_date": "1814", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Pyne, William Henry", 
+      "after_follower": null, 
+      "death_date": "1843", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296341, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8499, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

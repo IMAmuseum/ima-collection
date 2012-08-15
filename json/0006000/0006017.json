@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.217", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1927", 
-            "death_date": null, 
-            "name": "Phillips, Matt", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1977", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6017, 
-    "materials": "monoprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Patterned Table"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Patterned Table", 
+  "accession_number": "77.217", 
+  "credit_line": "Delavan Smith Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145539, 
+  "creation_date": "1977", 
+  "materials": "monoprint", 
+  "actors": [
+    {
+      "name": "Phillips, Matt", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297341, 
+      "role": "Artist", 
+      "birth_date": "1927", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6017, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

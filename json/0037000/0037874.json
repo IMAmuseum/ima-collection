@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.809.149", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1747", 
-            "death_date": "1823", 
-            "name": "Reid, Alexander", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "10/1/1797", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37874, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Kirkcudbright"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.809.149", 
+  "title": "Kirkcudbright", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234597, 
+  "creation_date": "10/1/1797", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Reid, Alexander", 
+      "after_follower": null, 
+      "death_date": "1823", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304169, 
+      "role": "Artist", 
+      "birth_date": "1747", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37874, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

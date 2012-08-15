@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.297", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1884", 
-            "death_date": "1975", 
-            "name": "Fernand Verhaegen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1909-1910", 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "23 1/8 x 19 1/2 in.", 
-    "dynasty": null, 
-    "irn": 5074, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Flowers and Fruit (Fleurs et Fruit)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "23 1/8 x 19 1/2 in.", 
+  "title": "Flowers and Fruit (Fleurs et Fruit)", 
+  "accession_number": "79.297", 
+  "credit_line": "The Holliday Collection", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143289, 
+  "creation_date": "1909-1910", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Fernand Verhaegen", 
+      "after_follower": null, 
+      "death_date": "1975", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297033, 
+      "role": "Artist", 
+      "birth_date": "1884", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5074, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

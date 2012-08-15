@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.76A-L", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775-1834", 
-            "death_date": "1775-1834", 
-            "name": "Charles Lamb", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1899-1900", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "9 1/4 x 6 1/2 in. (each)", 
-    "dynasty": null, 
-    "irn": 62229, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Macmillan and Co."
-        }
-    ], 
-    "rights": null, 
-    "title": "Life and Works of Charles Lamb"
+  "publishers": [
+    {
+      "name": "Macmillan and Co."
+    }
+  ], 
+  "dimensions": "9 1/4 x 6 1/2 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.76A-L", 
+  "title": "Life and Works of Charles Lamb", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277591, 
+  "creation_date": "1899-1900", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Charles Lamb", 
+      "after_follower": null, 
+      "death_date": "1775-1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306353, 
+      "role": "Author", 
+      "birth_date": "1775-1834", 
+      "nationality": null
+    }
+  ], 
+  "irn": 62229, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

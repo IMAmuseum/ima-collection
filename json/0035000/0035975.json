@@ -1,30 +1,34 @@
 {
-    "accession_number": "81.1058", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1897", 
-            "death_date": "1977", 
-            "name": "Gropper, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1968", 
-    "credit_line": "Gift of Dr. Gilbert Erlechman", 
-    "cultures": [], 
-    "dimensions": "5 7/8 x 3 7/8 in. (image)\n13 7/8 x 9 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 35975, 
-    "materials": "soft ground etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Associated American Artists"
-        }
-    ], 
-    "rights": "\u00a9 The Estate of William Gropper", 
-    "title": "I Protest"
+  "publishers": [
+    {
+      "name": "Associated American Artists"
+    }
+  ], 
+  "dimensions": "5 7/8 x 3 7/8 in. (image)\n13 7/8 x 9 7/8 in. (sheet)", 
+  "rights": "\u00a9 The Estate of William Gropper", 
+  "credit_line": "Gift of Dr. Gilbert Erlechman", 
+  "accession_number": "81.1058", 
+  "title": "I Protest", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229863, 
+  "creation_date": "about 1968", 
+  "materials": "soft ground etching", 
+  "actors": [
+    {
+      "name": "Gropper, William", 
+      "after_follower": null, 
+      "death_date": "1977", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294735, 
+      "role": "Artist", 
+      "birth_date": "1897", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35975, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1950", 
-            "death_date": null, 
-            "name": "Mariscal, Javier", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "AKABA S.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1988", 
-    "credit_line": "Jane Weldon Myers Acquisition Fund", 
-    "cultures": [], 
-    "dimensions": "38 1/4 x 39 1/4 x 16 1/2 in.", 
-    "dynasty": null, 
-    "irn": 68544, 
-    "materials": "leather, steel, and aluminum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Javier Mariscal", 
-    "title": "Garriris side chair"
+  "publishers": [], 
+  "dimensions": "38 1/4 x 39 1/4 x 16 1/2 in.", 
+  "rights": "\u00a9 Javier Mariscal", 
+  "credit_line": "Jane Weldon Myers Acquisition Fund", 
+  "accession_number": "2010.9", 
+  "title": "Garriris side chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283527, 
+  "creation_date": "1988", 
+  "materials": "leather, steel, and aluminum", 
+  "actors": [
+    {
+      "name": "Mariscal, Javier", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307055, 
+      "role": "Designer", 
+      "birth_date": "1950", 
+      "nationality": null
+    }, 
+    {
+      "name": "AKABA S.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307881, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68544, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

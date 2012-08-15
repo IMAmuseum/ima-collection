@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.344", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1472", 
-            "death_date": "1553", 
-            "name": "Cranach, Lucas, the elder", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1532", 
-    "credit_line": "The Clowes Collection", 
-    "cultures": [], 
-    "dimensions": "30 x 21 1/2 in.", 
-    "dynasty": null, 
-    "irn": 18915, 
-    "materials": "oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Crucifixion"
+  "publishers": [], 
+  "dimensions": "30 x 21 1/2 in.", 
+  "rights": null, 
+  "credit_line": "The Clowes Collection", 
+  "accession_number": "2000.344", 
+  "title": "Crucifixion", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190391, 
+  "creation_date": "1532", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Cranach, Lucas, the elder", 
+      "after_follower": null, 
+      "death_date": "1553", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295319, 
+      "role": "Artist", 
+      "birth_date": "1472", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18915, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

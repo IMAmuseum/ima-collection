@@ -1,42 +1,50 @@
 {
-    "accession_number": "2009.533", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1950", 
-            "death_date": null, 
-            "name": "Herzog, Jacques", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1950", 
-            "death_date": null, 
-            "name": "Meuron, Pierre de", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Artemide S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2002", 
-    "credit_line": "Gift of Artemide Inc.", 
-    "cultures": [], 
-    "dimensions": "54 1/4 \u00d7 8 1/4 in.", 
-    "dynasty": null, 
-    "irn": 64709, 
-    "materials": "steel, silicon, and lacquer", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jacques Herzog", 
-    "title": "Pipe light"
+  "publishers": [], 
+  "dimensions": "54 1/4 \u00d7 8 1/4 in.", 
+  "rights": "\u00a9 Jacques Herzog", 
+  "credit_line": "Gift of Artemide Inc.", 
+  "accession_number": "2009.533", 
+  "title": "Pipe light", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279223, 
+  "creation_date": "2002", 
+  "materials": "steel, silicon, and lacquer", 
+  "actors": [
+    {
+      "name": "Herzog, Jacques", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306981, 
+      "role": "Designer", 
+      "birth_date": "1950", 
+      "nationality": null
+    }, 
+    {
+      "name": "Meuron, Pierre de", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306983, 
+      "role": "Designer", 
+      "birth_date": "1950", 
+      "nationality": null
+    }, 
+    {
+      "name": "Artemide S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300503, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64709, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

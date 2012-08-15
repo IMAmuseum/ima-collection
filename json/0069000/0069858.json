@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.248", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1918", 
-            "death_date": null, 
-            "name": "Wiinblad, Bj\u00f8rn", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Rosenthal GmbH", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "circa 1970", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "8 x 9 1/2 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 69858, 
-    "materials": "porcelain bowl", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bowl"
+  "publishers": [], 
+  "dimensions": "8 x 9 1/2 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.248", 
+  "title": "Bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18285691, 
+  "creation_date": "circa 1970", 
+  "materials": "porcelain bowl", 
+  "actors": [
+    {
+      "name": "Wiinblad, Bj\u00f8rn", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308301, 
+      "role": "Designer", 
+      "birth_date": "1918", 
+      "nationality": null
+    }, 
+    {
+      "name": "Rosenthal GmbH", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295463, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69858, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.1005", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1886", 
-            "death_date": "1980", 
-            "name": "Kokoschka, Oskar", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1963", 
-    "credit_line": "Gift of Mr. William A. Graham IV", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7725, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Fondation Oskar Kokoschka/Artists Rights Society (ARS), New York/ProLitteris, Z\u00fcrich", 
-    "title": "Goneril and Albany and Edmund, (Act IV, Scene II)"
+  "publishers": [], 
+  "rights": "\u00a9 Fondation Oskar Kokoschka/Artists Rights Society (ARS), New York/ProLitteris, Z\u00fcrich", 
+  "dimensions": null, 
+  "title": "Goneril and Albany and Edmund, (Act IV, Scene II)", 
+  "accession_number": "79.1005", 
+  "credit_line": "Gift of Mr. William A. Graham IV", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149607, 
+  "creation_date": "1963", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Kokoschka, Oskar", 
+      "after_follower": null, 
+      "death_date": "1980", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294941, 
+      "role": "Artist", 
+      "birth_date": "1886", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7725, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

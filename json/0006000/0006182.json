@@ -1,26 +1,30 @@
 {
-    "accession_number": "65.36", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1925", 
-            "death_date": null, 
-            "name": "Vian, Orfeo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1949", 
-    "credit_line": "Gift of Olive F. Whitman and Ray Jennings Morehouse", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6182, 
-    "materials": "linocut", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Flagellation"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Flagellation", 
+  "accession_number": "65.36", 
+  "credit_line": "Gift of Olive F. Whitman and Ray Jennings Morehouse", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145923, 
+  "creation_date": "1949", 
+  "materials": "linocut", 
+  "actors": [
+    {
+      "name": "Vian, Orfeo", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297385, 
+      "role": "Artist", 
+      "birth_date": "1925", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6182, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

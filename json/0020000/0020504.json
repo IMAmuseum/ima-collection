@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.107", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1984", 
-            "name": "Neel, Alice", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Jacob Metzger Fund and Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20504, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Judith Solodkin"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Jacob Metzger Fund and Carl H. Lieber Memorial Fund", 
+  "accession_number": "78.107", 
+  "title": "Portrait of Judith Solodkin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194031, 
+  "creation_date": "1978", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Neel, Alice", 
+      "after_follower": null, 
+      "death_date": "1984", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296503, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20504, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

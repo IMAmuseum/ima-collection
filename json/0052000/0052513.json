@@ -1,26 +1,30 @@
 {
-    "accession_number": "45.36", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1835", 
-            "death_date": "1900", 
-            "name": "Toyohara Kunichika", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "late 1800s", 
-    "credit_line": "Gift in memory of Charles C. Kryter", 
-    "cultures": [], 
-    "dimensions": "14 1/4 x 9 1/2 in.", 
-    "dynasty": null, 
-    "irn": 52513, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sukeroku of the Black Hand Gang (Kurotegumi Sukeroku)"
+  "publishers": [], 
+  "dimensions": "14 1/4 x 9 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift in memory of Charles C. Kryter", 
+  "accession_number": "45.36", 
+  "title": "Sukeroku of the Black Hand Gang (Kurotegumi Sukeroku)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18267287, 
+  "creation_date": "late 1800s", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Toyohara Kunichika", 
+      "after_follower": null, 
+      "death_date": "1900", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305531, 
+      "role": "Artist", 
+      "birth_date": "1835", 
+      "nationality": null
+    }
+  ], 
+  "irn": 52513, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

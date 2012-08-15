@@ -1,26 +1,30 @@
 {
-    "accession_number": "17.196", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1473", 
-            "death_date": "1531", 
-            "name": "Burgkmair, Hans, the elder", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "16th century", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 17714, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Plate LXVI: Walhausen, Ravensburg, Kirchberg"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of William George Sullivan", 
+  "accession_number": "17.196", 
+  "title": "Plate LXVI: Walhausen, Ravensburg, Kirchberg", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18173965, 
+  "creation_date": "16th century", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Burgkmair, Hans, the elder", 
+      "after_follower": null, 
+      "death_date": "1531", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295107, 
+      "role": "Artist", 
+      "birth_date": "1473", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17714, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

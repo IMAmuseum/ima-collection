@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.425A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1963", 
-            "death_date": null, 
-            "name": "Hella Jongerius", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Vitra AG", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2005-2006", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
-    "cultures": [], 
-    "dimensions": "33 x 31 x 30 in.", 
-    "dynasty": null, 
-    "irn": 64721, 
-    "materials": "wood, aluminum, and fabric", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Hella Jongerius", 
-    "title": "The Worker chair"
+  "publishers": [], 
+  "dimensions": "33 x 31 x 30 in.", 
+  "rights": "\u00a9 Hella Jongerius", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
+  "accession_number": "2009.425A-B", 
+  "title": "The Worker chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279239, 
+  "creation_date": "2005-2006", 
+  "materials": "wood, aluminum, and fabric", 
+  "actors": [
+    {
+      "name": "Hella Jongerius", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307009, 
+      "role": "Designer", 
+      "birth_date": "1963", 
+      "nationality": null
+    }, 
+    {
+      "name": "Vitra AG", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306781, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64721, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

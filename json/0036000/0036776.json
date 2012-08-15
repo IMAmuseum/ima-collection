@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.84.50", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775-1847", 
-            "death_date": "1775-1847", 
-            "name": "Papworth, John Buonarotti", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1818", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36776, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Four Cottages"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Discretionary Fund", 
+  "accession_number": "73.84.50", 
+  "title": "Four Cottages", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231741, 
+  "creation_date": "1818", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Papworth, John Buonarotti", 
+      "after_follower": null, 
+      "death_date": "1775-1847", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299533, 
+      "role": "Artist", 
+      "birth_date": "1775-1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36776, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "33.30", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1971", 
-            "name": "Kent, Rockwell", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Gift of Rockwell Kent", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4086, 
-    "materials": "wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "By permission of Plattsburgh State Art Museum, Rockwell Kent Gallery and Collection", 
-    "title": "Hail and Farewell"
+  "publishers": [], 
+  "rights": "By permission of Plattsburgh State Art Museum, Rockwell Kent Gallery and Collection", 
+  "dimensions": null, 
+  "title": "Hail and Farewell", 
+  "accession_number": "33.30", 
+  "credit_line": "Gift of Rockwell Kent", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140975, 
+  "creation_date": "20th century", 
+  "materials": "wood", 
+  "actors": [
+    {
+      "name": "Kent, Rockwell", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296097, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4086, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

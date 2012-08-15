@@ -1,26 +1,30 @@
 {
-    "accession_number": "1993.100", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1913", 
-            "death_date": "1995", 
-            "name": "Phillips, Helen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1938", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant, Miss Joan D. Weisenberger and Jack and Penny Weldon", 
-    "cultures": [], 
-    "dimensions": "12 3/16 x 9 7/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 18052, 
-    "materials": "engraving and soft-ground etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Stream"
+  "publishers": [], 
+  "dimensions": "12 3/16 x 9 7/16 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant, Miss Joan D. Weisenberger and Jack and Penny Weldon", 
+  "accession_number": "1993.100", 
+  "title": "Stream", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18174817, 
+  "creation_date": "1938", 
+  "materials": "engraving and soft-ground etching", 
+  "actors": [
+    {
+      "name": "Phillips, Helen", 
+      "after_follower": null, 
+      "death_date": "1995", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300505, 
+      "role": "Artist", 
+      "birth_date": "1913", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18052, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

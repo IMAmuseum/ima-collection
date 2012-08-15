@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.354", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860", 
-            "death_date": "1926", 
-            "name": "Pennell, Joseph", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1918", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13842, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fourth Liberty Loan"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Fourth Liberty Loan", 
+  "accession_number": "80.354", 
+  "credit_line": "Museum Accession", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164307, 
+  "creation_date": "1918", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Pennell, Joseph", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295161, 
+      "role": "Artist", 
+      "birth_date": "1860", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13842, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2012.6A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1963", 
-            "death_date": null, 
-            "name": "Marcel Wanders", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Christofle", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2010", 
-    "credit_line": "Gift of Christofle", 
-    "cultures": [], 
-    "dimensions": "8 x 1 1/16 x 7/8 in.", 
-    "dynasty": null, 
-    "irn": 75647, 
-    "materials": "silver plate with gold gilding", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Jardin d'Eden cutlery (dinner fork)"
+  "publishers": [], 
+  "dimensions": "8 x 1 1/16 x 7/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Christofle", 
+  "accession_number": "2012.6A", 
+  "title": "Jardin d'Eden cutlery (dinner fork)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288691, 
+  "creation_date": "2010", 
+  "materials": "silver plate with gold gilding", 
+  "actors": [
+    {
+      "name": "Marcel Wanders", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307187, 
+      "role": "Designer", 
+      "birth_date": "1963", 
+      "nationality": null
+    }, 
+    {
+      "name": "Christofle", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303901, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 75647, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.80A-I", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1862-1949", 
-            "death_date": "1862-1949", 
-            "name": "Maurice Maeterlinck", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "7 5/8 x 5 7/16 in. (each)", 
-    "dynasty": null, 
-    "irn": 62233, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Dodd, Mead & Co."
-        }
-    ], 
-    "rights": null, 
-    "title": null
+  "publishers": [
+    {
+      "name": "Dodd, Mead & Co."
+    }
+  ], 
+  "dimensions": "7 5/8 x 5 7/16 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.80A-I", 
+  "title": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277599, 
+  "creation_date": null, 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Maurice Maeterlinck", 
+      "after_follower": null, 
+      "death_date": "1862-1949", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306361, 
+      "role": "Author", 
+      "birth_date": "1862-1949", 
+      "nationality": null
+    }
+  ], 
+  "irn": 62233, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

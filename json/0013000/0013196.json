@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.41", 
-    "actors": [
-        {
-            "after_follower": "Copy of", 
-            "birth_date": "1585- about1660", 
-            "death_date": "1585- about1660", 
-            "name": "Lan Ying", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1600s", 
-    "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Ming dynasty", 
-    "irn": 13196, 
-    "materials": "ink and color on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape after Dong Yuan [active 10th century]"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Landscape after Dong Yuan [active 10th century]", 
+  "accession_number": "60.41", 
+  "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162793, 
+  "creation_date": "1600s", 
+  "materials": "ink and color on paper", 
+  "actors": [
+    {
+      "name": "Lan Ying", 
+      "after_follower": "Copy of", 
+      "death_date": "1585- about1660", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299255, 
+      "role": "Artist", 
+      "birth_date": "1585- about1660", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13196, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Ming dynasty", 
+  "on_view": false
 }

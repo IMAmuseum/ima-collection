@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.777.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1773", 
-            "death_date": "1835", 
-            "name": "Reynolds, Samuel William (I)", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "January 1, 1819", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11346, 
-    "materials": "etching and mezzotint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Christ and the Woman of Samaria"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Christ and the Woman of Samaria", 
+  "accession_number": "80.777.2", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18158281, 
+  "creation_date": "January 1, 1819", 
+  "materials": "etching and mezzotint", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Reynolds, Samuel William (I)", 
+      "after_follower": null, 
+      "death_date": "1835", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294911, 
+      "role": "Engraver", 
+      "birth_date": "1773", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11346, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.158", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Meissen Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1696", 
-            "death_date": "1749", 
-            "name": "Johann Friedrich Eberlein", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "about 1741-1745", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "15 1/4 in. (diameter)", 
-    "dynasty": null, 
-    "irn": 2367, 
-    "materials": "hard paste porcelain, polychrome enamels, gilding", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "plate"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "15 1/4 in. (diameter)", 
+  "title": "plate", 
+  "accession_number": "80.158", 
+  "credit_line": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136953, 
+  "creation_date": "about 1741-1745", 
+  "materials": "hard paste porcelain, polychrome enamels, gilding", 
+  "actors": [
+    {
+      "name": "Meissen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294771, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Johann Friedrich Eberlein", 
+      "after_follower": null, 
+      "death_date": "1749", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295957, 
+      "role": "Modeler", 
+      "birth_date": "1696", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2367, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

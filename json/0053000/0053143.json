@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.12.31", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1880", 
-            "death_date": "1940", 
-            "name": "Lie, Jonas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1917-1918", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 53143, 
-    "materials": "offset lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "On the Job for Victory"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "72.12.31", 
+  "title": "On the Job for Victory", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18268757, 
+  "creation_date": "1917-1918", 
+  "materials": "offset lithograph", 
+  "actors": [
+    {
+      "name": "Lie, Jonas", 
+      "after_follower": null, 
+      "death_date": "1940", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302253, 
+      "role": "Artist", 
+      "birth_date": "1880", 
+      "nationality": null
+    }
+  ], 
+  "irn": 53143, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.21", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1956", 
-            "name": "Feininger, Lyonel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1919, printed 1931", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "10 x 12 in (image)\n16 1/4 x 21 in (sheet)", 
-    "dynasty": null, 
-    "irn": 11294, 
-    "materials": "woodcut", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Windm\u00fchle (Windmill)"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": "10 x 12 in (image)\n16 1/4 x 21 in (sheet)", 
+  "title": "Windm\u00fchle (Windmill)", 
+  "accession_number": "52.21", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18158151, 
+  "creation_date": "1919, printed 1931", 
+  "materials": "woodcut", 
+  "actors": [
+    {
+      "name": "Feininger, Lyonel", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295735, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11294, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

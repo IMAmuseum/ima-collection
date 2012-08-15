@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.301", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1828", 
-            "death_date": "1875", 
-            "name": "Cadart, Alfred", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1876", 
-    "credit_line": "Gift of the children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10667, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "\u00c0 Monaco"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "\u00c0 Monaco", 
+  "accession_number": "24.301", 
+  "credit_line": "Gift of the children of Thomas E. Hibben", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156613, 
+  "creation_date": "1876", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Cadart, Alfred", 
+      "after_follower": null, 
+      "death_date": "1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295073, 
+      "role": "Printer", 
+      "birth_date": "1828", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10667, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

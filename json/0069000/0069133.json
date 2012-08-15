@@ -1,26 +1,30 @@
 {
-    "accession_number": "MH2010.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "2060", 
-            "name": "Reeves, Paul B.", 
-            "nationality": null, 
-            "role": "artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "23 1/4 x 27 1/4 in.", 
-    "dynasty": null, 
-    "irn": 69133, 
-    "materials": "watercolor, paper", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Duck watercolor"
+  "publishers": [], 
+  "dimensions": "23 1/4 x 27 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.15", 
+  "title": "Duck watercolor", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284189, 
+  "creation_date": null, 
+  "materials": "watercolor, paper", 
+  "actors": [
+    {
+      "name": "Reeves, Paul B.", 
+      "after_follower": null, 
+      "death_date": "2060", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308177, 
+      "role": "artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 69133, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

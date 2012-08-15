@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1618", 
-            "death_date": "1682", 
-            "name": "Lepautre, Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1661", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "6 X 8 3/4 in. (image)\n7 X 10 1/4 in (sheet)", 
-    "dynasty": null, 
-    "irn": 9257, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Wall schemes for large apartments"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 X 8 3/4 in. (image)\n7 X 10 1/4 in (sheet)", 
+  "title": "Wall schemes for large apartments", 
+  "accession_number": "73.2.3", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153285, 
+  "creation_date": "1661", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lepautre, Jean", 
+      "after_follower": null, 
+      "death_date": "1682", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296297, 
+      "role": "Artist", 
+      "birth_date": "1618", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9257, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

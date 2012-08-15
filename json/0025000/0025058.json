@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.110", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1873", 
-            "death_date": "1952", 
-            "name": "Christy, Howard Chandler", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1913", 
-    "credit_line": "Purchased from the Sarah F. Banning Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25058, 
-    "materials": "watercolor and gouache on off-white illustration board", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Illustration for James Whitcomb Riley's \"Goodbye Jim\""
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Purchased from the Sarah F. Banning Fund", 
+  "accession_number": "30.110", 
+  "title": "Illustration for James Whitcomb Riley's \"Goodbye Jim\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204483, 
+  "creation_date": "1913", 
+  "materials": "watercolor and gouache on off-white illustration board", 
+  "actors": [
+    {
+      "name": "Christy, Howard Chandler", 
+      "after_follower": null, 
+      "death_date": "1952", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295577, 
+      "role": "Artist", 
+      "birth_date": "1873", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25058, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

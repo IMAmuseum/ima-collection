@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.147", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1682", 
-            "death_date": "1746", 
-            "name": "Claude d. Bosc", 
-            "nationality": "French", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 29365, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Guardian Deity of Isle of Ceylon"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.147", 
+  "title": "Guardian Deity of Isle of Ceylon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18214585, 
+  "creation_date": "18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Claude d. Bosc", 
+      "after_follower": null, 
+      "death_date": "1746", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302745, 
+      "role": "Artist", 
+      "birth_date": "1682", 
+      "nationality": "French"
+    }
+  ], 
+  "irn": 29365, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

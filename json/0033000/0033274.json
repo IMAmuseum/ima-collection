@@ -1,30 +1,34 @@
 {
-    "accession_number": "10.217", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1853 (Ox 12)", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "13-1/2 x 8-15/16 in.", 
-    "dynasty": null, 
-    "irn": 33274, 
-    "materials": "color woodblock ptin", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Koshimura-ya Heisuke"
-        }
-    ], 
-    "rights": null, 
-    "title": "Mimasaka"
+  "publishers": [
+    {
+      "name": "Koshimura-ya Heisuke"
+    }
+  ], 
+  "dimensions": "13-1/2 x 8-15/16 in.", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "10.217", 
+  "title": "Mimasaka", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18223671, 
+  "creation_date": "1853 (Ox 12)", 
+  "materials": "color woodblock ptin", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33274, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

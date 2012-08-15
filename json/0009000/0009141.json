@@ -1,33 +1,37 @@
 {
-    "accession_number": "45.106", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1834-1835", 
-    "credit_line": "Gift in memory of Charles C. Kryter", 
-    "cultures": [], 
-    "dimensions": "8 7/8 x 13 11/16 in. (image)\ntrimmed all around (sheet)", 
-    "dynasty": null, 
-    "irn": 9141, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Takenouchi Magohachi"
-        }, 
-        {
-            "name": null
-        }
-    ], 
-    "rights": null, 
-    "title": "Weather Clearing at Awazu"
+  "publishers": [
+    {
+      "name": "Takenouchi Magohachi"
+    }, 
+    {
+      "name": null
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "8 7/8 x 13 11/16 in. (image)\ntrimmed all around (sheet)", 
+  "title": "Weather Clearing at Awazu", 
+  "accession_number": "45.106", 
+  "credit_line": "Gift in memory of Charles C. Kryter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18153007, 
+  "creation_date": "1834-1835", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9141, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

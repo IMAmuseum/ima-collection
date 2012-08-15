@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.388", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "1933", 
-            "name": "Platt, Charles Adams", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1884", 
-    "credit_line": "D. P. Erwin Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3670, 
-    "materials": "etching on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rye, Sussex"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Rye, Sussex", 
+  "accession_number": "24.388", 
+  "credit_line": "D. P. Erwin Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140013, 
+  "creation_date": "1884", 
+  "materials": "etching on paper", 
+  "actors": [
+    {
+      "name": "Platt, Charles Adams", 
+      "after_follower": null, 
+      "death_date": "1933", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296501, 
+      "role": "Artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3670, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

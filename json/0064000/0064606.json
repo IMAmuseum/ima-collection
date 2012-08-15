@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.432", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1951", 
-            "death_date": null, 
-            "name": "Arad, Ron", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Moroso", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
-    "cultures": [], 
-    "dimensions": "27 \u00d7  29 1/8 \u00d7  24 1/2  in.", 
-    "dynasty": null, 
-    "irn": 64606, 
-    "materials": "polyurethane", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ron Arad", 
-    "title": "Little Albert chair"
+  "publishers": [], 
+  "dimensions": "27 \u00d7  29 1/8 \u00d7  24 1/2  in.", 
+  "rights": "\u00a9 Ron Arad", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
+  "accession_number": "2009.432", 
+  "title": "Little Albert chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279093, 
+  "creation_date": "2000", 
+  "materials": "polyurethane", 
+  "actors": [
+    {
+      "name": "Arad, Ron", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306779, 
+      "role": "Designer", 
+      "birth_date": "1951", 
+      "nationality": null
+    }, 
+    {
+      "name": "Moroso", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306785, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64606, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

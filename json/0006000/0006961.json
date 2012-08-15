@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1619", 
-            "death_date": "1679", 
-            "name": "Marot, Jean, I", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1660", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "5 X 9 1/2 in. (image)\n6 1/4 X 10 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 6961, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Corner of a ceiling"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "5 X 9 1/2 in. (image)\n6 1/4 X 10 5/8 in. (sheet)", 
+  "title": "Corner of a ceiling", 
+  "accession_number": "73.2.11", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147781, 
+  "creation_date": "about 1660", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Marot, Jean, I", 
+      "after_follower": null, 
+      "death_date": "1679", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297609, 
+      "role": "Artist", 
+      "birth_date": "1619", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6961, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.47", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1942", 
-            "name": "Zhu Deyi", 
-            "nationality": null, 
-            "role": "Calligrapher"
-        }
-    ], 
-    "creation_date": "1931", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Modern {Chinese period}", 
-    "irn": 31542, 
-    "materials": "ink on paper", 
-    "on_view": true, 
-    "period": "Modern {Chinese period}", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Title Label of an Album"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.47", 
+  "title": "Title Label of an Album", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Modern {Chinese period}", 
+  "artisinal:id": 18219615, 
+  "creation_date": "1931", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Zhu Deyi", 
+      "after_follower": null, 
+      "death_date": "1942", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303077, 
+      "role": "Calligrapher", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31542, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Modern {Chinese period}", 
+  "on_view": true
 }

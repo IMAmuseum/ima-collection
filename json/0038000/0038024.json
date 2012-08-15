@@ -1,42 +1,50 @@
 {
-    "accession_number": "80.825.89", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1784", 
-            "death_date": "1824", 
-            "name": "O'Neill, Hugh", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1771", 
-            "death_date": "1853", 
-            "name": "Storer, James", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1810", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38024, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Quadrangle of Balliol College"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.89", 
+  "title": "Quadrangle of Balliol College", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235015, 
+  "creation_date": "1810", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "O'Neill, Hugh", 
+      "after_follower": null, 
+      "death_date": "1824", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304185, 
+      "role": "Artist", 
+      "birth_date": "1784", 
+      "nationality": null
+    }, 
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Storer, James", 
+      "after_follower": null, 
+      "death_date": "1853", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296431, 
+      "role": "Engraver", 
+      "birth_date": "1771", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38024, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

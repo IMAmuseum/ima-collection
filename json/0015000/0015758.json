@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.114", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1935", 
-            "name": "Hassam, Childe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1923", 
-    "credit_line": "Gift of Mrs. Childe Hassam", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15758, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Lion Gardiner Manor"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Lion Gardiner Manor", 
+  "accession_number": "40.114", 
+  "credit_line": "Gift of Mrs. Childe Hassam", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168773, 
+  "creation_date": "1923", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Hassam, Childe", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295317, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15758, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

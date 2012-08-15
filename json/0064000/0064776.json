@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.548", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "John Pawson", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "When Objects Work", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2005", 
-    "credit_line": "Gift of When Objects Work", 
-    "cultures": [], 
-    "dimensions": "H: 7 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64776, 
-    "materials": "acrylic resin", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 John Pawson", 
-    "title": "Piatina bowl"
+  "publishers": [], 
+  "dimensions": "H: 7 1/2 in.", 
+  "rights": "\u00a9 John Pawson", 
+  "credit_line": "Gift of When Objects Work", 
+  "accession_number": "2009.548", 
+  "title": "Piatina bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279297, 
+  "creation_date": "2005", 
+  "materials": "acrylic resin", 
+  "actors": [
+    {
+      "name": "John Pawson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307093, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "When Objects Work", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307097, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64776, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

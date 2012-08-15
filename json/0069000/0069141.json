@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1917", 
-            "death_date": null, 
-            "name": "Florence K. Bassett", 
-            "nationality": null, 
-            "role": "designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Knoll Associates, Inc.", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "28 x 34 x 34 in.", 
-    "dynasty": null, 
-    "irn": 69141, 
-    "materials": "wood, metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Table"
+  "publishers": [], 
+  "dimensions": "28 x 34 x 34 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.22", 
+  "title": "Table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284203, 
+  "creation_date": null, 
+  "materials": "wood, metal", 
+  "actors": [
+    {
+      "name": "Florence K. Bassett", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308183, 
+      "role": "designer", 
+      "birth_date": "1917", 
+      "nationality": null
+    }, 
+    {
+      "name": "Knoll Associates, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307105, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69141, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

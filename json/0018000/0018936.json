@@ -1,26 +1,30 @@
 {
-    "accession_number": "03.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1817", 
-            "death_date": "1894", 
-            "name": "Filippo Livy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "19 x 14 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 18936, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L'Annuziazione"
+  "publishers": [], 
+  "dimensions": "19 x 14 1/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "03.8", 
+  "title": "L'Annuziazione", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190457, 
+  "creation_date": null, 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Filippo Livy", 
+      "after_follower": null, 
+      "death_date": "1894", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300699, 
+      "role": "Artist", 
+      "birth_date": "1817", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18936, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

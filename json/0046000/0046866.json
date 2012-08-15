@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.716", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1968", 
-            "name": "Cassandre (Adolphe Jean Marie Mouron)", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1932", 
-    "credit_line": "Mr. and Mrs. Julius F. Pratt Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46866, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dubonnet"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. Julius F. Pratt Memorial Fund", 
+  "accession_number": "75.716", 
+  "title": "Dubonnet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18257579, 
+  "creation_date": "1932", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Cassandre (Adolphe Jean Marie Mouron)", 
+      "after_follower": null, 
+      "death_date": "1968", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305313, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46866, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

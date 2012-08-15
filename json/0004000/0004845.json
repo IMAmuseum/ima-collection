@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.109", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1877", 
-            "death_date": "1953", 
-            "name": "Dufy, Raoul", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1930", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4845, 
-    "materials": "etching and letterpress", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
-    "title": "La Belle Enfant"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
+  "dimensions": null, 
+  "title": "La Belle Enfant", 
+  "accession_number": "78.109", 
+  "credit_line": "Jacob Metzger Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142733, 
+  "creation_date": "1930", 
+  "materials": "etching and letterpress", 
+  "actors": [
+    {
+      "name": "Dufy, Raoul", 
+      "after_follower": null, 
+      "death_date": "1953", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295789, 
+      "role": "Artist", 
+      "birth_date": "1877", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4845, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

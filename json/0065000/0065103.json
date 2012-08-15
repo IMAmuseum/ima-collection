@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.187", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1929", 
-            "death_date": "1980", 
-            "name": "Kjaerholm, Poul", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "E. Kold Christensen", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1955", 
-    "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "27 7/8 x 24 7/8 x 24 3/4 in.", 
-    "dynasty": null, 
-    "irn": 65103, 
-    "materials": "chrome-plated steel, cane", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Poul Kjaerholm", 
-    "title": "PK 22 lounge chair"
+  "publishers": [], 
+  "dimensions": "27 7/8 x 24 7/8 x 24 3/4 in.", 
+  "rights": "\u00a9 Poul Kjaerholm", 
+  "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
+  "accession_number": "2008.187", 
+  "title": "PK 22 lounge chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279667, 
+  "creation_date": "1955", 
+  "materials": "chrome-plated steel, cane", 
+  "actors": [
+    {
+      "name": "Kjaerholm, Poul", 
+      "after_follower": null, 
+      "death_date": "1980", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307299, 
+      "role": "Designer", 
+      "birth_date": "1929", 
+      "nationality": null
+    }, 
+    {
+      "name": "E. Kold Christensen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307301, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65103, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

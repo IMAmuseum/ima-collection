@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.407", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1959", 
-            "name": "McBey, James", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1924", 
-    "credit_line": "Gift of Carl H. Lieber", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 5 3/4 in (image) \n11 7/8 x 8 7/8 in (sheet)", 
-    "dynasty": null, 
-    "irn": 31712, 
-    "materials": "etching and drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Artist and Model"
+  "publishers": [], 
+  "dimensions": "8 3/4 x 5 3/4 in (image) \n11 7/8 x 8 7/8 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Carl H. Lieber", 
+  "accession_number": "24.407", 
+  "title": "Artist and Model", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220013, 
+  "creation_date": "1924", 
+  "materials": "etching and drypoint", 
+  "actors": [
+    {
+      "name": "McBey, James", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299083, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31712, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

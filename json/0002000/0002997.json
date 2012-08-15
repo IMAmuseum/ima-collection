@@ -1,38 +1,44 @@
 {
-    "accession_number": "1983.193", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1812", 
-            "death_date": "1875", 
-            "name": "Hinselwood, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1807", 
-            "death_date": "1885", 
-            "name": "Smillie, James", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1845", 
-    "credit_line": "Gift of Jerry M. Wright", 
-    "cultures": [], 
-    "dimensions": "20 5/8 x 25 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 2997, 
-    "materials": "hand-colored engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "American Art Union"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Capture of Major Andre"
+  "publishers": [
+    {
+      "name": "American Art Union"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "20 5/8 x 25 3/8 in. (sheet)", 
+  "title": "The Capture of Major Andre", 
+  "accession_number": "1983.193", 
+  "credit_line": "Gift of Jerry M. Wright", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138425, 
+  "creation_date": "1845", 
+  "materials": "hand-colored engraving", 
+  "actors": [
+    {
+      "name": "Hinselwood, Robert", 
+      "after_follower": null, 
+      "death_date": "1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296235, 
+      "role": "Artist", 
+      "birth_date": "1812", 
+      "nationality": null
+    }, 
+    {
+      "name": "Smillie, James", 
+      "after_follower": null, 
+      "death_date": "1885", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294799, 
+      "role": "Artist", 
+      "birth_date": "1807", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2997, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

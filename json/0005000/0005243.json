@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.58", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": null, 
-            "name": "Abeles, Sigmund", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Gift of Dr. Frederick P. Nause and Rebecca Nause", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5243, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Day Lily"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Day Lily", 
+  "accession_number": "80.58", 
+  "credit_line": "Gift of Dr. Frederick P. Nause and Rebecca Nause", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143679, 
+  "creation_date": "1978", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Abeles, Sigmund", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297093, 
+      "role": "Artist", 
+      "birth_date": "1934", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5243, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2012.62", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1929", 
-            "death_date": null, 
-            "name": "Gehry, Frank Owen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "New City Editions", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1984", 
-    "credit_line": "Design Arts Society Fund", 
-    "cultures": [], 
-    "dimensions": "37 1/2 x 32 x 28 1/2 in.", 
-    "dynasty": null, 
-    "irn": 74993, 
-    "materials": "laminated cardboard and plywood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Skinny Beaver"
+  "publishers": [], 
+  "dimensions": "37 1/2 x 32 x 28 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Design Arts Society Fund", 
+  "accession_number": "2012.62", 
+  "title": "Skinny Beaver", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288569, 
+  "creation_date": "about 1984", 
+  "materials": "laminated cardboard and plywood", 
+  "actors": [
+    {
+      "name": "Gehry, Frank Owen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307293, 
+      "role": "Designer", 
+      "birth_date": "1929", 
+      "nationality": null
+    }, 
+    {
+      "name": "New City Editions", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307295, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 74993, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

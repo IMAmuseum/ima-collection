@@ -1,32 +1,36 @@
 {
-    "accession_number": "48.72", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1760", 
-            "death_date": "1849", 
-            "name": "Katsushika Hokusai", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1806-1810", 
-    "credit_line": "Gift of George C. Calvert", 
-    "cultures": [
-        "Hokusai"
-    ], 
-    "dimensions": "9 1/16 x 6 7/8 in. (image and sheet - trimmed all around)", 
-    "dynasty": null, 
-    "irn": 52613, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Iseya Rihei"
-        }
-    ], 
-    "rights": null, 
-    "title": "Okitsu"
+  "publishers": [
+    {
+      "name": "Iseya Rihei"
+    }
+  ], 
+  "dimensions": "9 1/16 x 6 7/8 in. (image and sheet - trimmed all around)", 
+  "rights": null, 
+  "credit_line": "Gift of George C. Calvert", 
+  "accession_number": "48.72", 
+  "title": "Okitsu", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18267541, 
+  "creation_date": "about 1806-1810", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Katsushika Hokusai", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298933, 
+      "role": "Artist", 
+      "birth_date": "1760", 
+      "nationality": null
+    }
+  ], 
+  "irn": 52613, 
+  "printers": [], 
+  "cultures": [
+    "Hokusai"
+  ], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "69.36.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1914", 
-            "death_date": null, 
-            "name": "Bernard Rosenthal", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1966-1967", 
-    "credit_line": "Gift of the Herron Museum Alliance", 
-    "cultures": [], 
-    "dimensions": "55 Diam", 
-    "dynasty": null, 
-    "irn": 19026, 
-    "materials": "bronze", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Aeon"
+  "publishers": [], 
+  "dimensions": "55 Diam", 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of the Herron Museum Alliance", 
+  "accession_number": "69.36.9", 
+  "title": "Aeon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190693, 
+  "creation_date": "1966-1967", 
+  "materials": "bronze", 
+  "actors": [
+    {
+      "name": "Bernard Rosenthal", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300721, 
+      "role": "Artist", 
+      "birth_date": "1914", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19026, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

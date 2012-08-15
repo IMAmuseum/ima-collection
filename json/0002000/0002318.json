@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.502", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Baeder, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift of Dr. and Mrs. Francis L'Esperance", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2318, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 John Baeder", 
-    "title": "Market Diner"
+  "publishers": [], 
+  "rights": "\u00a9 John Baeder", 
+  "dimensions": null, 
+  "title": "Market Diner", 
+  "accession_number": "80.502", 
+  "credit_line": "Gift of Dr. and Mrs. Francis L'Esperance", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136827, 
+  "creation_date": "1979", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Baeder, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295933, 
+      "role": "Artist", 
+      "birth_date": "1938", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2318, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

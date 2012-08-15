@@ -1,42 +1,50 @@
 {
-    "accession_number": "2009.347", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1944", 
-            "death_date": null, 
-            "name": "Fuksas, Massimiliano", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Doriana Mandrelli Fuksas", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Alessi S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2005", 
-    "credit_line": "Gift of Museo Alessi", 
-    "cultures": [], 
-    "dimensions": "11 7/8 \u00d7 9 7/8 \u00d7 3 1/8 in.", 
-    "dynasty": null, 
-    "irn": 64752, 
-    "materials": "steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Massimiliano Fuksas", 
-    "title": "E-Li-Li vase"
+  "publishers": [], 
+  "dimensions": "11 7/8 \u00d7 9 7/8 \u00d7 3 1/8 in.", 
+  "rights": "\u00a9 Massimiliano Fuksas", 
+  "credit_line": "Gift of Museo Alessi", 
+  "accession_number": "2009.347", 
+  "title": "E-Li-Li vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279269, 
+  "creation_date": "2005", 
+  "materials": "steel", 
+  "actors": [
+    {
+      "name": "Fuksas, Massimiliano", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307063, 
+      "role": "Designer", 
+      "birth_date": "1944", 
+      "nationality": null
+    }, 
+    {
+      "name": "Doriana Mandrelli Fuksas", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307067, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Alessi S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304005, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64752, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

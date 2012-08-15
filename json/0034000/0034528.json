@@ -1,26 +1,30 @@
 {
-    "accession_number": "08.93", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Alfred Prunaire", 
-            "nationality": "French", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34528, 
-    "materials": "hand-colored wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Staircase of Palace of Justice"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "08.93", 
+  "title": "Staircase of Palace of Justice", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18226579, 
+  "creation_date": "19th century", 
+  "materials": "hand-colored wood engraving", 
+  "actors": [
+    {
+      "name": "Alfred Prunaire", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299985, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": "French"
+    }
+  ], 
+  "irn": 34528, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,38 +1,44 @@
 {
-    "accession_number": "2002.154", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Celmins, Vija", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Doris Simmelink", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1983", 
-    "credit_line": "Ann M. Stack Fund for Contemporary Art", 
-    "cultures": [], 
-    "dimensions": "23 1/2 x 29 1/4 in. (image)\n29 1/2 x 35 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 59919, 
-    "materials": "mezzotint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Gemini G.E.L."
-        }
-    ], 
-    "rights": "\u00a9 Vija Celmins", 
-    "title": "Strata"
+  "publishers": [
+    {
+      "name": "Gemini G.E.L."
+    }
+  ], 
+  "dimensions": "23 1/2 x 29 1/4 in. (image)\n29 1/2 x 35 1/4 in. (sheet)", 
+  "rights": "\u00a9 Vija Celmins", 
+  "credit_line": "Ann M. Stack Fund for Contemporary Art", 
+  "accession_number": "2002.154", 
+  "title": "Strata", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276193, 
+  "creation_date": "1983", 
+  "materials": "mezzotint", 
+  "actors": [
+    {
+      "name": "Celmins, Vija", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295471, 
+      "role": "Artist", 
+      "birth_date": "1938", 
+      "nationality": null
+    }, 
+    {
+      "name": "Doris Simmelink", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305835, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 59919, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

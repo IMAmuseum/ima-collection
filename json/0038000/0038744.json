@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.978.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1778", 
-            "death_date": "1840", 
-            "name": "Thomson, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Allen, James C.", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1826", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38744, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Craig Millar Castle"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.978.20", 
+  "title": "Craig Millar Castle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18236985, 
+  "creation_date": "1826", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Thomson, John", 
+      "after_follower": null, 
+      "death_date": "1840", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304325, 
+      "role": "Artist", 
+      "birth_date": "1778", 
+      "nationality": null
+    }, 
+    {
+      "name": "Allen, James C.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295541, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 38744, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

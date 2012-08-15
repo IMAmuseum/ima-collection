@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.132", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1889", 
-            "death_date": "1954", 
-            "name": "Ryan, Anne", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1945", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan D. Weisenberger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9339, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Obelisque"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Obelisque", 
+  "accession_number": "1999.132", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan D. Weisenberger", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153519, 
+  "creation_date": "about 1945", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Ryan, Anne", 
+      "after_follower": null, 
+      "death_date": "1954", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298317, 
+      "role": "Artist", 
+      "birth_date": "1889", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9339, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

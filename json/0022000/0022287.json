@@ -1,34 +1,40 @@
 {
-    "accession_number": "LH2006.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Josiah Wedgwood and Sons, Ltd.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1891", 
-            "death_date": "1936", 
-            "name": "A.H. Bentley", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "1919", 
-    "credit_line": "Gift of the Children of J.K. Lilly Jr.", 
-    "cultures": [], 
-    "dimensions": "10 x  7 1/4 in.", 
-    "dynasty": null, 
-    "irn": 22287, 
-    "materials": "stoneware", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "copy of the Portland Vase"
+  "publishers": [], 
+  "dimensions": "10 x  7 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J.K. Lilly Jr.", 
+  "accession_number": "LH2006.7", 
+  "title": "copy of the Portland Vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18198071, 
+  "creation_date": "1919", 
+  "materials": "stoneware", 
+  "actors": [
+    {
+      "name": "Josiah Wedgwood and Sons, Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296273, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "A.H. Bentley", 
+      "after_follower": null, 
+      "death_date": "1936", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301377, 
+      "role": "Modeler", 
+      "birth_date": "1891", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22287, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

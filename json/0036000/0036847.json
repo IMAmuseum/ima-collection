@@ -1,26 +1,30 @@
 {
-    "accession_number": "02.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "1949", 
-            "name": "Portielje, Edward Antoon", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Daniel P. Erwin", 
-    "cultures": [], 
-    "dimensions": "18 1/2 x 15 1/2 in.", 
-    "dynasty": null, 
-    "irn": 36847, 
-    "materials": "oil on panel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fisherman's Cottage"
+  "publishers": [], 
+  "dimensions": "18 1/2 x 15 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Daniel P. Erwin", 
+  "accession_number": "02.26", 
+  "title": "Fisherman's Cottage", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231915, 
+  "creation_date": null, 
+  "materials": "oil on panel", 
+  "actors": [
+    {
+      "name": "Portielje, Edward Antoon", 
+      "after_follower": null, 
+      "death_date": "1949", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303931, 
+      "role": "Artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36847, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

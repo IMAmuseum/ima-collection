@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.201A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": null, 
-            "name": "Meier, Richard", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Swid Powell Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1984", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "A) H: 9 1/4 in.\nB) H: 9 1/4 in.", 
-    "dynasty": null, 
-    "irn": 3707, 
-    "materials": "silver plate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Richard Meier", 
-    "title": "pair of candlesticks"
+  "publishers": [], 
+  "rights": "\u00a9 Richard Meier", 
+  "dimensions": "A) H: 9 1/4 in.\nB) H: 9 1/4 in.", 
+  "title": "pair of candlesticks", 
+  "accession_number": "2011.201A-B", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140103, 
+  "creation_date": "1984", 
+  "materials": "silver plate", 
+  "actors": [
+    {
+      "name": "Meier, Richard", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296511, 
+      "role": "Designer", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Swid Powell Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296515, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 3707, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

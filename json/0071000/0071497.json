@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.58A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1957", 
-            "death_date": null, 
-            "name": "Nathalie du Pasquier", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Swatch", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "Overall): 9 3/8 x 1 5/8 x 1/2 in.\nA) 9 1/8 x 1 3/8 x 5/16 in.\nB) 9 3/8 x 1 5/8 x 1/2 in.", 
-    "dynasty": null, 
-    "irn": 71497, 
-    "materials": "plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Swatch", 
-    "title": "Fritto Misto watch with case"
+  "publishers": [], 
+  "dimensions": "Overall): 9 3/8 x 1 5/8 x 1/2 in.\nA) 9 1/8 x 1 3/8 x 5/16 in.\nB) 9 3/8 x 1 5/8 x 1/2 in.", 
+  "rights": "\u00a9 Swatch", 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2011.58A-B", 
+  "title": "Fritto Misto watch with case", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287155, 
+  "creation_date": "1992", 
+  "materials": "plastic", 
+  "actors": [
+    {
+      "name": "Nathalie du Pasquier", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307923, 
+      "role": "Designer", 
+      "birth_date": "1957", 
+      "nationality": null
+    }, 
+    {
+      "name": "Swatch", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307151, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71497, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

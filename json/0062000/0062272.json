@@ -1,28 +1,32 @@
 {
-    "accession_number": "2004.89", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1st century B.C.", 
-    "credit_line": "Bequest of Elizabeth Gilbert Fortune in memory of her late husband Robert Patrick O'Riley Fortune", 
-    "cultures": [
-        "Greek"
-    ], 
-    "dimensions": "19 x 25 x 16 in.", 
-    "dynasty": null, 
-    "irn": 62272, 
-    "materials": "marble", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Heroic Torso"
+  "publishers": [], 
+  "dimensions": "19 x 25 x 16 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Elizabeth Gilbert Fortune in memory of her late husband Robert Patrick O'Riley Fortune", 
+  "accession_number": "2004.89", 
+  "title": "Heroic Torso", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277647, 
+  "creation_date": "1st century B.C.", 
+  "materials": "marble", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62272, 
+  "printers": [], 
+  "cultures": [
+    "Greek"
+  ], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.279", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1728", 
-            "death_date": "1807", 
-            "name": "Lempereur, Louis-Simon", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1628-1708", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11022, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Bacha en Promenade"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Le Bacha en Promenade", 
+  "accession_number": "09.279", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157471, 
+  "creation_date": "1628-1708", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lempereur, Louis-Simon", 
+      "after_follower": null, 
+      "death_date": "1807", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296363, 
+      "role": "Artist", 
+      "birth_date": "1728", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11022, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

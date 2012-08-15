@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.35", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1858", 
-            "name": "Suzuki Kiitsu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1796-1858", 
-    "credit_line": "Mary V. Black Art Endowment Fund", 
-    "cultures": [], 
-    "dimensions": "33 5/8 x 13 1/4 in. (image)\n66 3/4 x 20 3/4 in. (overall)", 
-    "dynasty": null, 
-    "irn": 15921, 
-    "materials": "ink, color, and gold on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Yoshiwara and Shinagawa"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "33 5/8 x 13 1/4 in. (image)\n66 3/4 x 20 3/4 in. (overall)", 
+  "title": "Yoshiwara and Shinagawa", 
+  "accession_number": "2000.35", 
+  "credit_line": "Mary V. Black Art Endowment Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18169165, 
+  "creation_date": "1796-1858", 
+  "materials": "ink, color, and gold on silk", 
+  "actors": [
+    {
+      "name": "Suzuki Kiitsu", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300009, 
+      "role": "Artist", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15921, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.437A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Studio Job", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Royal Tichelaar Makkum", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2004-2006", 
-    "credit_line": "The Ballard Fund", 
-    "cultures": [], 
-    "dimensions": "8 x 7 x 7 in.", 
-    "dynasty": null, 
-    "irn": 67313, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Studio Job", 
-    "title": "Still Life Precious Box"
+  "publishers": [], 
+  "dimensions": "8 x 7 x 7 in.", 
+  "rights": "\u00a9 Studio Job", 
+  "credit_line": "The Ballard Fund", 
+  "accession_number": "2009.437A-B", 
+  "title": "Still Life Precious Box", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282657, 
+  "creation_date": "2004-2006", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Studio Job", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307149, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Royal Tichelaar Makkum", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307011, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67313, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,38 @@
 {
-    "accession_number": "2011.234", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1940", 
-            "death_date": null, 
-            "name": "Snyder, Joan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1985", 
-    "credit_line": "Gift of Steve Conant in memory of Mrs. H. L. Conant and Mrs. H. E. Conant", 
-    "cultures": [], 
-    "dimensions": "30 1/4 x 44 1/4 in.", 
-    "dynasty": null, 
-    "irn": 72367, 
-    "materials": "lithograph with hand-coloring on white wove BFK Rives paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "John Hutcheson"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Mount Holyoke College Printmaking Workshop"
-        }
-    ], 
-    "rights": null, 
-    "title": "Can We Turn Our Rage to Poetry?"
+  "publishers": [
+    {
+      "name": "Mount Holyoke College Printmaking Workshop"
+    }
+  ], 
+  "dimensions": "30 1/4 x 44 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Steve Conant in memory of Mrs. H. L. Conant and Mrs. H. E. Conant", 
+  "accession_number": "2011.234", 
+  "title": "Can We Turn Our Rage to Poetry?", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287783, 
+  "creation_date": "1985", 
+  "materials": "lithograph with hand-coloring on white wove BFK Rives paper", 
+  "actors": [
+    {
+      "name": "Snyder, Joan", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308569, 
+      "role": "Artist", 
+      "birth_date": "1940", 
+      "nationality": null
+    }
+  ], 
+  "irn": 72367, 
+  "printers": [
+    {
+      "name": "John Hutcheson"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.41", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1903", 
-            "name": "Whistler, James Abbott McNeill", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1878", 
-    "credit_line": "Gift in memory of Kurt F. Pantzer, Sr.", 
-    "cultures": [], 
-    "dimensions": "6 11/16 x 10 1/4 in (image) \n13 1/2 x 19 1/4 in (sheet)", 
-    "dynasty": null, 
-    "irn": 5063, 
-    "materials": "lithotint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Nocturne: The Thames at Battersea"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 11/16 x 10 1/4 in (image) \n13 1/2 x 19 1/4 in (sheet)", 
+  "title": "Nocturne: The Thames at Battersea", 
+  "accession_number": "80.41", 
+  "credit_line": "Gift in memory of Kurt F. Pantzer, Sr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143257, 
+  "creation_date": "1878", 
+  "materials": "lithotint", 
+  "actors": [
+    {
+      "name": "Whistler, James Abbott McNeill", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296393, 
+      "role": "Artist", 
+      "birth_date": "1834", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5063, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

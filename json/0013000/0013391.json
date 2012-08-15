@@ -1,26 +1,30 @@
 {
-    "accession_number": "69.80.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1770", 
-            "death_date": "1817", 
-            "name": "Zhai Jichang", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1817", 
-    "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
-    "cultures": [], 
-    "dimensions": "94 1/8 x 19 5/8 in. (overall)", 
-    "dynasty": "Qing dynasty", 
-    "irn": 13391, 
-    "materials": "ink and color on paper", 
-    "on_view": true, 
-    "period": "Jiaqing", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape after Tang Yin"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "94 1/8 x 19 5/8 in. (overall)", 
+  "title": "Landscape after Tang Yin", 
+  "accession_number": "69.80.1", 
+  "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Jiaqing", 
+  "artisinal:id": 18163235, 
+  "creation_date": "1817", 
+  "materials": "ink and color on paper", 
+  "actors": [
+    {
+      "name": "Zhai Jichang", 
+      "after_follower": null, 
+      "death_date": "1817", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299319, 
+      "role": "Artist", 
+      "birth_date": "1770", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13391, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": true
 }

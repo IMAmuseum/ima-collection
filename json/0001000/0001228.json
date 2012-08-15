@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.761", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1927", 
-            "name": "Adams, John Ottis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1874-1880", 
-    "credit_line": "Gift of Mr. Edward W. Adams", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1228, 
-    "materials": "ink and pencil on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Indiana Sketchbook"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Indiana Sketchbook", 
+  "accession_number": "75.761", 
+  "credit_line": "Gift of Mr. Edward W. Adams", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134181, 
+  "creation_date": "1874-1880", 
+  "materials": "ink and pencil on paper", 
+  "actors": [
+    {
+      "name": "Adams, John Ottis", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295417, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1228, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

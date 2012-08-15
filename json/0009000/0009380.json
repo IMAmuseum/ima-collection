@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.302", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1903", 
-            "name": "Whistler, James Abbott McNeill", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1857-1858", 
-    "credit_line": "Jacob Metzger and Mr. and Mrs. Julius F. Pratt Funds", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9380, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "La Vielle aux Loques"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "La Vielle aux Loques", 
+  "accession_number": "77.302", 
+  "credit_line": "Jacob Metzger and Mr. and Mrs. Julius F. Pratt Funds", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153619, 
+  "creation_date": "1857-1858", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Whistler, James Abbott McNeill", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296393, 
+      "role": "Artist", 
+      "birth_date": "1834", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9380, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

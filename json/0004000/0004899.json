@@ -1,34 +1,40 @@
 {
-    "accession_number": "32.205", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1780", 
-            "death_date": "1867", 
-            "name": "Ingres, Jean Auguste Dominique", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Delpech, Fran\u00e7ois-S\u00e9raphin", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1825", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4899, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Odalisque"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Odalisque", 
+  "accession_number": "32.205", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142863, 
+  "creation_date": "1825", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Ingres, Jean Auguste Dominique", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296943, 
+      "role": "Artist", 
+      "birth_date": "1780", 
+      "nationality": null
+    }, 
+    {
+      "name": "Delpech, Fran\u00e7ois-S\u00e9raphin", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296945, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 4899, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

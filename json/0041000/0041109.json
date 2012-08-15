@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1602.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1796-1864", 
-            "death_date": "1796-1864", 
-            "name": "Roberts, David", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1791", 
-            "death_date": "1857", 
-            "name": "Finden, Edward", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1834", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41109, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Room at Abbotsford"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1602.17", 
+  "title": "Room at Abbotsford", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243715, 
+  "creation_date": "about 1834", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Roberts, David", 
+      "after_follower": null, 
+      "death_date": "1796-1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297883, 
+      "role": "Artist", 
+      "birth_date": "1796-1864", 
+      "nationality": null
+    }, 
+    {
+      "name": "Finden, Edward", 
+      "after_follower": null, 
+      "death_date": "1857", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304265, 
+      "role": "Engraver", 
+      "birth_date": "1791", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41109, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

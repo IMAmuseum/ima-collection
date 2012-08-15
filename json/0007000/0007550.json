@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.192", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1799", 
-            "death_date": "1883", 
-            "name": "Calvert, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1824", 
-    "credit_line": "Gift of Mrs. Anna J. Browness and Miss Frances J. Browness, Jan. 25, 1909", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7550, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Kildare Abbey"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Kildare Abbey", 
+  "accession_number": "09.192", 
+  "credit_line": "Gift of Mrs. Anna J. Browness and Miss Frances J. Browness, Jan. 25, 1909", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149223, 
+  "creation_date": "1824", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Calvert, Edward", 
+      "after_follower": null, 
+      "death_date": "1883", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297793, 
+      "role": "Artist", 
+      "birth_date": "1799", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7550, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

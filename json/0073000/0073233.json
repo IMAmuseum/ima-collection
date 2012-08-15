@@ -1,34 +1,38 @@
 {
-    "accession_number": "2011.263", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1943", 
-            "death_date": null, 
-            "name": "Feltus, Alan Evan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1980", 
-    "credit_line": "Gift of Steve Conant in memory of Mrs. H. L. Conant and Mrs. H. E. Conant", 
-    "cultures": [], 
-    "dimensions": "9 x 7 1/4 in. (image)\n10 5/8 x 8 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 73233, 
-    "materials": "lithograph on wove Arches white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Evelyn Lincoln"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Editions Press, San Francisco"
-        }
-    ], 
-    "rights": null, 
-    "title": "Study I"
+  "publishers": [
+    {
+      "name": "Editions Press, San Francisco"
+    }
+  ], 
+  "dimensions": "9 x 7 1/4 in. (image)\n10 5/8 x 8 5/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Steve Conant in memory of Mrs. H. L. Conant and Mrs. H. E. Conant", 
+  "accession_number": "2011.263", 
+  "title": "Study I", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287947, 
+  "creation_date": "1980", 
+  "materials": "lithograph on wove Arches white paper", 
+  "actors": [
+    {
+      "name": "Feltus, Alan Evan", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305431, 
+      "role": "Artist", 
+      "birth_date": "1943", 
+      "nationality": null
+    }
+  ], 
+  "irn": 73233, 
+  "printers": [
+    {
+      "name": "Evelyn Lincoln"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

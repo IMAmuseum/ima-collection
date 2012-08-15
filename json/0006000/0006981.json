@@ -1,26 +1,30 @@
 {
-    "accession_number": "S5112.83.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1917", 
-            "name": "Degas, Edgar", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1860", 
-    "credit_line": "Gift of George H. Cunard", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6981, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mlle. Nathalie Wolkonska, 1st Plate"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Mlle. Nathalie Wolkonska, 1st Plate", 
+  "accession_number": "S5112.83.1", 
+  "credit_line": "Gift of George H. Cunard", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147857, 
+  "creation_date": "1860", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Degas, Edgar", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297619, 
+      "role": "Artist", 
+      "birth_date": "1834", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6981, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

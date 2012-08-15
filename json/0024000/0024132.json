@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.260", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1902", 
-            "death_date": null, 
-            "name": "Smith, Lawrence Beall", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1938", 
-    "credit_line": "Lucy M. Taggart Estate", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 24132, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Lawrence Beall Smith", 
-    "title": "Theater Magic"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Lawrence Beall Smith", 
+  "credit_line": "Lucy M. Taggart Estate", 
+  "accession_number": "60.260", 
+  "title": "Theater Magic", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18202367, 
+  "creation_date": "1938", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Smith, Lawrence Beall", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301775, 
+      "role": "Artist", 
+      "birth_date": "1902", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24132, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

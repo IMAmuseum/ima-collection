@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.1113", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Carlsen, Emil", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift of Walter Kully", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1828, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Still Life with Vase and Bottle"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Still Life with Vase and Bottle", 
+  "accession_number": "79.1113", 
+  "credit_line": "Gift of Walter Kully", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135673, 
+  "creation_date": "1979", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Carlsen, Emil", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295663, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1828, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

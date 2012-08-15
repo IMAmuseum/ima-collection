@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.110.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860-1920", 
-            "death_date": "1860-1920", 
-            "name": "Zorn, Anders Leonard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "6 December 1913", 
-    "credit_line": "Gift of Mr. and Mrs. Raymond F. Mead", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37055, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The New Maid"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Raymond F. Mead", 
+  "accession_number": "73.110.7", 
+  "title": "The New Maid", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232401, 
+  "creation_date": "6 December 1913", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Zorn, Anders Leonard", 
+      "after_follower": null, 
+      "death_date": "1860-1920", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297129, 
+      "role": "Artist", 
+      "birth_date": "1860-1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37055, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

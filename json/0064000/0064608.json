@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.328", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1951", 
-            "death_date": null, 
-            "name": "Arad, Ron", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kartell S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1997", 
-    "credit_line": "Gift of Kartell Museum", 
-    "cultures": [], 
-    "dimensions": "31 1/2 \u00d7 16 1/8 \u00d7 20 3/4 in.", 
-    "dynasty": null, 
-    "irn": 64608, 
-    "materials": "plastic and aluminum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ron Arad", 
-    "title": "Fantastic Plastic Elastic chair"
+  "publishers": [], 
+  "dimensions": "31 1/2 \u00d7 16 1/8 \u00d7 20 3/4 in.", 
+  "rights": "\u00a9 Ron Arad", 
+  "credit_line": "Gift of Kartell Museum", 
+  "accession_number": "2009.328", 
+  "title": "Fantastic Plastic Elastic chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279095, 
+  "creation_date": "1997", 
+  "materials": "plastic and aluminum", 
+  "actors": [
+    {
+      "name": "Arad, Ron", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306779, 
+      "role": "Designer", 
+      "birth_date": "1951", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kartell S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306787, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64608, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

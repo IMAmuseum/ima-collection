@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.136", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1831", 
-            "name": "Hope, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1807", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "10 3/8 X 15 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 1570, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Second vase room in Hope's Duchess Street mansion"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "10 3/8 X 15 3/8 in. (sheet)", 
+  "title": "Second vase room in Hope's Duchess Street mansion", 
+  "accession_number": "73.2.136", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135021, 
+  "creation_date": "1807", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Hope, Thomas", 
+      "after_follower": null, 
+      "death_date": "1831", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295579, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1570, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

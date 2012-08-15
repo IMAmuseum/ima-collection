@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1906", 
-            "death_date": "1965", 
-            "name": "Smith, David", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1963", 
-    "credit_line": "Henry F. and Katherine D. DeBoest Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "15 1/2 x 20 1/2 in", 
-    "dynasty": null, 
-    "irn": 45464, 
-    "materials": "black egg ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of David Smith/Licensed by VAGA, New York, NY", 
-    "title": "David Smith 4-12-63"
+  "publishers": [], 
+  "dimensions": "15 1/2 x 20 1/2 in", 
+  "rights": "\u00a9 Estate of David Smith/Licensed by VAGA, New York, NY", 
+  "credit_line": "Henry F. and Katherine D. DeBoest Memorial Fund", 
+  "accession_number": "2001.3", 
+  "title": "David Smith 4-12-63", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254477, 
+  "creation_date": "1963", 
+  "materials": "black egg ink on paper", 
+  "actors": [
+    {
+      "name": "Smith, David", 
+      "after_follower": null, 
+      "death_date": "1965", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296853, 
+      "role": "Artist", 
+      "birth_date": "1906", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45464, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

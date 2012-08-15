@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "about 1488", 
-            "death_date": "1576", 
-            "name": "Titian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1508-1510", 
-    "credit_line": "Gift in memory of Booth Tarkington", 
-    "cultures": [], 
-    "dimensions": "23 1/2 x 18 1/2 in.", 
-    "dynasty": null, 
-    "irn": 5938, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Man"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "23 1/2 x 18 1/2 in.", 
+  "title": "Portrait of a Man", 
+  "accession_number": "47.1", 
+  "credit_line": "Gift in memory of Booth Tarkington", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145347, 
+  "creation_date": "about 1508-1510", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Titian", 
+      "after_follower": null, 
+      "death_date": "1576", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297285, 
+      "role": "Artist", 
+      "birth_date": "about 1488", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5938, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

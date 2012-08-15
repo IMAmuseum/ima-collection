@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.16A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1972", 
-            "name": "Norell, Norman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1963", 
-    "credit_line": "Mr. and Mrs. William B. Ansted Jr. Art Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60378, 
-    "materials": "wool crepe, rhinestones", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Norman Norell", 
-    "title": "evening ensemble"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Norman Norell", 
+  "credit_line": "Mr. and Mrs. William B. Ansted Jr. Art Fund", 
+  "accession_number": "2003.16A-B", 
+  "title": "evening ensemble", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276545, 
+  "creation_date": "1963", 
+  "materials": "wool crepe, rhinestones", 
+  "actors": [
+    {
+      "name": "Norell, Norman", 
+      "after_follower": null, 
+      "death_date": "1972", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294959, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60378, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

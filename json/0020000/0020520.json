@@ -1,34 +1,40 @@
 {
-    "accession_number": "1988.40", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1857", 
-            "death_date": "1945", 
-            "name": "Short, Frank", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1842", 
-            "death_date": "1909", 
-            "name": "Goulding, Frederick", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1888", 
-    "credit_line": "Miscellaneous Print Fund", 
-    "cultures": [], 
-    "dimensions": "4 7/8 x 8 1/2 in (image)\n6 1/2 x 10 5/8 in (sheet)", 
-    "dynasty": null, 
-    "irn": 20520, 
-    "materials": "aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rye Pier, Evening"
+  "publishers": [], 
+  "dimensions": "4 7/8 x 8 1/2 in (image)\n6 1/2 x 10 5/8 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Miscellaneous Print Fund", 
+  "accession_number": "1988.40", 
+  "title": "Rye Pier, Evening", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194067, 
+  "creation_date": "1888", 
+  "materials": "aquatint", 
+  "actors": [
+    {
+      "name": "Short, Frank", 
+      "after_follower": null, 
+      "death_date": "1945", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299833, 
+      "role": "Artist", 
+      "birth_date": "1857", 
+      "nationality": null
+    }, 
+    {
+      "name": "Goulding, Frederick", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299511, 
+      "role": "Printer", 
+      "birth_date": "1842", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20520, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

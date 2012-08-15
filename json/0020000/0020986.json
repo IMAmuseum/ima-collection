@@ -1,26 +1,30 @@
 {
-    "accession_number": "1996.159", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1759", 
-            "death_date": "1833", 
-            "name": "Monro, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1796", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "6 3/8 x 4 3/8 in", 
-    "dynasty": null, 
-    "irn": 20986, 
-    "materials": "charcoal on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Thomas Hearne"
+  "publishers": [], 
+  "dimensions": "6 3/8 x 4 3/8 in", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "1996.159", 
+  "title": "Thomas Hearne", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18195129, 
+  "creation_date": "1796", 
+  "materials": "charcoal on white paper", 
+  "actors": [
+    {
+      "name": "Monro, Thomas", 
+      "after_follower": null, 
+      "death_date": "1833", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294793, 
+      "role": "Artist", 
+      "birth_date": "1759", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20986, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

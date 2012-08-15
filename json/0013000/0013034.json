@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.196", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1935", 
-            "death_date": null, 
-            "name": "Ramos, Mel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1964", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "40 x 36", 
-    "dynasty": null, 
-    "irn": 13034, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Miss Lemon Drop"
+  "publishers": [], 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "dimensions": "40 x 36", 
+  "title": "Miss Lemon Drop", 
+  "accession_number": "80.196", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162433, 
+  "creation_date": "1964", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Ramos, Mel", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299201, 
+      "role": "Artist", 
+      "birth_date": "1935", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13034, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

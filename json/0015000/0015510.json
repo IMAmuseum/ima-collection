@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.449", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1821", 
-            "name": "Edridge, Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1808", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "15 1/4 x 11 7/16 in", 
-    "dynasty": null, 
-    "irn": 15510, 
-    "materials": "black chalk with gray wash heightened with white on brown paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Kenilworth Castle"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "15 1/4 x 11 7/16 in", 
+  "title": "Kenilworth Castle", 
+  "accession_number": "13.449", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168209, 
+  "creation_date": "1808", 
+  "materials": "black chalk with gray wash heightened with white on brown paper", 
+  "actors": [
+    {
+      "name": "Edridge, Henry", 
+      "after_follower": null, 
+      "death_date": "1821", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298845, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15510, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

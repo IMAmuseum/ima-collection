@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.805.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Walker, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1796", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "4 3/8 x 6 3/4 in (image) \n5 15/16 x 8 in (plate) \n8 1/8 x 10 3/4 in (sheet)", 
-    "dynasty": null, 
-    "irn": 37698, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chester"
+  "publishers": [], 
+  "dimensions": "4 3/8 x 6 3/4 in (image) \n5 15/16 x 8 in (plate) \n8 1/8 x 10 3/4 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.805.2", 
+  "title": "Chester", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234081, 
+  "creation_date": "1796", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Walker, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298459, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 37698, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

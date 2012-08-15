@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.155", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1895", 
-            "death_date": "1975", 
-            "name": "Boyd, Fiske", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35087, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Duomo"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Julius F. Pratt Fund", 
+  "accession_number": "30.155", 
+  "title": "The Duomo", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227851, 
+  "creation_date": "20th century", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Boyd, Fiske", 
+      "after_follower": null, 
+      "death_date": "1975", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301155, 
+      "role": "Artist", 
+      "birth_date": "1895", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35087, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

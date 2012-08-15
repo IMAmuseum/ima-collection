@@ -1,34 +1,40 @@
 {
-    "accession_number": "75.457", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Meissen Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1723", 
-            "death_date": "1785", 
-            "name": "Friedrich E. Meyer I", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "about 1750", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "H: 5 1/2 in.", 
-    "dynasty": null, 
-    "irn": 292, 
-    "materials": "hard paste porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sight"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 5 1/2 in.", 
+  "title": "Sight", 
+  "accession_number": "75.457", 
+  "credit_line": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131861, 
+  "creation_date": "about 1750", 
+  "materials": "hard paste porcelain", 
+  "actors": [
+    {
+      "name": "Meissen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294771, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Friedrich E. Meyer I", 
+      "after_follower": null, 
+      "death_date": "1785", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294925, 
+      "role": "Modeler", 
+      "birth_date": "1723", 
+      "nationality": null
+    }
+  ], 
+  "irn": 292, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.1054", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1929", 
-            "death_date": null, 
-            "name": "Rainer, Arnulf", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Gift of Mr. James De Moye", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5941, 
-    "materials": "offset reproductions and letterpress", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rest (Remnants)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Rest (Remnants)", 
+  "accession_number": "79.1054", 
+  "credit_line": "Gift of Mr. James De Moye", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145355, 
+  "creation_date": "1978", 
+  "materials": "offset reproductions and letterpress", 
+  "actors": [
+    {
+      "name": "Rainer, Arnulf", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297295, 
+      "role": "Artist", 
+      "birth_date": "1929", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5941, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

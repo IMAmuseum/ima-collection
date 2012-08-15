@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.303", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": null, 
-            "name": "Hudlow, Conroy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1966", 
-    "credit_line": "Gift of Mrs. Henry F. DeBoest", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1809, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Monument Circle, Indianapolis"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Monument Circle, Indianapolis", 
+  "accession_number": "74.303", 
+  "credit_line": "Gift of Mrs. Henry F. DeBoest", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135623, 
+  "creation_date": "1966", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Hudlow, Conroy", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295657, 
+      "role": "Artist", 
+      "birth_date": "1934", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1809, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

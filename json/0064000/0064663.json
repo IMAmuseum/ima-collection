@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.508A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1951", 
-            "death_date": null, 
-            "name": "Michele De Lucchi", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Olivetti", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Anonymous Endowed Decorative Art Fund", 
-    "cultures": [], 
-    "dimensions": "6 3/4 \u00d7 12 5/8 \u00d7 5 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64663, 
-    "materials": "plastic and metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Michele De Lucchi", 
-    "title": "Artjet 20 printer"
+  "publishers": [], 
+  "dimensions": "6 3/4 \u00d7 12 5/8 \u00d7 5 1/2 in.", 
+  "rights": "\u00a9 Michele De Lucchi", 
+  "credit_line": "Anonymous Endowed Decorative Art Fund", 
+  "accession_number": "2009.508A-B", 
+  "title": "Artjet 20 printer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279163, 
+  "creation_date": "1998", 
+  "materials": "plastic and metal", 
+  "actors": [
+    {
+      "name": "Michele De Lucchi", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306877, 
+      "role": "Designer", 
+      "birth_date": "1951", 
+      "nationality": null
+    }, 
+    {
+      "name": "Olivetti", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306881, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64663, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

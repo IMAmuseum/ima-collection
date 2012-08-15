@@ -1,26 +1,30 @@
 {
-    "accession_number": "S3622.81.52", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1970", 
-            "name": "Hayden, Henri", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Gift of Mrs. Anne Steinberg", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1962, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Courtablon"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Courtablon", 
+  "accession_number": "S3622.81.52", 
+  "credit_line": "Gift of Mrs. Anne Steinberg", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135997, 
+  "creation_date": "1969", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Hayden, Henri", 
+      "after_follower": null, 
+      "death_date": "1970", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295719, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1962, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

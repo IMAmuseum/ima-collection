@@ -1,28 +1,32 @@
 {
-    "accession_number": "79.231", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "20th century", 
-            "death_date": null, 
-            "name": "Bill Quolskuyva", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Birl Schilling, Jr.", 
-    "cultures": [
-        "Hopi people"
-    ], 
-    "dimensions": "H: 11 1/2 in.", 
-    "dynasty": null, 
-    "irn": 4734, 
-    "materials": "pigment, feathers, cotton twill, woven sash, yarn, print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "kachina doll"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 11 1/2 in.", 
+  "title": "kachina doll", 
+  "accession_number": "79.231", 
+  "credit_line": "Gift of Birl Schilling, Jr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142487, 
+  "creation_date": null, 
+  "materials": "pigment, feathers, cotton twill, woven sash, yarn, print", 
+  "actors": [
+    {
+      "name": "Bill Quolskuyva", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296893, 
+      "role": "Artist", 
+      "birth_date": "20th century", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4734, 
+  "printers": [], 
+  "cultures": [
+    "Hopi people"
+  ], 
+  "dynasty": null, 
+  "on_view": false
 }

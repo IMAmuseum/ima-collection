@@ -1,34 +1,40 @@
 {
-    "accession_number": "72.174", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1802", 
-            "name": "Girtin, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1794-1797", 
-    "credit_line": "Gift in memory of Dr. and Mrs. Hugo O. Pantzer", 
-    "cultures": [], 
-    "dimensions": "9 1/2 x 14 7/8 in. (sheet)\n16 x 20 in. (framed)", 
-    "dynasty": null, 
-    "irn": 18126, 
-    "materials": "gray ink wash over pencil on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "On the Aar between Unterseen and Lake of Brienz"
+  "publishers": [], 
+  "dimensions": "9 1/2 x 14 7/8 in. (sheet)\n16 x 20 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift in memory of Dr. and Mrs. Hugo O. Pantzer", 
+  "accession_number": "72.174", 
+  "title": "On the Aar between Unterseen and Lake of Brienz", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18174999, 
+  "creation_date": "1794-1797", 
+  "materials": "gray ink wash over pencil on white paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Girtin, Thomas", 
+      "after_follower": null, 
+      "death_date": "1802", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297187, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18126, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

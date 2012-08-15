@@ -1,26 +1,30 @@
 {
-    "accession_number": "23.71", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1852", 
-            "death_date": "1931", 
-            "name": "Cole, Timothy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1894", 
-    "credit_line": "Gift of Miss Amy E. Wales", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18199, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Parson's Daughter"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Miss Amy E. Wales", 
+  "accession_number": "23.71", 
+  "title": "The Parson's Daughter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18175159, 
+  "creation_date": "1894", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Cole, Timothy", 
+      "after_follower": null, 
+      "death_date": "1931", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298525, 
+      "role": "Artist", 
+      "birth_date": "1852", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18199, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

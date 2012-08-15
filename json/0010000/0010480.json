@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.185", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1832", 
-    "credit_line": "Gift in memory of Dr. and Mrs. Hugo O. Pantzer by their children", 
-    "cultures": [], 
-    "dimensions": "5 1/4 x 8 in.", 
-    "dynasty": null, 
-    "irn": 10480, 
-    "materials": "watercolor on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Pyramids at Gizeh"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "5 1/4 x 8 in.", 
+  "title": "The Pyramids at Gizeh", 
+  "accession_number": "72.185", 
+  "credit_line": "Gift in memory of Dr. and Mrs. Hugo O. Pantzer by their children", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156173, 
+  "creation_date": "about 1832", 
+  "materials": "watercolor on white paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10480, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

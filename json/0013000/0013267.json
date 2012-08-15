@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.70", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1620", 
-            "death_date": "1683", 
-            "name": "Berchem, Nicolaes", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1655", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13267, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Peasants at a Fountain"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Peasants at a Fountain", 
+  "accession_number": "09.70", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162961, 
+  "creation_date": "1655", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Berchem, Nicolaes", 
+      "after_follower": null, 
+      "death_date": "1683", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299271, 
+      "role": "Artist", 
+      "birth_date": "1620", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13267, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

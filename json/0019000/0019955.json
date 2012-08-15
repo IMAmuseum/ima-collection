@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.12.110", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1890-1891", 
-            "death_date": "1954", 
-            "name": "Kauffer, Edward McKnight", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1942", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19955, 
-    "materials": "offset lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Greece Fights On"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "72.12.110", 
+  "title": "Greece Fights On", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192791, 
+  "creation_date": "1942", 
+  "materials": "offset lithograph", 
+  "actors": [
+    {
+      "name": "Kauffer, Edward McKnight", 
+      "after_follower": null, 
+      "death_date": "1954", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299157, 
+      "role": "Artist", 
+      "birth_date": "1890-1891", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19955, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

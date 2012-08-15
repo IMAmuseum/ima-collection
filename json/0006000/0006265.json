@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.25", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1862", 
-            "death_date": "1928", 
-            "name": "Davies, Arthur Bowen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1920", 
-    "credit_line": "Daniel P. Erwin Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6265, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dominion"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Dominion", 
+  "accession_number": "24.25", 
+  "credit_line": "Daniel P. Erwin Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18146097, 
+  "creation_date": "1920", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Davies, Arthur Bowen", 
+      "after_follower": null, 
+      "death_date": "1928", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297081, 
+      "role": "Artist", 
+      "birth_date": "1862", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6265, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

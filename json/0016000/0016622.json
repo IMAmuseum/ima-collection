@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.378", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "June, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1751", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16622, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Greenwich Hospital"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Greenwich Hospital", 
+  "accession_number": "30.378", 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171099, 
+  "creation_date": "1751", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "June, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300229, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 16622, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

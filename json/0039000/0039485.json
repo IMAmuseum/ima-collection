@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1192", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1787", 
-            "death_date": "1868", 
-            "name": "Henry Le Keux", 
-            "nationality": null, 
-            "role": "Etcher"
-        }
-    ], 
-    "creation_date": "1829", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "2 3/4 x 2 7/8 in. (image)\n8 7/8 x 5 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 39485, 
-    "materials": "etching with touches of pencil", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Villa Madama - Moonlight"
+  "publishers": [], 
+  "dimensions": "2 3/4 x 2 7/8 in. (image)\n8 7/8 x 5 3/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1192", 
+  "title": "Villa Madama - Moonlight", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18239149, 
+  "creation_date": "1829", 
+  "materials": "etching with touches of pencil", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Henry Le Keux", 
+      "after_follower": null, 
+      "death_date": "1868", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304375, 
+      "role": "Etcher", 
+      "birth_date": "1787", 
+      "nationality": null
+    }
+  ], 
+  "irn": 39485, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.380", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1610", 
-            "death_date": "1685", 
-            "name": "Ostade, Adriaen van", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18749, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Singers (Les Harangeurs)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "accession_number": "30.380", 
+  "title": "The Singers (Les Harangeurs)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18189979, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Ostade, Adriaen van", 
+      "after_follower": null, 
+      "death_date": "1685", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295243, 
+      "role": "Artist", 
+      "birth_date": "1610", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18749, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

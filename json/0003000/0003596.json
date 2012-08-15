@@ -1,26 +1,30 @@
 {
-    "accession_number": "19.222", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1800", 
-            "death_date": "1863", 
-            "name": "James T. Willmore", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1860", 
-    "credit_line": "Gift of Alfred M. Brooks", 
-    "cultures": [], 
-    "dimensions": "6 3/8 x 9 1/4 in. (image)\n12 x 19 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 3596, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Farne Island Shipwreck"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 3/8 x 9 1/4 in. (image)\n12 x 19 in. (sheet)", 
+  "title": "Farne Island Shipwreck", 
+  "accession_number": "19.222", 
+  "credit_line": "Gift of Alfred M. Brooks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18139813, 
+  "creation_date": "1860", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "James T. Willmore", 
+      "after_follower": null, 
+      "death_date": "1863", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296465, 
+      "role": "Artist", 
+      "birth_date": "1800", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3596, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

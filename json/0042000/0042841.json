@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.241", 
-    "actors": [
-        {
-            "after_follower": "After", 
-            "birth_date": "1841", 
-            "death_date": "1919", 
-            "name": "Renoir, Pierre Auguste", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Allen Whitehill Clowes", 
-    "cultures": [], 
-    "dimensions": "6 1/2 x 7 1/8 in.", 
-    "dynasty": null, 
-    "irn": 42841, 
-    "materials": "oil on canvas mounted to canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sketch after Danse \u00e0 Bougival"
+  "publishers": [], 
+  "dimensions": "6 1/2 x 7 1/8 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Allen Whitehill Clowes", 
+  "accession_number": "2001.241", 
+  "title": "Sketch after Danse \u00e0 Bougival", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18248453, 
+  "creation_date": null, 
+  "materials": "oil on canvas mounted to canvas", 
+  "actors": [
+    {
+      "name": "Renoir, Pierre Auguste", 
+      "after_follower": "After", 
+      "death_date": "1919", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299163, 
+      "role": "Artist", 
+      "birth_date": "1841", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42841, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.317", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1857", 
-    "credit_line": "Bequest of Grace Ritchie", 
-    "cultures": [], 
-    "dimensions": "13 1/2 x 8 7/8 in. (image)\n14 1/8 x 9 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 42888, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Matsuchiyama, San'ya Moat, Night Scene"
+  "publishers": [], 
+  "dimensions": "13 1/2 x 8 7/8 in. (image)\n14 1/8 x 9 1/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Grace Ritchie", 
+  "accession_number": "2000.317", 
+  "title": "Matsuchiyama, San'ya Moat, Night Scene", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18248575, 
+  "creation_date": "1857", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42888, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

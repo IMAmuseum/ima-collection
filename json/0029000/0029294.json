@@ -1,26 +1,30 @@
 {
-    "accession_number": "17.95", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1850", 
-            "death_date": "1917", 
-            "name": "Lewis H. Meakin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Frank Duveneck and L. H. Meakin", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 29294, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The River Isar"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Frank Duveneck and L. H. Meakin", 
+  "accession_number": "17.95", 
+  "title": "The River Isar", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18214407, 
+  "creation_date": "19th century", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Lewis H. Meakin", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294863, 
+      "role": "Artist", 
+      "birth_date": "1850", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29294, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

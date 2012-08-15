@@ -1,26 +1,30 @@
 {
-    "accession_number": "29.179", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1833", 
-            "death_date": "1909", 
-            "name": "Smillie, James David", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1877", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 33453, 
-    "materials": "etching, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "29.179", 
+  "title": "Landscape", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224107, 
+  "creation_date": "1877", 
+  "materials": "etching, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Smillie, James David", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301605, 
+      "role": "Artist", 
+      "birth_date": "1833", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33453, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

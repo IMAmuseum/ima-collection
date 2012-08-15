@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.384", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1923", 
-            "name": "Steinlen, Th\u00e9ophile Alexandre", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "late 19th century", 
-    "credit_line": "Helen Adams Bobbs Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 29028, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Les Bluets"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Helen Adams Bobbs Fund", 
+  "accession_number": "81.384", 
+  "title": "Les Bluets", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213783, 
+  "creation_date": "late 19th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Steinlen, Th\u00e9ophile Alexandre", 
+      "after_follower": null, 
+      "death_date": "1923", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300121, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29028, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

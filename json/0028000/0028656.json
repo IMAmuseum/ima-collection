@@ -1,26 +1,30 @@
 {
-    "accession_number": "S0564.75.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1781", 
-            "death_date": "1834", 
-            "name": "Cooke, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1832", 
-    "credit_line": "Gift of Mr. Harold A. Lawson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28656, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Tower of London Traitor's Gate"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. Harold A. Lawson", 
+  "accession_number": "S0564.75.4", 
+  "title": "The Tower of London Traitor's Gate", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18212933, 
+  "creation_date": "1832", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Cooke, George", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296967, 
+      "role": "Artist", 
+      "birth_date": "1781", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28656, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

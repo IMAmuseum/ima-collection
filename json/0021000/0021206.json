@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.121", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1714", 
-            "death_date": "1777", 
-            "name": "Fessard, Etienne", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1762", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 21206, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Feste Flamande"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.121", 
+  "title": "Feste Flamande", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18195629, 
+  "creation_date": "1762", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Fessard, Etienne", 
+      "after_follower": null, 
+      "death_date": "1777", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299197, 
+      "role": "Artist", 
+      "birth_date": "1714", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21206, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

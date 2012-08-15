@@ -1,30 +1,34 @@
 {
-    "accession_number": "1984.177", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1925", 
-            "death_date": null, 
-            "name": "Robert Rauschenberg", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Gift of Dr. Robert Carroll", 
-    "cultures": [], 
-    "dimensions": "20 x 28 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 15188, 
-    "materials": "photo lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Universal Limited Art Editions"
-        }
-    ], 
-    "rights": "\u00a9 Estate of Robert Rauschenberg/ Licensed by VAGA, New York, NY", 
-    "title": "Buffalo"
+  "publishers": [
+    {
+      "name": "Universal Limited Art Editions"
+    }
+  ], 
+  "rights": "\u00a9 Estate of Robert Rauschenberg/ Licensed by VAGA, New York, NY", 
+  "dimensions": "20 x 28 in. (sheet)", 
+  "title": "Buffalo", 
+  "accession_number": "1984.177", 
+  "credit_line": "Gift of Dr. Robert Carroll", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167521, 
+  "creation_date": "1969", 
+  "materials": "photo lithograph", 
+  "actors": [
+    {
+      "name": "Robert Rauschenberg", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294687, 
+      "role": "Artist", 
+      "birth_date": "1925", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15188, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

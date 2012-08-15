@@ -1,26 +1,30 @@
 {
-    "accession_number": "1998.272", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1861", 
-            "death_date": "1918", 
-            "name": "Maufra, Maxime", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1894", 
-    "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3353, 
-    "materials": "drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "B\u00e2teau de P\u00eache (Fishing Boat)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "B\u00e2teau de P\u00eache (Fishing Boat)", 
+  "accession_number": "1998.272", 
+  "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18139245, 
+  "creation_date": "1894", 
+  "materials": "drypoint", 
+  "actors": [
+    {
+      "name": "Maufra, Maxime", 
+      "after_follower": null, 
+      "death_date": "1918", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295759, 
+      "role": "Artist", 
+      "birth_date": "1861", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3353, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

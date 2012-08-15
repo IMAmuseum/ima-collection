@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.2.28", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1660", 
-            "death_date": "1744", 
-            "name": "Lepautre, Pierre", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Daigremont, M.", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1699", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "10 1/2 X 8 3/8 in. (image)\n12 1/4 X 7 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 7113, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fireplace and chimney piece design in the Ch\u00e2teau de Marly"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "10 1/2 X 8 3/8 in. (image)\n12 1/4 X 7 5/8 in. (sheet)", 
+  "title": "Fireplace and chimney piece design in the Ch\u00e2teau de Marly", 
+  "accession_number": "73.2.28", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18148161, 
+  "creation_date": "1699", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lepautre, Pierre", 
+      "after_follower": null, 
+      "death_date": "1744", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297639, 
+      "role": "Artist", 
+      "birth_date": "1660", 
+      "nationality": null
+    }, 
+    {
+      "name": "Daigremont, M.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297643, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 7113, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

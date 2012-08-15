@@ -1,38 +1,44 @@
 {
-    "accession_number": "70.45.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Jacquemart, Jules Ferdinand", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1907", 
-            "name": "Del\u00e2tre, Auguste", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "ca 1867", 
-    "credit_line": "Gift of Mr. T. Victor Keene", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5502, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Cadart, Alfred"
-        }
-    ], 
-    "rights": null, 
-    "title": "Le Supplici\u00e9 Mumija Hasim\u00e9, Assasin d' Europ\u00e9ens devant le Temple de Kamon Dara (Japan), Mai 1867"
+  "publishers": [
+    {
+      "name": "Cadart, Alfred"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Le Supplici\u00e9 Mumija Hasim\u00e9, Assasin d' Europ\u00e9ens devant le Temple de Kamon Dara (Japan), Mai 1867", 
+  "accession_number": "70.45.2", 
+  "credit_line": "Gift of Mr. T. Victor Keene", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144275, 
+  "creation_date": "ca 1867", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Jacquemart, Jules Ferdinand", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297165, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Del\u00e2tre, Auguste", 
+      "after_follower": null, 
+      "death_date": "1907", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294903, 
+      "role": "Printer", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5502, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

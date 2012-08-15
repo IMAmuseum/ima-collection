@@ -1,58 +1,70 @@
 {
-    "accession_number": "73.61.27", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": "1864", 
-            "name": "Ni Yun", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1860", 
-            "name": "Huang Ju", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1829", 
-            "death_date": "1894", 
-            "name": "Li Jiafu", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1814", 
-            "death_date": "1865", 
-            "name": "Tao Qi", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bao Dong", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1860", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 14840, 
-    "materials": "ink and colors on silk or paper", 
-    "on_view": false, 
-    "period": "Xianfeng", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "flowers and butterfly"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "flowers and butterfly", 
+  "accession_number": "73.61.27", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Xianfeng", 
+  "artisinal:id": 18166715, 
+  "creation_date": "1860", 
+  "materials": "ink and colors on silk or paper", 
+  "actors": [
+    {
+      "name": "Ni Yun", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299713, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Huang Ju", 
+      "after_follower": null, 
+      "death_date": "1860", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299715, 
+      "role": "Artist", 
+      "birth_date": "1796", 
+      "nationality": null
+    }, 
+    {
+      "name": "Li Jiafu", 
+      "after_follower": null, 
+      "death_date": "1894", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299719, 
+      "role": "Artist", 
+      "birth_date": "1829", 
+      "nationality": null
+    }, 
+    {
+      "name": "Tao Qi", 
+      "after_follower": null, 
+      "death_date": "1865", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299721, 
+      "role": "Artist", 
+      "birth_date": "1814", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bao Dong", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299725, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 14840, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

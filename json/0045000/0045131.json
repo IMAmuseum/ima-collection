@@ -1,30 +1,34 @@
 {
-    "accession_number": "72.90.10E", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1498", 
-            "death_date": "1574", 
-            "name": "Heemskerck, Maerten van", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1556", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45131, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Cock, Hieronymus"
-        }
-    ], 
-    "rights": null, 
-    "title": "David being Armed before Saul"
+  "publishers": [
+    {
+      "name": "Cock, Hieronymus"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "72.90.10E", 
+  "title": "David being Armed before Saul", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253575, 
+  "creation_date": "about 1556", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Heemskerck, Maerten van", 
+      "after_follower": null, 
+      "death_date": "1574", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294875, 
+      "role": "Artist", 
+      "birth_date": "1498", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45131, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

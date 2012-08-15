@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.346", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1759", 
-            "death_date": "1819", 
-            "name": "Smith, Anker", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "late 18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19341, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Death of Hippolytus"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances Brownell", 
+  "accession_number": "09.346", 
+  "title": "Death of Hippolytus", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191445, 
+  "creation_date": "late 18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Smith, Anker", 
+      "after_follower": null, 
+      "death_date": "1819", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300759, 
+      "role": "Artist", 
+      "birth_date": "1759", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19341, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

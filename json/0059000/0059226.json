@@ -1,26 +1,30 @@
 {
-    "accession_number": "LH2005.28", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Samuel Kirk & Son, Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1925-1950", 
-    "credit_line": "Bequest of Allen Whitehill Clowes", 
-    "cultures": [], 
-    "dimensions": "1/16 x 1 1/16 x 12 in.", 
-    "dynasty": null, 
-    "irn": 59226, 
-    "materials": "silver", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "ruler"
+  "publishers": [], 
+  "dimensions": "1/16 x 1 1/16 x 12 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Allen Whitehill Clowes", 
+  "accession_number": "LH2005.28", 
+  "title": "ruler", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276083, 
+  "creation_date": "1925-1950", 
+  "materials": "silver", 
+  "actors": [
+    {
+      "name": "Samuel Kirk & Son, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305829, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 59226, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "20.86", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1896", 
-            "name": "Morris, William", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": null, 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1884", 
-    "credit_line": "Gift of Charity Dye", 
-    "cultures": [], 
-    "dimensions": "40 x 21 x 1 in.", 
-    "dynasty": null, 
-    "irn": 20728, 
-    "materials": "paper lined to linen fabric", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "wallpaper sample \"Wild Tulip\""
+  "publishers": [], 
+  "dimensions": "40 x 21 x 1 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Charity Dye", 
+  "accession_number": "20.86", 
+  "title": "wallpaper sample \"Wild Tulip\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194533, 
+  "creation_date": "1884", 
+  "materials": "paper lined to linen fabric", 
+  "actors": [
+    {
+      "name": "Morris, William", 
+      "after_follower": null, 
+      "death_date": "1896", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296011, 
+      "role": "Designer", 
+      "birth_date": "1834", 
+      "nationality": null
+    }, 
+    {
+      "name": null, 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295437, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 20728, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

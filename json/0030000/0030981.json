@@ -1,34 +1,40 @@
 {
-    "accession_number": "1985.203", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1813", 
-            "death_date": "1888", 
-            "name": "Currier, Nathaniel", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1824-1895", 
-            "death_date": "1824-1895", 
-            "name": "Ives, James Merritt", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1857-1907", 
-    "credit_line": "Gift of Mrs. J. Irwin Miller", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 30981, 
-    "materials": "hand-colored lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Outlet of the Niagara River"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. J. Irwin Miller", 
+  "accession_number": "1985.203", 
+  "title": "The Outlet of the Niagara River", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18218361, 
+  "creation_date": "1857-1907", 
+  "materials": "hand-colored lithograph", 
+  "actors": [
+    {
+      "name": "Currier, Nathaniel", 
+      "after_follower": null, 
+      "death_date": "1888", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294763, 
+      "role": "Artist", 
+      "birth_date": "1813", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ives, James Merritt", 
+      "after_follower": null, 
+      "death_date": "1824-1895", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294765, 
+      "role": "Artist", 
+      "birth_date": "1824-1895", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30981, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

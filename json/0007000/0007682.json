@@ -1,34 +1,40 @@
 {
-    "accession_number": "79.115", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1722", 
-            "death_date": "1795", 
-            "name": "Brand, Johann Christian", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1739", 
-            "death_date": "1796", 
-            "name": "Mansfeld, Johann Ernst", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1775", 
-    "credit_line": "Gift of Mrs. John M. Rush", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7682, 
-    "materials": "hand-colored etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Nachtw\u00e4chter (Night Watchman) or Guet, Qui Crie les Heures"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Nachtw\u00e4chter (Night Watchman) or Guet, Qui Crie les Heures", 
+  "accession_number": "79.115", 
+  "credit_line": "Gift of Mrs. John M. Rush", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149511, 
+  "creation_date": "1775", 
+  "materials": "hand-colored etching", 
+  "actors": [
+    {
+      "name": "Brand, Johann Christian", 
+      "after_follower": null, 
+      "death_date": "1795", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297471, 
+      "role": "Artist", 
+      "birth_date": "1722", 
+      "nationality": null
+    }, 
+    {
+      "name": "Mansfeld, Johann Ernst", 
+      "after_follower": null, 
+      "death_date": "1796", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297835, 
+      "role": "Engraver", 
+      "birth_date": "1739", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7682, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.247", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Sipek, Borek", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Driade S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1993", 
-    "credit_line": "Gift of Robert and Lisa Kessler", 
-    "cultures": [], 
-    "dimensions": "5 1/2 x 14 1/4 in. (diam.)", 
-    "dynasty": null, 
-    "irn": 68926, 
-    "materials": "ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Borek \u008a\u00edpek", 
-    "title": "Atena bowl"
+  "publishers": [], 
+  "dimensions": "5 1/2 x 14 1/4 in. (diam.)", 
+  "rights": "\u00a9 Borek \u008a\u00edpek", 
+  "credit_line": "Gift of Robert and Lisa Kessler", 
+  "accession_number": "2010.247", 
+  "title": "Atena bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283859, 
+  "creation_date": "1993", 
+  "materials": "ceramic", 
+  "actors": [
+    {
+      "name": "Sipek, Borek", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307133, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "Driade S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307137, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68926, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

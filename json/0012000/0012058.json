@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.254", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1879", 
-            "death_date": "1947", 
-            "name": "Edward F. McCartan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1923", 
-    "credit_line": "Estate of Lucy M. Taggart", 
-    "cultures": [], 
-    "dimensions": "H: 23 in.", 
-    "dynasty": null, 
-    "irn": 12058, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Diana"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 23 in.", 
+  "title": "Diana", 
+  "accession_number": "60.254", 
+  "credit_line": "Estate of Lucy M. Taggart", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18159839, 
+  "creation_date": "1923", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Edward F. McCartan", 
+      "after_follower": null, 
+      "death_date": "1947", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298965, 
+      "role": "Artist", 
+      "birth_date": "1879", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12058, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

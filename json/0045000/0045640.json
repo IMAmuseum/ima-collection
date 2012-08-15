@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.489", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1471", 
-            "death_date": "1528", 
-            "name": "D\u00fcrer, Albrecht", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1508-1510", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45640, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Doubting Thomas"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "13.489", 
+  "title": "The Doubting Thomas", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254731, 
+  "creation_date": "1508-1510", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "D\u00fcrer, Albrecht", 
+      "after_follower": null, 
+      "death_date": "1528", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297251, 
+      "role": "Artist", 
+      "birth_date": "1471", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45640, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

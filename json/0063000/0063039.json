@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.25A-R", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1771", 
-            "death_date": "1832", 
-            "name": "Sir Walter Scott", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1894", 
-    "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
-    "cultures": [], 
-    "dimensions": "8 1/4 x 6 in. (each)", 
-    "dynasty": null, 
-    "irn": 63039, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Dana Estes & Co."
-        }
-    ], 
-    "rights": null, 
-    "title": "Waverly Novels"
+  "publishers": [
+    {
+      "name": "Dana Estes & Co."
+    }
+  ], 
+  "dimensions": "8 1/4 x 6 in. (each)", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
+  "accession_number": "LH2003.25A-R", 
+  "title": "Waverly Novels", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278223, 
+  "creation_date": "1894", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Sir Walter Scott", 
+      "after_follower": null, 
+      "death_date": "1832", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306153, 
+      "role": "Author", 
+      "birth_date": "1771", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63039, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

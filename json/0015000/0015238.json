@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.185", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1925", 
-            "death_date": null, 
-            "name": "Williams, Emmett", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift of Mr. Robert Steinberg", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15238, 
-    "materials": "inked handprints on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Untitled", 
+  "accession_number": "81.185", 
+  "credit_line": "Gift of Mr. Robert Steinberg", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167629, 
+  "creation_date": "1979", 
+  "materials": "inked handprints on white paper", 
+  "actors": [
+    {
+      "name": "Williams, Emmett", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296335, 
+      "role": "Artist", 
+      "birth_date": "1925", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15238, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

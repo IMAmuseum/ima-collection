@@ -1,26 +1,30 @@
 {
-    "accession_number": "03.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1817", 
-            "death_date": "1894", 
-            "name": "Filippo Livy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "14 x 19 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 29583, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Descent from the Cross"
+  "publishers": [], 
+  "dimensions": "14 x 19 1/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "03.9", 
+  "title": "Descent from the Cross", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18215087, 
+  "creation_date": null, 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Filippo Livy", 
+      "after_follower": null, 
+      "death_date": "1894", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300699, 
+      "role": "Artist", 
+      "birth_date": "1817", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29583, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

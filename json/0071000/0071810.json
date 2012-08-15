@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.177A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1942", 
-            "death_date": null, 
-            "name": "Kawakubo, Rei", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Comme des Gar\u00e7ons", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "Spring / Summer 2007", 
-    "credit_line": "Deaccessioned Textiles Fund", 
-    "cultures": [], 
-    "dimensions": "A) jacket and coat: L: 53 5/8 in. (back of neck to hem, dress)\nL: 37 1/4 (back of neck to hem, coat)\nW: 32 3/8 in. (at shoulders)\nB) belt: 40 3/8 x 3 3/4 in.", 
-    "dynasty": null, 
-    "irn": 71810, 
-    "materials": "silk, rayon, nylon, metal, plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "coat-dress"
+  "publishers": [], 
+  "dimensions": "A) jacket and coat: L: 53 5/8 in. (back of neck to hem, dress)\nL: 37 1/4 (back of neck to hem, coat)\nW: 32 3/8 in. (at shoulders)\nB) belt: 40 3/8 x 3 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Deaccessioned Textiles Fund", 
+  "accession_number": "2011.177A-B", 
+  "title": "coat-dress", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287483, 
+  "creation_date": "Spring / Summer 2007", 
+  "materials": "silk, rayon, nylon, metal, plastic", 
+  "actors": [
+    {
+      "name": "Kawakubo, Rei", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308493, 
+      "role": "Designer", 
+      "birth_date": "1942", 
+      "nationality": null
+    }, 
+    {
+      "name": "Comme des Gar\u00e7ons", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307569, 
+      "role": "Design House", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71810, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

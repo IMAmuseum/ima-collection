@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1320.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1800", 
-            "death_date": "1859", 
-            "name": "Stone, Frank", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Mote, W. H.", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1832", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40178, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ada"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1320.1", 
+  "title": "Ada", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18241065, 
+  "creation_date": "1832", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Stone, Frank", 
+      "after_follower": null, 
+      "death_date": "1859", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304591, 
+      "role": "Artist", 
+      "birth_date": "1800", 
+      "nationality": null
+    }, 
+    {
+      "name": "Mote, W. H.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304593, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 40178, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

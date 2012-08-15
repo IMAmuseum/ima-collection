@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.389", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Jurgen Bey", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Droog Design", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1997", 
-    "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks, Sr., and Her Late Son, Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "31 1/2 x 21 x 38 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64626, 
-    "materials": "PVC over existing wood chairs", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jurgen Bey", 
-    "title": "Kokon Double chair"
+  "publishers": [], 
+  "dimensions": "31 1/2 x 21 x 38 1/2 in.", 
+  "rights": "\u00a9 Jurgen Bey", 
+  "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks, Sr., and Her Late Son, Michael Fairbanks", 
+  "accession_number": "2009.389", 
+  "title": "Kokon Double chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279117, 
+  "creation_date": "1997", 
+  "materials": "PVC over existing wood chairs", 
+  "actors": [
+    {
+      "name": "Jurgen Bey", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306813, 
+      "role": "Designer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }, 
+    {
+      "name": "Droog Design", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306817, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64626, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

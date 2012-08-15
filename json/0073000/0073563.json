@@ -1,42 +1,50 @@
 {
-    "accession_number": "MH2010.492.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1907", 
-            "death_date": "1993", 
-            "name": "Girard, Alexander Hayden", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Hutschenreuther", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Georg Jensen A/S", 
-            "nationality": null, 
-            "role": "Retailer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "1 1/2 x 10 1/2 (diam). in.", 
-    "dynasty": null, 
-    "irn": 73563, 
-    "materials": "painted porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Pinwheel pattern dinner plate"
+  "publishers": [], 
+  "dimensions": "1 1/2 x 10 1/2 (diam). in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.492.2", 
+  "title": "Pinwheel pattern dinner plate", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288159, 
+  "creation_date": null, 
+  "materials": "painted porcelain", 
+  "actors": [
+    {
+      "name": "Girard, Alexander Hayden", 
+      "after_follower": null, 
+      "death_date": "1993", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308141, 
+      "role": "Designer", 
+      "birth_date": "1907", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hutschenreuther", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308617, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Georg Jensen A/S", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308621, 
+      "role": "Retailer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 73563, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

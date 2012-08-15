@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1918", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1882", 
-            "name": "Miller, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1859", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "7 x 10 1/8 in (image) \n15 1/4 x 20 1/8 in (sheet)", 
-    "dynasty": null, 
-    "irn": 42306, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Vietri, Gulf of Salerno"
+  "publishers": [], 
+  "dimensions": "7 x 10 1/8 in (image) \n15 1/4 x 20 1/8 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1918", 
+  "title": "Vietri, Gulf of Salerno", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18247013, 
+  "creation_date": "1859", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Miller, William", 
+      "after_follower": null, 
+      "death_date": "1882", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299379, 
+      "role": "Engraver", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42306, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

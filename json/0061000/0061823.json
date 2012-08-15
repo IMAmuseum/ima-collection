@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.5A-L", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Maria Edgeworth", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1893", 
-    "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
-    "cultures": [], 
-    "dimensions": "8 x 5 3/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 61823, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Croscup & Sterling Co."
-        }
-    ], 
-    "rights": null, 
-    "title": null
+  "publishers": [
+    {
+      "name": "Croscup & Sterling Co."
+    }
+  ], 
+  "dimensions": "8 x 5 3/8 in. (each)", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
+  "accession_number": "LH2003.5A-L", 
+  "title": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277267, 
+  "creation_date": "1893", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Maria Edgeworth", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306093, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61823, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.214", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1863", 
-            "death_date": "1943", 
-            "name": "Hunter, Frederick Leo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of the children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 33303, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Malt Shovel Inn"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the children of Thomas E. Hibben", 
+  "accession_number": "24.214", 
+  "title": "The Malt Shovel Inn", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223743, 
+  "creation_date": "19th century", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Hunter, Frederick Leo", 
+      "after_follower": null, 
+      "death_date": "1943", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297003, 
+      "role": "Artist", 
+      "birth_date": "1863", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33303, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

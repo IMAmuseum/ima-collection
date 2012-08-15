@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.3A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1955", 
-            "death_date": null, 
-            "name": "Giorgio Vigna", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Venini S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Lucille Stewart Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "A) vase: H: 21 1/4 in.\nB) vase necklace: Diam.: 7 13/16 in.", 
-    "dynasty": null, 
-    "irn": 67812, 
-    "materials": "glass and silver", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Giorgio Vigna", 
-    "title": "Fior d'Acqua Vase/Necklace"
+  "publishers": [], 
+  "dimensions": "A) vase: H: 21 1/4 in.\nB) vase necklace: Diam.: 7 13/16 in.", 
+  "rights": "\u00a9 Giorgio Vigna", 
+  "credit_line": "Lucille Stewart Endowed Art Fund", 
+  "accession_number": "2010.3A-B", 
+  "title": "Fior d'Acqua Vase/Necklace", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283043, 
+  "creation_date": "2000", 
+  "materials": "glass and silver", 
+  "actors": [
+    {
+      "name": "Giorgio Vigna", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307735, 
+      "role": "Designer", 
+      "birth_date": "1955", 
+      "nationality": null
+    }, 
+    {
+      "name": "Venini S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307683, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67812, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

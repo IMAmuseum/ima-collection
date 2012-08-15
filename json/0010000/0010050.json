@@ -1,34 +1,40 @@
 {
-    "accession_number": "16.1135", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1855", 
-            "name": "Radclyffe, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1830", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10050, 
-    "materials": "etching and engraving on India paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Salisbury, Wiltshire"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Salisbury, Wiltshire", 
+  "accession_number": "16.1135", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155153, 
+  "creation_date": "1830", 
+  "materials": "etching and engraving on India paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Radclyffe, William", 
+      "after_follower": null, 
+      "death_date": "1855", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298511, 
+      "role": "Artist", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10050, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

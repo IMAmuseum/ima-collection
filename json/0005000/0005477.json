@@ -1,26 +1,30 @@
 {
-    "accession_number": "1987.165", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1849", 
-            "death_date": "1934", 
-            "name": "Besnard, Albert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1887", 
-    "credit_line": "McKee Fine Arts Purchase Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5477, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "La Robe De Soie"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "La Robe De Soie", 
+  "accession_number": "1987.165", 
+  "credit_line": "McKee Fine Arts Purchase Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144219, 
+  "creation_date": "1887", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Besnard, Albert", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295655, 
+      "role": "Artist", 
+      "birth_date": "1849", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5477, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

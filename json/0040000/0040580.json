@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1575.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1782", 
-            "death_date": "1850", 
-            "name": "Allan, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1834", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40580, 
-    "materials": "engraving on plain paper with hand-coloring", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "\"I Had Fainted it Seems\""
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1575.2", 
+  "title": "\"I Had Fainted it Seems\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18242183, 
+  "creation_date": "1834", 
+  "materials": "engraving on plain paper with hand-coloring", 
+  "actors": [
+    {
+      "name": "Allan, William", 
+      "after_follower": null, 
+      "death_date": "1850", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304681, 
+      "role": "Artist", 
+      "birth_date": "1782", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40580, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

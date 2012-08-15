@@ -1,30 +1,34 @@
 {
-    "accession_number": "71.86.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1963", 
-            "name": "Braque, Georges", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Gift of Carl J. Weinhardt, Jr.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37102, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Maeght"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Galerie Maeght, G. Braque"
+  "publishers": [
+    {
+      "name": "Maeght"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Carl J. Weinhardt, Jr.", 
+  "accession_number": "71.86.2", 
+  "title": "Galerie Maeght, G. Braque", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232501, 
+  "creation_date": "20th century", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Braque, Georges", 
+      "after_follower": null, 
+      "death_date": "1963", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295043, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37102, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

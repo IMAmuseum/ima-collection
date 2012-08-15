@@ -1,26 +1,30 @@
 {
-    "accession_number": "38.89", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1914", 
-            "name": "Vawter, John William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Julian Wetzel", 
-    "cultures": [], 
-    "dimensions": "24 x 29 in.\n30 x 35 x 3 in. (framed)", 
-    "dynasty": null, 
-    "irn": 3813, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Barnes Cabin on Owl Creek, Brown County"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "24 x 29 in.\n30 x 35 x 3 in. (framed)", 
+  "title": "Barnes Cabin on Owl Creek, Brown County", 
+  "accession_number": "38.89", 
+  "credit_line": "Bequest of Julian Wetzel", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140349, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Vawter, John William", 
+      "after_follower": null, 
+      "death_date": "1914", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296321, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3813, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

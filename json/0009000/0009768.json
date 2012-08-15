@@ -1,26 +1,30 @@
 {
-    "accession_number": "1988.44", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1849", 
-            "death_date": "1934", 
-            "name": "Besnard, Albert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1919", 
-    "credit_line": "McKee Fine Arts Purchase Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9768, 
-    "materials": "charcoal on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of the Historian Camille-Sebastian Gustave Charlety"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Portrait of the Historian Camille-Sebastian Gustave Charlety", 
+  "accession_number": "1988.44", 
+  "credit_line": "McKee Fine Arts Purchase Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154499, 
+  "creation_date": "1919", 
+  "materials": "charcoal on off-white paper", 
+  "actors": [
+    {
+      "name": "Besnard, Albert", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295655, 
+      "role": "Artist", 
+      "birth_date": "1849", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9768, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

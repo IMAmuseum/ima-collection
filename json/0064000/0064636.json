@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.490", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1968", 
-            "death_date": null, 
-            "name": "Tord Boontje", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Studio Tord Boontje", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
-    "cultures": [], 
-    "dimensions": "33 3/8 \u00d7 17 7/8 \u00d7 18 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64636, 
-    "materials": "wood, fabric, and metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Tord Boontje", 
-    "title": "Rough-and-Ready chair"
+  "publishers": [], 
+  "dimensions": "33 3/8 \u00d7 17 7/8 \u00d7 18 1/2 in.", 
+  "rights": "\u00a9 Tord Boontje", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
+  "accession_number": "2009.490", 
+  "title": "Rough-and-Ready chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279129, 
+  "creation_date": "1998", 
+  "materials": "wood, fabric, and metal", 
+  "actors": [
+    {
+      "name": "Tord Boontje", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306823, 
+      "role": "Designer", 
+      "birth_date": "1968", 
+      "nationality": null
+    }, 
+    {
+      "name": "Studio Tord Boontje", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306833, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64636, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

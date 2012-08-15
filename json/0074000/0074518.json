@@ -1,42 +1,50 @@
 {
-    "accession_number": "2012.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1972", 
-            "death_date": null, 
-            "name": "Lukas Niederberger", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1953", 
-            "death_date": null, 
-            "name": "Gabriel Baltensweiler", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Baltensweiler AG", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2003", 
-    "credit_line": "Gift of Baltensweiler AG", 
-    "cultures": [], 
-    "dimensions": "12 5/8 x 2 7/16 x 4 11/16 in.", 
-    "dynasty": null, 
-    "irn": 74518, 
-    "materials": "aluminum and carbon fiber", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Zett table lamp"
+  "publishers": [], 
+  "dimensions": "12 5/8 x 2 7/16 x 4 11/16 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Baltensweiler AG", 
+  "accession_number": "2012.5", 
+  "title": "Zett table lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288489, 
+  "creation_date": "2003", 
+  "materials": "aluminum and carbon fiber", 
+  "actors": [
+    {
+      "name": "Lukas Niederberger", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308689, 
+      "role": "Designer", 
+      "birth_date": "1972", 
+      "nationality": null
+    }, 
+    {
+      "name": "Gabriel Baltensweiler", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308693, 
+      "role": "Designer", 
+      "birth_date": "1953", 
+      "nationality": null
+    }, 
+    {
+      "name": "Baltensweiler AG", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308695, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 74518, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

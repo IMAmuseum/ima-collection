@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.189", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1840-1902", 
-            "death_date": "1840-1902", 
-            "name": "Nast, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1862", 
-    "credit_line": "Gift of Dr. and Mrs. Thomas Kuebler", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28716, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Rebel Army Crossing the Fords of the Potomac For The Invasion of Maryland"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. and Mrs. Thomas Kuebler", 
+  "accession_number": "82.189", 
+  "title": "The Rebel Army Crossing the Fords of the Potomac For The Invasion of Maryland", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213077, 
+  "creation_date": "1862", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Nast, Thomas", 
+      "after_follower": null, 
+      "death_date": "1840-1902", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302661, 
+      "role": "Artist", 
+      "birth_date": "1840-1902", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28716, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

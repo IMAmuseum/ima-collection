@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.64", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1593", 
-            "death_date": "1678", 
-            "name": "Jordaens, Jacob", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "late 16th century - 17th century", 
-    "credit_line": "Gift of Friends of Art, Inc.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8088, 
-    "materials": "watercolor with red and black chalk on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Supper at Emmaus"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Supper at Emmaus", 
+  "accession_number": "55.64", 
+  "credit_line": "Gift of Friends of Art, Inc.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18150407, 
+  "creation_date": "late 16th century - 17th century", 
+  "materials": "watercolor with red and black chalk on off-white paper", 
+  "actors": [
+    {
+      "name": "Jordaens, Jacob", 
+      "after_follower": null, 
+      "death_date": "1678", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297927, 
+      "role": "Artist", 
+      "birth_date": "1593", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8088, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

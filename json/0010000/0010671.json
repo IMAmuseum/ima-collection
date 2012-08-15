@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.149.1", 
-    "actors": [
-        {
-            "after_follower": "Copy of", 
-            "birth_date": "1632", 
-            "death_date": "1717", 
-            "name": "Wang Hui", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1678", 
-    "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
-    "cultures": [], 
-    "dimensions": "51 in. x 20 in.", 
-    "dynasty": "Qing dynasty", 
-    "irn": 10671, 
-    "materials": "ink | Colors On Silk", 
-    "on_view": false, 
-    "period": "Kangxi", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "CLEARING SNOW IN THE MOUNTAINS"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "51 in. x 20 in.", 
+  "title": "CLEARING SNOW IN THE MOUNTAINS", 
+  "accession_number": "72.149.1", 
+  "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Kangxi", 
+  "artisinal:id": 18156621, 
+  "creation_date": "1678", 
+  "materials": "ink | Colors On Silk", 
+  "actors": [
+    {
+      "name": "Wang Hui", 
+      "after_follower": "Copy of", 
+      "death_date": "1717", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296337, 
+      "role": "Artist", 
+      "birth_date": "1632", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10671, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

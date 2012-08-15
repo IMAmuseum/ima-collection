@@ -1,26 +1,30 @@
 {
-    "accession_number": "49.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1741", 
-            "death_date": "1814", 
-            "name": "Moreau, Jean-Michel, the Younger", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1782", 
-    "credit_line": "Gift of the Museum of the Louvre by the \"Train of Gratitude\", France", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32905, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Festin Royal"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Museum of the Louvre by the \"Train of Gratitude\", France", 
+  "accession_number": "49.26", 
+  "title": "Le Festin Royal", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222805, 
+  "creation_date": "1782", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Moreau, Jean-Michel, the Younger", 
+      "after_follower": null, 
+      "death_date": "1814", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299663, 
+      "role": "Artist", 
+      "birth_date": "1741", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32905, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1903", 
-            "death_date": "2003", 
-            "name": "Russell, Richard Drew", 
-            "nationality": "English", 
-            "role": "designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Gordon Russell, Ltd.", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "About 1957", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "15 x 50 x 30 in.", 
-    "dynasty": null, 
-    "irn": 69120, 
-    "materials": "fruitwood, rosewood, stainless steel", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chest"
+  "publishers": [], 
+  "dimensions": "15 x 50 x 30 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.5", 
+  "title": "Chest", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284155, 
+  "creation_date": "About 1957", 
+  "materials": "fruitwood, rosewood, stainless steel", 
+  "actors": [
+    {
+      "name": "Russell, Richard Drew", 
+      "after_follower": null, 
+      "death_date": "2003", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308167, 
+      "role": "designer", 
+      "birth_date": "1903", 
+      "nationality": "English"
+    }, 
+    {
+      "name": "Gordon Russell, Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308169, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69120, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

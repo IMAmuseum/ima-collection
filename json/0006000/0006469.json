@@ -1,26 +1,30 @@
 {
-    "accession_number": "S0840.75.9.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Rosenthal GmbH", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of John G. and Noble Dean, Jr., in memory of their mother, Mrs. Francis Dean", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6469, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "plate"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "plate", 
+  "accession_number": "S0840.75.9.3", 
+  "credit_line": "Gift of John G. and Noble Dean, Jr., in memory of their mother, Mrs. Francis Dean", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18146613, 
+  "creation_date": null, 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Rosenthal GmbH", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295463, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 6469, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

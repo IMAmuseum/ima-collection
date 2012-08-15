@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.642", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": "2004", 
-            "name": "Wesselmann, Tom", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1967-1968", 
-    "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12256, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Tom Wesselmann/Licensed by VAGA, New York, NY", 
-    "title": "Seascape"
+  "publishers": [], 
+  "rights": "\u00a9 Tom Wesselmann/Licensed by VAGA, New York, NY", 
+  "dimensions": null, 
+  "title": "Seascape", 
+  "accession_number": "74.642", 
+  "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160295, 
+  "creation_date": "1967-1968", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Wesselmann, Tom", 
+      "after_follower": null, 
+      "death_date": "2004", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299013, 
+      "role": "Artist", 
+      "birth_date": "1931", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12256, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

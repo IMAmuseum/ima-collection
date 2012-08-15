@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.2.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1640", 
-            "death_date": "1711", 
-            "name": "B\u00e9rain, Jean, I", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Scotin", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1663", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "13 1/4 X 11 1/2 in. (image)\n15 X 12 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9267, 
-    "materials": "engraving on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Plate 4 (Ironwork)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 1/4 X 11 1/2 in. (image)\n15 X 12 in. (sheet)", 
+  "title": "Plate 4 (Ironwork)", 
+  "accession_number": "73.2.16", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153315, 
+  "creation_date": "1663", 
+  "materials": "engraving on paper", 
+  "actors": [
+    {
+      "name": "B\u00e9rain, Jean, I", 
+      "after_follower": null, 
+      "death_date": "1711", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295153, 
+      "role": "Artist", 
+      "birth_date": "1640", 
+      "nationality": null
+    }, 
+    {
+      "name": "Scotin", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298277, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 9267, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

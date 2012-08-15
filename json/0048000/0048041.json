@@ -1,38 +1,44 @@
 {
-    "accession_number": "72.49.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": null, 
-            "name": "Robert Indiana", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Domberger K G", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1968", 
-    "credit_line": "Gift of Robert Indiana", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 48041, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Edition Domberger Stuttgart"
-        }
-    ], 
-    "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
-    "title": "1"
+  "publishers": [
+    {
+      "name": "Edition Domberger Stuttgart"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
+  "credit_line": "Gift of Robert Indiana", 
+  "accession_number": "72.49.1", 
+  "title": "1", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18258525, 
+  "creation_date": "1968", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Robert Indiana", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296207, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }, 
+    {
+      "name": "Domberger K G", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297459, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 48041, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

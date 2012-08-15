@@ -1,26 +1,30 @@
 {
-    "accession_number": "56.76", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1746", 
-            "death_date": "1828", 
-            "name": "Francisco Jos\u00e9 de Goya y Lucientes", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1808-1815", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "5 1/2 x 7 1/4 in. (image)\n9 1/8 x 13 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 33449, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Esto es peor (This is Worse)"
+  "publishers": [], 
+  "dimensions": "5 1/2 x 7 1/4 in. (image)\n9 1/8 x 13 3/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "56.76", 
+  "title": "Esto es peor (This is Worse)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224095, 
+  "creation_date": "1808-1815", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Francisco Jos\u00e9 de Goya y Lucientes", 
+      "after_follower": null, 
+      "death_date": "1828", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294783, 
+      "role": "Artist", 
+      "birth_date": "1746", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33449, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

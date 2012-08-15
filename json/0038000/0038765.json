@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.978.41", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1779", 
-            "death_date": "1844", 
-            "name": "Callcott, Augustus Wall", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1823", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38765, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Linlithgow"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.978.41", 
+  "title": "Linlithgow", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18237043, 
+  "creation_date": "1823", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Callcott, Augustus Wall", 
+      "after_follower": null, 
+      "death_date": "1844", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295147, 
+      "role": "Artist", 
+      "birth_date": "1779", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38765, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

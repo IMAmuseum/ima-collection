@@ -1,34 +1,40 @@
 {
-    "accession_number": "24.322", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Lan\u00e7on, Auguste Andre", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1828", 
-            "death_date": "1875", 
-            "name": "Cadart, Alfred", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of the children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15688, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Les Carriers"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Les Carriers", 
+  "accession_number": "24.322", 
+  "credit_line": "Gift of the children of Thomas E. Hibben", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168613, 
+  "creation_date": "19th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Lan\u00e7on, Auguste Andre", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299945, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Cadart, Alfred", 
+      "after_follower": null, 
+      "death_date": "1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295073, 
+      "role": "Printer", 
+      "birth_date": "1828", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15688, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

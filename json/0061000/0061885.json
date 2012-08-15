@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.63H-X", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Theophile Gautier", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1900-1906", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 3/8 x 5 7/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 61885, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "George D. Sproul"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Works of Theophile Gautier (volumes 8-24)"
+  "publishers": [
+    {
+      "name": "George D. Sproul"
+    }
+  ], 
+  "dimensions": "8 3/8 x 5 7/8 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.63H-X", 
+  "title": "The Works of Theophile Gautier (volumes 8-24)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277391, 
+  "creation_date": "1900-1906", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Theophile Gautier", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306269, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61885, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

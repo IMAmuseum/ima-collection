@@ -1,30 +1,34 @@
 {
-    "accession_number": "1983.198", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Jones, Alfred", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1850", 
-    "credit_line": "Gift of Jerry M. Wright", 
-    "cultures": [], 
-    "dimensions": "16 5/8 x 12 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 21226, 
-    "materials": "hand-colored engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "American Art Union"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Image Breaker"
+  "publishers": [
+    {
+      "name": "American Art Union"
+    }
+  ], 
+  "dimensions": "16 5/8 x 12 7/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Jerry M. Wright", 
+  "accession_number": "1983.198", 
+  "title": "The Image Breaker", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18195677, 
+  "creation_date": "1850", 
+  "materials": "hand-colored engraving", 
+  "actors": [
+    {
+      "name": "Jones, Alfred", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296237, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 21226, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

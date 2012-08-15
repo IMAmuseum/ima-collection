@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.139", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1899", 
-            "death_date": "1983", 
-            "name": "Locke, Charles Wheeler", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15439, 
-    "materials": "lithograph", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Street"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Street", 
+  "accession_number": "32.139", 
+  "credit_line": "Gift of the Gamboliers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168041, 
+  "creation_date": "20th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Locke, Charles Wheeler", 
+      "after_follower": null, 
+      "death_date": "1983", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299471, 
+      "role": "Artist", 
+      "birth_date": "1899", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15439, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

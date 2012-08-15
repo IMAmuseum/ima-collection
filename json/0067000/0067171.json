@@ -1,34 +1,38 @@
 {
-    "accession_number": "2009.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1952", 
-            "death_date": null, 
-            "name": "Salle, David", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1983", 
-    "credit_line": "Bequest of Eldon and Friedy Nyhart", 
-    "cultures": [], 
-    "dimensions": "46 x 34 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 67171, 
-    "materials": "color lithograph and photo-screenprint on white wover paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Maurice Sanchez"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Edition Schellmann and Kluser"
-        }
-    ], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Theme for an Aztec Moralist (Couple)"
+  "publishers": [
+    {
+      "name": "Edition Schellmann and Kluser"
+    }
+  ], 
+  "dimensions": "46 x 34 in. (sheet)", 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Bequest of Eldon and Friedy Nyhart", 
+  "accession_number": "2009.11", 
+  "title": "Theme for an Aztec Moralist (Couple)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282417, 
+  "creation_date": "1983", 
+  "materials": "color lithograph and photo-screenprint on white wover paper", 
+  "actors": [
+    {
+      "name": "Salle, David", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307615, 
+      "role": "Artist", 
+      "birth_date": "1952", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67171, 
+  "printers": [
+    {
+      "name": "Maurice Sanchez"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

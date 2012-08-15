@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1923", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1796-1864", 
-            "death_date": "1796-1864", 
-            "name": "Roberts, David", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1804", 
-            "death_date": "1880", 
-            "name": "Cousen, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 42311, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Segovia"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1923", 
+  "title": "Segovia", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18247029, 
+  "creation_date": null, 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Roberts, David", 
+      "after_follower": null, 
+      "death_date": "1796-1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297883, 
+      "role": "Artist", 
+      "birth_date": "1796-1864", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cousen, John", 
+      "after_follower": null, 
+      "death_date": "1880", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296901, 
+      "role": "Engraver", 
+      "birth_date": "1804", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42311, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

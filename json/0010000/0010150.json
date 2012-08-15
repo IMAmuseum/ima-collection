@@ -1,34 +1,40 @@
 {
-    "accession_number": "45.51", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1885", 
-            "death_date": "1975", 
-            "name": "Chiura Obata", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Takamizawa", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1930", 
-    "credit_line": "Gift in memory of Charles C. Kryter", 
-    "cultures": [], 
-    "dimensions": "15 3/4 x 10 7/8 in.", 
-    "dynasty": null, 
-    "irn": 10150, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Showa", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Entrance of Masedo River, Yosemite"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "15 3/4 x 10 7/8 in.", 
+  "title": "Entrance of Masedo River, Yosemite", 
+  "accession_number": "45.51", 
+  "credit_line": "Gift in memory of Charles C. Kryter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Showa", 
+  "artisinal:id": 18155401, 
+  "creation_date": "1930", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Chiura Obata", 
+      "after_follower": null, 
+      "death_date": "1975", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298549, 
+      "role": "Artist", 
+      "birth_date": "1885", 
+      "nationality": null
+    }, 
+    {
+      "name": "Takamizawa", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298553, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 10150, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

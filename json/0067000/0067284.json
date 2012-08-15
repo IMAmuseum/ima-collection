@@ -1,34 +1,38 @@
 {
-    "accession_number": "2008.816", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1988", 
-            "name": "Hayter, Stanley William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Joan and Walter Wolf", 
-    "cultures": [], 
-    "dimensions": "17 1/4 x 21 1/4 in. (image)\n23 x 28 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 67284, 
-    "materials": "screenprint on white Bristol Board", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Color Vu"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Barney Weinger Gallery"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Aquarius (D)"
+  "publishers": [
+    {
+      "name": "Barney Weinger Gallery"
+    }
+  ], 
+  "dimensions": "17 1/4 x 21 1/4 in. (image)\n23 x 28 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Joan and Walter Wolf", 
+  "accession_number": "2008.816", 
+  "title": "Aquarius (D)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282631, 
+  "creation_date": "1970", 
+  "materials": "screenprint on white Bristol Board", 
+  "actors": [
+    {
+      "name": "Hayter, Stanley William", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295123, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67284, 
+  "printers": [
+    {
+      "name": "Color Vu"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

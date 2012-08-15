@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1794.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1772", 
-            "death_date": "1813", 
-            "name": "Huet-Villiers, Fran\u00e7ois", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1770", 
-            "death_date": "1850", 
-            "name": "Hill, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1816", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41917, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Silver Fir and Spruce Fir"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1794.17", 
+  "title": "Silver Fir and Spruce Fir", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18245923, 
+  "creation_date": "1816", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Huet-Villiers, Fran\u00e7ois", 
+      "after_follower": null, 
+      "death_date": "1813", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304885, 
+      "role": "Artist", 
+      "birth_date": "1772", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hill, John", 
+      "after_follower": null, 
+      "death_date": "1850", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303033, 
+      "role": "Engraver", 
+      "birth_date": "1770", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41917, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

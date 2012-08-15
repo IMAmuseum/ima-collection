@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.1019", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1897", 
-            "death_date": "1977", 
-            "name": "Gropper, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Dr. Gilbert Erlechman", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23370, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Estate of William Gropper", 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 The Estate of William Gropper", 
+  "credit_line": "Gift of Dr. Gilbert Erlechman", 
+  "accession_number": "81.1019", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200605, 
+  "creation_date": "1970", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Gropper, William", 
+      "after_follower": null, 
+      "death_date": "1977", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294735, 
+      "role": "Artist", 
+      "birth_date": "1897", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23370, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

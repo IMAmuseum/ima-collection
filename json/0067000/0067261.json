@@ -1,34 +1,38 @@
 {
-    "accession_number": "2008.822", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1915", 
-            "death_date": "1991", 
-            "name": "Motherwell, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1966", 
-    "credit_line": "Gift of Joan and Walter Wolf", 
-    "cultures": [], 
-    "dimensions": "22 1/4 x 17 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 67261, 
-    "materials": "lithograph on white Rives BFK", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Hollander, Irwin"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "The Hollander Workshop"
-        }
-    ], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Untitled"
+  "publishers": [
+    {
+      "name": "The Hollander Workshop"
+    }
+  ], 
+  "dimensions": "22 1/4 x 17 in. (sheet)", 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Joan and Walter Wolf", 
+  "accession_number": "2008.822", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282563, 
+  "creation_date": "1966", 
+  "materials": "lithograph on white Rives BFK", 
+  "actors": [
+    {
+      "name": "Motherwell, Robert", 
+      "after_follower": null, 
+      "death_date": "1991", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296215, 
+      "role": "Artist", 
+      "birth_date": "1915", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67261, 
+  "printers": [
+    {
+      "name": "Hollander, Irwin"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

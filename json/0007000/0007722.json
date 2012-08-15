@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.1001", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1886", 
-            "death_date": "1980", 
-            "name": "Kokoschka, Oskar", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1963", 
-    "credit_line": "Gift of Mr. William A. Graham IV", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7722, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Fondation Oskar Kokoschka/Artists Rights Society (ARS), New York/ProLitteris, Z\u00fcrich", 
-    "title": "Lear, Regan Goneril (Act II, Scene IV)"
+  "publishers": [], 
+  "rights": "\u00a9 Fondation Oskar Kokoschka/Artists Rights Society (ARS), New York/ProLitteris, Z\u00fcrich", 
+  "dimensions": null, 
+  "title": "Lear, Regan Goneril (Act II, Scene IV)", 
+  "accession_number": "79.1001", 
+  "credit_line": "Gift of Mr. William A. Graham IV", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149599, 
+  "creation_date": "1963", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Kokoschka, Oskar", 
+      "after_follower": null, 
+      "death_date": "1980", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294941, 
+      "role": "Artist", 
+      "birth_date": "1886", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7722, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

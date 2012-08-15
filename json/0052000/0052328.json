@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.119", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1760", 
-            "death_date": "1849", 
-            "name": "Katsushika Hokusai", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1829 (Bunsei 12)", 
-    "credit_line": "Gift of George C. Calvert", 
-    "cultures": [], 
-    "dimensions": "7 3/16 x 4 7/8 in.", 
-    "dynasty": null, 
-    "irn": 52328, 
-    "materials": "woodblock printed book illustration", 
-    "on_view": true, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Shi Shin, nicknamed \"Nine Tattooed Dragons\" and Chin Tatsu, nicknamed \"Stream Leaping Tiger\""
+  "publishers": [], 
+  "dimensions": "7 3/16 x 4 7/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of George C. Calvert", 
+  "accession_number": "47.119", 
+  "title": "Shi Shin, nicknamed \"Nine Tattooed Dragons\" and Chin Tatsu, nicknamed \"Stream Leaping Tiger\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18266885, 
+  "creation_date": "1829 (Bunsei 12)", 
+  "materials": "woodblock printed book illustration", 
+  "actors": [
+    {
+      "name": "Katsushika Hokusai", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298933, 
+      "role": "Artist", 
+      "birth_date": "1760", 
+      "nationality": null
+    }
+  ], 
+  "irn": 52328, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

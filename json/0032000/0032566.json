@@ -1,30 +1,34 @@
 {
-    "accession_number": "1994.694", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1940", 
-            "death_date": "2006", 
-            "name": "Jimenez, Luis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1980", 
-    "credit_line": "Gift of Garo Z. Antreasian", 
-    "cultures": [], 
-    "dimensions": "11 1/16 x 8 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 32566, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Landfall Press"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "A Cowboy"
+  "publishers": [
+    {
+      "name": "Landfall Press"
+    }
+  ], 
+  "dimensions": "11 1/16 x 8 1/2 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Garo Z. Antreasian", 
+  "accession_number": "1994.694", 
+  "title": "A Cowboy", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221965, 
+  "creation_date": "1980", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Jimenez, Luis", 
+      "after_follower": null, 
+      "death_date": "2006", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303197, 
+      "role": "Artist", 
+      "birth_date": "1940", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32566, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

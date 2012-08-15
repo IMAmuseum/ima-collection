@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.66", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1862", 
-            "death_date": "1926", 
-            "name": "Th\u00e9o van Rysselberghe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Thomas W. Ayton Fund", 
-    "cultures": [], 
-    "dimensions": "12 3/4 x 16 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 32306, 
-    "materials": "etching, drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Scheldt at Vlissingen"
+  "publishers": [], 
+  "dimensions": "12 3/4 x 16 3/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Thomas W. Ayton Fund", 
+  "accession_number": "82.66", 
+  "title": "The Scheldt at Vlissingen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221367, 
+  "creation_date": null, 
+  "materials": "etching, drypoint", 
+  "actors": [
+    {
+      "name": "Th\u00e9o van Rysselberghe", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295211, 
+      "role": "Artist", 
+      "birth_date": "1862", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32306, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

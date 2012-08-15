@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.199", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1741", 
-            "death_date": "1807", 
-            "name": "Kauffmann, Angelica", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1780", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7304, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Marriage of St. Catherine"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Marriage of St. Catherine", 
+  "accession_number": "09.199", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18148605, 
+  "creation_date": "1780", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Kauffmann, Angelica", 
+      "after_follower": null, 
+      "death_date": "1807", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297703, 
+      "role": "Artist", 
+      "birth_date": "1741", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7304, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

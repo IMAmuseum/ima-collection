@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.137", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": "2002", 
-            "name": "Blass, Bill", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1974", 
-    "credit_line": "Gift of Frances R. Gardiner", 
-    "cultures": [], 
-    "dimensions": "L: 28 1/4 in. (jacket)", 
-    "dynasty": null, 
-    "irn": 25357, 
-    "materials": "wool, silk taffeta", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "suit"
+  "publishers": [], 
+  "dimensions": "L: 28 1/4 in. (jacket)", 
+  "rights": null, 
+  "credit_line": "Gift of Frances R. Gardiner", 
+  "accession_number": "81.137", 
+  "title": "suit", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205177, 
+  "creation_date": "1974", 
+  "materials": "wool, silk taffeta", 
+  "actors": [
+    {
+      "name": "Blass, Bill", 
+      "after_follower": null, 
+      "death_date": "2002", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295143, 
+      "role": "Designer", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25357, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

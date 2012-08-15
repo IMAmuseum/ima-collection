@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.241", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1959", 
-            "death_date": null, 
-            "name": "Morrison, Jasper", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Rowenta", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2004", 
-    "credit_line": "Gift of David A. Hanks in honor of R. Craig Miller", 
-    "cultures": [], 
-    "dimensions": "7 3/8 x 14 7/8 x 4 1/16 in.", 
-    "dynasty": null, 
-    "irn": 65111, 
-    "materials": "metal and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jasper Morrison", 
-    "title": "toaster"
+  "publishers": [], 
+  "dimensions": "7 3/8 x 14 7/8 x 4 1/16 in.", 
+  "rights": "\u00a9 Jasper Morrison", 
+  "credit_line": "Gift of David A. Hanks in honor of R. Craig Miller", 
+  "accession_number": "2008.241", 
+  "title": "toaster", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279679, 
+  "creation_date": "2004", 
+  "materials": "metal and plastic", 
+  "actors": [
+    {
+      "name": "Morrison, Jasper", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307081, 
+      "role": "Designer", 
+      "birth_date": "1959", 
+      "nationality": null
+    }, 
+    {
+      "name": "Rowenta", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307323, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65111, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

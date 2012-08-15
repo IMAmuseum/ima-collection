@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.55", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1960", 
-            "death_date": null, 
-            "name": "Ferruccio Laviani", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kartell US, Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2003", 
-    "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
-    "cultures": [], 
-    "dimensions": "12 x 7 1/4 x 6 3/4 inches", 
-    "dynasty": null, 
-    "irn": 68637, 
-    "materials": "polycarbonate and electrical components", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ferruccio Laviani", 
-    "title": "Take lamp (green)"
+  "publishers": [], 
+  "dimensions": "12 x 7 1/4 x 6 3/4 inches", 
+  "rights": "\u00a9 Ferruccio Laviani", 
+  "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
+  "accession_number": "2010.55", 
+  "title": "Take lamp (green)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283553, 
+  "creation_date": "2003", 
+  "materials": "polycarbonate and electrical components", 
+  "actors": [
+    {
+      "name": "Ferruccio Laviani", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307029, 
+      "role": "Designer", 
+      "birth_date": "1960", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kartell US, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307897, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68637, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

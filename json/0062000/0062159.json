@@ -1,30 +1,34 @@
 {
-    "accession_number": "2004.127", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1915", 
-            "death_date": "2001", 
-            "name": "Peterdi, Gabor F.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1965", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "10 3/4 x 13 5/8 in. (image)\n15 x 19 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 62159, 
-    "materials": "lift-ground etching on white Arches", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Touchstone Publishers, Ltd."
-        }
-    ], 
-    "rights": "\u00a9 The Estate of Gabor F. Peterdi", 
-    "title": "Birds"
+  "publishers": [
+    {
+      "name": "Touchstone Publishers, Ltd."
+    }
+  ], 
+  "dimensions": "10 3/4 x 13 5/8 in. (image)\n15 x 19 3/4 in. (sheet)", 
+  "rights": "\u00a9 The Estate of Gabor F. Peterdi", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2004.127", 
+  "title": "Birds", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277539, 
+  "creation_date": "1965", 
+  "materials": "lift-ground etching on white Arches", 
+  "actors": [
+    {
+      "name": "Peterdi, Gabor F.", 
+      "after_follower": null, 
+      "death_date": "2001", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295523, 
+      "role": "Artist", 
+      "birth_date": "1915", 
+      "nationality": null
+    }
+  ], 
+  "irn": 62159, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

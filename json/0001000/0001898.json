@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1606", 
-            "death_date": "1669", 
-            "name": "Rembrandt van Rijn", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1639", 
-    "credit_line": "Mrs. N.H. Noyes Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1898, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Old Man Shading his Eyes"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Old Man Shading his Eyes", 
+  "accession_number": "57.4", 
+  "credit_line": "Mrs. N.H. Noyes Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135839, 
+  "creation_date": "about 1639", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Rembrandt van Rijn", 
+      "after_follower": null, 
+      "death_date": "1669", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295685, 
+      "role": "Artist", 
+      "birth_date": "1606", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1898, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

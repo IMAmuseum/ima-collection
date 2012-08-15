@@ -1,42 +1,50 @@
 {
-    "accession_number": "2010.49", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1946", 
-            "death_date": null, 
-            "name": "Dubuisson, Sylvain", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Soci\u00e9t\u00e9 Fourniture", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Creative Agent Consultants", 
-            "nationality": null, 
-            "role": "Retailer"
-        }
-    ], 
-    "creation_date": "2006 (designed 1989)", 
-    "credit_line": "Lucille Stewart Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "28 5/8 \u00d7 59 1/4 \u00d7 32 1/2 in.", 
-    "dynasty": null, 
-    "irn": 67831, 
-    "materials": "parchment and leather", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Sylvain Dubuisson", 
-    "title": "Bureau 1989 desk"
+  "publishers": [], 
+  "dimensions": "28 5/8 \u00d7 59 1/4 \u00d7 32 1/2 in.", 
+  "rights": "\u00a9 Sylvain Dubuisson", 
+  "credit_line": "Lucille Stewart Endowed Art Fund", 
+  "accession_number": "2010.49", 
+  "title": "Bureau 1989 desk", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283063, 
+  "creation_date": "2006 (designed 1989)", 
+  "materials": "parchment and leather", 
+  "actors": [
+    {
+      "name": "Dubuisson, Sylvain", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306901, 
+      "role": "Designer", 
+      "birth_date": "1946", 
+      "nationality": null
+    }, 
+    {
+      "name": "Soci\u00e9t\u00e9 Fourniture", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307749, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Creative Agent Consultants", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307753, 
+      "role": "Retailer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67831, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

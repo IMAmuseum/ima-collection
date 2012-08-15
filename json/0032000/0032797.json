@@ -1,34 +1,40 @@
 {
-    "accession_number": "1993.63", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Vincennes Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1695", 
-            "death_date": "1774", 
-            "name": "Jean-Claude Duplessis le P\u00e8re", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "about 1750", 
-    "credit_line": "Edward L. Anderson Fine Arts Acquisition Fund", 
-    "cultures": [], 
-    "dimensions": "10 in.", 
-    "dynasty": null, 
-    "irn": 32797, 
-    "materials": "soft-paste porcelain, enamel decoration, gilding, gilt bronze mounts", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "one of a pair of vases (vase Duplessis \u00e0 fleurs balustre rocaille)"
+  "publishers": [], 
+  "dimensions": "10 in.", 
+  "rights": null, 
+  "credit_line": "Edward L. Anderson Fine Arts Acquisition Fund", 
+  "accession_number": "1993.63", 
+  "title": "one of a pair of vases (vase Duplessis \u00e0 fleurs balustre rocaille)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222533, 
+  "creation_date": "about 1750", 
+  "materials": "soft-paste porcelain, enamel decoration, gilding, gilt bronze mounts", 
+  "actors": [
+    {
+      "name": "Vincennes Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299005, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Jean-Claude Duplessis le P\u00e8re", 
+      "after_follower": null, 
+      "death_date": "1774", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299007, 
+      "role": "Modeler", 
+      "birth_date": "1695", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32797, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.385", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1968", 
-            "name": "West, Levon", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1931", 
-    "credit_line": "Helen Adams Bobbs Fund", 
-    "cultures": [], 
-    "dimensions": "14 1/4 x 9 1/4 in. (image)\n17 3/8 x 11 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 13785, 
-    "materials": "etching and drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Twin Pines"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "14 1/4 x 9 1/4 in. (image)\n17 3/8 x 11 1/2 in. (sheet)", 
+  "title": "Twin Pines", 
+  "accession_number": "81.385", 
+  "credit_line": "Helen Adams Bobbs Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164181, 
+  "creation_date": "1931", 
+  "materials": "etching and drypoint", 
+  "actors": [
+    {
+      "name": "West, Levon", 
+      "after_follower": null, 
+      "death_date": "1968", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298581, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13785, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "74.561", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Yang Youlan", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Liu Haichan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1700s", 
-    "credit_line": "Gift of Mr. and Mrs. Steve Benedict", 
-    "cultures": [], 
-    "dimensions": "51 5/8 x 23 1/8 in. (image)\n104 x 29 1/8 in. (overall)", 
-    "dynasty": "Qing dynasty", 
-    "irn": 1290, 
-    "materials": "ink and color on paper", 
-    "on_view": false, 
-    "period": "Qianlong", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Liu Haichan"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "51 5/8 x 23 1/8 in. (image)\n104 x 29 1/8 in. (overall)", 
+  "title": "Liu Haichan", 
+  "accession_number": "74.561", 
+  "credit_line": "Gift of Mr. and Mrs. Steve Benedict", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Qianlong", 
+  "artisinal:id": 18134351, 
+  "creation_date": "1700s", 
+  "materials": "ink and color on paper", 
+  "actors": [
+    {
+      "name": "Yang Youlan", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295445, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Liu Haichan", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295447, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1290, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

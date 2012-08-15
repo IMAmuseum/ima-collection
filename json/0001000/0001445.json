@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.123", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1510", 
-    "credit_line": "The Elma D. and Orville A. Wilkinson Fund", 
-    "cultures": [], 
-    "dimensions": "35 x 17 x 5 in.", 
-    "dynasty": null, 
-    "irn": 1445, 
-    "materials": "marble with gilt silver repouss\u00e9 door", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "tabernacle"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "35 x 17 x 5 in.", 
+  "title": "tabernacle", 
+  "accession_number": "72.123", 
+  "credit_line": "The Elma D. and Orville A. Wilkinson Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134709, 
+  "creation_date": "about 1510", 
+  "materials": "marble with gilt silver repouss\u00e9 door", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1445, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

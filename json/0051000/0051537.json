@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.296", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1515", 
-            "death_date": "1586", 
-            "name": "Cranach, Lucas, the younger", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "16th Century", 
-    "credit_line": "Gift of Mrs. Jeanne Gass Stump", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 51537, 
-    "materials": "woodblock print and letterpress", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Philip Melancthon, Full-Length"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Jeanne Gass Stump", 
+  "accession_number": "2001.296", 
+  "title": "Philip Melancthon, Full-Length", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18265309, 
+  "creation_date": "16th Century", 
+  "materials": "woodblock print and letterpress", 
+  "actors": [
+    {
+      "name": "Cranach, Lucas, the younger", 
+      "after_follower": null, 
+      "death_date": "1586", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302785, 
+      "role": "Artist", 
+      "birth_date": "1515", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51537, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

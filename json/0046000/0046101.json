@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.15.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1840-1902", 
-            "death_date": "1840-1902", 
-            "name": "Nast, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1864", 
-    "credit_line": "Emma D. Wilkinson Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46101, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Election Day 8th November 1864"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Emma D. Wilkinson Fund", 
+  "accession_number": "73.15.6", 
+  "title": "Election Day 8th November 1864", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18255985, 
+  "creation_date": "1864", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Nast, Thomas", 
+      "after_follower": null, 
+      "death_date": "1840-1902", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302661, 
+      "role": "Artist", 
+      "birth_date": "1840-1902", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46101, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

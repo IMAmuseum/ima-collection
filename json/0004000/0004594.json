@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.45", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860", 
-            "death_date": "1926", 
-            "name": "Pennell, Joseph", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1904", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4594, 
-    "materials": "etching", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Stock Exchange, New York"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Stock Exchange, New York", 
+  "accession_number": "25.45", 
+  "credit_line": "Bequest of Delavan Smith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142165, 
+  "creation_date": "1904", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Pennell, Joseph", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295161, 
+      "role": "Artist", 
+      "birth_date": "1860", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4594, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

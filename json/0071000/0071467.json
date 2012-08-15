@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.282.14A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1887", 
-            "death_date": "1943", 
-            "name": "Friedrich Fleischmann", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Rosenthal GmbH", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1927", 
-    "credit_line": "Gift of John P. Antonelli", 
-    "cultures": [], 
-    "dimensions": "Overall) 7 1/8 x 11 13/16 x 6 7/8 in.\nZ) 5 3/16 x 11 13/16 x 6 7/8 in.\nAA) 2 3/4 x 4 3/16 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 71467, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Tirana tea pot with lid"
+  "publishers": [], 
+  "dimensions": "Overall) 7 1/8 x 11 13/16 x 6 7/8 in.\nZ) 5 3/16 x 11 13/16 x 6 7/8 in.\nAA) 2 3/4 x 4 3/16 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of John P. Antonelli", 
+  "accession_number": "2010.282.14A-B", 
+  "title": "Tirana tea pot with lid", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287147, 
+  "creation_date": "1927", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Friedrich Fleischmann", 
+      "after_follower": null, 
+      "death_date": "1943", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308413, 
+      "role": "Designer", 
+      "birth_date": "1887", 
+      "nationality": null
+    }, 
+    {
+      "name": "Rosenthal GmbH", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295463, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71467, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.66", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1936", 
-            "name": "Brown, Bolton Coit", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1916", 
-    "credit_line": "Gift of Mrs. Lucy Fletcher Brown", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35948, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Winter-greens"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Lucy Fletcher Brown", 
+  "accession_number": "40.66", 
+  "title": "Winter-greens", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229793, 
+  "creation_date": "1916", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Brown, Bolton Coit", 
+      "after_follower": null, 
+      "death_date": "1936", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297519, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35948, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

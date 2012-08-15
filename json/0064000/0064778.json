@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.445", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1951", 
-            "death_date": null, 
-            "name": "Perkal, Nestor", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1951", 
-            "death_date": null, 
-            "name": "Perkal, Nestor", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1987", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
-    "cultures": [], 
-    "dimensions": "11 \u00d7 7 3/8 in.", 
-    "dynasty": null, 
-    "irn": 64778, 
-    "materials": "silver plate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Nestor Perkal", 
-    "title": "Buis bowl"
+  "publishers": [], 
+  "dimensions": "11 \u00d7 7 3/8 in.", 
+  "rights": "\u00a9 Nestor Perkal", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
+  "accession_number": "2009.445", 
+  "title": "Buis bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279301, 
+  "creation_date": "1987", 
+  "materials": "silver plate", 
+  "actors": [
+    {
+      "name": "Perkal, Nestor", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307109, 
+      "role": "Designer", 
+      "birth_date": "1951", 
+      "nationality": null
+    }, 
+    {
+      "name": "Perkal, Nestor", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307109, 
+      "role": "manufacturer", 
+      "birth_date": "1951", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64778, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

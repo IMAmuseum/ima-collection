@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.777", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1946", 
-            "death_date": null, 
-            "name": "Olavi Lind\u00e9n", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Fiskars Brands, Inc.", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "about 2004", 
-    "credit_line": "Gift of Brent McHenry", 
-    "cultures": [], 
-    "dimensions": "15 in. (38.1 cm)", 
-    "dynasty": null, 
-    "irn": 66437, 
-    "materials": "plastic and steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Olavi Lind\u00e9n", 
-    "title": "Power-Lever Easy Reach Bypass Pruner"
+  "publishers": [], 
+  "dimensions": "15 in. (38.1 cm)", 
+  "rights": "\u00a9 Olavi Lind\u00e9n", 
+  "credit_line": "Gift of Brent McHenry", 
+  "accession_number": "2008.777", 
+  "title": "Power-Lever Easy Reach Bypass Pruner", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280843, 
+  "creation_date": "about 2004", 
+  "materials": "plastic and steel", 
+  "actors": [
+    {
+      "name": "Olavi Lind\u00e9n", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307033, 
+      "role": "Artist", 
+      "birth_date": "1946", 
+      "nationality": null
+    }, 
+    {
+      "name": "Fiskars Brands, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307035, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 66437, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

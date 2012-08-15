@@ -1,26 +1,30 @@
 {
-    "accession_number": "1987.44", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1858", 
-            "name": "Suzuki Kiitsu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Mr. and Mrs. William Spurlock Fund", 
-    "cultures": [], 
-    "dimensions": "50 x 17 1/2 in. (each panel)\n50 x 105 in. (overall)", 
-    "dynasty": null, 
-    "irn": 34976, 
-    "materials": "ink, color and gold leaf on paper, six-panel screen", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hinoki Cypress Tree"
+  "publishers": [], 
+  "dimensions": "50 x 17 1/2 in. (each panel)\n50 x 105 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. William Spurlock Fund", 
+  "accession_number": "1987.44", 
+  "title": "Hinoki Cypress Tree", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18227603, 
+  "creation_date": null, 
+  "materials": "ink, color and gold leaf on paper, six-panel screen", 
+  "actors": [
+    {
+      "name": "Suzuki Kiitsu", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300009, 
+      "role": "Artist", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34976, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

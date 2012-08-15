@@ -1,34 +1,40 @@
 {
-    "accession_number": "1992.366", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1868", 
-            "death_date": "1957", 
-            "name": "Richard Riemerschmid", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": null, 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1902", 
-    "credit_line": "Harold Victor Decorative Arts Fund", 
-    "cultures": [], 
-    "dimensions": "9 in.", 
-    "dynasty": null, 
-    "irn": 1245, 
-    "materials": "salt-glazed stoneware, painted cobalt blue decoration, pewter cover", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "jug"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 in.", 
+  "title": "jug", 
+  "accession_number": "1992.366", 
+  "credit_line": "Harold Victor Decorative Arts Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134231, 
+  "creation_date": "1902", 
+  "materials": "salt-glazed stoneware, painted cobalt blue decoration, pewter cover", 
+  "actors": [
+    {
+      "name": "Richard Riemerschmid", 
+      "after_follower": null, 
+      "death_date": "1957", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295433, 
+      "role": "Designer", 
+      "birth_date": "1868", 
+      "nationality": null
+    }, 
+    {
+      "name": null, 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295437, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1245, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

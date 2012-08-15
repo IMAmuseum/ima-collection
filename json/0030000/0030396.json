@@ -1,26 +1,30 @@
 {
-    "accession_number": "1989.141", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1914", 
-            "death_date": "1971", 
-            "name": "Castellon, Federico", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1946", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mr. and Mrs. H.L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 30396, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Federico Castellon", 
-    "title": "The Family"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Federico Castellon", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mr. and Mrs. H.L. Conant", 
+  "accession_number": "1989.141", 
+  "title": "The Family", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18217029, 
+  "creation_date": "1946", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Castellon, Federico", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299811, 
+      "role": "Artist", 
+      "birth_date": "1914", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30396, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

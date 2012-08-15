@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.240", 
-    "actors": [
-        {
-            "after_follower": "Follower of", 
-            "birth_date": "1483", 
-            "death_date": "1520", 
-            "name": "Raphael", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Bequest of Allen Whitehill Clowes", 
-    "cultures": [], 
-    "dimensions": "8 1/2 x 6 in. (framed)", 
-    "dynasty": null, 
-    "irn": 42840, 
-    "materials": "oil on wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna and Child with a Bird"
+  "publishers": [], 
+  "dimensions": "8 1/2 x 6 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Bequest of Allen Whitehill Clowes", 
+  "accession_number": "2001.240", 
+  "title": "Madonna and Child with a Bird", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18248449, 
+  "creation_date": "19th century", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Raphael", 
+      "after_follower": "Follower of", 
+      "death_date": "1520", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305005, 
+      "role": "Artist", 
+      "birth_date": "1483", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42840, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

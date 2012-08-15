@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.466A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1968", 
-            "death_date": null, 
-            "name": "Fernando Brizio", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1968", 
-            "death_date": null, 
-            "name": "Fernando Brizio", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "2005", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "H: 13.7 x Diam.: 12.9 inches; H:35 x Diam.: 33 cm", 
-    "dynasty": null, 
-    "irn": 67179, 
-    "materials": "faience and felt-tips", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Fernando Brizio", 
-    "title": "Painting a Fresco with Giotto #3"
+  "publishers": [], 
+  "dimensions": "H: 13.7 x Diam.: 12.9 inches; H:35 x Diam.: 33 cm", 
+  "rights": "\u00a9 Fernando Brizio", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "2009.466A-B", 
+  "title": "Painting a Fresco with Giotto #3", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282441, 
+  "creation_date": "2005", 
+  "materials": "faience and felt-tips", 
+  "actors": [
+    {
+      "name": "Fernando Brizio", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307627, 
+      "role": "Designer", 
+      "birth_date": "1968", 
+      "nationality": null
+    }, 
+    {
+      "name": "Fernando Brizio", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307627, 
+      "role": "manufacturer", 
+      "birth_date": "1968", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67179, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

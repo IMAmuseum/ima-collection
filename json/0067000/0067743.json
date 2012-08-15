@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.646A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1939", 
-            "death_date": null, 
-            "name": "Pesce, Gaetano", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "B&B Italia, S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Gift of Dr. Michael Sze", 
-    "cultures": [], 
-    "dimensions": "A) chair: 41 x 36 x 45 in.\nB) ottoman: diam.: 22 in.", 
-    "dynasty": null, 
-    "irn": 67743, 
-    "materials": "fabric", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gaetano Pesce", 
-    "title": "UP5 chair and UP6 ottoman"
+  "publishers": [], 
+  "dimensions": "A) chair: 41 x 36 x 45 in.\nB) ottoman: diam.: 22 in.", 
+  "rights": "\u00a9 Gaetano Pesce", 
+  "credit_line": "Gift of Dr. Michael Sze", 
+  "accession_number": "2009.646A-B", 
+  "title": "UP5 chair and UP6 ottoman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282983, 
+  "creation_date": "1969", 
+  "materials": "fabric", 
+  "actors": [
+    {
+      "name": "Pesce, Gaetano", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307385, 
+      "role": "Designer", 
+      "birth_date": "1939", 
+      "nationality": null
+    }, 
+    {
+      "name": "B&B Italia, S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306845, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67743, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

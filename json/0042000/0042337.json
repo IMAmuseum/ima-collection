@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1949", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1878", 
-            "name": "Bough, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1882", 
-            "name": "Miller, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 42337, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Shepherd in the Highlands"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1949", 
+  "title": "Shepherd in the Highlands", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18247103, 
+  "creation_date": null, 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Bough, Samuel", 
+      "after_follower": null, 
+      "death_date": "1878", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304945, 
+      "role": "Artist", 
+      "birth_date": "1822", 
+      "nationality": null
+    }, 
+    {
+      "name": "Miller, William", 
+      "after_follower": null, 
+      "death_date": "1882", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299379, 
+      "role": "Engraver", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42337, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

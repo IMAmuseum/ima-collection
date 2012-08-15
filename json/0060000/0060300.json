@@ -1,34 +1,40 @@
 {
-    "accession_number": "2002.236", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": null, 
-            "name": "Robert Indiana", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Domberger K G", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1971", 
-    "credit_line": "Gift of Dr. and Mrs. James B. Steichen", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60300, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
-    "title": "Black and White Love"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
+  "credit_line": "Gift of Dr. and Mrs. James B. Steichen", 
+  "accession_number": "2002.236", 
+  "title": "Black and White Love", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276493, 
+  "creation_date": "1971", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Robert Indiana", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296207, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }, 
+    {
+      "name": "Domberger K G", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297459, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 60300, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

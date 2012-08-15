@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.441.1-.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Jurgen Bey", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Royal Tichelaar Makkum", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2003", 
-    "credit_line": "The Ballard Fund", 
-    "cultures": [], 
-    "dimensions": "15-18) cup and saucers\n19) cake saucer\n20) milk jug\n21) sugar bowl", 
-    "dynasty": null, 
-    "irn": 68288, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jurgen Bey", 
-    "title": "Minuten dinnerware"
+  "publishers": [], 
+  "dimensions": "15-18) cup and saucers\n19) cake saucer\n20) milk jug\n21) sugar bowl", 
+  "rights": "\u00a9 Jurgen Bey", 
+  "credit_line": "The Ballard Fund", 
+  "accession_number": "2009.441.1-.12", 
+  "title": "Minuten dinnerware", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283317, 
+  "creation_date": "2003", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Jurgen Bey", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306813, 
+      "role": "Designer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }, 
+    {
+      "name": "Royal Tichelaar Makkum", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307011, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68288, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.12.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1964", 
-            "death_date": null, 
-            "name": "Alfredo Haberli", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Iittala", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Gift of Ittala, Inc.", 
-    "cultures": [], 
-    "dimensions": "11 3/4 x 3 3/4 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 68204, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Alfredo Haberli", 
-    "title": "Essence carafe (pink)"
+  "publishers": [], 
+  "dimensions": "11 3/4 x 3 3/4 (diam.) in.", 
+  "rights": "\u00a9 Alfredo Haberli", 
+  "credit_line": "Gift of Ittala, Inc.", 
+  "accession_number": "2010.12.3", 
+  "title": "Essence carafe (pink)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283219, 
+  "creation_date": "2000", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Alfredo Haberli", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306959, 
+      "role": "Designer", 
+      "birth_date": "1964", 
+      "nationality": null
+    }, 
+    {
+      "name": "Iittala", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306847, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68204, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1707", 
-            "death_date": "1783", 
-            "name": "Le Bas, Jacques Philippe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "The Orville A. and Emma D. Wilkinson Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 33971, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L' Hiver"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "The Orville A. and Emma D. Wilkinson Fund", 
+  "accession_number": "75.10", 
+  "title": "L' Hiver", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18225277, 
+  "creation_date": "18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Le Bas, Jacques Philippe", 
+      "after_follower": null, 
+      "death_date": "1783", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298907, 
+      "role": "Artist", 
+      "birth_date": "1707", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33971, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.127", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1741", 
-            "death_date": "1816", 
-            "name": "Vinkeles, Reinier", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1790", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28726, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cain Slaying Abel"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.127", 
+  "title": "Cain Slaying Abel", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213103, 
+  "creation_date": "1790", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Vinkeles, Reinier", 
+      "after_follower": null, 
+      "death_date": "1816", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296255, 
+      "role": "Artist", 
+      "birth_date": "1741", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28726, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

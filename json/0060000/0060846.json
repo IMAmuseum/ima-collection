@@ -1,30 +1,34 @@
 {
-    "accession_number": "2003.63", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1876-1973", 
-            "death_date": "1876-1973", 
-            "name": "Steichen, Edward Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1909", 
-    "credit_line": "Courtesy of Howard Greenberg Gallery, New York City", 
-    "cultures": [], 
-    "dimensions": "8 5/8 x 6 7/8 in. (image)\n11 1/8 x 8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 60846, 
-    "materials": "photogravure hinged to paper mount", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Camera Work"
-        }
-    ], 
-    "rights": null, 
-    "title": "Henri Matisse"
+  "publishers": [
+    {
+      "name": "Camera Work"
+    }
+  ], 
+  "dimensions": "8 5/8 x 6 7/8 in. (image)\n11 1/8 x 8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Courtesy of Howard Greenberg Gallery, New York City", 
+  "accession_number": "2003.63", 
+  "title": "Henri Matisse", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276725, 
+  "creation_date": "1909", 
+  "materials": "photogravure hinged to paper mount", 
+  "actors": [
+    {
+      "name": "Steichen, Edward Jean", 
+      "after_follower": null, 
+      "death_date": "1876-1973", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305889, 
+      "role": "Artist", 
+      "birth_date": "1876-1973", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60846, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

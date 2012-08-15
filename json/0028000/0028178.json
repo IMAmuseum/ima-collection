@@ -1,26 +1,30 @@
 {
-    "accession_number": "61.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1973", 
-            "name": "Picasso, Pablo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1927", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28178, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of Pablo Picasso/Artists Rights Society (ARS), New York", 
-    "title": "Peintre Travaillaint"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Estate of Pablo Picasso/Artists Rights Society (ARS), New York", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "61.6", 
+  "title": "Peintre Travaillaint", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211811, 
+  "creation_date": "1927", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Picasso, Pablo", 
+      "after_follower": null, 
+      "death_date": "1973", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294969, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28178, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

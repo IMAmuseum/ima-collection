@@ -1,34 +1,40 @@
 {
-    "accession_number": "1984.102", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1820", 
-            "death_date": "1893", 
-            "name": "Leopold Gely", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "S\u00e8vres Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1867", 
-    "credit_line": "Gift of Mr. and Mrs. Peter C. Reilly", 
-    "cultures": [], 
-    "dimensions": "H: 27 in.", 
-    "dynasty": null, 
-    "irn": 33934, 
-    "materials": "hard paste porcelain, gilding", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase"
+  "publishers": [], 
+  "dimensions": "H: 27 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Peter C. Reilly", 
+  "accession_number": "1984.102", 
+  "title": "vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18225195, 
+  "creation_date": "1867", 
+  "materials": "hard paste porcelain, gilding", 
+  "actors": [
+    {
+      "name": "Leopold Gely", 
+      "after_follower": null, 
+      "death_date": "1893", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303453, 
+      "role": "Artist", 
+      "birth_date": "1820", 
+      "nationality": null
+    }, 
+    {
+      "name": "S\u00e8vres Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295809, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 33934, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

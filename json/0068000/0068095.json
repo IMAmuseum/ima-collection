@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.496A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1959", 
-            "death_date": null, 
-            "name": "Morrison, Jasper", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Alessi S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks Sr., and Her Late Son, Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "1 x 11 1/4 x 3 1/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 68095, 
-    "materials": "polycarbonate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jasper Morrison", 
-    "title": "Sim & Saladin serving pieces (blue)"
+  "publishers": [], 
+  "dimensions": "1 x 11 1/4 x 3 1/8 in. (each)", 
+  "rights": "\u00a9 Jasper Morrison", 
+  "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks Sr., and Her Late Son, Michael Fairbanks", 
+  "accession_number": "2009.496A-B", 
+  "title": "Sim & Saladin serving pieces (blue)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283171, 
+  "creation_date": "1998", 
+  "materials": "polycarbonate", 
+  "actors": [
+    {
+      "name": "Morrison, Jasper", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307081, 
+      "role": "Designer", 
+      "birth_date": "1959", 
+      "nationality": null
+    }, 
+    {
+      "name": "Alessi S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304005, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68095, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

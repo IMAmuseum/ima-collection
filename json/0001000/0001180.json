@@ -1,34 +1,40 @@
 {
-    "accession_number": "1987.152", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Wilkinson, George", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Gorham Manufacturing Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1864-1867", 
-    "credit_line": "Lilly Pavilion Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "H: 7 3/8 in.", 
-    "dynasty": null, 
-    "irn": 1180, 
-    "materials": "silver", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "teapot (part of the Medallion tea and coffee service)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 7 3/8 in.", 
+  "title": "teapot (part of the Medallion tea and coffee service)", 
+  "accession_number": "1987.152", 
+  "credit_line": "Lilly Pavilion Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134051, 
+  "creation_date": "1864-1867", 
+  "materials": "silver", 
+  "actors": [
+    {
+      "name": "Wilkinson, George", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295389, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Gorham Manufacturing Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295393, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1180, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

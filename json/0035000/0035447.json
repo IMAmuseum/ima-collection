@@ -1,26 +1,30 @@
 {
-    "accession_number": "68.31", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": null, 
-            "name": "Friedlaender, Johnny", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Herron Library", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35447, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "page from Book \"oeuvre\""
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Herron Library", 
+  "accession_number": "68.31", 
+  "title": "page from Book \"oeuvre\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18228659, 
+  "creation_date": "20th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Friedlaender, Johnny", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296085, 
+      "role": "Artist", 
+      "birth_date": "1912", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35447, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

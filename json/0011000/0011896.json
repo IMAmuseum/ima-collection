@@ -1,33 +1,37 @@
 {
-    "accession_number": "60.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1760", 
-            "death_date": "1849", 
-            "name": "Katsushika Hokusai", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "about 1800-1849", 
-    "credit_line": "Carl H. Lieber Fund", 
-    "cultures": [], 
-    "dimensions": "10 1/8 x 15 in.", 
-    "dynasty": null, 
-    "irn": 11896, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Nishimura-ya Yohachi"
-        }, 
-        {
-            "name": "Eijudo"
-        }
-    ], 
-    "rights": null, 
-    "title": "Fine Wind, Clear Morning (Gaif^u kaisei)"
+  "publishers": [
+    {
+      "name": "Nishimura-ya Yohachi"
+    }, 
+    {
+      "name": "Eijudo"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "10 1/8 x 15 in.", 
+  "title": "Fine Wind, Clear Morning (Gaif^u kaisei)", 
+  "accession_number": "60.12", 
+  "credit_line": "Carl H. Lieber Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18159513, 
+  "creation_date": "about 1800-1849", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Katsushika Hokusai", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298933, 
+      "role": "Designer", 
+      "birth_date": "1760", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11896, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

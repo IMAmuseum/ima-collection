@@ -1,26 +1,30 @@
 {
-    "accession_number": "1984.240", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1829", 
-            "death_date": "1908", 
-            "name": "Ward, William II", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1878", 
-    "credit_line": "J. M. W. Turner Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 33384, 
-    "materials": "watercolor and gouache on blue paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Caudebec"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "J. M. W. Turner Fund", 
+  "accession_number": "1984.240", 
+  "title": "Caudebec", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223947, 
+  "creation_date": "1878", 
+  "materials": "watercolor and gouache on blue paper", 
+  "actors": [
+    {
+      "name": "Ward, William II", 
+      "after_follower": null, 
+      "death_date": "1908", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295671, 
+      "role": "Artist", 
+      "birth_date": "1829", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33384, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

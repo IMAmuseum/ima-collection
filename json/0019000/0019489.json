@@ -1,26 +1,30 @@
 {
-    "accession_number": "33.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1873", 
-            "death_date": "1958", 
-            "name": "Pears, Charles", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1917", 
-    "credit_line": "Anonymous Gift", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19489, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Maintaining Oversea Forces"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Anonymous Gift", 
+  "accession_number": "33.17", 
+  "title": "Maintaining Oversea Forces", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191725, 
+  "creation_date": "1917", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Pears, Charles", 
+      "after_follower": null, 
+      "death_date": "1958", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300793, 
+      "role": "Artist", 
+      "birth_date": "1873", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19489, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

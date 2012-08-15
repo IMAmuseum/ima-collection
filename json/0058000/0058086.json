@@ -1,30 +1,34 @@
 {
-    "accession_number": "2002.73", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "9th month 1861", 
-    "credit_line": "Gift of Jerry Vegder in honor of John Teramoto", 
-    "cultures": [], 
-    "dimensions": "14 1/8 x 9 5/8 in.", 
-    "dynasty": null, 
-    "irn": 58086, 
-    "materials": "color woodcut print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tsujioka-ya Bunsuke"
-        }
-    ], 
-    "rights": null, 
-    "title": "Nakamura Shikan in the role of the Fox Kuzunoha (Kuzunoha kitsune)"
+  "publishers": [
+    {
+      "name": "Tsujioka-ya Bunsuke"
+    }
+  ], 
+  "dimensions": "14 1/8 x 9 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Jerry Vegder in honor of John Teramoto", 
+  "accession_number": "2002.73", 
+  "title": "Nakamura Shikan in the role of the Fox Kuzunoha (Kuzunoha kitsune)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18275011, 
+  "creation_date": "9th month 1861", 
+  "materials": "color woodcut print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 58086, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

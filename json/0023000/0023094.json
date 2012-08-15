@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.37", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1858", 
-            "name": "Suzuki Kiitsu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1796-1858", 
-    "credit_line": "Mr. and Mrs. Richard Crane Fund", 
-    "cultures": [], 
-    "dimensions": "35 3/16 x 11 1/4 in. (image)\n65 3/4 x 17 1/2 in. (overall)", 
-    "dynasty": null, 
-    "irn": 23094, 
-    "materials": "ink, color, and gold on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dog-shaped Box and Painted Clamshells"
+  "publishers": [], 
+  "dimensions": "35 3/16 x 11 1/4 in. (image)\n65 3/4 x 17 1/2 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. Richard Crane Fund", 
+  "accession_number": "2000.37", 
+  "title": "Dog-shaped Box and Painted Clamshells", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18199951, 
+  "creation_date": "1796-1858", 
+  "materials": "ink, color, and gold on silk", 
+  "actors": [
+    {
+      "name": "Suzuki Kiitsu", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300009, 
+      "role": "Artist", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23094, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

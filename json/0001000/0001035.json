@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.338", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Wooton Desk Co.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1874-1879", 
-    "credit_line": "Gift of Mrs. Harrison Eiteljorg", 
-    "cultures": [], 
-    "dimensions": "57 3/4 x 40 1/2 x 30 1/4 in.", 
-    "dynasty": null, 
-    "irn": 1035, 
-    "materials": "wood, metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "desk"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "57 3/4 x 40 1/2 x 30 1/4 in.", 
+  "title": "desk", 
+  "accession_number": "77.338", 
+  "credit_line": "Gift of Mrs. Harrison Eiteljorg", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133711, 
+  "creation_date": "1874-1879", 
+  "materials": "wood, metal", 
+  "actors": [
+    {
+      "name": "Wooton Desk Co.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295307, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1035, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

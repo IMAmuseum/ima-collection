@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.969.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1778", 
-            "death_date": "1862", 
-            "name": "Harraden, Richard Banks", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Fry, W.T.", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1819", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38438, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Margaret, Countess of Richmond"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.969.1", 
+  "title": "Margaret, Countess of Richmond", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18236141, 
+  "creation_date": "1819", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Harraden, Richard Banks", 
+      "after_follower": null, 
+      "death_date": "1862", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304085, 
+      "role": "Artist", 
+      "birth_date": "1778", 
+      "nationality": null
+    }, 
+    {
+      "name": "Fry, W.T.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304317, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 38438, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

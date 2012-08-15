@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.718.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1773", 
-            "death_date": "1857", 
-            "name": "Charles Turner", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "June 10, 1808", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "11 13/16 x 17 1/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 3529, 
-    "materials": "mezzotint over etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Pembury Mill, Kent"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "11 13/16 x 17 1/16 in. (sheet)", 
+  "title": "Pembury Mill, Kent", 
+  "accession_number": "80.718.3", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18139653, 
+  "creation_date": "June 10, 1808", 
+  "materials": "mezzotint over etching", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Charles Turner", 
+      "after_follower": null, 
+      "death_date": "1857", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295011, 
+      "role": "Engraver", 
+      "birth_date": "1773", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3529, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

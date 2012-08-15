@@ -1,26 +1,30 @@
 {
-    "accession_number": "48.111", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Tischbein, Johann Heinrich Wilhelm", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1791", 
-    "credit_line": "Gift of Albert Zoller", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 27233, 
-    "materials": "hand-colored engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Greek vase painting"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Albert Zoller", 
+  "accession_number": "48.111", 
+  "title": "Greek vase painting", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18209567, 
+  "creation_date": "about 1791", 
+  "materials": "hand-colored engraving", 
+  "actors": [
+    {
+      "name": "Tischbein, Johann Heinrich Wilhelm", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300865, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 27233, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

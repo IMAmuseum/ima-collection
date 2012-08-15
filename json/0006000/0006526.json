@@ -1,30 +1,34 @@
 {
-    "accession_number": "09.244", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1804", 
-            "death_date": "1880", 
-            "name": "Cousen, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1850", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": "12 1/2 x 18 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 6526, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Robinson and Hernaman"
-        }
-    ], 
-    "rights": null, 
-    "title": "View of Leeds"
+  "publishers": [
+    {
+      "name": "Robinson and Hernaman"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "12 1/2 x 18 3/8 in. (sheet)", 
+  "title": "View of Leeds", 
+  "accession_number": "09.244", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18146739, 
+  "creation_date": "about 1850", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Cousen, John", 
+      "after_follower": null, 
+      "death_date": "1880", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296901, 
+      "role": "Artist", 
+      "birth_date": "1804", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6526, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

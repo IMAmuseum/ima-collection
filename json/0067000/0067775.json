@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.361", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1956", 
-            "death_date": "2005", 
-            "name": "Maarten van Severen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Vitra AG", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Gift of Vitra, Switzerland", 
-    "cultures": [], 
-    "dimensions": "31 1/8 x 17 x 19 1/2 in.", 
-    "dynasty": null, 
-    "irn": 67775, 
-    "materials": "polyurethane, steel, and aluminum", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Maarten Van Severen", 
-    "title": "No. 3 chair (red)"
+  "publishers": [], 
+  "dimensions": "31 1/8 x 17 x 19 1/2 in.", 
+  "rights": "\u00a9 Maarten Van Severen", 
+  "credit_line": "Gift of Vitra, Switzerland", 
+  "accession_number": "2009.361", 
+  "title": "No. 3 chair (red)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282987, 
+  "creation_date": "1998", 
+  "materials": "polyurethane, steel, and aluminum", 
+  "actors": [
+    {
+      "name": "Maarten van Severen", 
+      "after_follower": null, 
+      "death_date": "2005", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307171, 
+      "role": "Designer", 
+      "birth_date": "1956", 
+      "nationality": null
+    }, 
+    {
+      "name": "Vitra AG", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306781, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67775, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,33 +1,37 @@
 {
-    "accession_number": "2008.764", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1988", 
-            "name": "Hayter, Stanley William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1946", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "5 1/2 x 3 1/2 in. (image)\n7 1/2 x 10 in. (sheet - unfolded)", 
-    "dynasty": null, 
-    "irn": 66700, 
-    "materials": "engraving on cream laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Hayter, Stanley William"
-        }, 
-        {
-            "name": "Atelier 17"
-        }
-    ], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Greeting Card 1946-1947"
+  "publishers": [], 
+  "dimensions": "5 1/2 x 3 1/2 in. (image)\n7 1/2 x 10 in. (sheet - unfolded)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2008.764", 
+  "title": "Greeting Card 1946-1947", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18281127, 
+  "creation_date": "1946", 
+  "materials": "engraving on cream laid paper", 
+  "actors": [
+    {
+      "name": "Hayter, Stanley William", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295123, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 66700, 
+  "printers": [
+    {
+      "name": "Hayter, Stanley William"
+    }, 
+    {
+      "name": "Atelier 17"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

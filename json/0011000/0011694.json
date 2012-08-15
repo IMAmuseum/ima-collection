@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.116", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1707", 
-            "death_date": "1783", 
-            "name": "Le Bas, Jacques Philippe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brown and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11694, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Blanchisserie, Xe Veue de Flandre"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Blanchisserie, Xe Veue de Flandre", 
+  "accession_number": "09.116", 
+  "credit_line": "Gift of Mrs. Anna J. Brown and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18159019, 
+  "creation_date": "18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Le Bas, Jacques Philippe", 
+      "after_follower": null, 
+      "death_date": "1783", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298907, 
+      "role": "Artist", 
+      "birth_date": "1707", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11694, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

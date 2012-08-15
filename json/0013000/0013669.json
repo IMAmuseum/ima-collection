@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.210", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1875", 
-            "name": "Jean-Baptiste-Camille Corot", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1869", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13669, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dans les Dunes: Souvenir du Bois de La Haye"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Dans les Dunes: Souvenir du Bois de La Haye", 
+  "accession_number": "32.210", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163897, 
+  "creation_date": "1869", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Jean-Baptiste-Camille Corot", 
+      "after_follower": null, 
+      "death_date": "1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299393, 
+      "role": "Artist", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13669, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

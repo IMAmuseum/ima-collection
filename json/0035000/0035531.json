@@ -1,26 +1,30 @@
 {
-    "accession_number": "1993.102", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1913", 
-            "death_date": "2004", 
-            "name": "Fred Becker", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1947", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant, Miss Joan D. Weisenberger and Jack and Penny Weldon", 
-    "cultures": [], 
-    "dimensions": "11 1/8 x 19 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 35531, 
-    "materials": "soft-ground etching | aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Nautical Machine"
+  "publishers": [], 
+  "dimensions": "11 1/8 x 19 1/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant, Miss Joan D. Weisenberger and Jack and Penny Weldon", 
+  "accession_number": "1993.102", 
+  "title": "Nautical Machine", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18228841, 
+  "creation_date": "1947", 
+  "materials": "soft-ground etching | aquatint", 
+  "actors": [
+    {
+      "name": "Fred Becker", 
+      "after_follower": null, 
+      "death_date": "2004", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299907, 
+      "role": "Artist", 
+      "birth_date": "1913", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35531, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

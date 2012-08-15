@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.48", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1755", 
-            "death_date": "1826", 
-            "name": "Flaxman, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1792-1793", 
-    "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
-    "cultures": [], 
-    "dimensions": "6 1/4 x 9 in.", 
-    "dynasty": null, 
-    "irn": 6556, 
-    "materials": "pen and ink over graphite on white wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ulysses at the Table of Circe"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 1/4 x 9 in.", 
+  "title": "Ulysses at the Table of Circe", 
+  "accession_number": "47.48", 
+  "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18146807, 
+  "creation_date": "1792-1793", 
+  "materials": "pen and ink over graphite on white wove paper", 
+  "actors": [
+    {
+      "name": "Flaxman, John", 
+      "after_follower": null, 
+      "death_date": "1826", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296581, 
+      "role": "Artist", 
+      "birth_date": "1755", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6556, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

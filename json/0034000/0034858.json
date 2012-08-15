@@ -1,26 +1,30 @@
 {
-    "accession_number": "12.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1950", 
-            "name": "Hurley, Edward Timothy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1911", 
-    "credit_line": "Gift of the Artist", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34858, 
-    "materials": "etching and platetone", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Artist", 
+  "accession_number": "12.11", 
+  "title": "Landscape", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227339, 
+  "creation_date": "1911", 
+  "materials": "etching and platetone", 
+  "actors": [
+    {
+      "name": "Hurley, Edward Timothy", 
+      "after_follower": null, 
+      "death_date": "1950", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295007, 
+      "role": "Artist", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34858, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

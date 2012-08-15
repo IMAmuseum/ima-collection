@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.258", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1969", 
-            "name": "Crane, Alan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Lucy M. Taggart Estate", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13125, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Toluca Market"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Toluca Market", 
+  "accession_number": "60.258", 
+  "credit_line": "Lucy M. Taggart Estate", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162637, 
+  "creation_date": "20th century", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Crane, Alan", 
+      "after_follower": null, 
+      "death_date": "1969", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299243, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13125, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

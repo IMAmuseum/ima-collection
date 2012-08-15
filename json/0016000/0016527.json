@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.115", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1471", 
-            "death_date": "1528", 
-            "name": "D\u00fcrer, Albrecht", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1475-1625", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "144 x 120 in.", 
-    "dynasty": null, 
-    "irn": 16527, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Triumphal Arch of Emperor Maximilian I"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "144 x 120 in.", 
+  "title": "Triumphal Arch of Emperor Maximilian I", 
+  "accession_number": "74.115", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170861, 
+  "creation_date": "1475-1625", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "D\u00fcrer, Albrecht", 
+      "after_follower": null, 
+      "death_date": "1528", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297251, 
+      "role": "Artist", 
+      "birth_date": "1471", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16527, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

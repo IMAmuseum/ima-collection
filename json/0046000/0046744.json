@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.307W", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1730", 
-            "death_date": "1817", 
-            "name": "Hancock, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Borwnell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46744, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Occupation of the Holy Family"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Borwnell", 
+  "accession_number": "09.307W", 
+  "title": "The Occupation of the Holy Family", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18257239, 
+  "creation_date": "18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Hancock, Robert", 
+      "after_follower": null, 
+      "death_date": "1817", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299023, 
+      "role": "Artist", 
+      "birth_date": "1730", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46744, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

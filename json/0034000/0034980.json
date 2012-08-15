@@ -1,30 +1,34 @@
 {
-    "accession_number": "30.374", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1728", 
-            "death_date": "1750", 
-            "name": "Parr, Remi or Remigius", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1751", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34980, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Sayer, Robert"
-        }
-    ], 
-    "rights": null, 
-    "title": "Royal Palace of Windsor"
+  "publishers": [
+    {
+      "name": "Sayer, Robert"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "accession_number": "30.374", 
+  "title": "Royal Palace of Windsor", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227609, 
+  "creation_date": "1751", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Parr, Remi or Remigius", 
+      "after_follower": null, 
+      "death_date": "1750", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301331, 
+      "role": "Artist", 
+      "birth_date": "1728", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34980, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

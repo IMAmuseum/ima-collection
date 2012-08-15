@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.108", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1909", 
-            "death_date": null, 
-            "name": "Kainen, Jacob", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1974", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35045, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Flagman"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "75.108", 
+  "title": "Flagman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227753, 
+  "creation_date": "1974", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Kainen, Jacob", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296005, 
+      "role": "Artist", 
+      "birth_date": "1909", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35045, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

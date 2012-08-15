@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.393", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1899", 
-            "name": "Toudouze, Anais", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4002, 
-    "materials": "hand-colored etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fashion Plate"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Fashion Plate", 
+  "accession_number": "30.393", 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140785, 
+  "creation_date": "19th century", 
+  "materials": "hand-colored etching", 
+  "actors": [
+    {
+      "name": "Toudouze, Anais", 
+      "after_follower": null, 
+      "death_date": "1899", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296643, 
+      "role": "Artist", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4002, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

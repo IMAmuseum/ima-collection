@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.77", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1944", 
-            "death_date": null, 
-            "name": "Anatsui, El", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "30 x 25 x 1/2 in.", 
-    "dynasty": null, 
-    "irn": 1173, 
-    "materials": "wood, paint, varnish", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 El Anatsui", 
-    "title": "Sacred Comb"
+  "publishers": [], 
+  "rights": "\u00a9 El Anatsui", 
+  "dimensions": "30 x 25 x 1/2 in.", 
+  "title": "Sacred Comb", 
+  "accession_number": "1999.77", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134035, 
+  "creation_date": "1992", 
+  "materials": "wood, paint, varnish", 
+  "actors": [
+    {
+      "name": "Anatsui, El", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295387, 
+      "role": "Artist", 
+      "birth_date": "1944", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1173, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

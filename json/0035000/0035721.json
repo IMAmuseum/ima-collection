@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.187", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1836", 
-            "death_date": "1910", 
-            "name": "Homer, Winslow", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1859", 
-    "credit_line": "Gift of Dr. and Mrs. Thomas Kuebler", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35721, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "August in the Country - The Sea-Shore"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. and Mrs. Thomas Kuebler", 
+  "accession_number": "82.187", 
+  "title": "August in the Country - The Sea-Shore", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229257, 
+  "creation_date": "1859", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Homer, Winslow", 
+      "after_follower": null, 
+      "death_date": "1910", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300259, 
+      "role": "Artist", 
+      "birth_date": "1836", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35721, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

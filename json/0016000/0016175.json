@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.330", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1848", 
-            "death_date": "1926", 
-            "name": "Closson, William Baxter Palmer", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of William Baxter Closson, through Doll & Richards, Boston", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16175, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Paolo and Francesca"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Paolo and Francesca", 
+  "accession_number": "13.330", 
+  "credit_line": "Gift of William Baxter Closson, through Doll & Richards, Boston", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169929, 
+  "creation_date": "19th century", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Closson, William Baxter Palmer", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297961, 
+      "role": "Artist", 
+      "birth_date": "1848", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16175, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

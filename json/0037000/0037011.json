@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.217", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1592", 
-            "death_date": "1635", 
-            "name": "Callot, Jacques", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37011, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "La Carriere de Nancy"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "55.217", 
+  "title": "La Carriere de Nancy", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232293, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Callot, Jacques", 
+      "after_follower": null, 
+      "death_date": "1635", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295121, 
+      "role": "Artist", 
+      "birth_date": "1592", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37011, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

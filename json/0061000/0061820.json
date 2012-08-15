@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.2A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Samuel Coleridge", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1908", 
-    "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
-    "cultures": [], 
-    "dimensions": "7 x 4 1/2 in. (each)", 
-    "dynasty": null, 
-    "irn": 61820, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "George Bell & Sons"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Poetical Works of Samuel Taylor Coleridge (volumes 1-2)"
+  "publishers": [
+    {
+      "name": "George Bell & Sons"
+    }
+  ], 
+  "dimensions": "7 x 4 1/2 in. (each)", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
+  "accession_number": "LH2003.2A-B", 
+  "title": "The Poetical Works of Samuel Taylor Coleridge (volumes 1-2)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277261, 
+  "creation_date": "1908", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Samuel Coleridge", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306085, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61820, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

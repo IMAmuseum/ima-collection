@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.52", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1632", 
-            "death_date": "1705", 
-            "name": "Giordano, Luca", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1700", 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "46 5/8 x 54 1/4 in.", 
-    "dynasty": null, 
-    "irn": 31888, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Dream of St. Joseph"
+  "publishers": [], 
+  "dimensions": "46 5/8 x 54 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "accession_number": "77.52", 
+  "title": "The Dream of St. Joseph", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220405, 
+  "creation_date": "about 1700", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Giordano, Luca", 
+      "after_follower": null, 
+      "death_date": "1705", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303139, 
+      "role": "Artist", 
+      "birth_date": "1632", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31888, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

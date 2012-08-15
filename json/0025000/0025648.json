@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.35", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1711", 
-            "death_date": "1779", 
-            "name": "Punt, Jan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1743", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25648, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Pharoah on his Sickbed ('T Ziekbed Van Farao)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.35", 
+  "title": "Pharoah on his Sickbed ('T Ziekbed Van Farao)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205839, 
+  "creation_date": "1743", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Punt, Jan", 
+      "after_follower": null, 
+      "death_date": "1779", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296357, 
+      "role": "Artist", 
+      "birth_date": "1711", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25648, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

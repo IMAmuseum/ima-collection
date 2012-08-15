@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.82", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1967", 
-            "death_date": null, 
-            "name": "Sonya Clark", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Mr. and Mrs. Richard Crane Fund", 
-    "cultures": [], 
-    "dimensions": "10 x 12 x 3/4 in.", 
-    "dynasty": null, 
-    "irn": 59993, 
-    "materials": "polyester fabric, brass, glass beads", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Sonya Clark", 
-    "title": "Osun"
+  "publishers": [], 
+  "dimensions": "10 x 12 x 3/4 in.", 
+  "rights": "\u00a9 Sonya Clark", 
+  "credit_line": "Mr. and Mrs. Richard Crane Fund", 
+  "accession_number": "2002.82", 
+  "title": "Osun", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276265, 
+  "creation_date": "2000", 
+  "materials": "polyester fabric, brass, glass beads", 
+  "actors": [
+    {
+      "name": "Sonya Clark", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305749, 
+      "role": "Artist", 
+      "birth_date": "1967", 
+      "nationality": null
+    }
+  ], 
+  "irn": 59993, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

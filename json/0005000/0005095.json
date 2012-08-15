@@ -1,26 +1,30 @@
 {
-    "accession_number": "54.52", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1959", 
-            "name": "Wayman Adams", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Dr. T. Victor Keene", 
-    "cultures": [], 
-    "dimensions": "51 7/8 x 39 3/4 in.\n58 1/2 x 46 in. (framed)", 
-    "dynasty": null, 
-    "irn": 5095, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Richard Smith"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "51 7/8 x 39 3/4 in.\n58 1/2 x 46 in. (framed)", 
+  "title": "Portrait of Richard Smith", 
+  "accession_number": "54.52", 
+  "credit_line": "Gift of Dr. T. Victor Keene", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143333, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Wayman Adams", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296333, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5095, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

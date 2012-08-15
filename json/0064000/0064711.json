@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.518", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1967", 
-            "death_date": null, 
-            "name": "Richard Hutten", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Droog Design", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1994", 
-    "credit_line": "Gift of Abel and Boris Hutten", 
-    "cultures": [], 
-    "dimensions": "29 15/16 \u00d7 47 1/8 \u00d7 78 7/8 in.", 
-    "dynasty": null, 
-    "irn": 64711, 
-    "materials": "maple and polyurethane", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Richard Hutten", 
-    "title": "The Cross bench seat"
+  "publishers": [], 
+  "dimensions": "29 15/16 \u00d7 47 1/8 \u00d7 78 7/8 in.", 
+  "rights": "\u00a9 Richard Hutten", 
+  "credit_line": "Gift of Abel and Boris Hutten", 
+  "accession_number": "2009.518", 
+  "title": "The Cross bench seat", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279227, 
+  "creation_date": "1994", 
+  "materials": "maple and polyurethane", 
+  "actors": [
+    {
+      "name": "Richard Hutten", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306987, 
+      "role": "Designer", 
+      "birth_date": "1967", 
+      "nationality": null
+    }, 
+    {
+      "name": "Droog Design", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306817, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64711, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

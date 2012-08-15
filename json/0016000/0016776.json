@@ -1,30 +1,34 @@
 {
-    "accession_number": "69.54", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": null, 
-            "name": "Bontecou, Lee", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1965-1968", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": "20 x 25 in.", 
-    "dynasty": null, 
-    "irn": 16776, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Universal Limited Art Editions"
-        }
-    ], 
-    "rights": "\u00a9 Lee Bontecou / Courtesy Knoedler & Company, New York", 
-    "title": "Ninth Stone"
+  "publishers": [
+    {
+      "name": "Universal Limited Art Editions"
+    }
+  ], 
+  "dimensions": "20 x 25 in.", 
+  "rights": "\u00a9 Lee Bontecou / Courtesy Knoedler & Company, New York", 
+  "credit_line": "Delavan Smith Fund", 
+  "accession_number": "69.54", 
+  "title": "Ninth Stone", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171461, 
+  "creation_date": "1965-1968", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Bontecou, Lee", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300257, 
+      "role": "Artist", 
+      "birth_date": "1931", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16776, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

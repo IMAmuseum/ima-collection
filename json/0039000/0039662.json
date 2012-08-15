@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1236.37", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1755", 
-            "death_date": "1834", 
-            "name": "Stothard, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1830", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 39662, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Nun"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1236.37", 
+  "title": "The Nun", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18239631, 
+  "creation_date": "1830", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Stothard, Thomas", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304505, 
+      "role": "Artist", 
+      "birth_date": "1755", 
+      "nationality": null
+    }
+  ], 
+  "irn": 39662, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

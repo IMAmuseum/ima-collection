@@ -1,42 +1,50 @@
 {
-    "accession_number": "2008.333", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": "2004", 
-            "name": "Gianfranco Frattini", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1911", 
-            "death_date": "1979", 
-            "name": "Livio Castiglioni", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Artemide S.p.A.", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1969-1970", 
-    "credit_line": "The Liliane and David M. Stewart Collection", 
-    "cultures": [], 
-    "dimensions": "74 13/16 x 2 13/16 x 2 13/16 in.", 
-    "dynasty": null, 
-    "irn": 65834, 
-    "materials": "PVC plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gianfranco Frattini \u00a9 Livio Castiglioni", 
-    "title": "Boalum lamp"
+  "publishers": [], 
+  "dimensions": "74 13/16 x 2 13/16 x 2 13/16 in.", 
+  "rights": "\u00a9 Gianfranco Frattini \u00a9 Livio Castiglioni", 
+  "credit_line": "The Liliane and David M. Stewart Collection", 
+  "accession_number": "2008.333", 
+  "title": "Boalum lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280601, 
+  "creation_date": "1969-1970", 
+  "materials": "PVC plastic", 
+  "actors": [
+    {
+      "name": "Gianfranco Frattini", 
+      "after_follower": null, 
+      "death_date": "2004", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307441, 
+      "role": "Designer", 
+      "birth_date": "1926", 
+      "nationality": null
+    }, 
+    {
+      "name": "Livio Castiglioni", 
+      "after_follower": null, 
+      "death_date": "1979", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307443, 
+      "role": "Designer", 
+      "birth_date": "1911", 
+      "nationality": null
+    }, 
+    {
+      "name": "Artemide S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300503, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65834, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }
