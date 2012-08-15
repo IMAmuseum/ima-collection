@@ -1,26 +1,30 @@
 {
-    "accession_number": "1993.17A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1958", 
-            "death_date": null, 
-            "name": "Balka, Miroslaw", 
-            "nationality": "Polish", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1991", 
-    "credit_line": "Henry F. and Katharine D. DeBoest Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37267, 
-    "materials": "steel, sponge and salt water crystals", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Miroslaw Balka", 
-    "title": "\"23 x 11 x 11; 2.5 x 2.5 x 6.5\""
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Miroslaw Balka", 
+  "credit_line": "Henry F. and Katharine D. DeBoest Memorial Fund", 
+  "accession_number": "1993.17A-B", 
+  "title": "\"23 x 11 x 11; 2.5 x 2.5 x 6.5\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232889, 
+  "creation_date": "1991", 
+  "materials": "steel, sponge and salt water crystals", 
+  "actors": [
+    {
+      "name": "Balka, Miroslaw", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304029, 
+      "role": "Artist", 
+      "birth_date": "1958", 
+      "nationality": "Polish"
+    }
+  ], 
+  "irn": 37267, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

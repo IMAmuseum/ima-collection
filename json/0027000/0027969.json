@@ -1,30 +1,34 @@
 {
-    "accession_number": "24.330", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Anonymous", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th Century/4TH QUARTER", 
-    "credit_line": "Gift of teh Children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 27969, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Cadart, Alfred"
-        }
-    ], 
-    "rights": null, 
-    "title": "Mon Habitation Pendant La Guerre"
+  "publishers": [
+    {
+      "name": "Cadart, Alfred"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of teh Children of Thomas E. Hibben", 
+  "accession_number": "24.330", 
+  "title": "Mon Habitation Pendant La Guerre", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211305, 
+  "creation_date": "19th Century/4TH QUARTER", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Anonymous", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297005, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 27969, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

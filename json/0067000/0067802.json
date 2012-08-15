@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.519A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1929", 
-            "death_date": null, 
-            "name": "Gehry, Frank Owen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Alessi S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "9 1/4 x 10 in.", 
-    "dynasty": null, 
-    "irn": 67802, 
-    "materials": "stainless steel and mahogany", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Frank Owen Gehry", 
-    "title": "Pito tea kettle"
+  "publishers": [], 
+  "dimensions": "9 1/4 x 10 in.", 
+  "rights": "\u00a9 Frank Owen Gehry", 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2009.519A-B", 
+  "title": "Pito tea kettle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283015, 
+  "creation_date": "1992", 
+  "materials": "stainless steel and mahogany", 
+  "actors": [
+    {
+      "name": "Gehry, Frank Owen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307293, 
+      "role": "Designer", 
+      "birth_date": "1929", 
+      "nationality": null
+    }, 
+    {
+      "name": "Alessi S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304005, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67802, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

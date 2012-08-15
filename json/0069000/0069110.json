@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.257", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1956", 
-            "death_date": "2005", 
-            "name": "Maarten van Severen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Target Lighting", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1996", 
-    "credit_line": "Gift of David A. Hanks", 
-    "cultures": [], 
-    "dimensions": "H: 48 3/4 in.\nL: 24 in. (extended arm and hood)", 
-    "dynasty": null, 
-    "irn": 69110, 
-    "materials": "anodized aluminum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Maarten Van Severen", 
-    "title": "U-Line ST11A floor lamp"
+  "publishers": [], 
+  "dimensions": "H: 48 3/4 in.\nL: 24 in. (extended arm and hood)", 
+  "rights": "\u00a9 Maarten Van Severen", 
+  "credit_line": "Gift of David A. Hanks", 
+  "accession_number": "2010.257", 
+  "title": "U-Line ST11A floor lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284133, 
+  "creation_date": "1996", 
+  "materials": "anodized aluminum", 
+  "actors": [
+    {
+      "name": "Maarten van Severen", 
+      "after_follower": null, 
+      "death_date": "2005", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307171, 
+      "role": "Designer", 
+      "birth_date": "1956", 
+      "nationality": null
+    }, 
+    {
+      "name": "Target Lighting", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308163, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69110, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

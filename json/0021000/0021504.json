@@ -1,26 +1,30 @@
 {
-    "accession_number": "62.195", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1832", 
-            "death_date": "1883", 
-            "name": "Manet, Edouard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1864", 
-    "credit_line": "Carl H. Lieber Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 21504, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Torero Mort"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Fund", 
+  "accession_number": "62.195", 
+  "title": "Le Torero Mort", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18196283, 
+  "creation_date": "1864", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Manet, Edouard", 
+      "after_follower": null, 
+      "death_date": "1883", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297419, 
+      "role": "Artist", 
+      "birth_date": "1832", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21504, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

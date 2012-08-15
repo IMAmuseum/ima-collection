@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.57.1-.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "J\u00e1nos Megyik", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Amboss", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "A) teaspoon: 15/16 x 5 7/8 x 1 1/16 in. \nB-D) knives: 15/16 x 8 5/8 x 1 in. (each)                                                          E) spoon: 1 1/8 x 7 3/8 x 1 3/8 in.                                                    F) butter knife: 1/4 x 4 5/16 x 9/16 in.", 
-    "dynasty": null, 
-    "irn": 68782, 
-    "materials": "18/8 stainless steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "7000 flatware"
+  "publishers": [], 
+  "dimensions": "A) teaspoon: 15/16 x 5 7/8 x 1 1/16 in. \nB-D) knives: 15/16 x 8 5/8 x 1 in. (each)                                                          E) spoon: 1 1/8 x 7 3/8 x 1 3/8 in.                                                    F) butter knife: 1/4 x 4 5/16 x 9/16 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2011.57.1-.6", 
+  "title": "7000 flatware", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283703, 
+  "creation_date": "1970", 
+  "materials": "18/8 stainless steel", 
+  "actors": [
+    {
+      "name": "J\u00e1nos Megyik", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307931, 
+      "role": "Designer", 
+      "birth_date": "1938", 
+      "nationality": null
+    }, 
+    {
+      "name": "Amboss", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307933, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68782, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

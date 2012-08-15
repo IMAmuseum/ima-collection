@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.324", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1783-1852", 
-            "death_date": "1783-1852", 
-            "name": "Prout, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Presented by the H. Lieber Company", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7709, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hotel de Ville, Cologne"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Hotel de Ville, Cologne", 
+  "accession_number": "13.324", 
+  "credit_line": "Presented by the H. Lieber Company", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149565, 
+  "creation_date": "19th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Prout, Samuel", 
+      "after_follower": null, 
+      "death_date": "1783-1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295339, 
+      "role": "Artist", 
+      "birth_date": "1783-1852", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7709, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

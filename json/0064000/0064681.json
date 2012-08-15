@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.363", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1959", 
-            "death_date": null, 
-            "name": "Thomas Eriksson", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "IKEA", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1995", 
-    "credit_line": "Gift of Thomas Eriksson Architects", 
-    "cultures": [], 
-    "dimensions": "18 1/2 \u00d7 11 \u00d7 5 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64681, 
-    "materials": "plastic and metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Thomas Eriksson", 
-    "title": "PS clock"
+  "publishers": [], 
+  "dimensions": "18 1/2 \u00d7 11 \u00d7 5 1/2 in.", 
+  "rights": "\u00a9 Thomas Eriksson", 
+  "credit_line": "Gift of Thomas Eriksson Architects", 
+  "accession_number": "2009.363", 
+  "title": "PS clock", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279193, 
+  "creation_date": "1995", 
+  "materials": "plastic and metal", 
+  "actors": [
+    {
+      "name": "Thomas Eriksson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306917, 
+      "role": "Designer", 
+      "birth_date": "1959", 
+      "nationality": null
+    }, 
+    {
+      "name": "IKEA", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306921, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64681, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

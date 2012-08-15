@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.513", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1957", 
-            "death_date": null, 
-            "name": "Bjorn Dahlstrom", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Iittala", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Gift of Iittala", 
-    "cultures": [], 
-    "dimensions": "2 3/8 x 16 1/8 x 14 5/8 in.", 
-    "dynasty": null, 
-    "irn": 67653, 
-    "materials": "steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Bjorn Dahlstrom", 
-    "title": "Dahlstr\u00f6m 98 roasting pan"
+  "publishers": [], 
+  "dimensions": "2 3/8 x 16 1/8 x 14 5/8 in.", 
+  "rights": "\u00a9 Bjorn Dahlstrom", 
+  "credit_line": "Gift of Iittala", 
+  "accession_number": "2009.513", 
+  "title": "Dahlstr\u00f6m 98 roasting pan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282921, 
+  "creation_date": "1998", 
+  "materials": "steel", 
+  "actors": [
+    {
+      "name": "Bjorn Dahlstrom", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306871, 
+      "role": "Designer", 
+      "birth_date": "1957", 
+      "nationality": null
+    }, 
+    {
+      "name": "Iittala", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306847, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67653, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

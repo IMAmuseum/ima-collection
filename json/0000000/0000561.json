@@ -1,30 +1,34 @@
 {
-    "accession_number": "32.153", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1963", 
-            "name": "Braque, Georges", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1921", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": "8 x 15 1/2 in. (image)", 
-    "dynasty": null, 
-    "irn": 561, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "D.H. Kahnweiler, Paris"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Nature Morte III: Verre et Fruits (Still Life III: Glass and Fruit)"
+  "publishers": [
+    {
+      "name": "D.H. Kahnweiler, Paris"
+    }
+  ], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": "8 x 15 1/2 in. (image)", 
+  "title": "Nature Morte III: Verre et Fruits (Still Life III: Glass and Fruit)", 
+  "accession_number": "32.153", 
+  "credit_line": "Gift of the Gamboliers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132529, 
+  "creation_date": "1921", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Braque, Georges", 
+      "after_follower": null, 
+      "death_date": "1963", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295043, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 561, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

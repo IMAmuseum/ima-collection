@@ -1,26 +1,30 @@
 {
-    "accession_number": "21.130", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1862", 
-            "death_date": "1950", 
-            "name": "Proctor, Alexander Phimister", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1912", 
-    "credit_line": "General Fund", 
-    "cultures": [], 
-    "dimensions": "13 H", 
-    "dynasty": null, 
-    "irn": 13382, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The 'Q' Street Buffalo"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 H", 
+  "title": "The 'Q' Street Buffalo", 
+  "accession_number": "21.130", 
+  "credit_line": "General Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163217, 
+  "creation_date": "1912", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Proctor, Alexander Phimister", 
+      "after_follower": null, 
+      "death_date": "1950", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299307, 
+      "role": "Artist", 
+      "birth_date": "1862", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13382, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

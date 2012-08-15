@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.796A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1806", 
-            "death_date": "1849", 
-            "name": "Scott, David", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1826", 
-    "credit_line": "Gift of Mr. Larimore Wickett", 
-    "cultures": [], 
-    "dimensions": "A: 46 x 70 7/8 in. \nB: 12 1/2 x 70 7/8 in.", 
-    "dynasty": null, 
-    "irn": 19941, 
-    "materials": "oil on wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "King Richard II"
+  "publishers": [], 
+  "dimensions": "A: 46 x 70 7/8 in. \nB: 12 1/2 x 70 7/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. Larimore Wickett", 
+  "accession_number": "81.796A-B", 
+  "title": "King Richard II", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192757, 
+  "creation_date": "1826", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Scott, David", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300873, 
+      "role": "Artist", 
+      "birth_date": "1806", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19941, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

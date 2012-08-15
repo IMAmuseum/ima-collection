@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.14", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "June 1858", 
-    "credit_line": "Mr. and Mrs. Theodore P. Van Vorhees Art Fund", 
-    "cultures": [], 
-    "dimensions": "14 3/8 x 19 5/8 in.", 
-    "dynasty": null, 
-    "irn": 60384, 
-    "materials": "color woodcut", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chapter 10, Under the Cherry Blossoms (Hana no en)"
+  "publishers": [], 
+  "dimensions": "14 3/8 x 19 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. Theodore P. Van Vorhees Art Fund", 
+  "accession_number": "2003.14", 
+  "title": "Chapter 10, Under the Cherry Blossoms (Hana no en)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18276557, 
+  "creation_date": "June 1858", 
+  "materials": "color woodcut", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60384, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

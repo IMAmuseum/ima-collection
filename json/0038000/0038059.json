@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.825.122", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1812", 
-            "death_date": "1896", 
-            "name": "Le Keux, John Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1864", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38059, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "South Front of Chaplains' Buildings at Christ Church"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.122", 
+  "title": "South Front of Chaplains' Buildings at Christ Church", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235125, 
+  "creation_date": "1864", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Le Keux, John Henry", 
+      "after_follower": null, 
+      "death_date": "1896", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296351, 
+      "role": "Artist", 
+      "birth_date": "1812", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38059, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

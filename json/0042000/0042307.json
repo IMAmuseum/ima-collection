@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1919", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1793", 
-            "death_date": "1867", 
-            "name": "Stanfield, Clarkson", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1817", 
-            "death_date": "1879", 
-            "name": "Chapman, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 42307, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Boat by Dock"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1919", 
+  "title": "Boat by Dock", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18247017, 
+  "creation_date": null, 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Stanfield, Clarkson", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297077, 
+      "role": "Artist", 
+      "birth_date": "1793", 
+      "nationality": null
+    }, 
+    {
+      "name": "Chapman, William", 
+      "after_follower": null, 
+      "death_date": "1879", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304837, 
+      "role": "Engraver", 
+      "birth_date": "1817", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42307, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.48.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1905", 
-            "death_date": "1975", 
-            "name": "Donald Mattison", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Gift of Mr. and Mrs. Weld Coxe", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13039, 
-    "materials": "lithograph on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Summer Siesta"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Summer Siesta", 
+  "accession_number": "70.48.3", 
+  "credit_line": "Gift of Mr. and Mrs. Weld Coxe", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162447, 
+  "creation_date": "20th century", 
+  "materials": "lithograph on paper", 
+  "actors": [
+    {
+      "name": "Donald Mattison", 
+      "after_follower": null, 
+      "death_date": "1975", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295407, 
+      "role": "Artist", 
+      "birth_date": "1905", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13039, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.623A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1972", 
-            "name": "Norell, Norman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1957-1958", 
-    "credit_line": "Gift of Mrs. Edward B. Renner", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25066, 
-    "materials": "wool", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Norman Norell", 
-    "title": "cape suit"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Norman Norell", 
+  "credit_line": "Gift of Mrs. Edward B. Renner", 
+  "accession_number": "80.623A-B", 
+  "title": "cape suit", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204505, 
+  "creation_date": "1957-1958", 
+  "materials": "wool", 
+  "actors": [
+    {
+      "name": "Norell, Norman", 
+      "after_follower": null, 
+      "death_date": "1972", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294959, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25066, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

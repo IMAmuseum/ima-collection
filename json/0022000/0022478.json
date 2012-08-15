@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.798", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Walker, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1771", 
-            "death_date": "1852", 
-            "name": "Storer, James", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1794", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "6 1/16 x 7 7/8 in (plate) \n8 1/8 x 10 3/4 in (sheet)", 
-    "dynasty": null, 
-    "irn": 22478, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rochester"
+  "publishers": [], 
+  "dimensions": "6 1/16 x 7 7/8 in (plate) \n8 1/8 x 10 3/4 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.798", 
+  "title": "Rochester", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18198485, 
+  "creation_date": "1794", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Walker, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298459, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Storer, James", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296431, 
+      "role": "Engraver", 
+      "birth_date": "1771", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22478, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

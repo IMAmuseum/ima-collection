@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.53.5A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1910", 
-            "death_date": "1961", 
-            "name": "Saarinen, Eero", 
-            "nationality": null, 
-            "role": "designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Knoll Associates, Inc.", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "About 1973", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "31 x 25 3/4 x 19 in.", 
-    "dynasty": null, 
-    "irn": 69215, 
-    "materials": "fiberglass, aluminum", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Eero Saarinen \u00a9 Alexander Hayden Girard", 
-    "title": "Tulip Arm Chair (5 of 6)"
+  "publishers": [], 
+  "dimensions": "31 x 25 3/4 x 19 in.", 
+  "rights": "\u00a9 Eero Saarinen \u00a9 Alexander Hayden Girard", 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.53.5A", 
+  "title": "Tulip Arm Chair (5 of 6)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284373, 
+  "creation_date": "About 1973", 
+  "materials": "fiberglass, aluminum", 
+  "actors": [
+    {
+      "name": "Saarinen, Eero", 
+      "after_follower": null, 
+      "death_date": "1961", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297943, 
+      "role": "designer", 
+      "birth_date": "1910", 
+      "nationality": null
+    }, 
+    {
+      "name": "Knoll Associates, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307105, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69215, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.340", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1935", 
-            "death_date": null, 
-            "name": "Bellini, Mario", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Olivetti", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1972-1973", 
-    "credit_line": "Gift of Dorothy and Lee Alig", 
-    "cultures": [], 
-    "dimensions": "A) typewriter: 4 3/4 x 17 9/16 in.\nB) case: 5 3/4 x 18 1/4 in.\nC) cord", 
-    "dynasty": null, 
-    "irn": 66249, 
-    "materials": "plastic and metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Mario Bellini", 
-    "title": "Lexikon 82 typewriter with case"
+  "publishers": [], 
+  "dimensions": "A) typewriter: 4 3/4 x 17 9/16 in.\nB) case: 5 3/4 x 18 1/4 in.\nC) cord", 
+  "rights": "\u00a9 Mario Bellini", 
+  "credit_line": "Gift of Dorothy and Lee Alig", 
+  "accession_number": "2008.340", 
+  "title": "Lexikon 82 typewriter with case", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280801, 
+  "creation_date": "1972-1973", 
+  "materials": "plastic and metal", 
+  "actors": [
+    {
+      "name": "Bellini, Mario", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307523, 
+      "role": "Designer", 
+      "birth_date": "1935", 
+      "nationality": null
+    }, 
+    {
+      "name": "Olivetti", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306881, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 66249, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

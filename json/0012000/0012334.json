@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.739", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Genoves, Juan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1971", 
-    "credit_line": "Gift of Mr. James W. Dye", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12334, 
-    "materials": "aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Moving On"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Moving On", 
+  "accession_number": "79.739", 
+  "credit_line": "Gift of Mr. James W. Dye", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160459, 
+  "creation_date": "1971", 
+  "materials": "aquatint", 
+  "actors": [
+    {
+      "name": "Genoves, Juan", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294727, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 12334, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

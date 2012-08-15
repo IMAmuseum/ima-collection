@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1789", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1825", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "6 x 8 3/8 in. (image)\n12 3/8 x 17 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 13859, 
-    "materials": "mezzotint", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Gloucester Cathedral"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 x 8 3/8 in. (image)\n12 3/8 x 17 1/8 in. (sheet)", 
+  "title": "Gloucester Cathedral", 
+  "accession_number": "80.1789", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164355, 
+  "creation_date": "about 1825", 
+  "materials": "mezzotint", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13859, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

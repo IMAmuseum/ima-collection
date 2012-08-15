@@ -1,34 +1,40 @@
 {
-    "accession_number": "2004.54", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Campbell Soup Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1967", 
-    "credit_line": "Mary and Agnes Wetsell Fund", 
-    "cultures": [], 
-    "dimensions": "L: 37 1/2 in.", 
-    "dynasty": null, 
-    "irn": 61640, 
-    "materials": "paper (80% cellulose, 20% cotton), screenprinted", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Campbell Soup Company", 
-    "title": "paper dress \"Souper\""
+  "publishers": [], 
+  "dimensions": "L: 37 1/2 in.", 
+  "rights": "\u00a9 Campbell Soup Company", 
+  "credit_line": "Mary and Agnes Wetsell Fund", 
+  "accession_number": "2004.54", 
+  "title": "paper dress \"Souper\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277065, 
+  "creation_date": "about 1967", 
+  "materials": "paper (80% cellulose, 20% cotton), screenprinted", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Campbell Soup Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306059, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61640, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.56", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": "2000", 
-            "name": "Baskin, Leonard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Mrs. Booth Tarkington Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45, 
-    "materials": "woodblock prints and etchings", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Leonard Baskin", 
-    "title": null
+  "publishers": [], 
+  "rights": "\u00a9 Leonard Baskin", 
+  "dimensions": null, 
+  "title": null, 
+  "accession_number": "70.56", 
+  "credit_line": "Mrs. Booth Tarkington Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131243, 
+  "creation_date": "1969", 
+  "materials": "woodblock prints and etchings", 
+  "actors": [
+    {
+      "name": "Baskin, Leonard", 
+      "after_follower": null, 
+      "death_date": "2000", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294737, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

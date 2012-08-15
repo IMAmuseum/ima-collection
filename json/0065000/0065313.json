@@ -1,26 +1,30 @@
 {
-    "accession_number": "2008.155", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1971", 
-            "name": "Baumann, Gustave", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1908", 
-    "credit_line": "Gift of Ann Baumann", 
-    "cultures": [], 
-    "dimensions": "6 3/4 x 7 1/4 in. (image)\n10 7/8 x 9 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 65313, 
-    "materials": "color linocut on Japan paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gustave Baumann", 
-    "title": "Chicago Northwest"
+  "publishers": [], 
+  "dimensions": "6 3/4 x 7 1/4 in. (image)\n10 7/8 x 9 1/2 in. (sheet)", 
+  "rights": "\u00a9 Gustave Baumann", 
+  "credit_line": "Gift of Ann Baumann", 
+  "accession_number": "2008.155", 
+  "title": "Chicago Northwest", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279945, 
+  "creation_date": "1908", 
+  "materials": "color linocut on Japan paper", 
+  "actors": [
+    {
+      "name": "Baumann, Gustave", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295839, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 65313, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

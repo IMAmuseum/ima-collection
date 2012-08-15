@@ -1,26 +1,30 @@
 {
-    "accession_number": "64.30", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1765", 
-            "death_date": "1815", 
-            "name": "Robert Fulton", 
-            "nationality": "  ", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1805", 
-    "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
-    "cultures": [], 
-    "dimensions": "36 x 28 1/2 in.\n45 x 35 in. (framed)", 
-    "dynasty": null, 
-    "irn": 32335, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Joel Barlow"
+  "publishers": [], 
+  "dimensions": "36 x 28 1/2 in.\n45 x 35 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
+  "accession_number": "64.30", 
+  "title": "Portrait of Joel Barlow", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221423, 
+  "creation_date": "1805", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Robert Fulton", 
+      "after_follower": null, 
+      "death_date": "1815", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303211, 
+      "role": "Artist", 
+      "birth_date": "1765", 
+      "nationality": "  "
+    }
+  ], 
+  "irn": 32335, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.769", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1903", 
-            "death_date": "1975", 
-            "name": "Hepworth, Barbara", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Mr. Mark Jacobson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25428, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Bowness, Hepworth Estate", 
-    "title": "Orchid"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Bowness, Hepworth Estate", 
+  "credit_line": "Gift of Mr. Mark Jacobson", 
+  "accession_number": "79.769", 
+  "title": "Orchid", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205331, 
+  "creation_date": "1970", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Hepworth, Barbara", 
+      "after_follower": null, 
+      "death_date": "1975", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295227, 
+      "role": "Artist", 
+      "birth_date": "1903", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25428, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

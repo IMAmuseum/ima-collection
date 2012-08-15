@@ -1,26 +1,30 @@
 {
-    "accession_number": "19.173A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Copeland-Spode Works, Stoke-on-Trent", 
-            "nationality": "English", 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Edward F. Hodges", 
-    "cultures": [], 
-    "dimensions": "H: 4 3/4 in.", 
-    "dynasty": null, 
-    "irn": 30508, 
-    "materials": "earthenware, glaze", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "teapot"
+  "publishers": [], 
+  "dimensions": "H: 4 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Edward F. Hodges", 
+  "accession_number": "19.173A-B", 
+  "title": "teapot", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18217287, 
+  "creation_date": null, 
+  "materials": "earthenware, glaze", 
+  "actors": [
+    {
+      "name": "Copeland-Spode Works, Stoke-on-Trent", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295373, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": "English"
+    }
+  ], 
+  "irn": 30508, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

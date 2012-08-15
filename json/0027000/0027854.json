@@ -1,26 +1,30 @@
 {
-    "accession_number": "68.25.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1920", 
-            "death_date": "2007", 
-            "name": "Feliciano B\u00e9jar", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift of the Contemporaray Art Society", 
-    "cultures": [], 
-    "dimensions": "27 1/2 x 31 x 11 3/4 in.", 
-    "dynasty": null, 
-    "irn": 27854, 
-    "materials": "mixed media", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Triangle of Time"
+  "publishers": [], 
+  "dimensions": "27 1/2 x 31 x 11 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Contemporaray Art Society", 
+  "accession_number": "68.25.1", 
+  "title": "Triangle of Time", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211043, 
+  "creation_date": "1979", 
+  "materials": "mixed media", 
+  "actors": [
+    {
+      "name": "Feliciano B\u00e9jar", 
+      "after_follower": null, 
+      "death_date": "2007", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302529, 
+      "role": "Artist", 
+      "birth_date": "1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27854, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

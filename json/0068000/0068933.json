@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.254", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1917", 
-            "death_date": "2007", 
-            "name": "Sottsass, Ettore", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": null, 
-            "name": "Vistosi, Luciano", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1974", 
-    "credit_line": "Gift of Robert and Lisa Kessler", 
-    "cultures": [], 
-    "dimensions": "10 x 12 3/4 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 68933, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ettore Sottsass", 
-    "title": "Schiavana centerpiece"
+  "publishers": [], 
+  "dimensions": "10 x 12 3/4 (diam.) in.", 
+  "rights": "\u00a9 Ettore Sottsass", 
+  "credit_line": "Gift of Robert and Lisa Kessler", 
+  "accession_number": "2010.254", 
+  "title": "Schiavana centerpiece", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283879, 
+  "creation_date": "1974", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Sottsass, Ettore", 
+      "after_follower": null, 
+      "death_date": "2007", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304001, 
+      "role": "Designer", 
+      "birth_date": "1917", 
+      "nationality": null
+    }, 
+    {
+      "name": "Vistosi, Luciano", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307373, 
+      "role": "Manufacturer", 
+      "birth_date": "1931", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68933, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

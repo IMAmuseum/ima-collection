@@ -1,26 +1,30 @@
 {
-    "accession_number": "08.65", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1490", 
-            "death_date": "1540", 
-            "name": "Musi, Agostino (Agostino Veneziano)", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "16th century", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28688, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Christ Cleaning the Temple"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "08.65", 
+  "title": "Christ Cleaning the Temple", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213007, 
+  "creation_date": "16th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Musi, Agostino (Agostino Veneziano)", 
+      "after_follower": null, 
+      "death_date": "1540", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299091, 
+      "role": "Artist", 
+      "birth_date": "1490", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28688, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

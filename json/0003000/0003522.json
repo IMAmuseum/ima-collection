@@ -1,42 +1,50 @@
 {
-    "accession_number": "1997.129A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1763", 
-            "death_date": "1850", 
-            "name": "Jean-Baptiste-Claude Odiot", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1758", 
-            "death_date": "1823", 
-            "name": "Prud'hon, Pierre-Paul", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1785", 
-            "death_date": "1867", 
-            "name": "Adrien-Louis-Marie Cavelier", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1819", 
-    "credit_line": "Purchased with funds provided by Steve and Tomisue Hilbert, the Marian and Harold Victor Fund, and the Beeler Fund", 
-    "cultures": [], 
-    "dimensions": "21 1/16 x 28 5/8 x 10 3/8 in.", 
-    "dynasty": null, 
-    "irn": 3522, 
-    "materials": "gilded silver", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "soup tureen, cover, and liner from the Branicki Service"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "21 1/16 x 28 5/8 x 10 3/8 in.", 
+  "title": "soup tureen, cover, and liner from the Branicki Service", 
+  "accession_number": "1997.129A-C", 
+  "credit_line": "Purchased with funds provided by Steve and Tomisue Hilbert, the Marian and Harold Victor Fund, and the Beeler Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18139633, 
+  "creation_date": "1819", 
+  "materials": "gilded silver", 
+  "actors": [
+    {
+      "name": "Jean-Baptiste-Claude Odiot", 
+      "after_follower": null, 
+      "death_date": "1850", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296401, 
+      "role": "Artist", 
+      "birth_date": "1763", 
+      "nationality": null
+    }, 
+    {
+      "name": "Prud'hon, Pierre-Paul", 
+      "after_follower": null, 
+      "death_date": "1823", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296405, 
+      "role": "Designer", 
+      "birth_date": "1758", 
+      "nationality": null
+    }, 
+    {
+      "name": "Adrien-Louis-Marie Cavelier", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296419, 
+      "role": "Designer", 
+      "birth_date": "1785", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3522, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

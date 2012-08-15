@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1320.56", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1793", 
-            "death_date": "1867", 
-            "name": "Stanfield, Clarkson", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40259, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Venice, The Rialto"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1320.56", 
+  "title": "Venice, The Rialto", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18241281, 
+  "creation_date": "1833", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Stanfield, Clarkson", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297077, 
+      "role": "Artist", 
+      "birth_date": "1793", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40259, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

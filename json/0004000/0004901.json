@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.71", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1926", 
-            "name": "Stark, Otto", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1900", 
-    "credit_line": "Gift of Robert G. Stark", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4901, 
-    "materials": "watercolor on off-white paper laid down", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Whitewater River"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Whitewater River", 
+  "accession_number": "1999.71", 
+  "credit_line": "Gift of Robert G. Stark", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142869, 
+  "creation_date": "1900", 
+  "materials": "watercolor on off-white paper laid down", 
+  "actors": [
+    {
+      "name": "Stark, Otto", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295679, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4901, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

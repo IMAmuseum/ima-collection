@@ -1,26 +1,30 @@
 {
-    "accession_number": "2007.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1939", 
-            "death_date": null, 
-            "name": "Serra, Richard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "2004", 
-    "credit_line": "Gift of Ann M. and Chris Stack", 
-    "cultures": [], 
-    "dimensions": "20 x 14 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 63907, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Richard Serra/Artists Rights Society (ARS), New York", 
-    "title": "Abu Ghraib"
+  "publishers": [], 
+  "dimensions": "20 x 14 in. (sheet)", 
+  "rights": "\u00a9 Richard Serra/Artists Rights Society (ARS), New York", 
+  "credit_line": "Gift of Ann M. and Chris Stack", 
+  "accession_number": "2007.20", 
+  "title": "Abu Ghraib", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278777, 
+  "creation_date": "2004", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Serra, Richard", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305461, 
+      "role": "Artist", 
+      "birth_date": "1939", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63907, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

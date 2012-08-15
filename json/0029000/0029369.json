@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.80.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": null, 
-            "name": "Maitin, Sam", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Philagraf, Inc.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 29369, 
-    "materials": "offset lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Festive Philadelphia"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Philagraf, Inc.", 
+  "accession_number": "71.80.1", 
+  "title": "Festive Philadelphia", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18214595, 
+  "creation_date": "1970", 
+  "materials": "offset lithograph", 
+  "actors": [
+    {
+      "name": "Maitin, Sam", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302751, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29369, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

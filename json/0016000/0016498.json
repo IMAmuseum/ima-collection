@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1951", 
-            "name": "Sloan, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1915", 
-    "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16498, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Delaware Art Museum/ Artists Rights Society (ARS), New York", 
-    "title": "Isadora Duncan"
+  "publishers": [], 
+  "rights": "\u00a9 Delaware Art Museum/ Artists Rights Society (ARS), New York", 
+  "dimensions": null, 
+  "title": "Isadora Duncan", 
+  "accession_number": "78.23", 
+  "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170797, 
+  "creation_date": "1915", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Sloan, John", 
+      "after_follower": null, 
+      "death_date": "1951", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295703, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16498, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

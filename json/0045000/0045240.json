@@ -1,38 +1,44 @@
 {
-    "accession_number": "34.29Q", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1755", 
-            "death_date": "1826", 
-            "name": "Flaxman, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1757", 
-            "death_date": "1827", 
-            "name": "Blake, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1816-1817", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45240, 
-    "materials": "engraving on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Longman, Hurst, Rees, Orme & Brown"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Evil Race"
+  "publishers": [
+    {
+      "name": "Longman, Hurst, Rees, Orme & Brown"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of William George Sullivan", 
+  "accession_number": "34.29Q", 
+  "title": "The Evil Race", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253887, 
+  "creation_date": "1816-1817", 
+  "materials": "engraving on paper", 
+  "actors": [
+    {
+      "name": "Flaxman, John", 
+      "after_follower": null, 
+      "death_date": "1826", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296581, 
+      "role": "Artist", 
+      "birth_date": "1755", 
+      "nationality": null
+    }, 
+    {
+      "name": "Blake, William", 
+      "after_follower": null, 
+      "death_date": "1827", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296425, 
+      "role": "Engraver", 
+      "birth_date": "1757", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45240, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

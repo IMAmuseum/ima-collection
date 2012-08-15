@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.48", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": "1973", 
-            "name": "Smithson, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Gift of Mrs. Walter Myers, Jr.", 
-    "cultures": [], 
-    "dimensions": "4 7/8 x 8 1/2 x 8 1/2 in.", 
-    "dynasty": null, 
-    "irn": 27869, 
-    "materials": "glass, mirrors", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": "4 7/8 x 8 1/2 x 8 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Walter Myers, Jr.", 
+  "accession_number": "71.48", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211077, 
+  "creation_date": "1969", 
+  "materials": "glass, mirrors", 
+  "actors": [
+    {
+      "name": "Smithson, Robert", 
+      "after_follower": null, 
+      "death_date": "1973", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302535, 
+      "role": "Artist", 
+      "birth_date": "1938", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27869, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

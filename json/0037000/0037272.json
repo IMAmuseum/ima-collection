@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.130", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1760", 
-            "death_date": "1826", 
-            "name": "Garrard, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1785", 
-    "credit_line": "Bequest of Frank B. Shields", 
-    "cultures": [], 
-    "dimensions": "40 x 50 in.", 
-    "dynasty": null, 
-    "irn": 37272, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hunter and Huntsman"
+  "publishers": [], 
+  "dimensions": "40 x 50 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Frank B. Shields", 
+  "accession_number": "47.130", 
+  "title": "Hunter and Huntsman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232903, 
+  "creation_date": "about 1785", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Garrard, George", 
+      "after_follower": null, 
+      "death_date": "1826", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304031, 
+      "role": "Artist", 
+      "birth_date": "1760", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37272, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

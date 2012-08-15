@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1887", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1748", 
-            "death_date": "1804", 
-            "name": "Malton, Thomas, II", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1782", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "8 1/2 x 12 1/8 in (image) \n10 x 13 in (sheet)", 
-    "dynasty": null, 
-    "irn": 42275, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "New Palace Yard"
+  "publishers": [], 
+  "dimensions": "8 1/2 x 12 1/8 in (image) \n10 x 13 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1887", 
+  "title": "New Palace Yard", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18246925, 
+  "creation_date": "1782", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Malton, Thomas, II", 
+      "after_follower": null, 
+      "death_date": "1804", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304927, 
+      "role": "Artist", 
+      "birth_date": "1748", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42275, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

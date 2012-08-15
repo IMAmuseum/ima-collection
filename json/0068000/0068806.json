@@ -1,42 +1,50 @@
 {
-    "accession_number": "2011.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1971", 
-            "death_date": null, 
-            "name": "Ronan Bouroullec", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1976", 
-            "death_date": null, 
-            "name": "Erwan Bouroullec", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Habitat UK Limited", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
-    "cultures": [], 
-    "dimensions": "4 7/16 x 4 3/8 x 2 15/16 in.", 
-    "dynasty": null, 
-    "irn": 68806, 
-    "materials": "ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Aio mug 01"
+  "publishers": [], 
+  "dimensions": "4 7/16 x 4 3/8 x 2 15/16 in.", 
+  "rights": null, 
+  "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
+  "accession_number": "2011.7", 
+  "title": "Aio mug 01", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283719, 
+  "creation_date": "2000", 
+  "materials": "ceramic", 
+  "actors": [
+    {
+      "name": "Ronan Bouroullec", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307837, 
+      "role": "Designer", 
+      "birth_date": "1971", 
+      "nationality": null
+    }, 
+    {
+      "name": "Erwan Bouroullec", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307841, 
+      "role": "Designer", 
+      "birth_date": "1976", 
+      "nationality": null
+    }, 
+    {
+      "name": "Habitat UK Limited", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307845, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68806, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2009.320", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1947", 
-            "death_date": null, 
-            "name": "James Dyson", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "2003", 
-    "credit_line": "Gift of Sir James Dyson", 
-    "cultures": [], 
-    "dimensions": "16 7/8 x 12 x 24 in.", 
-    "dynasty": null, 
-    "irn": 64677, 
-    "materials": "plastic and metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 James Dyson", 
-    "title": "DC11 vacuum"
+  "publishers": [], 
+  "dimensions": "16 7/8 x 12 x 24 in.", 
+  "rights": "\u00a9 James Dyson", 
+  "credit_line": "Gift of Sir James Dyson", 
+  "accession_number": "2009.320", 
+  "title": "DC11 vacuum", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279185, 
+  "creation_date": "2003", 
+  "materials": "plastic and metal", 
+  "actors": [
+    {
+      "name": "James Dyson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306905, 
+      "role": "Designer", 
+      "birth_date": "1947", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64677, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "31.280", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1840", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "27 7/8 x 9 5/8 in. (image & sheet trimmed all around)", 
-    "dynasty": null, 
-    "irn": 12596, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Sano-ya Kihei"
-        }
-    ], 
-    "rights": null, 
-    "title": "Three Beauties of Our Homeland: Empress K^omy^o, Princess Sot^ori, Michitsuna's Mother (Honch^o sanbijin: K^omy^o K^og^o, Sot^ori Hime, Udaish^o Michitsuna no haha)"
+  "publishers": [
+    {
+      "name": "Sano-ya Kihei"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "27 7/8 x 9 5/8 in. (image & sheet trimmed all around)", 
+  "title": "Three Beauties of Our Homeland: Empress K^omy^o, Princess Sot^ori, Michitsuna's Mother (Honch^o sanbijin: K^omy^o K^og^o, Sot^ori Hime, Udaish^o Michitsuna no haha)", 
+  "accession_number": "31.280", 
+  "credit_line": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18161397, 
+  "creation_date": "about 1840", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12596, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

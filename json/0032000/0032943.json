@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.444", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1744", 
-            "death_date": "1817", 
-            "name": "Hearne, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1777", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32943, 
-    "materials": "gray ink washes over pencil on off-white laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Egremont Castle, South-west View"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "13.444", 
+  "title": "Egremont Castle, South-west View", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222905, 
+  "creation_date": "1777", 
+  "materials": "gray ink washes over pencil on off-white laid paper", 
+  "actors": [
+    {
+      "name": "Hearne, Thomas", 
+      "after_follower": null, 
+      "death_date": "1817", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297073, 
+      "role": "Artist", 
+      "birth_date": "1744", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32943, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

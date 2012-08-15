@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.191", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1958", 
-            "name": "Rouault, Georges", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1928", 
-    "credit_line": "McKee Foundation", 
-    "cultures": [], 
-    "dimensions": "12 5/8 x 17 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 14760, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
-    "title": "Une Valise"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
+  "dimensions": "12 5/8 x 17 5/8 in. (sheet)", 
+  "title": "Une Valise", 
+  "accession_number": "71.191", 
+  "credit_line": "McKee Foundation", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166511, 
+  "creation_date": "1928", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Rouault, Georges", 
+      "after_follower": null, 
+      "death_date": "1958", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294877, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14760, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

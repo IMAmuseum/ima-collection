@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.978.36", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1778", 
-            "death_date": "1840", 
-            "name": "Thomson, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1823", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38760, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Tantallon Castle"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.978.36", 
+  "title": "Tantallon Castle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18237029, 
+  "creation_date": "1823", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Thomson, John", 
+      "after_follower": null, 
+      "death_date": "1840", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304325, 
+      "role": "Artist", 
+      "birth_date": "1778", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38760, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.29", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1914", 
-            "death_date": "1973", 
-            "name": "Jorn, Asger", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1951", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26860, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Return to the Detested City"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "52.29", 
+  "title": "Return to the Detested City", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18208709, 
+  "creation_date": "1951", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Jorn, Asger", 
+      "after_follower": null, 
+      "death_date": "1973", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302327, 
+      "role": "Artist", 
+      "birth_date": "1914", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26860, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

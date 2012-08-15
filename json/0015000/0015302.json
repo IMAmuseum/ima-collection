@@ -1,34 +1,40 @@
 {
-    "accession_number": "1995.66", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1827", 
-            "name": "Gottfried Schmidt", 
-            "nationality": "Austrian", 
-            "role": "Decorator"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Vienna Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1811", 
-    "credit_line": "Eleanor B. Duckwall Fund and Robertine Danniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "1 x 5 1/4 in.", 
-    "dynasty": null, 
-    "irn": 15302, 
-    "materials": "hard-paste porcelain, polychrome enamels, gilding, silvering", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "saucer for tea and coffee service"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "1 x 5 1/4 in.", 
+  "title": "saucer for tea and coffee service", 
+  "accession_number": "1995.66", 
+  "credit_line": "Eleanor B. Duckwall Fund and Robertine Danniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167745, 
+  "creation_date": "about 1811", 
+  "materials": "hard-paste porcelain, polychrome enamels, gilding, silvering", 
+  "actors": [
+    {
+      "name": "Gottfried Schmidt", 
+      "after_follower": null, 
+      "death_date": "1827", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297509, 
+      "role": "Decorator", 
+      "birth_date": "1775", 
+      "nationality": "Austrian"
+    }, 
+    {
+      "name": "Vienna Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297511, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 15302, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

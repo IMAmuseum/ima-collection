@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.172", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1800", 
-            "death_date": "1870", 
-            "name": "Pyne, James Baker", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1840", 
-    "credit_line": "Bequest of Grace Ritchie", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2410, 
-    "materials": "pencil on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Pandy Mill on the Penmachno, North Wales"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Pandy Mill on the Penmachno, North Wales", 
+  "accession_number": "2000.172", 
+  "credit_line": "Bequest of Grace Ritchie", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137053, 
+  "creation_date": "1840", 
+  "materials": "pencil on white paper", 
+  "actors": [
+    {
+      "name": "Pyne, James Baker", 
+      "after_follower": null, 
+      "death_date": "1870", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295979, 
+      "role": "Artist", 
+      "birth_date": "1800", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2410, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

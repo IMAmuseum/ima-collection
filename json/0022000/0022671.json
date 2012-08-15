@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1829", 
-            "death_date": "1901", 
-            "name": "Moran, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1862", 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "40 1/2 x 64 in.\n49 1/4 x 73 in. (framed)", 
-    "dynasty": null, 
-    "irn": 22671, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Valley in the Sea"
+  "publishers": [], 
+  "dimensions": "40 1/2 x 64 in.\n49 1/4 x 73 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "accession_number": "70.5", 
+  "title": "The Valley in the Sea", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18198921, 
+  "creation_date": "1862", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Moran, Edward", 
+      "after_follower": null, 
+      "death_date": "1901", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301451, 
+      "role": "Artist", 
+      "birth_date": "1829", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22671, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "29.126", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1862", 
-            "death_date": "1951", 
-            "name": "Benson, Frank Weston", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16133, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Start"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Start", 
+  "accession_number": "29.126", 
+  "credit_line": "Jacob Metzger Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169815, 
+  "creation_date": "20th century", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Benson, Frank Weston", 
+      "after_follower": null, 
+      "death_date": "1951", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295729, 
+      "role": "Artist", 
+      "birth_date": "1862", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16133, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

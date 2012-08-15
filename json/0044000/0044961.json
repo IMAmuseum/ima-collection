@@ -1,26 +1,30 @@
 {
-    "accession_number": "16.1158", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1858", 
-            "death_date": "1915", 
-            "name": "Ball, L. Clarence", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1916", 
-    "credit_line": "Gift of George C. Calvert", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 44961, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Spring"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of George C. Calvert", 
+  "accession_number": "16.1158", 
+  "title": "Spring", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253217, 
+  "creation_date": "1916", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Ball, L. Clarence", 
+      "after_follower": null, 
+      "death_date": "1915", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294769, 
+      "role": "Artist", 
+      "birth_date": "1858", 
+      "nationality": null
+    }
+  ], 
+  "irn": 44961, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

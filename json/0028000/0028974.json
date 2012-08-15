@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.209", 
-    "actors": [
-        {
-            "after_follower": "After", 
-            "birth_date": "1254", 
-            "death_date": "1322", 
-            "name": "Zhao Mengfu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1279-1368", 
-    "credit_line": "Gift of J. W. Alsdorf", 
-    "cultures": [], 
-    "dimensions": "18 x 20 1/4 in.", 
-    "dynasty": "Yuan dynasty", 
-    "irn": 28974, 
-    "materials": "colors on silk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Riders Leading a White Horse"
+  "publishers": [], 
+  "dimensions": "18 x 20 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of J. W. Alsdorf", 
+  "accession_number": "55.209", 
+  "title": "Riders Leading a White Horse", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213657, 
+  "creation_date": "1279-1368", 
+  "materials": "colors on silk", 
+  "actors": [
+    {
+      "name": "Zhao Mengfu", 
+      "after_follower": "After", 
+      "death_date": "1322", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300807, 
+      "role": "Artist", 
+      "birth_date": "1254", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28974, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Yuan dynasty", 
+  "on_view": false
 }

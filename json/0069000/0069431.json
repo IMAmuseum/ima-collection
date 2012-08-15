@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.103", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ulrica Hydman-Vallien", 
-            "nationality": "Swedish", 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Boda Afors", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "circa 1975", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "4 1/2 x 8 x 3 1/2 in.", 
-    "dynasty": null, 
-    "irn": 69431, 
-    "materials": "painted glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Duck"
+  "publishers": [], 
+  "dimensions": "4 1/2 x 8 x 3 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.103", 
+  "title": "Duck", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284775, 
+  "creation_date": "circa 1975", 
+  "materials": "painted glass", 
+  "actors": [
+    {
+      "name": "Ulrica Hydman-Vallien", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308219, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": "Swedish"
+    }, 
+    {
+      "name": "Boda Afors", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308221, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69431, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

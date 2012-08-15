@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.807.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Walker, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1797", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "4 1/4 x 6 1/2 in (image) \n5 7/8 x 7 15/16 in (plate) \n8 1/16 x 10 3/8 in (sheet)", 
-    "dynasty": null, 
-    "irn": 37702, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Carlisle"
+  "publishers": [], 
+  "dimensions": "4 1/4 x 6 1/2 in (image) \n5 7/8 x 7 15/16 in (plate) \n8 1/16 x 10 3/8 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.807.2", 
+  "title": "Carlisle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234093, 
+  "creation_date": "1797", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Walker, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298459, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 37702, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

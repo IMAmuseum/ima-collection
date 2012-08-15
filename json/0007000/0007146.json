@@ -1,34 +1,40 @@
 {
-    "accession_number": "77.323", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1833", 
-            "death_date": "1914", 
-            "name": "Bracquemond, F\u00e9lix", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1907", 
-            "name": "Del\u00e2tre, Auguste", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1854", 
-    "credit_line": "Gift of Mrs. Hiram W. McKee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7146, 
-    "materials": "etching on chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Margot la Critique or La Pie"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Margot la Critique or La Pie", 
+  "accession_number": "77.323", 
+  "credit_line": "Gift of Mrs. Hiram W. McKee", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18148243, 
+  "creation_date": "1854", 
+  "materials": "etching on chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Bracquemond, F\u00e9lix", 
+      "after_follower": null, 
+      "death_date": "1914", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294869, 
+      "role": "Artist", 
+      "birth_date": "1833", 
+      "nationality": null
+    }, 
+    {
+      "name": "Del\u00e2tre, Auguste", 
+      "after_follower": null, 
+      "death_date": "1907", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294903, 
+      "role": "Printer", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7146, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

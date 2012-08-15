@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.193", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1789", 
-            "death_date": "1850", 
-            "name": "Hullmandel, Charles Joseph", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34792, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Robert Medcalf, Esq."
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.193", 
+  "title": "Robert Medcalf, Esq.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227183, 
+  "creation_date": "19th century", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Hullmandel, Charles Joseph", 
+      "after_follower": null, 
+      "death_date": "1850", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299681, 
+      "role": "Printer", 
+      "birth_date": "1789", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34792, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

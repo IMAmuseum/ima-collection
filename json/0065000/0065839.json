@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.338", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1915", 
-            "death_date": "1996", 
-            "name": "Fulvio Bianconi", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1895", 
-            "death_date": "1959", 
-            "name": "Venini, Paolo", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "about 1950", 
-    "credit_line": "The Liliane and David M. Stewart Collection", 
-    "cultures": [], 
-    "dimensions": "10 3/8 x 8 5/16 x 7 1/2 in.", 
-    "dynasty": null, 
-    "irn": 65839, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Fulvio Bianconi", 
-    "title": "Fazzoletto vase"
+  "publishers": [], 
+  "dimensions": "10 3/8 x 8 5/16 x 7 1/2 in.", 
+  "rights": "\u00a9 Fulvio Bianconi", 
+  "credit_line": "The Liliane and David M. Stewart Collection", 
+  "accession_number": "2008.338", 
+  "title": "Fazzoletto vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280611, 
+  "creation_date": "about 1950", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Fulvio Bianconi", 
+      "after_follower": null, 
+      "death_date": "1996", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307449, 
+      "role": "Designer", 
+      "birth_date": "1915", 
+      "nationality": null
+    }, 
+    {
+      "name": "Venini, Paolo", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307453, 
+      "role": "Designer", 
+      "birth_date": "1895", 
+      "nationality": null
+    }
+  ], 
+  "irn": 65839, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

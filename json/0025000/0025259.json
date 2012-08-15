@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.249", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1840", 
-            "death_date": "1895", 
-            "name": "Hovenden, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1885", 
-    "credit_line": "Gift of Mrs. Edward F. Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25259, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Last Moments of John Brown"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Edward F. Smith", 
+  "accession_number": "60.249", 
+  "title": "Last Moments of John Brown", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204957, 
+  "creation_date": "1885", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Hovenden, Thomas", 
+      "after_follower": null, 
+      "death_date": "1895", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302007, 
+      "role": "Artist", 
+      "birth_date": "1840", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25259, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

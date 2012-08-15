@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.38", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1667", 
-            "death_date": "1746", 
-            "name": "Leroux, Jean-Baptist", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1726", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "9 1/4 X 12 1/4 in. (image)\n10 X 14 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9282, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bedroom in the H\u00f4tel de Roquelaure"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 1/4 X 12 1/4 in. (image)\n10 X 14 1/8 in. (sheet)", 
+  "title": "Bedroom in the H\u00f4tel de Roquelaure", 
+  "accession_number": "73.2.38", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153359, 
+  "creation_date": "about 1726", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Leroux, Jean-Baptist", 
+      "after_follower": null, 
+      "death_date": "1746", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296375, 
+      "role": "Artist", 
+      "birth_date": "1667", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9282, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

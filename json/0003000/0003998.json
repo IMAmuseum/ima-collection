@@ -1,34 +1,40 @@
 {
-    "accession_number": "16.1126", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1776", 
-            "death_date": "1837", 
-            "name": "John Constable", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1802", 
-            "death_date": "1881", 
-            "name": "Lucas, David", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1832", 
-    "credit_line": "Art Treasure Maintenance Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3998, 
-    "materials": "mezzotint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Yarmouth, Norfolk"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Yarmouth, Norfolk", 
+  "accession_number": "16.1126", 
+  "credit_line": "Art Treasure Maintenance Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140773, 
+  "creation_date": "1832", 
+  "materials": "mezzotint", 
+  "actors": [
+    {
+      "name": "John Constable", 
+      "after_follower": null, 
+      "death_date": "1837", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296115, 
+      "role": "Artist", 
+      "birth_date": "1776", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lucas, David", 
+      "after_follower": null, 
+      "death_date": "1881", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296641, 
+      "role": "Engraver", 
+      "birth_date": "1802", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3998, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

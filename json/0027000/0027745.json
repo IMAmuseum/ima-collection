@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.187", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1735", 
-            "death_date": "1818", 
-            "name": "Revere, Paul", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1800-1805", 
-    "credit_line": "Gift of Eli Lilly", 
-    "cultures": [], 
-    "dimensions": "6 x 5 x 7 in.", 
-    "dynasty": null, 
-    "irn": 27745, 
-    "materials": "silver", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Pitcher"
+  "publishers": [], 
+  "dimensions": "6 x 5 x 7 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Eli Lilly", 
+  "accession_number": "80.187", 
+  "title": "Pitcher", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18210809, 
+  "creation_date": "about 1800-1805", 
+  "materials": "silver", 
+  "actors": [
+    {
+      "name": "Revere, Paul", 
+      "after_follower": null, 
+      "death_date": "1818", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302497, 
+      "role": "Artist", 
+      "birth_date": "1735", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27745, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

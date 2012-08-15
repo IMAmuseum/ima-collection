@@ -1,26 +1,30 @@
 {
-    "accession_number": "TR10965/4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1440", 
-            "death_date": "1525", 
-            "name": "Master of the Dresden Prayerbook", 
-            "nationality": "Flemish", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "early 16th century", 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "bound book: 7 11/16 x 5 3/8 x 1 1/8 in.", 
-    "dynasty": null, 
-    "irn": 67583, 
-    "materials": "illuminated manuscript, tempera on vellum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hours of the Blessed Virgin Mary for use of Rome"
+  "publishers": [], 
+  "dimensions": "bound book: 7 11/16 x 5 3/8 x 1 1/8 in.", 
+  "rights": null, 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "accession_number": "TR10965/4", 
+  "title": "Hours of the Blessed Virgin Mary for use of Rome", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282849, 
+  "creation_date": "early 16th century", 
+  "materials": "illuminated manuscript, tempera on vellum", 
+  "actors": [
+    {
+      "name": "Master of the Dresden Prayerbook", 
+      "after_follower": null, 
+      "death_date": "1525", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307689, 
+      "role": "Artist", 
+      "birth_date": "1440", 
+      "nationality": "Flemish"
+    }
+  ], 
+  "irn": 67583, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

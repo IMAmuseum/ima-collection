@@ -1,26 +1,30 @@
 {
-    "accession_number": "1991.323", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1911", 
-            "death_date": "1994", 
-            "name": "Papart, Max", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1985", 
-    "credit_line": "Gift of Eugene D. Van Hove", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32869, 
-    "materials": "color aquatint with carborundum and embossment", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
-    "title": "Tomorrow's Children"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
+  "credit_line": "Gift of Eugene D. Van Hove", 
+  "accession_number": "1991.323", 
+  "title": "Tomorrow's Children", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222719, 
+  "creation_date": "1985", 
+  "materials": "color aquatint with carborundum and embossment", 
+  "actors": [
+    {
+      "name": "Papart, Max", 
+      "after_follower": null, 
+      "death_date": "1994", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295929, 
+      "role": "Artist", 
+      "birth_date": "1911", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32869, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

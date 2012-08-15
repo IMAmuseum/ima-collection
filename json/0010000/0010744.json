@@ -1,30 +1,34 @@
 {
-    "accession_number": "73.84.56", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Goodwin, Francis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10744, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Goodwin, Francis"
-        }
-    ], 
-    "rights": null, 
-    "title": "A Gardener's Lodge"
+  "publishers": [
+    {
+      "name": "Goodwin, Francis"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "A Gardener's Lodge", 
+  "accession_number": "73.84.56", 
+  "credit_line": "Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156819, 
+  "creation_date": "1833", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Goodwin, Francis", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296435, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 10744, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

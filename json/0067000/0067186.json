@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.387.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1955", 
-            "death_date": null, 
-            "name": "Danny Lane", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Danny Lane Artworks", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1991", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "H: 9 7/8 in.", 
-    "dynasty": null, 
-    "irn": 67186, 
-    "materials": "glass, lead and silicone", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Danny Lane", 
-    "title": "Gingerino Glass goblet"
+  "publishers": [], 
+  "dimensions": "H: 9 7/8 in.", 
+  "rights": "\u00a9 Danny Lane", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "2009.387.1", 
+  "title": "Gingerino Glass goblet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282447, 
+  "creation_date": "1991", 
+  "materials": "glass, lead and silicone", 
+  "actors": [
+    {
+      "name": "Danny Lane", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307023, 
+      "role": "Designer", 
+      "birth_date": "1955", 
+      "nationality": null
+    }, 
+    {
+      "name": "Danny Lane Artworks", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307025, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67186, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

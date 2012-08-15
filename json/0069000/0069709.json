@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.199A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Baccarat", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1979", 
-            "name": "Truex, Van Day", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "Mid 20th century", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "Bottle: 12 x 3 (diam.) in.\nStopper: 3 1/4 x 1 3/4 x 3/4 in.", 
-    "dynasty": null, 
-    "irn": 69709, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bottle with stopper"
+  "publishers": [], 
+  "dimensions": "Bottle: 12 x 3 (diam.) in.\nStopper: 3 1/4 x 1 3/4 x 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.199A-B", 
+  "title": "Bottle with stopper", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18285453, 
+  "creation_date": "Mid 20th century", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Baccarat", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308261, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Truex, Van Day", 
+      "after_follower": null, 
+      "death_date": "1979", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308279, 
+      "role": "Designer", 
+      "birth_date": "1904", 
+      "nationality": null
+    }
+  ], 
+  "irn": 69709, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

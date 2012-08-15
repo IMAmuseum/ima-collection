@@ -1,34 +1,40 @@
 {
-    "accession_number": "71.229", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1789", 
-            "death_date": "1854", 
-            "name": "Martin, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1789", 
-            "death_date": "1854", 
-            "name": "Martin, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1825-27", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3158, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": null
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": null, 
+  "accession_number": "71.229", 
+  "credit_line": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138783, 
+  "creation_date": "1825-27", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Martin, John", 
+      "after_follower": null, 
+      "death_date": "1854", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296281, 
+      "role": "Artist", 
+      "birth_date": "1789", 
+      "nationality": null
+    }, 
+    {
+      "name": "Martin, John", 
+      "after_follower": null, 
+      "death_date": "1854", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296281, 
+      "role": "Engraver", 
+      "birth_date": "1789", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3158, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

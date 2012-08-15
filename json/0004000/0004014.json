@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.201J", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1781", 
-            "death_date": "1835", 
-            "name": "Pinelli, Bartolomeo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4014, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Costume from the Canton of Schaffhousen"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "A Costume from the Canton of Schaffhousen", 
+  "accession_number": "09.201J", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140805, 
+  "creation_date": "19th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Pinelli, Bartolomeo", 
+      "after_follower": null, 
+      "death_date": "1835", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296649, 
+      "role": "Artist", 
+      "birth_date": "1781", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4014, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

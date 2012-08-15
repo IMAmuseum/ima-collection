@@ -1,34 +1,40 @@
 {
-    "accession_number": "60.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ludwigsburg Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1749", 
-            "death_date": "1829", 
-            "name": "Schmidt, Johann Heinrich", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "about 1770", 
-    "credit_line": "Gift of Mrs. Herbert R. Duckwall in memory of her husband", 
-    "cultures": [], 
-    "dimensions": "H: 9 1/2 in.", 
-    "dynasty": null, 
-    "irn": 34431, 
-    "materials": "hard paste porcelain, polychrome enamels, gilding", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Veritas (Truth)"
+  "publishers": [], 
+  "dimensions": "H: 9 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herbert R. Duckwall in memory of her husband", 
+  "accession_number": "60.8", 
+  "title": "Veritas (Truth)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18226351, 
+  "creation_date": "about 1770", 
+  "materials": "hard paste porcelain, polychrome enamels, gilding", 
+  "actors": [
+    {
+      "name": "Ludwigsburg Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303575, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Schmidt, Johann Heinrich", 
+      "after_follower": null, 
+      "death_date": "1829", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298009, 
+      "role": "Modeler", 
+      "birth_date": "1749", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34431, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

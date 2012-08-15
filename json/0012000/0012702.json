@@ -1,26 +1,30 @@
 {
-    "accession_number": "59.13", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1522", 
-            "death_date": "1584", 
-            "name": "Ring, Ludger tom, the younger", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1572", 
-    "credit_line": "Gift of Mrs. Booth Tarkington", 
-    "cultures": [], 
-    "dimensions": "16 3/8 x 11 3/8 in.", 
-    "dynasty": null, 
-    "irn": 12702, 
-    "materials": "oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Doctor"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "16 3/8 x 11 3/8 in.", 
+  "title": "Portrait of a Doctor", 
+  "accession_number": "59.13", 
+  "credit_line": "Gift of Mrs. Booth Tarkington", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18161667, 
+  "creation_date": "about 1572", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Ring, Ludger tom, the younger", 
+      "after_follower": null, 
+      "death_date": "1584", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299111, 
+      "role": "Artist", 
+      "birth_date": "1522", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12702, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

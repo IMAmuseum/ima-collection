@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.321", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1771", 
-            "death_date": "1860", 
-            "name": "Rawle, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Presented by Mrs. Louise Leffingwell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28810, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Design for Robert Burns' Monument"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Presented by Mrs. Louise Leffingwell", 
+  "accession_number": "13.321", 
+  "title": "Design for Robert Burns' Monument", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213313, 
+  "creation_date": "19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Rawle, Samuel", 
+      "after_follower": null, 
+      "death_date": "1860", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302675, 
+      "role": "Artist", 
+      "birth_date": "1771", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28810, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

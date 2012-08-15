@@ -1,30 +1,34 @@
 {
-    "accession_number": "73.2.132", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1751", 
-            "death_date": "1806", 
-            "name": "Sheraton, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1792", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "10 X 7 1/2 in. (image)\n10 3/8 X 8 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 46015, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Sheraton, Thomas"
-        }
-    ], 
-    "rights": null, 
-    "title": "A Cylinder Wash-Hand Table"
+  "publishers": [
+    {
+      "name": "Sheraton, Thomas"
+    }
+  ], 
+  "dimensions": "10 X 7 1/2 in. (image)\n10 3/8 X 8 1/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "73.2.132", 
+  "title": "A Cylinder Wash-Hand Table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18255763, 
+  "creation_date": "1792", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Sheraton, Thomas", 
+      "after_follower": null, 
+      "death_date": "1806", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298301, 
+      "role": "Artist", 
+      "birth_date": "1751", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46015, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

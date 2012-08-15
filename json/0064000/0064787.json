@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.353A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1955", 
-            "death_date": null, 
-            "name": "Rolf Sachs", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1955", 
-            "death_date": null, 
-            "name": "Rolf Sachs", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1995", 
-    "credit_line": "Gift of Rolf Sachs", 
-    "cultures": [], 
-    "dimensions": "32 5/8 x 18 x 23 3/4 in.", 
-    "dynasty": null, 
-    "irn": 64787, 
-    "materials": "douglas fir", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Rolf Sachs", 
-    "title": "3 Equal Parts chair"
+  "publishers": [], 
+  "dimensions": "32 5/8 x 18 x 23 3/4 in.", 
+  "rights": "\u00a9 Rolf Sachs", 
+  "credit_line": "Gift of Rolf Sachs", 
+  "accession_number": "2009.353A-C", 
+  "title": "3 Equal Parts chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279309, 
+  "creation_date": "1995", 
+  "materials": "douglas fir", 
+  "actors": [
+    {
+      "name": "Rolf Sachs", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307113, 
+      "role": "Designer", 
+      "birth_date": "1955", 
+      "nationality": null
+    }, 
+    {
+      "name": "Rolf Sachs", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307113, 
+      "role": "Manufacturer", 
+      "birth_date": "1955", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64787, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

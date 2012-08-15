@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.512A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1957", 
-            "death_date": null, 
-            "name": "Bjorn Dahlstrom", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Iittala", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Gift of Iittala", 
-    "cultures": [], 
-    "dimensions": "11 5/8 x 9 x 6 in.", 
-    "dynasty": null, 
-    "irn": 64661, 
-    "materials": "steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Bjorn Dahlstrom", 
-    "title": "Dahlstr\u00f6m 98 5L stock pot with lid"
+  "publishers": [], 
+  "dimensions": "11 5/8 x 9 x 6 in.", 
+  "rights": "\u00a9 Bjorn Dahlstrom", 
+  "credit_line": "Gift of Iittala", 
+  "accession_number": "2009.512A-B", 
+  "title": "Dahlstr\u00f6m 98 5L stock pot with lid", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279159, 
+  "creation_date": "1998", 
+  "materials": "steel", 
+  "actors": [
+    {
+      "name": "Bjorn Dahlstrom", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306871, 
+      "role": "Designer", 
+      "birth_date": "1957", 
+      "nationality": null
+    }, 
+    {
+      "name": "Iittala", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306847, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64661, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

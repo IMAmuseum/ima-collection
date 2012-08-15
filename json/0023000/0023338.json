@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.145.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1833", 
-            "death_date": "1909", 
-            "name": "Smillie, James David", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1883", 
-    "credit_line": "Gift of Mr. and Mrs. Roman J. Radecki", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23338, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Fallow Field"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Roman J. Radecki", 
+  "accession_number": "72.145.1", 
+  "title": "A Fallow Field", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200533, 
+  "creation_date": "1883", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Smillie, James David", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301605, 
+      "role": "Artist", 
+      "birth_date": "1833", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23338, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

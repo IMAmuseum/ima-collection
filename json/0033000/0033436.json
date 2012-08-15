@@ -1,26 +1,30 @@
 {
-    "accession_number": "90.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860", 
-            "death_date": "1943", 
-            "name": "MacEwen, Walter", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "29 x 41 1/2 in.", 
-    "dynasty": null, 
-    "irn": 33436, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Letter"
+  "publishers": [], 
+  "dimensions": "29 x 41 1/2 in.", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "90.3", 
+  "title": "The Letter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224065, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "MacEwen, Walter", 
+      "after_follower": null, 
+      "death_date": "1943", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303021, 
+      "role": "Artist", 
+      "birth_date": "1860", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33436, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

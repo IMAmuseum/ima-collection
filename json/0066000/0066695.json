@@ -1,37 +1,41 @@
 {
-    "accession_number": "2008.759", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": "2008", 
-            "name": "Hartigan, Grace", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1953", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "7 3/8 x 10 1/2 in. (image)\n8 3/4 x 11 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 66695, 
-    "materials": "screenprint on cream wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Floriano Vecchi"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Daisy Alden"
-        }, 
-        {
-            "name": "Richard Miller"
-        }
-    ], 
-    "rights": "\u00a9 Estate of Grace Hartigan", 
-    "title": "Abstract Still Life"
+  "publishers": [
+    {
+      "name": "Daisy Alden"
+    }, 
+    {
+      "name": "Richard Miller"
+    }
+  ], 
+  "dimensions": "7 3/8 x 10 1/2 in. (image)\n8 3/4 x 11 3/8 in. (sheet)", 
+  "rights": "\u00a9 Estate of Grace Hartigan", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2008.759", 
+  "title": "Abstract Still Life", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18281111, 
+  "creation_date": "1953", 
+  "materials": "screenprint on cream wove paper", 
+  "actors": [
+    {
+      "name": "Hartigan, Grace", 
+      "after_follower": null, 
+      "death_date": "2008", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303839, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 66695, 
+  "printers": [
+    {
+      "name": "Floriano Vecchi"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

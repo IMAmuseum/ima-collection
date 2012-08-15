@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.309", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1709", 
-            "death_date": "1794", 
-            "name": "Bateman, Hester", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1784-1785", 
-    "credit_line": "Gift of Mrs. Dimitrius Gerdan", 
-    "cultures": [], 
-    "dimensions": "H: 6 in.", 
-    "dynasty": null, 
-    "irn": 32652, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "teapot"
+  "publishers": [], 
+  "dimensions": "H: 6 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Dimitrius Gerdan", 
+  "accession_number": "82.309", 
+  "title": "teapot", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222151, 
+  "creation_date": "1784-1785", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Bateman, Hester", 
+      "after_follower": null, 
+      "death_date": "1794", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298461, 
+      "role": "Artist", 
+      "birth_date": "1709", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32652, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

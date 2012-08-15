@@ -1,26 +1,30 @@
 {
-    "accession_number": "33.31", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1927", 
-            "name": "Adams, John Ottis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Winifred Brady Adams", 
-    "cultures": [], 
-    "dimensions": "22 x 18 in.\n26 7/8 x 22 1/16 x 2 1/4 in. (framed)", 
-    "dynasty": null, 
-    "irn": 8121, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Katrina"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "22 x 18 in.\n26 7/8 x 22 1/16 x 2 1/4 in. (framed)", 
+  "title": "Katrina", 
+  "accession_number": "33.31", 
+  "credit_line": "Gift of Mrs. Winifred Brady Adams", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18150499, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Adams, John Ottis", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295417, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8121, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

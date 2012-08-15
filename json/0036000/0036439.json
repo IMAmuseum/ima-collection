@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.696", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1944", 
-            "death_date": null, 
-            "name": "Mortenson, Ray", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1980", 
-    "credit_line": "Anonymous Gift", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36439, 
-    "materials": "silverprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Anonymous Gift", 
+  "accession_number": "81.696", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230957, 
+  "creation_date": "1980", 
+  "materials": "silverprint", 
+  "actors": [
+    {
+      "name": "Mortenson, Ray", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294857, 
+      "role": "Artist", 
+      "birth_date": "1944", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36439, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

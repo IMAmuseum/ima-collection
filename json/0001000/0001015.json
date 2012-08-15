@@ -1,26 +1,30 @@
 {
-    "accession_number": "1998.307", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": null, 
-            "name": "Doris Seidler", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1953", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan Weisenberger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1015, 
-    "materials": "etching and block print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Progression II"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Progression II", 
+  "accession_number": "1998.307", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan Weisenberger", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133651, 
+  "creation_date": "1953", 
+  "materials": "etching and block print", 
+  "actors": [
+    {
+      "name": "Doris Seidler", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295301, 
+      "role": "Artist", 
+      "birth_date": "1912", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1015, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

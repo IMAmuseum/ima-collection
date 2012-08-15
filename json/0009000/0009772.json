@@ -1,26 +1,30 @@
 {
-    "accession_number": "39.85", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1882", 
-    "credit_line": "Gift of Brandt Steele", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9772, 
-    "materials": "charcoal on off-white laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Schleissheim Woods"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Schleissheim Woods", 
+  "accession_number": "39.85", 
+  "credit_line": "Gift of Brandt Steele", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154507, 
+  "creation_date": "1882", 
+  "materials": "charcoal on off-white laid paper", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9772, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

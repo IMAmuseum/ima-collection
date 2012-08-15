@@ -1,26 +1,30 @@
 {
-    "accession_number": "43.36", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1906-1978", 
-            "death_date": "1906-1978", 
-            "name": "Wengenroth, Stow", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3545, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ruffled Grouse"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Ruffled Grouse", 
+  "accession_number": "43.36", 
+  "credit_line": "Jacob Metzger Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18139689, 
+  "creation_date": "20th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Wengenroth, Stow", 
+      "after_follower": null, 
+      "death_date": "1906-1978", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296423, 
+      "role": "Artist", 
+      "birth_date": "1906-1978", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3545, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

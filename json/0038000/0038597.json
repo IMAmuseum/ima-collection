@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.932.46", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1778", 
-            "death_date": "1843", 
-            "name": "Hakewill, James", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1852", 
-            "name": "Landseer, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1819", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38597, 
-    "materials": "engraving on India paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Grotto of Posilipo"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.932.46", 
+  "title": "Grotto of Posilipo", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18236585, 
+  "creation_date": "1819", 
+  "materials": "engraving on India paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Hakewill, James", 
+      "after_follower": null, 
+      "death_date": "1843", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304273, 
+      "role": "Artist", 
+      "birth_date": "1778", 
+      "nationality": null
+    }, 
+    {
+      "name": "Landseer, John", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302707, 
+      "role": "Engraver", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38597, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

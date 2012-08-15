@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.333", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1835", 
-            "death_date": "1921", 
-            "name": "Haig, Axel Herman", 
-            "nationality": "Swedish", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1885", 
-    "credit_line": "Gift of Deloris \"Dee\" Garrett", 
-    "cultures": [], 
-    "dimensions": "14 x 9 1/2 in.", 
-    "dynasty": null, 
-    "irn": 41770, 
-    "materials": "pencil on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mont St. Michel"
+  "publishers": [], 
+  "dimensions": "14 x 9 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Deloris \"Dee\" Garrett", 
+  "accession_number": "2000.333", 
+  "title": "Mont St. Michel", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18245509, 
+  "creation_date": "1885", 
+  "materials": "pencil on off-white paper", 
+  "actors": [
+    {
+      "name": "Haig, Axel Herman", 
+      "after_follower": null, 
+      "death_date": "1921", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304867, 
+      "role": "Artist", 
+      "birth_date": "1835", 
+      "nationality": "Swedish"
+    }
+  ], 
+  "irn": 41770, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

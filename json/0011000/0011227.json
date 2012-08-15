@@ -1,26 +1,30 @@
 {
-    "accession_number": "1987.88", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1897", 
-            "death_date": "1961", 
-            "name": "Etienne Beothy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1951", 
-    "credit_line": "Gift from the Joseph Cantor Collection", 
-    "cultures": [], 
-    "dimensions": "38 x 6 1/2 in.", 
-    "dynasty": null, 
-    "irn": 11227, 
-    "materials": "bronze", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Marin I"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": "38 x 6 1/2 in.", 
+  "title": "Marin I", 
+  "accession_number": "1987.88", 
+  "credit_line": "Gift from the Joseph Cantor Collection", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157987, 
+  "creation_date": "1951", 
+  "materials": "bronze", 
+  "actors": [
+    {
+      "name": "Etienne Beothy", 
+      "after_follower": null, 
+      "death_date": "1961", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298775, 
+      "role": "Artist", 
+      "birth_date": "1897", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11227, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

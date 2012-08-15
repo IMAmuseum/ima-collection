@@ -1,30 +1,34 @@
 {
-    "accession_number": "1995.98.13", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1902", 
-            "death_date": "1999", 
-            "name": "Tokuriki Tomikichir^o", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1940", 
-    "credit_line": "Gift of Mr. Daniel B. Luten", 
-    "cultures": [], 
-    "dimensions": "See curator's notes.  10 3/8 x 15 1/16 in. (image)\n11 1/8 x 15 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 71994, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Showa", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Uchida Bijutsu Shoshi"
-        }
-    ], 
-    "rights": null, 
-    "title": "Fuji in a Fruitful Year"
+  "publishers": [
+    {
+      "name": "Uchida Bijutsu Shoshi"
+    }
+  ], 
+  "dimensions": "See curator's notes.  10 3/8 x 15 1/16 in. (image)\n11 1/8 x 15 7/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. Daniel B. Luten", 
+  "accession_number": "1995.98.13", 
+  "title": "Fuji in a Fruitful Year", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Showa", 
+  "artisinal:id": 18287609, 
+  "creation_date": "1940", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Tokuriki Tomikichir^o", 
+      "after_follower": null, 
+      "death_date": "1999", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308531, 
+      "role": "Artist", 
+      "birth_date": "1902", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71994, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

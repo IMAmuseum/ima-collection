@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.978.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1787", 
-            "death_date": "1879", 
-            "name": "Blore, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1788", 
-            "death_date": "1859", 
-            "name": "Lizars, William Home", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1819", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38728, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Crichton Castle, Interior Court"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.978.4", 
+  "title": "Crichton Castle, Interior Court", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18236937, 
+  "creation_date": "1819", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Blore, Edward", 
+      "after_follower": null, 
+      "death_date": "1879", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303101, 
+      "role": "Artist", 
+      "birth_date": "1787", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lizars, William Home", 
+      "after_follower": null, 
+      "death_date": "1859", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304385, 
+      "role": "Engraver", 
+      "birth_date": "1788", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38728, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

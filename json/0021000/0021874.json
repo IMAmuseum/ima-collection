@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1899", 
-            "name": "Bonheur, Rosa", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1845-1850", 
-    "credit_line": "Gift of Mrs. John Mead, Mrs. Edwin A. Blish and Mrs. George W. McKay in memory of their grandfather Medford Bement Wilson", 
-    "cultures": [], 
-    "dimensions": "13 1/2 x 16 1/2 in.", 
-    "dynasty": null, 
-    "irn": 21874, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ram"
+  "publishers": [], 
+  "dimensions": "13 1/2 x 16 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. John Mead, Mrs. Edwin A. Blish and Mrs. George W. McKay in memory of their grandfather Medford Bement Wilson", 
+  "accession_number": "55.20", 
+  "title": "Ram", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18197117, 
+  "creation_date": "about 1845-1850", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Bonheur, Rosa", 
+      "after_follower": null, 
+      "death_date": "1899", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301303, 
+      "role": "Artist", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21874, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

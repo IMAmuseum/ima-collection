@@ -1,26 +1,30 @@
 {
-    "accession_number": "41.37", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1895", 
-            "name": "Ritchie, Alexander Hay", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1870", 
-    "credit_line": "Gift of Hanover College", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10451, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Ohio River, Hanover College"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Ohio River, Hanover College", 
+  "accession_number": "41.37", 
+  "credit_line": "Gift of Hanover College", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156103, 
+  "creation_date": "about 1870", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Ritchie, Alexander Hay", 
+      "after_follower": null, 
+      "death_date": "1895", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298633, 
+      "role": "Artist", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10451, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

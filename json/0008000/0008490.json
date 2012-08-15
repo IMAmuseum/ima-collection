@@ -1,30 +1,34 @@
 {
-    "accession_number": "62.173", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1920", 
-            "death_date": "2011", 
-            "name": "Arthur Deshaies", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "38 x 61 1/8 in.", 
-    "dynasty": null, 
-    "irn": 8490, 
-    "materials": "plast cut print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Pratt Graphic Art Center"
-        }
-    ], 
-    "rights": "\u00a9 Arthur Deshaies", 
-    "title": "Cycle of a Large Sea-Night Rider's Labyrinth"
+  "publishers": [
+    {
+      "name": "Pratt Graphic Art Center"
+    }
+  ], 
+  "rights": "\u00a9 Arthur Deshaies", 
+  "dimensions": "38 x 61 1/8 in.", 
+  "title": "Cycle of a Large Sea-Night Rider's Labyrinth", 
+  "accession_number": "62.173", 
+  "credit_line": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151377, 
+  "creation_date": null, 
+  "materials": "plast cut print", 
+  "actors": [
+    {
+      "name": "Arthur Deshaies", 
+      "after_follower": null, 
+      "death_date": "2011", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298013, 
+      "role": "Artist", 
+      "birth_date": "1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8490, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

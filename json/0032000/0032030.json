@@ -1,26 +1,30 @@
 {
-    "accession_number": "1994.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1874", 
-            "death_date": "1940", 
-            "name": "Hine, Lewis Wickes", 
-            "nationality": null, 
-            "role": "Photographer"
-        }
-    ], 
-    "creation_date": "1908", 
-    "credit_line": "James V. Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "4 13/16 x 6 15/16 in.", 
-    "dynasty": null, 
-    "irn": 32030, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Factory Group, Indianapolis"
+  "publishers": [], 
+  "dimensions": "4 13/16 x 6 15/16 in.", 
+  "rights": null, 
+  "credit_line": "James V. Sweetser Fund", 
+  "accession_number": "1994.23", 
+  "title": "Factory Group, Indianapolis", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220735, 
+  "creation_date": "1908", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Hine, Lewis Wickes", 
+      "after_follower": null, 
+      "death_date": "1940", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303165, 
+      "role": "Photographer", 
+      "birth_date": "1874", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32030, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

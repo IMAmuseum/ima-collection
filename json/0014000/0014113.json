@@ -1,26 +1,30 @@
 {
-    "accession_number": "83.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1853", 
-            "death_date": "1889", 
-            "name": "Chase, Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Purchased by subscription", 
-    "cultures": [], 
-    "dimensions": "30 x 25 in.", 
-    "dynasty": null, 
-    "irn": 14113, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Running for Anchorage"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "30 x 25 in.", 
+  "title": "Running for Anchorage", 
+  "accession_number": "83.2", 
+  "credit_line": "Purchased by subscription", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164969, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Chase, Henry", 
+      "after_follower": null, 
+      "death_date": "1889", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299527, 
+      "role": "Artist", 
+      "birth_date": "1853", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14113, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

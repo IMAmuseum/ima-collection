@@ -1,34 +1,40 @@
 {
-    "accession_number": "24.290", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1819", 
-            "death_date": "1891", 
-            "name": "Jongkind, Johan Barthold", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1822", 
-            "death_date": "1907", 
-            "name": "Del\u00e2tre, Auguste", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1862", 
-    "credit_line": "Gift of the children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8567, 
-    "materials": "etching chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Vue de La Ville de Maaslins (Hollande)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Vue de La Ville de Maaslins (Hollande)", 
+  "accession_number": "24.290", 
+  "credit_line": "Gift of the children of Thomas E. Hibben", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151559, 
+  "creation_date": "1862", 
+  "materials": "etching chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Jongkind, Johan Barthold", 
+      "after_follower": null, 
+      "death_date": "1891", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298041, 
+      "role": "Artist", 
+      "birth_date": "1819", 
+      "nationality": null
+    }, 
+    {
+      "name": "Del\u00e2tre, Auguste", 
+      "after_follower": null, 
+      "death_date": "1907", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294903, 
+      "role": "Printer", 
+      "birth_date": "1822", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8567, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.84.88", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1798", 
-            "death_date": "1863", 
-            "name": "Harding, James Duffield", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1826", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 82, 
-    "materials": "hand-colored lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Double Cottage, Blaise Hamlet"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Double Cottage, Blaise Hamlet", 
+  "accession_number": "73.84.88", 
+  "credit_line": "Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131337, 
+  "creation_date": "1826", 
+  "materials": "hand-colored lithograph", 
+  "actors": [
+    {
+      "name": "Harding, James Duffield", 
+      "after_follower": null, 
+      "death_date": "1863", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294779, 
+      "role": "Artist", 
+      "birth_date": "1798", 
+      "nationality": null
+    }
+  ], 
+  "irn": 82, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

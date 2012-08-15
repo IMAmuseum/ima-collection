@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2011.11.1-.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Steuben Glass Works", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1924", 
-            "death_date": null, 
-            "name": "Donald Pollard", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1952", 
-    "credit_line": "Koch Design Arts Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "5 x 4 3/4 (diam.) in. each", 
-    "dynasty": null, 
-    "irn": 73235, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Pair of candlesticks"
+  "publishers": [], 
+  "dimensions": "5 x 4 3/4 (diam.) in. each", 
+  "rights": null, 
+  "credit_line": "Koch Design Arts Purchase Fund", 
+  "accession_number": "MH2011.11.1-.2", 
+  "title": "Pair of candlesticks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287951, 
+  "creation_date": "1952", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Steuben Glass Works", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299467, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Donald Pollard", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308611, 
+      "role": "Designer", 
+      "birth_date": "1924", 
+      "nationality": null
+    }
+  ], 
+  "irn": 73235, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

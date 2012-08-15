@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.60.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1854", 
-            "death_date": "1935", 
-            "name": "Forsyth, William J.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1882", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 44324, 
-    "materials": "pencil on gray paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Estates of William J. and Constance Forsyth \u00a9 The Estates of William J. and Constance Forsyth", 
-    "title": "Maximillian Bridge, Munich (right half)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 The Estates of William J. and Constance Forsyth \u00a9 The Estates of William J. and Constance Forsyth", 
+  "credit_line": "Museum Accession", 
+  "accession_number": "1985.60.20", 
+  "title": "Maximillian Bridge, Munich (right half)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18251621, 
+  "creation_date": "1882", 
+  "materials": "pencil on gray paper", 
+  "actors": [
+    {
+      "name": "Forsyth, William J.", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294989, 
+      "role": "Artist", 
+      "birth_date": "1854", 
+      "nationality": null
+    }
+  ], 
+  "irn": 44324, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

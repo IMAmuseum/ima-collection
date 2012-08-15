@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.123", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1898", 
-            "death_date": "1988", 
-            "name": "Bes-Ben", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1940s", 
-    "credit_line": "Purchased with funds provided by Benjamin B. Green-Field Foundation", 
-    "cultures": [], 
-    "dimensions": "9 x 9 x 3 in.", 
-    "dynasty": null, 
-    "irn": 61321, 
-    "materials": "feathers, sequins, beads, netting", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Bes-Ben", 
-    "title": "hat (swan)"
+  "publishers": [], 
+  "dimensions": "9 x 9 x 3 in.", 
+  "rights": "\u00a9 Bes-Ben", 
+  "credit_line": "Purchased with funds provided by Benjamin B. Green-Field Foundation", 
+  "accession_number": "2003.123", 
+  "title": "hat (swan)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276895, 
+  "creation_date": "1940s", 
+  "materials": "feathers, sequins, beads, netting", 
+  "actors": [
+    {
+      "name": "Bes-Ben", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305683, 
+      "role": "Designer", 
+      "birth_date": "1898", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61321, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

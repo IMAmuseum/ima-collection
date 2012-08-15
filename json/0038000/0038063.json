@@ -1,42 +1,50 @@
 {
-    "accession_number": "80.827.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Craig, William Marshall", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1822", 
-            "name": "Basire, James II", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1822", 
-            "name": "Basire, James II", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1801", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38063, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Hall of Little Mitton"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.827.2", 
+  "title": "The Hall of Little Mitton", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235137, 
+  "creation_date": "1801", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Craig, William Marshall", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304231, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Basire, James II", 
+      "after_follower": null, 
+      "death_date": "1822", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303829, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }, 
+    {
+      "name": "Basire, James II", 
+      "after_follower": null, 
+      "death_date": "1822", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303829, 
+      "role": "Engraver", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38063, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

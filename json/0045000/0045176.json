@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1904", 
-    "credit_line": "Bequest of Helen Marie Willeford", 
-    "cultures": [], 
-    "dimensions": "22 1/8 x 32 in.\n36 x 45 x 4 in. (framed)", 
-    "dynasty": null, 
-    "irn": 45176, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Brookville Landscape"
+  "publishers": [], 
+  "dimensions": "22 1/8 x 32 in.\n36 x 45 x 4 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Bequest of Helen Marie Willeford", 
+  "accession_number": "2001.15", 
+  "title": "Brookville Landscape", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253703, 
+  "creation_date": "1904", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45176, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

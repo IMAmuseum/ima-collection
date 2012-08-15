@@ -1,26 +1,30 @@
 {
-    "accession_number": "64.740", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1755", 
-            "death_date": "1842", 
-            "name": "Vig\u00e9e-LeBrun, Elizabeth Louise", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1776", 
-    "credit_line": "Gift of Mrs. Ralph W. Showalter", 
-    "cultures": [], 
-    "dimensions": "25 3/8 x 21 1/16 in.", 
-    "dynasty": null, 
-    "irn": 4789, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Prince of Nassau"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "25 3/8 x 21 1/16 in.", 
+  "title": "The Prince of Nassau", 
+  "accession_number": "64.740", 
+  "credit_line": "Gift of Mrs. Ralph W. Showalter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142611, 
+  "creation_date": "1776", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Vig\u00e9e-LeBrun, Elizabeth Louise", 
+      "after_follower": null, 
+      "death_date": "1842", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296911, 
+      "role": "Artist", 
+      "birth_date": "1755", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4789, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

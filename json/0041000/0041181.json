@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1636.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1765", 
-            "death_date": "1836", 
-            "name": "Westall, Richard", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1803", 
-            "death_date": "1887", 
-            "name": "Bacon, Frederick", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1835", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41181, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L'Allegra"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1636.1", 
+  "title": "L'Allegra", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243903, 
+  "creation_date": "1835", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Westall, Richard", 
+      "after_follower": null, 
+      "death_date": "1836", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304635, 
+      "role": "Artist", 
+      "birth_date": "1765", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bacon, Frederick", 
+      "after_follower": null, 
+      "death_date": "1887", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304801, 
+      "role": "Engraver", 
+      "birth_date": "1803", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41181, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

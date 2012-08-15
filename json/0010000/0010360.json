@@ -1,38 +1,44 @@
 {
-    "accession_number": "1990.80", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1899", 
-            "death_date": "1991", 
-            "name": "Tamayo, Rufino", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": null, 
-            "name": "Tyler, Kenneth", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1964", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "22 x 18 in (sheet)", 
-    "dynasty": null, 
-    "irn": 10360, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tamarind Lithography Workshop, Inc."
-        }
-    ], 
-    "rights": "\u00a9 Kenneth Tyler", 
-    "title": "Profile of a Man"
+  "publishers": [
+    {
+      "name": "Tamarind Lithography Workshop, Inc."
+    }
+  ], 
+  "rights": "\u00a9 Kenneth Tyler", 
+  "dimensions": "22 x 18 in (sheet)", 
+  "title": "Profile of a Man", 
+  "accession_number": "1990.80", 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155913, 
+  "creation_date": "1964", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Tamayo, Rufino", 
+      "after_follower": null, 
+      "death_date": "1991", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297225, 
+      "role": "Artist", 
+      "birth_date": "1899", 
+      "nationality": null
+    }, 
+    {
+      "name": "Tyler, Kenneth", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298331, 
+      "role": "Printer", 
+      "birth_date": "1931", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10360, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

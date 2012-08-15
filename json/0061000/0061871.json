@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.53A-T", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Alphonse Daudet", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1903", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 1/2 x 5 7/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 61871, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "George D. Sproul"
-        }
-    ], 
-    "rights": null, 
-    "title": null
+  "publishers": [
+    {
+      "name": "George D. Sproul"
+    }
+  ], 
+  "dimensions": "8 1/2 x 5 7/8 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.53A-T", 
+  "title": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277363, 
+  "creation_date": "1903", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Alphonse Daudet", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306235, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61871, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

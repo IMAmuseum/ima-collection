@@ -1,30 +1,34 @@
 {
-    "accession_number": "2008.765", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1920", 
-            "death_date": null, 
-            "name": "Russell, Alfred", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1947", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "9 x 5 7/8 in. (image)\n12 x 9 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 66701, 
-    "materials": "engraving on cream wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Atelier 17"
-        }
-    ], 
-    "publishers": [], 
-    "rights": "\u00a9 Alfred Russell", 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": "9 x 5 7/8 in. (image)\n12 x 9 1/8 in. (sheet)", 
+  "rights": "\u00a9 Alfred Russell", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2008.765", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18281129, 
+  "creation_date": "1947", 
+  "materials": "engraving on cream wove paper", 
+  "actors": [
+    {
+      "name": "Russell, Alfred", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306627, 
+      "role": "Artist", 
+      "birth_date": "1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 66701, 
+  "printers": [
+    {
+      "name": "Atelier 17"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.375", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1818", 
-            "death_date": "1866", 
-            "name": "Burnham, Thomas Mickell", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1840", 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "36 x 29 in.\n40 5/8 x 33 1/2 in. (framed)", 
-    "dynasty": null, 
-    "irn": 8753, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Young Artist"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "36 x 29 in.\n40 5/8 x 33 1/2 in. (framed)", 
+  "title": "The Young Artist", 
+  "accession_number": "80.375", 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152031, 
+  "creation_date": "1840", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Burnham, Thomas Mickell", 
+      "after_follower": null, 
+      "death_date": "1866", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298111, 
+      "role": "Artist", 
+      "birth_date": "1818", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8753, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

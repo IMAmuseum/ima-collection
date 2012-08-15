@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.132", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1939", 
-            "death_date": null, 
-            "name": "Alexander, Peter", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1968", 
-    "credit_line": "Museum Accesion", 
-    "cultures": [], 
-    "dimensions": "20 x 9 1/2 x 9", 
-    "dynasty": null, 
-    "irn": 30815, 
-    "materials": "cast polyester resin", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Peter Alexander", 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": "20 x 9 1/2 x 9", 
+  "rights": "\u00a9 Peter Alexander", 
+  "credit_line": "Museum Accesion", 
+  "accession_number": "70.132", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18217983, 
+  "creation_date": "1968", 
+  "materials": "cast polyester resin", 
+  "actors": [
+    {
+      "name": "Alexander, Peter", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302985, 
+      "role": "Artist", 
+      "birth_date": "1939", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30815, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

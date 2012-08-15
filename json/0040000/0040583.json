@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1641.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1806", 
-            "death_date": "1854", 
-            "name": "Bentley, Charles", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1836", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 40583, 
-    "materials": "engraving on India paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Entrance to the Keree Pass"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1641.2", 
+  "title": "Entrance to the Keree Pass", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18242193, 
+  "creation_date": "1836", 
+  "materials": "engraving on India paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Bentley, Charles", 
+      "after_follower": null, 
+      "death_date": "1854", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304687, 
+      "role": "Artist", 
+      "birth_date": "1806", 
+      "nationality": null
+    }
+  ], 
+  "irn": 40583, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

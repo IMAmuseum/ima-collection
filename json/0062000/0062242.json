@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.89A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "RichardBrinsley Sheridan", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1883", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "7 5/8 x 5 3/5 in. (each)", 
-    "dynasty": null, 
-    "irn": 62242, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Dodd, Mead & Co."
-        }
-    ], 
-    "rights": null, 
-    "title": "The Dramatic Works of Richard Brinsley Sheridan (volumes 1-3)"
+  "publishers": [
+    {
+      "name": "Dodd, Mead & Co."
+    }
+  ], 
+  "dimensions": "7 5/8 x 5 3/5 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.89A-C", 
+  "title": "The Dramatic Works of Richard Brinsley Sheridan (volumes 1-3)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277617, 
+  "creation_date": "1883", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "RichardBrinsley Sheridan", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306385, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62242, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

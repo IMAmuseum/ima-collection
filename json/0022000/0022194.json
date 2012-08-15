@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.104", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1719", 
-            "death_date": "1769", 
-            "name": "Pierre Fran\u00e7ois Beaumont", 
-            "nationality": "French", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 22194, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Angel Appearing to the Shepherds"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.104", 
+  "title": "Angel Appearing to the Shepherds", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18197869, 
+  "creation_date": "18th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Pierre Fran\u00e7ois Beaumont", 
+      "after_follower": null, 
+      "death_date": "1769", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301363, 
+      "role": "Artist", 
+      "birth_date": "1719", 
+      "nationality": "French"
+    }
+  ], 
+  "irn": 22194, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.478.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Sophie Cook", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Sophie Cook", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1997-2003", 
-    "credit_line": "Frank Curtis Springer & Irving Moxley Springer Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "14 x 3 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64835, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Sophie Cook", 
-    "title": "Pod & Teardrop vase (medium teardrop)"
+  "publishers": [], 
+  "dimensions": "14 x 3 1/2 in.", 
+  "rights": "\u00a9 Sophie Cook", 
+  "credit_line": "Frank Curtis Springer & Irving Moxley Springer Purchase Fund", 
+  "accession_number": "2009.478.2", 
+  "title": "Pod & Teardrop vase (medium teardrop)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279381, 
+  "creation_date": "1997-2003", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Sophie Cook", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307089, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Sophie Cook", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307089, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64835, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

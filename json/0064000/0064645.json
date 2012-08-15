@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.360", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bouroullec Brothers", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Vitra AG", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2004", 
-    "credit_line": "Gift of Vitra, Switzerland", 
-    "cultures": [], 
-    "dimensions": "One Unit: 12 \u00d7 8 \u00d7 2 in.", 
-    "dynasty": null, 
-    "irn": 64645, 
-    "materials": "plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Bouroullec Brothers", 
-    "title": "Algue screen"
+  "publishers": [], 
+  "dimensions": "One Unit: 12 \u00d7 8 \u00d7 2 in.", 
+  "rights": "\u00a9 Bouroullec Brothers", 
+  "credit_line": "Gift of Vitra, Switzerland", 
+  "accession_number": "2009.360", 
+  "title": "Algue screen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279137, 
+  "creation_date": "2004", 
+  "materials": "plastic", 
+  "actors": [
+    {
+      "name": "Bouroullec Brothers", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306837, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Vitra AG", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306781, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64645, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

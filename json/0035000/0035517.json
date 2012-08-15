@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1783", 
-            "death_date": "1856", 
-            "name": "Yamamoto Baiitsu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Thomas W. Ayton and Helen Adams Bobbs Funds", 
-    "cultures": [], 
-    "dimensions": "70 x 35 1/2 in. (each panel)", 
-    "dynasty": null, 
-    "irn": 35517, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Pine Tree"
+  "publishers": [], 
+  "dimensions": "70 x 35 1/2 in. (each panel)", 
+  "rights": null, 
+  "credit_line": "Thomas W. Ayton and Helen Adams Bobbs Funds", 
+  "accession_number": "82.6", 
+  "title": "Pine Tree", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18228813, 
+  "creation_date": null, 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Yamamoto Baiitsu", 
+      "after_follower": null, 
+      "death_date": "1856", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300443, 
+      "role": "Artist", 
+      "birth_date": "1783", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35517, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

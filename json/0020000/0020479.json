@@ -1,26 +1,30 @@
 {
-    "accession_number": "1987.200", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1927", 
-            "death_date": null, 
-            "name": "Givenchy, Hubert de", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1985", 
-    "credit_line": "Gift of Lorraine DeAngelis", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20479, 
-    "materials": "wool, angora, beads, glass, metallic threads", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "evening dress"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Lorraine DeAngelis", 
+  "accession_number": "1987.200", 
+  "title": "evening dress", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193975, 
+  "creation_date": "1985", 
+  "materials": "wool, angora, beads, glass, metallic threads", 
+  "actors": [
+    {
+      "name": "Givenchy, Hubert de", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300821, 
+      "role": "Designer", 
+      "birth_date": "1927", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20479, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

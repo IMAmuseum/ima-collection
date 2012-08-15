@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.360", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": "1997", 
-            "name": "Stamos, Theodoros", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Jack Weldon and Jane Myers", 
-    "cultures": [], 
-    "dimensions": "36 x 25 in.", 
-    "dynasty": null, 
-    "irn": 42835, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Theodoros Stamos Estate", 
-    "title": "untitled"
+  "publishers": [], 
+  "dimensions": "36 x 25 in.", 
+  "rights": "\u00a9 Theodoros Stamos Estate", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Jack Weldon and Jane Myers", 
+  "accession_number": "2000.360", 
+  "title": "untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18248435, 
+  "creation_date": null, 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Stamos, Theodoros", 
+      "after_follower": null, 
+      "death_date": "1997", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305001, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42835, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

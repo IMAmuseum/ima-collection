@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.81", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": null, 
-            "name": "Robert Indiana", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Alcoa", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5885, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
-    "title": "4 Americans in Paris, Museum of Modern Art"
+  "publishers": [], 
+  "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
+  "dimensions": null, 
+  "title": "4 Americans in Paris, Museum of Modern Art", 
+  "accession_number": "71.81", 
+  "credit_line": "Gift of Alcoa", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145215, 
+  "creation_date": "1970", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Robert Indiana", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296207, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5885, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

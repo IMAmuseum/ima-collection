@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1641.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1804", 
-            "death_date": "1872", 
-            "name": "Allom, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1809", 
-            "death_date": "1851", 
-            "name": "Bentley, Joseph Clayton", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1836", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41228, 
-    "materials": "engraving on India paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Crossing the Sangha Near Jumnootree"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1641.15", 
+  "title": "Crossing the Sangha Near Jumnootree", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18244039, 
+  "creation_date": "1836", 
+  "materials": "engraving on India paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Allom, Thomas", 
+      "after_follower": null, 
+      "death_date": "1872", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296161, 
+      "role": "Artist", 
+      "birth_date": "1804", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bentley, Joseph Clayton", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304777, 
+      "role": "Engraver", 
+      "birth_date": "1809", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41228, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

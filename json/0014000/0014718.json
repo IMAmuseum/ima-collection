@@ -1,26 +1,30 @@
 {
-    "accession_number": "10.241", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1848", 
-            "death_date": "1907", 
-            "name": "Saint-Gaudens, Augustus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1880-1880", 
-    "credit_line": "Gift of Mrs. Saint-Gaudens", 
-    "cultures": [], 
-    "dimensions": "14 1/2 x 10 1/2 in.", 
-    "dynasty": null, 
-    "irn": 14718, 
-    "materials": "Bronze Relief", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Jules Bastien-Lepage"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "14 1/2 x 10 1/2 in.", 
+  "title": "Portrait of Jules Bastien-Lepage", 
+  "accession_number": "10.241", 
+  "credit_line": "Gift of Mrs. Saint-Gaudens", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166415, 
+  "creation_date": "1880-1880", 
+  "materials": "Bronze Relief", 
+  "actors": [
+    {
+      "name": "Saint-Gaudens, Augustus", 
+      "after_follower": null, 
+      "death_date": "1907", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297019, 
+      "role": "Artist", 
+      "birth_date": "1848", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14718, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

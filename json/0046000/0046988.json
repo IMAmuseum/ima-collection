@@ -1,30 +1,34 @@
 {
-    "accession_number": "06.136", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Utagawa Fusatane", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1866", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 13 7/16 in. (image)\n10 x 14 11/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 46988, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Mori-ya Jihei"
-        }
-    ], 
-    "rights": null, 
-    "title": "Night Rain at Karasaki"
+  "publishers": [
+    {
+      "name": "Mori-ya Jihei"
+    }
+  ], 
+  "dimensions": "8 3/4 x 13 7/16 in. (image)\n10 x 14 11/16 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "06.136", 
+  "title": "Night Rain at Karasaki", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18257807, 
+  "creation_date": "1866", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Fusatane", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305329, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 46988, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

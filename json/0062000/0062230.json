@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.77A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "John Lilly", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1858", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 x 5 1/2 in. (each)", 
-    "dynasty": null, 
-    "irn": 62230, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "John Russell Smith"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Dramatic Works of John Lilly"
+  "publishers": [
+    {
+      "name": "John Russell Smith"
+    }
+  ], 
+  "dimensions": "8 x 5 1/2 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.77A", 
+  "title": "The Dramatic Works of John Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277593, 
+  "creation_date": "1858", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "John Lilly", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306355, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62230, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

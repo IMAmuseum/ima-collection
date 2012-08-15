@@ -1,26 +1,30 @@
 {
-    "accession_number": "1998.161", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1867", 
-            "death_date": "1946", 
-            "name": "Lanvin, Jeanne", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1960's", 
-    "credit_line": "Gift of Dorit and Gerald Paul", 
-    "cultures": [], 
-    "dimensions": "29 x 28 in.", 
-    "dynasty": null, 
-    "irn": 1011, 
-    "materials": "wool, printed and machine quilted", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "jacket"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "29 x 28 in.", 
+  "title": "jacket", 
+  "accession_number": "1998.161", 
+  "credit_line": "Gift of Dorit and Gerald Paul", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133641, 
+  "creation_date": "1960's", 
+  "materials": "wool, printed and machine quilted", 
+  "actors": [
+    {
+      "name": "Lanvin, Jeanne", 
+      "after_follower": null, 
+      "death_date": "1946", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295295, 
+      "role": "Artist", 
+      "birth_date": "1867", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1011, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

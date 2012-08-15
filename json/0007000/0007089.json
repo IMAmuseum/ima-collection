@@ -1,26 +1,30 @@
 {
-    "accession_number": "62.138", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1592", 
-            "death_date": "1635", 
-            "name": "Callot, Jacques", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1624", 
-    "credit_line": "Gift of Mr. T. Victor Keene", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7089, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Flagellation of Christ"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Flagellation of Christ", 
+  "accession_number": "62.138", 
+  "credit_line": "Gift of Mr. T. Victor Keene", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18148111, 
+  "creation_date": "1624", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Callot, Jacques", 
+      "after_follower": null, 
+      "death_date": "1635", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295121, 
+      "role": "Artist", 
+      "birth_date": "1592", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7089, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

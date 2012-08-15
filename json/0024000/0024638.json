@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.44", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1971", 
-            "name": "Kent, Rockwell", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 24638, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "By permission of Plattsburgh State Art Museum, Rockwell Kent Gallery and Collection", 
-    "title": "Child and Lamb"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "By permission of Plattsburgh State Art Museum, Rockwell Kent Gallery and Collection", 
+  "credit_line": "Jacob Metzger Fund", 
+  "accession_number": "30.44", 
+  "title": "Child and Lamb", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18203535, 
+  "creation_date": "20th century", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "Kent, Rockwell", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296097, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24638, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

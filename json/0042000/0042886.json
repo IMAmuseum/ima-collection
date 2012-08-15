@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.315", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1861", 
-            "name": "Utagawa Kuniyoshi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1847", 
-    "credit_line": "Bequest of Grace Ritchie", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 42886, 
-    "materials": "color woodcut", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Little Profit, Great Loss"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Grace Ritchie", 
+  "accession_number": "2000.315", 
+  "title": "Little Profit, Great Loss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18248569, 
+  "creation_date": "1847", 
+  "materials": "color woodcut", 
+  "actors": [
+    {
+      "name": "Utagawa Kuniyoshi", 
+      "after_follower": null, 
+      "death_date": "1861", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301701, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42886, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

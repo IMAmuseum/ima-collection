@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.99.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Wierix, Johan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1593", 
-    "credit_line": "The Anna Hasselman Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16569, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Death of Lazarus"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Death of Lazarus", 
+  "accession_number": "73.99.1", 
+  "credit_line": "The Anna Hasselman Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170965, 
+  "creation_date": "1593", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Wierix, Johan", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300215, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 16569, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

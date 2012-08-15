@@ -1,30 +1,34 @@
 {
-    "accession_number": "32.136", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1954", 
-            "name": "Matisse, Henri", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1927", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": "18 5/8 x 12 15/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 24898, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "La Galerie d\u0092Art  Contemporain de Paris"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Seated Dancer, Left Leg Folded Under"
+  "publishers": [
+    {
+      "name": "La Galerie d\u0092Art  Contemporain de Paris"
+    }
+  ], 
+  "dimensions": "18 5/8 x 12 15/16 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of the Gamboliers", 
+  "accession_number": "32.136", 
+  "title": "Seated Dancer, Left Leg Folded Under", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204119, 
+  "creation_date": "1927", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Matisse, Henri", 
+      "after_follower": null, 
+      "death_date": "1954", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298025, 
+      "role": "Artist", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24898, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

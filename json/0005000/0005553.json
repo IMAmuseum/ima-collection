@@ -1,26 +1,30 @@
 {
-    "accession_number": "28.13", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1868", 
-            "death_date": "1949", 
-            "name": "Ryder, Chauncey Foster", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1925", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5553, 
-    "materials": "drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Road and Cedar Tree"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Road and Cedar Tree", 
+  "accession_number": "28.13", 
+  "credit_line": "Jacob Metzger Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144401, 
+  "creation_date": "about 1925", 
+  "materials": "drypoint", 
+  "actors": [
+    {
+      "name": "Ryder, Chauncey Foster", 
+      "after_follower": null, 
+      "death_date": "1949", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297185, 
+      "role": "Artist", 
+      "birth_date": "1868", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5553, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

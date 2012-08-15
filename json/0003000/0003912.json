@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.209", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1604", 
-            "death_date": "1670", 
-            "name": "Vaccaro, Andrea", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1640", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": "20 1/2 x 26 5/8 in.", 
-    "dynasty": null, 
-    "irn": 3912, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Raising of Lazarus"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "20 1/2 x 26 5/8 in.", 
+  "title": "The Raising of Lazarus", 
+  "accession_number": "57.209", 
+  "credit_line": "Delavan Smith Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140573, 
+  "creation_date": "about 1640", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Vaccaro, Andrea", 
+      "after_follower": null, 
+      "death_date": "1670", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296609, 
+      "role": "Artist", 
+      "birth_date": "1604", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3912, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

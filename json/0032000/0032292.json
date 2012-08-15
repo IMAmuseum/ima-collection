@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.164", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1957", 
-            "name": "Kawase Hasui", 
-            "nationality": "Japanese", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1948", 
-    "credit_line": "Gift of Thomas Kuebler in honor of Steven Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32292, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Kawase Hasui", 
-    "title": "Momoura, Ibaraki Prefecture"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Kawase Hasui", 
+  "credit_line": "Gift of Thomas Kuebler in honor of Steven Conant", 
+  "accession_number": "1999.164", 
+  "title": "Momoura, Ibaraki Prefecture", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221331, 
+  "creation_date": "1948", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Kawase Hasui", 
+      "after_follower": null, 
+      "death_date": "1957", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297363, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": "Japanese"
+    }
+  ], 
+  "irn": 32292, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "71.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1566", 
-            "death_date": "1651", 
-            "name": "Bloemaert, Abraham", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1565", 
-            "death_date": "1607", 
-            "name": "Saenredam, Jan", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "10 1/8 x 7 5/8 in.", 
-    "dynasty": null, 
-    "irn": 33330, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Adam and Eve"
+  "publishers": [], 
+  "dimensions": "10 1/8 x 7 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "accession_number": "71.16", 
+  "title": "Adam and Eve", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223811, 
+  "creation_date": null, 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Bloemaert, Abraham", 
+      "after_follower": null, 
+      "death_date": "1651", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296875, 
+      "role": "Artist", 
+      "birth_date": "1566", 
+      "nationality": null
+    }, 
+    {
+      "name": "Saenredam, Jan", 
+      "after_follower": null, 
+      "death_date": "1607", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303367, 
+      "role": "Engraver", 
+      "birth_date": "1565", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33330, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

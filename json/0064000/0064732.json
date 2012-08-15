@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.386", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1955", 
-            "death_date": null, 
-            "name": "Danny Lane", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Danny Lane Artworks", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1988", 
-    "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "35 \u00d7 181/2 \u00d7 22 1/2in.", 
-    "dynasty": null, 
-    "irn": 64732, 
-    "materials": "glass and steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Danny Lane", 
-    "title": "Etruscan chair"
+  "publishers": [], 
+  "dimensions": "35 \u00d7 181/2 \u00d7 22 1/2in.", 
+  "rights": "\u00a9 Danny Lane", 
+  "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
+  "accession_number": "2009.386", 
+  "title": "Etruscan chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279245, 
+  "creation_date": "1988", 
+  "materials": "glass and steel", 
+  "actors": [
+    {
+      "name": "Danny Lane", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307023, 
+      "role": "Designer", 
+      "birth_date": "1955", 
+      "nationality": null
+    }, 
+    {
+      "name": "Danny Lane Artworks", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307025, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64732, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

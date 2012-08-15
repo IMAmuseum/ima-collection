@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.233", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1715-1791", 
-            "death_date": "1715-1791", 
-            "name": "Dalton, Richard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1753", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14400, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Stoning of St. Stephen"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Stoning of St. Stephen", 
+  "accession_number": "09.233", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165693, 
+  "creation_date": "1753", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Dalton, Richard", 
+      "after_follower": null, 
+      "death_date": "1715-1791", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299611, 
+      "role": "Artist", 
+      "birth_date": "1715-1791", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14400, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

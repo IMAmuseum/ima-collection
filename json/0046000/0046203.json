@@ -1,28 +1,32 @@
 {
-    "accession_number": "2001.170", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "unknown", 
-            "death_date": "unknown", 
-            "name": "Oshamuko of Osi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "early 20th century", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art with funds from the Roger G. Wolcott Fund and Mr. and Mrs. Theodore P. Van Vorhees Art Fund", 
-    "cultures": [
-        "Oyo people"
-    ], 
-    "dimensions": "40 3/8 x 25 5/8 x 3 in.", 
-    "dynasty": null, 
-    "irn": 46203, 
-    "materials": "wood, pigment, steel", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "door for palace interior"
+  "publishers": [], 
+  "dimensions": "40 3/8 x 25 5/8 x 3 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art with funds from the Roger G. Wolcott Fund and Mr. and Mrs. Theodore P. Van Vorhees Art Fund", 
+  "accession_number": "2001.170", 
+  "title": "door for palace interior", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18256101, 
+  "creation_date": "early 20th century", 
+  "materials": "wood, pigment, steel", 
+  "actors": [
+    {
+      "name": "Oshamuko of Osi", 
+      "after_follower": null, 
+      "death_date": "unknown", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305259, 
+      "role": "Artist", 
+      "birth_date": "unknown", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46203, 
+  "printers": [], 
+  "cultures": [
+    "Oyo people"
+  ], 
+  "dynasty": null, 
+  "on_view": true
 }

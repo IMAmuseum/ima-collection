@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.453", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1819", 
-            "death_date": "1900", 
-            "name": "Ruskin, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1870", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "19 x 15 in.", 
-    "dynasty": null, 
-    "irn": 22141, 
-    "materials": "pen, ink and watercolor on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chestnut Leaves"
+  "publishers": [], 
+  "dimensions": "19 x 15 in.", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "13.453", 
+  "title": "Chestnut Leaves", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18197727, 
+  "creation_date": "about 1870", 
+  "materials": "pen, ink and watercolor on white paper", 
+  "actors": [
+    {
+      "name": "Ruskin, John", 
+      "after_follower": null, 
+      "death_date": "1900", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294805, 
+      "role": "Artist", 
+      "birth_date": "1819", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22141, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

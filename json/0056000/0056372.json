@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.2A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1959", 
-            "death_date": null, 
-            "name": "Jessica Stockholder", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1999", 
-    "credit_line": "Gift of the Contemporary Art Society", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 56372, 
-    "materials": "wood, plastic hard hat, raw sheep's wool, metal plant stand, plastic wheels, fabric, plexiglass, duct tape, metal hardware, string, latex caulking, oil paint plastic ties, green ribbon, green cord", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jessica Stockholder", 
-    "title": "no title"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Jessica Stockholder", 
+  "credit_line": "Gift of the Contemporary Art Society", 
+  "accession_number": "2002.2A-B", 
+  "title": "no title", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18273811, 
+  "creation_date": "1999", 
+  "materials": "wood, plastic hard hat, raw sheep's wool, metal plant stand, plastic wheels, fabric, plexiglass, duct tape, metal hardware, string, latex caulking, oil paint plastic ties, green ribbon, green cord", 
+  "actors": [
+    {
+      "name": "Jessica Stockholder", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305715, 
+      "role": "Artist", 
+      "birth_date": "1959", 
+      "nationality": null
+    }
+  ], 
+  "irn": 56372, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

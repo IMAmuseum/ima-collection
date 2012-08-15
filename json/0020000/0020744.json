@@ -1,26 +1,30 @@
 {
-    "accession_number": "07.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1935", 
-            "name": "Hassam, Childe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1903", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "29 x 36 in.\n40 x 48 in. (framed)", 
-    "dynasty": null, 
-    "irn": 20744, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cliff Rock - Appledore"
+  "publishers": [], 
+  "dimensions": "29 x 36 in.\n40 x 48 in. (framed)", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "07.1", 
+  "title": "Cliff Rock - Appledore", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194569, 
+  "creation_date": "1903", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Hassam, Childe", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295317, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20744, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

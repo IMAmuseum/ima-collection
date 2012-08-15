@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.68", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1722", 
-            "death_date": "1795", 
-            "name": "Brand, Johann Christian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1775", 
-    "credit_line": "Gift of Mrs. John M. Rush", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 17219, 
-    "materials": "hand-colored etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Strohschneider or Coupeur de Paille (Straw Cutter)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. John M. Rush", 
+  "accession_number": "79.68", 
+  "title": "Strohschneider or Coupeur de Paille (Straw Cutter)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18172689, 
+  "creation_date": "1775", 
+  "materials": "hand-colored etching", 
+  "actors": [
+    {
+      "name": "Brand, Johann Christian", 
+      "after_follower": null, 
+      "death_date": "1795", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297471, 
+      "role": "Artist", 
+      "birth_date": "1722", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17219, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

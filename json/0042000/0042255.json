@@ -1,50 +1,60 @@
 {
-    "accession_number": "80.1885.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1819", 
-            "death_date": "1900", 
-            "name": "Ruskin, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1791", 
-            "death_date": "1873", 
-            "name": "Lupton, Thomas Goff", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1803", 
-            "death_date": "1874", 
-            "name": "Boys, Thomas Shotter", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1791", 
-            "death_date": "1873", 
-            "name": "Lupton, Thomas Goff", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1856", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 42255, 
-    "materials": "mezzotint over etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "St. George of the Seaweed, for Modern Painters III"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1885.17", 
+  "title": "St. George of the Seaweed, for Modern Painters III", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18246855, 
+  "creation_date": "1856", 
+  "materials": "mezzotint over etching", 
+  "actors": [
+    {
+      "name": "Ruskin, John", 
+      "after_follower": null, 
+      "death_date": "1900", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294805, 
+      "role": "Artist", 
+      "birth_date": "1819", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lupton, Thomas Goff", 
+      "after_follower": null, 
+      "death_date": "1873", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295089, 
+      "role": "Artist", 
+      "birth_date": "1791", 
+      "nationality": null
+    }, 
+    {
+      "name": "Boys, Thomas Shotter", 
+      "after_follower": null, 
+      "death_date": "1874", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299555, 
+      "role": "Artist", 
+      "birth_date": "1803", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lupton, Thomas Goff", 
+      "after_follower": null, 
+      "death_date": "1873", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295089, 
+      "role": "Engraver", 
+      "birth_date": "1791", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42255, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

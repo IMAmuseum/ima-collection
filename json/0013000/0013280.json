@@ -1,30 +1,34 @@
 {
-    "accession_number": "1983.196", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1807", 
-            "death_date": "1885", 
-            "name": "Smillie, James", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1850", 
-    "credit_line": "Gift of Jerry M. Wright", 
-    "cultures": [], 
-    "dimensions": "14 1/4 x 18 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 13280, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "American Art Union"
-        }
-    ], 
-    "rights": null, 
-    "title": "Dream of Arcadia"
+  "publishers": [
+    {
+      "name": "American Art Union"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "14 1/4 x 18 1/2 in. (sheet)", 
+  "title": "Dream of Arcadia", 
+  "accession_number": "1983.196", 
+  "credit_line": "Gift of Jerry M. Wright", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162995, 
+  "creation_date": "1850", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Smillie, James", 
+      "after_follower": null, 
+      "death_date": "1885", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294799, 
+      "role": "Artist", 
+      "birth_date": "1807", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13280, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

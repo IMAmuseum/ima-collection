@@ -1,34 +1,40 @@
 {
-    "accession_number": "81.809", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1937", 
-            "death_date": null, 
-            "name": "Ruscha, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Cirrus Editions, Ltd.", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 796, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "America Whistles"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "America Whistles", 
+  "accession_number": "81.809", 
+  "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133103, 
+  "creation_date": "1975", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Ruscha, Edward", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295179, 
+      "role": "Artist", 
+      "birth_date": "1937", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cirrus Editions, Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295183, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 796, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

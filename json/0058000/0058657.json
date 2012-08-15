@@ -1,26 +1,30 @@
 {
-    "accession_number": "LH2005.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "William H. Jackson Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1900-1930", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "33 x 53 3/4 x 3/4 in.", 
-    "dynasty": null, 
-    "irn": 58657, 
-    "materials": "metal (brass or bronze)", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "fire screen"
+  "publishers": [], 
+  "dimensions": "33 x 53 3/4 x 3/4 in.", 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "LH2005.8", 
+  "title": "fire screen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18275745, 
+  "creation_date": "1900-1930", 
+  "materials": "metal (brass or bronze)", 
+  "actors": [
+    {
+      "name": "William H. Jackson Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303789, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 58657, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

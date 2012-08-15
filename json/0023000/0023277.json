@@ -1,26 +1,30 @@
 {
-    "accession_number": "16.932", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1756", 
-            "death_date": "1829", 
-            "name": "Hosoda Eishi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1785", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": "15 1/8 x 10 1/8 in. (image & sheet; bled to margins)", 
-    "dynasty": null, 
-    "irn": 23277, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Kisen H^oshi"
+  "publishers": [], 
+  "dimensions": "15 1/8 x 10 1/8 in. (image & sheet; bled to margins)", 
+  "rights": null, 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "accession_number": "16.932", 
+  "title": "Kisen H^oshi", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18200383, 
+  "creation_date": "about 1785", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Hosoda Eishi", 
+      "after_follower": null, 
+      "death_date": "1829", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295047, 
+      "role": "Artist", 
+      "birth_date": "1756", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23277, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

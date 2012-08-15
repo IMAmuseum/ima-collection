@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1916", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1793", 
-            "death_date": "1867", 
-            "name": "Stanfield, Clarkson", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1805", 
-            "death_date": "1862", 
-            "name": "Brandard, Robert", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1832", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "3 7/8 x 5 7/8 in. (image)\n11 3/4 x 17 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 42304, 
-    "materials": "engraving", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Angera"
+  "publishers": [], 
+  "dimensions": "3 7/8 x 5 7/8 in. (image)\n11 3/4 x 17 1/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1916", 
+  "title": "Angera", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18247009, 
+  "creation_date": "1832", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Stanfield, Clarkson", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297077, 
+      "role": "Artist", 
+      "birth_date": "1793", 
+      "nationality": null
+    }, 
+    {
+      "name": "Brandard, Robert", 
+      "after_follower": null, 
+      "death_date": "1862", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295095, 
+      "role": "Engraver", 
+      "birth_date": "1805", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42304, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

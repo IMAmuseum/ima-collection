@@ -1,26 +1,30 @@
 {
-    "accession_number": "12.30C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1830-1844", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "5 13/16 x 8 in. (image)\n6 11/16 x 9 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 10720, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Geese Descending at Katada"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "5 13/16 x 8 in. (image)\n6 11/16 x 9 5/8 in. (sheet)", 
+  "title": "Geese Descending at Katada", 
+  "accession_number": "12.30C", 
+  "credit_line": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18156737, 
+  "creation_date": "1830-1844", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10720, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

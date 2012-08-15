@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.566", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1746", 
-            "death_date": "1828", 
-            "name": "Francisco Jos\u00e9 de Goya y Lucientes", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Joseph E. Cain", 
-    "cultures": [], 
-    "dimensions": "23 1/4 x 19 3/16 in.", 
-    "dynasty": null, 
-    "irn": 17499, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Young Man"
+  "publishers": [], 
+  "dimensions": "23 1/4 x 19 3/16 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Joseph E. Cain", 
+  "accession_number": "74.566", 
+  "title": "Portrait of a Young Man", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18173349, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Francisco Jos\u00e9 de Goya y Lucientes", 
+      "after_follower": null, 
+      "death_date": "1828", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294783, 
+      "role": "Artist", 
+      "birth_date": "1746", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17499, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.825.40", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1721", 
-            "death_date": "1786", 
-            "name": "Wale, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Green, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1750", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37978, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Allegorical: Science leading Man from Ignorance and Vice to Virtue and Faith"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.40", 
+  "title": "Allegorical: Science leading Man from Ignorance and Vice to Virtue and Faith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234885, 
+  "creation_date": "1750", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Wale, Samuel", 
+      "after_follower": null, 
+      "death_date": "1786", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304199, 
+      "role": "Artist", 
+      "birth_date": "1721", 
+      "nationality": null
+    }, 
+    {
+      "name": "Green, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304195, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 37978, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

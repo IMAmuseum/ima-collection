@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.208", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1753", 
-            "death_date": "1817", 
-            "name": "Klauber, Ignaz Sebastian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th-19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23225, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Geometrician"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.208", 
+  "title": "Portrait of a Geometrician", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200253, 
+  "creation_date": "18th-19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Klauber, Ignaz Sebastian", 
+      "after_follower": null, 
+      "death_date": "1817", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301571, 
+      "role": "Artist", 
+      "birth_date": "1753", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23225, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.39", 
-    "actors": [
-        {
-            "after_follower": "Copy of", 
-            "birth_date": "1470", 
-            "death_date": "1559", 
-            "name": "Wen Zhengming", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1470-1644", 
-    "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
-    "cultures": [], 
-    "dimensions": "50 13/16 x 18 3/8 in. (image)\n111 7/8 in. x 24 3/8 in. (overall)", 
-    "dynasty": "Ming dynasty", 
-    "irn": 25382, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Winter Forest in Flying Snow"
+  "publishers": [], 
+  "dimensions": "50 13/16 x 18 3/8 in. (image)\n111 7/8 in. x 24 3/8 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
+  "accession_number": "60.39", 
+  "title": "Winter Forest in Flying Snow", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205229, 
+  "creation_date": "1470-1644", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Wen Zhengming", 
+      "after_follower": "Copy of", 
+      "death_date": "1559", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301593, 
+      "role": "Artist", 
+      "birth_date": "1470", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25382, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Ming dynasty", 
+  "on_view": false
 }

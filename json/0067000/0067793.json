@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Konstantin Grcic", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "ClassiCon", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2003", 
-    "credit_line": "Lucille Stewart Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "30 1/4 x 17 3/4 x 18 in.", 
-    "dynasty": null, 
-    "irn": 67793, 
-    "materials": "fabric", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Konstantin Grcic", 
-    "title": "Mars side chair"
+  "publishers": [], 
+  "dimensions": "30 1/4 x 17 3/4 x 18 in.", 
+  "rights": "\u00a9 Konstantin Grcic", 
+  "credit_line": "Lucille Stewart Endowed Art Fund", 
+  "accession_number": "2010.4", 
+  "title": "Mars side chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283003, 
+  "creation_date": "2003", 
+  "materials": "fabric", 
+  "actors": [
+    {
+      "name": "Konstantin Grcic", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306937, 
+      "role": "Designer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }, 
+    {
+      "name": "ClassiCon", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306943, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67793, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

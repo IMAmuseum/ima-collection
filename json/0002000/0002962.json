@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.13.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1915", 
-            "death_date": "1991", 
-            "name": "Motherwell, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Roger G. Wolcott Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2962, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Lines of St. Gallen"
+  "publishers": [], 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "dimensions": null, 
+  "title": "Lines of St. Gallen", 
+  "accession_number": "73.13.3", 
+  "credit_line": "Roger G. Wolcott Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138335, 
+  "creation_date": "20th century", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Motherwell, Robert", 
+      "after_follower": null, 
+      "death_date": "1991", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296215, 
+      "role": "Artist", 
+      "birth_date": "1915", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2962, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

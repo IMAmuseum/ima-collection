@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.165", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1889", 
-            "death_date": "1956", 
-            "name": "Carnegie, Hattie", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "late 1950s", 
-    "credit_line": "Bequest of Kathryne S. Block", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37052, 
-    "materials": "painted fabric flowers", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "hat"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kathryne S. Block", 
+  "accession_number": "1985.165", 
+  "title": "hat", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232393, 
+  "creation_date": "late 1950s", 
+  "materials": "painted fabric flowers", 
+  "actors": [
+    {
+      "name": "Carnegie, Hattie", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298251, 
+      "role": "Artist", 
+      "birth_date": "1889", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37052, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

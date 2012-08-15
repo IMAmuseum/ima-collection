@@ -1,26 +1,30 @@
 {
-    "accession_number": "39.87", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1878", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "23 3/4 x 19 3/4 in.\n27 x 22 1/2 in. (framed)", 
-    "dynasty": null, 
-    "irn": 17031, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Man"
+  "publishers": [], 
+  "dimensions": "23 3/4 x 19 3/4 in.\n27 x 22 1/2 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "39.87", 
+  "title": "Portrait of a Man", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18172261, 
+  "creation_date": "about 1878", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17031, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

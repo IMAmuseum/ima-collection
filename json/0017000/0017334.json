@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.62", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1723", 
-            "death_date": "1776", 
-            "name": "Ike no Taiga", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1723-1776", 
-    "credit_line": "Mr. and Mrs. William R. Spurlock Fund", 
-    "cultures": [], 
-    "dimensions": "45 5/8 x 16 1/2 in.", 
-    "dynasty": null, 
-    "irn": 17334, 
-    "materials": "color and ink on paper", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "River Village and Fishing Pleasure"
+  "publishers": [], 
+  "dimensions": "45 5/8 x 16 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. William R. Spurlock Fund", 
+  "accession_number": "2000.62", 
+  "title": "River Village and Fishing Pleasure", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18172961, 
+  "creation_date": "1723-1776", 
+  "materials": "color and ink on paper", 
+  "actors": [
+    {
+      "name": "Ike no Taiga", 
+      "after_follower": null, 
+      "death_date": "1776", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300381, 
+      "role": "Artist", 
+      "birth_date": "1723", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17334, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

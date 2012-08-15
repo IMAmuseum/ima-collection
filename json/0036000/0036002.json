@@ -1,26 +1,30 @@
 {
-    "accession_number": "43.30", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1895-1968", 
-            "death_date": "1895-1968", 
-            "name": "Dehn, Adolf Arthur", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1939", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36002, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Adolf Arthur Dehn", 
-    "title": "The Spanish Peaks"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Adolf Arthur Dehn", 
+  "credit_line": "Jacob Metzger Fund", 
+  "accession_number": "43.30", 
+  "title": "The Spanish Peaks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229929, 
+  "creation_date": "1939", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Dehn, Adolf Arthur", 
+      "after_follower": null, 
+      "death_date": "1895-1968", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299589, 
+      "role": "Artist", 
+      "birth_date": "1895-1968", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36002, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "26.61", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1849", 
-            "death_date": "1934", 
-            "name": "Besnard, Albert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1884", 
-    "credit_line": "D.P. Erwin Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8952, 
-    "materials": "drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madame Besnard dans un M\u00e9daillon"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Madame Besnard dans un M\u00e9daillon", 
+  "accession_number": "26.61", 
+  "credit_line": "D.P. Erwin Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152551, 
+  "creation_date": "1884", 
+  "materials": "drypoint", 
+  "actors": [
+    {
+      "name": "Besnard, Albert", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295655, 
+      "role": "Artist", 
+      "birth_date": "1849", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8952, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

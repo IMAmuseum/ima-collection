@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.61.45", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Dong Jiaozeng", 
-            "nationality": null, 
-            "role": "Calligrapher"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Lu Tai", 
-            "nationality": null, 
-            "role": "Calligrapher"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 15199, 
-    "materials": "ink onpaper. fan painting.", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "fan calligraphy"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "fan calligraphy", 
+  "accession_number": "73.61.45", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167547, 
+  "creation_date": null, 
+  "materials": "ink onpaper. fan painting.", 
+  "actors": [
+    {
+      "name": "Dong Jiaozeng", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299813, 
+      "role": "Calligrapher", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Lu Tai", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299817, 
+      "role": "Calligrapher", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 15199, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

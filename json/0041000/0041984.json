@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.337", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1945", 
-            "death_date": null, 
-            "name": "Richard Buswell", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1982", 
-    "credit_line": "Gift of the artist", 
-    "cultures": [], 
-    "dimensions": "10 x 8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 41984, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Gold Mill No. 2"
+  "publishers": [], 
+  "dimensions": "10 x 8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of the artist", 
+  "accession_number": "2000.337", 
+  "title": "Gold Mill No. 2", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18246105, 
+  "creation_date": "1982", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Richard Buswell", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304897, 
+      "role": "Artist", 
+      "birth_date": "1945", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41984, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

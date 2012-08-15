@@ -1,26 +1,30 @@
 {
-    "accession_number": "69.47", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1901", 
-            "name": "Toulouse-Lautrec, Henri de", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1895", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": "49 1/4 x 35 1/8 in", 
-    "dynasty": null, 
-    "irn": 22264, 
-    "materials": "color lithographs", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "La Revue Blanche"
+  "publishers": [], 
+  "dimensions": "49 1/4 x 35 1/8 in", 
+  "rights": null, 
+  "credit_line": "Delavan Smith Fund", 
+  "accession_number": "69.47", 
+  "title": "La Revue Blanche", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18198017, 
+  "creation_date": "1895", 
+  "materials": "color lithographs", 
+  "actors": [
+    {
+      "name": "Toulouse-Lautrec, Henri de", 
+      "after_follower": null, 
+      "death_date": "1901", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296139, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22264, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

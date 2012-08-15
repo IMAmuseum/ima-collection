@@ -1,26 +1,30 @@
 {
-    "accession_number": "27.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1935", 
-            "name": "Peploe, Samuel John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": "18 x 16", 
-    "dynasty": null, 
-    "irn": 15952, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fruit and Flowers"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "18 x 16", 
+  "title": "Fruit and Flowers", 
+  "accession_number": "27.15", 
+  "credit_line": "Delavan Smith Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169237, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Peploe, Samuel John", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300017, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15952, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

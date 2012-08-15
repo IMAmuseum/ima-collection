@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.247", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1690", 
-            "death_date": "1743", 
-            "name": "Lancret, Nicolas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1742", 
-    "credit_line": "Gift of Mr. and Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "27 x 33 1/2 in.", 
-    "dynasty": null, 
-    "irn": 1601, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of the Actor Grandval"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "27 x 33 1/2 in.", 
+  "title": "Portrait of the Actor Grandval", 
+  "accession_number": "60.247", 
+  "credit_line": "Gift of Mr. and Mrs. Herman C. Krannert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135097, 
+  "creation_date": "about 1742", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Lancret, Nicolas", 
+      "after_follower": null, 
+      "death_date": "1743", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295589, 
+      "role": "Artist", 
+      "birth_date": "1690", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1601, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

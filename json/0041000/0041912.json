@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1794.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1841", 
-            "name": "Scriven, Edward", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1816", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41912, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Algernon Percy by Anthonie Van Dyck"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1794.12", 
+  "title": "Algernon Percy by Anthonie Van Dyck", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18245909, 
+  "creation_date": "1816", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Scriven, Edward", 
+      "after_follower": null, 
+      "death_date": "1841", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304879, 
+      "role": "Engraver", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41912, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "53.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": "1999", 
-            "name": "Edmund Brucker", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1945-1945", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "27 7/8 x 21 1/4 in.\n33 x 37 in. (framed)", 
-    "dynasty": null, 
-    "irn": 23712, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Monday Morning"
+  "publishers": [], 
+  "dimensions": "27 7/8 x 21 1/4 in.\n33 x 37 in. (framed)", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "53.12", 
+  "title": "Monday Morning", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18201399, 
+  "creation_date": "1945-1945", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Edmund Brucker", 
+      "after_follower": null, 
+      "death_date": "1999", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294855, 
+      "role": "Artist", 
+      "birth_date": "1912", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23712, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

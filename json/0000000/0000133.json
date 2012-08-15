@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.250", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": null, 
-            "name": "Indiana, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Gift of the Art Center, Inc.", 
-    "cultures": [], 
-    "dimensions": "23 7/8 x 22 in (image) \n30 x 28 in (sheet)", 
-    "dynasty": null, 
-    "irn": 133, 
-    "materials": "color lithograph on Arjomari paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
-    "title": "South Bend"
+  "publishers": [], 
+  "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
+  "dimensions": "23 7/8 x 22 in (image) \n30 x 28 in (sheet)", 
+  "title": "South Bend", 
+  "accession_number": "78.250", 
+  "credit_line": "Gift of the Art Center, Inc.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131469, 
+  "creation_date": "1978", 
+  "materials": "color lithograph on Arjomari paper", 
+  "actors": [
+    {
+      "name": "Indiana, Robert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294823, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }
+  ], 
+  "irn": 133, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

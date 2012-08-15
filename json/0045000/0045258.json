@@ -1,34 +1,40 @@
 {
-    "accession_number": "34.30L", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1755", 
-            "death_date": "1826", 
-            "name": "Flaxman, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1752", 
-            "death_date": "1824", 
-            "name": "Piroli, Tommaso", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1831", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45258, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Pelasgus, Chorus and the Herald"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of William George Sullivan", 
+  "accession_number": "34.30L", 
+  "title": "Pelasgus, Chorus and the Herald", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253939, 
+  "creation_date": "1831", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Flaxman, John", 
+      "after_follower": null, 
+      "death_date": "1826", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296581, 
+      "role": "Artist", 
+      "birth_date": "1755", 
+      "nationality": null
+    }, 
+    {
+      "name": "Piroli, Tommaso", 
+      "after_follower": null, 
+      "death_date": "1824", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298353, 
+      "role": "Engraver", 
+      "birth_date": "1752", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45258, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "58.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1867", 
-            "death_date": "1945", 
-            "name": "Kollwitz, K\u00e4the", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1907", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "16 x 20 1/2", 
-    "dynasty": null, 
-    "irn": 23169, 
-    "materials": "etching and soft-ground etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Schlachtfeld (The Battlefield)"
+  "publishers": [], 
+  "dimensions": "16 x 20 1/2", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "58.12", 
+  "title": "Schlachtfeld (The Battlefield)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200141, 
+  "creation_date": "1907", 
+  "materials": "etching and soft-ground etching", 
+  "actors": [
+    {
+      "name": "Kollwitz, K\u00e4the", 
+      "after_follower": null, 
+      "death_date": "1945", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296939, 
+      "role": "Artist", 
+      "birth_date": "1867", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23169, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

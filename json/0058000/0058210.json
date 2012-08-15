@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.264B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1972", 
-            "name": "Norell, Norman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1947", 
-    "credit_line": "Gift of Mrs. Orman Hammond", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 58210, 
-    "materials": "wool crepe, mother-of-pearl (belt)", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Norman Norell", 
-    "title": "belt"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Norman Norell", 
+  "credit_line": "Gift of Mrs. Orman Hammond", 
+  "accession_number": "80.264B", 
+  "title": "belt", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18275197, 
+  "creation_date": "about 1947", 
+  "materials": "wool crepe, mother-of-pearl (belt)", 
+  "actors": [
+    {
+      "name": "Norell, Norman", 
+      "after_follower": null, 
+      "death_date": "1972", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294959, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }
+  ], 
+  "irn": 58210, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

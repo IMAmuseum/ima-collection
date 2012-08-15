@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.142", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1768", 
-            "death_date": "1834", 
-            "name": "Say, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1811", 
-    "credit_line": "Given anonymously in memory of Evan F. Lilly, with the hope that they will bring beauty and inspiration to the lives of others.\"", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20041, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Liber Studiorum 68. Isis"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Given anonymously in memory of Evan F. Lilly, with the hope that they will bring beauty and inspiration to the lives of others.\"", 
+  "accession_number": "55.142", 
+  "title": "Liber Studiorum 68. Isis", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192989, 
+  "creation_date": "1811", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Say, William", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294873, 
+      "role": "Engraver", 
+      "birth_date": "1768", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20041, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

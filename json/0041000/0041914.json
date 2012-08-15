@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1794.14", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1762", 
-            "death_date": "1832", 
-            "name": "Pugin, Augustus Charles", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1770", 
-            "death_date": "1850", 
-            "name": "Hill, John", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1816", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41914, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Plan and Views of Swiss Cottage, Cassiobury"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1794.14", 
+  "title": "Plan and Views of Swiss Cottage, Cassiobury", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18245915, 
+  "creation_date": "1816", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Pugin, Augustus Charles", 
+      "after_follower": null, 
+      "death_date": "1832", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299485, 
+      "role": "Artist", 
+      "birth_date": "1762", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hill, John", 
+      "after_follower": null, 
+      "death_date": "1850", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303033, 
+      "role": "Engraver", 
+      "birth_date": "1770", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41914, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

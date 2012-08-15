@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1811", 
-            "death_date": "1897", 
-            "name": "Zhang Zhiwan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 4418, 
-    "materials": "ink on paper; fan painting", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Studio Landscape"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Studio Landscape", 
+  "accession_number": "73.61.17", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18141769, 
+  "creation_date": null, 
+  "materials": "ink on paper; fan painting", 
+  "actors": [
+    {
+      "name": "Zhang Zhiwan", 
+      "after_follower": null, 
+      "death_date": "1897", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296779, 
+      "role": "Artist", 
+      "birth_date": "1811", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4418, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.130.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1660", 
-            "death_date": "1704", 
-            "name": "Dusart, Cornelis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century - early 18th century", 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9785, 
-    "materials": "pen and ink with grey and brown ink wash on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Peasant Family"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Peasant Family", 
+  "accession_number": "72.130.3", 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154535, 
+  "creation_date": "17th century - early 18th century", 
+  "materials": "pen and ink with grey and brown ink wash on off-white paper", 
+  "actors": [
+    {
+      "name": "Dusart, Cornelis", 
+      "after_follower": null, 
+      "death_date": "1704", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298441, 
+      "role": "Artist", 
+      "birth_date": "1660", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9785, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

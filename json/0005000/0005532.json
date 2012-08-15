@@ -1,26 +1,30 @@
 {
-    "accession_number": "46.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1884", 
-            "death_date": "1920", 
-            "name": "Modigliani, Amedeo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1919", 
-    "credit_line": "Gift of Mrs. Julian Bobbs in memory of William Ray Adams", 
-    "cultures": [], 
-    "dimensions": "36 1/4 x 23 3/4 in.", 
-    "dynasty": null, 
-    "irn": 5532, 
-    "materials": "oil on  canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Boy"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "36 1/4 x 23 3/4 in.", 
+  "title": "The Boy", 
+  "accession_number": "46.22", 
+  "credit_line": "Gift of Mrs. Julian Bobbs in memory of William Ray Adams", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144351, 
+  "creation_date": "1919", 
+  "materials": "oil on  canvas", 
+  "actors": [
+    {
+      "name": "Modigliani, Amedeo", 
+      "after_follower": null, 
+      "death_date": "1920", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297179, 
+      "role": "Artist", 
+      "birth_date": "1884", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5532, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

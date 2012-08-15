@@ -1,26 +1,30 @@
 {
-    "accession_number": "64.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1695", 
-            "death_date": "1736", 
-            "name": "Pater, Jean-Baptiste Joseph", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1730's", 
-    "credit_line": "Gift of Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "20 1/8 x 25 9/16 in.", 
-    "dynasty": null, 
-    "irn": 19999, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Bathers"
+  "publishers": [], 
+  "dimensions": "20 1/8 x 25 9/16 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herman C. Krannert", 
+  "accession_number": "64.1", 
+  "title": "The Bathers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192901, 
+  "creation_date": "1730's", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Pater, Jean-Baptiste Joseph", 
+      "after_follower": null, 
+      "death_date": "1736", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300901, 
+      "role": "Artist", 
+      "birth_date": "1695", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19999, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.52.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1930", 
-            "death_date": "2007", 
-            "name": "De Forest, Roy Dean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Gift of Midwest Emery Freight Systems", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16491, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Untitled"
+  "publishers": [], 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "dimensions": null, 
+  "title": "Untitled", 
+  "accession_number": "73.52.8", 
+  "credit_line": "Gift of Midwest Emery Freight Systems", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170781, 
+  "creation_date": "20th century", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "De Forest, Roy Dean", 
+      "after_follower": null, 
+      "death_date": "2007", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300197, 
+      "role": "Artist", 
+      "birth_date": "1930", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16491, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

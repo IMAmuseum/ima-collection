@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.60", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1898", 
-            "death_date": "1988", 
-            "name": "Bes-Ben", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1940-1949", 
-    "credit_line": "Mr. and Mrs. William B. Ansted Jr. Art Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60861, 
-    "materials": "straw, cotton embroidered with silk floss, plastic, beaded plastic trim, silk net", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Bes-Ben", 
-    "title": "hat (butterfly)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Bes-Ben", 
+  "credit_line": "Mr. and Mrs. William B. Ansted Jr. Art Fund", 
+  "accession_number": "2003.60", 
+  "title": "hat (butterfly)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276739, 
+  "creation_date": "1940-1949", 
+  "materials": "straw, cotton embroidered with silk floss, plastic, beaded plastic trim, silk net", 
+  "actors": [
+    {
+      "name": "Bes-Ben", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305683, 
+      "role": "Artist", 
+      "birth_date": "1898", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60861, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

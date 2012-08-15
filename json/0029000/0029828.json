@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.165", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1995", 
-            "name": "Adele Simpson", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "late 1950s", 
-    "credit_line": "Gift of Mrs. William A. Nyland", 
-    "cultures": [], 
-    "dimensions": "L: 49 in.", 
-    "dynasty": null, 
-    "irn": 29828, 
-    "materials": "silk chiffon", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "evening dress"
+  "publishers": [], 
+  "dimensions": "L: 49 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. William A. Nyland", 
+  "accession_number": "75.165", 
+  "title": "evening dress", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18215667, 
+  "creation_date": "late 1950s", 
+  "materials": "silk chiffon", 
+  "actors": [
+    {
+      "name": "Adele Simpson", 
+      "after_follower": null, 
+      "death_date": "1995", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302825, 
+      "role": "Designer", 
+      "birth_date": "1904", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29828, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

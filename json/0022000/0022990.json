@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.13", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1825", 
-            "death_date": "1884", 
-            "name": "Qin Zuyong", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1872", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 22990, 
-    "materials": "ink and colors on silk or paper.fan painting.", 
-    "on_view": false, 
-    "period": "Tongzhi", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Landscape after Dong Qichang (1555--1636)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.13", 
+  "title": "Landscape after Dong Qichang (1555--1636)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Tongzhi", 
+  "artisinal:id": 18199683, 
+  "creation_date": "1872", 
+  "materials": "ink and colors on silk or paper.fan painting.", 
+  "actors": [
+    {
+      "name": "Qin Zuyong", 
+      "after_follower": null, 
+      "death_date": "1884", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301505, 
+      "role": "Artist", 
+      "birth_date": "1825", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22990, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

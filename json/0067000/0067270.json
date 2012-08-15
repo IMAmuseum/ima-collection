@@ -1,30 +1,34 @@
 {
-    "accession_number": "2008.796.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1592", 
-            "death_date": "1635", 
-            "name": "Callot, Jacques", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1633", 
-    "credit_line": "Gift of Joan and Walter Wolf", 
-    "cultures": [], 
-    "dimensions": "3 1/4 x 7 3/8 in. (image)\n3 5/8 x 7 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 67270, 
-    "materials": "etching on off-white laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Henriet, Isra\u00ebl"
-        }
-    ], 
-    "rights": null, 
-    "title": "L'Attaque de la diligence (Attacking a Diligence)"
+  "publishers": [
+    {
+      "name": "Henriet, Isra\u00ebl"
+    }
+  ], 
+  "dimensions": "3 1/4 x 7 3/8 in. (image)\n3 5/8 x 7 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Joan and Walter Wolf", 
+  "accession_number": "2008.796.8", 
+  "title": "L'Attaque de la diligence (Attacking a Diligence)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282589, 
+  "creation_date": "1633", 
+  "materials": "etching on off-white laid paper", 
+  "actors": [
+    {
+      "name": "Callot, Jacques", 
+      "after_follower": null, 
+      "death_date": "1635", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295121, 
+      "role": "Artist", 
+      "birth_date": "1592", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67270, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

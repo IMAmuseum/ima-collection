@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.13", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1510-1563", 
-            "death_date": "1510-1563", 
-            "name": "Salviati, Francesco", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1540", 
-    "credit_line": "Gift of Mrs. William H. Thompson", 
-    "cultures": [], 
-    "dimensions": "12 3/4 x 8 1/2 in.", 
-    "dynasty": null, 
-    "irn": 8349, 
-    "materials": "red chalk on off-white laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Medusa"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "12 3/4 x 8 1/2 in.", 
+  "title": "Medusa", 
+  "accession_number": "47.13", 
+  "credit_line": "Gift of Mrs. William H. Thompson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151023, 
+  "creation_date": "about 1540", 
+  "materials": "red chalk on off-white laid paper", 
+  "actors": [
+    {
+      "name": "Salviati, Francesco", 
+      "after_follower": null, 
+      "death_date": "1510-1563", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297985, 
+      "role": "Artist", 
+      "birth_date": "1510-1563", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8349, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

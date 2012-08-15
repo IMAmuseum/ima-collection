@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.47", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1971", 
-            "name": "Bourke-White, Margaret", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1933", 
-    "credit_line": "Anonymous Art Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60728, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Man at Side of Machinery of Dry Rollers"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Anonymous Art Fund", 
+  "accession_number": "2003.47", 
+  "title": "Man at Side of Machinery of Dry Rollers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276683, 
+  "creation_date": "1933", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Bourke-White, Margaret", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305905, 
+      "role": "Artist", 
+      "birth_date": "1904", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60728, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

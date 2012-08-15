@@ -1,26 +1,30 @@
 {
-    "accession_number": "76.441", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Celmins, Vija", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1962", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1324, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Vija Celmins", 
-    "title": "Union Station, Indianapolis, Indiana"
+  "publishers": [], 
+  "rights": "\u00a9 Vija Celmins", 
+  "dimensions": null, 
+  "title": "Union Station, Indianapolis, Indiana", 
+  "accession_number": "76.441", 
+  "credit_line": "Museum Accession", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134437, 
+  "creation_date": "1962", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Celmins, Vija", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295471, 
+      "role": "Artist", 
+      "birth_date": "1938", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1324, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

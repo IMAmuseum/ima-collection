@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.532", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1939", 
-            "death_date": null, 
-            "name": "Hughes, Patrick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Gift of Mr. Ron Kramer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10729, 
-    "materials": "letterpress and offset reproductions", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Upon the Pun"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Upon the Pun", 
+  "accession_number": "80.532", 
+  "credit_line": "Gift of Mr. Ron Kramer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156783, 
+  "creation_date": "1978", 
+  "materials": "letterpress and offset reproductions", 
+  "actors": [
+    {
+      "name": "Hughes, Patrick", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294961, 
+      "role": "Artist", 
+      "birth_date": "1939", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10729, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

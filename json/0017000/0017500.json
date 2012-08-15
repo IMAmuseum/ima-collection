@@ -1,26 +1,30 @@
 {
-    "accession_number": "21.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1885", 
-    "credit_line": "Gift of Mr. and Mrs. Alpheus H. Snow in memory of Mr. and Mrs. John M. Butler", 
-    "cultures": [], 
-    "dimensions": "14 1/4 x 20 3/4 in.\n22 7/8 x 29 563/1000 x 3 3/4 in. (framed)", 
-    "dynasty": null, 
-    "irn": 17500, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Winter in Munich"
+  "publishers": [], 
+  "dimensions": "14 1/4 x 20 3/4 in.\n22 7/8 x 29 563/1000 x 3 3/4 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Alpheus H. Snow in memory of Mr. and Mrs. John M. Butler", 
+  "accession_number": "21.10", 
+  "title": "Winter in Munich", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18173353, 
+  "creation_date": "1885", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17500, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

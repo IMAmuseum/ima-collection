@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.106.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1917", 
-            "death_date": null, 
-            "name": "Wyeth, Andrew Newell", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "25 x 37 in.", 
-    "dynasty": null, 
-    "irn": 35665, 
-    "materials": "offset lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Andrew Wyeth", 
-    "title": "Mt. Kearsarge by Andrew Wyeth (reproduction)"
+  "publishers": [], 
+  "dimensions": "25 x 37 in.", 
+  "rights": "\u00a9 Andrew Wyeth", 
+  "credit_line": "Museum Accession", 
+  "accession_number": "71.106.2", 
+  "title": "Mt. Kearsarge by Andrew Wyeth (reproduction)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229121, 
+  "creation_date": "1969", 
+  "materials": "offset lithograph", 
+  "actors": [
+    {
+      "name": "Wyeth, Andrew Newell", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301913, 
+      "role": "Artist", 
+      "birth_date": "1917", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35665, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

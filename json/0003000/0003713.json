@@ -1,26 +1,30 @@
 {
-    "accession_number": "03.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1850", 
-            "death_date": "1880", 
-            "name": "Love, John Washington", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1878", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "29 1/2 x 24 1/2 in.", 
-    "dynasty": null, 
-    "irn": 3713, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Sycamores (Broad Ripple)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "29 1/2 x 24 1/2 in.", 
+  "title": "The Sycamores (Broad Ripple)", 
+  "accession_number": "03.5", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140121, 
+  "creation_date": "about 1878", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Love, John Washington", 
+      "after_follower": null, 
+      "death_date": "1880", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296517, 
+      "role": "Artist", 
+      "birth_date": "1850", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3713, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,38 +1,44 @@
 {
-    "accession_number": "2004.165", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1901", 
-            "name": "Toulouse-Lautrec, Henri de", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Floury, Henri", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1893", 
-    "credit_line": "Gift of Phillipa Hughes", 
-    "cultures": [], 
-    "dimensions": "10 7/8 x 7 3/4 in. (image)", 
-    "dynasty": null, 
-    "irn": 62446, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Floury, Henri"
-        }
-    ], 
-    "rights": null, 
-    "title": "Pour Toil! (For You)"
+  "publishers": [
+    {
+      "name": "Floury, Henri"
+    }
+  ], 
+  "dimensions": "10 7/8 x 7 3/4 in. (image)", 
+  "rights": null, 
+  "credit_line": "Gift of Phillipa Hughes", 
+  "accession_number": "2004.165", 
+  "title": "Pour Toil! (For You)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277677, 
+  "creation_date": "1893", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Toulouse-Lautrec, Henri de", 
+      "after_follower": null, 
+      "death_date": "1901", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296139, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }, 
+    {
+      "name": "Floury, Henri", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306431, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62446, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

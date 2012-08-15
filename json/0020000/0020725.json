@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.306", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1912-1912", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "34 x 42 in.", 
-    "dynasty": null, 
-    "irn": 20725, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Winter Sunlight"
+  "publishers": [], 
+  "dimensions": "34 x 42 in.", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "13.306", 
+  "title": "Winter Sunlight", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194523, 
+  "creation_date": "1912-1912", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20725, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

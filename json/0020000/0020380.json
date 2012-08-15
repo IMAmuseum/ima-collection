@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.189", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1816", 
-            "death_date": "1890", 
-            "name": "Peng Yulan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": "55 x 26 in.", 
-    "dynasty": "Qing dynasty", 
-    "irn": 20380, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Plum Tree (rubbing)"
+  "publishers": [], 
+  "dimensions": "55 x 26 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "accession_number": "30.189", 
+  "title": "Plum Tree (rubbing)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193735, 
+  "creation_date": null, 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Peng Yulan", 
+      "after_follower": null, 
+      "death_date": "1890", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301001, 
+      "role": "Artist", 
+      "birth_date": "1816", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20380, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

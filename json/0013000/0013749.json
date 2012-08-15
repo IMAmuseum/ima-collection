@@ -1,26 +1,30 @@
 {
-    "accession_number": "36.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1901", 
-            "name": "Toulouse-Lautrec, Henri de", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1891", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": "67 x 46 3/4 in.", 
-    "dynasty": null, 
-    "irn": 13749, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Moulin Rouge-La Goulue"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "67 x 46 3/4 in.", 
+  "title": "Moulin Rouge-La Goulue", 
+  "accession_number": "36.4", 
+  "credit_line": "Gift of the Gamboliers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164105, 
+  "creation_date": "1891", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Toulouse-Lautrec, Henri de", 
+      "after_follower": null, 
+      "death_date": "1901", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296139, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13749, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

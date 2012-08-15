@@ -1,34 +1,40 @@
 {
-    "accession_number": "1984.314A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1892", 
-            "death_date": "1962", 
-            "name": "Dorothy Doughty", 
-            "nationality": null, 
-            "role": "Modeler"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Worcester Royal Porcelain Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mildred Almen Reeves in honor of Carl Marshall Reeves", 
-    "cultures": [], 
-    "dimensions": "H: 8 7/16 in.", 
-    "dynasty": null, 
-    "irn": 37358, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "one of a pair of Audubon's Warblers"
+  "publishers": [], 
+  "dimensions": "H: 8 7/16 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mildred Almen Reeves in honor of Carl Marshall Reeves", 
+  "accession_number": "1984.314A-B", 
+  "title": "one of a pair of Audubon's Warblers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18233119, 
+  "creation_date": null, 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Dorothy Doughty", 
+      "after_follower": null, 
+      "death_date": "1962", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296365, 
+      "role": "Modeler", 
+      "birth_date": "1892", 
+      "nationality": null
+    }, 
+    {
+      "name": "Worcester Royal Porcelain Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296371, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 37358, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

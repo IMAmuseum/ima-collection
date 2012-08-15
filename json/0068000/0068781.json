@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.56", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1957", 
-            "death_date": null, 
-            "name": "Nathalie du Pasquier", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Allessio S. Ceramiche", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1985", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "3 1/16 x 2 x 9 3/4 in.", 
-    "dynasty": null, 
-    "irn": 68781, 
-    "materials": "ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Onion fruit bowl"
+  "publishers": [], 
+  "dimensions": "3 1/16 x 2 x 9 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2011.56", 
+  "title": "Onion fruit bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283701, 
+  "creation_date": "1985", 
+  "materials": "ceramic", 
+  "actors": [
+    {
+      "name": "Nathalie du Pasquier", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307923, 
+      "role": "Designer", 
+      "birth_date": "1957", 
+      "nationality": null
+    }, 
+    {
+      "name": "Allessio S. Ceramiche", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307927, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68781, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

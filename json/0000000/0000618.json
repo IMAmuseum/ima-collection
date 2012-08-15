@@ -1,34 +1,40 @@
 {
-    "accession_number": "24.229", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1898", 
-            "name": "Buhot, F\u00e9lix Hilaire", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1828", 
-            "death_date": "1875", 
-            "name": "Cadart, Alfred", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1876", 
-    "credit_line": "Gift of the children of Thomas E. Hibben", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 618, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Une Matin\u00e9e d' Hiver au Quai de l' Hotel Dieu"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Une Matin\u00e9e d' Hiver au Quai de l' Hotel Dieu", 
+  "accession_number": "24.229", 
+  "credit_line": "Gift of the children of Thomas E. Hibben", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132683, 
+  "creation_date": "1876", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Buhot, F\u00e9lix Hilaire", 
+      "after_follower": null, 
+      "death_date": "1898", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295071, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cadart, Alfred", 
+      "after_follower": null, 
+      "death_date": "1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295073, 
+      "role": "Printer", 
+      "birth_date": "1828", 
+      "nationality": null
+    }
+  ], 
+  "irn": 618, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

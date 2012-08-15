@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1780", 
-            "death_date": "1849", 
-            "name": "Qu Yingshao", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1780-1849", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 31002, 
-    "materials": "ink and color on silk or paper", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bamboo"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.7", 
+  "title": "Bamboo", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18218419, 
+  "creation_date": "1780-1849", 
+  "materials": "ink and color on silk or paper", 
+  "actors": [
+    {
+      "name": "Qu Yingshao", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303003, 
+      "role": "Artist", 
+      "birth_date": "1780", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31002, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": true
 }

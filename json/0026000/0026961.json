@@ -1,26 +1,30 @@
 {
-    "accession_number": "21.96", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1969", 
-            "name": "Simon P. Baus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1921-1921", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "26 x 21 in.\n29 x 33 in. (framed)", 
-    "dynasty": null, 
-    "irn": 26961, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of T. C. Steele"
+  "publishers": [], 
+  "dimensions": "26 x 21 in.\n29 x 33 in. (framed)", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "21.96", 
+  "title": "Portrait of T. C. Steele", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18208941, 
+  "creation_date": "1921-1921", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Simon P. Baus", 
+      "after_follower": null, 
+      "death_date": "1969", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297365, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26961, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

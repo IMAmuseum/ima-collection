@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.805", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1911-1967", 
-            "death_date": "1911-1967", 
-            "name": "Nivola, Costantino", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 802, 
-    "materials": "color lithograph and screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "City"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "City", 
+  "accession_number": "81.805", 
+  "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133121, 
+  "creation_date": "1975", 
+  "materials": "color lithograph and screenprint", 
+  "actors": [
+    {
+      "name": "Nivola, Costantino", 
+      "after_follower": null, 
+      "death_date": "1911-1967", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295197, 
+      "role": "Artist", 
+      "birth_date": "1911-1967", 
+      "nationality": null
+    }
+  ], 
+  "irn": 802, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

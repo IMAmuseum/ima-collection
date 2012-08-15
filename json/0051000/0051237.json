@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.289", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": "2000", 
-            "name": "Baskin, Leonard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1951", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 51237, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Leonard Baskin", 
-    "title": "Beetle"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Leonard Baskin", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
+  "accession_number": "2001.289", 
+  "title": "Beetle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18264627, 
+  "creation_date": "1951", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Baskin, Leonard", 
+      "after_follower": null, 
+      "death_date": "2000", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294737, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51237, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

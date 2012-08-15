@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.118", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1846", 
-            "death_date": "1925", 
-            "name": "Edouard Gr\u00fctzner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Dr. Sam Heltzel in memory of Virginia and Cornelia Bates", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 31957, 
-    "materials": "watercolor on tan paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Monk"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Sam Heltzel in memory of Virginia and Cornelia Bates", 
+  "accession_number": "2000.118", 
+  "title": "The Monk", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220557, 
+  "creation_date": null, 
+  "materials": "watercolor on tan paper", 
+  "actors": [
+    {
+      "name": "Edouard Gr\u00fctzner", 
+      "after_follower": null, 
+      "death_date": "1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303145, 
+      "role": "Artist", 
+      "birth_date": "1846", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31957, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

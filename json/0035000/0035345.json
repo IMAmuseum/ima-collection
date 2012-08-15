@@ -1,34 +1,40 @@
 {
-    "accession_number": "78.269", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1848", 
-            "death_date": "1933", 
-            "name": "Louis Comfort Tiffany", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Tiffany and Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1906", 
-    "credit_line": "Gift of Mrs. Carolyn A. Williams in memory of her husband Mr. Harry Knadler Williams", 
-    "cultures": [], 
-    "dimensions": "13 3/8 in.", 
-    "dynasty": null, 
-    "irn": 35345, 
-    "materials": "lead glass and sterling silver", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "wine jug (claret decanter)"
+  "publishers": [], 
+  "dimensions": "13 3/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Carolyn A. Williams in memory of her husband Mr. Harry Knadler Williams", 
+  "accession_number": "78.269", 
+  "title": "wine jug (claret decanter)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18228443, 
+  "creation_date": "about 1906", 
+  "materials": "lead glass and sterling silver", 
+  "actors": [
+    {
+      "name": "Louis Comfort Tiffany", 
+      "after_follower": null, 
+      "death_date": "1933", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295219, 
+      "role": "Artist", 
+      "birth_date": "1848", 
+      "nationality": null
+    }, 
+    {
+      "name": "Tiffany and Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296773, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 35345, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

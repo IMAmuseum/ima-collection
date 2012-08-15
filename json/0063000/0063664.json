@@ -1,30 +1,34 @@
 {
-    "accession_number": "2006.121", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1750", 
-            "death_date": "1806", 
-            "name": "Kitagawa Utamaro", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1801", 
-    "credit_line": "Miscellaneous Asian Art Fund", 
-    "cultures": [], 
-    "dimensions": "15 3/16 x 9 3/4 in. (overall)", 
-    "dynasty": null, 
-    "irn": 63664, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Yamashiro-ya Toemon"
-        }
-    ], 
-    "rights": null, 
-    "title": "Ebisu Festival"
+  "publishers": [
+    {
+      "name": "Yamashiro-ya Toemon"
+    }
+  ], 
+  "dimensions": "15 3/16 x 9 3/4 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Miscellaneous Asian Art Fund", 
+  "accession_number": "2006.121", 
+  "title": "Ebisu Festival", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18278655, 
+  "creation_date": "about 1801", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Kitagawa Utamaro", 
+      "after_follower": null, 
+      "death_date": "1806", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306675, 
+      "role": "Artist", 
+      "birth_date": "1750", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63664, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

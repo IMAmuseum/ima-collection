@@ -1,34 +1,40 @@
 {
-    "accession_number": "1986.457", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1934", 
-            "name": "Giuseffi, Girolamo", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "G. Giuseffi L.T. Company", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "early 1910s", 
-    "credit_line": "Gift of Carolyn Garrigues Scofield in memory of her grandmother Caroline Burford Danner", 
-    "cultures": [], 
-    "dimensions": "L:", 
-    "dynasty": null, 
-    "irn": 12355, 
-    "materials": "silk velvet", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "afternoon dress"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "L:", 
+  "title": "afternoon dress", 
+  "accession_number": "1986.457", 
+  "credit_line": "Gift of Carolyn Garrigues Scofield in memory of her grandmother Caroline Burford Danner", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160499, 
+  "creation_date": "early 1910s", 
+  "materials": "silk velvet", 
+  "actors": [
+    {
+      "name": "Giuseffi, Girolamo", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294897, 
+      "role": "Designer", 
+      "birth_date": "1864", 
+      "nationality": null
+    }, 
+    {
+      "name": "G. Giuseffi L.T. Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294899, 
+      "role": "Design House", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 12355, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

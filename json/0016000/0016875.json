@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.67", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1807", 
-            "death_date": "1891", 
-            "name": "Shibata Zeshin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1807-1891", 
-    "credit_line": "Mr. and Mrs. William R. Spurlock Fund", 
-    "cultures": [], 
-    "dimensions": "89 x 25 3/4 in. (overall)", 
-    "dynasty": null, 
-    "irn": 16875, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Li Bai Gazing at a Waterfall"
+  "publishers": [], 
+  "dimensions": "89 x 25 3/4 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. William R. Spurlock Fund", 
+  "accession_number": "2000.67", 
+  "title": "Li Bai Gazing at a Waterfall", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18171729, 
+  "creation_date": "1807-1891", 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Shibata Zeshin", 
+      "after_follower": null, 
+      "death_date": "1891", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300301, 
+      "role": "Artist", 
+      "birth_date": "1807", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16875, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

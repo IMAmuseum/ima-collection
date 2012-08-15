@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.536", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Konstantin Grcic", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "FLOS S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Gift of FLOS USA Inc.", 
-    "cultures": [], 
-    "dimensions": "21 \u00d7 8 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64693, 
-    "materials": "Polypropylene", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Konstantin Grcic", 
-    "title": "Mayday lamp"
+  "publishers": [], 
+  "dimensions": "21 \u00d7 8 1/2 in.", 
+  "rights": "\u00a9 Konstantin Grcic", 
+  "credit_line": "Gift of FLOS USA Inc.", 
+  "accession_number": "2009.536", 
+  "title": "Mayday lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279203, 
+  "creation_date": "1998", 
+  "materials": "Polypropylene", 
+  "actors": [
+    {
+      "name": "Konstantin Grcic", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306937, 
+      "role": "Designer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }, 
+    {
+      "name": "FLOS S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306941, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64693, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

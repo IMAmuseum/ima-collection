@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.31D-F", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Jonathan Swift", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1801", 
-    "credit_line": "Gift of the Children of J.K. Lilly Jr.", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 5 3/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 61849, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "J. Johnson"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Works of Jonathan Swift (volumes 1-4)"
+  "publishers": [
+    {
+      "name": "J. Johnson"
+    }
+  ], 
+  "dimensions": "8 3/4 x 5 3/8 in. (each)", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J.K. Lilly Jr.", 
+  "accession_number": "LH2003.31D-F", 
+  "title": "The Works of Jonathan Swift (volumes 1-4)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277319, 
+  "creation_date": "1801", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Jonathan Swift", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306163, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61849, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

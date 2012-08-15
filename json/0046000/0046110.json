@@ -1,30 +1,34 @@
 {
-    "accession_number": "73.15.45", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1810", 
-            "death_date": "1870", 
-            "name": "Bufford, John Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1860", 
-    "credit_line": "Emma D. Wilkinson Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46110, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Bufford, John Henry"
-        }
-    ], 
-    "rights": null, 
-    "title": "Hon. Abraham Lincoln"
+  "publishers": [
+    {
+      "name": "Bufford, John Henry"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Emma D. Wilkinson Fund", 
+  "accession_number": "73.15.45", 
+  "title": "Hon. Abraham Lincoln", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18256009, 
+  "creation_date": "about 1860", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Bufford, John Henry", 
+      "after_follower": null, 
+      "death_date": "1870", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301797, 
+      "role": "Artist", 
+      "birth_date": "1810", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46110, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

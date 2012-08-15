@@ -1,26 +1,30 @@
 {
-    "accession_number": "S10095.03.1B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "400", 
-            "death_date": "515", 
-            "name": "Zheng Daozhao", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of George F. Staudter", 
-    "cultures": [], 
-    "dimensions": "114 3/4 x 76 in.", 
-    "dynasty": null, 
-    "irn": 61707, 
-    "materials": "rubbing, ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Yiyang Zheng Wengong inscription"
+  "publishers": [], 
+  "dimensions": "114 3/4 x 76 in.", 
+  "rights": null, 
+  "credit_line": "Gift of George F. Staudter", 
+  "accession_number": "S10095.03.1B", 
+  "title": "Yiyang Zheng Wengong inscription", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277077, 
+  "creation_date": null, 
+  "materials": "rubbing, ink on paper", 
+  "actors": [
+    {
+      "name": "Zheng Daozhao", 
+      "after_follower": null, 
+      "death_date": "515", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305991, 
+      "role": "Artist", 
+      "birth_date": "400", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61707, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

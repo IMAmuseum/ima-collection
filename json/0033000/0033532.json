@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.143", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1791", 
-            "death_date": "1873", 
-            "name": "Lupton, Thomas Goff", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Given anonymously in memory of Evan F. Lilly, with the hope that they will bring beauty and inspiration to the lives of others.\"", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 33532, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Liber Studiorum 69. Ben Arthur"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Given anonymously in memory of Evan F. Lilly, with the hope that they will bring beauty and inspiration to the lives of others.\"", 
+  "accession_number": "55.143", 
+  "title": "Liber Studiorum 69. Ben Arthur", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224291, 
+  "creation_date": "19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lupton, Thomas Goff", 
+      "after_follower": null, 
+      "death_date": "1873", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295089, 
+      "role": "Engraver", 
+      "birth_date": "1791", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33532, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

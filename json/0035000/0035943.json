@@ -1,26 +1,30 @@
 {
-    "accession_number": "62.129", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1832", 
-            "death_date": "1883", 
-            "name": "Manet, Edouard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. T. Victor Keene", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35943, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Berthe Morisot"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. T. Victor Keene", 
+  "accession_number": "62.129", 
+  "title": "Portrait of Berthe Morisot", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229783, 
+  "creation_date": "19th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Manet, Edouard", 
+      "after_follower": null, 
+      "death_date": "1883", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297419, 
+      "role": "Artist", 
+      "birth_date": "1832", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35943, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

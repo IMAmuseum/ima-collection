@@ -1,26 +1,30 @@
 {
-    "accession_number": "1996.154", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1776", 
-            "death_date": "1833", 
-            "name": "Smith, John Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1830-1832", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "9 x 7 13/16 in.", 
-    "dynasty": null, 
-    "irn": 2062, 
-    "materials": "brown and gray ink washes over pencil on white paper", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "J.M.W. Turner in the British Museum"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 x 7 13/16 in.", 
+  "title": "J.M.W. Turner in the British Museum", 
+  "accession_number": "1996.154", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136213, 
+  "creation_date": "1830-1832", 
+  "materials": "brown and gray ink washes over pencil on white paper", 
+  "actors": [
+    {
+      "name": "Smith, John Thomas", 
+      "after_follower": null, 
+      "death_date": "1833", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295819, 
+      "role": "Artist", 
+      "birth_date": "1776", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2062, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

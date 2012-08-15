@@ -1,34 +1,40 @@
 {
-    "accession_number": "LH2005.37", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1892", 
-            "death_date": "1992", 
-            "name": "Keith Murray", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Stevens & Williams, Ltd.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1938", 
-    "credit_line": "Museum Purchase", 
-    "cultures": [], 
-    "dimensions": "6 x 7 in.", 
-    "dynasty": null, 
-    "irn": 4339, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "glen vase"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 x 7 in.", 
+  "title": "glen vase", 
+  "accession_number": "LH2005.37", 
+  "credit_line": "Museum Purchase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18141577, 
+  "creation_date": "1938", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Keith Murray", 
+      "after_follower": null, 
+      "death_date": "1992", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296751, 
+      "role": "Designer", 
+      "birth_date": "1892", 
+      "nationality": null
+    }, 
+    {
+      "name": "Stevens & Williams, Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296753, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 4339, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

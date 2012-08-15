@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.220", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1902", 
-            "death_date": "1984", 
-            "name": "Adams, Ansel Easton", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1902-1974", 
-    "credit_line": "Gift of the Metropolitan Museum of Art", 
-    "cultures": [], 
-    "dimensions": "12 3/8 x 9 5/8 in. (image)", 
-    "dynasty": null, 
-    "irn": 15416, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Half-Dome, Yosemite"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "12 3/8 x 9 5/8 in. (image)", 
+  "title": "Half-Dome, Yosemite", 
+  "accession_number": "74.220", 
+  "credit_line": "Gift of the Metropolitan Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167995, 
+  "creation_date": "1902-1974", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Adams, Ansel Easton", 
+      "after_follower": null, 
+      "death_date": "1984", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299879, 
+      "role": "Artist", 
+      "birth_date": "1902", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15416, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

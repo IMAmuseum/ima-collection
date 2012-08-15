@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.449", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1970", 
-            "death_date": null, 
-            "name": "Tobias M\u00f8hl", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "M\u00f8hl & Drivsholm Glas", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2001", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
-    "cultures": [], 
-    "dimensions": "7 7/8 \u00d7 15 3/4 in.", 
-    "dynasty": null, 
-    "irn": 64754, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Tobias Mohl", 
-    "title": "Conch bowl"
+  "publishers": [], 
+  "dimensions": "7 7/8 \u00d7 15 3/4 in.", 
+  "rights": "\u00a9 Tobias Mohl", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
+  "accession_number": "2009.449", 
+  "title": "Conch bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279273, 
+  "creation_date": "2001", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Tobias M\u00f8hl", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307073, 
+      "role": "Designer", 
+      "birth_date": "1970", 
+      "nationality": null
+    }, 
+    {
+      "name": "M\u00f8hl & Drivsholm Glas", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307075, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64754, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

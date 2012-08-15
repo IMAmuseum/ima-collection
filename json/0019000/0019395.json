@@ -1,34 +1,40 @@
 {
-    "accession_number": "1998.285A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1838", 
-            "death_date": "1881", 
-            "name": "Bruce James Talbert", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Skidmore Art Manufactures Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1865", 
-    "credit_line": "Decorative Arts Society Fund and Robertine Daniels Art Fund in Memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "39 x 29 x 18 in.", 
-    "dynasty": null, 
-    "irn": 19395, 
-    "materials": "oak, brass, copper, wrought iron, polished steel, enamel, glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "bracket clock"
+  "publishers": [], 
+  "dimensions": "39 x 29 x 18 in.", 
+  "rights": null, 
+  "credit_line": "Decorative Arts Society Fund and Robertine Daniels Art Fund in Memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks", 
+  "accession_number": "1998.285A-C", 
+  "title": "bracket clock", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191535, 
+  "creation_date": "about 1865", 
+  "materials": "oak, brass, copper, wrought iron, polished steel, enamel, glass", 
+  "actors": [
+    {
+      "name": "Bruce James Talbert", 
+      "after_follower": null, 
+      "death_date": "1881", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300769, 
+      "role": "Designer", 
+      "birth_date": "1838", 
+      "nationality": null
+    }, 
+    {
+      "name": "Skidmore Art Manufactures Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300773, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 19395, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

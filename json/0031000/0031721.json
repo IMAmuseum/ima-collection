@@ -1,26 +1,30 @@
 {
-    "accession_number": "41.88", 
-    "actors": [
-        {
-            "after_follower": "After", 
-            "birth_date": "1723", 
-            "death_date": "1792", 
-            "name": "Reynolds, Joshua", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "30 1/4 x 24 7/8 in.", 
-    "dynasty": null, 
-    "irn": 31721, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Joseph Baretti"
+  "publishers": [], 
+  "dimensions": "30 1/4 x 24 7/8 in.", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "41.88", 
+  "title": "Portrait of Joseph Baretti", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220031, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Reynolds, Joshua", 
+      "after_follower": "After", 
+      "death_date": "1792", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295553, 
+      "role": "Artist", 
+      "birth_date": "1723", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31721, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

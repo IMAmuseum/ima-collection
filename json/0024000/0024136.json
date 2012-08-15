@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.363", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1511", 
-            "death_date": "1592", 
-            "name": "Ammannati, Bartolomeo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "16th century", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 24136, 
-    "materials": "pen and brown ink over charcoal on laid buff paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Neptune"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "80.363", 
+  "title": "Neptune", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18202373, 
+  "creation_date": "16th century", 
+  "materials": "pen and brown ink over charcoal on laid buff paper", 
+  "actors": [
+    {
+      "name": "Ammannati, Bartolomeo", 
+      "after_follower": null, 
+      "death_date": "1592", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301779, 
+      "role": "Artist", 
+      "birth_date": "1511", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24136, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.4A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1592", 
-            "death_date": "1665", 
-            "name": "Dalen, Cornelis van, I", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1660", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1679, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Faustina with Gladiator"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Faustina with Gladiator", 
+  "accession_number": "09.4A", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135293, 
+  "creation_date": "about 1660", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Dalen, Cornelis van, I", 
+      "after_follower": null, 
+      "death_date": "1665", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295615, 
+      "role": "Engraver", 
+      "birth_date": "1592", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1679, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

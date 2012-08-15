@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.185", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1709", 
-            "death_date": "1794", 
-            "name": "Bateman, Hester", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1783-1784", 
-    "credit_line": "Gift of Eli Lilly", 
-    "cultures": [], 
-    "dimensions": "H: 12 3/4 in.", 
-    "dynasty": null, 
-    "irn": 9942, 
-    "materials": "Metal (silver)", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "tea or coffee urn"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 12 3/4 in.", 
+  "title": "tea or coffee urn", 
+  "accession_number": "80.185", 
+  "credit_line": "Gift of Eli Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154915, 
+  "creation_date": "1783-1784", 
+  "materials": "Metal (silver)", 
+  "actors": [
+    {
+      "name": "Bateman, Hester", 
+      "after_follower": null, 
+      "death_date": "1794", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298461, 
+      "role": "Artist", 
+      "birth_date": "1709", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9942, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

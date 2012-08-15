@@ -1,26 +1,30 @@
 {
-    "accession_number": "1998.239", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1903", 
-            "name": "S\u00e9guin, Armand", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1893", 
-    "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 33843, 
-    "materials": "etching, aquatint, lavis and roulette", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Soir (Evening) or La Glaneuse (The Gleaner)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
+  "accession_number": "1998.239", 
+  "title": "Le Soir (Evening) or La Glaneuse (The Gleaner)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224971, 
+  "creation_date": "1893", 
+  "materials": "etching, aquatint, lavis and roulette", 
+  "actors": [
+    {
+      "name": "S\u00e9guin, Armand", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295281, 
+      "role": "Artist", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33843, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.420", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": null, 
-            "name": "Fried, Otto", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1959", 
-    "credit_line": "Gift of Mr. and Mrs. Carl J. Weinhardt, Jr.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13470, 
-    "materials": "monoprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Untitled", 
+  "accession_number": "74.420", 
+  "credit_line": "Gift of Mr. and Mrs. Carl J. Weinhardt, Jr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163413, 
+  "creation_date": "1959", 
+  "materials": "monoprint", 
+  "actors": [
+    {
+      "name": "Fried, Otto", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299363, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13470, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,38 @@
 {
-    "accession_number": "1996.208", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": null, 
-            "name": "Yasushi Ohmoto", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1996", 
-    "credit_line": "Gift of Mr. Yasushi Ohmoto", 
-    "cultures": [], 
-    "dimensions": "22 1/8 x 16 3/4 in.", 
-    "dynasty": null, 
-    "irn": 32307, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Yasushi Ohmoto"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Yasushi Ohmoto"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Secret/Cardinal Points (?) (yotei)"
+  "publishers": [
+    {
+      "name": "Yasushi Ohmoto"
+    }
+  ], 
+  "dimensions": "22 1/8 x 16 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. Yasushi Ohmoto", 
+  "accession_number": "1996.208", 
+  "title": "The Secret/Cardinal Points (?) (yotei)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221369, 
+  "creation_date": "about 1996", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "Yasushi Ohmoto", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302943, 
+      "role": "Artist", 
+      "birth_date": "1926", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32307, 
+  "printers": [
+    {
+      "name": "Yasushi Ohmoto"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.11.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Fessard, Etienne", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1749", 
-    "credit_line": "Museum Acquisition", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45457, 
-    "materials": "etching and letterpress", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Title Page to Les Oeuvres de Monsierur de Crebillon"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Museum Acquisition", 
+  "accession_number": "67.11.15", 
+  "title": "Title Page to Les Oeuvres de Monsierur de Crebillon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254457, 
+  "creation_date": "1749", 
+  "materials": "etching and letterpress", 
+  "actors": [
+    {
+      "name": "Fessard, Etienne", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299197, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 45457, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

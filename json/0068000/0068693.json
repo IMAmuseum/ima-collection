@@ -1,34 +1,38 @@
 {
-    "accession_number": "2010.127", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": null, 
-            "name": "Indiana, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1991", 
-    "credit_line": "Martha Delzell Memorial Fund, Mr. and Mrs. Theodore P. Van Vorhees Art Fund", 
-    "cultures": [], 
-    "dimensions": "57 1/2 x 57 1/2 in. (image)\n59 1/2 x 59 7/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 68693, 
-    "materials": "screenprint on white Saunders Watercolor 410g paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Brand X Editions, Ltd., New York"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Park Granada Editions"
-        }
-    ], 
-    "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
-    "title": "KvF VIII"
+  "publishers": [
+    {
+      "name": "Park Granada Editions"
+    }
+  ], 
+  "dimensions": "57 1/2 x 57 1/2 in. (image)\n59 1/2 x 59 7/16 in. (sheet)", 
+  "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
+  "credit_line": "Martha Delzell Memorial Fund, Mr. and Mrs. Theodore P. Van Vorhees Art Fund", 
+  "accession_number": "2010.127", 
+  "title": "KvF VIII", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283627, 
+  "creation_date": "1991", 
+  "materials": "screenprint on white Saunders Watercolor 410g paper", 
+  "actors": [
+    {
+      "name": "Indiana, Robert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294823, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68693, 
+  "printers": [
+    {
+      "name": "Brand X Editions, Ltd., New York"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

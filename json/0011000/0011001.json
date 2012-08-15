@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.665", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1890", 
-            "death_date": "1983", 
-            "name": "Rosenberg, Louis Conrad", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1929", 
-    "credit_line": "Gift of Dr. and Mrs. Thomas Kuebler", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11001, 
-    "materials": "etching and drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Massachusetts Institute of Technology"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Massachusetts Institute of Technology", 
+  "accession_number": "1985.665", 
+  "credit_line": "Gift of Dr. and Mrs. Thomas Kuebler", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157421, 
+  "creation_date": "1929", 
+  "materials": "etching and drypoint", 
+  "actors": [
+    {
+      "name": "Rosenberg, Louis Conrad", 
+      "after_follower": null, 
+      "death_date": "1983", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298729, 
+      "role": "Artist", 
+      "birth_date": "1890", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11001, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

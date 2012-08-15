@@ -1,34 +1,38 @@
 {
-    "accession_number": "2010.128", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": null, 
-            "name": "Indiana, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1991", 
-    "credit_line": "Martha Delzell Memorial Fund, Elizabeth S. Lawton Fine Art Fund", 
-    "cultures": [], 
-    "dimensions": "57 7/16 x 57 7/16 in. (image)\n59 3/8 x 59 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 68694, 
-    "materials": "screenprint on white Saunders Watercolor 410g paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Brand X Editions, Ltd., New York"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Park Granada Editions"
-        }
-    ], 
-    "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
-    "title": "KvF IX"
+  "publishers": [
+    {
+      "name": "Park Granada Editions"
+    }
+  ], 
+  "dimensions": "57 7/16 x 57 7/16 in. (image)\n59 3/8 x 59 3/8 in. (sheet)", 
+  "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
+  "credit_line": "Martha Delzell Memorial Fund, Elizabeth S. Lawton Fine Art Fund", 
+  "accession_number": "2010.128", 
+  "title": "KvF IX", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283629, 
+  "creation_date": "1991", 
+  "materials": "screenprint on white Saunders Watercolor 410g paper", 
+  "actors": [
+    {
+      "name": "Indiana, Robert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294823, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68694, 
+  "printers": [
+    {
+      "name": "Brand X Editions, Ltd., New York"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

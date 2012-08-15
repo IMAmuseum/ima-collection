@@ -1,42 +1,50 @@
 {
-    "accession_number": "2010.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bouroullec Brothers", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": null, 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ligne Roset", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2005-2006", 
-    "credit_line": "Jane Weldon Myers Acquisition Fund", 
-    "cultures": [], 
-    "dimensions": "32 1/8 x 24 3/4 x 20 1/4 in.", 
-    "dynasty": null, 
-    "irn": 67788, 
-    "materials": "felt", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Facett armchair"
+  "publishers": [], 
+  "dimensions": "32 1/8 x 24 3/4 x 20 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Jane Weldon Myers Acquisition Fund", 
+  "accession_number": "2010.6", 
+  "title": "Facett armchair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282997, 
+  "creation_date": "2005-2006", 
+  "materials": "felt", 
+  "actors": [
+    {
+      "name": "Bouroullec Brothers", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306837, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": null, 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295437, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Ligne Roset", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307717, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67788, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

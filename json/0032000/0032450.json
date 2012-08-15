@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.497.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Chelsea porcelain factory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1756-1758", 
-    "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "8 1/2 in.", 
-    "dynasty": null, 
-    "irn": 32450, 
-    "materials": "soft-paste porcelain, polychrome enamels, and gilding", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Reg Butler", 
-    "title": "plate"
+  "publishers": [], 
+  "dimensions": "8 1/2 in.", 
+  "rights": "\u00a9 Reg Butler", 
+  "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
+  "accession_number": "75.497.1", 
+  "title": "plate", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221689, 
+  "creation_date": "1756-1758", 
+  "materials": "soft-paste porcelain, polychrome enamels, and gilding", 
+  "actors": [
+    {
+      "name": "Chelsea porcelain factory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296349, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 32450, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

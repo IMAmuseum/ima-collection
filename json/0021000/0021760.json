@@ -1,26 +1,30 @@
 {
-    "accession_number": "44.139", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1919-1919", 
-    "credit_line": "Gift in memory of Mr. and Mrs. Edwin A. Hendrickson by Mary L. McKesson, Robert A. and Thomas E. Hendrickson", 
-    "cultures": [], 
-    "dimensions": "30 x 45 in", 
-    "dynasty": null, 
-    "irn": 21760, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Pasture"
+  "publishers": [], 
+  "dimensions": "30 x 45 in", 
+  "rights": null, 
+  "credit_line": "Gift in memory of Mr. and Mrs. Edwin A. Hendrickson by Mary L. McKesson, Robert A. and Thomas E. Hendrickson", 
+  "accession_number": "44.139", 
+  "title": "The Pasture", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18196891, 
+  "creation_date": "1919-1919", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21760, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

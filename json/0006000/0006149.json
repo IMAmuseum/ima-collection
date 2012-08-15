@@ -1,26 +1,30 @@
 {
-    "accession_number": "29.77", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1894", 
-            "death_date": null, 
-            "name": "Kadar, Livia", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6149, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mountain Lake"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Mountain Lake", 
+  "accession_number": "29.77", 
+  "credit_line": "Jacob Metzger Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145853, 
+  "creation_date": "20th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Kadar, Livia", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297377, 
+      "role": "Artist", 
+      "birth_date": "1894", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6149, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.225", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1884-1884", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "26 x 21 1/4 in. \n32 3/8 x 27 11/16 x 1 1/2 in. (framed)", 
-    "dynasty": null, 
-    "irn": 13528, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Munich Model"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "26 x 21 1/4 in. \n32 3/8 x 27 11/16 x 1 1/2 in. (framed)", 
+  "title": "The Munich Model", 
+  "accession_number": "71.225", 
+  "credit_line": "James E. Roberts Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163553, 
+  "creation_date": "1884-1884", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13528, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

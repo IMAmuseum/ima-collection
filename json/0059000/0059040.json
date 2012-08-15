@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.126", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1921", 
-            "death_date": "1963", 
-            "name": "John Bernhardt", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century/MID", 
-    "credit_line": "Gift of Mary and DeWitt Brown", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 59040, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of John Bernhardt", 
-    "title": "Construction"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Estate of John Bernhardt", 
+  "credit_line": "Gift of Mary and DeWitt Brown", 
+  "accession_number": "2002.126", 
+  "title": "Construction", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276021, 
+  "creation_date": "20th Century/MID", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "John Bernhardt", 
+      "after_follower": null, 
+      "death_date": "1963", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296259, 
+      "role": "Artist", 
+      "birth_date": "1921", 
+      "nationality": null
+    }
+  ], 
+  "irn": 59040, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

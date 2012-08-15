@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.357.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1914", 
-            "death_date": "2007", 
-            "name": "Wegner, Hans J.", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "PP M\u00f8bler", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1949", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "30 x 24 1/4 x 19 in.", 
-    "dynasty": null, 
-    "irn": 65840, 
-    "materials": "teak and caning", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Round (PP501) armchair"
+  "publishers": [], 
+  "dimensions": "30 x 24 1/4 x 19 in.", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "2008.357.1", 
+  "title": "The Round (PP501) armchair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280613, 
+  "creation_date": "1949", 
+  "materials": "teak and caning", 
+  "actors": [
+    {
+      "name": "Wegner, Hans J.", 
+      "after_follower": null, 
+      "death_date": "2007", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307455, 
+      "role": "Designer", 
+      "birth_date": "1914", 
+      "nationality": null
+    }, 
+    {
+      "name": "PP M\u00f8bler", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307457, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65840, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.93", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Smith, Dan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Sarah F. Banning Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18671, 
-    "materials": "gouache on illustration board", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "illustration for \"A Heart of Flame\""
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Sarah F. Banning Fund", 
+  "accession_number": "30.93", 
+  "title": "illustration for \"A Heart of Flame\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18189797, 
+  "creation_date": "20th century", 
+  "materials": "gouache on illustration board", 
+  "actors": [
+    {
+      "name": "Smith, Dan", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300649, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 18671, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

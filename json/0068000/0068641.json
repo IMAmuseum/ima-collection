@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.59", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1951", 
-            "death_date": null, 
-            "name": "Arad, Ron", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Moroso USA", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2005", 
-    "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
-    "cultures": [], 
-    "dimensions": "31 3/16 x 29 9/16 x 23 1/2 in.", 
-    "dynasty": null, 
-    "irn": 68641, 
-    "materials": "polypropylene and chrome-plated stainless steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ron Arad", 
-    "title": "Ripple armchair (white)"
+  "publishers": [], 
+  "dimensions": "31 3/16 x 29 9/16 x 23 1/2 in.", 
+  "rights": "\u00a9 Ron Arad", 
+  "credit_line": "Elizabeth S. Lawton Fine Art Fund", 
+  "accession_number": "2010.59", 
+  "title": "Ripple armchair (white)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283565, 
+  "creation_date": "2005", 
+  "materials": "polypropylene and chrome-plated stainless steel", 
+  "actors": [
+    {
+      "name": "Arad, Ron", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306779, 
+      "role": "Designer", 
+      "birth_date": "1951", 
+      "nationality": null
+    }, 
+    {
+      "name": "Moroso USA", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307899, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68641, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

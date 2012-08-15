@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.29", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1955", 
-            "death_date": null, 
-            "name": "Donatella Versace", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Versace", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2003", 
-    "credit_line": "Purchased with funds provided by the Textile Arts Fund and Ellen W. Lee", 
-    "cultures": [], 
-    "dimensions": "W: 10 13/16 in. (bottoms)\nhip circumference - 24\u0094 (elastic relaxed)", 
-    "dynasty": null, 
-    "irn": 67839, 
-    "materials": "nylon (80%) spandex (20%)", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "bathing suit"
+  "publishers": [], 
+  "dimensions": "W: 10 13/16 in. (bottoms)\nhip circumference - 24\u0094 (elastic relaxed)", 
+  "rights": null, 
+  "credit_line": "Purchased with funds provided by the Textile Arts Fund and Ellen W. Lee", 
+  "accession_number": "2010.29", 
+  "title": "bathing suit", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283081, 
+  "creation_date": "2003", 
+  "materials": "nylon (80%) spandex (20%)", 
+  "actors": [
+    {
+      "name": "Donatella Versace", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307759, 
+      "role": "Designer", 
+      "birth_date": "1955", 
+      "nationality": null
+    }, 
+    {
+      "name": "Versace", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307761, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67839, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.189", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1908", 
-            "death_date": "1986", 
-            "name": "Nelson, George", 
-            "nationality": "United States", 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Herman Miller Furniture Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1952-1955", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "6 x 30 x 13 in.", 
-    "dynasty": null, 
-    "irn": 69616, 
-    "materials": "laminate, walnut, rosewood stained teak, porcelain", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Minature chest"
+  "publishers": [], 
+  "dimensions": "6 x 30 x 13 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.189", 
+  "title": "Minature chest", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18285231, 
+  "creation_date": "1952-1955", 
+  "materials": "laminate, walnut, rosewood stained teak, porcelain", 
+  "actors": [
+    {
+      "name": "Nelson, George", 
+      "after_follower": null, 
+      "death_date": "1986", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308193, 
+      "role": "Designer", 
+      "birth_date": "1908", 
+      "nationality": "United States"
+    }, 
+    {
+      "name": "Herman Miller Furniture Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301627, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69616, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

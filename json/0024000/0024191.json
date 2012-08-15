@@ -1,38 +1,44 @@
 {
-    "accession_number": "10.211", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": null, 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1853 (Ox 12)", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "13-7/16 x 8-7/8 in.", 
-    "dynasty": null, 
-    "irn": 24191, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Koshimura-ya Heisuke"
-        }
-    ], 
-    "rights": null, 
-    "title": "Inaba"
+  "publishers": [
+    {
+      "name": "Koshimura-ya Heisuke"
+    }
+  ], 
+  "dimensions": "13-7/16 x 8-7/8 in.", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "10.211", 
+  "title": "Inaba", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18202513, 
+  "creation_date": "1853 (Ox 12)", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }, 
+    {
+      "name": null, 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295437, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 24191, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

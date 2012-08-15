@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.177", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1832", 
-    "credit_line": "Bequest of Kurt Pantzer, Sr.", 
-    "cultures": [], 
-    "dimensions": "7 5/8 x 5 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 18113, 
-    "materials": "watercolor and gouache strengthened with red ink on blue paper", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Nicholas Poussin's Birthplace"
+  "publishers": [], 
+  "dimensions": "7 5/8 x 5 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt Pantzer, Sr.", 
+  "accession_number": "82.177", 
+  "title": "Nicholas Poussin's Birthplace", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18174965, 
+  "creation_date": "1832", 
+  "materials": "watercolor and gouache strengthened with red ink on blue paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18113, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

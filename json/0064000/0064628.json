@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.390.1-.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Jurgen Bey", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Jurgen Bey", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1999", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
-    "cultures": [], 
-    "dimensions": "Largest: 7 7/8 \u00d7 8 3/4 \u00d7 4 3/4 in. (20 \u00d7 22 \u00d7 12 cm) (height \u00d7 width \u00d7 diameter)", 
-    "dynasty": null, 
-    "irn": 64628, 
-    "materials": "silver plate over existing ceramics", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jurgen Bey", 
-    "title": "Broken Family tea set"
+  "publishers": [], 
+  "dimensions": "Largest: 7 7/8 \u00d7 8 3/4 \u00d7 4 3/4 in. (20 \u00d7 22 \u00d7 12 cm) (height \u00d7 width \u00d7 diameter)", 
+  "rights": "\u00a9 Jurgen Bey", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
+  "accession_number": "2009.390.1-.16", 
+  "title": "Broken Family tea set", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279121, 
+  "creation_date": "1999", 
+  "materials": "silver plate over existing ceramics", 
+  "actors": [
+    {
+      "name": "Jurgen Bey", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306813, 
+      "role": "Designer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }, 
+    {
+      "name": "Jurgen Bey", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306813, 
+      "role": "manufacturer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64628, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

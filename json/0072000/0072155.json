@@ -1,26 +1,30 @@
 {
-    "accession_number": "MH2012.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1937", 
-            "death_date": null, 
-            "name": "Pedro Friedeberg", 
-            "nationality": "Italian", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1973", 
-    "credit_line": "Deaccessioned Decorative Art Fund", 
-    "cultures": [], 
-    "dimensions": "24 1/2 x 24 3/4 in.", 
-    "dynasty": null, 
-    "irn": 72155, 
-    "materials": "serigraph on cutout paper", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": "24 1/2 x 24 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Deaccessioned Decorative Art Fund", 
+  "accession_number": "MH2012.23", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287687, 
+  "creation_date": "1973", 
+  "materials": "serigraph on cutout paper", 
+  "actors": [
+    {
+      "name": "Pedro Friedeberg", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308537, 
+      "role": "Artist", 
+      "birth_date": "1937", 
+      "nationality": "Italian"
+    }
+  ], 
+  "irn": 72155, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

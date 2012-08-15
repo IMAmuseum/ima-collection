@@ -1,34 +1,40 @@
 {
-    "accession_number": "56.83", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1808-1897", 
-            "death_date": "1808-1897", 
-            "name": "Sartain, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1819", 
-            "death_date": "1903", 
-            "name": "Cogswell, William F.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1865", 
-    "credit_line": "Gift of Sue Howe Estate", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34878, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Genl. Grant and His Family"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Sue Howe Estate", 
+  "accession_number": "56.83", 
+  "title": "Genl. Grant and His Family", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227391, 
+  "creation_date": "1865", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Sartain, John", 
+      "after_follower": null, 
+      "death_date": "1808-1897", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300995, 
+      "role": "Artist", 
+      "birth_date": "1808-1897", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cogswell, William F.", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303651, 
+      "role": "Artist", 
+      "birth_date": "1819", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34878, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

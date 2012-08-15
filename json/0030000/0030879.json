@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.130.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "about 1530", 
-            "death_date": "after 1572", 
-            "name": "Heyden, Pieter van der", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1558", 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "9 x 11 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 30879, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Elck (Everyman)"
+  "publishers": [], 
+  "dimensions": "9 x 11 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "accession_number": "72.130.2", 
+  "title": "Elck (Everyman)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18218127, 
+  "creation_date": "about 1558", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Heyden, Pieter van der", 
+      "after_follower": null, 
+      "death_date": "after 1572", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302991, 
+      "role": "Artist", 
+      "birth_date": "about 1530", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30879, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

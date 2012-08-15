@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860-1920", 
-            "death_date": "1860-1920", 
-            "name": "Zorn, Anders Leonard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1904", 
-    "credit_line": "Gift of Mrs. William H. Thompson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14453, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Emma Rasmussen"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Emma Rasmussen", 
+  "accession_number": "47.10", 
+  "credit_line": "Gift of Mrs. William H. Thompson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165815, 
+  "creation_date": "1904", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Zorn, Anders Leonard", 
+      "after_follower": null, 
+      "death_date": "1860-1920", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297129, 
+      "role": "Artist", 
+      "birth_date": "1860-1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14453, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

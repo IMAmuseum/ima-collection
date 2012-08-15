@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1645", 
-            "death_date": "1708", 
-            "name": "Mansart, Jules Hardouin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1687", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "7 1/2 X 5 1/8 (image)\n10 1/4 X 7 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9266, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Interior with panelled door"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "7 1/2 X 5 1/8 (image)\n10 1/4 X 7 in. (sheet)", 
+  "title": "Interior with panelled door", 
+  "accession_number": "73.2.15", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153313, 
+  "creation_date": "about 1687", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Mansart, Jules Hardouin", 
+      "after_follower": null, 
+      "death_date": "1708", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298273, 
+      "role": "Artist", 
+      "birth_date": "1645", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9266, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.29", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1852", 
-            "death_date": "1931", 
-            "name": "Cole, Timothy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1921", 
-    "credit_line": "Gift of John D. Rockefeller, Jr.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34580, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of John D. Rockefeller"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of John D. Rockefeller, Jr.", 
+  "accession_number": "40.29", 
+  "title": "Portrait of John D. Rockefeller", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18226699, 
+  "creation_date": "1921", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Cole, Timothy", 
+      "after_follower": null, 
+      "death_date": "1931", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298525, 
+      "role": "Artist", 
+      "birth_date": "1852", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34580, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

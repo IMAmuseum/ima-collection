@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.355A-E", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1917", 
-            "death_date": null, 
-            "name": "Knoll, Florence Schust", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Knoll Associates, Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1955", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "30 x 89 x 31 in.", 
-    "dynasty": null, 
-    "irn": 66380, 
-    "materials": "wood and fabric", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "#2553 sofa"
+  "publishers": [], 
+  "dimensions": "30 x 89 x 31 in.", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "2008.355A-E", 
+  "title": "#2553 sofa", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280815, 
+  "creation_date": "about 1955", 
+  "materials": "wood and fabric", 
+  "actors": [
+    {
+      "name": "Knoll, Florence Schust", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307539, 
+      "role": "Designer", 
+      "birth_date": "1917", 
+      "nationality": null
+    }, 
+    {
+      "name": "Knoll Associates, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307105, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 66380, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

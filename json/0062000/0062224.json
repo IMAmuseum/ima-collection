@@ -1,26 +1,30 @@
 {
-    "accession_number": "LH2003.72A-F", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1826", 
-            "death_date": "1906", 
-            "name": "Henrick Ibsen", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1911", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 1/4 x 6 in. (each)", 
-    "dynasty": null, 
-    "irn": 62224, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Works of Henrick Ibsen"
+  "publishers": [], 
+  "dimensions": "8 1/4 x 6 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.72A-F", 
+  "title": "The Works of Henrick Ibsen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277581, 
+  "creation_date": "1911", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Henrick Ibsen", 
+      "after_follower": null, 
+      "death_date": "1906", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306339, 
+      "role": "Author", 
+      "birth_date": "1826", 
+      "nationality": null
+    }
+  ], 
+  "irn": 62224, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

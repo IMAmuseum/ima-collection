@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.33", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1804", 
-            "death_date": "1881", 
-            "name": "William Radcliffe", 
-            "nationality": "English", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th Century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10506, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Grammer School of Kig Edward VI, Birmingham"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Grammer School of Kig Edward VI, Birmingham", 
+  "accession_number": "09.33", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156235, 
+  "creation_date": "19th Century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "William Radcliffe", 
+      "after_follower": null, 
+      "death_date": "1881", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298645, 
+      "role": "Artist", 
+      "birth_date": "1804", 
+      "nationality": "English"
+    }
+  ], 
+  "irn": 10506, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

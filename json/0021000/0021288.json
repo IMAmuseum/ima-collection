@@ -1,26 +1,30 @@
 {
-    "accession_number": "10.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1852", 
-            "death_date": "1917", 
-            "name": "Beckwith, James Carroll", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1881-1882", 
-    "credit_line": "Gift of the Artist", 
-    "cultures": [], 
-    "dimensions": "78 x 38 in.\n85 1/2 x 45 1/8 in. (framed)", 
-    "dynasty": null, 
-    "irn": 21288, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of William Merritt Chase"
+  "publishers": [], 
+  "dimensions": "78 x 38 in.\n85 1/2 x 45 1/8 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of the Artist", 
+  "accession_number": "10.8", 
+  "title": "Portrait of William Merritt Chase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18195787, 
+  "creation_date": "1881-1882", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Beckwith, James Carroll", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297085, 
+      "role": "Artist", 
+      "birth_date": "1852", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21288, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

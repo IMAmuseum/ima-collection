@@ -1,42 +1,50 @@
 {
-    "accession_number": "1997.50", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1845", 
-            "death_date": "1917", 
-            "name": "Cl\u00e9ment Massier", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1865", 
-            "death_date": "1953", 
-            "name": "Lucien L\u00e9vy-Dhurmen", 
-            "nationality": null, 
-            "role": "Decorator"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1865", 
-            "death_date": "1953", 
-            "name": "Lucien L\u00e9vy-Dhurmen", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1900", 
-    "credit_line": "Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "2-3/8 in. x  20-1/2 in.", 
-    "dynasty": null, 
-    "irn": 31595, 
-    "materials": "earthenware, luster glaze", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Charger (plate)"
+  "publishers": [], 
+  "dimensions": "2-3/8 in. x  20-1/2 in.", 
+  "rights": null, 
+  "credit_line": "Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks", 
+  "accession_number": "1997.50", 
+  "title": "Charger (plate)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18219745, 
+  "creation_date": "1900", 
+  "materials": "earthenware, luster glaze", 
+  "actors": [
+    {
+      "name": "Cl\u00e9ment Massier", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299019, 
+      "role": "Artist", 
+      "birth_date": "1845", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lucien L\u00e9vy-Dhurmen", 
+      "after_follower": null, 
+      "death_date": "1953", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302975, 
+      "role": "Decorator", 
+      "birth_date": "1865", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lucien L\u00e9vy-Dhurmen", 
+      "after_follower": null, 
+      "death_date": "1953", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302975, 
+      "role": "Designer", 
+      "birth_date": "1865", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31595, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

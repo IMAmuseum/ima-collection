@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860-1920", 
-            "death_date": "1860-1920", 
-            "name": "Zorn, Anders Leonard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1907", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45741, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Edo"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Delavan Smith", 
+  "accession_number": "25.26", 
+  "title": "Edo", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18255013, 
+  "creation_date": "1907", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Zorn, Anders Leonard", 
+      "after_follower": null, 
+      "death_date": "1860-1920", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297129, 
+      "role": "Artist", 
+      "birth_date": "1860-1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45741, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

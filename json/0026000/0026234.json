@@ -1,26 +1,30 @@
 {
-    "accession_number": "58.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "about 1575", 
-            "death_date": "1616", 
-            "name": "Bellange, Jacques", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1612-1616", 
-    "credit_line": "John P. Collett and Co. gift in memory of Robert Brady Adams", 
-    "cultures": [], 
-    "dimensions": "9 3/8 x 7 1/8 in.", 
-    "dynasty": null, 
-    "irn": 26234, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Suicide of Portia"
+  "publishers": [], 
+  "dimensions": "9 3/8 x 7 1/8 in.", 
+  "rights": null, 
+  "credit_line": "John P. Collett and Co. gift in memory of Robert Brady Adams", 
+  "accession_number": "58.20", 
+  "title": "Suicide of Portia", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18207203, 
+  "creation_date": "1612-1616", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Bellange, Jacques", 
+      "after_follower": null, 
+      "death_date": "1616", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302219, 
+      "role": "Artist", 
+      "birth_date": "about 1575", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26234, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

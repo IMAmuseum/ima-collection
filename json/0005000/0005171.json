@@ -1,34 +1,40 @@
 {
-    "accession_number": "1992.365", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1863", 
-            "death_date": "1957", 
-            "name": "Velde, Henry van de", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Reinhold Henke", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "designed 1901; executed 1902", 
-    "credit_line": "Harold Victor Decorative Arts Fund", 
-    "cultures": [], 
-    "dimensions": "13 in.", 
-    "dynasty": null, 
-    "irn": 5171, 
-    "materials": "salt-glazed stoneware; painted cobalt blue decoration", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 in.", 
+  "title": "vase", 
+  "accession_number": "1992.365", 
+  "credit_line": "Harold Victor Decorative Arts Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143515, 
+  "creation_date": "designed 1901; executed 1902", 
+  "materials": "salt-glazed stoneware; painted cobalt blue decoration", 
+  "actors": [
+    {
+      "name": "Velde, Henry van de", 
+      "after_follower": null, 
+      "death_date": "1957", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297061, 
+      "role": "Designer", 
+      "birth_date": "1863", 
+      "nationality": null
+    }, 
+    {
+      "name": "Reinhold Henke", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297065, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 5171, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

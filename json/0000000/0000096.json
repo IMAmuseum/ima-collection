@@ -1,26 +1,30 @@
 {
-    "accession_number": "1998.324", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": null, 
-            "name": "Opalka, Roman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 96, 
-    "materials": "aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ziemia (Earth)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Ziemia (Earth)", 
+  "accession_number": "1998.324", 
+  "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131375, 
+  "creation_date": "1969", 
+  "materials": "aquatint", 
+  "actors": [
+    {
+      "name": "Opalka, Roman", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294801, 
+      "role": "Artist", 
+      "birth_date": "1931", 
+      "nationality": null
+    }
+  ], 
+  "irn": 96, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.409", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1959", 
-            "death_date": null, 
-            "name": "Thomas Eriksson", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Cappellini Design SpA", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Deaccessioned Decorative/Design Art Fund", 
-    "cultures": [], 
-    "dimensions": "17 \u00d7 5 3/4 \u00d7 17 in.", 
-    "dynasty": null, 
-    "irn": 64680, 
-    "materials": "enameled steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Thomas Eriksson", 
-    "title": "PO 9208 cabinet"
+  "publishers": [], 
+  "dimensions": "17 \u00d7 5 3/4 \u00d7 17 in.", 
+  "rights": "\u00a9 Thomas Eriksson", 
+  "credit_line": "Deaccessioned Decorative/Design Art Fund", 
+  "accession_number": "2009.409", 
+  "title": "PO 9208 cabinet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279191, 
+  "creation_date": "1992", 
+  "materials": "enameled steel", 
+  "actors": [
+    {
+      "name": "Thomas Eriksson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306917, 
+      "role": "Designer", 
+      "birth_date": "1959", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cappellini Design SpA", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306803, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64680, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

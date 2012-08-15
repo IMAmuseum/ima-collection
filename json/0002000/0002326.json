@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.511", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Blackwell, Thomas Leo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift of Dr. and Mrs. Francis L'Esperance", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2326, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "451"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "451", 
+  "accession_number": "80.511", 
+  "credit_line": "Gift of Dr. and Mrs. Francis L'Esperance", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136851, 
+  "creation_date": "1979", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Blackwell, Thomas Leo", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295945, 
+      "role": "Artist", 
+      "birth_date": "1938", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2326, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.256", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1917", 
-            "death_date": "2007", 
-            "name": "Sottsass, Ettore", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": null, 
-            "name": "Vistosi, Luciano", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1972", 
-    "credit_line": "Purchased with funds provided by James E. and Patricia J. LaCrosse", 
-    "cultures": [], 
-    "dimensions": "10 x 8 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 65416, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ettore Sottsass", 
-    "title": "Basilissa vase"
+  "publishers": [], 
+  "dimensions": "10 x 8 (diam.) in.", 
+  "rights": "\u00a9 Ettore Sottsass", 
+  "credit_line": "Purchased with funds provided by James E. and Patricia J. LaCrosse", 
+  "accession_number": "2008.256", 
+  "title": "Basilissa vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280065, 
+  "creation_date": "1972", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Sottsass, Ettore", 
+      "after_follower": null, 
+      "death_date": "2007", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304001, 
+      "role": "Artist", 
+      "birth_date": "1917", 
+      "nationality": null
+    }, 
+    {
+      "name": "Vistosi, Luciano", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307373, 
+      "role": "manufacturer", 
+      "birth_date": "1931", 
+      "nationality": null
+    }
+  ], 
+  "irn": 65416, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

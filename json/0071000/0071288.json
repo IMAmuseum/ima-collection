@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.286", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Otto E. Stelzer", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Calkins Appliance Corporation", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1945", 
-    "credit_line": "Gift of David A. Hanks, in honor of George R. Kravis II", 
-    "cultures": [], 
-    "dimensions": "4 7/8 x 11 x 7 1/2 in. (w/o cord)", 
-    "dynasty": null, 
-    "irn": 71288, 
-    "materials": "aluminum, Bakelite, nylon, and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Breakfaster Roaster and Cooker"
+  "publishers": [], 
+  "dimensions": "4 7/8 x 11 x 7 1/2 in. (w/o cord)", 
+  "rights": null, 
+  "credit_line": "Gift of David A. Hanks, in honor of George R. Kravis II", 
+  "accession_number": "2010.286", 
+  "title": "Breakfaster Roaster and Cooker", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18286869, 
+  "creation_date": "1945", 
+  "materials": "aluminum, Bakelite, nylon, and plastic", 
+  "actors": [
+    {
+      "name": "Otto E. Stelzer", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308351, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Calkins Appliance Corporation", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308355, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71288, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

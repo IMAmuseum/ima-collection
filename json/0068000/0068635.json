@@ -1,42 +1,50 @@
 {
-    "accession_number": "2010.67A-D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1951", 
-            "death_date": null, 
-            "name": "Michele De Lucchi", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": null, 
-            "name": "Richter, Gerhard", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Artemide S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2002", 
-    "credit_line": "Gift of IMA Design Center", 
-    "cultures": [], 
-    "dimensions": "16 x 26 inches (each)\n79 x 50 inches (installed)", 
-    "dynasty": null, 
-    "irn": 68635, 
-    "materials": "glass, aluminum, steel, and plastic", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Michele De Lucchi \u00a9 Gerhard Richter", 
-    "title": "Logico chandelier"
+  "publishers": [], 
+  "dimensions": "16 x 26 inches (each)\n79 x 50 inches (installed)", 
+  "rights": "\u00a9 Michele De Lucchi \u00a9 Gerhard Richter", 
+  "credit_line": "Gift of IMA Design Center", 
+  "accession_number": "2010.67A-D", 
+  "title": "Logico chandelier", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283547, 
+  "creation_date": "2002", 
+  "materials": "glass, aluminum, steel, and plastic", 
+  "actors": [
+    {
+      "name": "Michele De Lucchi", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306877, 
+      "role": "Designer", 
+      "birth_date": "1951", 
+      "nationality": null
+    }, 
+    {
+      "name": "Richter, Gerhard", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307613, 
+      "role": "Designer", 
+      "birth_date": "1932", 
+      "nationality": null
+    }, 
+    {
+      "name": "Artemide S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300503, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68635, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

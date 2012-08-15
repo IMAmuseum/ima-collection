@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.97", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1723", 
-            "death_date": "1792", 
-            "name": "Reynolds, Joshua", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "25 x 21 1/2 in.", 
-    "dynasty": null, 
-    "irn": 23057, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Golden Age"
+  "publishers": [], 
+  "dimensions": "25 x 21 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herman C. Krannert", 
+  "accession_number": "74.97", 
+  "title": "The Golden Age", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18199861, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Reynolds, Joshua", 
+      "after_follower": null, 
+      "death_date": "1792", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295553, 
+      "role": "Artist", 
+      "birth_date": "1723", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23057, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

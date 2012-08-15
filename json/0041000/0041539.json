@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1702.52", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1802", 
-            "death_date": "1897", 
-            "name": "Armytage, James Charles", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1859", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41539, 
-    "materials": "engraving on India paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Venice, The Bridge of Sighs"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1702.52", 
+  "title": "Venice, The Bridge of Sighs", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18244871, 
+  "creation_date": "1859", 
+  "materials": "engraving on India paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Armytage, James Charles", 
+      "after_follower": null, 
+      "death_date": "1897", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296075, 
+      "role": "Engraver", 
+      "birth_date": "1802", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41539, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

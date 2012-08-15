@@ -1,30 +1,34 @@
 {
-    "accession_number": "81.833", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1840", 
-            "death_date": "1905", 
-            "name": "Gifford, Robert Swain", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1879", 
-    "credit_line": "Gift of Dr. and Mrs. M. E. Hodes", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10189, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "American Art Review"
-        }
-    ], 
-    "rights": null, 
-    "title": "Coal Pockets at New Bedford"
+  "publishers": [
+    {
+      "name": "American Art Review"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Coal Pockets at New Bedford", 
+  "accession_number": "81.833", 
+  "credit_line": "Gift of Dr. and Mrs. M. E. Hodes", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155481, 
+  "creation_date": "1879", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Gifford, Robert Swain", 
+      "after_follower": null, 
+      "death_date": "1905", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298565, 
+      "role": "Artist", 
+      "birth_date": "1840", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10189, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

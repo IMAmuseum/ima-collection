@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.30", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1779", 
-            "death_date": "1852", 
-            "name": "Dickinson, Anson", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1830", 
-    "credit_line": "Gift of Mrs. J. Perry Meek in memory of Franklin Van Antwerp Meek", 
-    "cultures": [], 
-    "dimensions": "3 1/16 x 2 9/16 in.", 
-    "dynasty": null, 
-    "irn": 5480, 
-    "materials": "watercolor on ivory", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Edwin van Antwerp"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "3 1/16 x 2 9/16 in.", 
+  "title": "Edwin van Antwerp", 
+  "accession_number": "73.30", 
+  "credit_line": "Gift of Mrs. J. Perry Meek in memory of Franklin Van Antwerp Meek", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144229, 
+  "creation_date": "about 1830", 
+  "materials": "watercolor on ivory", 
+  "actors": [
+    {
+      "name": "Dickinson, Anson", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297161, 
+      "role": "Artist", 
+      "birth_date": "1779", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5480, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

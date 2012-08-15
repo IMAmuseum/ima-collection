@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.428", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1902", 
-            "death_date": "1985", 
-            "name": "David K. Rubins", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Artist", 
-    "cultures": [], 
-    "dimensions": "38 x 61 x 32 1/2 in.", 
-    "dynasty": null, 
-    "irn": 58694, 
-    "materials": "bronze", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 David Kresz Rubins", 
-    "title": "Stumbling Man"
+  "publishers": [], 
+  "dimensions": "38 x 61 x 32 1/2 in.", 
+  "rights": "\u00a9 David Kresz Rubins", 
+  "credit_line": "Gift of the Artist", 
+  "accession_number": "77.428", 
+  "title": "Stumbling Man", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18275789, 
+  "creation_date": null, 
+  "materials": "bronze", 
+  "actors": [
+    {
+      "name": "David K. Rubins", 
+      "after_follower": null, 
+      "death_date": "1985", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297155, 
+      "role": "Artist", 
+      "birth_date": "1902", 
+      "nationality": null
+    }
+  ], 
+  "irn": 58694, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.251", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Smith, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1732", 
-    "credit_line": "Purchased from the Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15999, 
-    "materials": "hand-colored engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "February"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "February", 
+  "accession_number": "40.251", 
+  "credit_line": "Purchased from the Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169337, 
+  "creation_date": "1732", 
+  "materials": "hand-colored engraving", 
+  "actors": [
+    {
+      "name": "Smith, Samuel", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300029, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 15999, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

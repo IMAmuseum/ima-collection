@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.34", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1723", 
-            "death_date": "1792", 
-            "name": "Reynolds, Joshua", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1760", 
-    "credit_line": "Gift of Mrs. Thomas Chandler Werbe in memory of her husband", 
-    "cultures": [], 
-    "dimensions": "48 1/2 x 38 1/2 in.", 
-    "dynasty": null, 
-    "irn": 29253, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Charles Brandling"
+  "publishers": [], 
+  "dimensions": "48 1/2 x 38 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Thomas Chandler Werbe in memory of her husband", 
+  "accession_number": "52.34", 
+  "title": "Charles Brandling", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18214313, 
+  "creation_date": "1760", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Reynolds, Joshua", 
+      "after_follower": null, 
+      "death_date": "1792", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295553, 
+      "role": "Artist", 
+      "birth_date": "1723", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29253, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

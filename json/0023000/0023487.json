@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.92", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1905", 
-            "death_date": "1970", 
-            "name": "Ferren, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1934", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant, Mrs. Ruth Conant, and Miss Joan Weisenberger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23487, 
-    "materials": "etching with hand-coloring", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant, Mrs. Ruth Conant, and Miss Joan Weisenberger", 
+  "accession_number": "1999.92", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200875, 
+  "creation_date": "1934", 
+  "materials": "etching with hand-coloring", 
+  "actors": [
+    {
+      "name": "Ferren, John", 
+      "after_follower": null, 
+      "death_date": "1970", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301631, 
+      "role": "Artist", 
+      "birth_date": "1905", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23487, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

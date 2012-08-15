@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1975", 
-            "death_date": null, 
-            "name": "Bertjan Pot", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Goods", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2005", 
-    "credit_line": "Lucille Stewart Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "27 3/4 x 36 x 20 in.", 
-    "dynasty": null, 
-    "irn": 67813, 
-    "materials": "carbon fiber", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Bertjan Pot", 
-    "title": "Random lounge chair"
+  "publishers": [], 
+  "dimensions": "27 3/4 x 36 x 20 in.", 
+  "rights": "\u00a9 Bertjan Pot", 
+  "credit_line": "Lucille Stewart Endowed Art Fund", 
+  "accession_number": "2010.5", 
+  "title": "Random lounge chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283047, 
+  "creation_date": "2005", 
+  "materials": "carbon fiber", 
+  "actors": [
+    {
+      "name": "Bertjan Pot", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307739, 
+      "role": "Designer", 
+      "birth_date": "1975", 
+      "nationality": null
+    }, 
+    {
+      "name": "Goods", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307743, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67813, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

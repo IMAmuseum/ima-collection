@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.643", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": null, 
-            "name": "Jacob Jensen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bang & Olufson", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1974", 
-    "credit_line": "Gift of Form + Function", 
-    "cultures": [], 
-    "dimensions": "4 x 19 1/4 x 15 in.", 
-    "dynasty": null, 
-    "irn": 68263, 
-    "materials": "steel, aluminum, and rosewood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Beogram 4002 turntable"
+  "publishers": [], 
+  "dimensions": "4 x 19 1/4 x 15 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Form + Function", 
+  "accession_number": "2009.643", 
+  "title": "Beogram 4002 turntable", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283251, 
+  "creation_date": "1974", 
+  "materials": "steel, aluminum, and rosewood", 
+  "actors": [
+    {
+      "name": "Jacob Jensen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307791, 
+      "role": "Designer", 
+      "birth_date": "1926", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bang & Olufson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307795, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68263, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

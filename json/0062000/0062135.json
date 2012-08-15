@@ -1,38 +1,44 @@
 {
-    "accession_number": "2004.106", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": null, 
-            "name": "Ellen Lanyon", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1936", 
-            "death_date": null, 
-            "name": "Lemon, Jack", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1980", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "46 x 31 1/2 in (image) \n47 3/4 x 34 in (sheet)", 
-    "dynasty": null, 
-    "irn": 62135, 
-    "materials": "lithograph with hand-coloring on Twinrocker handmade paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Landfall Press"
-        }
-    ], 
-    "rights": "\u00a9 Ellen Lanyon", 
-    "title": "Strange Games A-Oxbow"
+  "publishers": [
+    {
+      "name": "Landfall Press"
+    }
+  ], 
+  "dimensions": "46 x 31 1/2 in (image) \n47 3/4 x 34 in (sheet)", 
+  "rights": "\u00a9 Ellen Lanyon", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2004.106", 
+  "title": "Strange Games A-Oxbow", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277491, 
+  "creation_date": "1980", 
+  "materials": "lithograph with hand-coloring on Twinrocker handmade paper", 
+  "actors": [
+    {
+      "name": "Ellen Lanyon", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306319, 
+      "role": "Artist", 
+      "birth_date": "1926", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lemon, Jack", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297737, 
+      "role": "Printer", 
+      "birth_date": "1936", 
+      "nationality": null
+    }
+  ], 
+  "irn": 62135, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

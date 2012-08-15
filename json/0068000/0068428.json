@@ -1,42 +1,50 @@
 {
-    "accession_number": "2010.47A-H", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1907", 
-            "death_date": "1978", 
-            "name": "Eames, Charles", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": "1988", 
-            "name": "Eames, Ray Kaiser", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Herman Miller Furniture Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1950", 
-    "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks Sr., and Her Late Son, Michael Fairbanks", 
-    "cultures": [], 
-    "dimensions": "58 1/4 x 46 3/4 x 16 7/8 in.", 
-    "dynasty": null, 
-    "irn": 68428, 
-    "materials": "birch plywood, lacquered masonite, zinc plated steel, lacquered wood, and perated metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Charles and Ray Eames", 
-    "title": "ESU 420-C bookcase"
+  "publishers": [], 
+  "dimensions": "58 1/4 x 46 3/4 x 16 7/8 in.", 
+  "rights": "\u00a9 Charles and Ray Eames", 
+  "credit_line": "Robertine Daniels Art Fund in Memory of Her Late Husband, Richard Monroe Fairbanks Sr., and Her Late Son, Michael Fairbanks", 
+  "accession_number": "2010.47A-H", 
+  "title": "ESU 420-C bookcase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283409, 
+  "creation_date": "1950", 
+  "materials": "birch plywood, lacquered masonite, zinc plated steel, lacquered wood, and perated metal", 
+  "actors": [
+    {
+      "name": "Eames, Charles", 
+      "after_follower": null, 
+      "death_date": "1978", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307585, 
+      "role": "Designer", 
+      "birth_date": "1907", 
+      "nationality": null
+    }, 
+    {
+      "name": "Eames, Ray Kaiser", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307587, 
+      "role": "Designer", 
+      "birth_date": "1912", 
+      "nationality": null
+    }, 
+    {
+      "name": "Herman Miller Furniture Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301627, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68428, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

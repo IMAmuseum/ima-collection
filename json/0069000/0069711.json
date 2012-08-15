@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.199B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Baccarat", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1979", 
-            "name": "Truex, Van Day", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "Mid 20th century", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "3 1/4 x 1 3/4 x 3/4 in.", 
-    "dynasty": null, 
-    "irn": 69711, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Stopper"
+  "publishers": [], 
+  "dimensions": "3 1/4 x 1 3/4 x 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.199B", 
+  "title": "Stopper", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18285459, 
+  "creation_date": "Mid 20th century", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Baccarat", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308261, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Truex, Van Day", 
+      "after_follower": null, 
+      "death_date": "1979", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308279, 
+      "role": "Designer", 
+      "birth_date": "1904", 
+      "nationality": null
+    }
+  ], 
+  "irn": 69711, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

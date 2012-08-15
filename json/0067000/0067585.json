@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.327A-S", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1951", 
-            "death_date": null, 
-            "name": "Arad, Ron", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kartell S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1994", 
-    "credit_line": "Gift of Kartell Museum", 
-    "cultures": [], 
-    "dimensions": "7 1/2 x 322 7/8 x 7 7/8 inches\n(dimensions vary depending on configuration of install)", 
-    "dynasty": null, 
-    "irn": 67585, 
-    "materials": "polyvinyl chloride", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ron Arad", 
-    "title": "Bookworm shelf"
+  "publishers": [], 
+  "dimensions": "7 1/2 x 322 7/8 x 7 7/8 inches\n(dimensions vary depending on configuration of install)", 
+  "rights": "\u00a9 Ron Arad", 
+  "credit_line": "Gift of Kartell Museum", 
+  "accession_number": "2009.327A-S", 
+  "title": "Bookworm shelf", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282855, 
+  "creation_date": "1994", 
+  "materials": "polyvinyl chloride", 
+  "actors": [
+    {
+      "name": "Arad, Ron", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306779, 
+      "role": "Designer", 
+      "birth_date": "1951", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kartell S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306787, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67585, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "80.2011", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Malton, James", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1800", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 56052, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Carpenter and Co., London"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Young Painter's Maulstick; being a Practical Treatise on Perspective"
+  "publishers": [
+    {
+      "name": "Carpenter and Co., London"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.2011", 
+  "title": "The Young Painter's Maulstick; being a Practical Treatise on Perspective", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18273539, 
+  "creation_date": "1800", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Malton, James", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300047, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 56052, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

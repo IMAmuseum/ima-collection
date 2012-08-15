@@ -1,26 +1,30 @@
 {
-    "accession_number": "33.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1836", 
-            "death_date": "1910", 
-            "name": "Homer, Winslow", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1899", 
-    "credit_line": "Mary B. Milliken Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16782, 
-    "materials": "watercolor over pencil on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Nassau Beach with Century Plants"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Mary B. Milliken Fund", 
+  "accession_number": "33.32", 
+  "title": "Nassau Beach with Century Plants", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171477, 
+  "creation_date": "1899", 
+  "materials": "watercolor over pencil on white paper", 
+  "actors": [
+    {
+      "name": "Homer, Winslow", 
+      "after_follower": null, 
+      "death_date": "1910", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300259, 
+      "role": "Artist", 
+      "birth_date": "1836", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16782, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

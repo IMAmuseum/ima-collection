@@ -1,26 +1,30 @@
 {
-    "accession_number": "35.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1998", 
-            "name": "Hancock, Walker Kirtland", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1934", 
-    "credit_line": "Gift of the Friends of American Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 30153, 
-    "materials": "Bronze On Marble Base", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Booth Tarkington"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Friends of American Art", 
+  "accession_number": "35.12", 
+  "title": "Portrait of Booth Tarkington", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18216405, 
+  "creation_date": "1934", 
+  "materials": "Bronze On Marble Base", 
+  "actors": [
+    {
+      "name": "Hancock, Walker Kirtland", 
+      "after_follower": null, 
+      "death_date": "1998", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302391, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30153, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.188", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": null, 
-            "name": "Mendini, Alessandro", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1920", 
-            "death_date": null, 
-            "name": "Guerriero, Alessandro", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1988", 
-    "credit_line": "Frank Curtis Springer and Irving Moxley Springer Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "29 1/4 x 16 1/16 x 15 in.", 
-    "dynasty": null, 
-    "irn": 65104, 
-    "materials": "plastic, laminate", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Alessandro Mendini \u00a9 Alessandro Guerriero", 
-    "title": "Side chair from Ollo Collection"
+  "publishers": [], 
+  "dimensions": "29 1/4 x 16 1/16 x 15 in.", 
+  "rights": "\u00a9 Alessandro Mendini \u00a9 Alessandro Guerriero", 
+  "credit_line": "Frank Curtis Springer and Irving Moxley Springer Purchase Fund", 
+  "accession_number": "2008.188", 
+  "title": "Side chair from Ollo Collection", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279669, 
+  "creation_date": "1988", 
+  "materials": "plastic, laminate", 
+  "actors": [
+    {
+      "name": "Mendini, Alessandro", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307305, 
+      "role": "Designer", 
+      "birth_date": "1931", 
+      "nationality": null
+    }, 
+    {
+      "name": "Guerriero, Alessandro", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307307, 
+      "role": "Designer", 
+      "birth_date": "1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 65104, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

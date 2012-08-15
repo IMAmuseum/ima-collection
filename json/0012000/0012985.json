@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.38.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1884", 
-            "death_date": "1973", 
-            "name": "Ruth P. Bobbs", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1924-1924", 
-    "credit_line": "Gift of Jim Snodgrass", 
-    "cultures": [], 
-    "dimensions": "42 x 34 in.", 
-    "dynasty": null, 
-    "irn": 12985, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ruth Pratt Bobbs", 
-    "title": "Portrait of a Woman"
+  "publishers": [], 
+  "rights": "\u00a9 Ruth Pratt Bobbs", 
+  "dimensions": "42 x 34 in.", 
+  "title": "Portrait of a Woman", 
+  "accession_number": "73.38.1", 
+  "credit_line": "Gift of Jim Snodgrass", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162329, 
+  "creation_date": "1924-1924", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Ruth P. Bobbs", 
+      "after_follower": null, 
+      "death_date": "1973", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295851, 
+      "role": "Artist", 
+      "birth_date": "1884", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12985, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

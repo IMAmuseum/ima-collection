@@ -1,26 +1,30 @@
 {
-    "accession_number": "08.86", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1605", 
-            "death_date": "1690", 
-            "name": "Waterloo, Anthonie", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Purchased from the John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26464, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Trees and Bridge"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Purchased from the John Herron Fund", 
+  "accession_number": "08.86", 
+  "title": "Trees and Bridge", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18207749, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Waterloo, Anthonie", 
+      "after_follower": null, 
+      "death_date": "1690", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295781, 
+      "role": "Artist", 
+      "birth_date": "1605", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26464, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

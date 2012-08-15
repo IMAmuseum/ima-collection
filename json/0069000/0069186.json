@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.45", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1920", 
-            "death_date": "1982", 
-            "name": "Niels M\u00f8ller", 
-            "nationality": "Danish", 
-            "role": "designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "J.L. M\u00f8ller M\u00f8belfabrik", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "circa 1957", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "18 x 19 x 14 3/4 in.", 
-    "dynasty": null, 
-    "irn": 69186, 
-    "materials": "upholstered wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Stool"
+  "publishers": [], 
+  "dimensions": "18 x 19 x 14 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.45", 
+  "title": "Stool", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284313, 
+  "creation_date": "circa 1957", 
+  "materials": "upholstered wood", 
+  "actors": [
+    {
+      "name": "Niels M\u00f8ller", 
+      "after_follower": null, 
+      "death_date": "1982", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308197, 
+      "role": "designer", 
+      "birth_date": "1920", 
+      "nationality": "Danish"
+    }, 
+    {
+      "name": "J.L. M\u00f8ller M\u00f8belfabrik", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308199, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69186, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "72.196", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1882", 
-            "name": "Miller, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1835", 
-    "credit_line": "Gift in memory of Dr. and Mrs. Hugo O. Pantzer by their children", 
-    "cultures": [], 
-    "dimensions": "3 3/4 x 3 in. (image)\n7 1/8 x 4 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 15634, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fontainebleau"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "3 3/4 x 3 in. (image)\n7 1/8 x 4 1/2 in. (sheet)", 
+  "title": "Fontainebleau", 
+  "accession_number": "72.196", 
+  "credit_line": "Gift in memory of Dr. and Mrs. Hugo O. Pantzer by their children", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168505, 
+  "creation_date": "1835", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Miller, William", 
+      "after_follower": null, 
+      "death_date": "1882", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299379, 
+      "role": "Engraver", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15634, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

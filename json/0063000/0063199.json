@@ -1,38 +1,44 @@
 {
-    "accession_number": "2005.67.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1897", 
-            "death_date": "1954", 
-            "name": "Buckland-Wright, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Hecht, Henry", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "March 1939", 
-    "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "8 1/2 x 6 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 63199, 
-    "materials": "etching and engraving on Montval paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Atelier 17"
-        }
-    ], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [
+    {
+      "name": "Atelier 17"
+    }
+  ], 
+  "dimensions": "8 1/2 x 6 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
+  "accession_number": "2005.67.2", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278359, 
+  "creation_date": "March 1939", 
+  "materials": "etching and engraving on Montval paper", 
+  "actors": [
+    {
+      "name": "Buckland-Wright, John", 
+      "after_follower": null, 
+      "death_date": "1954", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306509, 
+      "role": "Artist", 
+      "birth_date": "1897", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hecht, Henry", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306505, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63199, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

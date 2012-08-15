@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.39", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1868", 
-            "death_date": "1919", 
-            "name": "Hyde, Helen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1901", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9357, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Monarch of Japan"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "A Monarch of Japan", 
+  "accession_number": "25.39", 
+  "credit_line": "Bequest of Delavan Smith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153565, 
+  "creation_date": "1901", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Hyde, Helen", 
+      "after_follower": null, 
+      "death_date": "1919", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296739, 
+      "role": "Artist", 
+      "birth_date": "1868", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9357, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

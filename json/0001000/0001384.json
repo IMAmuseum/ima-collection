@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.82", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Raleigh, Henry Patrick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1917", 
-    "credit_line": "Gift of Mrs. Gaar Williams", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1384, 
-    "materials": "offset lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hunger"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Hunger", 
+  "accession_number": "52.82", 
+  "credit_line": "Gift of Mrs. Gaar Williams", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134577, 
+  "creation_date": "about 1917", 
+  "materials": "offset lithograph", 
+  "actors": [
+    {
+      "name": "Raleigh, Henry Patrick", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295497, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 1384, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

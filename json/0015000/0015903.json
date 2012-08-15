@@ -1,26 +1,30 @@
 {
-    "accession_number": "1991.275", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1899", 
-            "death_date": null, 
-            "name": "Soyer, Raphael", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1956", 
-    "credit_line": "Gift of Brenda Kolker", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15903, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Adolescent"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Adolescent", 
+  "accession_number": "1991.275", 
+  "credit_line": "Gift of Brenda Kolker", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169123, 
+  "creation_date": "1956", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Soyer, Raphael", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299991, 
+      "role": "Artist", 
+      "birth_date": "1899", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15903, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

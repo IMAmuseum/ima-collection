@@ -1,34 +1,40 @@
 {
-    "accession_number": "2012.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1939", 
-            "death_date": null, 
-            "name": "Pesce, Gaetano", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Cassina", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1980", 
-    "credit_line": "The Ballard Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 74994, 
-    "materials": "epoxy resin", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sansone I table"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "The Ballard Fund", 
+  "accession_number": "2012.1", 
+  "title": "Sansone I table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288571, 
+  "creation_date": "1980", 
+  "materials": "epoxy resin", 
+  "actors": [
+    {
+      "name": "Pesce, Gaetano", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307385, 
+      "role": "Designer", 
+      "birth_date": "1939", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cassina", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308715, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 74994, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

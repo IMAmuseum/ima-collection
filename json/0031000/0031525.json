@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.90", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1700", 
-            "death_date": "1785", 
-            "name": "Longhi, Pietro", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "37 x 30 in.", 
-    "dynasty": null, 
-    "irn": 31525, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of an Unknown Nobleman"
+  "publishers": [], 
+  "dimensions": "37 x 30 in.", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "52.90", 
+  "title": "Portrait of an Unknown Nobleman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18219581, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Longhi, Pietro", 
+      "after_follower": null, 
+      "death_date": "1785", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303071, 
+      "role": "Artist", 
+      "birth_date": "1700", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31525, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

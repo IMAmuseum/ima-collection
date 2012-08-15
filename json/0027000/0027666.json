@@ -1,34 +1,40 @@
 {
-    "accession_number": "75.34", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Tiffany Studios", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Mrs.Curtis Freshel", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1902-1915", 
-    "credit_line": "Gift of Mr. and Mrs. William H. Ball", 
-    "cultures": [], 
-    "dimensions": "20 3/4  x  10 in.", 
-    "dynasty": null, 
-    "irn": 27666, 
-    "materials": "glass, bronze", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "ten-light lily lamp"
+  "publishers": [], 
+  "dimensions": "20 3/4  x  10 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. William H. Ball", 
+  "accession_number": "75.34", 
+  "title": "ten-light lily lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18210619, 
+  "creation_date": "1902-1915", 
+  "materials": "glass, bronze", 
+  "actors": [
+    {
+      "name": "Tiffany Studios", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296283, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Mrs.Curtis Freshel", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302463, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 27666, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

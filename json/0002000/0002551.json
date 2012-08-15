@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.241", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1720", 
-            "death_date": "1778", 
-            "name": "Piranesi, Giovanni Battista", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1774", 
-    "credit_line": "Bequest of Mrs. Lucius B. Swift", 
-    "cultures": [], 
-    "dimensions": "18 5/8 x 28 in (plate) \n19 7/8 x 29 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 2551, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Baths of Diocletian: Interior of the Frigidarium"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "18 5/8 x 28 in (plate) \n19 7/8 x 29 1/2 in (sheet)", 
+  "title": "The Baths of Diocletian: Interior of the Frigidarium", 
+  "accession_number": "40.241", 
+  "credit_line": "Bequest of Mrs. Lucius B. Swift", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137371, 
+  "creation_date": "1774", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Piranesi, Giovanni Battista", 
+      "after_follower": null, 
+      "death_date": "1778", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296039, 
+      "role": "Artist", 
+      "birth_date": "1720", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2551, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

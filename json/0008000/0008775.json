@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.67", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1782", 
-            "death_date": "1842", 
-            "name": "Cotman, John Sell", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1811", 
-    "credit_line": "Purchased from the John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8775, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "St. Botolphs Priory Essex"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "St. Botolphs Priory Essex", 
+  "accession_number": "11.67", 
+  "credit_line": "Purchased from the John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152079, 
+  "creation_date": "1811", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Cotman, John Sell", 
+      "after_follower": null, 
+      "death_date": "1842", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297305, 
+      "role": "Artist", 
+      "birth_date": "1782", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8775, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

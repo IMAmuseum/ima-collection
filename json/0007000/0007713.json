@@ -1,26 +1,30 @@
 {
-    "accession_number": "33.45", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1899", 
-            "death_date": "1959", 
-            "name": "Haerdtl, Oswald", 
-            "nationality": null, 
-            "role": "artist"
-        }
-    ], 
-    "creation_date": "1924", 
-    "credit_line": "Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "H: 5 5/8 in.", 
-    "dynasty": null, 
-    "irn": 7713, 
-    "materials": "muslin glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ambassador Service liquer glass"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 5 5/8 in.", 
+  "title": "Ambassador Service liquer glass", 
+  "accession_number": "33.45", 
+  "credit_line": "Emma Harter Sweetser Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149573, 
+  "creation_date": "1924", 
+  "materials": "muslin glass", 
+  "actors": [
+    {
+      "name": "Haerdtl, Oswald", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297845, 
+      "role": "artist", 
+      "birth_date": "1899", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7713, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

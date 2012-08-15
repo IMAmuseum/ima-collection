@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.48A-F", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1929", 
-            "death_date": "1980", 
-            "name": "Kjaerholm, Poul", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "E. Kold Christensen", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1965/1967", 
-    "credit_line": "Anonymous Endowed Decorative Art Fund", 
-    "cultures": [], 
-    "dimensions": "33 3/8 x 23 5/8 x 61 1/2 in.", 
-    "dynasty": null, 
-    "irn": 68429, 
-    "materials": "cane, stainless steel, and leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Poul Kjaerholm", 
-    "title": "PK24 chaise lounge"
+  "publishers": [], 
+  "dimensions": "33 3/8 x 23 5/8 x 61 1/2 in.", 
+  "rights": "\u00a9 Poul Kjaerholm", 
+  "credit_line": "Anonymous Endowed Decorative Art Fund", 
+  "accession_number": "2010.48A-F", 
+  "title": "PK24 chaise lounge", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283411, 
+  "creation_date": "1965/1967", 
+  "materials": "cane, stainless steel, and leather", 
+  "actors": [
+    {
+      "name": "Kjaerholm, Poul", 
+      "after_follower": null, 
+      "death_date": "1980", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307299, 
+      "role": "Designer", 
+      "birth_date": "1929", 
+      "nationality": null
+    }, 
+    {
+      "name": "E. Kold Christensen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307301, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68429, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

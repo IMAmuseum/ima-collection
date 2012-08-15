@@ -1,34 +1,40 @@
 {
-    "accession_number": "2002.190", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1982", 
-            "name": "Tworkov, Jack", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Tamarind Institute", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60172, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jack Tworkov", 
-    "title": "T.L. # 6"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Jack Tworkov", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2002.190", 
+  "title": "T.L. # 6", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276395, 
+  "creation_date": "1978", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Tworkov, Jack", 
+      "after_follower": null, 
+      "death_date": "1982", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295763, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }, 
+    {
+      "name": "Tamarind Institute", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299577, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 60172, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

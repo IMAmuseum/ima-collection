@@ -1,26 +1,30 @@
 {
-    "accession_number": "2004.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1624", 
-            "death_date": "1705", 
-            "name": "Zhu Da", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1689", 
-    "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
-    "cultures": [], 
-    "dimensions": "9 1/8 x 330 3/4 in.", 
-    "dynasty": "Qing dynasty", 
-    "irn": 61632, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": "Kangxi", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lotus Pond"
+  "publishers": [], 
+  "dimensions": "9 1/8 x 330 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
+  "accession_number": "2004.11", 
+  "title": "Lotus Pond", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Kangxi", 
+  "artisinal:id": 18277053, 
+  "creation_date": "1689", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Zhu Da", 
+      "after_follower": null, 
+      "death_date": "1705", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301887, 
+      "role": "Artist", 
+      "birth_date": "1624", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61632, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "07.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1927", 
-            "name": "Adams, John Ottis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "28 x 42 in.\n38 3/8 x 51 1/4 x 3 in. (framed)", 
-    "dynasty": null, 
-    "irn": 20788, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Late Autumn"
+  "publishers": [], 
+  "dimensions": "28 x 42 in.\n38 3/8 x 51 1/4 x 3 in. (framed)", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "07.22", 
+  "title": "Late Autumn", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194663, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Adams, John Ottis", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295417, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20788, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

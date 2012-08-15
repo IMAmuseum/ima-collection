@@ -1,26 +1,30 @@
 {
-    "accession_number": "76.243", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1804", 
-            "death_date": "1866", 
-            "name": "Gavarni, Paul (Hippolyte-Guillaume-Sulpice Chevalier)", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6820, 
-    "materials": "pen and ink on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "man with hands in pockets"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "man with hands in pockets", 
+  "accession_number": "76.243", 
+  "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147449, 
+  "creation_date": "19th century", 
+  "materials": "pen and ink on off-white paper", 
+  "actors": [
+    {
+      "name": "Gavarni, Paul (Hippolyte-Guillaume-Sulpice Chevalier)", 
+      "after_follower": null, 
+      "death_date": "1866", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297551, 
+      "role": "Artist", 
+      "birth_date": "1804", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6820, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

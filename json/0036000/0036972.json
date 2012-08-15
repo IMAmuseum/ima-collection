@@ -1,26 +1,30 @@
 {
-    "accession_number": "1983.145", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1893", 
-            "death_date": "1963", 
-            "name": "Landacre, Paul", 
-            "nationality": "American", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1936", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 1/2 x 6 in. (image)\n18 x 13 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 36972, 
-    "materials": "wood engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of Paul Landacre/Licensed by VAGA, New York, NY", 
-    "title": "Rima from W.H. Hudson's \"Green Mansions\""
+  "publishers": [], 
+  "dimensions": "8 1/2 x 6 in. (image)\n18 x 13 1/8 in. (sheet)", 
+  "rights": "\u00a9 Estate of Paul Landacre/Licensed by VAGA, New York, NY", 
+  "credit_line": "Museum Accession", 
+  "accession_number": "1983.145", 
+  "title": "Rima from W.H. Hudson's \"Green Mansions\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232187, 
+  "creation_date": "1936", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Landacre, Paul", 
+      "after_follower": null, 
+      "death_date": "1963", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303949, 
+      "role": "Artist", 
+      "birth_date": "1893", 
+      "nationality": "American"
+    }
+  ], 
+  "irn": 36972, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

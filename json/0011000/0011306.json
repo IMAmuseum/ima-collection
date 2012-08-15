@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.51", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1798", 
-            "death_date": "1876", 
-            "name": "Hauptner, Ferdinand", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1839", 
-    "credit_line": "Gift of Dr. Max A. Bahr", 
-    "cultures": [], 
-    "dimensions": "12 1/4 x 10 1/4 in.", 
-    "dynasty": null, 
-    "irn": 11306, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Conrad Hesse"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "12 1/4 x 10 1/4 in.", 
+  "title": "Portrait of Conrad Hesse", 
+  "accession_number": "30.51", 
+  "credit_line": "Gift of Dr. Max A. Bahr", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18158181, 
+  "creation_date": "1839", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Hauptner, Ferdinand", 
+      "after_follower": null, 
+      "death_date": "1876", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298787, 
+      "role": "Artist", 
+      "birth_date": "1798", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11306, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

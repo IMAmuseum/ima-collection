@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.100.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": null, 
-            "name": "Mack, Heinz", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1967", 
-    "credit_line": "Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "23 9/16 x 23 9/16 in.", 
-    "dynasty": null, 
-    "irn": 16596, 
-    "materials": "serigraph | S", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Peter Alexander", 
-    "title": "Untitled"
+  "publishers": [], 
+  "rights": "\u00a9 Peter Alexander", 
+  "dimensions": "23 9/16 x 23 9/16 in.", 
+  "title": "Untitled", 
+  "accession_number": "73.100.5", 
+  "credit_line": "Emma Harter Sweetser Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171033, 
+  "creation_date": "1967", 
+  "materials": "serigraph | S", 
+  "actors": [
+    {
+      "name": "Mack, Heinz", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300223, 
+      "role": "Artist", 
+      "birth_date": "1931", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16596, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

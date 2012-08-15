@@ -1,26 +1,30 @@
 {
-    "accession_number": "C10048", 
-    "actors": [
-        {
-            "after_follower": "After", 
-            "birth_date": "1497", 
-            "death_date": "1543", 
-            "name": "Holbein, Hans, the younger", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1533", 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "20 x 17 in.", 
-    "dynasty": null, 
-    "irn": 11132, 
-    "materials": "oil on wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Lord Chancellor Thomas Cromwell"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "20 x 17 in.", 
+  "title": "Portrait of Lord Chancellor Thomas Cromwell", 
+  "accession_number": "C10048", 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157751, 
+  "creation_date": "about 1533", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Holbein, Hans, the younger", 
+      "after_follower": "After", 
+      "death_date": "1543", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297151, 
+      "role": "Artist", 
+      "birth_date": "1497", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11132, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

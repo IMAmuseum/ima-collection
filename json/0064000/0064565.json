@@ -1,30 +1,34 @@
 {
-    "accession_number": "2007.66", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1911", 
-            "death_date": "1994", 
-            "name": "Papart, Max", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1993", 
-    "credit_line": "Gift of Dr. and Mrs. Eugene D. Van Hove", 
-    "cultures": [], 
-    "dimensions": "18 x 22 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64565, 
-    "materials": "carborundum gravure with collage on hand-made paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Kenneth Nahan"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
-    "title": "Hommage \u00e0 Braque II (Homage to Braque II)"
+  "publishers": [
+    {
+      "name": "Kenneth Nahan"
+    }
+  ], 
+  "dimensions": "18 x 22 1/2 in.", 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
+  "credit_line": "Gift of Dr. and Mrs. Eugene D. Van Hove", 
+  "accession_number": "2007.66", 
+  "title": "Hommage \u00e0 Braque II (Homage to Braque II)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279053, 
+  "creation_date": "1993", 
+  "materials": "carborundum gravure with collage on hand-made paper", 
+  "actors": [
+    {
+      "name": "Papart, Max", 
+      "after_follower": null, 
+      "death_date": "1994", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295929, 
+      "role": "Artist", 
+      "birth_date": "1911", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64565, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

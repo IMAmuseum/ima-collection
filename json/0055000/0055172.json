@@ -1,26 +1,30 @@
 {
-    "accession_number": "S0764.75.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1781", 
-            "death_date": "1834", 
-            "name": "Cooke, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th Century/1ST HALF", 
-    "credit_line": "Gift of Mr Harold A Lawson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55172, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Thames on Purefleet"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr Harold A Lawson", 
+  "accession_number": "S0764.75.1", 
+  "title": "The Thames on Purefleet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272253, 
+  "creation_date": "19th Century/1ST HALF", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Cooke, George", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296967, 
+      "role": "Artist", 
+      "birth_date": "1781", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55172, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "64.14", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1830", 
-            "death_date": "1902", 
-            "name": "Brett, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1864", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "34 3/4 x 51 1/4 in.", 
-    "dynasty": null, 
-    "irn": 22982, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Massa, Bay of Naples"
+  "publishers": [], 
+  "dimensions": "34 3/4 x 51 1/4 in.", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "64.14", 
+  "title": "Massa, Bay of Naples", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18199665, 
+  "creation_date": "1864", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Brett, John", 
+      "after_follower": null, 
+      "death_date": "1902", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301499, 
+      "role": "Artist", 
+      "birth_date": "1830", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22982, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.43", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Matali Crasset", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Starck, Philippe", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1996-1998", 
-    "credit_line": "Gift of Dr. Michael Sze", 
-    "cultures": [], 
-    "dimensions": "6 3/4 x 3 3/4 x 4 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64659, 
-    "materials": "plastic and metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Philippe Starck \u00a9 Matali Crasset", 
-    "title": "Soundsation radio alarm clock"
+  "publishers": [], 
+  "dimensions": "6 3/4 x 3 3/4 x 4 1/2 in.", 
+  "rights": "\u00a9 Philippe Starck \u00a9 Matali Crasset", 
+  "credit_line": "Gift of Dr. Michael Sze", 
+  "accession_number": "2009.43", 
+  "title": "Soundsation radio alarm clock", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279155, 
+  "creation_date": "1996-1998", 
+  "materials": "plastic and metal", 
+  "actors": [
+    {
+      "name": "Matali Crasset", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306861, 
+      "role": "Designer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }, 
+    {
+      "name": "Starck, Philippe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306863, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64659, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

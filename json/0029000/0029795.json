@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.70.27", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1728", 
-            "death_date": "1803", 
-            "name": "Julien Leroy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1750", 
-    "credit_line": "Bequest of Ruth Allison Lilly", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 29795, 
-    "materials": "gold, incised flowers in enamel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "watch"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Ruth Allison Lilly", 
+  "accession_number": "73.70.27", 
+  "title": "watch", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18215595, 
+  "creation_date": "about 1750", 
+  "materials": "gold, incised flowers in enamel", 
+  "actors": [
+    {
+      "name": "Julien Leroy", 
+      "after_follower": null, 
+      "death_date": "1803", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302817, 
+      "role": "Artist", 
+      "birth_date": "1728", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29795, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

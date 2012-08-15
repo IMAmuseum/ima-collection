@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.98", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1684", 
-            "death_date": "1721", 
-            "name": "Jean-Antoine Watteau", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1706-1710", 
-    "credit_line": "Gift of Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "19 1/2 x 23 5/8 in.", 
-    "dynasty": null, 
-    "irn": 10519, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Country Dance"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "19 1/2 x 23 5/8 in.", 
+  "title": "The Country Dance", 
+  "accession_number": "74.98", 
+  "credit_line": "Gift of Mrs. Herman C. Krannert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156267, 
+  "creation_date": "about 1706-1710", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Jean-Antoine Watteau", 
+      "after_follower": null, 
+      "death_date": "1721", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298649, 
+      "role": "Artist", 
+      "birth_date": "1684", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10519, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

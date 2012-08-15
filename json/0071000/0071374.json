@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.285", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1871", 
-            "name": "Thonet, Michael", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1853", 
-            "death_date": "1900", 
-            "name": "Gebr\u00fcder Thonet", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1890", 
-    "credit_line": "Gift of John P. Antonelli", 
-    "cultures": [], 
-    "dimensions": "38 3/4 x 23 x 40 in.", 
-    "dynasty": null, 
-    "irn": 71374, 
-    "materials": "bentwood and caning", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "rocking chair"
+  "publishers": [], 
+  "dimensions": "38 3/4 x 23 x 40 in.", 
+  "rights": null, 
+  "credit_line": "Gift of John P. Antonelli", 
+  "accession_number": "2010.285", 
+  "title": "rocking chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287069, 
+  "creation_date": "1890", 
+  "materials": "bentwood and caning", 
+  "actors": [
+    {
+      "name": "Thonet, Michael", 
+      "after_follower": null, 
+      "death_date": "1871", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308419, 
+      "role": "Designer", 
+      "birth_date": "1796", 
+      "nationality": null
+    }, 
+    {
+      "name": "Gebr\u00fcder Thonet", 
+      "after_follower": null, 
+      "death_date": "1900", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308421, 
+      "role": "Manufacturer", 
+      "birth_date": "1853", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71374, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

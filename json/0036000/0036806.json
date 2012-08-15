@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.734", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1558", 
-            "death_date": "1617", 
-            "name": "Goltzius, Hendrick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1587", 
-    "credit_line": "Gift  in memory of Hiram W. McKee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36806, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Captain of the Infantry"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift  in memory of Hiram W. McKee", 
+  "accession_number": "75.734", 
+  "title": "The Captain of the Infantry", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231821, 
+  "creation_date": "1587", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Goltzius, Hendrick", 
+      "after_follower": null, 
+      "death_date": "1617", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296647, 
+      "role": "Artist", 
+      "birth_date": "1558", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36806, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

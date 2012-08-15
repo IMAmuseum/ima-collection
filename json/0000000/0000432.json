@@ -1,26 +1,30 @@
 {
-    "accession_number": "97.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1850", 
-            "death_date": "1917", 
-            "name": "Lewis H. Meakin", 
-            "nationality": "  ", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1896", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "34 x 44 in.", 
-    "dynasty": null, 
-    "irn": 432, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Coosje van Bruggen", 
-    "title": "Hill and Hollow"
+  "publishers": [], 
+  "rights": "\u00a9 Coosje van Bruggen", 
+  "dimensions": "34 x 44 in.", 
+  "title": "Hill and Hollow", 
+  "accession_number": "97.1", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132197, 
+  "creation_date": "about 1896", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Lewis H. Meakin", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294863, 
+      "role": "Artist", 
+      "birth_date": "1850", 
+      "nationality": "  "
+    }
+  ], 
+  "irn": 432, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

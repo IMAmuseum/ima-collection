@@ -1,26 +1,30 @@
 {
-    "accession_number": "1996.200A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1961", 
-            "death_date": null, 
-            "name": "Pope, Carl", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1985", 
-    "credit_line": "Lenora D. Daily Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "16 x 20 in. |  40.6 x 50.8 cm.", 
-    "dynasty": null, 
-    "irn": 20302, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Lights When Out Inside"
+  "publishers": [], 
+  "dimensions": "16 x 20 in. |  40.6 x 50.8 cm.", 
+  "rights": null, 
+  "credit_line": "Lenora D. Daily Memorial Fund", 
+  "accession_number": "1996.200A", 
+  "title": "The Lights When Out Inside", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193559, 
+  "creation_date": "1985", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Pope, Carl", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294733, 
+      "role": "Artist", 
+      "birth_date": "1961", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20302, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

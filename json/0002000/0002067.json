@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.144", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1865", 
-            "death_date": "1925", 
-            "name": "Vallotton, F\u00e9lix Edouard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1893", 
-    "credit_line": "Gift of Ann Kendall Richards, N.Y.C.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2067, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "La Charge"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "La Charge", 
+  "accession_number": "72.144", 
+  "credit_line": "Gift of Ann Kendall Richards, N.Y.C.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136227, 
+  "creation_date": "1893", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "Vallotton, F\u00e9lix Edouard", 
+      "after_follower": null, 
+      "death_date": "1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295827, 
+      "role": "Artist", 
+      "birth_date": "1865", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2067, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

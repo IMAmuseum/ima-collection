@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.51", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1823", 
-            "death_date": "1886", 
-            "name": "Hu Gongshou", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1858", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 29022, 
-    "materials": "ink on silk or paper. fan painting.", 
-    "on_view": false, 
-    "period": "Xianfeng", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Old Trees, Bamboo and Rocks"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.51", 
+  "title": "Old Trees, Bamboo and Rocks", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Xianfeng", 
+  "artisinal:id": 18213755, 
+  "creation_date": "1858", 
+  "materials": "ink on silk or paper. fan painting.", 
+  "actors": [
+    {
+      "name": "Hu Gongshou", 
+      "after_follower": null, 
+      "death_date": "1886", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302699, 
+      "role": "Artist", 
+      "birth_date": "1823", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29022, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

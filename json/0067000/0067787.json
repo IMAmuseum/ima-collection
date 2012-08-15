@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.339.1-.13A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1958", 
-            "death_date": null, 
-            "name": "Ole Jensen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Royal Copenhagen Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1997", 
-    "credit_line": "Gift of Royal Copenhagen", 
-    "cultures": [], 
-    "dimensions": "A) platter: 1 x 24 x 14 in.\nB-C) small platters: 12 3/8 x 9 in.                                   D) footed bowl: 2 1/4 x 5 1/2 x 4 in.                          E-G) coffee cups: 2 3/4 x 5 x 3 1/2 in.                  H-K) espresso cups: 2 1/2 x 4 1/8 x 2 3/4 in.             L) mug: 3 1/2 x 5 3/4 x 4 in.                              M) teapot: 7 7/8 x 5 7/8 x 7 1/2 in.", 
-    "dynasty": null, 
-    "irn": 67787, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ole Jensen", 
-    "title": "coffee service"
+  "publishers": [], 
+  "dimensions": "A) platter: 1 x 24 x 14 in.\nB-C) small platters: 12 3/8 x 9 in.                                   D) footed bowl: 2 1/4 x 5 1/2 x 4 in.                          E-G) coffee cups: 2 3/4 x 5 x 3 1/2 in.                  H-K) espresso cups: 2 1/2 x 4 1/8 x 2 3/4 in.             L) mug: 3 1/2 x 5 3/4 x 4 in.                              M) teapot: 7 7/8 x 5 7/8 x 7 1/2 in.", 
+  "rights": "\u00a9 Ole Jensen", 
+  "credit_line": "Gift of Royal Copenhagen", 
+  "accession_number": "2009.339.1-.13A-B", 
+  "title": "coffee service", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282995, 
+  "creation_date": "1997", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Ole Jensen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307405, 
+      "role": "Designer", 
+      "birth_date": "1958", 
+      "nationality": null
+    }, 
+    {
+      "name": "Royal Copenhagen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297415, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67787, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.97", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Peter Bateman", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Ann Bateman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1795", 
-    "credit_line": "Gift of A. Ian Fraser", 
-    "cultures": [], 
-    "dimensions": "L: 9 in.", 
-    "dynasty": null, 
-    "irn": 68858, 
-    "materials": "silver", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "marrow scoop"
+  "publishers": [], 
+  "dimensions": "L: 9 in.", 
+  "rights": null, 
+  "credit_line": "Gift of A. Ian Fraser", 
+  "accession_number": "2010.97", 
+  "title": "marrow scoop", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283771, 
+  "creation_date": "1795", 
+  "materials": "silver", 
+  "actors": [
+    {
+      "name": "Peter Bateman", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307979, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Ann Bateman", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307983, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68858, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

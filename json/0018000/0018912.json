@@ -1,26 +1,30 @@
 {
-    "accession_number": "1998.268", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1865", 
-            "death_date": "1925", 
-            "name": "Bevan, Robert Polhill", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1895-1899", 
-    "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18912, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hawkridge"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
+  "accession_number": "1998.268", 
+  "title": "Hawkridge", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190381, 
+  "creation_date": "1895-1899", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Bevan, Robert Polhill", 
+      "after_follower": null, 
+      "death_date": "1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300695, 
+      "role": "Artist", 
+      "birth_date": "1865", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18912, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

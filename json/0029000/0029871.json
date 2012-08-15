@@ -1,34 +1,40 @@
 {
-    "accession_number": "60.169", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Meissen Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1706", 
-            "death_date": "1775", 
-            "name": "Johann Joachim K\u00e4ndler", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "about 1738", 
-    "credit_line": "Bequest of Mrs. Herbert R. Duckwell", 
-    "cultures": [], 
-    "dimensions": "9 3/4 in.", 
-    "dynasty": null, 
-    "irn": 29871, 
-    "materials": "hard-paste porcelain, polychrome enamels, gilding", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Hand Kiss"
+  "publishers": [], 
+  "dimensions": "9 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Mrs. Herbert R. Duckwell", 
+  "accession_number": "60.169", 
+  "title": "The Hand Kiss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18215779, 
+  "creation_date": "about 1738", 
+  "materials": "hard-paste porcelain, polychrome enamels, gilding", 
+  "actors": [
+    {
+      "name": "Meissen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294771, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Johann Joachim K\u00e4ndler", 
+      "after_follower": null, 
+      "death_date": "1775", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297613, 
+      "role": "Modeler", 
+      "birth_date": "1706", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29871, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

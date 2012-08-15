@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.336", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1758", 
-            "death_date": "1835", 
-            "name": "Fittler, James", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14079, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bears and Dogs"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Bears and Dogs", 
+  "accession_number": "09.336", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164889, 
+  "creation_date": "19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Fittler, James", 
+      "after_follower": null, 
+      "death_date": "1835", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296659, 
+      "role": "Engraver", 
+      "birth_date": "1758", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14079, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

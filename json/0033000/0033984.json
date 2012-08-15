@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.65", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1782", 
-            "death_date": "1842", 
-            "name": "Cotman, John Sell", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1814", 
-    "credit_line": "Purchased from the John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 33984, 
-    "materials": "soft ground etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Norfolk Plough"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Purchased from the John Herron Fund", 
+  "accession_number": "11.65", 
+  "title": "A Norfolk Plough", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18225315, 
+  "creation_date": "1814", 
+  "materials": "soft ground etching", 
+  "actors": [
+    {
+      "name": "Cotman, John Sell", 
+      "after_follower": null, 
+      "death_date": "1842", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297305, 
+      "role": "Artist", 
+      "birth_date": "1782", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33984, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

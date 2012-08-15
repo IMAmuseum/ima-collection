@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1816", 
-            "death_date": "1867", 
-            "name": "Nakabayashi Chikkei", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1816-1867", 
-    "credit_line": "Gift of Mr. and Mrs. Alan J. Strassman", 
-    "cultures": [], 
-    "dimensions": "81 1/4 x 27 1/2 in. (overall)", 
-    "dynasty": null, 
-    "irn": 44322, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Gentleman Beholding the Moon"
+  "publishers": [], 
+  "dimensions": "81 1/4 x 27 1/2 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Alan J. Strassman", 
+  "accession_number": "2001.12", 
+  "title": "Gentleman Beholding the Moon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18251617, 
+  "creation_date": "1816-1867", 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Nakabayashi Chikkei", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297435, 
+      "role": "Artist", 
+      "birth_date": "1816", 
+      "nationality": null
+    }
+  ], 
+  "irn": 44322, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

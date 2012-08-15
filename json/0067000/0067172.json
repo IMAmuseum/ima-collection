@@ -1,34 +1,38 @@
 {
-    "accession_number": "2009.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1935", 
-            "death_date": null, 
-            "name": "Moskowitz, Robert S.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1988", 
-    "credit_line": "Bequest of Eldon and Friedy Nyhart", 
-    "cultures": [], 
-    "dimensions": "12 1/8 x 6 7/8 in. (image)\n19 1/8 x 12 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 67172, 
-    "materials": "color woodblock print on white wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Tudashi Toda"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Crown Point Press"
-        }
-    ], 
-    "rights": "\u00a9 Robert S. Moskowitz", 
-    "title": "Moon Dog"
+  "publishers": [
+    {
+      "name": "Crown Point Press"
+    }
+  ], 
+  "dimensions": "12 1/8 x 6 7/8 in. (image)\n19 1/8 x 12 1/2 in. (sheet)", 
+  "rights": "\u00a9 Robert S. Moskowitz", 
+  "credit_line": "Bequest of Eldon and Friedy Nyhart", 
+  "accession_number": "2009.12", 
+  "title": "Moon Dog", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282421, 
+  "creation_date": "1988", 
+  "materials": "color woodblock print on white wove paper", 
+  "actors": [
+    {
+      "name": "Moskowitz, Robert S.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307621, 
+      "role": "Artist", 
+      "birth_date": "1935", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67172, 
+  "printers": [
+    {
+      "name": "Tudashi Toda"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

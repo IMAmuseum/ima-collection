@@ -1,34 +1,40 @@
 {
-    "accession_number": "09.80", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1728", 
-            "death_date": "1808", 
-            "name": "Pillement, Jean Baptiste", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1710", 
-            "death_date": "1777", 
-            "name": "Canot, Pierre-Charles", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1761", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20529, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Beggars on the road"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.80", 
+  "title": "Beggars on the road", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194085, 
+  "creation_date": "1761", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Pillement, Jean Baptiste", 
+      "after_follower": null, 
+      "death_date": "1808", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301015, 
+      "role": "Artist", 
+      "birth_date": "1728", 
+      "nationality": null
+    }, 
+    {
+      "name": "Canot, Pierre-Charles", 
+      "after_follower": null, 
+      "death_date": "1777", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295571, 
+      "role": "Engraver", 
+      "birth_date": "1710", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20529, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

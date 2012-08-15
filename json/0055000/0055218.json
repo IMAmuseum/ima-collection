@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.43.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1625", 
-            "death_date": "1654", 
-            "name": "Potter, Paulus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1649", 
-    "credit_line": "Gift of Mrs. Herbert S. Call", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55218, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Herdsman"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herbert S. Call", 
+  "accession_number": "72.43.24", 
+  "title": "The Herdsman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272359, 
+  "creation_date": "1649", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Potter, Paulus", 
+      "after_follower": null, 
+      "death_date": "1654", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303899, 
+      "role": "Artist", 
+      "birth_date": "1625", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55218, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

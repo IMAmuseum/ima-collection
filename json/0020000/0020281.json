@@ -1,26 +1,30 @@
 {
-    "accession_number": "56.57", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1880", 
-            "death_date": "1954", 
-            "name": "Derain, Andr\u00e9", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20281, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Head of a Woman"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "56.57", 
+  "title": "Head of a Woman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193501, 
+  "creation_date": "20th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Derain, Andr\u00e9", 
+      "after_follower": null, 
+      "death_date": "1954", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300979, 
+      "role": "Artist", 
+      "birth_date": "1880", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20281, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

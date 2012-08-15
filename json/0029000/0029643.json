@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.10.177.1A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Children of J.K. Lilly", 
-    "cultures": [], 
-    "dimensions": "6 x 5 1/2 x 10 3/4 in.", 
-    "dynasty": null, 
-    "irn": 29643, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "teapot with lid"
+  "publishers": [], 
+  "dimensions": "6 x 5 1/2 x 10 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J.K. Lilly", 
+  "accession_number": "67.10.177.1A-B", 
+  "title": "teapot with lid", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18215225, 
+  "creation_date": null, 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 29643, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

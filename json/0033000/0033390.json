@@ -1,26 +1,30 @@
 {
-    "accession_number": "33.53A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1730", 
-            "death_date": "1795", 
-            "name": "Josiah Wedgwood", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1850", 
-    "credit_line": "Gift of Chalmers Hadley", 
-    "cultures": [], 
-    "dimensions": "H: 6 3/4 in.", 
-    "dynasty": null, 
-    "irn": 33390, 
-    "materials": "jasper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "PITCHER"
+  "publishers": [], 
+  "dimensions": "H: 6 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Chalmers Hadley", 
+  "accession_number": "33.53A-B", 
+  "title": "PITCHER", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223961, 
+  "creation_date": "about 1850", 
+  "materials": "jasper", 
+  "actors": [
+    {
+      "name": "Josiah Wedgwood", 
+      "after_follower": null, 
+      "death_date": "1795", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297569, 
+      "role": "Manufacturer", 
+      "birth_date": "1730", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33390, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

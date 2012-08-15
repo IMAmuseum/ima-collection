@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.47.74", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1861", 
-    "credit_line": "Gift of Mrs. Kate Kiser Klein", 
-    "cultures": [], 
-    "dimensions": "22 x 28 in.", 
-    "dynasty": null, 
-    "irn": 53266, 
-    "materials": "color woodcut", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Nakamura Shikan in an unidentified role and Ichimura Uzaemon as Neko no nakanori"
+  "publishers": [], 
+  "dimensions": "22 x 28 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Kate Kiser Klein", 
+  "accession_number": "72.47.74", 
+  "title": "Nakamura Shikan in an unidentified role and Ichimura Uzaemon as Neko no nakanori", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18269047, 
+  "creation_date": "1861", 
+  "materials": "color woodcut", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 53266, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

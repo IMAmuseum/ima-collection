@@ -1,38 +1,44 @@
 {
-    "accession_number": "2003.79", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": "1987", 
-            "name": "Warhol, Andy", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Salvatore Silkscreen Co. Inc., New York", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "35 1/8 x 23 1/8 in.", 
-    "dynasty": null, 
-    "irn": 60965, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Factory Editions, New York"
-        }
-    ], 
-    "rights": "\u00a9 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists Rights Society (ARS),  New York", 
-    "title": "Chicken Noodle"
+  "publishers": [
+    {
+      "name": "Factory Editions, New York"
+    }
+  ], 
+  "dimensions": "35 1/8 x 23 1/8 in.", 
+  "rights": "\u00a9 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists Rights Society (ARS),  New York", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "2003.79", 
+  "title": "Chicken Noodle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276825, 
+  "creation_date": "1969", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Warhol, Andy", 
+      "after_follower": null, 
+      "death_date": "1987", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296963, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }, 
+    {
+      "name": "Salvatore Silkscreen Co. Inc., New York", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305947, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 60965, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

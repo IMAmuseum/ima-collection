@@ -1,34 +1,40 @@
 {
-    "accession_number": "66.95", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1813", 
-            "death_date": "1888", 
-            "name": "Currier, Nathaniel", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1824-1895", 
-            "death_date": "1824-1895", 
-            "name": "Ives, James Merritt", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1870", 
-    "credit_line": "Gift of Mrs. M. S. Cassen", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 17397, 
-    "materials": "hand-colored lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "John Brown - The Martyr"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. M. S. Cassen", 
+  "accession_number": "66.95", 
+  "title": "John Brown - The Martyr", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18173109, 
+  "creation_date": "1870", 
+  "materials": "hand-colored lithograph", 
+  "actors": [
+    {
+      "name": "Currier, Nathaniel", 
+      "after_follower": null, 
+      "death_date": "1888", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294763, 
+      "role": "Artist", 
+      "birth_date": "1813", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ives, James Merritt", 
+      "after_follower": null, 
+      "death_date": "1824-1895", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294765, 
+      "role": "Artist", 
+      "birth_date": "1824-1895", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17397, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

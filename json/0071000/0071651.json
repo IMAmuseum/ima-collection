@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.58A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1957", 
-            "death_date": null, 
-            "name": "Nathalie du Pasquier", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Swatch", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "9 1/8 x 1 3/8 x 5/16 in.", 
-    "dynasty": null, 
-    "irn": 71651, 
-    "materials": "plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Swatch", 
-    "title": "Fritto Misto watch"
+  "publishers": [], 
+  "dimensions": "9 1/8 x 1 3/8 x 5/16 in.", 
+  "rights": "\u00a9 Swatch", 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2011.58A", 
+  "title": "Fritto Misto watch", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287311, 
+  "creation_date": "1992", 
+  "materials": "plastic", 
+  "actors": [
+    {
+      "name": "Nathalie du Pasquier", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307923, 
+      "role": "Designer", 
+      "birth_date": "1957", 
+      "nationality": null
+    }, 
+    {
+      "name": "Swatch", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307151, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71651, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

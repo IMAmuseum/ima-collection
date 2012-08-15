@@ -1,46 +1,54 @@
 {
-    "accession_number": "LH2003.43A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Anne Bront\u00eb", 
-            "nationality": null, 
-            "role": "Author"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Charlotte Bront\u00eb", 
-            "nationality": null, 
-            "role": "Author"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Emily Bront\u00eb", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 3/8 x 5 7/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 61861, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Bigelow, Brown & Co. Inc."
-        }
-    ], 
-    "rights": null, 
-    "title": "The Works of the Sisters Bront\u00eb (volumes 1-3)"
+  "publishers": [
+    {
+      "name": "Bigelow, Brown & Co. Inc."
+    }
+  ], 
+  "dimensions": "8 3/8 x 5 7/8 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.43A-C", 
+  "title": "The Works of the Sisters Bront\u00eb (volumes 1-3)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277343, 
+  "creation_date": null, 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Anne Bront\u00eb", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306207, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Charlotte Bront\u00eb", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306209, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Emily Bront\u00eb", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306213, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61861, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "2011.92", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1940", 
-            "death_date": null, 
-            "name": "Steir, Pat", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "2001", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant and Mrs. H. E. Conant", 
-    "cultures": [], 
-    "dimensions": "48 x 24 in. (image)\n56 1/4 x 32 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 71536, 
-    "materials": "screenprint on white Somerset paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Pace Editions, Inc."
-        }
-    ], 
-    "rights": null, 
-    "title": "Peacock Waterfall"
+  "publishers": [
+    {
+      "name": "Pace Editions, Inc."
+    }
+  ], 
+  "dimensions": "48 x 24 in. (image)\n56 1/4 x 32 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant and Mrs. H. E. Conant", 
+  "accession_number": "2011.92", 
+  "title": "Peacock Waterfall", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287249, 
+  "creation_date": "2001", 
+  "materials": "screenprint on white Somerset paper", 
+  "actors": [
+    {
+      "name": "Steir, Pat", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308471, 
+      "role": "Artist", 
+      "birth_date": "1940", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71536, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

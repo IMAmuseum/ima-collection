@@ -1,30 +1,34 @@
 {
-    "accession_number": "1993.96", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": null, 
-            "name": "Hartigan, Grace", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1962-1966", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Margaret McKee and Jane Myers", 
-    "cultures": [], 
-    "dimensions": "25 1/2 x 20 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 46193, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Universal Limited Art Editions"
-        }
-    ], 
-    "rights": "\u00a9 Estate of Grace Hartigan", 
-    "title": "In the Campagna"
+  "publishers": [
+    {
+      "name": "Universal Limited Art Editions"
+    }
+  ], 
+  "dimensions": "25 1/2 x 20 in. (sheet)", 
+  "rights": "\u00a9 Estate of Grace Hartigan", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Margaret McKee and Jane Myers", 
+  "accession_number": "1993.96", 
+  "title": "In the Campagna", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18256075, 
+  "creation_date": "1962-1966", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Hartigan, Grace", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303839, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46193, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

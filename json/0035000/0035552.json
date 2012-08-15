@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.47.23D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1927", 
-            "name": "Adams, John Ottis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1885", 
-    "credit_line": "Gift of Mrs. John A. Adams", 
-    "cultures": [], 
-    "dimensions": "8 1/4 x 5 5/8 in.", 
-    "dynasty": null, 
-    "irn": 35552, 
-    "materials": "pencil on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Stream and Willow"
+  "publishers": [], 
+  "dimensions": "8 1/4 x 5 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. John A. Adams", 
+  "accession_number": "73.47.23D", 
+  "title": "Stream and Willow", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18228885, 
+  "creation_date": "about 1885", 
+  "materials": "pencil on off-white paper", 
+  "actors": [
+    {
+      "name": "Adams, John Ottis", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295417, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35552, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

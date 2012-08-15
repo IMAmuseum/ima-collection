@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.110", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1645", 
-            "death_date": "1708", 
-            "name": "Hooghe, Romeyn de", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16371, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Atlas Novus"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Atlas Novus", 
+  "accession_number": "09.110", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170493, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Hooghe, Romeyn de", 
+      "after_follower": null, 
+      "death_date": "1708", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300153, 
+      "role": "Artist", 
+      "birth_date": "1645", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16371, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.100", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1924", 
-            "death_date": null, 
-            "name": "Segal, George", 
-            "nationality": "  ", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Anonymous Gift", 
-    "cultures": [], 
-    "dimensions": "36 x 24 x 15 in.", 
-    "dynasty": null, 
-    "irn": 28150, 
-    "materials": "plaster and wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Girl on a Chair"
+  "publishers": [], 
+  "dimensions": "36 x 24 x 15 in.", 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Anonymous Gift", 
+  "accession_number": "72.100", 
+  "title": "Girl on a Chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211749, 
+  "creation_date": "1970", 
+  "materials": "plaster and wood", 
+  "actors": [
+    {
+      "name": "Segal, George", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302581, 
+      "role": "Artist", 
+      "birth_date": "1924", 
+      "nationality": "  "
+    }
+  ], 
+  "irn": 28150, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "54.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1973", 
-            "name": "Picasso, Pablo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1905", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "22 x 28 in.", 
-    "dynasty": null, 
-    "irn": 20272, 
-    "materials": "drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of Pablo Picasso/Artists Rights Society (ARS), New York", 
-    "title": "Les Saltimbanques"
+  "publishers": [], 
+  "dimensions": "22 x 28 in.", 
+  "rights": "\u00a9 Estate of Pablo Picasso/Artists Rights Society (ARS), New York", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "54.16", 
+  "title": "Les Saltimbanques", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193485, 
+  "creation_date": "1905", 
+  "materials": "drypoint", 
+  "actors": [
+    {
+      "name": "Picasso, Pablo", 
+      "after_follower": null, 
+      "death_date": "1973", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294969, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20272, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

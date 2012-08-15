@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.10.122.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1742", 
-            "death_date": "1834", 
-            "name": "Whitcombe, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1820", 
-    "credit_line": "Gift of the Children of Mr and Mrs J. K. Lilly, Jr.", 
-    "cultures": [], 
-    "dimensions": "24 x 41 in.", 
-    "dynasty": null, 
-    "irn": 4568, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Off the Dover Coast"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "24 x 41 in.", 
+  "title": "Off the Dover Coast", 
+  "accession_number": "67.10.122.1", 
+  "credit_line": "Gift of the Children of Mr and Mrs J. K. Lilly, Jr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142103, 
+  "creation_date": "about 1820", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Whitcombe, Thomas", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296849, 
+      "role": "Artist", 
+      "birth_date": "1742", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4568, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

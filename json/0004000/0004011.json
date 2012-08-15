@@ -1,26 +1,30 @@
 {
-    "accession_number": "1986.108", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1558", 
-            "death_date": "1617", 
-            "name": "Goltzius, Hendrick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1594", 
-    "credit_line": "Gift of Roman J. and Adell C. Radecki", 
-    "cultures": [], 
-    "dimensions": "18 5/8 x 13 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 4011, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Adoration of the Magi"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "18 5/8 x 13 3/4 in. (sheet)", 
+  "title": "Adoration of the Magi", 
+  "accession_number": "1986.108", 
+  "credit_line": "Gift of Roman J. and Adell C. Radecki", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140799, 
+  "creation_date": "1594", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Goltzius, Hendrick", 
+      "after_follower": null, 
+      "death_date": "1617", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296647, 
+      "role": "Artist", 
+      "birth_date": "1558", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4011, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

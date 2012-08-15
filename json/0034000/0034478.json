@@ -1,34 +1,40 @@
 {
-    "accession_number": "53.63", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": "After", 
-            "birth_date": "1656", 
-            "death_date": "1746", 
-            "name": "Largilli\u00e8re, Nicolas de", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mr. and Mrs. John G. Rauch", 
-    "cultures": [], 
-    "dimensions": "30 x 24 in. (oval)", 
-    "dynasty": null, 
-    "irn": 34478, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Lady"
+  "publishers": [], 
+  "dimensions": "30 x 24 in. (oval)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. John G. Rauch", 
+  "accession_number": "53.63", 
+  "title": "Portrait of a Lady", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18226459, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Largilli\u00e8re, Nicolas de", 
+      "after_follower": "After", 
+      "death_date": "1746", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303581, 
+      "role": "Artist", 
+      "birth_date": "1656", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34478, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

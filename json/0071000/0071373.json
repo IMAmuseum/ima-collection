@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.284A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1960", 
-            "name": "Maurice Marinot", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1960", 
-            "name": "Maurice Marinot", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "about 1920", 
-    "credit_line": "Gift of John P. Antonelli", 
-    "cultures": [], 
-    "dimensions": "7 1/2 x 4 1/8 (diam.) in. (overall)", 
-    "dynasty": null, 
-    "irn": 71373, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "bottle with stopper"
+  "publishers": [], 
+  "dimensions": "7 1/2 x 4 1/8 (diam.) in. (overall)", 
+  "rights": null, 
+  "credit_line": "Gift of John P. Antonelli", 
+  "accession_number": "2010.284A-B", 
+  "title": "bottle with stopper", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287065, 
+  "creation_date": "about 1920", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Maurice Marinot", 
+      "after_follower": null, 
+      "death_date": "1960", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308415, 
+      "role": "Designer", 
+      "birth_date": "1882", 
+      "nationality": null
+    }, 
+    {
+      "name": "Maurice Marinot", 
+      "after_follower": null, 
+      "death_date": "1960", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308415, 
+      "role": "manufacturer", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71373, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

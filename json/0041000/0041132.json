@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1611.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1788", 
-            "death_date": "1859", 
-            "name": "Lizars, William Home", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1788", 
-            "death_date": "1859", 
-            "name": "Lizars, William Home", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1839", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41132, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Country about Abbotsford"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1611.2", 
+  "title": "Country about Abbotsford", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243771, 
+  "creation_date": "1839", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Lizars, William Home", 
+      "after_follower": null, 
+      "death_date": "1859", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304385, 
+      "role": "Artist", 
+      "birth_date": "1788", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lizars, William Home", 
+      "after_follower": null, 
+      "death_date": "1859", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304385, 
+      "role": "Engraver", 
+      "birth_date": "1788", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41132, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

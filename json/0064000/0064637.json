@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1968", 
-            "death_date": null, 
-            "name": "Tord Boontje", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Moroso", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2004", 
-    "credit_line": "The Ballard Fund", 
-    "cultures": [], 
-    "dimensions": "31 x 41 x 43 in.", 
-    "dynasty": null, 
-    "irn": 64637, 
-    "materials": "Fabric and metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Tord Boontje", 
-    "title": "Red Veil chair"
+  "publishers": [], 
+  "dimensions": "31 x 41 x 43 in.", 
+  "rights": "\u00a9 Tord Boontje", 
+  "credit_line": "The Ballard Fund", 
+  "accession_number": "2011.3", 
+  "title": "Red Veil chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279131, 
+  "creation_date": "2004", 
+  "materials": "Fabric and metal", 
+  "actors": [
+    {
+      "name": "Tord Boontje", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306823, 
+      "role": "Designer", 
+      "birth_date": "1968", 
+      "nationality": null
+    }, 
+    {
+      "name": "Moroso", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306785, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64637, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

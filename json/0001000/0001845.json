@@ -1,26 +1,30 @@
 {
-    "accession_number": "1996.136", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1829", 
-            "death_date": "1908", 
-            "name": "Ward, William II", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1880", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "9 x 11 1/8 in. |  22.8 x 28.2 cm.", 
-    "dynasty": null, 
-    "irn": 1845, 
-    "materials": "watercolor on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "St. Maurice"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 x 11 1/8 in. |  22.8 x 28.2 cm.", 
+  "title": "St. Maurice", 
+  "accession_number": "1996.136", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135715, 
+  "creation_date": "1880", 
+  "materials": "watercolor on white paper", 
+  "actors": [
+    {
+      "name": "Ward, William II", 
+      "after_follower": null, 
+      "death_date": "1908", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295671, 
+      "role": "Artist", 
+      "birth_date": "1829", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1845, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

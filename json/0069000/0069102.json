@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.259A-L", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1905", 
-            "death_date": "2003", 
-            "name": "Walter Zapp", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Minox GmbH", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1958", 
-    "credit_line": "Gift of Judith F. Grimes", 
-    "cultures": [], 
-    "dimensions": "A) camera: 5/8 x 4 x 1 1/16 in.; B) camera case: L: 4 1/8 in.; C) camera flash: 3 1/4 x 1 1/4 in.; D) flash case: L: 3 3/8 in.; E) Minox BC flashgun paper instructions: 3 5/8 x 1 3/4 in.; F): flashgun cardboard box: 2 x 4 1/4 in.; G) plastic manufacturers box: 1 \u00bc x 5 3/16 x 3 11/16 in.; H) cardboard manufacturers box: 1 9/16 x 5 \u00bd x 4 in.; I) owners manual: L: 4 15/16 in.; J) Minox minocolor film box: 2 1/4 x 1 1/16 in.; K) Minox minocolor film paper film band: 1 1/4 x 7/8 in.; L): Eveready battery: 1 5/16 x 5/8 in.", 
-    "dynasty": null, 
-    "irn": 69102, 
-    "materials": "aluminum, leather, plastic, and cardboard", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Walter Zapp", 
-    "title": "Minox B camera and accessories"
+  "publishers": [], 
+  "dimensions": "A) camera: 5/8 x 4 x 1 1/16 in.; B) camera case: L: 4 1/8 in.; C) camera flash: 3 1/4 x 1 1/4 in.; D) flash case: L: 3 3/8 in.; E) Minox BC flashgun paper instructions: 3 5/8 x 1 3/4 in.; F): flashgun cardboard box: 2 x 4 1/4 in.; G) plastic manufacturers box: 1 \u00bc x 5 3/16 x 3 11/16 in.; H) cardboard manufacturers box: 1 9/16 x 5 \u00bd x 4 in.; I) owners manual: L: 4 15/16 in.; J) Minox minocolor film box: 2 1/4 x 1 1/16 in.; K) Minox minocolor film paper film band: 1 1/4 x 7/8 in.; L): Eveready battery: 1 5/16 x 5/8 in.", 
+  "rights": "\u00a9 Walter Zapp", 
+  "credit_line": "Gift of Judith F. Grimes", 
+  "accession_number": "2010.259A-L", 
+  "title": "Minox B camera and accessories", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284127, 
+  "creation_date": "1958", 
+  "materials": "aluminum, leather, plastic, and cardboard", 
+  "actors": [
+    {
+      "name": "Walter Zapp", 
+      "after_follower": null, 
+      "death_date": "2003", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308147, 
+      "role": "Designer", 
+      "birth_date": "1905", 
+      "nationality": null
+    }, 
+    {
+      "name": "Minox GmbH", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308149, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69102, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

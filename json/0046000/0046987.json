@@ -1,30 +1,34 @@
 {
-    "accession_number": "06.133", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1861", 
-            "name": "Utagawa Kuniyoshi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1830-1844", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "9 1/4 x 14 in.", 
-    "dynasty": null, 
-    "irn": 46987, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": null
-        }
-    ], 
-    "rights": null, 
-    "title": "Provisional Middle Counselor Sadayori (Gon Ch^unagon Sadayori)"
+  "publishers": [
+    {
+      "name": null
+    }
+  ], 
+  "dimensions": "9 1/4 x 14 in.", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "06.133", 
+  "title": "Provisional Middle Counselor Sadayori (Gon Ch^unagon Sadayori)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18257805, 
+  "creation_date": "1830-1844", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kuniyoshi", 
+      "after_follower": null, 
+      "death_date": "1861", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301701, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46987, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

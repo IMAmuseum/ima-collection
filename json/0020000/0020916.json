@@ -1,34 +1,40 @@
 {
-    "accession_number": "71.214.55A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1972", 
-            "name": "Dreyfuss, Henry", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "The American Thermos Bottle Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1935", 
-    "credit_line": "Gift of Mr. and Mrs. Robert H. Morse, Jr.", 
-    "cultures": [], 
-    "dimensions": "H: 7 1/2 in. Diam: 6 1/2 in.", 
-    "dynasty": null, 
-    "irn": 20916, 
-    "materials": "aluminum, enamel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Moderne carafe"
+  "publishers": [], 
+  "dimensions": "H: 7 1/2 in. Diam: 6 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Robert H. Morse, Jr.", 
+  "accession_number": "71.214.55A-B", 
+  "title": "Moderne carafe", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194951, 
+  "creation_date": "1935", 
+  "materials": "aluminum, enamel", 
+  "actors": [
+    {
+      "name": "Dreyfuss, Henry", 
+      "after_follower": null, 
+      "death_date": "1972", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301093, 
+      "role": "Designer", 
+      "birth_date": "1904", 
+      "nationality": null
+    }, 
+    {
+      "name": "The American Thermos Bottle Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301097, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 20916, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

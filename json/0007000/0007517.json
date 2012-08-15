@@ -1,26 +1,30 @@
 {
-    "accession_number": "43.45", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1796", 
-            "death_date": "1875", 
-            "name": "Corot, Jean-Baptiste-Camille", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1872", 
-    "credit_line": "Gift of Friends of Art", 
-    "cultures": [], 
-    "dimensions": "19 3/4 x 24 in.", 
-    "dynasty": null, 
-    "irn": 7517, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ville d'Avray, Woodland Path Bordering the Pond"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "19 3/4 x 24 in.", 
+  "title": "Ville d'Avray, Woodland Path Bordering the Pond", 
+  "accession_number": "43.45", 
+  "credit_line": "Gift of Friends of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149141, 
+  "creation_date": "1872", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Corot, Jean-Baptiste-Camille", 
+      "after_follower": null, 
+      "death_date": "1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295769, 
+      "role": "Artist", 
+      "birth_date": "1796", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7517, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

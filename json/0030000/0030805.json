@@ -1,26 +1,30 @@
 {
-    "accession_number": "S9224.99.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1812", 
-            "death_date": "1852", 
-            "name": "Augustus Welby Northmore Pugin", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "about 1840", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art, the Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks, and the Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 30805, 
-    "materials": "earthenware", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "tile"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art, the Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks, and the Martha Delzell Memorial Fund", 
+  "accession_number": "S9224.99.17", 
+  "title": "tile", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18217957, 
+  "creation_date": "about 1840", 
+  "materials": "earthenware", 
+  "actors": [
+    {
+      "name": "Augustus Welby Northmore Pugin", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295293, 
+      "role": "Designer", 
+      "birth_date": "1812", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30805, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

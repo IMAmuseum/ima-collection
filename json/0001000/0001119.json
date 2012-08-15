@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.123", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1873", 
-            "death_date": "1956", 
-            "name": "Willard D. Paddock", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1916", 
-    "credit_line": "Gift of Mr. Nicholas Noyes", 
-    "cultures": [], 
-    "dimensions": "30 x 30 in.", 
-    "dynasty": null, 
-    "irn": 1119, 
-    "materials": "copper alloy (bronze)", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 William Dryden Paddock", 
-    "title": "Sundial, Boy with Spider"
+  "publishers": [], 
+  "rights": "\u00a9 William Dryden Paddock", 
+  "dimensions": "30 x 30 in.", 
+  "title": "Sundial, Boy with Spider", 
+  "accession_number": "73.123", 
+  "credit_line": "Gift of Mr. Nicholas Noyes", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133917, 
+  "creation_date": "1916", 
+  "materials": "copper alloy (bronze)", 
+  "actors": [
+    {
+      "name": "Willard D. Paddock", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295351, 
+      "role": "Artist", 
+      "birth_date": "1873", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1119, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

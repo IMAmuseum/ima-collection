@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.245", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1951", 
-            "name": "Sloan, John", 
-            "nationality": null, 
-            "role": "artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1879", 
-            "death_date": "1964", 
-            "name": "Roth, Ernest David", 
-            "nationality": null, 
-            "role": "printer"
-        }
-    ], 
-    "creation_date": "1933", 
-    "credit_line": "Gift of Francine and Roger Hurwitz", 
-    "cultures": [], 
-    "dimensions": "6 7/8 x 5 1/2 in. (image)\n12 7/8 x 10 7/16in. (sheet)", 
-    "dynasty": null, 
-    "irn": 65361, 
-    "materials": "etching on cream wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Delaware Art Museum/ Artists Rights Society (ARS), New York", 
-    "title": "Nude and Arch"
+  "publishers": [], 
+  "dimensions": "6 7/8 x 5 1/2 in. (image)\n12 7/8 x 10 7/16in. (sheet)", 
+  "rights": "\u00a9 Delaware Art Museum/ Artists Rights Society (ARS), New York", 
+  "credit_line": "Gift of Francine and Roger Hurwitz", 
+  "accession_number": "2008.245", 
+  "title": "Nude and Arch", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280037, 
+  "creation_date": "1933", 
+  "materials": "etching on cream wove paper", 
+  "actors": [
+    {
+      "name": "Sloan, John", 
+      "after_follower": null, 
+      "death_date": "1951", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295703, 
+      "role": "artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }, 
+    {
+      "name": "Roth, Ernest David", 
+      "after_follower": null, 
+      "death_date": "1964", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298345, 
+      "role": "printer", 
+      "birth_date": "1879", 
+      "nationality": null
+    }
+  ], 
+  "irn": 65361, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

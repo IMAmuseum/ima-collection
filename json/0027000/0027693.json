@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.55", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1854", 
-            "death_date": "1930", 
-            "name": "DeWolf, Wallace L.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1917", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 27693, 
-    "materials": "etching and plate tone", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mojave Desert"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Delavan Smith", 
+  "accession_number": "25.55", 
+  "title": "Mojave Desert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18210693, 
+  "creation_date": "1917", 
+  "materials": "etching and plate tone", 
+  "actors": [
+    {
+      "name": "DeWolf, Wallace L.", 
+      "after_follower": null, 
+      "death_date": "1930", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302475, 
+      "role": "Artist", 
+      "birth_date": "1854", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27693, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

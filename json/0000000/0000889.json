@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.416", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "April 25, 1921", 
-            "death_date": null, 
-            "name": "Appel, Karel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1974", 
-    "credit_line": "Gift of Dr. Owen Berger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 889, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Moving in the Wind"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Moving in the Wind", 
+  "accession_number": "77.416", 
+  "credit_line": "Gift of Dr. Owen Berger", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133323, 
+  "creation_date": "1974", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Appel, Karel", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295249, 
+      "role": "Artist", 
+      "birth_date": "April 25, 1921", 
+      "nationality": null
+    }
+  ], 
+  "irn": 889, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

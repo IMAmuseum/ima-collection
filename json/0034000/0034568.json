@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.45.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1700", 
-            "death_date": "1766", 
-            "name": "Worlidge, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1751", 
-    "credit_line": "Gift of Mr. T. Victor Keene", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 34568, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "17th century man"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. T. Victor Keene", 
+  "accession_number": "70.45.4", 
+  "title": "17th century man", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18226669, 
+  "creation_date": "1751", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Worlidge, Thomas", 
+      "after_follower": null, 
+      "death_date": "1766", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295207, 
+      "role": "Artist", 
+      "birth_date": "1700", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34568, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

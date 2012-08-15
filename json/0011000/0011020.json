@@ -1,26 +1,30 @@
 {
-    "accession_number": "31.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1872", 
-            "death_date": "1938", 
-            "name": "Aid, George Charles", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11020, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Port d'Honfleur"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Port d'Honfleur", 
+  "accession_number": "31.6", 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157465, 
+  "creation_date": "20th century", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Aid, George Charles", 
+      "after_follower": null, 
+      "death_date": "1938", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295215, 
+      "role": "Artist", 
+      "birth_date": "1872", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11020, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.326", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1830", 
-            "death_date": "1902", 
-            "name": "Bierstadt, Albert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 49404, 
-    "materials": "oil", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Whyte's Lake, Estes Park, Colorado"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Delavan Smith", 
+  "accession_number": "13.326", 
+  "title": "Whyte's Lake, Estes Park, Colorado", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18260193, 
+  "creation_date": null, 
+  "materials": "oil", 
+  "actors": [
+    {
+      "name": "Bierstadt, Albert", 
+      "after_follower": null, 
+      "death_date": "1902", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297505, 
+      "role": "Artist", 
+      "birth_date": "1830", 
+      "nationality": null
+    }
+  ], 
+  "irn": 49404, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

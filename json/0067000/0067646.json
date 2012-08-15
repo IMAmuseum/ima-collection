@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.344A-K", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1950", 
-            "death_date": null, 
-            "name": "Citterio, Antonio", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "B&B Italia, S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1996", 
-    "credit_line": "Gift of B&B Italia USA Inc.", 
-    "cultures": [], 
-    "dimensions": "29 1/2 x 108 x 36 1/2 in.", 
-    "dynasty": null, 
-    "irn": 67646, 
-    "materials": "fabric and steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Antonio Citterio", 
-    "title": "Apta 9861 sofa"
+  "publishers": [], 
+  "dimensions": "29 1/2 x 108 x 36 1/2 in.", 
+  "rights": "\u00a9 Antonio Citterio", 
+  "credit_line": "Gift of B&B Italia USA Inc.", 
+  "accession_number": "2009.344A-K", 
+  "title": "Apta 9861 sofa", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282915, 
+  "creation_date": "1996", 
+  "materials": "fabric and steel", 
+  "actors": [
+    {
+      "name": "Citterio, Antonio", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306841, 
+      "role": "Designer", 
+      "birth_date": "1950", 
+      "nationality": null
+    }, 
+    {
+      "name": "B&B Italia, S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306845, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67646, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

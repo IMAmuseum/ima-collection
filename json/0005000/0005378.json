@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.90.13", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1594", 
-            "death_date": "1678", 
-            "name": "Savery, Salomon", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5378, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "T'uyf van Jacob van Leyden"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "T'uyf van Jacob van Leyden", 
+  "accession_number": "72.90.13", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143999, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Savery, Salomon", 
+      "after_follower": null, 
+      "death_date": "1678", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297139, 
+      "role": "Artist", 
+      "birth_date": "1594", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5378, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.14", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Wolgemut, Michael", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1493", 
-    "credit_line": "Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16125, 
-    "materials": "woodblock print with hand coloring", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Adam, Eve, Cain and Abel"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Adam, Eve, Cain and Abel", 
+  "accession_number": "71.14", 
+  "credit_line": "Delzell Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169791, 
+  "creation_date": "1493", 
+  "materials": "woodblock print with hand coloring", 
+  "actors": [
+    {
+      "name": "Wolgemut, Michael", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298363, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 16125, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

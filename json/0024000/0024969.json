@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.88.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1812", 
-            "death_date": "1888", 
-            "name": "Lear, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1862", 
-    "credit_line": "The Orville A. and Elma D. Wilkinson Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 24969, 
-    "materials": "pen and red-brown ink on blue paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Letter L"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "The Orville A. and Elma D. Wilkinson Fund", 
+  "accession_number": "72.88.12", 
+  "title": "Letter L", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204285, 
+  "creation_date": "about 1862", 
+  "materials": "pen and red-brown ink on blue paper", 
+  "actors": [
+    {
+      "name": "Lear, Edward", 
+      "after_follower": null, 
+      "death_date": "1888", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296249, 
+      "role": "Artist", 
+      "birth_date": "1812", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24969, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

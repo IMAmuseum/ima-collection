@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.52.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932-", 
-            "death_date": "1932-", 
-            "name": "Bechtle, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Gift of Midwest Emery Freight Systems", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10130, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Palm Tree"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Palm Tree", 
+  "accession_number": "73.52.23", 
+  "credit_line": "Gift of Midwest Emery Freight Systems", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155349, 
+  "creation_date": "1969", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Bechtle, Robert", 
+      "after_follower": null, 
+      "death_date": "1932-", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298533, 
+      "role": "Artist", 
+      "birth_date": "1932-", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10130, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

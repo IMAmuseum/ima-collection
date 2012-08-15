@@ -1,34 +1,40 @@
 {
-    "accession_number": "2000.73A-D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1807", 
-            "death_date": "1891", 
-            "name": "Shibata Zeshin", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1754", 
-            "death_date": "1799", 
-            "name": "Nagasawa Rosetsu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th-19th century", 
-    "credit_line": "Gift of Mr. and Mrs. Alan J. Strassman", 
-    "cultures": [], 
-    "dimensions": "73 x 58 in.", 
-    "dynasty": null, 
-    "irn": 38961, 
-    "materials": "ink, gold and silver leaf on paper (Zeshin) and ink, color and gold leaf on paper (Rosetsu), two-sided screen", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Carp in Waves (Zeshin) and Eagle on a Branch (Rosetsu reverse)"
+  "publishers": [], 
+  "dimensions": "73 x 58 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Alan J. Strassman", 
+  "accession_number": "2000.73A-D", 
+  "title": "Carp in Waves (Zeshin) and Eagle on a Branch (Rosetsu reverse)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18237599, 
+  "creation_date": "18th-19th century", 
+  "materials": "ink, gold and silver leaf on paper (Zeshin) and ink, color and gold leaf on paper (Rosetsu), two-sided screen", 
+  "actors": [
+    {
+      "name": "Shibata Zeshin", 
+      "after_follower": null, 
+      "death_date": "1891", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300301, 
+      "role": "Artist", 
+      "birth_date": "1807", 
+      "nationality": null
+    }, 
+    {
+      "name": "Nagasawa Rosetsu", 
+      "after_follower": null, 
+      "death_date": "1799", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304467, 
+      "role": "Artist", 
+      "birth_date": "1754", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38961, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

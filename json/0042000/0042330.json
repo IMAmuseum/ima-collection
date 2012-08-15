@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1942", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1813", 
-            "death_date": "1890", 
-            "name": "Richardson, Thomas Miles II", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 42330, 
-    "materials": "mezzotint over etching on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chapel in the Castle, Newcastle"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1942", 
+  "title": "Chapel in the Castle, Newcastle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18247083, 
+  "creation_date": null, 
+  "materials": "mezzotint over etching on plain paper", 
+  "actors": [
+    {
+      "name": "Richardson, Thomas Miles II", 
+      "after_follower": null, 
+      "death_date": "1890", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300311, 
+      "role": "Engraver", 
+      "birth_date": "1813", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42330, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "56.62", 
-    "actors": [
-        {
-            "after_follower": "Attributed to", 
-            "birth_date": "1615", 
-            "death_date": "1660", 
-            "name": "Flinck, Govaert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1634", 
-    "credit_line": "Gift of Marguerite Lilly Noyes in memory of Josiah Kirby Lilly", 
-    "cultures": [], 
-    "dimensions": "24 3/8 x 19 1/4 in.", 
-    "dynasty": null, 
-    "irn": 32768, 
-    "materials": "oil on wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Woman"
+  "publishers": [], 
+  "dimensions": "24 3/8 x 19 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Marguerite Lilly Noyes in memory of Josiah Kirby Lilly", 
+  "accession_number": "56.62", 
+  "title": "Portrait of a Woman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222451, 
+  "creation_date": "1634", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Flinck, Govaert", 
+      "after_follower": "Attributed to", 
+      "death_date": "1660", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303265, 
+      "role": "Artist", 
+      "birth_date": "1615", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32768, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

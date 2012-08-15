@@ -1,30 +1,34 @@
 {
-    "accession_number": "81.381", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1937", 
-            "death_date": null, 
-            "name": "Wiley, William T.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Helen Adams Bobbs Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37298, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Cirrus Editions"
-        }
-    ], 
-    "rights": "\u00a9 William T. Wiley", 
-    "title": "Untitled"
+  "publishers": [
+    {
+      "name": "Cirrus Editions"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": "\u00a9 William T. Wiley", 
+  "credit_line": "Helen Adams Bobbs Fund", 
+  "accession_number": "81.381", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232959, 
+  "creation_date": "1975", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Wiley, William T.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300667, 
+      "role": "Artist", 
+      "birth_date": "1937", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37298, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

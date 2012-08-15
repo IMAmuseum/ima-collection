@@ -1,26 +1,30 @@
 {
-    "accession_number": "1983.264.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1688", 
-            "death_date": "1760", 
-            "name": "Griffier, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1730", 
-    "credit_line": "Gift of Mr. J. Irwin Miller and Mrs. Robert S. Tangeman", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 21443, 
-    "materials": "oil on canvas | Gilded | aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "paneled room with overmantel painting"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. J. Irwin Miller and Mrs. Robert S. Tangeman", 
+  "accession_number": "1983.264.1", 
+  "title": "paneled room with overmantel painting", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18196141, 
+  "creation_date": "about 1730", 
+  "materials": "oil on canvas | Gilded | aquatint", 
+  "actors": [
+    {
+      "name": "Griffier, Robert", 
+      "after_follower": null, 
+      "death_date": "1760", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300763, 
+      "role": "Artist", 
+      "birth_date": "1688", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21443, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

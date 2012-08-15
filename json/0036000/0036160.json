@@ -1,30 +1,34 @@
 {
-    "accession_number": "1999.129", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": null, 
-            "name": "Bontecou, Lee", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1963", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan D. Weisenberger", 
-    "cultures": [], 
-    "dimensions": "29 3/4 x 20 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 36160, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Universal Limited Art Editions"
-        }
-    ], 
-    "rights": "\u00a9 Lee Bontecou / Courtesy Knoedler & Company, New York", 
-    "title": "Third Stone"
+  "publishers": [
+    {
+      "name": "Universal Limited Art Editions"
+    }
+  ], 
+  "dimensions": "29 3/4 x 20 in. (sheet)", 
+  "rights": "\u00a9 Lee Bontecou / Courtesy Knoedler & Company, New York", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan D. Weisenberger", 
+  "accession_number": "1999.129", 
+  "title": "Third Stone", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230323, 
+  "creation_date": "1963", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Bontecou, Lee", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300257, 
+      "role": "Artist", 
+      "birth_date": "1931", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36160, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

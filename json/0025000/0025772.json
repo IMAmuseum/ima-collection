@@ -1,26 +1,30 @@
 {
-    "accession_number": "C10027", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1500", 
-            "death_date": "1575", 
-            "name": "Corneille de Lyon", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1550", 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "5 1/2 x 4 1/8 in.", 
-    "dynasty": null, 
-    "irn": 25772, 
-    "materials": "oil on wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Marie de Lorraine"
+  "publishers": [], 
+  "dimensions": "5 1/2 x 4 1/8 in.", 
+  "rights": null, 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "accession_number": "C10027", 
+  "title": "Portrait of Marie de Lorraine", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18206141, 
+  "creation_date": "about 1550", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Corneille de Lyon", 
+      "after_follower": null, 
+      "death_date": "1575", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300409, 
+      "role": "Artist", 
+      "birth_date": "1500", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25772, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.55", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1958", 
-            "name": "Rouault, Georges", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1939", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "13 1/4 x 9 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 19238, 
-    "materials": "gouache on paper", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
-    "title": "Vollard as a Clown"
+  "publishers": [], 
+  "dimensions": "13 1/4 x 9 1/2 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "47.55", 
+  "title": "Vollard as a Clown", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191207, 
+  "creation_date": "1939", 
+  "materials": "gouache on paper", 
+  "actors": [
+    {
+      "name": "Rouault, Georges", 
+      "after_follower": null, 
+      "death_date": "1958", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294877, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19238, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

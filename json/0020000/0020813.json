@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.268", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1813", 
-            "death_date": "1865", 
-            "name": "Frey, Johann Jakob", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1722", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20813, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Aurora"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.268", 
+  "title": "Aurora", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194725, 
+  "creation_date": "1722", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Frey, Johann Jakob", 
+      "after_follower": null, 
+      "death_date": "1865", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301075, 
+      "role": "Artist", 
+      "birth_date": "1813", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20813, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

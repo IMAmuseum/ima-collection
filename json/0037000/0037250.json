@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1331", 
-            "death_date": "1413", 
-            "name": "Barnaba da Modena", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1375", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "41 x 26 1/2 in.", 
-    "dynasty": null, 
-    "irn": 37250, 
-    "materials": "tempera and gold on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Crucifixion"
+  "publishers": [], 
+  "dimensions": "41 x 26 1/2 in.", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "24.5", 
+  "title": "Crucifixion", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232843, 
+  "creation_date": "about 1375", 
+  "materials": "tempera and gold on wood", 
+  "actors": [
+    {
+      "name": "Barnaba da Modena", 
+      "after_follower": null, 
+      "death_date": "1413", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304027, 
+      "role": "Artist", 
+      "birth_date": "1331", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37250, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

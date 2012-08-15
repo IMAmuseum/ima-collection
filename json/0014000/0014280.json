@@ -1,38 +1,44 @@
 {
-    "accession_number": "80.249", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1887-1979", 
-            "death_date": "1887-1979", 
-            "name": "Dasburg, Andrew Michael", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "John Sommers", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of Mrs. Hiram W. McKee", 
-    "cultures": [], 
-    "dimensions": "17 3/16 x 22 15/16 in. (image)\n22 1/4 x 27 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 14280, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tamarind Institute"
-        }
-    ], 
-    "rights": null, 
-    "title": "Llano Quemado II"
+  "publishers": [
+    {
+      "name": "Tamarind Institute"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "17 3/16 x 22 15/16 in. (image)\n22 1/4 x 27 1/4 in. (sheet)", 
+  "title": "Llano Quemado II", 
+  "accession_number": "80.249", 
+  "credit_line": "Gift of Mrs. Hiram W. McKee", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165383, 
+  "creation_date": "1975", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Dasburg, Andrew Michael", 
+      "after_follower": null, 
+      "death_date": "1887-1979", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299569, 
+      "role": "Artist", 
+      "birth_date": "1887-1979", 
+      "nationality": null
+    }, 
+    {
+      "name": "John Sommers", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299571, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 14280, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

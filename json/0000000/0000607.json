@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.811", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1942-", 
-            "death_date": "1942-", 
-            "name": "Schonzeit, Ben", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 607, 
-    "materials": "collotype", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Yankee Flame"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Yankee Flame", 
+  "accession_number": "81.811", 
+  "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132651, 
+  "creation_date": "1975", 
+  "materials": "collotype", 
+  "actors": [
+    {
+      "name": "Schonzeit, Ben", 
+      "after_follower": null, 
+      "death_date": "1942-", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295069, 
+      "role": "Artist", 
+      "birth_date": "1942-", 
+      "nationality": null
+    }
+  ], 
+  "irn": 607, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "69.83", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1498?", 
-            "death_date": "1561", 
-            "name": "Franco, Battista", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "15th century - 16th century", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 22367, 
-    "materials": "pen and ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mythological Subject"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Delavan Smith Fund", 
+  "accession_number": "69.83", 
+  "title": "Mythological Subject", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18198235, 
+  "creation_date": "15th century - 16th century", 
+  "materials": "pen and ink on paper", 
+  "actors": [
+    {
+      "name": "Franco, Battista", 
+      "after_follower": null, 
+      "death_date": "1561", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301385, 
+      "role": "Artist", 
+      "birth_date": "1498?", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22367, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

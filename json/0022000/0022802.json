@@ -1,34 +1,40 @@
 {
-    "accession_number": "16.1124", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1776", 
-            "death_date": "1837", 
-            "name": "John Constable", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1802", 
-            "death_date": "1881", 
-            "name": "Lucas, David", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1833", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "17 x 12 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 22802, 
-    "materials": "mezzotint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Cottage in a Cornfield"
+  "publishers": [], 
+  "dimensions": "17 x 12 7/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "16.1124", 
+  "title": "The Cottage in a Cornfield", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18199223, 
+  "creation_date": "about 1833", 
+  "materials": "mezzotint", 
+  "actors": [
+    {
+      "name": "John Constable", 
+      "after_follower": null, 
+      "death_date": "1837", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296115, 
+      "role": "Artist", 
+      "birth_date": "1776", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lucas, David", 
+      "after_follower": null, 
+      "death_date": "1881", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296641, 
+      "role": "Engraver", 
+      "birth_date": "1802", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22802, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

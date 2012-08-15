@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.889.45", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1784", 
-            "death_date": "1849", 
-            "name": "De Wint, Peter", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1781", 
-            "death_date": "1834", 
-            "name": "Cooke, George", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1818", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38196, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cowes Castle, Isle of Wight"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.889.45", 
+  "title": "Cowes Castle, Isle of Wight", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235473, 
+  "creation_date": "1818", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "De Wint, Peter", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304223, 
+      "role": "Artist", 
+      "birth_date": "1784", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cooke, George", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296967, 
+      "role": "Engraver", 
+      "birth_date": "1781", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38196, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

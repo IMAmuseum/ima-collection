@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.311", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1913", 
-            "death_date": null, 
-            "name": "Hinkis, Alexandre", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1972", 
-    "credit_line": "Gift of Walter Cahn", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20125, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Galerie Chevreuse, A Hinkis"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Walter Cahn", 
+  "accession_number": "81.311", 
+  "title": "Galerie Chevreuse, A Hinkis", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193189, 
+  "creation_date": "1972", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Hinkis, Alexandre", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300947, 
+      "role": "Artist", 
+      "birth_date": "1913", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20125, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

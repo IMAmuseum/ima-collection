@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.43", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "25-220", 
-    "credit_line": "Gift of Mr. Franklin B. Mead", 
-    "cultures": [], 
-    "dimensions": "H: 8 1/4 in.", 
-    "dynasty": "Eastern Han dynasty", 
-    "irn": 36038, 
-    "materials": "earthenware with green glaze", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "model of wellhead"
+  "publishers": [], 
+  "dimensions": "H: 8 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. Franklin B. Mead", 
+  "accession_number": "82.43", 
+  "title": "model of wellhead", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230009, 
+  "creation_date": "25-220", 
+  "materials": "earthenware with green glaze", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 36038, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Eastern Han dynasty", 
+  "on_view": false
 }

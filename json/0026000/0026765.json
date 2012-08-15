@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.110.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860-1920", 
-            "death_date": "1860-1920", 
-            "name": "Zorn, Anders Leonard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1915", 
-    "credit_line": "Gift of Mr. and Mrs. Raymond Mead", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26765, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Swan"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Raymond Mead", 
+  "accession_number": "73.110.6", 
+  "title": "The Swan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18208471, 
+  "creation_date": "1915", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Zorn, Anders Leonard", 
+      "after_follower": null, 
+      "death_date": "1860-1920", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297129, 
+      "role": "Artist", 
+      "birth_date": "1860-1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26765, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

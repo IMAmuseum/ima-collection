@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.890.58", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1821", 
-            "name": "Edridge, Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1781", 
-            "death_date": "1834", 
-            "name": "Cooke, George", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1814", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38274, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Beach at Brighton, Sussex"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.890.58", 
+  "title": "The Beach at Brighton, Sussex", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235693, 
+  "creation_date": "1814", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Edridge, Henry", 
+      "after_follower": null, 
+      "death_date": "1821", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298845, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cooke, George", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296967, 
+      "role": "Engraver", 
+      "birth_date": "1781", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38274, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

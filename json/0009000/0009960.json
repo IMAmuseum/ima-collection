@@ -1,34 +1,40 @@
 {
-    "accession_number": "76.301.1-2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1934", 
-            "name": "Giuseffi, Girolamo", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "G. Giuseffi L.T. Company", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "1910 - 1914", 
-    "credit_line": "Gift of Mrs. William Garrigues, estate of Caroline Ella Burford", 
-    "cultures": [], 
-    "dimensions": "jacket: L:  \ndress: L:  55.5 in., 139.7 cm", 
-    "dynasty": null, 
-    "irn": 9960, 
-    "materials": "velvet, lace and net", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "dress and jacket"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "jacket: L:  \ndress: L:  55.5 in., 139.7 cm", 
+  "title": "dress and jacket", 
+  "accession_number": "76.301.1-2", 
+  "credit_line": "Gift of Mrs. William Garrigues, estate of Caroline Ella Burford", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154961, 
+  "creation_date": "1910 - 1914", 
+  "materials": "velvet, lace and net", 
+  "actors": [
+    {
+      "name": "Giuseffi, Girolamo", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294897, 
+      "role": "Designer", 
+      "birth_date": "1864", 
+      "nationality": null
+    }, 
+    {
+      "name": "G. Giuseffi L.T. Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294899, 
+      "role": "Design House", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 9960, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

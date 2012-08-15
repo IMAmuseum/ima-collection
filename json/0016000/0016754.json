@@ -1,38 +1,44 @@
 {
-    "accession_number": "74.548", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1918", 
-            "death_date": null, 
-            "name": "Adams, Clinton", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "David Folkman", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1967", 
-    "credit_line": "Gift (?) of Garo Antreasian", 
-    "cultures": [], 
-    "dimensions": "24 3/4 x 15 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 16754, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tamarind Lithography Workshop, Inc."
-        }
-    ], 
-    "rights": null, 
-    "title": "Phenomena Synanon"
+  "publishers": [
+    {
+      "name": "Tamarind Lithography Workshop, Inc."
+    }
+  ], 
+  "dimensions": "24 3/4 x 15 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift (?) of Garo Antreasian", 
+  "accession_number": "74.548", 
+  "title": "Phenomena Synanon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171405, 
+  "creation_date": "1967", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Adams, Clinton", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298131, 
+      "role": "Artist", 
+      "birth_date": "1918", 
+      "nationality": null
+    }, 
+    {
+      "name": "David Folkman", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300247, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 16754, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

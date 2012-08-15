@@ -1,26 +1,30 @@
 {
-    "accession_number": "59.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1705", 
-            "death_date": "1765", 
-            "name": "Vanloo, Carle", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14370, 
-    "materials": "brown ink and wash over black chalk on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Double Suicide (Pyramus and Thisbe)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Double Suicide (Pyramus and Thisbe)", 
+  "accession_number": "59.6", 
+  "credit_line": "Gift of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165619, 
+  "creation_date": "18th century", 
+  "materials": "brown ink and wash over black chalk on off-white paper", 
+  "actors": [
+    {
+      "name": "Vanloo, Carle", 
+      "after_follower": null, 
+      "death_date": "1765", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299599, 
+      "role": "Artist", 
+      "birth_date": "1705", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14370, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

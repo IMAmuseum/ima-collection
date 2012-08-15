@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.38", 
-    "actors": [
-        {
-            "after_follower": "Copy of", 
-            "birth_date": "1051", 
-            "death_date": "1107", 
-            "name": "Mi Fu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1600s", 
-    "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Ming dynasty", 
-    "irn": 3780, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mountain Landscape"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Mountain Landscape", 
+  "accession_number": "60.38", 
+  "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140285, 
+  "creation_date": "1600s", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Mi Fu", 
+      "after_follower": "Copy of", 
+      "death_date": "1107", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296555, 
+      "role": "Artist", 
+      "birth_date": "1051", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3780, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Ming dynasty", 
+  "on_view": false
 }

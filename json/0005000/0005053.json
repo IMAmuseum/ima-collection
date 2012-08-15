@@ -1,26 +1,30 @@
 {
-    "accession_number": "17.254", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1848", 
-            "death_date": "1907", 
-            "name": "Saint-Gaudens, Augustus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "modeled about 1895, cast 1905", 
-    "credit_line": "Given in memory of Jennie Ray Ormsby by her pupils", 
-    "cultures": [], 
-    "dimensions": "H: 41 in.", 
-    "dynasty": null, 
-    "irn": 5053, 
-    "materials": "bronze", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Diana"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 41 in.", 
+  "title": "Diana", 
+  "accession_number": "17.254", 
+  "credit_line": "Given in memory of Jennie Ray Ormsby by her pupils", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143223, 
+  "creation_date": "modeled about 1895, cast 1905", 
+  "materials": "bronze", 
+  "actors": [
+    {
+      "name": "Saint-Gaudens, Augustus", 
+      "after_follower": null, 
+      "death_date": "1907", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297019, 
+      "role": "Artist", 
+      "birth_date": "1848", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5053, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

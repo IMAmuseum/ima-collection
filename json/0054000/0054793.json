@@ -1,26 +1,30 @@
 {
-    "accession_number": "S3643.80.2A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1714", 
-            "death_date": "1782", 
-            "name": "Wilson, Richard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1980", 
-    "credit_line": "Gift of Mr. J. Tyler Griffin", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 54793, 
-    "materials": "wire, string and paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Wind Instrument 1"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. J. Tyler Griffin", 
+  "accession_number": "S3643.80.2A", 
+  "title": "Wind Instrument 1", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272049, 
+  "creation_date": "1980", 
+  "materials": "wire, string and paper", 
+  "actors": [
+    {
+      "name": "Wilson, Richard", 
+      "after_follower": null, 
+      "death_date": "1782", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302631, 
+      "role": "Artist", 
+      "birth_date": "1714", 
+      "nationality": null
+    }
+  ], 
+  "irn": 54793, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

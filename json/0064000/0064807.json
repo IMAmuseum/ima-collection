@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.12A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Snowcrash", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Snowcrash", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1996", 
-    "credit_line": "Gift of Proventus", 
-    "cultures": [], 
-    "dimensions": "70 x 30 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 64807, 
-    "materials": "steel and nylon", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Globlow floor lamp"
+  "publishers": [], 
+  "dimensions": "70 x 30 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Proventus", 
+  "accession_number": "2011.12A-C", 
+  "title": "Globlow floor lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279337, 
+  "creation_date": "1996", 
+  "materials": "steel and nylon", 
+  "actors": [
+    {
+      "name": "Snowcrash", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307143, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Snowcrash", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307143, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64807, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

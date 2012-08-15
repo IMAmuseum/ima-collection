@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1848", 
-            "death_date": "1903", 
-            "name": "Gauguin, Paul", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1898", 
-    "credit_line": "Gift of Dewitt Brown", 
-    "cultures": [], 
-    "dimensions": "6 3/8 x 11 5/8 in.", 
-    "dynasty": null, 
-    "irn": 24316, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Femmes, Animaux et Feuillages (Women, Animals and Foilage)"
+  "publishers": [], 
+  "dimensions": "6 3/8 x 11 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Dewitt Brown", 
+  "accession_number": "52.9", 
+  "title": "Femmes, Animaux et Feuillages (Women, Animals and Foilage)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18202811, 
+  "creation_date": "about 1898", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "Gauguin, Paul", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296071, 
+      "role": "Artist", 
+      "birth_date": "1848", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24316, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

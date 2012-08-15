@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.4B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1592", 
-            "death_date": "1665", 
-            "name": "Dalen, Cornelis van, I", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1660", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25191, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Meleager"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.4B", 
+  "title": "Meleager", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204803, 
+  "creation_date": "about 1660", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Dalen, Cornelis van, I", 
+      "after_follower": null, 
+      "death_date": "1665", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295615, 
+      "role": "Engraver", 
+      "birth_date": "1592", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25191, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

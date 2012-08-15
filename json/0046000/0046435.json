@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.340", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1972", 
-            "name": "Norell, Norman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century/MID", 
-    "credit_line": "Gift of Mrs. Ben Domont", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46435, 
-    "materials": "wool", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Norman Norell", 
-    "title": "coat"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Norman Norell", 
+  "credit_line": "Gift of Mrs. Ben Domont", 
+  "accession_number": "2001.340", 
+  "title": "coat", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18256599, 
+  "creation_date": "20th Century/MID", 
+  "materials": "wool", 
+  "actors": [
+    {
+      "name": "Norell, Norman", 
+      "after_follower": null, 
+      "death_date": "1972", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294959, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46435, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

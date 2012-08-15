@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.53", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1803", 
-            "death_date": "1874", 
-            "name": "Boys, Thomas Shotter", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1839", 
-    "credit_line": "Anonymous Gift", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14230, 
-    "materials": "hand-colored lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "H\u00f4tel de Sens, Paris"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "H\u00f4tel de Sens, Paris", 
+  "accession_number": "47.53", 
+  "credit_line": "Anonymous Gift", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165267, 
+  "creation_date": "1839", 
+  "materials": "hand-colored lithograph", 
+  "actors": [
+    {
+      "name": "Boys, Thomas Shotter", 
+      "after_follower": null, 
+      "death_date": "1874", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299555, 
+      "role": "Artist", 
+      "birth_date": "1803", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14230, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

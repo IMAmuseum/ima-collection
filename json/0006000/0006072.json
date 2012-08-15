@@ -1,26 +1,30 @@
 {
-    "accession_number": "33.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1876", 
-            "death_date": "1953", 
-            "name": "Bone, David Muirhead", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1917", 
-    "credit_line": "Anonymous Gift", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6072, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Workshop"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "A Workshop", 
+  "accession_number": "33.10", 
+  "credit_line": "Anonymous Gift", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145665, 
+  "creation_date": "1917", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Bone, David Muirhead", 
+      "after_follower": null, 
+      "death_date": "1953", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296735, 
+      "role": "Artist", 
+      "birth_date": "1876", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6072, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

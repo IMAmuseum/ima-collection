@@ -1,38 +1,44 @@
 {
-    "accession_number": "71.227.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1683", 
-            "death_date": "1742", 
-            "name": "Righini, Pietro", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1684", 
-            "death_date": "1756", 
-            "name": "Engelbrecht, Martin", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Elmer E. Taflinger", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45735, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Engelbrecht, Martin"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Bath"
+  "publishers": [
+    {
+      "name": "Engelbrecht, Martin"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Elmer E. Taflinger", 
+  "accession_number": "71.227.6", 
+  "title": "The Bath", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254995, 
+  "creation_date": "18th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Righini, Pietro", 
+      "after_follower": null, 
+      "death_date": "1742", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296631, 
+      "role": "Artist", 
+      "birth_date": "1683", 
+      "nationality": null
+    }, 
+    {
+      "name": "Engelbrecht, Martin", 
+      "after_follower": null, 
+      "death_date": "1756", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296633, 
+      "role": "Engraver", 
+      "birth_date": "1684", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45735, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "1993.4A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1833", 
-            "death_date": "1898", 
-            "name": "Edward Burne-Jones", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Morris and Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1894-95", 
-    "credit_line": "Emma Harter Sweetser Fund and Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "71 in. x 22 in.", 
-    "dynasty": null, 
-    "irn": 15542, 
-    "materials": "painted lead and stained glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Justitia (Justice)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "71 in. x 22 in.", 
+  "title": "Justitia (Justice)", 
+  "accession_number": "1993.4A-C", 
+  "credit_line": "Emma Harter Sweetser Fund and Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168283, 
+  "creation_date": "1894-95", 
+  "materials": "painted lead and stained glass", 
+  "actors": [
+    {
+      "name": "Edward Burne-Jones", 
+      "after_follower": null, 
+      "death_date": "1898", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299901, 
+      "role": "Designer", 
+      "birth_date": "1833", 
+      "nationality": null
+    }, 
+    {
+      "name": "Morris and Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299903, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 15542, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

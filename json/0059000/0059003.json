@@ -1,34 +1,40 @@
 {
-    "accession_number": "2002.97", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1918", 
-            "death_date": null, 
-            "name": "Adams, Clinton", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1897", 
-            "death_date": null, 
-            "name": "Kistler, Lynton R.", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "20th Century/MID", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 59003, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Still Life"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2002.97", 
+  "title": "Still Life", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18275995, 
+  "creation_date": "20th Century/MID", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Adams, Clinton", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298131, 
+      "role": "Artist", 
+      "birth_date": "1918", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kistler, Lynton R.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303217, 
+      "role": "Printer", 
+      "birth_date": "1897", 
+      "nationality": null
+    }
+  ], 
+  "irn": 59003, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

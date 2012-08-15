@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.168", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1833", 
-            "death_date": "1914", 
-            "name": "Bracquemond, F\u00e9lix", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1869", 
-    "credit_line": "Gift of Mrs. Hiram W. McKee", 
-    "cultures": [], 
-    "dimensions": "7 3/4 x 5 1/8 in.", 
-    "dynasty": null, 
-    "irn": 1052, 
-    "materials": "ethching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "L'Eclipse"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "7 3/4 x 5 1/8 in.", 
+  "title": "L'Eclipse", 
+  "accession_number": "80.168", 
+  "credit_line": "Gift of Mrs. Hiram W. McKee", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133755, 
+  "creation_date": "1869", 
+  "materials": "ethching", 
+  "actors": [
+    {
+      "name": "Bracquemond, F\u00e9lix", 
+      "after_follower": null, 
+      "death_date": "1914", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294869, 
+      "role": "Artist", 
+      "birth_date": "1833", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1052, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

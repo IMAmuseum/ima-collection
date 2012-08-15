@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.276", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1956", 
-            "name": "Metzinger, Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1905", 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "25 7/16 x 35 15/16 in.", 
-    "dynasty": null, 
-    "irn": 30014, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "The Seashore"
+  "publishers": [], 
+  "dimensions": "25 7/16 x 35 15/16 in.", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "The Holliday Collection", 
+  "accession_number": "79.276", 
+  "title": "The Seashore", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18216089, 
+  "creation_date": "1905", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Metzinger, Jean", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302867, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30014, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

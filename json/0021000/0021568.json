@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1846", 
-            "death_date": "1938", 
-            "name": "Parrish, Stephen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1888", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 21568, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Marine"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of William George Sullivan", 
+  "accession_number": "40.3", 
+  "title": "Marine", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18196431, 
+  "creation_date": "1888", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Parrish, Stephen", 
+      "after_follower": null, 
+      "death_date": "1938", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301237, 
+      "role": "Artist", 
+      "birth_date": "1846", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21568, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.180", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1793", 
-            "death_date": "1867", 
-            "name": "Stanfield, Clarkson", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "9 1/4 x 12 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 5213, 
-    "materials": "watercolor and gouache on white paper", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Tivoli"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 1/4 x 12 3/4 in. (sheet)", 
+  "title": "Tivoli", 
+  "accession_number": "82.180", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143611, 
+  "creation_date": "1833", 
+  "materials": "watercolor and gouache on white paper", 
+  "actors": [
+    {
+      "name": "Stanfield, Clarkson", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297077, 
+      "role": "Artist", 
+      "birth_date": "1793", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5213, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

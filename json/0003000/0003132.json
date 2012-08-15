@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.206", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Josiah Wedgwood and Sons, Ltd.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of L.S Ayres and Co. and Wedgewood Incorporated", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3132, 
-    "materials": "Black Basalt", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "PLACQUE OF ST. PAUL'S CATHEDRAL, LONDON"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "PLACQUE OF ST. PAUL'S CATHEDRAL, LONDON", 
+  "accession_number": "77.206", 
+  "credit_line": "Gift of L.S Ayres and Co. and Wedgewood Incorporated", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138753, 
+  "creation_date": null, 
+  "materials": "Black Basalt", 
+  "actors": [
+    {
+      "name": "Josiah Wedgwood and Sons, Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296273, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 3132, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.214", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1967", 
-            "name": "Hopper, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1921", 
-    "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18234, 
-    "materials": "etching", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Edward Hopper", 
-    "title": "Night Shadows"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Edward Hopper", 
+  "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
+  "accession_number": "77.214", 
+  "title": "Night Shadows", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18175245, 
+  "creation_date": "1921", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Hopper, Edward", 
+      "after_follower": null, 
+      "death_date": "1967", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296191, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18234, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

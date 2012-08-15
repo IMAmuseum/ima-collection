@@ -1,30 +1,34 @@
 {
-    "accession_number": "2005.67", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Hecht, Henry", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "March 1939", 
-    "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "outer cover: 10 1/4 x 7 5/8 x 1 1/2 in. | inner cover: 9 1/2 x 6 7/8 x 7/8 in.", 
-    "dynasty": null, 
-    "irn": 63134, 
-    "materials": "etchings and engravings on Montval paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Atelier 17"
-        }
-    ], 
-    "rights": null, 
-    "title": "portfolio of 9 prints, with engraving on slipcase cover"
+  "publishers": [
+    {
+      "name": "Atelier 17"
+    }
+  ], 
+  "dimensions": "outer cover: 10 1/4 x 7 5/8 x 1 1/2 in. | inner cover: 9 1/2 x 6 7/8 x 7/8 in.", 
+  "rights": null, 
+  "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
+  "accession_number": "2005.67", 
+  "title": "portfolio of 9 prints, with engraving on slipcase cover", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278337, 
+  "creation_date": "March 1939", 
+  "materials": "etchings and engravings on Montval paper", 
+  "actors": [
+    {
+      "name": "Hecht, Henry", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306505, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63134, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

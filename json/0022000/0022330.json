@@ -1,34 +1,40 @@
 {
-    "accession_number": "1986.57", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": "American", 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1718", 
-            "death_date": "1779", 
-            "name": "Chippendale, Thomas", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "about 1755-1785", 
-    "credit_line": "Gift of the National Society of the Colonial Dames of America in the State of Indiana", 
-    "cultures": [], 
-    "dimensions": "43 1/4 x 39 x 20 1/2 in.", 
-    "dynasty": null, 
-    "irn": 22330, 
-    "materials": "walnut, brass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "slant-front desk"
+  "publishers": [], 
+  "dimensions": "43 1/4 x 39 x 20 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the National Society of the Colonial Dames of America in the State of Indiana", 
+  "accession_number": "1986.57", 
+  "title": "slant-front desk", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18198161, 
+  "creation_date": "about 1755-1785", 
+  "materials": "walnut, brass", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": "American"
+    }, 
+    {
+      "name": "Chippendale, Thomas", 
+      "after_follower": null, 
+      "death_date": "1779", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296021, 
+      "role": "Designer", 
+      "birth_date": "1718", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22330, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

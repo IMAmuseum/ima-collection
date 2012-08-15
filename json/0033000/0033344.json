@@ -1,26 +1,30 @@
 {
-    "accession_number": "1997.71", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1849", 
-            "death_date": "1916", 
-            "name": "William Merritt Chase", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1869-1869", 
-    "credit_line": "Gift of Mr. and Mrs. Harris P. Byrd", 
-    "cultures": [], 
-    "dimensions": "20 1/8 x 16 3/16 in.", 
-    "dynasty": null, 
-    "irn": 33344, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Family Cow"
+  "publishers": [], 
+  "dimensions": "20 1/8 x 16 3/16 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Harris P. Byrd", 
+  "accession_number": "1997.71", 
+  "title": "The Family Cow", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223843, 
+  "creation_date": "1869-1869", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "William Merritt Chase", 
+      "after_follower": null, 
+      "death_date": "1916", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295953, 
+      "role": "Artist", 
+      "birth_date": "1849", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33344, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

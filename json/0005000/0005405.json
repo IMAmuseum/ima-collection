@@ -1,26 +1,30 @@
 {
-    "accession_number": "66.231", 
-    "actors": [
-        {
-            "after_follower": "After", 
-            "birth_date": "1657", 
-            "death_date": "1747", 
-            "name": "Solimena, Francesco", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1709", 
-    "credit_line": "Herbert J. Reade Fund", 
-    "cultures": [], 
-    "dimensions": "90 x 38 1/4 in.", 
-    "dynasty": null, 
-    "irn": 5405, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Triumph of the Dominican Order"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "90 x 38 1/4 in.", 
+  "title": "The Triumph of the Dominican Order", 
+  "accession_number": "66.231", 
+  "credit_line": "Herbert J. Reade Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144071, 
+  "creation_date": "about 1709", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Solimena, Francesco", 
+      "after_follower": "After", 
+      "death_date": "1747", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297145, 
+      "role": "Artist", 
+      "birth_date": "1657", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5405, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

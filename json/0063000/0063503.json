@@ -1,26 +1,30 @@
 {
-    "accession_number": "2006.33", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": "1995", 
-            "name": "Kilstrom, Kenneth", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1948", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "13 1/8 x 19 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 63503, 
-    "materials": "etching, engraving with aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Kenneth Kilstrom", 
-    "title": "Piano Music by Evan Envissen"
+  "publishers": [], 
+  "dimensions": "13 1/8 x 19 7/8 in. (sheet)", 
+  "rights": "\u00a9 Kenneth Kilstrom", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2006.33", 
+  "title": "Piano Music by Evan Envissen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278571, 
+  "creation_date": "1948", 
+  "materials": "etching, engraving with aquatint", 
+  "actors": [
+    {
+      "name": "Kilstrom, Kenneth", 
+      "after_follower": null, 
+      "death_date": "1995", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306647, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63503, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

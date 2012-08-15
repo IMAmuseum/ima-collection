@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1861", 
-            "name": "Utagawa Kuniyoshi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1840", 
-    "credit_line": "Anonymous", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60166, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hataori (weaving on a loom)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Anonymous", 
+  "accession_number": "2003.26", 
+  "title": "Hataori (weaving on a loom)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18276383, 
+  "creation_date": "about 1840", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Utagawa Kuniyoshi", 
+      "after_follower": null, 
+      "death_date": "1861", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301701, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60166, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

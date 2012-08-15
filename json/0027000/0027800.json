@@ -1,26 +1,30 @@
 {
-    "accession_number": "06.135", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1830-1858", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 13 7/8 in. (image)\nSheet is trimmed to image on all margins", 
-    "dynasty": null, 
-    "irn": 27800, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Eitai Bridge"
+  "publishers": [], 
+  "dimensions": "8 3/4 x 13 7/8 in. (image)\nSheet is trimmed to image on all margins", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "06.135", 
+  "title": "Eitai Bridge", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18210923, 
+  "creation_date": "about 1830-1858", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27800, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

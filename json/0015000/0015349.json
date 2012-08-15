@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.762", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1903", 
-            "death_date": "1975", 
-            "name": "Hepworth, Barbara", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Mr. Mark Jacobson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15349, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Bowness, Hepworth Estate", 
-    "title": "November Green"
+  "publishers": [], 
+  "rights": "\u00a9 Bowness, Hepworth Estate", 
+  "dimensions": null, 
+  "title": "November Green", 
+  "accession_number": "79.762", 
+  "credit_line": "Gift of Mr. Mark Jacobson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167851, 
+  "creation_date": "1970", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Hepworth, Barbara", 
+      "after_follower": null, 
+      "death_date": "1975", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295227, 
+      "role": "Artist", 
+      "birth_date": "1903", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15349, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.453", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1948", 
-            "death_date": null, 
-            "name": "Rose, Robin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Carl H. Lieber Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3234, 
-    "materials": "encaustic beeswax and graphite", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Untitled", 
+  "accession_number": "79.453", 
+  "credit_line": "Carl H. Lieber Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138981, 
+  "creation_date": "1978", 
+  "materials": "encaustic beeswax and graphite", 
+  "actors": [
+    {
+      "name": "Rose, Robin", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296323, 
+      "role": "Artist", 
+      "birth_date": "1948", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3234, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

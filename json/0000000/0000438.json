@@ -1,26 +1,30 @@
 {
-    "accession_number": "66.269A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Jackson, Billy Morrow", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Gift of the Artist", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 438, 
-    "materials": "photo-screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "X's Diary"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "X's Diary", 
+  "accession_number": "66.269A", 
+  "credit_line": "Gift of the Artist", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132211, 
+  "creation_date": "20th century", 
+  "materials": "photo-screenprint", 
+  "actors": [
+    {
+      "name": "Jackson, Billy Morrow", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294985, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 438, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

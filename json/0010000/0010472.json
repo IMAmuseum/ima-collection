@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.681", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1813", 
-            "death_date": "1888", 
-            "name": "Currier, Nathaniel", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1824-1895", 
-            "death_date": "1824-1895", 
-            "name": "Ives, James Merritt", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1885", 
-    "credit_line": "Gift of Mr. and Mrs. Charles E. Ballard in memory of Ed and Dolly Ballard", 
-    "cultures": [], 
-    "dimensions": "22 1/8 x 35 1/8 in. (image)\n25  in. (sheet)", 
-    "dynasty": null, 
-    "irn": 10472, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The City of New Orleans"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "22 1/8 x 35 1/8 in. (image)\n25  in. (sheet)", 
+  "title": "The City of New Orleans", 
+  "accession_number": "80.681", 
+  "credit_line": "Gift of Mr. and Mrs. Charles E. Ballard in memory of Ed and Dolly Ballard", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156153, 
+  "creation_date": "1885", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Currier, Nathaniel", 
+      "after_follower": null, 
+      "death_date": "1888", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294763, 
+      "role": "Artist", 
+      "birth_date": "1813", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ives, James Merritt", 
+      "after_follower": null, 
+      "death_date": "1824-1895", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294765, 
+      "role": "Artist", 
+      "birth_date": "1824-1895", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10472, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

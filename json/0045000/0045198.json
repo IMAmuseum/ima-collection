@@ -1,30 +1,34 @@
 {
-    "accession_number": "34.28O", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1755", 
-            "death_date": "1826", 
-            "name": "Flaxman, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1805", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45198, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Longman, Hurst, Rees & Orme"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Meeting of Hector & Andromache"
+  "publishers": [
+    {
+      "name": "Longman, Hurst, Rees & Orme"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of William George Sullivan", 
+  "accession_number": "34.28O", 
+  "title": "The Meeting of Hector & Andromache", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253767, 
+  "creation_date": "1805", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Flaxman, John", 
+      "after_follower": null, 
+      "death_date": "1826", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296581, 
+      "role": "Artist", 
+      "birth_date": "1755", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45198, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

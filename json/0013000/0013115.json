@@ -1,30 +1,34 @@
 {
-    "accession_number": "66.114", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1813", 
-            "death_date": "1888", 
-            "name": "Currier, Nathaniel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1835-1856", 
-    "credit_line": "Gift of Mrs. M. S. Cassen", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13115, 
-    "materials": "hand-colored lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Currier, Nathaniel"
-        }
-    ], 
-    "rights": null, 
-    "title": "John Quincy Adams"
+  "publishers": [
+    {
+      "name": "Currier, Nathaniel"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "John Quincy Adams", 
+  "accession_number": "66.114", 
+  "credit_line": "Gift of Mrs. M. S. Cassen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162613, 
+  "creation_date": "1835-1856", 
+  "materials": "hand-colored lithograph", 
+  "actors": [
+    {
+      "name": "Currier, Nathaniel", 
+      "after_follower": null, 
+      "death_date": "1888", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294763, 
+      "role": "Artist", 
+      "birth_date": "1813", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13115, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

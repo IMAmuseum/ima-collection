@@ -1,34 +1,40 @@
 {
-    "accession_number": "2004.130A-W", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1907", 
-            "death_date": "1988", 
-            "name": "Wilke, Ulfert S.", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kuroyama Collotype Printing Co.", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1960", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "19 3/4 x 14 5/8 in. (each image and sheet)", 
-    "dynasty": null, 
-    "irn": 62162, 
-    "materials": "collotypes", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ulfert S. Wilke", 
-    "title": "One, Two and More"
+  "publishers": [], 
+  "dimensions": "19 3/4 x 14 5/8 in. (each image and sheet)", 
+  "rights": "\u00a9 Ulfert S. Wilke", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2004.130A-W", 
+  "title": "One, Two and More", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277545, 
+  "creation_date": "1960", 
+  "materials": "collotypes", 
+  "actors": [
+    {
+      "name": "Wilke, Ulfert S.", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299057, 
+      "role": "Artist", 
+      "birth_date": "1907", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kuroyama Collotype Printing Co.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306325, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62162, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

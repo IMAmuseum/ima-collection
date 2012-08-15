@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.141", 
-    "actors": [
-        {
-            "after_follower": "Follower of", 
-            "birth_date": "ca. 1494", 
-            "death_date": "1533", 
-            "name": "Lucas van Leyden", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1550", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "13 1/2 x 20 1/2 in.", 
-    "dynasty": null, 
-    "irn": 16004, 
-    "materials": "oil on wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Allegory of Youth crossing betwen Fame and Folly"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 1/2 x 20 1/2 in.", 
+  "title": "Allegory of Youth crossing betwen Fame and Folly", 
+  "accession_number": "70.141", 
+  "credit_line": "Museum Accession", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169345, 
+  "creation_date": "about 1550", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Lucas van Leyden", 
+      "after_follower": "Follower of", 
+      "death_date": "1533", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296159, 
+      "role": "Artist", 
+      "birth_date": "ca. 1494", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16004, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

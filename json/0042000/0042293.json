@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1905", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1793", 
-            "death_date": "1867", 
-            "name": "Stanfield, Clarkson", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1800", 
-            "death_date": "1863", 
-            "name": "James T. Willmore", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1832", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "5 3/4 x 3 7/8 in. (image)\n17 1/4 x 11 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 42293, 
-    "materials": "engraving", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Schaffhausen"
+  "publishers": [], 
+  "dimensions": "5 3/4 x 3 7/8 in. (image)\n17 1/4 x 11 3/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1905", 
+  "title": "Schaffhausen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18246977, 
+  "creation_date": "1832", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Stanfield, Clarkson", 
+      "after_follower": null, 
+      "death_date": "1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297077, 
+      "role": "Artist", 
+      "birth_date": "1793", 
+      "nationality": null
+    }, 
+    {
+      "name": "James T. Willmore", 
+      "after_follower": null, 
+      "death_date": "1863", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296465, 
+      "role": "Engraver", 
+      "birth_date": "1800", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42293, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

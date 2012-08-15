@@ -1,26 +1,30 @@
 {
-    "accession_number": "2004.59", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1886", 
-            "death_date": "1966", 
-            "name": "Arp, Hans", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1950s", 
-    "credit_line": "Gift of Sylvia and Joseph Slifka", 
-    "cultures": [], 
-    "dimensions": "19 1/4 x 15 1/2 x 1 1/4 in.", 
-    "dynasty": null, 
-    "irn": 61791, 
-    "materials": "bronze with brown patina", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York/VG Bild-Kunst, Bonn", 
-    "title": "Configuration"
+  "publishers": [], 
+  "dimensions": "19 1/4 x 15 1/2 x 1 1/4 in.", 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York/VG Bild-Kunst, Bonn", 
+  "credit_line": "Gift of Sylvia and Joseph Slifka", 
+  "accession_number": "2004.59", 
+  "title": "Configuration", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277243, 
+  "creation_date": "1950s", 
+  "materials": "bronze with brown patina", 
+  "actors": [
+    {
+      "name": "Arp, Hans", 
+      "after_follower": null, 
+      "death_date": "1966", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297923, 
+      "role": "Artist", 
+      "birth_date": "1886", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61791, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

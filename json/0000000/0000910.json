@@ -1,26 +1,30 @@
 {
-    "accession_number": "1990.108", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1766", 
-            "death_date": "1836", 
-            "name": "Gu Haoqing", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1788", 
-    "credit_line": "Gift of Dr. Merrill Grayson", 
-    "cultures": [], 
-    "dimensions": "62 1/2 x 16 1/4 in.", 
-    "dynasty": "Qing dynasty", 
-    "irn": 910, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": "Qianlong", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Green Bamboo"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "62 1/2 x 16 1/4 in.", 
+  "title": "Green Bamboo", 
+  "accession_number": "1990.108", 
+  "credit_line": "Gift of Dr. Merrill Grayson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Qianlong", 
+  "artisinal:id": 18133383, 
+  "creation_date": "1788", 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Gu Haoqing", 
+      "after_follower": null, 
+      "death_date": "1836", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295259, 
+      "role": "Artist", 
+      "birth_date": "1766", 
+      "nationality": null
+    }
+  ], 
+  "irn": 910, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

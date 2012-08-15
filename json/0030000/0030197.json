@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.138", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": "2008", 
-            "name": "Hoff, Margo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1950-1975", 
-    "credit_line": "Gift of Mrs. J. Irwin Miller", 
-    "cultures": [], 
-    "dimensions": "22 x 15 ft.", 
-    "dynasty": null, 
-    "irn": 30197, 
-    "materials": "fabric (canvas), paint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "banner"
+  "publishers": [], 
+  "dimensions": "22 x 15 ft.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. J. Irwin Miller", 
+  "accession_number": "72.138", 
+  "title": "banner", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18216511, 
+  "creation_date": "1950-1975", 
+  "materials": "fabric (canvas), paint", 
+  "actors": [
+    {
+      "name": "Hoff, Margo", 
+      "after_follower": null, 
+      "death_date": "2008", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302899, 
+      "role": "Artist", 
+      "birth_date": "1912", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30197, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

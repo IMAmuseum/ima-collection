@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.873", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1978", 
-            "name": "Lindner, Richard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1971", 
-    "credit_line": "Gift of Mr. George Friedman", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5979, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Man-Side View"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Man-Side View", 
+  "accession_number": "79.873", 
+  "credit_line": "Gift of Mr. George Friedman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145437, 
+  "creation_date": "1971", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Lindner, Richard", 
+      "after_follower": null, 
+      "death_date": "1978", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297321, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5979, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

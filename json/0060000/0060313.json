@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.225", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1856", 
-            "death_date": "1933", 
-            "name": "Haberle, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1889", 
-    "credit_line": "Gift of Paul and Ruth Buchanan", 
-    "cultures": [], 
-    "dimensions": "8 1/2 x 12 in.", 
-    "dynasty": null, 
-    "irn": 60313, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "U.S.A."
+  "publishers": [], 
+  "dimensions": "8 1/2 x 12 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Paul and Ruth Buchanan", 
+  "accession_number": "2002.225", 
+  "title": "U.S.A.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276513, 
+  "creation_date": "about 1889", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Haberle, John", 
+      "after_follower": null, 
+      "death_date": "1933", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305871, 
+      "role": "Artist", 
+      "birth_date": "1856", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60313, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

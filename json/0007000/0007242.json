@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1563", 
-            "death_date": "about 1639", 
-            "name": "Chen Guan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1614", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Ming dynasty", 
-    "irn": 7242, 
-    "materials": "ink and color on gold paper. fan painting.", 
-    "on_view": false, 
-    "period": "Wanli", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Scholar in pavilion by bamboo and stream"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Scholar in pavilion by bamboo and stream", 
+  "accession_number": "73.61.4", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Wanli", 
+  "artisinal:id": 18148465, 
+  "creation_date": "1614", 
+  "materials": "ink and color on gold paper. fan painting.", 
+  "actors": [
+    {
+      "name": "Chen Guan", 
+      "after_follower": null, 
+      "death_date": "about 1639", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297681, 
+      "role": "Artist", 
+      "birth_date": "1563", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7242, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Ming dynasty", 
+  "on_view": false
 }

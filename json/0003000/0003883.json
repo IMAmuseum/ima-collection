@@ -1,26 +1,30 @@
 {
-    "accession_number": "76.213", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1911-", 
-            "death_date": "1911-", 
-            "name": "Barnet, Will", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of the Kent Brand of Lorillard", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3883, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Waiting"
+  "publishers": [], 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "dimensions": null, 
+  "title": "Waiting", 
+  "accession_number": "76.213", 
+  "credit_line": "Gift of the Kent Brand of Lorillard", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140509, 
+  "creation_date": "1975", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Barnet, Will", 
+      "after_follower": null, 
+      "death_date": "1911-", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296589, 
+      "role": "Artist", 
+      "birth_date": "1911-", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3883, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

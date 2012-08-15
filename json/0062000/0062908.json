@@ -1,26 +1,30 @@
 {
-    "accession_number": "2005.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Beer", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1910-1913", 
-    "credit_line": "Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "L: 59 in.", 
-    "dynasty": null, 
-    "irn": 62908, 
-    "materials": "silk taffeta, silk satin, cotton, glass and bugle beads, sequins, rhinestones and metallic threads", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "evening gown"
+  "publishers": [], 
+  "dimensions": "L: 59 in.", 
+  "rights": null, 
+  "credit_line": "Emma Harter Sweetser Fund", 
+  "accession_number": "2005.32", 
+  "title": "evening gown", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278049, 
+  "creation_date": "1910-1913", 
+  "materials": "silk taffeta, silk satin, cotton, glass and bugle beads, sequins, rhinestones and metallic threads", 
+  "actors": [
+    {
+      "name": "Beer", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306471, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62908, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.11.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1878", 
-            "death_date": "1970", 
-            "name": "Webster, Herman Armour", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Anton Scherrer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 44973, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "St. Denis"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Anton Scherrer", 
+  "accession_number": "67.11.9", 
+  "title": "St. Denis", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253257, 
+  "creation_date": null, 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Webster, Herman Armour", 
+      "after_follower": null, 
+      "death_date": "1970", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298109, 
+      "role": "Artist", 
+      "birth_date": "1878", 
+      "nationality": null
+    }
+  ], 
+  "irn": 44973, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

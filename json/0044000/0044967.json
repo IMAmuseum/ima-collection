@@ -1,34 +1,40 @@
 {
-    "accession_number": "17.51", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1866", 
-            "death_date": "1913", 
-            "name": "Seegmiller, Wilhelmina", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Matsummoto Sogo", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1908", 
-    "credit_line": "Gift of Mary E. Nicholson", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 44967, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Wisteria"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mary E. Nicholson", 
+  "accession_number": "17.51", 
+  "title": "Wisteria", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253237, 
+  "creation_date": "about 1908", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Seegmiller, Wilhelmina", 
+      "after_follower": null, 
+      "death_date": "1913", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295377, 
+      "role": "Artist", 
+      "birth_date": "1866", 
+      "nationality": null
+    }, 
+    {
+      "name": "Matsummoto Sogo", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295379, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 44967, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.65", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1956", 
-            "death_date": "2005", 
-            "name": "Maarten van Severen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "A IKI furniture", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Gift of A IKI Furniture", 
-    "cultures": [], 
-    "dimensions": "30 5/8 x 15 x 19 3/4 in.", 
-    "dynasty": null, 
-    "irn": 67832, 
-    "materials": "wood and aluminum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Maarten Van Severen", 
-    "title": "No. 2 side chair"
+  "publishers": [], 
+  "dimensions": "30 5/8 x 15 x 19 3/4 in.", 
+  "rights": "\u00a9 Maarten Van Severen", 
+  "credit_line": "Gift of A IKI Furniture", 
+  "accession_number": "2010.65", 
+  "title": "No. 2 side chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283067, 
+  "creation_date": "1992", 
+  "materials": "wood and aluminum", 
+  "actors": [
+    {
+      "name": "Maarten van Severen", 
+      "after_follower": null, 
+      "death_date": "2005", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307171, 
+      "role": "Designer", 
+      "birth_date": "1956", 
+      "nationality": null
+    }, 
+    {
+      "name": "A IKI furniture", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307179, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67832, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

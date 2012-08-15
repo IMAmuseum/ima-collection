@@ -1,26 +1,30 @@
 {
-    "accession_number": "46.40", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1888", 
-            "death_date": "1976", 
-            "name": "Von Neumann, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1943", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12852, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Trap Net Fishing on the Great Lakes"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Trap Net Fishing on the Great Lakes", 
+  "accession_number": "46.40", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162025, 
+  "creation_date": "1943", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Von Neumann, Robert", 
+      "after_follower": null, 
+      "death_date": "1976", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299147, 
+      "role": "Artist", 
+      "birth_date": "1888", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12852, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

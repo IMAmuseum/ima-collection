@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.338A-D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1950", 
-            "death_date": null, 
-            "name": "Citterio, Antonio", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kartell S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1994", 
-    "credit_line": "Gift of Kartell Museum", 
-    "cultures": [], 
-    "dimensions": "30 3/4 x 38 1/4 x 18 3/4 in.", 
-    "dynasty": null, 
-    "irn": 64654, 
-    "materials": "aluminum and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Antonio Citterio", 
-    "title": "Mobil cabinet"
+  "publishers": [], 
+  "dimensions": "30 3/4 x 38 1/4 x 18 3/4 in.", 
+  "rights": "\u00a9 Antonio Citterio", 
+  "credit_line": "Gift of Kartell Museum", 
+  "accession_number": "2009.338A-D", 
+  "title": "Mobil cabinet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279147, 
+  "creation_date": "1994", 
+  "materials": "aluminum and plastic", 
+  "actors": [
+    {
+      "name": "Citterio, Antonio", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306841, 
+      "role": "Designer", 
+      "birth_date": "1950", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kartell S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306787, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64654, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

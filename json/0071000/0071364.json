@@ -1,34 +1,38 @@
 {
-    "accession_number": "2011.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1923", 
-            "death_date": "1994", 
-            "name": "Francis, Sam", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1982", 
-    "credit_line": "Gift of the Sam Francis Foundation", 
-    "cultures": [], 
-    "dimensions": "2 3/4 x 1 7/8 in. (image)\n15 x 11 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 71364, 
-    "materials": "aquatint on off-white wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Ihuru Kuwahara"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "3 EP, Ltd."
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Self-Portrait"
+  "publishers": [
+    {
+      "name": "3 EP, Ltd."
+    }
+  ], 
+  "dimensions": "2 3/4 x 1 7/8 in. (image)\n15 x 11 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of the Sam Francis Foundation", 
+  "accession_number": "2011.23", 
+  "title": "Self-Portrait", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287051, 
+  "creation_date": "1982", 
+  "materials": "aquatint on off-white wove paper", 
+  "actors": [
+    {
+      "name": "Francis, Sam", 
+      "after_follower": null, 
+      "death_date": "1994", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297273, 
+      "role": "Artist", 
+      "birth_date": "1923", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71364, 
+  "printers": [
+    {
+      "name": "Ihuru Kuwahara"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

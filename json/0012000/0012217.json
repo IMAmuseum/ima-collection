@@ -1,34 +1,40 @@
 {
-    "accession_number": "S7880.93.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1907", 
-            "death_date": null, 
-            "name": "Wormley, Edward", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Dunbar Furniture Company", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "after 1957-1963", 
-    "credit_line": "Donation from Mr. and Mrs. Harry Niemiec, courtesy of the Montreal Museum of Decorative Arts", 
-    "cultures": [], 
-    "dimensions": "32 1/2 x 25 x 25 in.", 
-    "dynasty": null, 
-    "irn": 12217, 
-    "materials": "wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "armchair"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "32 1/2 x 25 x 25 in.", 
+  "title": "armchair", 
+  "accession_number": "S7880.93.1", 
+  "credit_line": "Donation from Mr. and Mrs. Harry Niemiec, courtesy of the Montreal Museum of Decorative Arts", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160211, 
+  "creation_date": "after 1957-1963", 
+  "materials": "wood", 
+  "actors": [
+    {
+      "name": "Wormley, Edward", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298997, 
+      "role": "Designer", 
+      "birth_date": "1907", 
+      "nationality": null
+    }, 
+    {
+      "name": "Dunbar Furniture Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299001, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 12217, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

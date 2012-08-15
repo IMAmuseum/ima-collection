@@ -1,34 +1,40 @@
 {
-    "accession_number": "32.138", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1894", 
-            "death_date": "1966", 
-            "name": "Fiene, Ernest", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1894", 
-            "death_date": "1965", 
-            "name": "Miller, George Charles", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1928", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": "15 7/8 x 11 3/8 in. (sheet)\n13 3/4 x 15 in. (image)", 
-    "dynasty": null, 
-    "irn": 16248, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "White Roses"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "15 7/8 x 11 3/8 in. (sheet)\n13 3/4 x 15 in. (image)", 
+  "title": "White Roses", 
+  "accession_number": "32.138", 
+  "credit_line": "Gift of the Gamboliers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170183, 
+  "creation_date": "1928", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Fiene, Ernest", 
+      "after_follower": null, 
+      "death_date": "1966", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296621, 
+      "role": "Artist", 
+      "birth_date": "1894", 
+      "nationality": null
+    }, 
+    {
+      "name": "Miller, George Charles", 
+      "after_follower": null, 
+      "death_date": "1965", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300127, 
+      "role": "Printer", 
+      "birth_date": "1894", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16248, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

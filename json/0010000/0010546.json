@@ -1,26 +1,30 @@
 {
-    "accession_number": "1986.308", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1887", 
-    "credit_line": "Gift of the Heirs of T. C. Steele", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10546, 
-    "materials": "pencil on gray-green paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Indiana Sketchbook"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Indiana Sketchbook", 
+  "accession_number": "1986.308", 
+  "credit_line": "Gift of the Heirs of T. C. Steele", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156327, 
+  "creation_date": "about 1887", 
+  "materials": "pencil on gray-green paper", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10546, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

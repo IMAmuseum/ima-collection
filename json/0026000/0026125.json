@@ -1,34 +1,40 @@
 {
-    "accession_number": "72.50.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1537", 
-            "death_date": "1612", 
-            "name": "Galle, Philip", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1566", 
-            "death_date": "1628", 
-            "name": "Collaert, Hans, the younger", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1600", 
-    "credit_line": "Given in memory of Harry B. Morris", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26125, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Forge of Vulcan"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Given in memory of Harry B. Morris", 
+  "accession_number": "72.50.1", 
+  "title": "The Forge of Vulcan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18206961, 
+  "creation_date": "about 1600", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Galle, Philip", 
+      "after_follower": null, 
+      "death_date": "1612", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302197, 
+      "role": "Artist", 
+      "birth_date": "1537", 
+      "nationality": null
+    }, 
+    {
+      "name": "Collaert, Hans, the younger", 
+      "after_follower": null, 
+      "death_date": "1628", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302199, 
+      "role": "Engraver", 
+      "birth_date": "1566", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26125, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

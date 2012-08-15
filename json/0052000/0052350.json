@@ -1,33 +1,37 @@
 {
-    "accession_number": "57.19", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th Century", 
-    "credit_line": "William L. O'Connor Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 52350, 
-    "materials": "color wood block print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Takenouchi Magohachi"
-        }, 
-        {
-            "name": null
-        }
-    ], 
-    "rights": null, 
-    "title": "Mishima"
+  "publishers": [
+    {
+      "name": "Takenouchi Magohachi"
+    }, 
+    {
+      "name": null
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "William L. O'Connor Fund", 
+  "accession_number": "57.19", 
+  "title": "Mishima", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18266933, 
+  "creation_date": "19th Century", 
+  "materials": "color wood block print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 52350, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "55.226", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1798", 
-            "death_date": "1863", 
-            "name": "Delacroix, Eugene", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bertauts", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1844", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "12 1/4 x 16 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 16435, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lion Devouring a Horse"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "12 1/4 x 16 3/4 in. (sheet)", 
+  "title": "Lion Devouring a Horse", 
+  "accession_number": "55.226", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170637, 
+  "creation_date": "1844", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Delacroix, Eugene", 
+      "after_follower": null, 
+      "death_date": "1863", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295489, 
+      "role": "Artist", 
+      "birth_date": "1798", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bertauts", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300173, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 16435, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

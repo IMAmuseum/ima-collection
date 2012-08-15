@@ -1,34 +1,40 @@
 {
-    "accession_number": "08.56", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "bef 1590", 
-            "death_date": "1667", 
-            "name": "Lasne, Michel", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1602", 
-            "death_date": "1676", 
-            "name": "Bosse, Abraham", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16417, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Soldier and Drum"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Soldier and Drum", 
+  "accession_number": "08.56", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170597, 
+  "creation_date": "17th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lasne, Michel", 
+      "after_follower": null, 
+      "death_date": "1667", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300165, 
+      "role": "Artist", 
+      "birth_date": "bef 1590", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bosse, Abraham", 
+      "after_follower": null, 
+      "death_date": "1676", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296179, 
+      "role": "Artist", 
+      "birth_date": "1602", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16417, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

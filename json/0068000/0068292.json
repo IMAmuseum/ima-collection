@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.550.1-.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1968", 
-            "death_date": null, 
-            "name": "Tord Boontje", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Authentics GmbH", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2004", 
-    "credit_line": "Gift of Authentics GmbH", 
-    "cultures": [], 
-    "dimensions": "various dimensions", 
-    "dynasty": null, 
-    "irn": 68292, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Tord Boontje", 
-    "title": "Table Stories dinnerware"
+  "publishers": [], 
+  "dimensions": "various dimensions", 
+  "rights": "\u00a9 Tord Boontje", 
+  "credit_line": "Gift of Authentics GmbH", 
+  "accession_number": "2009.550.1-.11", 
+  "title": "Table Stories dinnerware", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283321, 
+  "creation_date": "2004", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Tord Boontje", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306823, 
+      "role": "Designer", 
+      "birth_date": "1968", 
+      "nationality": null
+    }, 
+    {
+      "name": "Authentics GmbH", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307835, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68292, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

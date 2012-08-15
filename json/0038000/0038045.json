@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.825.109", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1784", 
-            "death_date": "1849", 
-            "name": "De Wint, Peter", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1839", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38045, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "View of Oxford from the Castle Mount"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.109", 
+  "title": "View of Oxford from the Castle Mount", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235085, 
+  "creation_date": "1839", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "De Wint, Peter", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304223, 
+      "role": "Artist", 
+      "birth_date": "1784", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38045, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1991.45", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1906", 
-            "death_date": "1965", 
-            "name": "Smith, David", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1928", 
-    "credit_line": "Carl H. Lieber Memorial Fund and Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "10 x 9 5/8 in. (image)", 
-    "dynasty": null, 
-    "irn": 26453, 
-    "materials": "linocut", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of David Smith/Licensed by VAGA, New York, NY", 
-    "title": "Market - New York City"
+  "publishers": [], 
+  "dimensions": "10 x 9 5/8 in. (image)", 
+  "rights": "\u00a9 Estate of David Smith/Licensed by VAGA, New York, NY", 
+  "credit_line": "Carl H. Lieber Memorial Fund and Emma Harter Sweetser Fund", 
+  "accession_number": "1991.45", 
+  "title": "Market - New York City", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18207727, 
+  "creation_date": "1928", 
+  "materials": "linocut", 
+  "actors": [
+    {
+      "name": "Smith, David", 
+      "after_follower": null, 
+      "death_date": "1965", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296853, 
+      "role": "Artist", 
+      "birth_date": "1906", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26453, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

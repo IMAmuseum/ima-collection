@@ -1,34 +1,40 @@
 {
-    "accession_number": "1997.143", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1896", 
-            "name": "Morris, William", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": null, 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1877-1878", 
-    "credit_line": "Bequest of Mrs. Cornelius O. Alig by exchange", 
-    "cultures": [], 
-    "dimensions": "86 1/2 x 51 in.", 
-    "dynasty": null, 
-    "irn": 11095, 
-    "materials": "wool", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "furnishing fabric; \"Bird\""
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "86 1/2 x 51 in.", 
+  "title": "furnishing fabric; \"Bird\"", 
+  "accession_number": "1997.143", 
+  "credit_line": "Bequest of Mrs. Cornelius O. Alig by exchange", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157665, 
+  "creation_date": "1877-1878", 
+  "materials": "wool", 
+  "actors": [
+    {
+      "name": "Morris, William", 
+      "after_follower": null, 
+      "death_date": "1896", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296011, 
+      "role": "Designer", 
+      "birth_date": "1834", 
+      "nationality": null
+    }, 
+    {
+      "name": null, 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295437, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 11095, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

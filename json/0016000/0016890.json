@@ -1,26 +1,30 @@
 {
-    "accession_number": "66.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1891", 
-            "death_date": "1915", 
-            "name": "Gaudier-Brzeska, Henri", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "late 19th century - early 20th century", 
-    "credit_line": "Gift of James Ede, Esq.", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16890, 
-    "materials": "pencil on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Head of Man with Hat"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of James Ede, Esq.", 
+  "accession_number": "66.10", 
+  "title": "Head of Man with Hat", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171761, 
+  "creation_date": "late 19th century - early 20th century", 
+  "materials": "pencil on white paper", 
+  "actors": [
+    {
+      "name": "Gaudier-Brzeska, Henri", 
+      "after_follower": null, 
+      "death_date": "1915", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300309, 
+      "role": "Artist", 
+      "birth_date": "1891", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16890, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

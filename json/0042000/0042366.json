@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1984", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1857", 
-            "death_date": "1945", 
-            "name": "Short, Frank", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1903", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 42366, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hogsthorpe Church, Lincolnshire"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1984", 
+  "title": "Hogsthorpe Church, Lincolnshire", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18247169, 
+  "creation_date": "1903", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Short, Frank", 
+      "after_follower": null, 
+      "death_date": "1945", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299833, 
+      "role": "Artist", 
+      "birth_date": "1857", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42366, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.120", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1919", 
-            "death_date": null, 
-            "name": "Soulages, Pierre", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Bequest of Clarence O. Hamilton", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12321, 
-    "materials": "color etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "untitled"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": null, 
+  "title": "untitled", 
+  "accession_number": "82.120", 
+  "credit_line": "Bequest of Clarence O. Hamilton", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160423, 
+  "creation_date": "20th century", 
+  "materials": "color etching", 
+  "actors": [
+    {
+      "name": "Soulages, Pierre", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299025, 
+      "role": "Artist", 
+      "birth_date": "1919", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12321, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "TR10965/5", 
-    "actors": [
-        {
-            "after_follower": "Attributed to", 
-            "birth_date": "1836", 
-            "death_date": "1910", 
-            "name": "Homer, Winslow", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "7 11/16 x 6 1/2 in.", 
-    "dynasty": null, 
-    "irn": 67584, 
-    "materials": "gouache and graphite", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "In the Field"
+  "publishers": [], 
+  "dimensions": "7 11/16 x 6 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "accession_number": "TR10965/5", 
+  "title": "In the Field", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282853, 
+  "creation_date": null, 
+  "materials": "gouache and graphite", 
+  "actors": [
+    {
+      "name": "Homer, Winslow", 
+      "after_follower": "Attributed to", 
+      "death_date": "1910", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300259, 
+      "role": "Artist", 
+      "birth_date": "1836", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67584, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

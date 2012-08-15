@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.269", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": "2006", 
-            "name": "Sarpaneva, Timo", 
-            "nationality": "Finnish", 
-            "role": "designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Iittala", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1956", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "13 x 4 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 69905, 
-    "materials": "glass vase", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Orchid Vase"
+  "publishers": [], 
+  "dimensions": "13 x 4 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.269", 
+  "title": "Orchid Vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18285811, 
+  "creation_date": "1956", 
+  "materials": "glass vase", 
+  "actors": [
+    {
+      "name": "Sarpaneva, Timo", 
+      "after_follower": null, 
+      "death_date": "2006", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295459, 
+      "role": "designer", 
+      "birth_date": "1926", 
+      "nationality": "Finnish"
+    }, 
+    {
+      "name": "Iittala", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306847, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69905, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

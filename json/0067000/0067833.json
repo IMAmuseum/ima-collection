@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.50", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1946", 
-            "death_date": null, 
-            "name": "Dubuisson, Sylvain", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "TPU Industrie", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2009 (designed 1987)", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art, Frank Curtis Springer & Irving Moxley Springer Purchase Fund, The Ballard Fund,  Jane Weldon Myers Acquisition Fund, Lucille Stewart Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "31 7/8 \u00d7 13 \u00d7 16 5/8 in.", 
-    "dynasty": null, 
-    "irn": 67833, 
-    "materials": "aluminum and leather", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Sylvain Dubuisson", 
-    "title": "L' Aube et le temps qu'elle dure side chair"
+  "publishers": [], 
+  "dimensions": "31 7/8 \u00d7 13 \u00d7 16 5/8 in.", 
+  "rights": "\u00a9 Sylvain Dubuisson", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art, Frank Curtis Springer & Irving Moxley Springer Purchase Fund, The Ballard Fund,  Jane Weldon Myers Acquisition Fund, Lucille Stewart Endowed Art Fund", 
+  "accession_number": "2010.50", 
+  "title": "L' Aube et le temps qu'elle dure side chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283069, 
+  "creation_date": "2009 (designed 1987)", 
+  "materials": "aluminum and leather", 
+  "actors": [
+    {
+      "name": "Dubuisson, Sylvain", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306901, 
+      "role": "Designer", 
+      "birth_date": "1946", 
+      "nationality": null
+    }, 
+    {
+      "name": "TPU Industrie", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307755, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67833, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

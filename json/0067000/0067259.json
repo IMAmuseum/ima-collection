@@ -1,34 +1,38 @@
 {
-    "accession_number": "2008.820", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1920", 
-            "death_date": "2011", 
-            "name": "Tooker, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1984", 
-    "credit_line": "Gift of Joan and Walter Wolf", 
-    "cultures": [], 
-    "dimensions": "8 5/8 x 7 7/8 in. (image)\n18 x 14 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 67259, 
-    "materials": "lithograph on Rives BFK white wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "George C. Miller & Son"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Imago Imprint"
-        }
-    ], 
-    "rights": "\u00a9 George Tooker", 
-    "title": "Self-Portrait I"
+  "publishers": [
+    {
+      "name": "Imago Imprint"
+    }
+  ], 
+  "dimensions": "8 5/8 x 7 7/8 in. (image)\n18 x 14 in. (sheet)", 
+  "rights": "\u00a9 George Tooker", 
+  "credit_line": "Gift of Joan and Walter Wolf", 
+  "accession_number": "2008.820", 
+  "title": "Self-Portrait I", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282559, 
+  "creation_date": "1984", 
+  "materials": "lithograph on Rives BFK white wove paper", 
+  "actors": [
+    {
+      "name": "Tooker, George", 
+      "after_follower": null, 
+      "death_date": "2011", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300845, 
+      "role": "Artist", 
+      "birth_date": "1920", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67259, 
+  "printers": [
+    {
+      "name": "George C. Miller & Son"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

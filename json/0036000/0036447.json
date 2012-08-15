@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.353", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1877", 
-            "death_date": "1960", 
-            "name": "Flagg, James Montgomery", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1917", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36447, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "I Want You for the U.S. Army"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "80.353", 
+  "title": "I Want You for the U.S. Army", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230977, 
+  "creation_date": "1917", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Flagg, James Montgomery", 
+      "after_follower": null, 
+      "death_date": "1960", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296123, 
+      "role": "Artist", 
+      "birth_date": "1877", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36447, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

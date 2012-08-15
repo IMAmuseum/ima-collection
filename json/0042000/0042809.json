@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.792", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1857", 
-            "death_date": "1945", 
-            "name": "Short, Frank", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1920", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "12 1/8 x 17 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 42809, 
-    "materials": "mezzotint on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Moonlight on the Medway at Chatham"
+  "publishers": [], 
+  "dimensions": "12 1/8 x 17 1/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.792", 
+  "title": "Moonlight on the Medway at Chatham", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18248379, 
+  "creation_date": "1920", 
+  "materials": "mezzotint on plain paper", 
+  "actors": [
+    {
+      "name": "Short, Frank", 
+      "after_follower": null, 
+      "death_date": "1945", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299833, 
+      "role": "Engraver", 
+      "birth_date": "1857", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42809, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "21.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1884-1884", 
-    "credit_line": "Gift of Mr. and Mrs. Alpheus Snow in memory of Mr. and Mrs. John M. Butler", 
-    "cultures": [], 
-    "dimensions": "20 x 16 1/8 in. \n30 x  29 x 3 1/4 in. (framed)", 
-    "dynasty": null, 
-    "irn": 17119, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Munich Girl"
+  "publishers": [], 
+  "dimensions": "20 x 16 1/8 in. \n30 x  29 x 3 1/4 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Alpheus Snow in memory of Mr. and Mrs. John M. Butler", 
+  "accession_number": "21.11", 
+  "title": "Munich Girl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18172461, 
+  "creation_date": "1884-1884", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17119, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

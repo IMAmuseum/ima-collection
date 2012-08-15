@@ -1,38 +1,44 @@
 {
-    "accession_number": "2004.101", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": null, 
-            "name": "Cage, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Paulson, Pamela T.", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1989", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": "18 x 22 7/8 in. (image and sheet)", 
-    "dynasty": null, 
-    "irn": 62127, 
-    "materials": "color spit bite and sugar lift aquatint on smoked Somerset white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Crown Point Press"
-        }
-    ], 
-    "rights": "\u00a9 John Cage Trust", 
-    "title": "11 Stones 2"
+  "publishers": [
+    {
+      "name": "Crown Point Press"
+    }
+  ], 
+  "dimensions": "18 x 22 7/8 in. (image and sheet)", 
+  "rights": "\u00a9 John Cage Trust", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2004.101", 
+  "title": "11 Stones 2", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277475, 
+  "creation_date": "1989", 
+  "materials": "color spit bite and sugar lift aquatint on smoked Somerset white paper", 
+  "actors": [
+    {
+      "name": "Cage, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298503, 
+      "role": "Artist", 
+      "birth_date": "1912", 
+      "nationality": null
+    }, 
+    {
+      "name": "Paulson, Pamela T.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306309, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62127, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

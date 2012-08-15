@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.2010.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775-1802", 
-            "death_date": "1775-1802", 
-            "name": "Girtin, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Stadler, Joseph Constantine", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1802", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 56045, 
-    "materials": "soft-ground etchings and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "View from the Palace Terrace at St. Germain the Aquaduct of Marli seen in the distance"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.2010.16", 
+  "title": "View from the Palace Terrace at St. Germain the Aquaduct of Marli seen in the distance", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18273525, 
+  "creation_date": "1802", 
+  "materials": "soft-ground etchings and aquatint", 
+  "actors": [
+    {
+      "name": "Girtin, Thomas", 
+      "after_follower": null, 
+      "death_date": "1775-1802", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297187, 
+      "role": "Artist", 
+      "birth_date": "1775-1802", 
+      "nationality": null
+    }, 
+    {
+      "name": "Stadler, Joseph Constantine", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305695, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 56045, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

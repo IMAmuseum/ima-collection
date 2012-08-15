@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.29", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1917", 
-            "death_date": "2007", 
-            "name": "Sottsass, Ettore", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bitossi Ceramiche S.R.L.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "Designed 1959", 
-    "credit_line": "The Liliane and David M. Stewart Collection, Gift of Dr. Michael Sze", 
-    "cultures": [], 
-    "dimensions": "18 3/4 x 6 3/4 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 67101, 
-    "materials": "glazed earthenware", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ettore Sottsass", 
-    "title": "vase"
+  "publishers": [], 
+  "dimensions": "18 3/4 x 6 3/4 (diam.) in.", 
+  "rights": "\u00a9 Ettore Sottsass", 
+  "credit_line": "The Liliane and David M. Stewart Collection, Gift of Dr. Michael Sze", 
+  "accession_number": "2009.29", 
+  "title": "vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282273, 
+  "creation_date": "Designed 1959", 
+  "materials": "glazed earthenware", 
+  "actors": [
+    {
+      "name": "Sottsass, Ettore", 
+      "after_follower": null, 
+      "death_date": "2007", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304001, 
+      "role": "Designer", 
+      "birth_date": "1917", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bitossi Ceramiche S.R.L.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307593, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67101, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

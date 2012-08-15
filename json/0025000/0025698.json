@@ -1,26 +1,30 @@
 {
-    "accession_number": "27.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1949", 
-            "name": "Boutet de Monvel, Bernard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1924", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "32 1/2 x 32 3/4 in.", 
-    "dynasty": null, 
-    "irn": 25698, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fez, Seven O'clock"
+  "publishers": [], 
+  "dimensions": "32 1/2 x 32 3/4 in.", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "27.9", 
+  "title": "Fez, Seven O'clock", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205955, 
+  "creation_date": "about 1924", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Boutet de Monvel, Bernard", 
+      "after_follower": null, 
+      "death_date": "1949", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296787, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25698, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

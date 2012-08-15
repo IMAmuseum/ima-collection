@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.979", 
-    "actors": [
-        {
-            "after_follower": "After", 
-            "birth_date": "1697", 
-            "death_date": "1764", 
-            "name": "Hogarth, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1745", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": "13 3/4 x 17 1/2 in. (image)\n17 1/8 x 21 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 18659, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Contract: Marriage \u00e1 la Mode, Plate 1"
+  "publishers": [], 
+  "dimensions": "13 3/4 x 17 1/2 in. (image)\n17 1/8 x 21 1/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of William George Sullivan", 
+  "accession_number": "30.979", 
+  "title": "The Contract: Marriage \u00e1 la Mode, Plate 1", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18189763, 
+  "creation_date": "1745", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Hogarth, William", 
+      "after_follower": "After", 
+      "death_date": "1764", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294939, 
+      "role": "Artist", 
+      "birth_date": "1697", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18659, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

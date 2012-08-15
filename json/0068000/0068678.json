@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.61A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": null, 
-            "name": "Meier, Richard", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Reed & Barton", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1991-1992", 
-    "credit_line": "Gift of Jewel Stern", 
-    "cultures": [], 
-    "dimensions": "L: 9 7/8 in.", 
-    "dynasty": null, 
-    "irn": 68678, 
-    "materials": "stainless steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Richard Meier", 
-    "title": "fork for Swid Powell serving set"
+  "publishers": [], 
+  "dimensions": "L: 9 7/8 in.", 
+  "rights": "\u00a9 Richard Meier", 
+  "credit_line": "Gift of Jewel Stern", 
+  "accession_number": "2010.61A", 
+  "title": "fork for Swid Powell serving set", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283585, 
+  "creation_date": "1991-1992", 
+  "materials": "stainless steel", 
+  "actors": [
+    {
+      "name": "Meier, Richard", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296511, 
+      "role": "Designer", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Reed & Barton", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307889, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68678, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

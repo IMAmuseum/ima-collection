@@ -1,26 +1,30 @@
 {
-    "accession_number": "1998.207", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1868", 
-            "death_date": "1941", 
-            "name": "Bernard, Emile", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1892", 
-    "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36731, 
-    "materials": "zincograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
-    "title": "La Fileuse (The Spinner)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
+  "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
+  "accession_number": "1998.207", 
+  "title": "La Fileuse (The Spinner)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231655, 
+  "creation_date": "1892", 
+  "materials": "zincograph", 
+  "actors": [
+    {
+      "name": "Bernard, Emile", 
+      "after_follower": null, 
+      "death_date": "1941", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297853, 
+      "role": "Artist", 
+      "birth_date": "1868", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36731, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

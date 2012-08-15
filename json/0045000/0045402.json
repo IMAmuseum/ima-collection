@@ -1,26 +1,30 @@
 {
-    "accession_number": "42.30B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1607", 
-            "death_date": "1677", 
-            "name": "Hollar, Wenceslaus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1643", 
-    "credit_line": "Gift of Mr. Charles Kryter", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 45402, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Noble English Woman"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. Charles Kryter", 
+  "accession_number": "42.30B", 
+  "title": "Noble English Woman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254299, 
+  "creation_date": "1643", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Hollar, Wenceslaus", 
+      "after_follower": null, 
+      "death_date": "1677", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297497, 
+      "role": "Artist", 
+      "birth_date": "1607", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45402, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

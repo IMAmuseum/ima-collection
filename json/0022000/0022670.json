@@ -1,34 +1,40 @@
 {
-    "accession_number": "1991.225", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1921", 
-            "death_date": "2002", 
-            "name": "Stanislav Libensky", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1924", 
-            "death_date": null, 
-            "name": "Jaroslava Brychtov\u00e1", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1986", 
-    "credit_line": "Gift from the Collection of Marilyn and Eugene Glick", 
-    "cultures": [], 
-    "dimensions": "21 x 11 1/4 x 8 in.", 
-    "dynasty": null, 
-    "irn": 22670, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Head VI"
+  "publishers": [], 
+  "dimensions": "21 x 11 1/4 x 8 in.", 
+  "rights": null, 
+  "credit_line": "Gift from the Collection of Marilyn and Eugene Glick", 
+  "accession_number": "1991.225", 
+  "title": "Head VI", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18198919, 
+  "creation_date": "1986", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Stanislav Libensky", 
+      "after_follower": null, 
+      "death_date": "2002", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301445, 
+      "role": "Artist", 
+      "birth_date": "1921", 
+      "nationality": null
+    }, 
+    {
+      "name": "Jaroslava Brychtov\u00e1", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301447, 
+      "role": "Artist", 
+      "birth_date": "1924", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22670, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

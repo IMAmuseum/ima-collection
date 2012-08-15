@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.323", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1783-1852", 
-            "death_date": "1783-1852", 
-            "name": "Prout, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Presented by the H. Lieber Company", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20675, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "On the Walls, Cologne"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Presented by the H. Lieber Company", 
+  "accession_number": "13.323", 
+  "title": "On the Walls, Cologne", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194413, 
+  "creation_date": "19th century", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Prout, Samuel", 
+      "after_follower": null, 
+      "death_date": "1783-1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295339, 
+      "role": "Artist", 
+      "birth_date": "1783-1852", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20675, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

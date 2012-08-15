@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.250C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Derby Porcelain Factory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1820-1848", 
-    "credit_line": "Gift of Mrs. E. Vernon Hahn", 
-    "cultures": [], 
-    "dimensions": "H: 9 in.", 
-    "dynasty": null, 
-    "irn": 11064, 
-    "materials": "porcelain", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase (one of a set of three)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 9 in.", 
+  "title": "vase (one of a set of three)", 
+  "accession_number": "60.250C", 
+  "credit_line": "Gift of Mrs. E. Vernon Hahn", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157581, 
+  "creation_date": "1820-1848", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Derby Porcelain Factory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296549, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 11064, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "12.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bayes, Alfred Walter", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th Century/LATE", 
-    "credit_line": "Gift of Miss Helen Tincker", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2186, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Cock and Magpie, Drury Lane"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Cock and Magpie, Drury Lane", 
+  "accession_number": "12.2", 
+  "credit_line": "Gift of Miss Helen Tincker", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136505, 
+  "creation_date": "19th Century/LATE", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Bayes, Alfred Walter", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295859, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 2186, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

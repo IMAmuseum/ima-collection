@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.453.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1957", 
-            "death_date": null, 
-            "name": "Ann W\u00e5hlstr\u00f6m", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kosta Boda", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1999", 
-    "credit_line": "Anonymous Endowed Decorative Art Fund", 
-    "cultures": [], 
-    "dimensions": "21 1/4 x 8 1/2 in.", 
-    "dynasty": null, 
-    "irn": 67329, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ann W\u00e5hlstr\u00f6m", 
-    "title": "Soap Bubble vase (large grey)"
+  "publishers": [], 
+  "dimensions": "21 1/4 x 8 1/2 in.", 
+  "rights": "\u00a9 Ann W\u00e5hlstr\u00f6m", 
+  "credit_line": "Anonymous Endowed Decorative Art Fund", 
+  "accession_number": "2009.453.3", 
+  "title": "Soap Bubble vase (large grey)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282693, 
+  "creation_date": "1999", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Ann W\u00e5hlstr\u00f6m", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307181, 
+      "role": "Designer", 
+      "birth_date": "1957", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kosta Boda", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307185, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67329, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

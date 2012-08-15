@@ -1,26 +1,30 @@
 {
-    "accession_number": "1997.154", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Boucher, Alfred", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1886", 
-    "credit_line": "Gift in memory of John J. Weldon", 
-    "cultures": [], 
-    "dimensions": "H: 20 in., L: 27 in., W: 14 in.", 
-    "dynasty": null, 
-    "irn": 921, 
-    "materials": "Marble Base", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Au But! (To the Goal!)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 20 in., L: 27 in., W: 14 in.", 
+  "title": "Au But! (To the Goal!)", 
+  "accession_number": "1997.154", 
+  "credit_line": "Gift in memory of John J. Weldon", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133425, 
+  "creation_date": "1886", 
+  "materials": "Marble Base", 
+  "actors": [
+    {
+      "name": "Boucher, Alfred", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295273, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 921, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

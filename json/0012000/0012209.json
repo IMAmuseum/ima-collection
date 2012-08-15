@@ -1,26 +1,30 @@
 {
-    "accession_number": "S1200.76.41", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Marshall Field's", 
-            "nationality": null, 
-            "role": "Retailer"
-        }
-    ], 
-    "creation_date": "1933-34", 
-    "credit_line": "Gift of Mrs. William H. Ball", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12209, 
-    "materials": "silk and metallic thread on cut velvet", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "purse"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "purse", 
+  "accession_number": "S1200.76.41", 
+  "credit_line": "Gift of Mrs. William H. Ball", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160195, 
+  "creation_date": "1933-34", 
+  "materials": "silk and metallic thread on cut velvet", 
+  "actors": [
+    {
+      "name": "Marshall Field's", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296931, 
+      "role": "Retailer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 12209, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

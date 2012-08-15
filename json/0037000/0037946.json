@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.825.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1653", 
-            "death_date": "1727", 
-            "name": "Burghers, Michael", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1684", 
-            "death_date": "1756", 
-            "name": "Vertue, George", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1724", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37946, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Founders and Benefactors of Christ Church"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.9", 
+  "title": "Founders and Benefactors of Christ Church", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234797, 
+  "creation_date": "1724", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Burghers, Michael", 
+      "after_follower": null, 
+      "death_date": "1727", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304189, 
+      "role": "Artist", 
+      "birth_date": "1653", 
+      "nationality": null
+    }, 
+    {
+      "name": "Vertue, George", 
+      "after_follower": null, 
+      "death_date": "1756", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304191, 
+      "role": "Engraver", 
+      "birth_date": "1684", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37946, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

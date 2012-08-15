@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.170", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1817-1821", 
-            "death_date": "1863-1867", 
-            "name": "Konishi Hirosada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1848", 
-    "credit_line": "Purchased with funds provided by a Friend of the Museum", 
-    "cultures": [], 
-    "dimensions": "9 7/16 x 16 9/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 61472, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Inuzuka Shino"
+  "publishers": [], 
+  "dimensions": "9 7/16 x 16 9/16 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Purchased with funds provided by a Friend of the Museum", 
+  "accession_number": "2003.170", 
+  "title": "Inuzuka Shino", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18276955, 
+  "creation_date": "1848", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Konishi Hirosada", 
+      "after_follower": null, 
+      "death_date": "1863-1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305939, 
+      "role": "Artist", 
+      "birth_date": "1817-1821", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61472, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

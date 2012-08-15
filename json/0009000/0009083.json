@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.2.49", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1736", 
-            "death_date": "1782", 
-            "name": "Boucher, Juste-Nathan", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1748", 
-            "death_date": "1819", 
-            "name": "Berthault, Pierre Gabriel", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1775", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "7 1/2 X 11 5/8 in. (image)\n9 1/2 X 13 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9083, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Breakfast tables"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "7 1/2 X 11 5/8 in. (image)\n9 1/2 X 13 3/8 in. (sheet)", 
+  "title": "Breakfast tables", 
+  "accession_number": "73.2.49", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152835, 
+  "creation_date": "about 1775", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Boucher, Juste-Nathan", 
+      "after_follower": null, 
+      "death_date": "1782", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298213, 
+      "role": "Artist", 
+      "birth_date": "1736", 
+      "nationality": null
+    }, 
+    {
+      "name": "Berthault, Pierre Gabriel", 
+      "after_follower": null, 
+      "death_date": "1819", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298221, 
+      "role": "Engraver", 
+      "birth_date": "1748", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9083, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

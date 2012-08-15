@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.356", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1959", 
-            "death_date": null, 
-            "name": "Morrison, Jasper", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Cappellini Design SpA", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1990", 
-    "credit_line": "Gift of Cappellini", 
-    "cultures": [], 
-    "dimensions": "28 x 57 1/4 x 15 3/4 in.", 
-    "dynasty": null, 
-    "irn": 64760, 
-    "materials": "plywood and aluminum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jasper Morrison", 
-    "title": "Universal cabinet"
+  "publishers": [], 
+  "dimensions": "28 x 57 1/4 x 15 3/4 in.", 
+  "rights": "\u00a9 Jasper Morrison", 
+  "credit_line": "Gift of Cappellini", 
+  "accession_number": "2009.356", 
+  "title": "Universal cabinet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279283, 
+  "creation_date": "1990", 
+  "materials": "plywood and aluminum", 
+  "actors": [
+    {
+      "name": "Morrison, Jasper", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307081, 
+      "role": "Designer", 
+      "birth_date": "1959", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cappellini Design SpA", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306803, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64760, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.193", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1870", 
-            "death_date": "1931", 
-            "name": "Overbeck, Hannah Borger", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1910-1915", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60175, 
-    "materials": "pen, ink and watercolor on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rue Anmone"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2002.193", 
+  "title": "Rue Anmone", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276401, 
+  "creation_date": "1910-1915", 
+  "materials": "pen, ink and watercolor on off-white paper", 
+  "actors": [
+    {
+      "name": "Overbeck, Hannah Borger", 
+      "after_follower": null, 
+      "death_date": "1931", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305853, 
+      "role": "Artist", 
+      "birth_date": "1870", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60175, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1999", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1745", 
-            "death_date": "1812", 
-            "name": "Jukes, Francis", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": "After", 
-            "birth_date": "1763", 
-            "death_date": "1804", 
-            "name": "Dayes, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1797", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "12 1/4 x 16 7/8 in (image) \n17 1/2 x 20 7/8 in (sheet)", 
-    "dynasty": null, 
-    "irn": 46271, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Goodrich Castle on the River Wye"
+  "publishers": [], 
+  "dimensions": "12 1/4 x 16 7/8 in (image) \n17 1/2 x 20 7/8 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1999", 
+  "title": "Goodrich Castle on the River Wye", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18256183, 
+  "creation_date": "1797", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Jukes, Francis", 
+      "after_follower": null, 
+      "death_date": "1812", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300757, 
+      "role": "Artist", 
+      "birth_date": "1745", 
+      "nationality": null
+    }, 
+    {
+      "name": "Dayes, Edward", 
+      "after_follower": "After", 
+      "death_date": "1804", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302409, 
+      "role": "Artist", 
+      "birth_date": "1763", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46271, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

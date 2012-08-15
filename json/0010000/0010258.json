@@ -1,26 +1,30 @@
 {
-    "accession_number": "03.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Martelli, S.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th Century", 
-    "credit_line": "Presented by Miss Newcomer", 
-    "cultures": [], 
-    "dimensions": "19 1/4 x 14 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 10258, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "St. Agnes"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "19 1/4 x 14 in. (sheet)", 
+  "title": "St. Agnes", 
+  "accession_number": "03.11", 
+  "credit_line": "Presented by Miss Newcomer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155669, 
+  "creation_date": "19th Century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Martelli, S.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298587, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 10258, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

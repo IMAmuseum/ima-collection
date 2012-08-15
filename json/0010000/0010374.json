@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.393", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1971", 
-            "name": "Kent, Rockwell", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "Gift of Richard K. Larcada", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10374, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "By permission of Plattsburgh State Art Museum, Rockwell Kent Gallery and Collection", 
-    "title": "Untitled"
+  "publishers": [], 
+  "rights": "By permission of Plattsburgh State Art Museum, Rockwell Kent Gallery and Collection", 
+  "dimensions": null, 
+  "title": "Untitled", 
+  "accession_number": "79.393", 
+  "credit_line": "Gift of Richard K. Larcada", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155937, 
+  "creation_date": "20th century", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "Kent, Rockwell", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296097, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10374, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

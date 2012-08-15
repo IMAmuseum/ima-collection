@@ -1,38 +1,44 @@
 {
-    "accession_number": "LH2003.41A-J", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Francis Beaumont", 
-            "nationality": null, 
-            "role": "Author"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "John Fletcher", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1905-1912", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "7 3/4 x 6 in. (each)", 
-    "dynasty": null, 
-    "irn": 61859, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Cambridge University Press"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Works of Francis Beaumont and John Fletcher (volumes 1-10)"
+  "publishers": [
+    {
+      "name": "Cambridge University Press"
+    }
+  ], 
+  "dimensions": "7 3/4 x 6 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.41A-J", 
+  "title": "The Works of Francis Beaumont and John Fletcher (volumes 1-10)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277339, 
+  "creation_date": "1905-1912", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Francis Beaumont", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306197, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "John Fletcher", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306199, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61859, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2012.7A-D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "frogdesign", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Apple Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1985", 
-    "credit_line": "Gift of Marcia Oddi", 
-    "cultures": [], 
-    "dimensions": "A) computer: 13 9/16 x 9 5/8 x 10 1/2 in.\nB) keyboard: 2 1/16 x 13 1/4 x 5 3/4 in.\nC) mouse: 3 3/4 x 2 3/8 x 1 1/2 in.\nD) carrying case: H: 13 1/2 in.", 
-    "dynasty": null, 
-    "irn": 65049, 
-    "materials": "plastic, electrical wire, and fabric carrying case", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Macintosh Plus computer with carrying case"
+  "publishers": [], 
+  "dimensions": "A) computer: 13 9/16 x 9 5/8 x 10 1/2 in.\nB) keyboard: 2 1/16 x 13 1/4 x 5 3/4 in.\nC) mouse: 3 3/4 x 2 3/8 x 1 1/2 in.\nD) carrying case: H: 13 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Marcia Oddi", 
+  "accession_number": "2012.7A-D", 
+  "title": "Macintosh Plus computer with carrying case", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279617, 
+  "creation_date": "1985", 
+  "materials": "plastic, electrical wire, and fabric carrying case", 
+  "actors": [
+    {
+      "name": "frogdesign", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307247, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Apple Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307251, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65049, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

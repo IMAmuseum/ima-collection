@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.5.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1858", 
-            "death_date": "1925", 
-            "name": "Corinth, Lovis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1878", 
-    "credit_line": "Roger G. Wolcott Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 43737, 
-    "materials": "pen and brown ink on off-white paper; (verso) pencil on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Figures Conversing | (verso) Caricatures"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Roger G. Wolcott Fund", 
+  "accession_number": "74.5.20", 
+  "title": "Figures Conversing | (verso) Caricatures", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18250081, 
+  "creation_date": "1878", 
+  "materials": "pen and brown ink on off-white paper; (verso) pencil on off-white paper", 
+  "actors": [
+    {
+      "name": "Corinth, Lovis", 
+      "after_follower": null, 
+      "death_date": "1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295647, 
+      "role": "Artist", 
+      "birth_date": "1858", 
+      "nationality": null
+    }
+  ], 
+  "irn": 43737, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

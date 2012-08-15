@@ -1,38 +1,44 @@
 {
-    "accession_number": "73.2.130", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1751", 
-            "death_date": "1806", 
-            "name": "Sheraton, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1740", 
-            "death_date": "1826", 
-            "name": "Terry, Garnet", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1792", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "7 1/2 X 9 5/8 in. (image)\n8 1/8 X 10 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9319, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Sheraton, Thomas"
-        }
-    ], 
-    "rights": null, 
-    "title": "Cornices, Curtains and Drapery for Drawing Room Windows"
+  "publishers": [
+    {
+      "name": "Sheraton, Thomas"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "7 1/2 X 9 5/8 in. (image)\n8 1/8 X 10 1/2 in. (sheet)", 
+  "title": "Cornices, Curtains and Drapery for Drawing Room Windows", 
+  "accession_number": "73.2.130", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153465, 
+  "creation_date": "1792", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Sheraton, Thomas", 
+      "after_follower": null, 
+      "death_date": "1806", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298301, 
+      "role": "Artist", 
+      "birth_date": "1751", 
+      "nationality": null
+    }, 
+    {
+      "name": "Terry, Garnet", 
+      "after_follower": null, 
+      "death_date": "1826", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298305, 
+      "role": "Engraver", 
+      "birth_date": "1740", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9319, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

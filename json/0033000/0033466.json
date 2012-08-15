@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.169", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1836", 
-            "death_date": "1910", 
-            "name": "Homer, Winslow", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1873", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 33466, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ship Building, Gloucester Harbor"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "73.169", 
+  "title": "Ship Building, Gloucester Harbor", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224137, 
+  "creation_date": "1873", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Homer, Winslow", 
+      "after_follower": null, 
+      "death_date": "1910", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300259, 
+      "role": "Artist", 
+      "birth_date": "1836", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33466, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.71", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1600", 
-            "death_date": "1650", 
-            "name": "Morin, Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 24205, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Honorine de Grimberghe, Contesse de Bossu"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "57.71", 
+  "title": "Portrait of Honorine de Grimberghe, Contesse de Bossu", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18202537, 
+  "creation_date": "17th century", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Morin, Jean", 
+      "after_follower": null, 
+      "death_date": "1650", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301807, 
+      "role": "Artist", 
+      "birth_date": "1600", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24205, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

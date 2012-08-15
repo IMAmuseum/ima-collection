@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.2.65", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1750", 
-            "death_date": "1818", 
-            "name": "Beauvallet, Pierre-Nicolas", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1765", 
-            "death_date": "1840", 
-            "name": "Normand, Charles", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1820", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "7 1/4 X 12 in. (image)\n11 X 16 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9288, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chimney piece and small furniture"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "7 1/4 X 12 in. (image)\n11 X 16 1/2 in. (sheet)", 
+  "title": "Chimney piece and small furniture", 
+  "accession_number": "73.2.65", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153375, 
+  "creation_date": "1820", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Beauvallet, Pierre-Nicolas", 
+      "after_follower": null, 
+      "death_date": "1818", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298291, 
+      "role": "Artist", 
+      "birth_date": "1750", 
+      "nationality": null
+    }, 
+    {
+      "name": "Normand, Charles", 
+      "after_follower": null, 
+      "death_date": "1840", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298293, 
+      "role": "Artist", 
+      "birth_date": "1765", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9288, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.70.43", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1747", 
-            "death_date": "1823", 
-            "name": "Abraham-Louis Breguet", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1819-1838", 
-    "credit_line": "Bequest of Ruth Allison Lilly", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2985, 
-    "materials": "gold, silver, enamel, diamond arrow on blue glaze", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "watch and key (arrow)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "watch and key (arrow)", 
+  "accession_number": "73.70.43", 
+  "credit_line": "Bequest of Ruth Allison Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138395, 
+  "creation_date": "1819-1838", 
+  "materials": "gold, silver, enamel, diamond arrow on blue glaze", 
+  "actors": [
+    {
+      "name": "Abraham-Louis Breguet", 
+      "after_follower": null, 
+      "death_date": "1823", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296229, 
+      "role": "Artist", 
+      "birth_date": "1747", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2985, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.57A-K", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "George Eliot", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1886-1887", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "9 1/2 x 6 5/16 in. (each)", 
-    "dynasty": null, 
-    "irn": 61875, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Estes & Lauriat"
-        }
-    ], 
-    "rights": null, 
-    "title": "(The Works of) George Eliot"
+  "publishers": [
+    {
+      "name": "Estes & Lauriat"
+    }
+  ], 
+  "dimensions": "9 1/2 x 6 5/16 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.57A-K", 
+  "title": "(The Works of) George Eliot", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277371, 
+  "creation_date": "1886-1887", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "George Eliot", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306249, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61875, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

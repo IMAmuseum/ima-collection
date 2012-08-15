@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.93", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "25-220", 
-    "credit_line": "Gift of Mr. and Mrs. Charles B. Miller", 
-    "cultures": [], 
-    "dimensions": "H: 8  11 3/4", 
-    "dynasty": "Eastern Han dynasty", 
-    "irn": 2290, 
-    "materials": "stoneware with brown glaze", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "model of a stove"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 8  11 3/4", 
+  "title": "model of a stove", 
+  "accession_number": "79.93", 
+  "credit_line": "Gift of Mr. and Mrs. Charles B. Miller", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136761, 
+  "creation_date": "25-220", 
+  "materials": "stoneware with brown glaze", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 2290, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Eastern Han dynasty", 
+  "on_view": false
 }

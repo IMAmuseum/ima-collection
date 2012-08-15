@@ -1,34 +1,40 @@
 {
-    "accession_number": "39.11A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1963", 
-            "name": "Waugh, Sidney", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Steuben Glass Works", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1935", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "7 x 6-1/2 in.", 
-    "dynasty": null, 
-    "irn": 13928, 
-    "materials": "optical glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Gazelle bowl"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "7 x 6-1/2 in.", 
+  "title": "Gazelle bowl", 
+  "accession_number": "39.11A-B", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164509, 
+  "creation_date": "1935", 
+  "materials": "optical glass", 
+  "actors": [
+    {
+      "name": "Waugh, Sidney", 
+      "after_follower": null, 
+      "death_date": "1963", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299465, 
+      "role": "Designer", 
+      "birth_date": "1904", 
+      "nationality": null
+    }, 
+    {
+      "name": "Steuben Glass Works", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299467, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 13928, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

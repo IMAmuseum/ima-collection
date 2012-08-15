@@ -1,26 +1,30 @@
 {
-    "accession_number": "36.28", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1897-1968", 
-            "death_date": "1897-1968", 
-            "name": "Howell, Felicie", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Artist", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 49618, 
-    "materials": "pencil on cardboard", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hills"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Artist", 
+  "accession_number": "36.28", 
+  "title": "Hills", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18260739, 
+  "creation_date": null, 
+  "materials": "pencil on cardboard", 
+  "actors": [
+    {
+      "name": "Howell, Felicie", 
+      "after_follower": null, 
+      "death_date": "1897-1968", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301011, 
+      "role": "Artist", 
+      "birth_date": "1897-1968", 
+      "nationality": null
+    }
+  ], 
+  "irn": 49618, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

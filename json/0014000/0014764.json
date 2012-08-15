@@ -1,26 +1,30 @@
 {
-    "accession_number": "76.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": "2000", 
-            "name": "Baskin, Leonard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "42 H. (base: 15 7/8 x 16)", 
-    "dynasty": null, 
-    "irn": 14764, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Leonard Baskin", 
-    "title": "Abraham"
+  "publishers": [], 
+  "rights": "\u00a9 Leonard Baskin", 
+  "dimensions": "42 H. (base: 15 7/8 x 16)", 
+  "title": "Abraham", 
+  "accession_number": "76.16", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166523, 
+  "creation_date": "1975", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Baskin, Leonard", 
+      "after_follower": null, 
+      "death_date": "2000", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294737, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14764, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

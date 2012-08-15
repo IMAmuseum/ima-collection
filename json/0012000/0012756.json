@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.14E", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1660", 
-            "death_date": "about 1725", 
-            "name": "Ch\u00e9ron, Louis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12756, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Psalm XLI"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Psalm XLI", 
+  "accession_number": "09.14E", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18161787, 
+  "creation_date": "18th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Ch\u00e9ron, Louis", 
+      "after_follower": null, 
+      "death_date": "about 1725", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294905, 
+      "role": "Artist", 
+      "birth_date": "1660", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12756, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

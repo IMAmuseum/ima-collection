@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.90.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1616-1691", 
-            "death_date": "1616-1691", 
-            "name": "Faithorne, William, the elder", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4501, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ralph Browning"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Ralph Browning", 
+  "accession_number": "72.90.7", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18141959, 
+  "creation_date": "17th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Faithorne, William, the elder", 
+      "after_follower": null, 
+      "death_date": "1616-1691", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296811, 
+      "role": "Artist", 
+      "birth_date": "1616-1691", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4501, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

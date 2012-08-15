@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.64", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1964", 
-            "death_date": null, 
-            "name": "Harry Allen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Johnson & Johnson", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2007", 
-    "credit_line": "Gift of David A. Hanks in honor of Marilynn Johnson", 
-    "cultures": [], 
-    "dimensions": "8 x 10 x 2 7/8 in.", 
-    "dynasty": null, 
-    "irn": 68617, 
-    "materials": "plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Harry Allen", 
-    "title": "Johnson & Johnson First Aid Kit"
+  "publishers": [], 
+  "dimensions": "8 x 10 x 2 7/8 in.", 
+  "rights": "\u00a9 Harry Allen", 
+  "credit_line": "Gift of David A. Hanks in honor of Marilynn Johnson", 
+  "accession_number": "2010.64", 
+  "title": "Johnson & Johnson First Aid Kit", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283529, 
+  "creation_date": "2007", 
+  "materials": "plastic", 
+  "actors": [
+    {
+      "name": "Harry Allen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307883, 
+      "role": "Designer", 
+      "birth_date": "1964", 
+      "nationality": null
+    }, 
+    {
+      "name": "Johnson & Johnson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307887, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68617, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

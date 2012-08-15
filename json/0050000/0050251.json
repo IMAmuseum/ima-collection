@@ -1,30 +1,34 @@
 {
-    "accession_number": "17.144", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1861", 
-            "name": "Utagawa Kuniyoshi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1840", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": "8 3/8 x 13 5/8 in. (image)\n9 13/16 x 14 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 50251, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Wakasa-ya Yoichi"
-        }
-    ], 
-    "rights": null, 
-    "title": "Dong Yong (T^o Ei)"
+  "publishers": [
+    {
+      "name": "Wakasa-ya Yoichi"
+    }
+  ], 
+  "dimensions": "8 3/8 x 13 5/8 in. (image)\n9 13/16 x 14 3/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "accession_number": "17.144", 
+  "title": "Dong Yong (T^o Ei)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18262297, 
+  "creation_date": "about 1840", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kuniyoshi", 
+      "after_follower": null, 
+      "death_date": "1861", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301701, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 50251, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

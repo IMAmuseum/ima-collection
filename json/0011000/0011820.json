@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1770", 
-            "death_date": "1851", 
-            "name": "Salmon, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1817", 
-    "credit_line": "Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "15 x 24 5/8 in.", 
-    "dynasty": null, 
-    "irn": 11820, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A British Packet Ship on the Clyde"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "15 x 24 5/8 in.", 
+  "title": "A British Packet Ship on the Clyde", 
+  "accession_number": "78.5", 
+  "credit_line": "Emma Harter Sweetser Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18159339, 
+  "creation_date": "1817", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Salmon, Robert", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298925, 
+      "role": "Artist", 
+      "birth_date": "1770", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11820, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

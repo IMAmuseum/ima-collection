@@ -1,26 +1,30 @@
 {
-    "accession_number": "2012.39", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1953", 
-            "death_date": "2004", 
-            "name": "Sprouse, Stephen", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "Fall / Winter 1984", 
-    "credit_line": "Caroline Marmon Fesler Fund", 
-    "cultures": [], 
-    "dimensions": "30 x 27 in.", 
-    "dynasty": null, 
-    "irn": 72991, 
-    "materials": "Leather, paint, metal zippers and snaps", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "jacket"
+  "publishers": [], 
+  "dimensions": "30 x 27 in.", 
+  "rights": null, 
+  "credit_line": "Caroline Marmon Fesler Fund", 
+  "accession_number": "2012.39", 
+  "title": "jacket", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287869, 
+  "creation_date": "Fall / Winter 1984", 
+  "materials": "Leather, paint, metal zippers and snaps", 
+  "actors": [
+    {
+      "name": "Sprouse, Stephen", 
+      "after_follower": null, 
+      "death_date": "2004", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308595, 
+      "role": "Designer", 
+      "birth_date": "1953", 
+      "nationality": null
+    }
+  ], 
+  "irn": 72991, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

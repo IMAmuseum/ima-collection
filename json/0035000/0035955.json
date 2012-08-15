@@ -1,26 +1,30 @@
 {
-    "accession_number": "C10050", 
-    "actors": [
-        {
-            "after_follower": "After", 
-            "birth_date": "1497", 
-            "death_date": "1543", 
-            "name": "Holbein, Hans, the younger", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1542", 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "Diam: 4 5/8 in.", 
-    "dynasty": null, 
-    "irn": 35955, 
-    "materials": "oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of the Artist"
+  "publishers": [], 
+  "dimensions": "Diam: 4 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "accession_number": "C10050", 
+  "title": "Portrait of the Artist", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229813, 
+  "creation_date": "1542", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Holbein, Hans, the younger", 
+      "after_follower": "After", 
+      "death_date": "1543", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297151, 
+      "role": "Artist", 
+      "birth_date": "1497", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35955, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

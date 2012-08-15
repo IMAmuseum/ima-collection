@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.303", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1875", 
-            "death_date": "1944", 
-            "name": "Segal, Arthur", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1930", 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "38 15/16 x 30 1/2 in.", 
-    "dynasty": null, 
-    "irn": 26221, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "View from the Window"
+  "publishers": [], 
+  "dimensions": "38 15/16 x 30 1/2 in.", 
+  "rights": null, 
+  "credit_line": "The Holliday Collection", 
+  "accession_number": "79.303", 
+  "title": "View from the Window", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18207171, 
+  "creation_date": "1930", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Segal, Arthur", 
+      "after_follower": null, 
+      "death_date": "1944", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302217, 
+      "role": "Artist", 
+      "birth_date": "1875", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26221, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

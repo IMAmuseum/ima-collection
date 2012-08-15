@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1763", 
-            "death_date": "1844", 
-            "name": "Qian Du", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1814", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "80 1/2 x 21 in. (overall)", 
-    "dynasty": "Qing dynasty", 
-    "irn": 25472, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": "Jiaqing", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Purple Plantain Retreat After Tang Yin"
+  "publishers": [], 
+  "dimensions": "80 1/2 x 21 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "1985.1", 
+  "title": "The Purple Plantain Retreat After Tang Yin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Jiaqing", 
+  "artisinal:id": 18205421, 
+  "creation_date": "1814", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Qian Du", 
+      "after_follower": null, 
+      "death_date": "1844", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298485, 
+      "role": "Artist", 
+      "birth_date": "1763", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25472, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1984.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1558", 
-            "death_date": "1617", 
-            "name": "Goltzius, Hendrick", 
-            "nationality": "Dutch", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1588", 
-    "credit_line": "Blanche Stillson Fund", 
-    "cultures": [], 
-    "dimensions": "13 in. (image, diameter)\n15 x 14 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 24923, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ixion"
+  "publishers": [], 
+  "dimensions": "13 in. (image, diameter)\n15 x 14 3/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Blanche Stillson Fund", 
+  "accession_number": "1984.9", 
+  "title": "Ixion", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204177, 
+  "creation_date": "1588", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Goltzius, Hendrick", 
+      "after_follower": null, 
+      "death_date": "1617", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296647, 
+      "role": "Artist", 
+      "birth_date": "1558", 
+      "nationality": "Dutch"
+    }
+  ], 
+  "irn": 24923, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

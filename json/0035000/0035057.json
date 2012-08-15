@@ -1,26 +1,30 @@
 {
-    "accession_number": "63.202", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1720", 
-            "death_date": "1778", 
-            "name": "Piranesi, Giovanni Battista", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1748", 
-    "credit_line": "Wolcott Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35057, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sepolcra della familia di Sipioni"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Wolcott Fund", 
+  "accession_number": "63.202", 
+  "title": "Sepolcra della familia di Sipioni", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227781, 
+  "creation_date": "1748", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Piranesi, Giovanni Battista", 
+      "after_follower": null, 
+      "death_date": "1778", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296039, 
+      "role": "Artist", 
+      "birth_date": "1720", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35057, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

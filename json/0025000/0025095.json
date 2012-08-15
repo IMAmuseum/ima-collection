@@ -1,26 +1,30 @@
 {
-    "accession_number": "06.132", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1833-1834", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "9 x 13 7/8 in. (image)\nSheet is trimmed to image all around", 
-    "dynasty": null, 
-    "irn": 25095, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Shinagawa"
+  "publishers": [], 
+  "dimensions": "9 x 13 7/8 in. (image)\nSheet is trimmed to image all around", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "06.132", 
+  "title": "Shinagawa", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18204565, 
+  "creation_date": "1833-1834", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25095, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

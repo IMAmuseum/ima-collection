@@ -1,26 +1,30 @@
 {
-    "accession_number": "66.196", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kellogg, Edmund Burke", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. M. S. Cassen", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 732, 
-    "materials": "hand-colored lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Little Playfellow"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Little Playfellow", 
+  "accession_number": "66.196", 
+  "credit_line": "Gift of Mrs. M. S. Cassen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132961, 
+  "creation_date": "19th century", 
+  "materials": "hand-colored lithograph", 
+  "actors": [
+    {
+      "name": "Kellogg, Edmund Burke", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295135, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 732, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

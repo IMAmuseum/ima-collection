@@ -1,33 +1,37 @@
 {
-    "accession_number": "LH2003.91A-T", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Algernon Swinburne", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1925-1927", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 7/8 x 6 1/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 62244, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Wm. Heinemann Ltd."
-        }, 
-        {
-            "name": "Gabriel Wells"
-        }
-    ], 
-    "rights": null, 
-    "title": null
+  "publishers": [
+    {
+      "name": "Wm. Heinemann Ltd."
+    }, 
+    {
+      "name": "Gabriel Wells"
+    }
+  ], 
+  "dimensions": "8 7/8 x 6 1/8 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.91A-T", 
+  "title": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277621, 
+  "creation_date": "1925-1927", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Algernon Swinburne", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306391, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62244, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

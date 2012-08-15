@@ -1,58 +1,70 @@
 {
-    "accession_number": "2011.279.1-.3A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Marjorie Tate", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": "1987", 
-            "name": "Leonard Tate", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Allen McCauley", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Betty McCauley", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Tamac Pottery", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1950", 
-    "credit_line": "Gift of David A. Hanks in honor of George R. Kravis II", 
-    "cultures": [], 
-    "dimensions": "A) plate: 1 x 10 1/8 x 8 7/8 in.\nB.1) cup: 2 3/8 x 4 3/4 x 3 3/8 in.\nB.2) saucer: 5/8 x 7 1/4 x 6 in.\nC.1) cup: 2 1/4 x 5 x 3 3/4 in.\nC.2) saucer: 3/4 x 7 x 5 3/4 in.", 
-    "dynasty": null, 
-    "irn": 73600, 
-    "materials": "ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "cups, saucers, plate"
+  "publishers": [], 
+  "dimensions": "A) plate: 1 x 10 1/8 x 8 7/8 in.\nB.1) cup: 2 3/8 x 4 3/4 x 3 3/8 in.\nB.2) saucer: 5/8 x 7 1/4 x 6 in.\nC.1) cup: 2 1/4 x 5 x 3 3/4 in.\nC.2) saucer: 3/4 x 7 x 5 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of David A. Hanks in honor of George R. Kravis II", 
+  "accession_number": "2011.279.1-.3A-B", 
+  "title": "cups, saucers, plate", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288199, 
+  "creation_date": "about 1950", 
+  "materials": "ceramic", 
+  "actors": [
+    {
+      "name": "Marjorie Tate", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308633, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Leonard Tate", 
+      "after_follower": null, 
+      "death_date": "1987", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308637, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Allen McCauley", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308639, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Betty McCauley", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308643, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Tamac Pottery", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308645, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 73600, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

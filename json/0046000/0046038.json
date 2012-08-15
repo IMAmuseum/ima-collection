@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.159", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1783-1869", 
-            "death_date": "1783-1869", 
-            "name": "Smith, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1826", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "9 X 7 in. (image)\n10 5/8 X 8 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 46038, 
-    "materials": "hand-colored engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ladies work tables"
+  "publishers": [], 
+  "dimensions": "9 X 7 in. (image)\n10 5/8 X 8 1/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "73.2.159", 
+  "title": "Ladies work tables", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18255827, 
+  "creation_date": "1826", 
+  "materials": "hand-colored engraving", 
+  "actors": [
+    {
+      "name": "Smith, George", 
+      "after_follower": null, 
+      "death_date": "1783-1869", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298309, 
+      "role": "Artist", 
+      "birth_date": "1783-1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46038, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

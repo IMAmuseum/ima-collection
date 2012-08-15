@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.245", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Apple Industrial Design Group", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Apple Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2008", 
-    "credit_line": "Gift of James C. Klosterman in honor of Charles and Bernice Klosterman", 
-    "cultures": [], 
-    "dimensions": "4 1/2 x 2 1/2 x 1/2 in.", 
-    "dynasty": null, 
-    "irn": 72638, 
-    "materials": "chrome-plated metal, aluminum, glass, and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "iPhone 3G"
+  "publishers": [], 
+  "dimensions": "4 1/2 x 2 1/2 x 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of James C. Klosterman in honor of Charles and Bernice Klosterman", 
+  "accession_number": "2011.245", 
+  "title": "iPhone 3G", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287853, 
+  "creation_date": "2008", 
+  "materials": "chrome-plated metal, aluminum, glass, and plastic", 
+  "actors": [
+    {
+      "name": "Apple Industrial Design Group", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308591, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Apple Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307251, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 72638, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

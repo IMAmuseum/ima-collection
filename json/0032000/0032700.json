@@ -1,26 +1,30 @@
 {
-    "accession_number": "1991.246", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1911", 
-            "death_date": "1994", 
-            "name": "Papart, Max", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1980", 
-    "credit_line": "Gift of Dr. and Mrs. Eugene D. Van Hove", 
-    "cultures": [], 
-    "dimensions": "29 7/8 x 22 1/16 in. (image & sheet)", 
-    "dynasty": null, 
-    "irn": 32700, 
-    "materials": "color aquatint and carborundum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
-    "title": "Mr. K"
+  "publishers": [], 
+  "dimensions": "29 7/8 x 22 1/16 in. (image & sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
+  "credit_line": "Gift of Dr. and Mrs. Eugene D. Van Hove", 
+  "accession_number": "1991.246", 
+  "title": "Mr. K", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222283, 
+  "creation_date": "1980", 
+  "materials": "color aquatint and carborundum", 
+  "actors": [
+    {
+      "name": "Papart, Max", 
+      "after_follower": null, 
+      "death_date": "1994", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295929, 
+      "role": "Artist", 
+      "birth_date": "1911", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32700, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

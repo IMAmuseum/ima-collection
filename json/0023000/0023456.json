@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.79.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1937", 
-            "death_date": null, 
-            "name": "Jones, Allen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1972", 
-    "credit_line": "Gift of the Organisationkomitee fur die Spiele der XX. Olympiade Munchen 1972", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23456, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Olympische Spiele Munchen 1972"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Organisationkomitee fur die Spiele der XX. Olympiade Munchen 1972", 
+  "accession_number": "71.79.5", 
+  "title": "Olympische Spiele Munchen 1972", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200815, 
+  "creation_date": "1972", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Jones, Allen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301625, 
+      "role": "Artist", 
+      "birth_date": "1937", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23456, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

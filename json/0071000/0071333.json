@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.279", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1812", 
-            "death_date": "1852", 
-            "name": "Augustus Welby Northmore Pugin", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Minton's Pottery and Porcelain Factory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1850", 
-    "credit_line": "Gift of Rosemarie Haag Bletter and Martin Filler", 
-    "cultures": [], 
-    "dimensions": "6 x 6 x 1/4 in.", 
-    "dynasty": null, 
-    "irn": 71333, 
-    "materials": "earthenware", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "tile"
+  "publishers": [], 
+  "dimensions": "6 x 6 x 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Rosemarie Haag Bletter and Martin Filler", 
+  "accession_number": "2010.279", 
+  "title": "tile", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18286989, 
+  "creation_date": "about 1850", 
+  "materials": "earthenware", 
+  "actors": [
+    {
+      "name": "Augustus Welby Northmore Pugin", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295293, 
+      "role": "Designer", 
+      "birth_date": "1812", 
+      "nationality": null
+    }, 
+    {
+      "name": "Minton's Pottery and Porcelain Factory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308385, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71333, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

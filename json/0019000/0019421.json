@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.202", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1884", 
-            "death_date": "1966", 
-            "name": "Anderson, Stanley", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1930", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "6 5/8 x 8 5/8 in (image)\n11 1/2 x 18 in (sheet)", 
-    "dynasty": null, 
-    "irn": 19421, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Reading Room"
+  "publishers": [], 
+  "dimensions": "6 5/8 x 8 5/8 in (image)\n11 1/2 x 18 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "32.202", 
+  "title": "The Reading Room", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191607, 
+  "creation_date": "1930", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Anderson, Stanley", 
+      "after_follower": null, 
+      "death_date": "1966", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300783, 
+      "role": "Artist", 
+      "birth_date": "1884", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19421, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

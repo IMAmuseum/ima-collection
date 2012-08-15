@@ -1,26 +1,30 @@
 {
-    "accession_number": "45.184", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1919", 
-            "name": "Lehmbruck, Wilhelm", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1910", 
-    "credit_line": "Gift of Mr. and Mrs. Henry R. Hope in memory of Louise Vonnegut Peirce", 
-    "cultures": [], 
-    "dimensions": "H: 16 in.", 
-    "dynasty": null, 
-    "irn": 10905, 
-    "materials": "case cement", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Head of a Woman"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 16 in.", 
+  "title": "Head of a Woman", 
+  "accession_number": "45.184", 
+  "credit_line": "Gift of Mr. and Mrs. Henry R. Hope in memory of Louise Vonnegut Peirce", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157223, 
+  "creation_date": "1910", 
+  "materials": "case cement", 
+  "actors": [
+    {
+      "name": "Lehmbruck, Wilhelm", 
+      "after_follower": null, 
+      "death_date": "1919", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298711, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10905, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

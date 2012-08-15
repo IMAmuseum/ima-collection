@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.139", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": "2002", 
-            "name": "Blass, Bill", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1968", 
-    "credit_line": "Gift of Frances R. Gardiner", 
-    "cultures": [], 
-    "dimensions": "coat: L: 46 in.; 116.8 cm\nshawl: L: 68 in.; 172.2 cm.", 
-    "dynasty": null, 
-    "irn": 13649, 
-    "materials": "wool", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "coat with shawl"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "coat: L: 46 in.; 116.8 cm\nshawl: L: 68 in.; 172.2 cm.", 
+  "title": "coat with shawl", 
+  "accession_number": "81.139", 
+  "credit_line": "Gift of Frances R. Gardiner", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163857, 
+  "creation_date": "1968", 
+  "materials": "wool", 
+  "actors": [
+    {
+      "name": "Blass, Bill", 
+      "after_follower": null, 
+      "death_date": "2002", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295143, 
+      "role": "Designer", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13649, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

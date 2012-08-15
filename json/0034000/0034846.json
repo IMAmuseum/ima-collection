@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.379", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1602", 
-            "death_date": "1674", 
-            "name": "Kano Tan'yu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1602-1674", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "8 1/2 x 10 1/2 in. (image)", 
-    "dynasty": null, 
-    "irn": 34846, 
-    "materials": "ink and colors on paper", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sketches of Chinese and Japanese Paintings"
+  "publishers": [], 
+  "dimensions": "8 1/2 x 10 1/2 in. (image)", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "81.379", 
+  "title": "Sketches of Chinese and Japanese Paintings", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18227309, 
+  "creation_date": "1602-1674", 
+  "materials": "ink and colors on paper", 
+  "actors": [
+    {
+      "name": "Kano Tan'yu", 
+      "after_follower": null, 
+      "death_date": "1674", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298573, 
+      "role": "Artist", 
+      "birth_date": "1602", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34846, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

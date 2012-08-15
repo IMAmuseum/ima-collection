@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.536", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1914", 
-            "death_date": "1955", 
-            "name": "Stael, Nicolas de", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1945", 
-    "credit_line": "Roger G. Wolcott Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5970, 
-    "materials": "pencil on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of Nicolas de Stael/Artists Rights Society (ARS), New York", 
-    "title": "Untitled"
+  "publishers": [], 
+  "rights": "\u00a9 Estate of Nicolas de Stael/Artists Rights Society (ARS), New York", 
+  "dimensions": null, 
+  "title": "Untitled", 
+  "accession_number": "74.536", 
+  "credit_line": "Roger G. Wolcott Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145417, 
+  "creation_date": "1945", 
+  "materials": "pencil on white paper", 
+  "actors": [
+    {
+      "name": "Stael, Nicolas de", 
+      "after_follower": null, 
+      "death_date": "1955", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297311, 
+      "role": "Artist", 
+      "birth_date": "1914", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5970, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

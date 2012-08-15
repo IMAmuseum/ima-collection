@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.531", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Carlotta de Bevilacqua", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Artemide S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Gift of Artemide Inc.", 
-    "cultures": [], 
-    "dimensions": "12 1/4 \u00d7 15 3/4 in.", 
-    "dynasty": null, 
-    "irn": 64662, 
-    "materials": "polycarbonate, acrylic, fluorescent lights, and microprocessor", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Carlotta De Bevilacqua", 
-    "title": "Yang light fixture"
+  "publishers": [], 
+  "dimensions": "12 1/4 \u00d7 15 3/4 in.", 
+  "rights": "\u00a9 Carlotta De Bevilacqua", 
+  "credit_line": "Gift of Artemide Inc.", 
+  "accession_number": "2009.531", 
+  "title": "Yang light fixture", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279161, 
+  "creation_date": "2000", 
+  "materials": "polycarbonate, acrylic, fluorescent lights, and microprocessor", 
+  "actors": [
+    {
+      "name": "Carlotta de Bevilacqua", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306875, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Artemide S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300503, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64662, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

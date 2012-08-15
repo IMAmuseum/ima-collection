@@ -1,30 +1,34 @@
 {
-    "accession_number": "52.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1602", 
-            "death_date": "1676", 
-            "name": "Bosse, Abraham", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1634", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 17849, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Le Blond"
-        }
-    ], 
-    "rights": null, 
-    "title": "L' Hotel de Bourgogne"
+  "publishers": [
+    {
+      "name": "Le Blond"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "52.5", 
+  "title": "L' Hotel de Bourgogne", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18174355, 
+  "creation_date": "1634", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Bosse, Abraham", 
+      "after_follower": null, 
+      "death_date": "1676", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296179, 
+      "role": "Artist", 
+      "birth_date": "1602", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17849, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

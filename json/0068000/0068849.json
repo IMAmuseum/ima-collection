@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.90", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1719", 
-            "death_date": "1807", 
-            "name": "Courtauld, Louisa Perina", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1738", 
-            "death_date": "1811", 
-            "name": "Cowles, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "c. 1774", 
-    "credit_line": "Gift of A. Ian Fraser", 
-    "cultures": [], 
-    "dimensions": "H: 11 1/2 in.", 
-    "dynasty": null, 
-    "irn": 68849, 
-    "materials": "silver and wood", 
-    "on_view": true, 
-    "period": "George III", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "coffee pot"
+  "publishers": [], 
+  "dimensions": "H: 11 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of A. Ian Fraser", 
+  "accession_number": "2010.90", 
+  "title": "coffee pot", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "George III", 
+  "artisinal:id": 18283747, 
+  "creation_date": "c. 1774", 
+  "materials": "silver and wood", 
+  "actors": [
+    {
+      "name": "Courtauld, Louisa Perina", 
+      "after_follower": null, 
+      "death_date": "1807", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307955, 
+      "role": "Artist", 
+      "birth_date": "1719", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cowles, George", 
+      "after_follower": null, 
+      "death_date": "1811", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307957, 
+      "role": "Artist", 
+      "birth_date": "1738", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68849, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

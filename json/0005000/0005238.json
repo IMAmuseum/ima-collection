@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.186", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1832-35", 
-    "credit_line": "Gift in Memory of Dr. and Mrs. Hugo O. Pantzer by their Children", 
-    "cultures": [], 
-    "dimensions": "3 3/4 x 5 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 5238, 
-    "materials": "watercolor and gouache on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dunstaffnage"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "3 3/4 x 5 7/8 in. (sheet)", 
+  "title": "Dunstaffnage", 
+  "accession_number": "72.186", 
+  "credit_line": "Gift in Memory of Dr. and Mrs. Hugo O. Pantzer by their Children", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143669, 
+  "creation_date": "1832-35", 
+  "materials": "watercolor and gouache on white paper", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5238, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

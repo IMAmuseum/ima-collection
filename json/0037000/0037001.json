@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.90", 
-    "actors": [
-        {
-            "after_follower": "after", 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Lin Boying", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
-    "cultures": [], 
-    "dimensions": "85 3/4 in. x 33 1/4 in.", 
-    "dynasty": "Ming dynasty", 
-    "irn": 37001, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Four magpies"
+  "publishers": [], 
+  "dimensions": "85 3/4 in. x 33 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
+  "accession_number": "78.90", 
+  "title": "Four magpies", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232265, 
+  "creation_date": null, 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Lin Boying", 
+      "after_follower": "after", 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303965, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 37001, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Ming dynasty", 
+  "on_view": false
 }

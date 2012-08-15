@@ -1,26 +1,30 @@
 {
-    "accession_number": "54.212", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1891", 
-            "death_date": "1973", 
-            "name": "Lipchitz, Jacques", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1941", 
-    "credit_line": "James V. Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16728, 
-    "materials": "pen and ink, red chalk and pencil", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jacques Lipchitz", 
-    "title": "The Arrival"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Jacques Lipchitz", 
+  "credit_line": "James V. Sweetser Fund", 
+  "accession_number": "54.212", 
+  "title": "The Arrival", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171345, 
+  "creation_date": "1941", 
+  "materials": "pen and ink, red chalk and pencil", 
+  "actors": [
+    {
+      "name": "Lipchitz, Jacques", 
+      "after_follower": null, 
+      "death_date": "1973", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300237, 
+      "role": "Artist", 
+      "birth_date": "1891", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16728, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

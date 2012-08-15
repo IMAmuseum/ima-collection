@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.264", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1959", 
-            "name": "Wayman Adams", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1929", 
-    "credit_line": "Gift of Wayman Adams", 
-    "cultures": [], 
-    "dimensions": "15 1/2 x 11 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 35808, 
-    "materials": "lithograph on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Offering"
+  "publishers": [], 
+  "dimensions": "15 1/2 x 11 1/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Wayman Adams", 
+  "accession_number": "32.264", 
+  "title": "The Offering", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229465, 
+  "creation_date": "1929", 
+  "materials": "lithograph on paper", 
+  "actors": [
+    {
+      "name": "Wayman Adams", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296333, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35808, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

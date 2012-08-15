@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.310", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1856", 
-            "death_date": "1909", 
-            "name": "Bacher, Otto Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1880", 
-    "credit_line": "Gift of Carl H. Lieber", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12505, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rainy Night in Venice"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Rainy Night in Venice", 
+  "accession_number": "25.310", 
+  "credit_line": "Gift of Carl H. Lieber", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160833, 
+  "creation_date": "1880", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Bacher, Otto Henry", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295559, 
+      "role": "Artist", 
+      "birth_date": "1856", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12505, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

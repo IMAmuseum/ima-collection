@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.99", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1755", 
-            "death_date": "1828", 
-            "name": "Stuart, Gilbert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1783-1793", 
-    "credit_line": "Gift of Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "50 x 40 in.\n58 3/4 x 49 in. (framed)", 
-    "dynasty": null, 
-    "irn": 24041, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Family"
+  "publishers": [], 
+  "dimensions": "50 x 40 in.\n58 3/4 x 49 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herman C. Krannert", 
+  "accession_number": "74.99", 
+  "title": "Portrait of a Family", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18202167, 
+  "creation_date": "about 1783-1793", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Stuart, Gilbert", 
+      "after_follower": null, 
+      "death_date": "1828", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296899, 
+      "role": "Artist", 
+      "birth_date": "1755", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24041, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

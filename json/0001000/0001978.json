@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.251", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1862", 
-            "death_date": "1951", 
-            "name": "Benson, Frank Weston", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1927", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mr. and Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1978, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dory Fisherman"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Dory Fisherman", 
+  "accession_number": "1985.251", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mr. and Mrs. H. L. Conant", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136029, 
+  "creation_date": "1927", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Benson, Frank Weston", 
+      "after_follower": null, 
+      "death_date": "1951", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295729, 
+      "role": "Artist", 
+      "birth_date": "1862", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1978, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

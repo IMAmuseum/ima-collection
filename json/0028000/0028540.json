@@ -1,26 +1,30 @@
 {
-    "accession_number": "29.42", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1888", 
-            "death_date": "1957", 
-            "name": "Buisseret, Louis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1928", 
-    "credit_line": "Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "49 1/2 x 37 in.", 
-    "dynasty": null, 
-    "irn": 28540, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Artist's Family"
+  "publishers": [], 
+  "dimensions": "49 1/2 x 37 in.", 
+  "rights": null, 
+  "credit_line": "Emma Harter Sweetser Fund", 
+  "accession_number": "29.42", 
+  "title": "The Artist's Family", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18212669, 
+  "creation_date": "1928", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Buisseret, Louis", 
+      "after_follower": null, 
+      "death_date": "1957", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302647, 
+      "role": "Artist", 
+      "birth_date": "1888", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28540, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.453.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1957", 
-            "death_date": null, 
-            "name": "Ann W\u00e5hlstr\u00f6m", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kosta Boda", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1999", 
-    "credit_line": "Anonymous Endowed Decorative Art Fund", 
-    "cultures": [], 
-    "dimensions": "25 1/2 x 8 1/2 in.", 
-    "dynasty": null, 
-    "irn": 67328, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ann W\u00e5hlstr\u00f6m", 
-    "title": "Soap Bubble vase (small steel)"
+  "publishers": [], 
+  "dimensions": "25 1/2 x 8 1/2 in.", 
+  "rights": "\u00a9 Ann W\u00e5hlstr\u00f6m", 
+  "credit_line": "Anonymous Endowed Decorative Art Fund", 
+  "accession_number": "2009.453.2", 
+  "title": "Soap Bubble vase (small steel)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282691, 
+  "creation_date": "1999", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Ann W\u00e5hlstr\u00f6m", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307181, 
+      "role": "Designer", 
+      "birth_date": "1957", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kosta Boda", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307185, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67328, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "56.63", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860", 
-            "death_date": "1949", 
-            "name": "Ensor, James", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1904", 
-    "credit_line": "Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": "16 x 22 in.", 
-    "dynasty": null, 
-    "irn": 36055, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Peste Dessous, Peste Dessus, Peste Partout (Plague Below, Plague Above, Plague Everywhere)"
+  "publishers": [], 
+  "dimensions": "16 x 22 in.", 
+  "rights": null, 
+  "credit_line": "Julius F. Pratt Fund", 
+  "accession_number": "56.63", 
+  "title": "Peste Dessous, Peste Dessus, Peste Partout (Plague Below, Plague Above, Plague Everywhere)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230051, 
+  "creation_date": "1904", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Ensor, James", 
+      "after_follower": null, 
+      "death_date": "1949", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301131, 
+      "role": "Artist", 
+      "birth_date": "1860", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36055, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

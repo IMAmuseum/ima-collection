@@ -1,33 +1,37 @@
 {
-    "accession_number": "06.131", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1833-1834", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 13 3/4 in. (image)\nsheet trimmed to image all around", 
-    "dynasty": null, 
-    "irn": 11811, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": null
-        }, 
-        {
-            "name": "Takenouchi Magohachi"
-        }
-    ], 
-    "rights": null, 
-    "title": "Ishibe"
+  "publishers": [
+    {
+      "name": null
+    }, 
+    {
+      "name": "Takenouchi Magohachi"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "8 3/4 x 13 3/4 in. (image)\nsheet trimmed to image all around", 
+  "title": "Ishibe", 
+  "accession_number": "06.131", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18159319, 
+  "creation_date": "1833-1834", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11811, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

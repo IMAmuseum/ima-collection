@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.125", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1903", 
-            "death_date": "1974", 
-            "name": "Gottlieb, Adolph", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 24163, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "Art \u00a9 Adolph and Esther Gottlieb Foundation/Licensed by VAGA, New York, NY", 
-    "title": "Guild Hall Is For Everyone"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "Art \u00a9 Adolph and Esther Gottlieb Foundation/Licensed by VAGA, New York, NY", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "70.125", 
+  "title": "Guild Hall Is For Everyone", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18202441, 
+  "creation_date": "1970", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Gottlieb, Adolph", 
+      "after_follower": null, 
+      "death_date": "1974", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294883, 
+      "role": "Artist", 
+      "birth_date": "1903", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24163, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

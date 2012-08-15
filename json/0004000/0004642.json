@@ -1,34 +1,40 @@
 {
-    "accession_number": "1986.110", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1566", 
-            "death_date": "1651", 
-            "name": "Bloemaert, Abraham", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1561", 
-            "death_date": "1623", 
-            "name": "Bry, Johann Theodor de", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1608", 
-    "credit_line": "Gift of Roman J. and Adell C. Radecki", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4642, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Golden Age"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Golden Age", 
+  "accession_number": "1986.110", 
+  "credit_line": "Gift of Roman J. and Adell C. Radecki", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142275, 
+  "creation_date": "1608", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Bloemaert, Abraham", 
+      "after_follower": null, 
+      "death_date": "1651", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296875, 
+      "role": "Artist", 
+      "birth_date": "1566", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bry, Johann Theodor de", 
+      "after_follower": null, 
+      "death_date": "1623", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296877, 
+      "role": "Engraver", 
+      "birth_date": "1561", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4642, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2004.14A-R", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "active 1584-1638", 
-            "death_date": null, 
-            "name": "Ding Yunpeng", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1611", 
-    "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
-    "cultures": [], 
-    "dimensions": "11 1/8 x 6 1/2 x 7/8 in.", 
-    "dynasty": "Ming dynasty", 
-    "irn": 61525, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": "Wanli", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Album of Landscape Paintings"
+  "publishers": [], 
+  "dimensions": "11 1/8 x 6 1/2 x 7/8 in.", 
+  "rights": null, 
+  "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
+  "accession_number": "2004.14A-R", 
+  "title": "Album of Landscape Paintings", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Wanli", 
+  "artisinal:id": 18276959, 
+  "creation_date": "1611", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Ding Yunpeng", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305975, 
+      "role": "Artist", 
+      "birth_date": "active 1584-1638", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61525, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Ming dynasty", 
+  "on_view": false
 }

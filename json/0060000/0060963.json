@@ -1,30 +1,34 @@
 {
-    "accession_number": "2003.115", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1817-1821", 
-            "death_date": "1863-1867", 
-            "name": "Konishi Hirosada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1850", 
-    "credit_line": "Gift of Thomas and Marsha French in honor of Walter Wolf", 
-    "cultures": [], 
-    "dimensions": "10 3/16 x 7 1/2 in.", 
-    "dynasty": null, 
-    "irn": 60963, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Kinkado"
-        }
-    ], 
-    "rights": null, 
-    "title": "Portrait of Male Actor in Female Role"
+  "publishers": [
+    {
+      "name": "Kinkado"
+    }
+  ], 
+  "dimensions": "10 3/16 x 7 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Thomas and Marsha French in honor of Walter Wolf", 
+  "accession_number": "2003.115", 
+  "title": "Portrait of Male Actor in Female Role", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18276821, 
+  "creation_date": "about 1850", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Konishi Hirosada", 
+      "after_follower": null, 
+      "death_date": "1863-1867", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305939, 
+      "role": "Artist", 
+      "birth_date": "1817-1821", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60963, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

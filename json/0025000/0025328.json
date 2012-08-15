@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1646", 
-            "death_date": "1710", 
-            "name": "Tosa Mitsunari", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1646-1710", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art, Mr. and Mrs. William R. Spurlock Fund", 
-    "cultures": [], 
-    "dimensions": "67 x 147 1/2 (overall)", 
-    "dynasty": null, 
-    "irn": 25328, 
-    "materials": "ink, color and gold leaf on paper, six-fold screen", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Teika's Poems for the Twelve Months"
+  "publishers": [], 
+  "dimensions": "67 x 147 1/2 (overall)", 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art, Mr. and Mrs. William R. Spurlock Fund", 
+  "accession_number": "2000.9", 
+  "title": "Teika's Poems for the Twelve Months", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18205113, 
+  "creation_date": "1646-1710", 
+  "materials": "ink, color and gold leaf on paper, six-fold screen", 
+  "actors": [
+    {
+      "name": "Tosa Mitsunari", 
+      "after_follower": null, 
+      "death_date": "1710", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302031, 
+      "role": "Artist", 
+      "birth_date": "1646", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25328, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

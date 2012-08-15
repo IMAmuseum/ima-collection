@@ -1,34 +1,38 @@
 {
-    "accession_number": "2010.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1863", 
-            "death_date": "1935", 
-            "name": "Signac, Paul", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1895", 
-    "credit_line": "Dr. Kenneth R. Shaffer Fund", 
-    "cultures": [], 
-    "dimensions": "9 3/8 x 15 7/8 in. (image)\n16 x 20 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 68324, 
-    "materials": "color lithograph on cream wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Clot, Auguste"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Gustave Pellett"
-        }
-    ], 
-    "rights": null, 
-    "title": "A Flessingue (At Flushing)"
+  "publishers": [
+    {
+      "name": "Gustave Pellett"
+    }
+  ], 
+  "dimensions": "9 3/8 x 15 7/8 in. (image)\n16 x 20 3/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Dr. Kenneth R. Shaffer Fund", 
+  "accession_number": "2010.17", 
+  "title": "A Flessingue (At Flushing)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283355, 
+  "creation_date": "1895", 
+  "materials": "color lithograph on cream wove paper", 
+  "actors": [
+    {
+      "name": "Signac, Paul", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297567, 
+      "role": "Artist", 
+      "birth_date": "1863", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68324, 
+  "printers": [
+    {
+      "name": "Clot, Auguste"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

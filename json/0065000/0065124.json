@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.228", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Sipek, Borek", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Vitra AG", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1988", 
-    "credit_line": "The Liliane and David M. Stewart Collection", 
-    "cultures": [], 
-    "dimensions": "30 3/4 x 20 1/2 x 21 1/2 in.\n75.5 x 52 x 57cm.", 
-    "dynasty": null, 
-    "irn": 65124, 
-    "materials": "painted wood and lacquered hammerite", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Borek \u008a\u00edpek", 
-    "title": "Ota Otanek armchair"
+  "publishers": [], 
+  "dimensions": "30 3/4 x 20 1/2 x 21 1/2 in.\n75.5 x 52 x 57cm.", 
+  "rights": "\u00a9 Borek \u008a\u00edpek", 
+  "credit_line": "The Liliane and David M. Stewart Collection", 
+  "accession_number": "2008.228", 
+  "title": "Ota Otanek armchair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279691, 
+  "creation_date": "1988", 
+  "materials": "painted wood and lacquered hammerite", 
+  "actors": [
+    {
+      "name": "Sipek, Borek", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307133, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "Vitra AG", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306781, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65124, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

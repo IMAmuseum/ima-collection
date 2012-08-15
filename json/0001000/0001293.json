@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.102", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1811", 
-    "credit_line": "Given anonymously in memory of Evan F. Lilly, with hope that they will bring beauty and inspiration to the lives of others.\"", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1293, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Liber Studiorum28. Junction of Severn and Wye"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Liber Studiorum28. Junction of Severn and Wye", 
+  "accession_number": "55.102", 
+  "credit_line": "Given anonymously in memory of Evan F. Lilly, with hope that they will bring beauty and inspiration to the lives of others.\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134357, 
+  "creation_date": "1811", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1293, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

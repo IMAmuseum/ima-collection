@@ -1,38 +1,44 @@
 {
-    "accession_number": "2005.67.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1988", 
-            "name": "Hayter, Stanley William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Hecht, Henry", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "March 1939", 
-    "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "4 x 2 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 63198, 
-    "materials": "etching and engraving on Montval paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Atelier 17"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Fraternity"
+  "publishers": [
+    {
+      "name": "Atelier 17"
+    }
+  ], 
+  "dimensions": "4 x 2 5/8 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
+  "accession_number": "2005.67.1", 
+  "title": "Fraternity", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278357, 
+  "creation_date": "March 1939", 
+  "materials": "etching and engraving on Montval paper", 
+  "actors": [
+    {
+      "name": "Hayter, Stanley William", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295123, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hecht, Henry", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306505, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 63198, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

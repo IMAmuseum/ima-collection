@@ -1,30 +1,34 @@
 {
-    "accession_number": "1997.111", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1903", 
-            "death_date": "1977", 
-            "name": "Callery, Mary", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1957", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan D. Weisenberger", 
-    "cultures": [], 
-    "dimensions": "12 x 28 in. (image and sheet)", 
-    "dynasty": null, 
-    "irn": 7954, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Universal Limited Art Editions"
-        }
-    ], 
-    "rights": null, 
-    "title": "Variations on a theme of Callery-Leger"
+  "publishers": [
+    {
+      "name": "Universal Limited Art Editions"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "12 x 28 in. (image and sheet)", 
+  "title": "Variations on a theme of Callery-Leger", 
+  "accession_number": "1997.111", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mrs. H.L. Conant and Miss Joan D. Weisenberger", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18150117, 
+  "creation_date": "about 1957", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Callery, Mary", 
+      "after_follower": null, 
+      "death_date": "1977", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297901, 
+      "role": "Artist", 
+      "birth_date": "1903", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7954, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

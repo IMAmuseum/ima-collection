@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.15.36", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1810", 
-            "death_date": "1870", 
-            "name": "Bufford, John Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1860", 
-    "credit_line": "Emma D. Wilkinson Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46092, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The \"Wigwam\" Grand March"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Emma D. Wilkinson Fund", 
+  "accession_number": "73.15.36", 
+  "title": "The \"Wigwam\" Grand March", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18255959, 
+  "creation_date": "1860", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Bufford, John Henry", 
+      "after_follower": null, 
+      "death_date": "1870", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301797, 
+      "role": "Artist", 
+      "birth_date": "1810", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46092, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

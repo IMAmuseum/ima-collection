@@ -1,34 +1,40 @@
 {
-    "accession_number": "S7505.91.1A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": null, 
-            "name": "Robert Indiana", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Domberger, KG", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1971", 
-    "credit_line": "Gift of INB Financial Corporation", 
-    "cultures": [], 
-    "dimensions": "36 x 29 3/4 in. (image)\n39 x 32 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 14475, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
-    "title": "1960 The American Dream"
+  "publishers": [], 
+  "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
+  "dimensions": "36 x 29 3/4 in. (image)\n39 x 32 in. (sheet)", 
+  "title": "1960 The American Dream", 
+  "accession_number": "S7505.91.1A", 
+  "credit_line": "Gift of INB Financial Corporation", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165875, 
+  "creation_date": "1971", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Robert Indiana", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296207, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }, 
+    {
+      "name": "Domberger, KG", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299647, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 14475, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.16A-H", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "John Milton", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1851", 
-    "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 6 in. (each)", 
-    "dynasty": null, 
-    "irn": 61834, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "William Pickering"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Works of John Milton (volumes 1-8)"
+  "publishers": [
+    {
+      "name": "William Pickering"
+    }
+  ], 
+  "dimensions": "8 3/4 x 6 in. (each)", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
+  "accession_number": "LH2003.16A-H", 
+  "title": "The Works of John Milton (volumes 1-8)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277289, 
+  "creation_date": "1851", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "John Milton", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306127, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61834, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1857", 
-            "death_date": "1903", 
-            "name": "Blum, Robert Frederick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1882", 
-    "credit_line": "Gift of Winifred Brady Adams", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 17389, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Etcher"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Winifred Brady Adams", 
+  "accession_number": "55.7", 
+  "title": "The Etcher", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18173087, 
+  "creation_date": "1882", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Blum, Robert Frederick", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295861, 
+      "role": "Artist", 
+      "birth_date": "1857", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17389, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

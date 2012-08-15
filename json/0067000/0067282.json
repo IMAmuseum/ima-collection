@@ -1,30 +1,34 @@
 {
-    "accession_number": "2008.814", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1988", 
-            "name": "Hayter, Stanley William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1953", 
-    "credit_line": "Gift of Joan and Walter Wolf", 
-    "cultures": [], 
-    "dimensions": "14 7/8 x 12 3/8 in. (image)\n24 1/8 x 18 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 67282, 
-    "materials": "engraving, soft-ground etching with stencil coloring on beige Lauriat paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "L'Oeuvre Gravee"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Jeux d'eau (Play of Water)"
+  "publishers": [
+    {
+      "name": "L'Oeuvre Gravee"
+    }
+  ], 
+  "dimensions": "14 7/8 x 12 3/8 in. (image)\n24 1/8 x 18 3/8 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Joan and Walter Wolf", 
+  "accession_number": "2008.814", 
+  "title": "Jeux d'eau (Play of Water)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282625, 
+  "creation_date": "1953", 
+  "materials": "engraving, soft-ground etching with stencil coloring on beige Lauriat paper", 
+  "actors": [
+    {
+      "name": "Hayter, Stanley William", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295123, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67282, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

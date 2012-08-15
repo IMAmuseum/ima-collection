@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.36", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1936", 
-            "name": "Brown, Bolton Coit", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1923", 
-    "credit_line": "Gift of Mrs. Lucy Fletcher Brown", 
-    "cultures": [], 
-    "dimensions": "13 x 9 1/2 in. (image)\n14 1/2 x 11 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 14827, 
-    "materials": "ink on paper, lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Big Cedars"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 x 9 1/2 in. (image)\n14 1/2 x 11 in. (sheet)", 
+  "title": "Big Cedars", 
+  "accession_number": "40.36", 
+  "credit_line": "Gift of Mrs. Lucy Fletcher Brown", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166681, 
+  "creation_date": "1923", 
+  "materials": "ink on paper, lithograph", 
+  "actors": [
+    {
+      "name": "Brown, Bolton Coit", 
+      "after_follower": null, 
+      "death_date": "1936", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297519, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14827, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

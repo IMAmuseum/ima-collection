@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.84.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1747-1812", 
-            "death_date": "1747-1812", 
-            "name": "Jukes, Francis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1834", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19303, 
-    "materials": "hand-colored engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The English Cottage"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Discretionary Fund", 
+  "accession_number": "73.84.4", 
+  "title": "The English Cottage", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191359, 
+  "creation_date": "1834", 
+  "materials": "hand-colored engraving", 
+  "actors": [
+    {
+      "name": "Jukes, Francis", 
+      "after_follower": null, 
+      "death_date": "1747-1812", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300757, 
+      "role": "Artist", 
+      "birth_date": "1747-1812", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19303, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

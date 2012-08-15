@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.118", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1893", 
-            "death_date": "1983", 
-            "name": "Mir\u00f3, Joan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1961", 
-    "credit_line": "Bequest of Clarence O. Hamilton", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8558, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "T\u00eate Etoile"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": null, 
+  "title": "T\u00eate Etoile", 
+  "accession_number": "82.118", 
+  "credit_line": "Bequest of Clarence O. Hamilton", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151533, 
+  "creation_date": "1961", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Mir\u00f3, Joan", 
+      "after_follower": null, 
+      "death_date": "1983", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295641, 
+      "role": "Artist", 
+      "birth_date": "1893", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8558, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

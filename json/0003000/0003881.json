@@ -1,26 +1,30 @@
 {
-    "accession_number": "86.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1842", 
-            "death_date": "1914", 
-            "name": "Parton, Arthur", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "25 x 39 in.\n33 x 47 1/2 in. (framed)", 
-    "dynasty": null, 
-    "irn": 3881, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Loch Lomond"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "25 x 39 in.\n33 x 47 1/2 in. (framed)", 
+  "title": "Loch Lomond", 
+  "accession_number": "86.3", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140503, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Parton, Arthur", 
+      "after_follower": null, 
+      "death_date": "1914", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296587, 
+      "role": "Artist", 
+      "birth_date": "1842", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3881, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

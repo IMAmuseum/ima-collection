@@ -1,30 +1,34 @@
 {
-    "accession_number": "16.924A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1839", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": "15 1/4 x 10 1/8 in. (image); (each); (trimmed width)", 
-    "dynasty": null, 
-    "irn": 25098, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Edo-ya Matsugor^o"
-        }
-    ], 
-    "rights": null, 
-    "title": "scene from the kabuki play Shin Usuyuki Monogatari"
+  "publishers": [
+    {
+      "name": "Edo-ya Matsugor^o"
+    }
+  ], 
+  "dimensions": "15 1/4 x 10 1/8 in. (image); (each); (trimmed width)", 
+  "rights": null, 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "accession_number": "16.924A-C", 
+  "title": "scene from the kabuki play Shin Usuyuki Monogatari", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18204575, 
+  "creation_date": "1839", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25098, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

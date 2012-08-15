@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.342", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": null, 
-            "name": "Graves, Michael", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Alessi S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1985", 
-    "credit_line": "Gift from Frank and Barbara Grunwald", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 8.5 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 65485, 
-    "materials": "stainless steel and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "9093 kettle"
+  "publishers": [], 
+  "dimensions": "8 3/4 x 8.5 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift from Frank and Barbara Grunwald", 
+  "accession_number": "2008.342", 
+  "title": "9093 kettle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18280105, 
+  "creation_date": "1985", 
+  "materials": "stainless steel and plastic", 
+  "actors": [
+    {
+      "name": "Graves, Michael", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305613, 
+      "role": "Artist", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Alessi S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304005, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 65485, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

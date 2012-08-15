@@ -1,26 +1,30 @@
 {
-    "accession_number": "12.30H", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1830-1844", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": "5 3/4 x 8 1/8 in. (image)\n6 3/4 x 9 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 35296, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Evening Bell at Miidera"
+  "publishers": [], 
+  "dimensions": "5 3/4 x 8 1/8 in. (image)\n6 3/4 x 9 3/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": null, 
+  "accession_number": "12.30H", 
+  "title": "Evening Bell at Miidera", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18228333, 
+  "creation_date": "1830-1844", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35296, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1987.50", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1951", 
-            "name": "Sloan, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1927", 
-    "credit_line": "McKee Fine Arts Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "6 x 7 1/8 in. (image)\n9 1/4 x 12 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 7947, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Delaware Art Museum/ Artists Rights Society (ARS), New York", 
-    "title": "The Indian Detour"
+  "publishers": [], 
+  "rights": "\u00a9 Delaware Art Museum/ Artists Rights Society (ARS), New York", 
+  "dimensions": "6 x 7 1/8 in. (image)\n9 1/4 x 12 5/8 in. (sheet)", 
+  "title": "The Indian Detour", 
+  "accession_number": "1987.50", 
+  "credit_line": "McKee Fine Arts Purchase Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18150105, 
+  "creation_date": "1927", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Sloan, John", 
+      "after_follower": null, 
+      "death_date": "1951", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295703, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7947, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

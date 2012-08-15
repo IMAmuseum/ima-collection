@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.203", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1830", 
-            "name": "Lawrence, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1802", 
-    "credit_line": "Gift of Mrs. Elijah B. Martindale", 
-    "cultures": [], 
-    "dimensions": "27 1/4 x 23 1/4 in.", 
-    "dynasty": null, 
-    "irn": 19157, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Duchess of St. Albans"
+  "publishers": [], 
+  "dimensions": "27 1/4 x 23 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Elijah B. Martindale", 
+  "accession_number": "71.203", 
+  "title": "Duchess of St. Albans", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191017, 
+  "creation_date": "1802", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Lawrence, Thomas", 
+      "after_follower": null, 
+      "death_date": "1830", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298019, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19157, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

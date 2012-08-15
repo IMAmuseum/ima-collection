@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1701.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1805", 
-            "death_date": "1862", 
-            "name": "Brandard, Robert", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1859", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41435, 
-    "materials": "engraving on India paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Frosty Morning - Sunrise"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1701.15", 
+  "title": "A Frosty Morning - Sunrise", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18244605, 
+  "creation_date": "1859", 
+  "materials": "engraving on India paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Brandard, Robert", 
+      "after_follower": null, 
+      "death_date": "1862", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295095, 
+      "role": "Engraver", 
+      "birth_date": "1805", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41435, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

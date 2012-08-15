@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.52", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1740", 
-            "death_date": "1830", 
-            "name": "Lalonde, Richard de", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1785", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "6 3/8 X 10 1/2 in. (image)\n9 1/4 X 14 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 2815, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A couch with constructional details"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 3/8 X 10 1/2 in. (image)\n9 1/4 X 14 7/8 in. (sheet)", 
+  "title": "A couch with constructional details", 
+  "accession_number": "73.2.52", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138011, 
+  "creation_date": "about 1785", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lalonde, Richard de", 
+      "after_follower": null, 
+      "death_date": "1830", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296131, 
+      "role": "Artist", 
+      "birth_date": "1740", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2815, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

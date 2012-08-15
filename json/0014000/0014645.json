@@ -1,26 +1,30 @@
 {
-    "accession_number": "40.131", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1935", 
-            "name": "Hassam, Childe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1918", 
-    "credit_line": "Gift of Mrs. Childe Hassam", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14645, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Little School-house, Land of Nod."
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Little School-house, Land of Nod.", 
+  "accession_number": "40.131", 
+  "credit_line": "Gift of Mrs. Childe Hassam", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166235, 
+  "creation_date": "1918", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Hassam, Childe", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295317, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14645, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

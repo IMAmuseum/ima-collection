@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.75", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1878", 
-            "death_date": "1955", 
-            "name": "Nordfeldt, Bror Julius Olsson", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1911-1912", 
-    "credit_line": "Gift of Susan Forsyth Selby Sklar", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60832, 
-    "materials": "print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Illinois Street Company (South Chicago)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Susan Forsyth Selby Sklar", 
+  "accession_number": "2003.75", 
+  "title": "The Illinois Street Company (South Chicago)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276721, 
+  "creation_date": "1911-1912", 
+  "materials": "print", 
+  "actors": [
+    {
+      "name": "Nordfeldt, Bror Julius Olsson", 
+      "after_follower": null, 
+      "death_date": "1955", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303245, 
+      "role": "Artist", 
+      "birth_date": "1878", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60832, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

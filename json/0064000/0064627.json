@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.458A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Jurgen Bey", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Moooi", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1999", 
-    "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
-    "cultures": [], 
-    "dimensions": "32 3/8 \u00d7 18 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64627, 
-    "materials": "two-way mirror foil and existing chandelier", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Moooi \u00a9 Jurgen Bey", 
-    "title": "Light Shade Shade"
+  "publishers": [], 
+  "dimensions": "32 3/8 \u00d7 18 1/2 in.", 
+  "rights": "\u00a9 Moooi \u00a9 Jurgen Bey", 
+  "credit_line": "Deaccessioned Decorative/Design Arts Fund", 
+  "accession_number": "2009.458A-B", 
+  "title": "Light Shade Shade", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279119, 
+  "creation_date": "1999", 
+  "materials": "two-way mirror foil and existing chandelier", 
+  "actors": [
+    {
+      "name": "Jurgen Bey", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306813, 
+      "role": "Designer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }, 
+    {
+      "name": "Moooi", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306793, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64627, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

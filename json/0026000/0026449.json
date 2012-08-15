@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1840", 
-            "death_date": "1917", 
-            "name": "Auguste Rodin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1882-1888", 
-    "credit_line": "Emma Harter Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "5 3/4 x 3 15/16 (image) |  9 9/16 x 6 5/16 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 26449, 
-    "materials": "drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Printemps"
+  "publishers": [], 
+  "dimensions": "5 3/4 x 3 15/16 (image) |  9 9/16 x 6 5/16 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Emma Harter Sweetser Fund", 
+  "accession_number": "78.22", 
+  "title": "Le Printemps", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18207719, 
+  "creation_date": "1882-1888", 
+  "materials": "drypoint", 
+  "actors": [
+    {
+      "name": "Auguste Rodin", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297455, 
+      "role": "Artist", 
+      "birth_date": "1840", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26449, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

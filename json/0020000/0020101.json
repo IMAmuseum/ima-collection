@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.655", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1734", 
-            "death_date": "1802", 
-            "name": "Romney, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1773", 
-    "credit_line": "Gift of Mr. Benno Bordiga", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 20101, 
-    "materials": "charcoal on off-white laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Bacchanalian Revel in the Woods"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. Benno Bordiga", 
+  "accession_number": "74.655", 
+  "title": "A Bacchanalian Revel in the Woods", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193125, 
+  "creation_date": "about 1773", 
+  "materials": "charcoal on off-white laid paper", 
+  "actors": [
+    {
+      "name": "Romney, George", 
+      "after_follower": null, 
+      "death_date": "1802", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294987, 
+      "role": "Artist", 
+      "birth_date": "1734", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20101, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

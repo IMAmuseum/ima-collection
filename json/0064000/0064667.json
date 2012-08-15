@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.532A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1951", 
-            "death_date": null, 
-            "name": "Michele De Lucchi", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Artemide S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1986", 
-    "credit_line": "Gift of Artemide Inc.", 
-    "cultures": [], 
-    "dimensions": "H: 50 13/16 in. (fully extended)", 
-    "dynasty": null, 
-    "irn": 64667, 
-    "materials": "aluminum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Michele De Lucchi", 
-    "title": "Tolomeo lamp"
+  "publishers": [], 
+  "dimensions": "H: 50 13/16 in. (fully extended)", 
+  "rights": "\u00a9 Michele De Lucchi", 
+  "credit_line": "Gift of Artemide Inc.", 
+  "accession_number": "2009.532A-B", 
+  "title": "Tolomeo lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279171, 
+  "creation_date": "1986", 
+  "materials": "aluminum", 
+  "actors": [
+    {
+      "name": "Michele De Lucchi", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306877, 
+      "role": "Designer", 
+      "birth_date": "1951", 
+      "nationality": null
+    }, 
+    {
+      "name": "Artemide S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300503, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64667, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

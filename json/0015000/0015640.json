@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.206", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1791-1793", 
-    "credit_line": "Gift of Mr. and Mrs. Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "20 1/2 x 16 1/2 in.", 
-    "dynasty": null, 
-    "irn": 15640, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Self-Portrait"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "20 1/2 x 16 1/2 in.", 
+  "title": "Self-Portrait", 
+  "accession_number": "72.206", 
+  "credit_line": "Gift of Mr. and Mrs. Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168519, 
+  "creation_date": "1791-1793", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15640, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

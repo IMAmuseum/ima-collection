@@ -1,34 +1,40 @@
 {
-    "accession_number": "78.16-.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Dominick & Haff", 
-            "nationality": "American", 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Giles Brothers and Company", 
-            "nationality": null, 
-            "role": "Retailer"
-        }
-    ], 
-    "creation_date": "1881", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "creamer: 4 1/8 in. | waste bowl:  3 in.", 
-    "dynasty": null, 
-    "irn": 30813, 
-    "materials": "silver, gilding", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "waste bowl and creamer"
+  "publishers": [], 
+  "dimensions": "creamer: 4 1/8 in. | waste bowl:  3 in.", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "78.16-.17", 
+  "title": "waste bowl and creamer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18217977, 
+  "creation_date": "1881", 
+  "materials": "silver, gilding", 
+  "actors": [
+    {
+      "name": "Dominick & Haff", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299825, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": "American"
+    }, 
+    {
+      "name": "Giles Brothers and Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299827, 
+      "role": "Retailer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 30813, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

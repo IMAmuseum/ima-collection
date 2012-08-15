@@ -1,26 +1,30 @@
 {
-    "accession_number": "76.501", 
-    "actors": [
-        {
-            "after_follower": "Copy of", 
-            "birth_date": "1119", 
-            "death_date": "1185", 
-            "name": "Zhao Boju", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
-    "cultures": [], 
-    "dimensions": "L: 75 1/4 in.", 
-    "dynasty": "Qing dynasty", 
-    "irn": 24031, 
-    "materials": "ink and colors on silk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Thousand Miles, A Hundred Ponies"
+  "publishers": [], 
+  "dimensions": "L: 75 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
+  "accession_number": "76.501", 
+  "title": "A Thousand Miles, A Hundred Ponies", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18202147, 
+  "creation_date": null, 
+  "materials": "ink and colors on silk", 
+  "actors": [
+    {
+      "name": "Zhao Boju", 
+      "after_follower": "Copy of", 
+      "death_date": "1185", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301759, 
+      "role": "Artist", 
+      "birth_date": "1119", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24031, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

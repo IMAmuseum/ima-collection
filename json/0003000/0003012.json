@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.7A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1924-", 
-            "death_date": "1924-", 
-            "name": "Pepper, Beverly", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1974-1975", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "69 x 168 x 39", 
-    "dynasty": null, 
-    "irn": 3012, 
-    "materials": "stainless steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "PI"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "69 x 168 x 39", 
+  "title": "PI", 
+  "accession_number": "79.7A-B", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138461, 
+  "creation_date": "1974-1975", 
+  "materials": "stainless steel", 
+  "actors": [
+    {
+      "name": "Pepper, Beverly", 
+      "after_follower": null, 
+      "death_date": "1924-", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296251, 
+      "role": "Artist", 
+      "birth_date": "1924-", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3012, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

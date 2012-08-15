@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.527", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Royal Copenhagen Porcelain Manufactory", 
-            "nationality": "Danish", 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1781", 
-    "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6330, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "dessert plate"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "dessert plate", 
+  "accession_number": "75.527", 
+  "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18146255, 
+  "creation_date": "1781", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Royal Copenhagen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297415, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": "Danish"
+    }
+  ], 
+  "irn": 6330, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

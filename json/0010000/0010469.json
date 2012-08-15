@@ -1,34 +1,40 @@
 {
-    "accession_number": "75.490", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Meissen Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1723", 
-            "death_date": "1785", 
-            "name": "Friedrich E. Meyer I", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1723-1785", 
-    "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "H: 9 1/4 in .", 
-    "dynasty": null, 
-    "irn": 10469, 
-    "materials": "hard paste porcelain", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Spring"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 9 1/4 in .", 
+  "title": "Spring", 
+  "accession_number": "75.490", 
+  "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156147, 
+  "creation_date": "1723-1785", 
+  "materials": "hard paste porcelain", 
+  "actors": [
+    {
+      "name": "Meissen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294771, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Friedrich E. Meyer I", 
+      "after_follower": null, 
+      "death_date": "1785", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294925, 
+      "role": "Designer", 
+      "birth_date": "1723", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10469, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,38 +1,44 @@
 {
-    "accession_number": "1994.453", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": null, 
-            "name": "Crutchfield, William Richard", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1931", 
-            "death_date": null, 
-            "name": "Tyler, Kenneth", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1963", 
-    "credit_line": "Gift of Garo Antreasian", 
-    "cultures": [], 
-    "dimensions": "30 x 16 1/2 in (sheet)", 
-    "dynasty": null, 
-    "irn": 56091, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tamarind Lithography Workshop, Inc."
-        }
-    ], 
-    "rights": "\u00a9 Kenneth Tyler \u00a9 William Richard Crutchfield", 
-    "title": "Mr. No"
+  "publishers": [
+    {
+      "name": "Tamarind Lithography Workshop, Inc."
+    }
+  ], 
+  "dimensions": "30 x 16 1/2 in (sheet)", 
+  "rights": "\u00a9 Kenneth Tyler \u00a9 William Richard Crutchfield", 
+  "credit_line": "Gift of Garo Antreasian", 
+  "accession_number": "1994.453", 
+  "title": "Mr. No", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18273615, 
+  "creation_date": "1963", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Crutchfield, William Richard", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295585, 
+      "role": "Artist", 
+      "birth_date": "1932", 
+      "nationality": null
+    }, 
+    {
+      "name": "Tyler, Kenneth", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298331, 
+      "role": "Printer", 
+      "birth_date": "1931", 
+      "nationality": null
+    }
+  ], 
+  "irn": 56091, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.84.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1783-1852", 
-            "death_date": "1783-1852", 
-            "name": "Prout, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1813", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9981, 
-    "materials": "soft ground etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Village"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Village", 
+  "accession_number": "73.84.11", 
+  "credit_line": "Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155009, 
+  "creation_date": "1813", 
+  "materials": "soft ground etching", 
+  "actors": [
+    {
+      "name": "Prout, Samuel", 
+      "after_follower": null, 
+      "death_date": "1783-1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295339, 
+      "role": "Artist", 
+      "birth_date": "1783-1852", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9981, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

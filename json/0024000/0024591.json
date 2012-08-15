@@ -1,26 +1,30 @@
 {
-    "accession_number": "03.13", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bettazzi, R.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Miss Newcomer", 
-    "cultures": [], 
-    "dimensions": "19 x 14 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 24591, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Nativity"
+  "publishers": [], 
+  "dimensions": "19 x 14 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Miss Newcomer", 
+  "accession_number": "03.13", 
+  "title": "Nativity", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18203419, 
+  "creation_date": "19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Bettazzi, R.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296799, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 24591, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

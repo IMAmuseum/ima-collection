@@ -1,26 +1,30 @@
 {
-    "accession_number": "C10084", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1695", 
-            "death_date": "1736", 
-            "name": "Pater, Jean-Baptiste Joseph", 
-            "nationality": "French", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1721", 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 32852, 
-    "materials": "red chalk and graphite on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Three Standing Ladies"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "accession_number": "C10084", 
+  "title": "Three Standing Ladies", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222679, 
+  "creation_date": "about 1721", 
+  "materials": "red chalk and graphite on paper", 
+  "actors": [
+    {
+      "name": "Pater, Jean-Baptiste Joseph", 
+      "after_follower": null, 
+      "death_date": "1736", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300901, 
+      "role": "Artist", 
+      "birth_date": "1695", 
+      "nationality": "French"
+    }
+  ], 
+  "irn": 32852, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

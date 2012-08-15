@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.159", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1877", 
-            "death_date": "1953", 
-            "name": "Dufy, Raoul", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1926", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2039, 
-    "materials": "pen and ink on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
-    "title": "Horse Fair"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
+  "dimensions": null, 
+  "title": "Horse Fair", 
+  "accession_number": "32.159", 
+  "credit_line": "Gift of the Gamboliers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136159, 
+  "creation_date": "1926", 
+  "materials": "pen and ink on white paper", 
+  "actors": [
+    {
+      "name": "Dufy, Raoul", 
+      "after_follower": null, 
+      "death_date": "1953", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295789, 
+      "role": "Artist", 
+      "birth_date": "1877", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2039, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

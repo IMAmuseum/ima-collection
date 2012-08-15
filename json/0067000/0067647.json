@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.345A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1950", 
-            "death_date": null, 
-            "name": "Citterio, Antonio", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "B&B Italia, S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of B&B Italia USA Inc.", 
-    "cultures": [], 
-    "dimensions": "35 1/8 x 34 x 38 in.", 
-    "dynasty": null, 
-    "irn": 67647, 
-    "materials": "fabric and wood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Antonio Citterio", 
-    "title": "Apta 9750 chair"
+  "publishers": [], 
+  "dimensions": "35 1/8 x 34 x 38 in.", 
+  "rights": "\u00a9 Antonio Citterio", 
+  "credit_line": "Gift of B&B Italia USA Inc.", 
+  "accession_number": "2009.345A-B", 
+  "title": "Apta 9750 chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282919, 
+  "creation_date": null, 
+  "materials": "fabric and wood", 
+  "actors": [
+    {
+      "name": "Citterio, Antonio", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306841, 
+      "role": "Designer", 
+      "birth_date": "1950", 
+      "nationality": null
+    }, 
+    {
+      "name": "B&B Italia, S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306845, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67647, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

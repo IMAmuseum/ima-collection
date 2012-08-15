@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.47", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1914", 
-            "death_date": "2007", 
-            "name": "Wegner, Hans J.", 
-            "nationality": "Danish", 
-            "role": "designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "PP M\u00f8bler", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "37 x 19 x 18 in.", 
-    "dynasty": null, 
-    "irn": 69188, 
-    "materials": "wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chair"
+  "publishers": [], 
+  "dimensions": "37 x 19 x 18 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.47", 
+  "title": "Chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284319, 
+  "creation_date": null, 
+  "materials": "wood", 
+  "actors": [
+    {
+      "name": "Wegner, Hans J.", 
+      "after_follower": null, 
+      "death_date": "2007", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307455, 
+      "role": "designer", 
+      "birth_date": "1914", 
+      "nationality": "Danish"
+    }, 
+    {
+      "name": "PP M\u00f8bler", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307457, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69188, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

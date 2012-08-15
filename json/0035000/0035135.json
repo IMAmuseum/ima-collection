@@ -1,34 +1,40 @@
 {
-    "accession_number": "24.299", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1828", 
-            "death_date": "1875", 
-            "name": "Cadart, Alfred", 
-            "nationality": null, 
-            "role": "Printer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1840", 
-            "death_date": "1940", 
-            "name": "Niel, Gabrielle-Marie", 
-            "nationality": null, 
-            "role": "Etcher"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35135, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ruins de l' H\u00f4tel de Bretonvilliers"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "24.299", 
+  "title": "Ruins de l' H\u00f4tel de Bretonvilliers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18227963, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Cadart, Alfred", 
+      "after_follower": null, 
+      "death_date": "1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295073, 
+      "role": "Printer", 
+      "birth_date": "1828", 
+      "nationality": null
+    }, 
+    {
+      "name": "Niel, Gabrielle-Marie", 
+      "after_follower": null, 
+      "death_date": "1940", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303693, 
+      "role": "Etcher", 
+      "birth_date": "1840", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35135, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

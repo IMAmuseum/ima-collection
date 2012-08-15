@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.149", 
-    "actors": [
-        {
-            "after_follower": "After", 
-            "birth_date": "1881", 
-            "death_date": "1973", 
-            "name": "Picasso, Pablo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1920", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": "13 3/8 x 9 3/4 in. (image)", 
-    "dynasty": null, 
-    "irn": 20935, 
-    "materials": "photogravure with roulette and drypoint on chine appliqu\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of Pablo Picasso/Artists Rights Society (ARS), New York", 
-    "title": "La Table devant la fen\u00eatre (The Table in front of the window)"
+  "publishers": [], 
+  "dimensions": "13 3/8 x 9 3/4 in. (image)", 
+  "rights": "\u00a9 Estate of Pablo Picasso/Artists Rights Society (ARS), New York", 
+  "credit_line": "Gift of the Gamboliers", 
+  "accession_number": "32.149", 
+  "title": "La Table devant la fen\u00eatre (The Table in front of the window)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18194995, 
+  "creation_date": "1920", 
+  "materials": "photogravure with roulette and drypoint on chine appliqu\u00e9", 
+  "actors": [
+    {
+      "name": "Picasso, Pablo", 
+      "after_follower": "After", 
+      "death_date": "1973", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294969, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20935, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

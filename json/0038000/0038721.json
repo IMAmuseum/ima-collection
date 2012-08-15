@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.974", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "William R. Smith", 
-            "nationality": null, 
-            "role": "Engraver"
-        }, 
-        {
-            "after_follower": "After", 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1822", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "6 3/8 x 9 1/2 in (image)\n13 3/8 x 19 3/4 in (sheet)", 
-    "dynasty": null, 
-    "irn": 38721, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Rosslyn Castle"
+  "publishers": [], 
+  "dimensions": "6 3/8 x 9 1/2 in (image)\n13 3/8 x 19 3/4 in (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.974", 
+  "title": "Rosslyn Castle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18236915, 
+  "creation_date": "1822", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "William R. Smith", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304379, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": "After", 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38721, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.63", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1939", 
-            "death_date": null, 
-            "name": "Stern, Robert A.M.", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Reed & Barton", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1984", 
-    "credit_line": "Gift of Jewel Stern", 
-    "cultures": [], 
-    "dimensions": "H: 6 1/4  in.\nDiam.: 4 9/16 in.", 
-    "dynasty": null, 
-    "irn": 68626, 
-    "materials": "silver plate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Robert A. M. Stern", 
-    "title": "Century candlestick"
+  "publishers": [], 
+  "dimensions": "H: 6 1/4  in.\nDiam.: 4 9/16 in.", 
+  "rights": "\u00a9 Robert A. M. Stern", 
+  "credit_line": "Gift of Jewel Stern", 
+  "accession_number": "2010.63", 
+  "title": "Century candlestick", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283539, 
+  "creation_date": "1984", 
+  "materials": "silver plate", 
+  "actors": [
+    {
+      "name": "Stern, Robert A.M.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307891, 
+      "role": "Designer", 
+      "birth_date": "1939", 
+      "nationality": null
+    }, 
+    {
+      "name": "Reed & Barton", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307889, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68626, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

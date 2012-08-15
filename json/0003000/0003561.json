@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.20.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1937", 
-            "death_date": null, 
-            "name": "Clarke, John Clem", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Martha Delzell Memorial Fund and a Grant from the National Endowment for the Arts", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3561, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 John Clem Clarke", 
-    "title": "Bacchanal"
+  "publishers": [], 
+  "rights": "\u00a9 John Clem Clarke", 
+  "dimensions": null, 
+  "title": "Bacchanal", 
+  "accession_number": "71.20.1", 
+  "credit_line": "Martha Delzell Memorial Fund and a Grant from the National Endowment for the Arts", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18139731, 
+  "creation_date": "1970", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Clarke, John Clem", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295843, 
+      "role": "Artist", 
+      "birth_date": "1937", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3561, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

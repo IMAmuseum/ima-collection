@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.35", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1275", 
-            "death_date": "1328", 
-            "name": "Wang Zhenpeng", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1300s", 
-    "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
-    "cultures": [], 
-    "dimensions": "12 1/2 x 63 3/4 in. (image)\n12 1/2 x 238 7/8 in. (overall)", 
-    "dynasty": "Yuan dynasty", 
-    "irn": 2235, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Yakshas Lifting the Bowl"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "12 1/2 x 63 3/4 in. (image)\n12 1/2 x 238 7/8 in. (overall)", 
+  "title": "Yakshas Lifting the Bowl", 
+  "accession_number": "60.35", 
+  "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136637, 
+  "creation_date": "1300s", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Wang Zhenpeng", 
+      "after_follower": null, 
+      "death_date": "1328", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295891, 
+      "role": "Artist", 
+      "birth_date": "1275", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2235, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Yuan dynasty", 
+  "on_view": false
 }

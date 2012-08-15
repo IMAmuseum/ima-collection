@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.99.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1558", 
-            "death_date": "1617", 
-            "name": "Goltzius, Hendrick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1592", 
-    "credit_line": "Anna Hasselman Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28891, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Muse Clio"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Anna Hasselman Fund", 
+  "accession_number": "73.99.2", 
+  "title": "The Muse Clio", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213491, 
+  "creation_date": "1592", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Goltzius, Hendrick", 
+      "after_follower": null, 
+      "death_date": "1617", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296647, 
+      "role": "Artist", 
+      "birth_date": "1558", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28891, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.825.123", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1812", 
-            "death_date": "1896", 
-            "name": "Le Keux, John Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1865", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38060, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "View of the Chaplain's Quadrangle at Christ Church after the removal of the Chaplains' Buildings"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.123", 
+  "title": "View of the Chaplain's Quadrangle at Christ Church after the removal of the Chaplains' Buildings", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18235129, 
+  "creation_date": "1865", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Le Keux, John Henry", 
+      "after_follower": null, 
+      "death_date": "1896", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296351, 
+      "role": "Artist", 
+      "birth_date": "1812", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38060, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

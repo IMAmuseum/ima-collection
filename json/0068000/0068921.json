@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.242A-D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1941", 
-            "death_date": null, 
-            "name": "Chihuly, Dale", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Chihuly Studio", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Gift of Robert and Lisa Kessler", 
-    "cultures": [], 
-    "dimensions": "A) 8 x 12 x 12 1/2 in.; B) 2 x 4 3/4 x 4 3/4 in.; C) 3 1/2 x 3 1/2 x 4 in.; D) 7 x 7 x 8 in.", 
-    "dynasty": null, 
-    "irn": 68921, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Dale Chihuly", 
-    "title": "Green Basket Set centerpiece"
+  "publishers": [], 
+  "dimensions": "A) 8 x 12 x 12 1/2 in.; B) 2 x 4 3/4 x 4 3/4 in.; C) 3 1/2 x 3 1/2 x 4 in.; D) 7 x 7 x 8 in.", 
+  "rights": "\u00a9 Dale Chihuly", 
+  "credit_line": "Gift of Robert and Lisa Kessler", 
+  "accession_number": "2010.242A-D", 
+  "title": "Green Basket Set centerpiece", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283845, 
+  "creation_date": "1992", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Chihuly, Dale", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297245, 
+      "role": "Designer", 
+      "birth_date": "1941", 
+      "nationality": null
+    }, 
+    {
+      "name": "Chihuly Studio", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308047, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68921, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

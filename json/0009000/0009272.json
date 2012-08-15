@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.2.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1640", 
-            "death_date": "1711", 
-            "name": "B\u00e9rain, Jean, I", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1671", 
-            "death_date": "1716", 
-            "name": "Scotin, G\u00e9rard Jean-Baptiste", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1685", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "10 3/8 X 15 3/8 in.  (image)\n11 X 16 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 9272, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Decorative capital designs"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "10 3/8 X 15 3/8 in.  (image)\n11 X 16 1/2 in. (sheet)", 
+  "title": "Decorative capital designs", 
+  "accession_number": "73.2.22", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153329, 
+  "creation_date": "about 1685", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "B\u00e9rain, Jean, I", 
+      "after_follower": null, 
+      "death_date": "1711", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295153, 
+      "role": "Artist", 
+      "birth_date": "1640", 
+      "nationality": null
+    }, 
+    {
+      "name": "Scotin, G\u00e9rard Jean-Baptiste", 
+      "after_follower": null, 
+      "death_date": "1716", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298279, 
+      "role": "Engraver", 
+      "birth_date": "1671", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9272, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

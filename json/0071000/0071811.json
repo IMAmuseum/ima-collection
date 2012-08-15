@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.178A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1961", 
-            "death_date": null, 
-            "name": "Junya Watanabe", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Comme des Gar\u00e7ons", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "1996", 
-    "credit_line": "Deaccessioned Textiles Fund, James V. Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": "A) jacket: L: 25 1/2 in.\nW: 24 3/4 in. (shoulders)\nB) skirt: L: 42 1/8 in.\nW: 10 7/8 in. (waist)", 
-    "dynasty": null, 
-    "irn": 71811, 
-    "materials": "wool, cotton", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "suit"
+  "publishers": [], 
+  "dimensions": "A) jacket: L: 25 1/2 in.\nW: 24 3/4 in. (shoulders)\nB) skirt: L: 42 1/8 in.\nW: 10 7/8 in. (waist)", 
+  "rights": null, 
+  "credit_line": "Deaccessioned Textiles Fund, James V. Sweetser Fund", 
+  "accession_number": "2011.178A-B", 
+  "title": "suit", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287485, 
+  "creation_date": "1996", 
+  "materials": "wool, cotton", 
+  "actors": [
+    {
+      "name": "Junya Watanabe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307567, 
+      "role": "Designer", 
+      "birth_date": "1961", 
+      "nationality": null
+    }, 
+    {
+      "name": "Comme des Gar\u00e7ons", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307569, 
+      "role": "Design House", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71811, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

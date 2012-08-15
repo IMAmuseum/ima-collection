@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.59A-L", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Eugene Field", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1901", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "7 5/8 x 5 3/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 61877, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Charles Scribner's Sons"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Writings in Prose and Verse of Eugene Field"
+  "publishers": [
+    {
+      "name": "Charles Scribner's Sons"
+    }
+  ], 
+  "dimensions": "7 5/8 x 5 3/8 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.59A-L", 
+  "title": "The Writings in Prose and Verse of Eugene Field", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277375, 
+  "creation_date": "1901", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Eugene Field", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306253, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61877, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

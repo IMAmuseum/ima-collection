@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "b. 1946", 
-            "death_date": null, 
-            "name": "Murphy, Catherine E.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1977", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13059, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ogden Avenue"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Ogden Avenue", 
+  "accession_number": "78.32", 
+  "credit_line": "Delavan Smith Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162491, 
+  "creation_date": "1977", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Murphy, Catherine E.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299215, 
+      "role": "Artist", 
+      "birth_date": "b. 1946", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13059, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

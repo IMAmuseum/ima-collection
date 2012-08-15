@@ -1,26 +1,30 @@
 {
-    "accession_number": "56.98", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1886", 
-            "death_date": "1968", 
-            "name": "Fujita Tsuguji", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1901-1956", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "13 1/8 x 10 3/4 in.", 
-    "dynasty": null, 
-    "irn": 16288, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Self-Portrait"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "13 1/8 x 10 3/4 in.", 
+  "title": "Self-Portrait", 
+  "accession_number": "56.98", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170297, 
+  "creation_date": "1901-1956", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Fujita Tsuguji", 
+      "after_follower": null, 
+      "death_date": "1968", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300133, 
+      "role": "Artist", 
+      "birth_date": "1886", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16288, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

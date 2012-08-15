@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1800", 
-    "credit_line": "Gift in memory of Evan F. Lilly", 
-    "cultures": [], 
-    "dimensions": "48 x 72 in.", 
-    "dynasty": null, 
-    "irn": 930, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Fifth Plague of Egypt"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "48 x 72 in.", 
+  "title": "The Fifth Plague of Egypt", 
+  "accession_number": "55.24", 
+  "credit_line": "Gift in memory of Evan F. Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133451, 
+  "creation_date": "1800", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }
+  ], 
+  "irn": 930, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

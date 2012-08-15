@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.90.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1730", 
-            "death_date": "1771", 
-            "name": "Weirotter, Franz Edmund", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1767", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25529, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Gateway to the Harbour"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "72.90.17", 
+  "title": "The Gateway to the Harbour", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205561, 
+  "creation_date": "1767", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Weirotter, Franz Edmund", 
+      "after_follower": null, 
+      "death_date": "1771", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295623, 
+      "role": "Artist", 
+      "birth_date": "1730", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25529, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.645A-D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1935", 
-            "death_date": null, 
-            "name": "Bellini, Mario", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "C & B Italia", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1966", 
-    "credit_line": "Gift of Dr. Michael Sze", 
-    "cultures": [], 
-    "dimensions": "chair: 23 1/4 x 30 11/16 x 28 1/4 in. (w/out cushion)", 
-    "dynasty": null, 
-    "irn": 67626, 
-    "materials": "plastic and leather", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Mario Bellini", 
-    "title": "Amanta lounge chair"
+  "publishers": [], 
+  "dimensions": "chair: 23 1/4 x 30 11/16 x 28 1/4 in. (w/out cushion)", 
+  "rights": "\u00a9 Mario Bellini", 
+  "credit_line": "Gift of Dr. Michael Sze", 
+  "accession_number": "2009.645A-D", 
+  "title": "Amanta lounge chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282903, 
+  "creation_date": "1966", 
+  "materials": "plastic and leather", 
+  "actors": [
+    {
+      "name": "Bellini, Mario", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307523, 
+      "role": "Designer", 
+      "birth_date": "1935", 
+      "nationality": null
+    }, 
+    {
+      "name": "C & B Italia", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307389, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67626, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

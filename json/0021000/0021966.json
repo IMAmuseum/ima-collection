@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.252", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1882", 
-            "death_date": "1960", 
-            "name": "Herbin, Auguste", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1904", 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "12 13/16 x 16 in.", 
-    "dynasty": null, 
-    "irn": 21966, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Park in Paris"
+  "publishers": [], 
+  "dimensions": "12 13/16 x 16 in.", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "The Holliday Collection", 
+  "accession_number": "79.252", 
+  "title": "Park in Paris", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18197333, 
+  "creation_date": "1904", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Herbin, Auguste", 
+      "after_follower": null, 
+      "death_date": "1960", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301321, 
+      "role": "Artist", 
+      "birth_date": "1882", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21966, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

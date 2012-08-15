@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.891.75", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1788", 
-            "death_date": "1847", 
-            "name": "Collins, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1781", 
-            "death_date": "1834", 
-            "name": "Cooke, George", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1824", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38400, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Walmer Castle, Kent"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.891.75", 
+  "title": "Walmer Castle, Kent", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18236035, 
+  "creation_date": "1824", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Collins, William", 
+      "after_follower": null, 
+      "death_date": "1847", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304247, 
+      "role": "Artist", 
+      "birth_date": "1788", 
+      "nationality": null
+    }, 
+    {
+      "name": "Cooke, George", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296967, 
+      "role": "Engraver", 
+      "birth_date": "1781", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38400, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

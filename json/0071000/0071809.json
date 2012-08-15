@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.176", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1941", 
-            "death_date": null, 
-            "name": "Vivienne Westwood", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1946", 
-            "death_date": "2010", 
-            "name": "Malcolm McLaren", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "Autumn/Winter 1982-1983", 
-    "credit_line": "Caroline Marmon Fesler Fund", 
-    "cultures": [], 
-    "dimensions": "L: 127 1/8 in.\nW: 41 in. (shoulders)", 
-    "dynasty": null, 
-    "irn": 71809, 
-    "materials": "cotton", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "dress (Nostalgia of Mud Collection)"
+  "publishers": [], 
+  "dimensions": "L: 127 1/8 in.\nW: 41 in. (shoulders)", 
+  "rights": null, 
+  "credit_line": "Caroline Marmon Fesler Fund", 
+  "accession_number": "2011.176", 
+  "title": "dress (Nostalgia of Mud Collection)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287479, 
+  "creation_date": "Autumn/Winter 1982-1983", 
+  "materials": "cotton", 
+  "actors": [
+    {
+      "name": "Vivienne Westwood", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308487, 
+      "role": "Designer", 
+      "birth_date": "1941", 
+      "nationality": null
+    }, 
+    {
+      "name": "Malcolm McLaren", 
+      "after_follower": null, 
+      "death_date": "2010", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308489, 
+      "role": "Designer", 
+      "birth_date": "1946", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71809, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

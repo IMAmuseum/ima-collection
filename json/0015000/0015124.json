@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.94", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1808", 
-            "death_date": "1876", 
-            "name": "Last, Carel Christiaan Antony", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15124, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Presentation in the Temple"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Presentation in the Temple", 
+  "accession_number": "09.94", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167395, 
+  "creation_date": "19th century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Last, Carel Christiaan Antony", 
+      "after_follower": null, 
+      "death_date": "1876", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299807, 
+      "role": "Artist", 
+      "birth_date": "1808", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15124, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

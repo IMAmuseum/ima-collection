@@ -1,26 +1,30 @@
 {
-    "accession_number": "46.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1865", 
-            "death_date": "1945", 
-            "name": "Cameron, David Young", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1923", 
-    "credit_line": "Gift of Mrs. Wm. H. Thompson", 
-    "cultures": [], 
-    "dimensions": "10 1/4 x 16 in (image)\n12 x 17 3/4 in (sheet)", 
-    "dynasty": null, 
-    "irn": 2750, 
-    "materials": "etching and drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ben Lomond"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "10 1/4 x 16 in (image)\n12 x 17 3/4 in (sheet)", 
+  "title": "Ben Lomond", 
+  "accession_number": "46.6", 
+  "credit_line": "Gift of Mrs. Wm. H. Thompson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137863, 
+  "creation_date": "1923", 
+  "materials": "etching and drypoint", 
+  "actors": [
+    {
+      "name": "Cameron, David Young", 
+      "after_follower": null, 
+      "death_date": "1945", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296099, 
+      "role": "Artist", 
+      "birth_date": "1865", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2750, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "2006.123", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1886", 
-            "death_date": "1960", 
-            "name": "Natori Shunsen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1925", 
-    "credit_line": "Purchased with funds provided by Patricia LaCrosse", 
-    "cultures": [], 
-    "dimensions": "15 3/4 x 10 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 63621, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Watanabe Sh^ozabur^o"
-        }
-    ], 
-    "rights": "\u00a9 Natori Shunsen", 
-    "title": "The Actor Ichimura Uzaemon XV as Iriya Naozamurai (the faithful samurai Kataoka Naojir^o) in a snowstorm"
+  "publishers": [
+    {
+      "name": "Watanabe Sh^ozabur^o"
+    }
+  ], 
+  "dimensions": "15 3/4 x 10 7/8 in. (sheet)", 
+  "rights": "\u00a9 Natori Shunsen", 
+  "credit_line": "Purchased with funds provided by Patricia LaCrosse", 
+  "accession_number": "2006.123", 
+  "title": "The Actor Ichimura Uzaemon XV as Iriya Naozamurai (the faithful samurai Kataoka Naojir^o) in a snowstorm", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278647, 
+  "creation_date": "1925", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Natori Shunsen", 
+      "after_follower": null, 
+      "death_date": "1960", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306667, 
+      "role": "Artist", 
+      "birth_date": "1886", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63621, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

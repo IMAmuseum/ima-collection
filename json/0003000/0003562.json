@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.20.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": null, 
-            "name": "Estes, Richard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Martha Delzell Memorial Fund and a Grant from the National Endowment for the Arts", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3562, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cafeteria"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Cafeteria", 
+  "accession_number": "71.20.2", 
+  "credit_line": "Martha Delzell Memorial Fund and a Grant from the National Endowment for the Arts", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18139735, 
+  "creation_date": "1970", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Estes, Richard", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296445, 
+      "role": "Artist", 
+      "birth_date": "1932", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3562, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

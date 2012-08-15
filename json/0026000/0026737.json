@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.106", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1730", 
-            "death_date": "1769", 
-            "name": "Amand, Jacques-Fran\u00e7ois", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1730-1769", 
-    "credit_line": "James V. Sweetser Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 26737, 
-    "materials": "red crayon on off-white laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Roman Scene"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "James V. Sweetser Fund", 
+  "accession_number": "57.106", 
+  "title": "Roman Scene", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18208413, 
+  "creation_date": "1730-1769", 
+  "materials": "red crayon on off-white laid paper", 
+  "actors": [
+    {
+      "name": "Amand, Jacques-Fran\u00e7ois", 
+      "after_follower": null, 
+      "death_date": "1769", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302319, 
+      "role": "Artist", 
+      "birth_date": "1730", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26737, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

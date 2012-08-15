@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.448A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1967", 
-            "death_date": null, 
-            "name": "Piet H. Eek", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1967", 
-            "death_date": null, 
-            "name": "Piet H. Eek", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1990", 
-    "credit_line": "Frank Curtis Springer & Irving Moxley Springer Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "85 1/8 \u00d7 39 3/8 \u00d7 20 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64678, 
-    "materials": "pinewood, scrap wood, plywood, and steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Piet Hein Eek", 
-    "title": "Scrap Wood chair"
+  "publishers": [], 
+  "dimensions": "85 1/8 \u00d7 39 3/8 \u00d7 20 1/2 in.", 
+  "rights": "\u00a9 Piet Hein Eek", 
+  "credit_line": "Frank Curtis Springer & Irving Moxley Springer Purchase Fund", 
+  "accession_number": "2009.448A-B", 
+  "title": "Scrap Wood chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279187, 
+  "creation_date": "1990", 
+  "materials": "pinewood, scrap wood, plywood, and steel", 
+  "actors": [
+    {
+      "name": "Piet H. Eek", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306909, 
+      "role": "Designer", 
+      "birth_date": "1967", 
+      "nationality": null
+    }, 
+    {
+      "name": "Piet H. Eek", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306909, 
+      "role": "Manufacturer", 
+      "birth_date": "1967", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64678, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

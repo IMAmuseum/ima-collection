@@ -1,26 +1,30 @@
 {
-    "accession_number": "56.86", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1914", 
-            "name": "Gruelle, Richard Buckner", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1892", 
-    "credit_line": "Gift of Alberta Miller", 
-    "cultures": [], 
-    "dimensions": "18 1/2 x 12 5/8", 
-    "dynasty": null, 
-    "irn": 33841, 
-    "materials": "watercolor on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Artist's Studio"
+  "publishers": [], 
+  "dimensions": "18 1/2 x 12 5/8", 
+  "rights": null, 
+  "credit_line": "Gift of Alberta Miller", 
+  "accession_number": "56.86", 
+  "title": "The Artist's Studio", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224965, 
+  "creation_date": "1892", 
+  "materials": "watercolor on off-white paper", 
+  "actors": [
+    {
+      "name": "Gruelle, Richard Buckner", 
+      "after_follower": null, 
+      "death_date": "1914", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297009, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33841, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

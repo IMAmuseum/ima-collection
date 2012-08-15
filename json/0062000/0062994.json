@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.37A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Jane Austen", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1906", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 1/2 x 6 in. (each)", 
-    "dynasty": null, 
-    "irn": 62994, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Frank S. Holby"
-        }
-    ], 
-    "rights": null, 
-    "title": "Novels and Letters of Jane Austen"
+  "publishers": [
+    {
+      "name": "Frank S. Holby"
+    }
+  ], 
+  "dimensions": "8 1/2 x 6 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.37A-B", 
+  "title": "Novels and Letters of Jane Austen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278169, 
+  "creation_date": "1906", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Jane Austen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306185, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62994, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

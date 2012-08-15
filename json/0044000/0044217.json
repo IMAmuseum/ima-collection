@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1843", 
-            "death_date": "1905", 
-            "name": "Ferrari, Giuseppe", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1870", 
-    "credit_line": "Gift of Francine and Roger Hurwitz", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 44217, 
-    "materials": "watercolor", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Italian Peasant"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Francine and Roger Hurwitz", 
+  "accession_number": "2001.17", 
+  "title": "Italian Peasant", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18251413, 
+  "creation_date": "about 1870", 
+  "materials": "watercolor", 
+  "actors": [
+    {
+      "name": "Ferrari, Giuseppe", 
+      "after_follower": null, 
+      "death_date": "1905", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305085, 
+      "role": "Artist", 
+      "birth_date": "1843", 
+      "nationality": null
+    }
+  ], 
+  "irn": 44217, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.88A-D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "PercyBysshe Shelley", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 1/8 x 6 in. (each)", 
-    "dynasty": null, 
-    "irn": 62241, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Houghton Mifflin Company"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Complete Poetical Works of Percy Bysshe Shelley (volumes 1-4)"
+  "publishers": [
+    {
+      "name": "Houghton Mifflin Company"
+    }
+  ], 
+  "dimensions": "8 1/8 x 6 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.88A-D", 
+  "title": "The Complete Poetical Works of Percy Bysshe Shelley (volumes 1-4)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277615, 
+  "creation_date": null, 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "PercyBysshe Shelley", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306383, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62241, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

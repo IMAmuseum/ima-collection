@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.230", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1874", 
-            "death_date": "1940", 
-            "name": "Sturges, Dwight Case", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1919", 
-    "credit_line": "Roger G. Wolcott Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18873, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Plate Printer #2"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Roger G. Wolcott Fund", 
+  "accession_number": "1985.230", 
+  "title": "Plate Printer #2", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190259, 
+  "creation_date": "1919", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Sturges, Dwight Case", 
+      "after_follower": null, 
+      "death_date": "1940", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300687, 
+      "role": "Artist", 
+      "birth_date": "1874", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18873, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.482", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1946", 
-            "death_date": null, 
-            "name": "Jorge Pensi", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Knoll Associates, Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1988", 
-    "credit_line": "Jane Weldon Myers Acquisition Fund", 
-    "cultures": [], 
-    "dimensions": "30 1/2 x 18 1/4 x 21 1/8 in.", 
-    "dynasty": null, 
-    "irn": 64777, 
-    "materials": "aluminum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jorge Pensi", 
-    "title": "Toledo chair"
+  "publishers": [], 
+  "dimensions": "30 1/2 x 18 1/4 x 21 1/8 in.", 
+  "rights": "\u00a9 Jorge Pensi", 
+  "credit_line": "Jane Weldon Myers Acquisition Fund", 
+  "accession_number": "2009.482", 
+  "title": "Toledo chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279299, 
+  "creation_date": "1988", 
+  "materials": "aluminum", 
+  "actors": [
+    {
+      "name": "Jorge Pensi", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307101, 
+      "role": "Designer", 
+      "birth_date": "1946", 
+      "nationality": null
+    }, 
+    {
+      "name": "Knoll Associates, Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307105, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64777, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

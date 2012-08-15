@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.184", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1750", 
-            "death_date": "1850", 
-            "name": "Godby, James", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1815", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36246, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bishop Bassuet"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.184", 
+  "title": "Bishop Bassuet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18230505, 
+  "creation_date": "1815", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Godby, James", 
+      "after_follower": null, 
+      "death_date": "1850", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303845, 
+      "role": "Engraver", 
+      "birth_date": "1750", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36246, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

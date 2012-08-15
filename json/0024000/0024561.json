@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.456", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1690", 
-            "death_date": "1743", 
-            "name": "Lancret, Nicolas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1724", 
-    "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "37 3/4 x 35 1/2 in.", 
-    "dynasty": null, 
-    "irn": 24561, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Swing"
+  "publishers": [], 
+  "dimensions": "37 3/4 x 35 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
+  "accession_number": "75.456", 
+  "title": "The Swing", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18203347, 
+  "creation_date": "about 1724", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Lancret, Nicolas", 
+      "after_follower": null, 
+      "death_date": "1743", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295589, 
+      "role": "Artist", 
+      "birth_date": "1690", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24561, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

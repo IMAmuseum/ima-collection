@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.305", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1612", 
-            "death_date": "1682", 
-            "name": "Lombard, Pierre", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "before 1672", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 8845, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Elizabeth Castlehaven Comtissa"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Elizabeth Castlehaven Comtissa", 
+  "accession_number": "77.305", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152271, 
+  "creation_date": "before 1672", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lombard, Pierre", 
+      "after_follower": null, 
+      "death_date": "1682", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298147, 
+      "role": "Artist", 
+      "birth_date": "1612", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8845, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

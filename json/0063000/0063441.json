@@ -1,26 +1,30 @@
 {
-    "accession_number": "2006.133.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1754", 
-            "death_date": "1815", 
-            "name": "Yi Bingshou", 
-            "nationality": null, 
-            "role": "Calligrapher"
-        }
-    ], 
-    "creation_date": "1800", 
-    "credit_line": "Gift of Mr. and Mrs. Irving Y. Lo", 
-    "cultures": [], 
-    "dimensions": "55 7/8 x 12 5/8 in.", 
-    "dynasty": "Qing dynasty", 
-    "irn": 63441, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Calligraphy couplet"
+  "publishers": [], 
+  "dimensions": "55 7/8 x 12 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Irving Y. Lo", 
+  "accession_number": "2006.133.2", 
+  "title": "Calligraphy couplet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278491, 
+  "creation_date": "1800", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Yi Bingshou", 
+      "after_follower": null, 
+      "death_date": "1815", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306567, 
+      "role": "Calligrapher", 
+      "birth_date": "1754", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63441, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

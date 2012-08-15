@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.447", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1978", 
-            "death_date": null, 
-            "name": "Maarten Baas", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1978", 
-            "death_date": null, 
-            "name": "Maarten Baas", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "2004", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "20 x 13 x 8 in.", 
-    "dynasty": null, 
-    "irn": 64613, 
-    "materials": "limewood", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Maarten Baas", 
-    "title": "Your Best Kitchen Mate! Knife block"
+  "publishers": [], 
+  "dimensions": "20 x 13 x 8 in.", 
+  "rights": "\u00a9 Maarten Baas", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "2009.447", 
+  "title": "Your Best Kitchen Mate! Knife block", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279099, 
+  "creation_date": "2004", 
+  "materials": "limewood", 
+  "actors": [
+    {
+      "name": "Maarten Baas", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306789, 
+      "role": "Designer", 
+      "birth_date": "1978", 
+      "nationality": null
+    }, 
+    {
+      "name": "Maarten Baas", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306789, 
+      "role": "manufacturer", 
+      "birth_date": "1978", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64613, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

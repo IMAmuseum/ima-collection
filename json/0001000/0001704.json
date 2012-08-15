@@ -1,26 +1,30 @@
 {
-    "accession_number": "C10023", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1490", 
-            "death_date": "1551", 
-            "name": "Isenbrant, Adriaen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "5 1/2 x 3 1/2 in.", 
-    "dynasty": null, 
-    "irn": 1704, 
-    "materials": "oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Joseph and Mary in Bethlehem"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "5 1/2 x 3 1/2 in.", 
+  "title": "Joseph and Mary in Bethlehem", 
+  "accession_number": "C10023", 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135357, 
+  "creation_date": null, 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Isenbrant, Adriaen", 
+      "after_follower": null, 
+      "death_date": "1551", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295627, 
+      "role": "Artist", 
+      "birth_date": "1490", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1704, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

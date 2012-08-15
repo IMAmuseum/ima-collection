@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.56", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1730", 
-            "death_date": "1781", 
-            "name": "Soga Shohaku", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1730-1781", 
-    "credit_line": "Mr. and Mrs. Richard Crane Fund", 
-    "cultures": [], 
-    "dimensions": "48 x 21 7/8 in. (image)\n78 1/2 x 29 7/8 in. (overall)", 
-    "dynasty": null, 
-    "irn": 4358, 
-    "materials": "ink, paper", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Three Laughers of Tiger Ravine"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "48 x 21 7/8 in. (image)\n78 1/2 x 29 7/8 in. (overall)", 
+  "title": "The Three Laughers of Tiger Ravine", 
+  "accession_number": "2000.56", 
+  "credit_line": "Mr. and Mrs. Richard Crane Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18141623, 
+  "creation_date": "1730-1781", 
+  "materials": "ink, paper", 
+  "actors": [
+    {
+      "name": "Soga Shohaku", 
+      "after_follower": null, 
+      "death_date": "1781", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296765, 
+      "role": "Artist", 
+      "birth_date": "1730", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4358, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

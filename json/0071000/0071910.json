@@ -1,42 +1,50 @@
 {
-    "accession_number": "2011.198A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1967", 
-            "death_date": null, 
-            "name": "Yves B\u00e9har", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1974", 
-            "death_date": null, 
-            "name": "Bret Recor", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Quanta Computer Incorporated", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2007", 
-    "credit_line": "Gift of George Kravis II", 
-    "cultures": [], 
-    "dimensions": "A) laptop: 1 1/4 x 9 x 9 3/4 in.\nB) battery: 2 5/8 x 73 1/2 x 1 in.\nC) power cord: 1 3/4 x 8 1/16 x 13/16 in.", 
-    "dynasty": null, 
-    "irn": 71910, 
-    "materials": "metal and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Yves B\u00e9har", 
-    "title": "One Laptop Per Child (OLPC) XO"
+  "publishers": [], 
+  "dimensions": "A) laptop: 1 1/4 x 9 x 9 3/4 in.\nB) battery: 2 5/8 x 73 1/2 x 1 in.\nC) power cord: 1 3/4 x 8 1/16 x 13/16 in.", 
+  "rights": "\u00a9 Yves B\u00e9har", 
+  "credit_line": "Gift of George Kravis II", 
+  "accession_number": "2011.198A-C", 
+  "title": "One Laptop Per Child (OLPC) XO", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287563, 
+  "creation_date": "2007", 
+  "materials": "metal and plastic", 
+  "actors": [
+    {
+      "name": "Yves B\u00e9har", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308519, 
+      "role": "Designer", 
+      "birth_date": "1967", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bret Recor", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308523, 
+      "role": "Designer", 
+      "birth_date": "1974", 
+      "nationality": null
+    }, 
+    {
+      "name": "Quanta Computer Incorporated", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308525, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71910, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

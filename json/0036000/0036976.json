@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1844", 
-            "death_date": "1917", 
-            "name": "Liang Yuwei", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 36976, 
-    "materials": "ink and colors on silk or pape. fan painting.", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Narcissus and Rock"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.16", 
+  "title": "Narcissus and Rock", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18232201, 
+  "creation_date": null, 
+  "materials": "ink and colors on silk or pape. fan painting.", 
+  "actors": [
+    {
+      "name": "Liang Yuwei", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303177, 
+      "role": "Artist", 
+      "birth_date": "1844", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36976, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

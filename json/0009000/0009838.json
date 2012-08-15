@@ -1,26 +1,30 @@
 {
-    "accession_number": "63.264", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1954", 
-            "name": "Matisse, Henri", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century - 20th century", 
-    "credit_line": "Gift of Mr. and Mrs. J.W. Alsdorf", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9838, 
-    "materials": "crayon on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Seated Female Figure"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": null, 
+  "title": "Seated Female Figure", 
+  "accession_number": "63.264", 
+  "credit_line": "Gift of Mr. and Mrs. J.W. Alsdorf", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154677, 
+  "creation_date": "19th century - 20th century", 
+  "materials": "crayon on white paper", 
+  "actors": [
+    {
+      "name": "Matisse, Henri", 
+      "after_follower": null, 
+      "death_date": "1954", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298025, 
+      "role": "Artist", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9838, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

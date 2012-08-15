@@ -1,38 +1,44 @@
 {
-    "accession_number": "80.250", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1924", 
-            "death_date": "2005", 
-            "name": "Stroh, Earl", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Tamarind Institute", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift of Mrs. Hiram W. McKee", 
-    "cultures": [], 
-    "dimensions": "20 1/4 x 29 1/4 in.", 
-    "dynasty": null, 
-    "irn": 14286, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tamarind Institute"
-        }
-    ], 
-    "rights": null, 
-    "title": "Thracian Mode"
+  "publishers": [
+    {
+      "name": "Tamarind Institute"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "20 1/4 x 29 1/4 in.", 
+  "title": "Thracian Mode", 
+  "accession_number": "80.250", 
+  "credit_line": "Gift of Mrs. Hiram W. McKee", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165397, 
+  "creation_date": "1979", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Stroh, Earl", 
+      "after_follower": null, 
+      "death_date": "2005", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299575, 
+      "role": "Artist", 
+      "birth_date": "1924", 
+      "nationality": null
+    }, 
+    {
+      "name": "Tamarind Institute", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299577, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 14286, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

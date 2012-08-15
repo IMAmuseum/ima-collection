@@ -1,26 +1,30 @@
 {
-    "accession_number": "03.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1849", 
-            "death_date": "1916", 
-            "name": "William Merritt Chase", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1902", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "72 x 36 in.\n78 1/2 x 42 1/2 in. (framed)", 
-    "dynasty": null, 
-    "irn": 8563, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Dorothy"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "72 x 36 in.\n78 1/2 x 42 1/2 in. (framed)", 
+  "title": "Dorothy", 
+  "accession_number": "03.4", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151549, 
+  "creation_date": "1902", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "William Merritt Chase", 
+      "after_follower": null, 
+      "death_date": "1916", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295953, 
+      "role": "Artist", 
+      "birth_date": "1849", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8563, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

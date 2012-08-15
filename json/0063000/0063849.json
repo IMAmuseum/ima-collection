@@ -1,26 +1,30 @@
 {
-    "accession_number": "2006.112", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1962", 
-            "death_date": null, 
-            "name": "Gregory Crewdson", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Purchased with funds provided by Kay F. Koch in memory of Bryan B. Molloy", 
-    "cultures": [], 
-    "dimensions": "47 1/2 x 59 1/2 in. (image)", 
-    "dynasty": null, 
-    "irn": 63849, 
-    "materials": "C-print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gregory Crewdson", 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": "47 1/2 x 59 1/2 in. (image)", 
+  "rights": "\u00a9 Gregory Crewdson", 
+  "credit_line": "Purchased with funds provided by Kay F. Koch in memory of Bryan B. Molloy", 
+  "accession_number": "2006.112", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278751, 
+  "creation_date": "1998", 
+  "materials": "C-print", 
+  "actors": [
+    {
+      "name": "Gregory Crewdson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306723, 
+      "role": "Artist", 
+      "birth_date": "1962", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63849, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

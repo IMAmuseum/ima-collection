@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.33A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1972", 
-            "name": "Norell, Norman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1952", 
-    "credit_line": "Gift of Mrs. Mark Holeman in memory of Kathryne S. Block", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12683, 
-    "materials": "silk chiffon, ostrich feathers", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Norman Norell", 
-    "title": "dress"
+  "publishers": [], 
+  "rights": "\u00a9 Norman Norell", 
+  "dimensions": null, 
+  "title": "dress", 
+  "accession_number": "1985.33A", 
+  "credit_line": "Gift of Mrs. Mark Holeman in memory of Kathryne S. Block", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18161609, 
+  "creation_date": "1952", 
+  "materials": "silk chiffon, ostrich feathers", 
+  "actors": [
+    {
+      "name": "Norell, Norman", 
+      "after_follower": null, 
+      "death_date": "1972", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294959, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12683, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "12.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1740-1806", 
-            "death_date": "1740-1806", 
-            "name": "Schellenberg, Johann Rudolph", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th Century", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 49229, 
-    "materials": "copper engraving plate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "oval portrait"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "accession_number": "12.23", 
+  "title": "oval portrait", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18259851, 
+  "creation_date": "18th Century", 
+  "materials": "copper engraving plate", 
+  "actors": [
+    {
+      "name": "Schellenberg, Johann Rudolph", 
+      "after_follower": null, 
+      "death_date": "1740-1806", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305375, 
+      "role": "Artist", 
+      "birth_date": "1740-1806", 
+      "nationality": null
+    }
+  ], 
+  "irn": 49229, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

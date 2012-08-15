@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.11.99", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1868", 
-            "death_date": "1962", 
-            "name": "Bradley, William H.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1895", 
-    "credit_line": "Museum Acquisition", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4653, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Chap Book (Thanksgiving Number)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Chap Book (Thanksgiving Number)", 
+  "accession_number": "67.11.99", 
+  "credit_line": "Museum Acquisition", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142309, 
+  "creation_date": "1895", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Bradley, William H.", 
+      "after_follower": null, 
+      "death_date": "1962", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296883, 
+      "role": "Artist", 
+      "birth_date": "1868", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4653, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

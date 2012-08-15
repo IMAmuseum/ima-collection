@@ -1,26 +1,30 @@
 {
-    "accession_number": "24.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Master of the Legend of St. Godelieve", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1500", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "32 x 70 in. (closed), 32 x 138 in. (open)", 
-    "dynasty": null, 
-    "irn": 23917, 
-    "materials": "oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Miracles of Santiago"
+  "publishers": [], 
+  "dimensions": "32 x 70 in. (closed), 32 x 138 in. (open)", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "24.3", 
+  "title": "The Miracles of Santiago", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18201893, 
+  "creation_date": "about 1500", 
+  "materials": "oil on wood", 
+  "actors": [
+    {
+      "name": "Master of the Legend of St. Godelieve", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301739, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 23917, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

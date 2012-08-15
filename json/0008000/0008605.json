@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.16", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1906", 
-            "death_date": "1965", 
-            "name": "Smith, David", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1952", 
-    "credit_line": "Mary B. Milliken Fund", 
-    "cultures": [], 
-    "dimensions": "15 3/4 x 20 1/2 in", 
-    "dynasty": null, 
-    "irn": 8605, 
-    "materials": "ink and watercolor on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of David Smith/Licensed by VAGA, New York, NY", 
-    "title": "Study for Sculpture"
+  "publishers": [], 
+  "rights": "\u00a9 Estate of David Smith/Licensed by VAGA, New York, NY", 
+  "dimensions": "15 3/4 x 20 1/2 in", 
+  "title": "Study for Sculpture", 
+  "accession_number": "72.16", 
+  "credit_line": "Mary B. Milliken Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151643, 
+  "creation_date": "1952", 
+  "materials": "ink and watercolor on white paper", 
+  "actors": [
+    {
+      "name": "Smith, David", 
+      "after_follower": null, 
+      "death_date": "1965", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296853, 
+      "role": "Artist", 
+      "birth_date": "1906", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8605, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

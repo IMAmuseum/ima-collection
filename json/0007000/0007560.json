@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.84.89", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1809", 
-            "death_date": "1886", 
-            "name": "Prior, Thomas Abiel", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1804", 
-            "death_date": "1872", 
-            "name": "Allom, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1841", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7560, 
-    "materials": "hand-colored steel engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Knowle"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Knowle", 
+  "accession_number": "73.84.89", 
+  "credit_line": "Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149237, 
+  "creation_date": "1841", 
+  "materials": "hand-colored steel engraving", 
+  "actors": [
+    {
+      "name": "Prior, Thomas Abiel", 
+      "after_follower": null, 
+      "death_date": "1886", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297801, 
+      "role": "Artist", 
+      "birth_date": "1809", 
+      "nationality": null
+    }, 
+    {
+      "name": "Allom, Thomas", 
+      "after_follower": null, 
+      "death_date": "1872", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296161, 
+      "role": "Artist", 
+      "birth_date": "1804", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7560, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

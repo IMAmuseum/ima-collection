@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.107", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1941", 
-            "death_date": null, 
-            "name": "Lockhart, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Gift of Dr. Robert N. Mann", 
-    "cultures": [], 
-    "dimensions": "71 x 23 x 41 1/2 in.", 
-    "dynasty": null, 
-    "irn": 28151, 
-    "materials": "polychromed, laminated pine", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Centaur"
+  "publishers": [], 
+  "dimensions": "71 x 23 x 41 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Robert N. Mann", 
+  "accession_number": "79.107", 
+  "title": "Centaur", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211753, 
+  "creation_date": "1978", 
+  "materials": "polychromed, laminated pine", 
+  "actors": [
+    {
+      "name": "Lockhart, Robert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302583, 
+      "role": "Artist", 
+      "birth_date": "1941", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28151, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

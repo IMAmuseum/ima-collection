@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.127", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1921", 
-            "death_date": "1963", 
-            "name": "John Bernhardt", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1953", 
-    "credit_line": "Gift of Mary and DeWitt Brown", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 59041, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of John Bernhardt", 
-    "title": "Three Trees"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Estate of John Bernhardt", 
+  "credit_line": "Gift of Mary and DeWitt Brown", 
+  "accession_number": "2002.127", 
+  "title": "Three Trees", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276023, 
+  "creation_date": "1953", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "John Bernhardt", 
+      "after_follower": null, 
+      "death_date": "1963", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296259, 
+      "role": "Artist", 
+      "birth_date": "1921", 
+      "nationality": null
+    }
+  ], 
+  "irn": 59041, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

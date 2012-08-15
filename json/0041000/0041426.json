@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1701.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1818", 
-            "death_date": "1899", 
-            "name": "Sharpe, Charles William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1859", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41426, 
-    "materials": "engraving on India paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Blacksmith's Shop"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1701.7", 
+  "title": "The Blacksmith's Shop", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18244579, 
+  "creation_date": "1859", 
+  "materials": "engraving on India paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Sharpe, Charles William", 
+      "after_follower": null, 
+      "death_date": "1899", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304081, 
+      "role": "Engraver", 
+      "birth_date": "1818", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41426, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

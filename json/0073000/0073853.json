@@ -1,26 +1,30 @@
 {
-    "accession_number": "MH2012.2.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1913", 
-            "death_date": "1988", 
-            "name": "Fornasetti, Piero", 
-            "nationality": "Italian", 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Deaccessioned Decorative Art Fund", 
-    "cultures": [], 
-    "dimensions": "3/4 x 9 1/8 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 73853, 
-    "materials": "ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Plate"
+  "publishers": [], 
+  "dimensions": "3/4 x 9 1/8 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Deaccessioned Decorative Art Fund", 
+  "accession_number": "MH2012.2.2", 
+  "title": "Plate", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288281, 
+  "creation_date": null, 
+  "materials": "ceramic", 
+  "actors": [
+    {
+      "name": "Fornasetti, Piero", 
+      "after_follower": null, 
+      "death_date": "1988", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308187, 
+      "role": "Designer", 
+      "birth_date": "1913", 
+      "nationality": "Italian"
+    }
+  ], 
+  "irn": 73853, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

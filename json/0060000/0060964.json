@@ -1,34 +1,40 @@
 {
-    "accession_number": "2003.114", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1941", 
-            "death_date": "1998", 
-            "name": "Brown, Roger", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Oxbow Press", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift in honor of James and Anna White from Mary P. Bowen", 
-    "cultures": [], 
-    "dimensions": "13 x 13 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 60964, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The School of the Art Institute of Chicago and the Brown Family", 
-    "title": "Which way is up?"
+  "publishers": [], 
+  "dimensions": "13 x 13 in. (sheet)", 
+  "rights": "\u00a9 The School of the Art Institute of Chicago and the Brown Family", 
+  "credit_line": "Gift in honor of James and Anna White from Mary P. Bowen", 
+  "accession_number": "2003.114", 
+  "title": "Which way is up?", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276823, 
+  "creation_date": "1979", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Brown, Roger", 
+      "after_follower": null, 
+      "death_date": "1998", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303807, 
+      "role": "Artist", 
+      "birth_date": "1941", 
+      "nationality": null
+    }, 
+    {
+      "name": "Oxbow Press", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305945, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 60964, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

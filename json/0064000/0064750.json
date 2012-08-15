@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.506", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1950", 
-            "death_date": null, 
-            "name": "Mariscal, Javier", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Porcelanas Bidasoa", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1988", 
-    "credit_line": "Jane Weldon Myers Acquisition Fund", 
-    "cultures": [], 
-    "dimensions": "13 3/4 \u00d7 10 \u00bc in.", 
-    "dynasty": null, 
-    "irn": 64750, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Javier Mariscal", 
-    "title": "Ol\u00e9 vase"
+  "publishers": [], 
+  "dimensions": "13 3/4 \u00d7 10 \u00bc in.", 
+  "rights": "\u00a9 Javier Mariscal", 
+  "credit_line": "Jane Weldon Myers Acquisition Fund", 
+  "accession_number": "2009.506", 
+  "title": "Ol\u00e9 vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279265, 
+  "creation_date": "1988", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Mariscal, Javier", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307055, 
+      "role": "Designer", 
+      "birth_date": "1950", 
+      "nationality": null
+    }, 
+    {
+      "name": "Porcelanas Bidasoa", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307057, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64750, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

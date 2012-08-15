@@ -1,30 +1,34 @@
 {
-    "accession_number": "2006.62", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1884", 
-            "death_date": "1950", 
-            "name": "Beckmann, Max", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1920", 
-    "credit_line": "Gift of Edwin F. Koch, Jr., M.D.", 
-    "cultures": [], 
-    "dimensions": "18 1/8 x 13 3/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 63534, 
-    "materials": "drypoint on off-white laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Zingler's Kabinett"
-        }
-    ], 
-    "rights": "\u00a9 2007 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn", 
-    "title": "Old Woman with Bonnet (Alte Frau mit Kapothut)"
+  "publishers": [
+    {
+      "name": "Zingler's Kabinett"
+    }
+  ], 
+  "dimensions": "18 1/8 x 13 3/4 in. (sheet)", 
+  "rights": "\u00a9 2007 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn", 
+  "credit_line": "Gift of Edwin F. Koch, Jr., M.D.", 
+  "accession_number": "2006.62", 
+  "title": "Old Woman with Bonnet (Alte Frau mit Kapothut)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278623, 
+  "creation_date": "1920", 
+  "materials": "drypoint on off-white laid paper", 
+  "actors": [
+    {
+      "name": "Beckmann, Max", 
+      "after_follower": null, 
+      "death_date": "1950", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301063, 
+      "role": "Artist", 
+      "birth_date": "1884", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63534, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

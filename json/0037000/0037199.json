@@ -1,26 +1,30 @@
 {
-    "accession_number": "1987.157", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1779", 
-            "death_date": "1843", 
-            "name": "Matsumura Keibun", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1779-1843", 
-    "credit_line": "James E. Roberts Fund.", 
-    "cultures": [], 
-    "dimensions": "39 5/8 x 13 7/8 in. (image)", 
-    "dynasty": null, 
-    "irn": 37199, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sweeping the Study"
+  "publishers": [], 
+  "dimensions": "39 5/8 x 13 7/8 in. (image)", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund.", 
+  "accession_number": "1987.157", 
+  "title": "Sweeping the Study", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18232719, 
+  "creation_date": "1779-1843", 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Matsumura Keibun", 
+      "after_follower": null, 
+      "death_date": "1843", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303997, 
+      "role": "Artist", 
+      "birth_date": "1779", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37199, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

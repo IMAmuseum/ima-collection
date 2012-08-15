@@ -1,42 +1,50 @@
 {
-    "accession_number": "56.89", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1888", 
-            "death_date": "1959", 
-            "name": "Edvin Ollers", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Karl M\u00fcller", 
-            "nationality": null, 
-            "role": "Engraver"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Elme Glassworks", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1927-1930", 
-    "credit_line": "Gift of Mr. and Mrs. H. F. DeBoest", 
-    "cultures": [], 
-    "dimensions": "H: 11 5/8 in.", 
-    "dynasty": null, 
-    "irn": 29003, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase"
+  "publishers": [], 
+  "dimensions": "H: 11 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. H. F. DeBoest", 
+  "accession_number": "56.89", 
+  "title": "vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213711, 
+  "creation_date": "about 1927-1930", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Edvin Ollers", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302685, 
+      "role": "Designer", 
+      "birth_date": "1888", 
+      "nationality": null
+    }, 
+    {
+      "name": "Karl M\u00fcller", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302691, 
+      "role": "Engraver", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Elme Glassworks", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302693, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 29003, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

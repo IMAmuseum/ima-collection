@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.710", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Frankenthal Porcelain Manufactory", 
-            "nationality": "German", 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1765", 
-    "credit_line": null, 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4385, 
-    "materials": "hard-paste porcelain, polychrome enamels, gilding", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Bouquet"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Bouquet", 
+  "accession_number": "75.710", 
+  "credit_line": null, 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18141691, 
+  "creation_date": "about 1765", 
+  "materials": "hard-paste porcelain, polychrome enamels, gilding", 
+  "actors": [
+    {
+      "name": "Frankenthal Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296771, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": "German"
+    }
+  ], 
+  "irn": 4385, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

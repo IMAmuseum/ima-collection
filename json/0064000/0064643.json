@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.402", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bouroullec Brothers", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Cappellini Design SpA", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1997", 
-    "credit_line": "Deaccessioned Decorative/Design Art Fund", 
-    "cultures": [], 
-    "dimensions": "7 7/8 \u00d7 5 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64643, 
-    "materials": "plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Bouroullec Brothers", 
-    "title": "Sans Titre vase"
+  "publishers": [], 
+  "dimensions": "7 7/8 \u00d7 5 1/2 in.", 
+  "rights": "\u00a9 Bouroullec Brothers", 
+  "credit_line": "Deaccessioned Decorative/Design Art Fund", 
+  "accession_number": "2009.402", 
+  "title": "Sans Titre vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279135, 
+  "creation_date": "1997", 
+  "materials": "plastic", 
+  "actors": [
+    {
+      "name": "Bouroullec Brothers", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306837, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Cappellini Design SpA", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306803, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64643, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

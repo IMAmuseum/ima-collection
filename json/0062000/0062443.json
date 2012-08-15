@@ -1,30 +1,34 @@
 {
-    "accession_number": "2004.162", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1901", 
-            "name": "Toulouse-Lautrec, Henri de", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1896", 
-    "credit_line": "Gift of Phillipa Hughes", 
-    "cultures": [], 
-    "dimensions": "20 5/8 x 16 in. (image and sheet)", 
-    "dynasty": null, 
-    "irn": 62443, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Gustave Pellet"
-        }
-    ], 
-    "rights": null, 
-    "title": "Frontispiece for \"Elles\""
+  "publishers": [
+    {
+      "name": "Gustave Pellet"
+    }
+  ], 
+  "dimensions": "20 5/8 x 16 in. (image and sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Phillipa Hughes", 
+  "accession_number": "2004.162", 
+  "title": "Frontispiece for \"Elles\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277671, 
+  "creation_date": "1896", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Toulouse-Lautrec, Henri de", 
+      "after_follower": null, 
+      "death_date": "1901", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296139, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }
+  ], 
+  "irn": 62443, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

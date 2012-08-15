@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.270", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1909", 
-            "death_date": "1948", 
-            "name": "Gunnel Nyman", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Nuutaj\u00e4rvi Notsj\u00f6 glassworks", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1947", 
-    "credit_line": "Gift of John P. Antonelli", 
-    "cultures": [], 
-    "dimensions": "15 x 4 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 73800, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Serpentini (Serpentine)  vase"
+  "publishers": [], 
+  "dimensions": "15 x 4 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of John P. Antonelli", 
+  "accession_number": "2011.270", 
+  "title": "Serpentini (Serpentine)  vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288237, 
+  "creation_date": "1947", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Gunnel Nyman", 
+      "after_follower": null, 
+      "death_date": "1948", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308667, 
+      "role": "Designer", 
+      "birth_date": "1909", 
+      "nationality": null
+    }, 
+    {
+      "name": "Nuutaj\u00e4rvi Notsj\u00f6 glassworks", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308669, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 73800, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.57", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1971", 
-            "name": "Baumann, Gustave", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1917", 
-    "credit_line": "Gift of Elaine Ewing Fess and Stephen W. Fess", 
-    "cultures": [], 
-    "dimensions": "9 5/8 x 11 1/4 in. (image)\n11 x 12 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 31961, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gustave Baumann", 
-    "title": "Mending the Seine"
+  "publishers": [], 
+  "dimensions": "9 5/8 x 11 1/4 in. (image)\n11 x 12 1/4 in. (sheet)", 
+  "rights": "\u00a9 Gustave Baumann", 
+  "credit_line": "Gift of Elaine Ewing Fess and Stephen W. Fess", 
+  "accession_number": "1999.57", 
+  "title": "Mending the Seine", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220567, 
+  "creation_date": "1917", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Baumann, Gustave", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295839, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31961, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

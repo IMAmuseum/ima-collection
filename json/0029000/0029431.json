@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.15.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1959", 
-            "name": "Wayman Adams", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of John Ready O'Connor", 
-    "cultures": [], 
-    "dimensions": "43 1/8 x 36 in.\n52 x 45 in. (framed)", 
-    "dynasty": null, 
-    "irn": 29431, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Mrs. Michael J. Ready"
+  "publishers": [], 
+  "dimensions": "43 1/8 x 36 in.\n52 x 45 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of John Ready O'Connor", 
+  "accession_number": "70.15.1", 
+  "title": "Portrait of Mrs. Michael J. Ready", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18214743, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Wayman Adams", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296333, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": null
+    }
+  ], 
+  "irn": 29431, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

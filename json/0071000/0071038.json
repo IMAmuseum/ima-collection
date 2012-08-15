@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.450", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Stephen Smyers", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Smyers Glass", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1977", 
-    "credit_line": "Deaccessioned Decorative Art Fund", 
-    "cultures": [], 
-    "dimensions": "2 1/2 x 2 3/4 x 2/34 in.", 
-    "dynasty": null, 
-    "irn": 71038, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Paperweight"
+  "publishers": [], 
+  "dimensions": "2 1/2 x 2 3/4 x 2/34 in.", 
+  "rights": null, 
+  "credit_line": "Deaccessioned Decorative Art Fund", 
+  "accession_number": "MH2010.450", 
+  "title": "Paperweight", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18286783, 
+  "creation_date": "1977", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Stephen Smyers", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308337, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Smyers Glass", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308341, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71038, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

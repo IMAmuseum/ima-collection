@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.160", 
-    "actors": [
-        {
-            "after_follower": "Follower of", 
-            "birth_date": "ca. 1494", 
-            "death_date": "1533", 
-            "name": "Lucas van Leyden", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1509", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5823, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Temptation of St. Anthony"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Temptation of St. Anthony", 
+  "accession_number": "09.160", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18145057, 
+  "creation_date": "1509", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lucas van Leyden", 
+      "after_follower": "Follower of", 
+      "death_date": "1533", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296159, 
+      "role": "Artist", 
+      "birth_date": "ca. 1494", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5823, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

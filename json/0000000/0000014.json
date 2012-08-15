@@ -1,34 +1,40 @@
 {
-    "accession_number": "1994.172", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Nymphenburg Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1934", 
-            "name": "Hermann Gradl", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1899", 
-    "credit_line": "Noble F. Ropkey Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "1 1/2 x 9 3/8 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 14, 
-    "materials": "hard-paste porcelain, polychrome enamels, giliding", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "plate from 'Fish' service (1 of 14)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "1 1/2 x 9 3/8 (diam.) in.", 
+  "title": "plate from 'Fish' service (1 of 14)", 
+  "accession_number": "1994.172", 
+  "credit_line": "Noble F. Ropkey Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131163, 
+  "creation_date": "1899", 
+  "materials": "hard-paste porcelain, polychrome enamels, giliding", 
+  "actors": [
+    {
+      "name": "Nymphenburg Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294715, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Hermann Gradl", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294717, 
+      "role": "Designer", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

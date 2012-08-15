@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.72B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1874", 
-            "death_date": "1951", 
-            "name": "Leyendecker, Joseph Christian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1917", 
-    "credit_line": "Gift of Mrs. Gaar Williams", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 53137, 
-    "materials": "offset lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "U.S.A. Bonds"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Gaar Williams", 
+  "accession_number": "52.72B", 
+  "title": "U.S.A. Bonds", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18268739, 
+  "creation_date": "1917", 
+  "materials": "offset lithograph", 
+  "actors": [
+    {
+      "name": "Leyendecker, Joseph Christian", 
+      "after_follower": null, 
+      "death_date": "1951", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300753, 
+      "role": "Artist", 
+      "birth_date": "1874", 
+      "nationality": null
+    }
+  ], 
+  "irn": 53137, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

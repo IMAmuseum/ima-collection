@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.55", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1823", 
-            "death_date": "1906", 
-            "name": "Stevens, Alfred Emile Leopold Joseph Victor", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1891", 
-    "credit_line": "Estate of Kurt F. Pantzer, Sr.", 
-    "cultures": [], 
-    "dimensions": "29 3/8 x 25 3/4 in.", 
-    "dynasty": null, 
-    "irn": 7357, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Visit to the Studio"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "29 3/8 x 25 3/4 in.", 
+  "title": "Visit to the Studio", 
+  "accession_number": "82.55", 
+  "credit_line": "Estate of Kurt F. Pantzer, Sr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18148731, 
+  "creation_date": "1891", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Stevens, Alfred Emile Leopold Joseph Victor", 
+      "after_follower": null, 
+      "death_date": "1906", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297725, 
+      "role": "Artist", 
+      "birth_date": "1823", 
+      "nationality": null
+    }
+  ], 
+  "irn": 7357, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

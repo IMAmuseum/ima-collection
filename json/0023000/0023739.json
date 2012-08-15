@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.18", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1716", 
-            "death_date": "1783", 
-            "name": "Yosa Buson", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Caroline Marmon Fesler Fund", 
-    "cultures": [], 
-    "dimensions": "78 x 24 1/2 in. (overall)", 
-    "dynasty": null, 
-    "irn": 23739, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "100 Old Men"
+  "publishers": [], 
+  "dimensions": "78 x 24 1/2 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Caroline Marmon Fesler Fund", 
+  "accession_number": "2000.18", 
+  "title": "100 Old Men", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18201465, 
+  "creation_date": null, 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Yosa Buson", 
+      "after_follower": null, 
+      "death_date": "1783", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301679, 
+      "role": "Artist", 
+      "birth_date": "1716", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23739, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "79.362.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1926", 
-            "death_date": "2006", 
-            "name": "Sarpaneva, Timo", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Rosenthal GmbH", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1979", 
-    "credit_line": "Gift of Jerry M. Wright", 
-    "cultures": [], 
-    "dimensions": "Diam: 9 5/8 in.", 
-    "dynasty": null, 
-    "irn": 33444, 
-    "materials": "Hard Paste | print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "dinner plate"
+  "publishers": [], 
+  "dimensions": "Diam: 9 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Jerry M. Wright", 
+  "accession_number": "79.362.1", 
+  "title": "dinner plate", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224085, 
+  "creation_date": "1979", 
+  "materials": "Hard Paste | print", 
+  "actors": [
+    {
+      "name": "Sarpaneva, Timo", 
+      "after_follower": null, 
+      "death_date": "2006", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295459, 
+      "role": "Designer", 
+      "birth_date": "1926", 
+      "nationality": null
+    }, 
+    {
+      "name": "Rosenthal GmbH", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295463, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 33444, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

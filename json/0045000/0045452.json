@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1906", 
-            "death_date": "1965", 
-            "name": "Smith, David", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "March 23, 1955", 
-    "credit_line": "Gift of Ann M. Stack in honor of Holly Day, former Senior Curator of Contemporary Art", 
-    "cultures": [], 
-    "dimensions": "20 x 25 7/8 in", 
-    "dynasty": null, 
-    "irn": 45452, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of David Smith/Licensed by VAGA, New York, NY", 
-    "title": "Delta Sigma 3/23/55 M"
+  "publishers": [], 
+  "dimensions": "20 x 25 7/8 in", 
+  "rights": "\u00a9 Estate of David Smith/Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Ann M. Stack in honor of Holly Day, former Senior Curator of Contemporary Art", 
+  "accession_number": "2001.1", 
+  "title": "Delta Sigma 3/23/55 M", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18254441, 
+  "creation_date": "March 23, 1955", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Smith, David", 
+      "after_follower": null, 
+      "death_date": "1965", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296853, 
+      "role": "Artist", 
+      "birth_date": "1906", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45452, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

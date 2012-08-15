@@ -1,26 +1,30 @@
 {
-    "accession_number": "65.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1840", 
-            "death_date": "1926", 
-            "name": "Monet, Claude", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1900", 
-    "credit_line": "Gift of Several Friends of the Museum", 
-    "cultures": [], 
-    "dimensions": "26 x 36 1/2 in.", 
-    "dynasty": null, 
-    "irn": 13473, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Charing Cross Bridge"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "26 x 36 1/2 in.", 
+  "title": "Charing Cross Bridge", 
+  "accession_number": "65.15", 
+  "credit_line": "Gift of Several Friends of the Museum", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163421, 
+  "creation_date": "about 1900", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Monet, Claude", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295505, 
+      "role": "Artist", 
+      "birth_date": "1840", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13473, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

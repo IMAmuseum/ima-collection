@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.68", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1598", 
-            "death_date": "1688", 
-            "name": "Mellan, Claude", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23195, 
-    "materials": "engaving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Mathieu Mol\u00e9"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "57.68", 
+  "title": "Portrait of Mathieu Mol\u00e9", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200191, 
+  "creation_date": "17th century", 
+  "materials": "engaving", 
+  "actors": [
+    {
+      "name": "Mellan, Claude", 
+      "after_follower": null, 
+      "death_date": "1688", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298991, 
+      "role": "Artist", 
+      "birth_date": "1598", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23195, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

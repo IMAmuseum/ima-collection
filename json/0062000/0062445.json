@@ -1,38 +1,44 @@
 {
-    "accession_number": "2004.164", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1901", 
-            "name": "Toulouse-Lautrec, Henri de", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Imp. Chaix", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1896", 
-    "credit_line": "Gift of Phillipa Hughes", 
-    "cultures": [], 
-    "dimensions": "17 x 24 1/2 in. (image and sheet)", 
-    "dynasty": null, 
-    "irn": 62445, 
-    "materials": "color lithograph", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "La Plume"
-        }
-    ], 
-    "rights": null, 
-    "title": "Irish and American Bar, rue Royale - The Chap Book"
+  "publishers": [
+    {
+      "name": "La Plume"
+    }
+  ], 
+  "dimensions": "17 x 24 1/2 in. (image and sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Phillipa Hughes", 
+  "accession_number": "2004.164", 
+  "title": "Irish and American Bar, rue Royale - The Chap Book", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277675, 
+  "creation_date": "1896", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Toulouse-Lautrec, Henri de", 
+      "after_follower": null, 
+      "death_date": "1901", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296139, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }, 
+    {
+      "name": "Imp. Chaix", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306427, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62445, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

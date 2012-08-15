@@ -1,26 +1,30 @@
 {
-    "accession_number": "26.60", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1849", 
-            "death_date": "1934", 
-            "name": "Besnard, Albert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1924", 
-    "credit_line": "D.P. Erwin Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25758, 
-    "materials": "etching, drypoint and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "La M\u00e8re Malade"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "D.P. Erwin Fund", 
+  "accession_number": "26.60", 
+  "title": "La M\u00e8re Malade", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18206105, 
+  "creation_date": "1924", 
+  "materials": "etching, drypoint and aquatint", 
+  "actors": [
+    {
+      "name": "Besnard, Albert", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295655, 
+      "role": "Artist", 
+      "birth_date": "1849", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25758, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

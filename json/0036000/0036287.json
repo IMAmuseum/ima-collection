@@ -1,26 +1,30 @@
 {
-    "accession_number": "76.502", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1652", 
-            "death_date": "1735", 
-            "name": "Wang Yun", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1716", 
-    "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
-    "cultures": [], 
-    "dimensions": "64 1/8 x 42 1/8 in. (image)\n112 1/8 x 48 3/8 in. (overall)", 
-    "dynasty": "Qing dynasty", 
-    "irn": 36287, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": "Kangxi", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Premier Tianguan"
+  "publishers": [], 
+  "dimensions": "64 1/8 x 42 1/8 in. (image)\n112 1/8 x 48 3/8 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
+  "accession_number": "76.502", 
+  "title": "Portrait of Premier Tianguan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Kangxi", 
+  "artisinal:id": 18230609, 
+  "creation_date": "1716", 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Wang Yun", 
+      "after_follower": null, 
+      "death_date": "1735", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303859, 
+      "role": "Artist", 
+      "birth_date": "1652", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36287, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

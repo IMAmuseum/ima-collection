@@ -1,30 +1,34 @@
 {
-    "accession_number": "1992.83", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1904", 
-            "death_date": "1989", 
-            "name": "Hartung, Hans", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1963", 
-    "credit_line": "The Robert and Traude Hensel Collection", 
-    "cultures": [], 
-    "dimensions": "30 x 22 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 27541, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Erker Presse, St. Gallen"
-        }
-    ], 
-    "rights": null, 
-    "title": "L 116"
+  "publishers": [
+    {
+      "name": "Erker Presse, St. Gallen"
+    }
+  ], 
+  "dimensions": "30 x 22 1/4 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "The Robert and Traude Hensel Collection", 
+  "accession_number": "1992.83", 
+  "title": "L 116", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18210339, 
+  "creation_date": "1963", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Hartung, Hans", 
+      "after_follower": null, 
+      "death_date": "1989", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302443, 
+      "role": "Artist", 
+      "birth_date": "1904", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27541, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

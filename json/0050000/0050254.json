@@ -1,26 +1,30 @@
 {
-    "accession_number": "17.147", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1780", 
-            "death_date": "1850", 
-            "name": "Totoya Hokkei", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1800-1850", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": "8 5/16  x 7 1/8 in. (image & sheet)", 
-    "dynasty": null, 
-    "irn": 50254, 
-    "materials": "surimono, color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Woman Standing on Bridge"
+  "publishers": [], 
+  "dimensions": "8 5/16  x 7 1/8 in. (image & sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "accession_number": "17.147", 
+  "title": "Woman Standing on Bridge", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18262305, 
+  "creation_date": "about 1800-1850", 
+  "materials": "surimono, color woodblock print", 
+  "actors": [
+    {
+      "name": "Totoya Hokkei", 
+      "after_follower": null, 
+      "death_date": "1850", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305405, 
+      "role": "Artist", 
+      "birth_date": "1780", 
+      "nationality": null
+    }
+  ], 
+  "irn": 50254, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

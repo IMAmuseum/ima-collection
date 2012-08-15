@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.317", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1865", 
-            "death_date": "1916", 
-            "name": "Lemmen, Georges", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1894", 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "23 5/8 x 27 9/16 in.", 
-    "dynasty": null, 
-    "irn": 5338, 
-    "materials": "oil on canvas with painted wood frame", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Two Sisters or The Serruys Sisters"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "23 5/8 x 27 9/16 in.", 
+  "title": "The Two Sisters or The Serruys Sisters", 
+  "accession_number": "79.317", 
+  "credit_line": "The Holliday Collection", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143899, 
+  "creation_date": "1894", 
+  "materials": "oil on canvas with painted wood frame", 
+  "actors": [
+    {
+      "name": "Lemmen, Georges", 
+      "after_follower": null, 
+      "death_date": "1916", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297131, 
+      "role": "Artist", 
+      "birth_date": "1865", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5338, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

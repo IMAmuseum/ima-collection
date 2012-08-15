@@ -1,26 +1,30 @@
 {
-    "accession_number": "31.274", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1807", 
-            "death_date": "1873", 
-            "name": "Utagawa Sadahide", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Purchased form the D. P. Erwin Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 51620, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Meiji", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of god of silkworm production in Greater Japan and briedf biography"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Purchased form the D. P. Erwin Fund", 
+  "accession_number": "31.274", 
+  "title": "Portrait of god of silkworm production in Greater Japan and briedf biography", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Meiji", 
+  "artisinal:id": 18265521, 
+  "creation_date": null, 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Sadahide", 
+      "after_follower": null, 
+      "death_date": "1873", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305473, 
+      "role": "Artist", 
+      "birth_date": "1807", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51620, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

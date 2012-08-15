@@ -1,34 +1,40 @@
 {
-    "accession_number": "46.34", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1886", 
-            "death_date": "1980", 
-            "name": "Kokoschka, Oskar", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "The Baynard Press", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1945", 
-    "credit_line": "Gift of Dr. Hans Tietze", 
-    "cultures": [], 
-    "dimensions": "30 x 20 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 34047, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Fondation Oskar Kokoschka/Artists Rights Society (ARS), New York/ProLitteris, Z\u00fcrich", 
-    "title": "In Memory of the Children of Europe"
+  "publishers": [], 
+  "dimensions": "30 x 20 1/4 in. (sheet)", 
+  "rights": "\u00a9 Fondation Oskar Kokoschka/Artists Rights Society (ARS), New York/ProLitteris, Z\u00fcrich", 
+  "credit_line": "Gift of Dr. Hans Tietze", 
+  "accession_number": "46.34", 
+  "title": "In Memory of the Children of Europe", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18225485, 
+  "creation_date": "1945", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Kokoschka, Oskar", 
+      "after_follower": null, 
+      "death_date": "1980", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294941, 
+      "role": "Artist", 
+      "birth_date": "1886", 
+      "nationality": null
+    }, 
+    {
+      "name": "The Baynard Press", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303479, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 34047, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

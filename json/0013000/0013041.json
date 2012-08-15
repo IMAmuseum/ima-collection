@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.5A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1638", 
-            "death_date": "1674", 
-            "name": "Dalen, Cornelis van, II", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "about 1660", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13041, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Moses by Michaelangelo"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Moses by Michaelangelo", 
+  "accession_number": "09.5A", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162451, 
+  "creation_date": "about 1660", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Dalen, Cornelis van, II", 
+      "after_follower": null, 
+      "death_date": "1674", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296035, 
+      "role": "Engraver", 
+      "birth_date": "1638", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13041, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

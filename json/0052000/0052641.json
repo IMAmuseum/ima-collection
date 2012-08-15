@@ -1,26 +1,30 @@
 {
-    "accession_number": "49.69", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1867", 
-            "death_date": "1927", 
-            "name": "C\u00e1rcova, Ernesto de la", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "1910", 
-    "credit_line": "Gift of Mrs. Roger Storm", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 52641, 
-    "materials": "bronze", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Exposicion Internacional de Arte"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Roger Storm", 
+  "accession_number": "49.69", 
+  "title": "Exposicion Internacional de Arte", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18267591, 
+  "creation_date": "1910", 
+  "materials": "bronze", 
+  "actors": [
+    {
+      "name": "C\u00e1rcova, Ernesto de la", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305547, 
+      "role": "Modeler", 
+      "birth_date": "1867", 
+      "nationality": null
+    }
+  ], 
+  "irn": 52641, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

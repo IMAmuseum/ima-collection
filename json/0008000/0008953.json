@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.179", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Mary Wilson", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1695", 
-    "credit_line": "Roger G. Wolcott Fund", 
-    "cultures": [], 
-    "dimensions": "30 3/8 x 8 1/4 in.", 
-    "dynasty": null, 
-    "irn": 8953, 
-    "materials": "linen, silk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "sampler"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "30 3/8 x 8 1/4 in.", 
+  "title": "sampler", 
+  "accession_number": "1985.179", 
+  "credit_line": "Roger G. Wolcott Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18152553, 
+  "creation_date": "1695", 
+  "materials": "linen, silk", 
+  "actors": [
+    {
+      "name": "Mary Wilson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298181, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 8953, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

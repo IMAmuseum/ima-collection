@@ -1,34 +1,40 @@
 {
-    "accession_number": "75.460.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Meissen Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1706", 
-            "death_date": "1775", 
-            "name": "Johann Joachim K\u00e4ndler", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "about 1750", 
-    "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
-    "cultures": [], 
-    "dimensions": "H: 3 in.", 
-    "dynasty": null, 
-    "irn": 19646, 
-    "materials": "hard paste porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "winged putti with shield"
+  "publishers": [], 
+  "dimensions": "H: 3 in.", 
+  "rights": null, 
+  "credit_line": "Bequest of Mr. and Mrs. Herman C. Krannert", 
+  "accession_number": "75.460.1", 
+  "title": "winged putti with shield", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192083, 
+  "creation_date": "about 1750", 
+  "materials": "hard paste porcelain", 
+  "actors": [
+    {
+      "name": "Meissen Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294771, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Johann Joachim K\u00e4ndler", 
+      "after_follower": null, 
+      "death_date": "1775", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297613, 
+      "role": "Modeler", 
+      "birth_date": "1706", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19646, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

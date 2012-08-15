@@ -1,26 +1,30 @@
 {
-    "accession_number": "11.112", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1857", 
-            "death_date": "1903", 
-            "name": "Blum, Robert Frederick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1980-1990", 
-    "credit_line": "Gift of Cincinnati Museum Association", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 30812, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Monday Morning, Holland"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Cincinnati Museum Association", 
+  "accession_number": "11.112", 
+  "title": "Monday Morning, Holland", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18217975, 
+  "creation_date": "1980-1990", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Blum, Robert Frederick", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295861, 
+      "role": "Artist", 
+      "birth_date": "1857", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30812, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

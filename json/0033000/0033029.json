@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.289", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1934", 
-            "name": "Schuffenecker, Claude Emile", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1888", 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "21 5/16 x 28 3/4 in.", 
-    "dynasty": null, 
-    "irn": 33029, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A View of the Cliffs at Etretat"
+  "publishers": [], 
+  "dimensions": "21 5/16 x 28 3/4 in.", 
+  "rights": null, 
+  "credit_line": "The Holliday Collection", 
+  "accession_number": "79.289", 
+  "title": "A View of the Cliffs at Etretat", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223077, 
+  "creation_date": "1888", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Schuffenecker, Claude Emile", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303307, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33029, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

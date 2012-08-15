@@ -1,26 +1,30 @@
 {
-    "accession_number": "61.121", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": null, 
-            "name": "Garo Z. Antreasian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1961", 
-    "credit_line": "Gift of Mrs. Anton Hulman, Jr.", 
-    "cultures": [], 
-    "dimensions": "18 x 15 in", 
-    "dynasty": null, 
-    "irn": 530, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Garo Antreatsian", 
-    "title": "II"
+  "publishers": [], 
+  "rights": "\u00a9 Garo Antreatsian", 
+  "dimensions": "18 x 15 in", 
+  "title": "II", 
+  "accession_number": "61.121", 
+  "credit_line": "Gift of Mrs. Anton Hulman, Jr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18132445, 
+  "creation_date": "1961", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Garo Z. Antreasian", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294693, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 530, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

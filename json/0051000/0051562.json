@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.302", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1867", 
-            "death_date": "1944", 
-            "name": "Roussel, Ker Xavier", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1927", 
-    "credit_line": "Gift of Mrs. Jeanne Gass Stump", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 51562, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bacchanale (or Personnages au Bord de la mer)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Jeanne Gass Stump", 
+  "accession_number": "2001.302", 
+  "title": "Bacchanale (or Personnages au Bord de la mer)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18265379, 
+  "creation_date": "1927", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Roussel, Ker Xavier", 
+      "after_follower": null, 
+      "death_date": "1944", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305467, 
+      "role": "Artist", 
+      "birth_date": "1867", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51562, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

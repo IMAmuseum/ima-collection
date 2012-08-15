@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.439", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Marshall Field's", 
-            "nationality": "American", 
-            "role": "Retailer"
-        }
-    ], 
-    "creation_date": "1880s", 
-    "credit_line": "Gift of Mrs. Erwin C. Stout", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4868, 
-    "materials": "velvet, silk, horse hair netting and feathers", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "hat"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "hat", 
+  "accession_number": "75.439", 
+  "credit_line": "Gift of Mrs. Erwin C. Stout", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142779, 
+  "creation_date": "1880s", 
+  "materials": "velvet, silk, horse hair netting and feathers", 
+  "actors": [
+    {
+      "name": "Marshall Field's", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296931, 
+      "role": "Retailer", 
+      "birth_date": null, 
+      "nationality": "American"
+    }
+  ], 
+  "irn": 4868, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

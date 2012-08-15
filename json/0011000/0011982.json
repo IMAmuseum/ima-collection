@@ -1,26 +1,30 @@
 {
-    "accession_number": "69.28.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1925", 
-            "death_date": null, 
-            "name": "Summers, Carol", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1965", 
-    "credit_line": "Alliance Rental Gallery Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11982, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Tree"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Tree", 
+  "accession_number": "69.28.7", 
+  "credit_line": "Alliance Rental Gallery Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18159687, 
+  "creation_date": "1965", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Summers, Carol", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298923, 
+      "role": "Artist", 
+      "birth_date": "1925", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11982, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

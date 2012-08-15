@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.188", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1710", 
-            "death_date": "1792", 
-            "name": "Zannoni, Francesco", 
-            "nationality": "Italian", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14104, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Il Convitto in Casa Di Levi (Feast in the House of Levi)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Il Convitto in Casa Di Levi (Feast in the House of Levi)", 
+  "accession_number": "09.188", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164945, 
+  "creation_date": null, 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Zannoni, Francesco", 
+      "after_follower": null, 
+      "death_date": "1792", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299525, 
+      "role": "Artist", 
+      "birth_date": "1710", 
+      "nationality": "Italian"
+    }
+  ], 
+  "irn": 14104, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

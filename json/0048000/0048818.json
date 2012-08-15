@@ -1,30 +1,34 @@
 {
-    "accession_number": "57.202JJ", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1985", 
-            "name": "Dubuffet, Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1953", 
-    "credit_line": "Gift of James W. Alsdorf", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 48818, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Mourlot"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
-    "title": "Terres Radieuses"
+  "publishers": [
+    {
+      "name": "Mourlot"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
+  "credit_line": "Gift of James W. Alsdorf", 
+  "accession_number": "57.202JJ", 
+  "title": "Terres Radieuses", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18258765, 
+  "creation_date": "1953", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Dubuffet, Jean", 
+      "after_follower": null, 
+      "death_date": "1985", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300581, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 48818, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "1985.225C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Dominick & Haff", 
-            "nationality": "American", 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Giles Brothers and Company", 
-            "nationality": null, 
-            "role": "Retailer"
-        }
-    ], 
-    "creation_date": "1881", 
-    "credit_line": "Sally Ponder Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "10.5 in.", 
-    "dynasty": null, 
-    "irn": 35152, 
-    "materials": "silver", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "stand for water kettle"
+  "publishers": [], 
+  "dimensions": "10.5 in.", 
+  "rights": null, 
+  "credit_line": "Sally Ponder Memorial Fund", 
+  "accession_number": "1985.225C", 
+  "title": "stand for water kettle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18228011, 
+  "creation_date": "1881", 
+  "materials": "silver", 
+  "actors": [
+    {
+      "name": "Dominick & Haff", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299825, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": "American"
+    }, 
+    {
+      "name": "Giles Brothers and Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299827, 
+      "role": "Retailer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 35152, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.180", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1800", 
-            "death_date": "1870", 
-            "name": "Pyne, James Baker", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1854", 
-    "credit_line": "Bequest of Grace Ritchie", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36666, 
-    "materials": "pencil on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Road near Tivoli"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Grace Ritchie", 
+  "accession_number": "2000.180", 
+  "title": "A Road near Tivoli", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231503, 
+  "creation_date": "about 1854", 
+  "materials": "pencil on white paper", 
+  "actors": [
+    {
+      "name": "Pyne, James Baker", 
+      "after_follower": null, 
+      "death_date": "1870", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295979, 
+      "role": "Artist", 
+      "birth_date": "1800", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36666, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

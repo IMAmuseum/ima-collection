@@ -1,26 +1,30 @@
 {
-    "accession_number": "48.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1592", 
-            "death_date": "1635", 
-            "name": "Callot, Jacques", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1619", 
-    "credit_line": "Carl H. Lieber Fund", 
-    "cultures": [], 
-    "dimensions": "7 3/4 x 18 3/16 in.", 
-    "dynasty": null, 
-    "irn": 27973, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "La Grande Chasse (The Great Hunt)"
+  "publishers": [], 
+  "dimensions": "7 3/4 x 18 3/16 in.", 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Fund", 
+  "accession_number": "48.10", 
+  "title": "La Grande Chasse (The Great Hunt)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211315, 
+  "creation_date": "1619", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Callot, Jacques", 
+      "after_follower": null, 
+      "death_date": "1635", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295121, 
+      "role": "Artist", 
+      "birth_date": "1592", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27973, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

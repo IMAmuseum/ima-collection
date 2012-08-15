@@ -1,34 +1,40 @@
 {
-    "accession_number": "1986.286", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1833", 
-            "death_date": "1914", 
-            "name": "Bracquemond, F\u00e9lix", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1827", 
-            "death_date": "1891", 
-            "name": "Eug\u00e8ne Rousseau", 
-            "nationality": null, 
-            "role": "Modeler"
-        }
-    ], 
-    "creation_date": "1866-1867", 
-    "credit_line": "Gift of Mrs. Hiram W. McKee", 
-    "cultures": [], 
-    "dimensions": "4 1/2 in. x  9 3/8 in.", 
-    "dynasty": null, 
-    "irn": 13175, 
-    "materials": "earthenware, polychrome enamels", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "tazza (compote) from the 'Service Rousseau'"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "4 1/2 in. x  9 3/8 in.", 
+  "title": "tazza (compote) from the 'Service Rousseau'", 
+  "accession_number": "1986.286", 
+  "credit_line": "Gift of Mrs. Hiram W. McKee", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162747, 
+  "creation_date": "1866-1867", 
+  "materials": "earthenware, polychrome enamels", 
+  "actors": [
+    {
+      "name": "Bracquemond, F\u00e9lix", 
+      "after_follower": null, 
+      "death_date": "1914", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294869, 
+      "role": "Designer", 
+      "birth_date": "1833", 
+      "nationality": null
+    }, 
+    {
+      "name": "Eug\u00e8ne Rousseau", 
+      "after_follower": null, 
+      "death_date": "1891", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299253, 
+      "role": "Modeler", 
+      "birth_date": "1827", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13175, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

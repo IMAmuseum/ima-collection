@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.194A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": null, 
-            "name": "Reinhold Weiss", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Braun", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1967", 
-    "credit_line": "Gift of A.C. Fernandez", 
-    "cultures": [], 
-    "dimensions": "6 5/8 x 3 3/8 x 3 1/4 in. (overall)", 
-    "dynasty": null, 
-    "irn": 71825, 
-    "materials": "plastic and metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Braun", 
-    "title": "KSM 1/11 Coffee Grinder"
+  "publishers": [], 
+  "dimensions": "6 5/8 x 3 3/8 x 3 1/4 in. (overall)", 
+  "rights": "\u00a9 Braun", 
+  "credit_line": "Gift of A.C. Fernandez", 
+  "accession_number": "2011.194A-B", 
+  "title": "KSM 1/11 Coffee Grinder", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287505, 
+  "creation_date": "1967", 
+  "materials": "plastic and metal", 
+  "actors": [
+    {
+      "name": "Reinhold Weiss", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307527, 
+      "role": "Designer", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Braun", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307401, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71825, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

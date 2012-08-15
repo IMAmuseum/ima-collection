@@ -1,34 +1,38 @@
 {
-    "accession_number": "2008.760", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1907", 
-            "death_date": "1975", 
-            "name": "Porter, Fairfield", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1973", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Joan D. Weisenberger", 
-    "cultures": [], 
-    "dimensions": "22 1/4 x 30 in. (image)", 
-    "dynasty": null, 
-    "irn": 66696, 
-    "materials": "color lithograph on cream wove Arches paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Resam Press"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Brooke Alexander"
-        }
-    ], 
-    "rights": "\u00a9 Fairfield Porter", 
-    "title": "Ocean, State I"
+  "publishers": [
+    {
+      "name": "Brooke Alexander"
+    }
+  ], 
+  "dimensions": "22 1/4 x 30 in. (image)", 
+  "rights": "\u00a9 Fairfield Porter", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Joan D. Weisenberger", 
+  "accession_number": "2008.760", 
+  "title": "Ocean, State I", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18281115, 
+  "creation_date": "1973", 
+  "materials": "color lithograph on cream wove Arches paper", 
+  "actors": [
+    {
+      "name": "Porter, Fairfield", 
+      "after_follower": null, 
+      "death_date": "1975", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301267, 
+      "role": "Artist", 
+      "birth_date": "1907", 
+      "nationality": null
+    }
+  ], 
+  "irn": 66696, 
+  "printers": [
+    {
+      "name": "Resam Press"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

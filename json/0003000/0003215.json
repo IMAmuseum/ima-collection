@@ -1,26 +1,30 @@
 {
-    "accession_number": "1987.47", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1805-1881", 
-            "death_date": "1805-1881", 
-            "name": "Palmer, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1836", 
-    "credit_line": "Nicholas H. Noyes Fund", 
-    "cultures": [], 
-    "dimensions": "11 7/8 x 17 9/16 in.", 
-    "dynasty": null, 
-    "irn": 3215, 
-    "materials": "watercolor, gouache and black chalk on white paper", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Caernarvon Castle, North Wales"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "11 7/8 x 17 9/16 in.", 
+  "title": "Caernarvon Castle, North Wales", 
+  "accession_number": "1987.47", 
+  "credit_line": "Nicholas H. Noyes Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138931, 
+  "creation_date": "1836", 
+  "materials": "watercolor, gouache and black chalk on white paper", 
+  "actors": [
+    {
+      "name": "Palmer, Samuel", 
+      "after_follower": null, 
+      "death_date": "1805-1881", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296303, 
+      "role": "Artist", 
+      "birth_date": "1805-1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3215, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

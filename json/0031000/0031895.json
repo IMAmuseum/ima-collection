@@ -1,26 +1,30 @@
 {
-    "accession_number": "1984.217", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1558", 
-            "death_date": "1617", 
-            "name": "Goltzius, Hendrick", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1592", 
-    "credit_line": "McKee Fine Arts Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "16 1/4 x 11 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 31895, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Farnese Hercules"
+  "publishers": [], 
+  "dimensions": "16 1/4 x 11 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "McKee Fine Arts Purchase Fund", 
+  "accession_number": "1984.217", 
+  "title": "The Farnese Hercules", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220419, 
+  "creation_date": "about 1592", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Goltzius, Hendrick", 
+      "after_follower": null, 
+      "death_date": "1617", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296647, 
+      "role": "Artist", 
+      "birth_date": "1558", 
+      "nationality": null
+    }
+  ], 
+  "irn": 31895, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

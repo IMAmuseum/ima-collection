@@ -1,26 +1,30 @@
 {
-    "accession_number": "C10019", 
-    "actors": [
-        {
-            "after_follower": "School of", 
-            "birth_date": "1510", 
-            "death_date": "1572", 
-            "name": "Clouet, Fran\u00e7ois", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1574", 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "6 3/8 x 3 1/2 in.", 
-    "dynasty": null, 
-    "irn": 21244, 
-    "materials": "gouache on vellum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Charles IX"
+  "publishers": [], 
+  "dimensions": "6 3/8 x 3 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "accession_number": "C10019", 
+  "title": "Charles IX", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18195713, 
+  "creation_date": "about 1574", 
+  "materials": "gouache on vellum", 
+  "actors": [
+    {
+      "name": "Clouet, Fran\u00e7ois", 
+      "after_follower": "School of", 
+      "death_date": "1572", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301187, 
+      "role": "Artist", 
+      "birth_date": "1510", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21244, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

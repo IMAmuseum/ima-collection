@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.283", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1910", 
-            "death_date": "1977", 
-            "name": "Noyes, Eliot Fette", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "The IBM Corporation", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1971", 
-    "credit_line": "Gift of Lee and Dorothy Alig", 
-    "cultures": [], 
-    "dimensions": "7 1/2 x 22 1/8 x 15 1/4 in.", 
-    "dynasty": null, 
-    "irn": 74463, 
-    "materials": "metal and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "IBM Selectric II Typewriter"
+  "publishers": [], 
+  "dimensions": "7 1/2 x 22 1/8 x 15 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Lee and Dorothy Alig", 
+  "accession_number": "2011.283", 
+  "title": "IBM Selectric II Typewriter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288411, 
+  "creation_date": "1971", 
+  "materials": "metal and plastic", 
+  "actors": [
+    {
+      "name": "Noyes, Eliot Fette", 
+      "after_follower": null, 
+      "death_date": "1977", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307243, 
+      "role": "Designer", 
+      "birth_date": "1910", 
+      "nationality": null
+    }, 
+    {
+      "name": "The IBM Corporation", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307245, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 74463, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

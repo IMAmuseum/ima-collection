@@ -1,34 +1,40 @@
 {
-    "accession_number": "76.295", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1934", 
-            "name": "Giuseffi, Girolamo", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "G. Giuseffi L.T. Company", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "1910s", 
-    "credit_line": "Gift of Mrs. William Garrigues, estate of Caroline Ella Burford", 
-    "cultures": [], 
-    "dimensions": "L: 74 in.", 
-    "dynasty": null, 
-    "irn": 29361, 
-    "materials": "silk satin, net, pearls, rhinestones, sequins", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "evening dress"
+  "publishers": [], 
+  "dimensions": "L: 74 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. William Garrigues, estate of Caroline Ella Burford", 
+  "accession_number": "76.295", 
+  "title": "evening dress", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18214573, 
+  "creation_date": "1910s", 
+  "materials": "silk satin, net, pearls, rhinestones, sequins", 
+  "actors": [
+    {
+      "name": "Giuseffi, Girolamo", 
+      "after_follower": null, 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294897, 
+      "role": "Designer", 
+      "birth_date": "1864", 
+      "nationality": null
+    }, 
+    {
+      "name": "G. Giuseffi L.T. Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294899, 
+      "role": "Design House", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 29361, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

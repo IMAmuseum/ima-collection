@@ -1,26 +1,30 @@
 {
-    "accession_number": "56.145", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1648", 
-            "death_date": "1709", 
-            "name": "Tokugawa Tsunayoshi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1648-1709", 
-    "credit_line": "Gift of Mr. and Mrs. J. W. Alsdorf", 
-    "cultures": [], 
-    "dimensions": "26 x 12 7/8", 
-    "dynasty": null, 
-    "irn": 13926, 
-    "materials": "Monochrome Brush | pen | ink", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Water bird and lotus"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "26 x 12 7/8", 
+  "title": "Water bird and lotus", 
+  "accession_number": "56.145", 
+  "credit_line": "Gift of Mr. and Mrs. J. W. Alsdorf", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18164507, 
+  "creation_date": "1648-1709", 
+  "materials": "Monochrome Brush | pen | ink", 
+  "actors": [
+    {
+      "name": "Tokugawa Tsunayoshi", 
+      "after_follower": null, 
+      "death_date": "1709", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298115, 
+      "role": "Artist", 
+      "birth_date": "1648", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13926, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

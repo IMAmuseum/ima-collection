@@ -1,42 +1,50 @@
 {
-    "accession_number": "2009.325", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1930", 
-            "death_date": null, 
-            "name": "Vignelli, Massimo", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": null, 
-            "name": "Vignelli, Lella", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Knoll International", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "designed 1985", 
-    "credit_line": "The Liliane and David M. Stewart Collection", 
-    "cultures": [], 
-    "dimensions": "29 1/8 x 21 15/16 x 20 1/4 in.", 
-    "dynasty": null, 
-    "irn": 64715, 
-    "materials": "polyester and painted steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Massimo Vignelli", 
-    "title": "Handkerchief stacking chair"
+  "publishers": [], 
+  "dimensions": "29 1/8 x 21 15/16 x 20 1/4 in.", 
+  "rights": "\u00a9 Massimo Vignelli", 
+  "credit_line": "The Liliane and David M. Stewart Collection", 
+  "accession_number": "2009.325", 
+  "title": "Handkerchief stacking chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279233, 
+  "creation_date": "designed 1985", 
+  "materials": "polyester and painted steel", 
+  "actors": [
+    {
+      "name": "Vignelli, Massimo", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307001, 
+      "role": "Designer", 
+      "birth_date": "1930", 
+      "nationality": null
+    }, 
+    {
+      "name": "Vignelli, Lella", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307003, 
+      "role": "Designer", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Knoll International", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307005, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64715, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

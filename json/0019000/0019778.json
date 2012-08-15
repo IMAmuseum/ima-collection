@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.326", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1805-1881", 
-            "death_date": "1805-1881", 
-            "name": "Palmer, Samuel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1858", 
-    "credit_line": "Anonymous Gift in memory of Hiram W. McKee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19778, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Weary Ploughman"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Anonymous Gift in memory of Hiram W. McKee", 
+  "accession_number": "77.326", 
+  "title": "The Weary Ploughman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192381, 
+  "creation_date": "1858", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Palmer, Samuel", 
+      "after_follower": null, 
+      "death_date": "1805-1881", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296303, 
+      "role": "Artist", 
+      "birth_date": "1805-1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19778, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

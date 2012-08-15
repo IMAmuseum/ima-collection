@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.44", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1891", 
-            "death_date": "1967", 
-            "name": "Ary Stillman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1946", 
-    "credit_line": "Gift of the Stillman-Lack Foundation", 
-    "cultures": [], 
-    "dimensions": "24 x 28 in.", 
-    "dynasty": null, 
-    "irn": 3992, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ary Stillman, Gift of the Stillman-Lack Foundation", 
-    "title": "Walpurgisnacht (Night of the Witches)"
+  "publishers": [], 
+  "rights": "\u00a9 Ary Stillman, Gift of the Stillman-Lack Foundation", 
+  "dimensions": "24 x 28 in.", 
+  "title": "Walpurgisnacht (Night of the Witches)", 
+  "accession_number": "78.44", 
+  "credit_line": "Gift of the Stillman-Lack Foundation", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140755, 
+  "creation_date": "1946", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Ary Stillman", 
+      "after_follower": null, 
+      "death_date": "1967", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296639, 
+      "role": "Artist", 
+      "birth_date": "1891", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3992, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

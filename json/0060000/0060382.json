@@ -1,26 +1,30 @@
 {
-    "accession_number": "2003.12", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "February 1858", 
-    "credit_line": "Mr. and Mrs. Theodore P. Van Vorhees", 
-    "cultures": [], 
-    "dimensions": "14 3/8 x 19 5/8 in.", 
-    "dynasty": null, 
-    "irn": 60382, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chapter 30, Thoroughwort Flowers (Fujibakama)"
+  "publishers": [], 
+  "dimensions": "14 3/8 x 19 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. Theodore P. Van Vorhees", 
+  "accession_number": "2003.12", 
+  "title": "Chapter 30, Thoroughwort Flowers (Fujibakama)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18276553, 
+  "creation_date": "February 1858", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60382, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

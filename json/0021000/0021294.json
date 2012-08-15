@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.17", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1783", 
-            "death_date": "1856", 
-            "name": "Yamamoto Baiitsu", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1843", 
-    "credit_line": "Mr. and Mrs. William R. Spurlock Fund", 
-    "cultures": [], 
-    "dimensions": "83 x 24 1/2 in. (overall)", 
-    "dynasty": null, 
-    "irn": 21294, 
-    "materials": "ink, color, silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lotus and Snowy Heron"
+  "publishers": [], 
+  "dimensions": "83 x 24 1/2 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. William R. Spurlock Fund", 
+  "accession_number": "2000.17", 
+  "title": "Lotus and Snowy Heron", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18195801, 
+  "creation_date": "1843", 
+  "materials": "ink, color, silk", 
+  "actors": [
+    {
+      "name": "Yamamoto Baiitsu", 
+      "after_follower": null, 
+      "death_date": "1856", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300443, 
+      "role": "Artist", 
+      "birth_date": "1783", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21294, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

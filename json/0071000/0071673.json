@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.55.2A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1939", 
-            "death_date": null, 
-            "name": "Branzi, Andrea", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Giotto Green Design Ltd.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1991", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "Overall) 3 1/4 x 4 3/4 x 4 in.; Sugar bowl) 2 3/16 x 4 3/4 x 3 3/4 in.; Lid) 1 3/16 x 3 7/8 in. (diam.)", 
-    "dynasty": null, 
-    "irn": 71673, 
-    "materials": "ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "sugar bowl with lid, AB-3 tea set"
+  "publishers": [], 
+  "dimensions": "Overall) 3 1/4 x 4 3/4 x 4 in.; Sugar bowl) 2 3/16 x 4 3/4 x 3 3/4 in.; Lid) 1 3/16 x 3 7/8 in. (diam.)", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2011.55.2A-B", 
+  "title": "sugar bowl with lid, AB-3 tea set", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287373, 
+  "creation_date": "1991", 
+  "materials": "ceramic", 
+  "actors": [
+    {
+      "name": "Branzi, Andrea", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307917, 
+      "role": "Designer", 
+      "birth_date": "1939", 
+      "nationality": null
+    }, 
+    {
+      "name": "Giotto Green Design Ltd.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307921, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71673, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

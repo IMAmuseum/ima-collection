@@ -1,30 +1,34 @@
 {
-    "accession_number": "10.184", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1797", 
-            "death_date": "1858", 
-            "name": "Utagawa Hiroshige", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "trimmed off [1853 (Ox 8)]", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": "13 5/8 x 9 1/16 in.", 
-    "dynasty": null, 
-    "irn": 36243, 
-    "materials": "color wooblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Koshimura-ya Heisuke"
-        }
-    ], 
-    "rights": null, 
-    "title": "Kai"
+  "publishers": [
+    {
+      "name": "Koshimura-ya Heisuke"
+    }
+  ], 
+  "dimensions": "13 5/8 x 9 1/16 in.", 
+  "rights": null, 
+  "credit_line": "John Herron Fund", 
+  "accession_number": "10.184", 
+  "title": "Kai", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18230495, 
+  "creation_date": "trimmed off [1853 (Ox 8)]", 
+  "materials": "color wooblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Hiroshige", 
+      "after_follower": null, 
+      "death_date": "1858", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294981, 
+      "role": "Artist", 
+      "birth_date": "1797", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36243, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

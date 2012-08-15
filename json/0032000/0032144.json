@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.224A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": "American", 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1870", 
-    "credit_line": "Gift of Anna Hasselman", 
-    "cultures": [], 
-    "dimensions": "dress L: 53 in.", 
-    "dynasty": null, 
-    "irn": 32144, 
-    "materials": "silk and cotton with metal fasteners", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "wedding dress"
+  "publishers": [], 
+  "dimensions": "dress L: 53 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Anna Hasselman", 
+  "accession_number": "32.224A-C", 
+  "title": "wedding dress", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220999, 
+  "creation_date": "1870", 
+  "materials": "silk and cotton with metal fasteners", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": "American"
+    }
+  ], 
+  "irn": 32144, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

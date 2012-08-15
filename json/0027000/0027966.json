@@ -1,26 +1,30 @@
 {
-    "accession_number": "2000.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1782", 
-            "death_date": "1865", 
-            "name": "Kishi Gantai", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1782-1865", 
-    "credit_line": "Mr. and Mrs. Richard Crane Fund", 
-    "cultures": [], 
-    "dimensions": "62 1/2 x 33 3/4 in. (image)\n84 3/4 x 45 5/8 in. (overall)", 
-    "dynasty": null, 
-    "irn": 27966, 
-    "materials": "ink and colors on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cherry-Apple and Peacocks on Rock"
+  "publishers": [], 
+  "dimensions": "62 1/2 x 33 3/4 in. (image)\n84 3/4 x 45 5/8 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. Richard Crane Fund", 
+  "accession_number": "2000.24", 
+  "title": "Cherry-Apple and Peacocks on Rock", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18211295, 
+  "creation_date": "1782-1865", 
+  "materials": "ink and colors on silk", 
+  "actors": [
+    {
+      "name": "Kishi Gantai", 
+      "after_follower": null, 
+      "death_date": "1865", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302557, 
+      "role": "Artist", 
+      "birth_date": "1782", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27966, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

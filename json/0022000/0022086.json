@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.214.32", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1889", 
-            "death_date": "1958", 
-            "name": "Besnard, Jean", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1930", 
-    "credit_line": "Gift of Mr. and Mrs. Robert H. Morse, Jr.", 
-    "cultures": [], 
-    "dimensions": "8 1/2  x 10 in.", 
-    "dynasty": null, 
-    "irn": 22086, 
-    "materials": "stoneware", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "vase"
+  "publishers": [], 
+  "dimensions": "8 1/2  x 10 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Robert H. Morse, Jr.", 
+  "accession_number": "71.214.32", 
+  "title": "vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18197589, 
+  "creation_date": "about 1930", 
+  "materials": "stoneware", 
+  "actors": [
+    {
+      "name": "Besnard, Jean", 
+      "after_follower": null, 
+      "death_date": "1958", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300895, 
+      "role": "Artist", 
+      "birth_date": "1889", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22086, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

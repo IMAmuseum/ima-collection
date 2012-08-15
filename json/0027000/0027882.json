@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.26S-T", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "William Shakespeare", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
-    "cultures": [], 
-    "dimensions": "13 x 8 1/2 in. (each)", 
-    "dynasty": null, 
-    "irn": 27882, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Constable & Co. Ltd."
-        }
-    ], 
-    "rights": null, 
-    "title": "The Works of William Shakespeare"
+  "publishers": [
+    {
+      "name": "Constable & Co. Ltd."
+    }
+  ], 
+  "dimensions": "13 x 8 1/2 in. (each)", 
+  "rights": null, 
+  "credit_line": "Gift of the Children of J. K. Lilly Jr.", 
+  "accession_number": "LH2003.26S-T", 
+  "title": "The Works of William Shakespeare", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211103, 
+  "creation_date": null, 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "William Shakespeare", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302541, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 27882, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

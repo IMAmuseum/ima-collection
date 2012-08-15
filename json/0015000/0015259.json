@@ -1,26 +1,30 @@
 {
-    "accession_number": "49.59", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1500", 
-            "death_date": "1550", 
-            "name": "Beham, Hans Sebald", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1540", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15259, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Patience"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Patience", 
+  "accession_number": "49.59", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167683, 
+  "creation_date": "1540", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Beham, Hans Sebald", 
+      "after_follower": null, 
+      "death_date": "1550", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299835, 
+      "role": "Artist", 
+      "birth_date": "1500", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15259, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

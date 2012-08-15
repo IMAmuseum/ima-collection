@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.122A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1753", 
-            "death_date": "1806", 
-            "name": "Utamaro Kitagawa", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of George C. Calvert", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 52330, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Triptych"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of George C. Calvert", 
+  "accession_number": "47.122A-C", 
+  "title": "Triptych", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18266889, 
+  "creation_date": null, 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Utamaro Kitagawa", 
+      "after_follower": null, 
+      "death_date": "1806", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302407, 
+      "role": "Artist", 
+      "birth_date": "1753", 
+      "nationality": null
+    }
+  ], 
+  "irn": 52330, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

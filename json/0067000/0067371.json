@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.552.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Swatch", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Swatch", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1992-1995", 
-    "credit_line": "Gift of Swatch Ltd.", 
-    "cultures": [], 
-    "dimensions": "7 x 2 1/4 in.", 
-    "dynasty": null, 
-    "irn": 67371, 
-    "materials": "plastic and metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Swatch", 
-    "title": "Pop Series: Bouquet watch"
+  "publishers": [], 
+  "dimensions": "7 x 2 1/4 in.", 
+  "rights": "\u00a9 Swatch", 
+  "credit_line": "Gift of Swatch Ltd.", 
+  "accession_number": "2009.552.1", 
+  "title": "Pop Series: Bouquet watch", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282733, 
+  "creation_date": "1992-1995", 
+  "materials": "plastic and metal", 
+  "actors": [
+    {
+      "name": "Swatch", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307151, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Swatch", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307151, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67371, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

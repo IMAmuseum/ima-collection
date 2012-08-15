@@ -1,34 +1,40 @@
 {
-    "accession_number": "MH2010.498", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1915", 
-            "death_date": "1996", 
-            "name": "Fulvio Bianconi", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Venini S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1950", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "5 1/4 x 4 1/8 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 73966, 
-    "materials": "glass", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Vase"
+  "publishers": [], 
+  "dimensions": "5 1/4 x 4 1/8 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.498", 
+  "title": "Vase", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288399, 
+  "creation_date": "1950", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Fulvio Bianconi", 
+      "after_follower": null, 
+      "death_date": "1996", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307449, 
+      "role": "Designer", 
+      "birth_date": "1915", 
+      "nationality": null
+    }, 
+    {
+      "name": "Venini S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307683, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 73966, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

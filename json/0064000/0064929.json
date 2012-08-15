@@ -1,30 +1,34 @@
 {
-    "accession_number": "2007.60", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1908", 
-            "death_date": "2001", 
-            "name": "Balthus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1994", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Joan D. Weisenberger", 
-    "cultures": [], 
-    "dimensions": "16 3/4 x 20 7/8 in. (image)\n21 7/8 x 30 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 64929, 
-    "materials": "offset color lithograph on white wove Arches", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Enrico Navarra"
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Jeune fille endormie sur un canap\u00e9 (Young Girl Sleeping on a Sofa)"
+  "publishers": [
+    {
+      "name": "Enrico Navarra"
+    }
+  ], 
+  "dimensions": "16 3/4 x 20 7/8 in. (image)\n21 7/8 x 30 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Joan D. Weisenberger", 
+  "accession_number": "2007.60", 
+  "title": "Jeune fille endormie sur un canap\u00e9 (Young Girl Sleeping on a Sofa)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279483, 
+  "creation_date": "1994", 
+  "materials": "offset color lithograph on white wove Arches", 
+  "actors": [
+    {
+      "name": "Balthus", 
+      "after_follower": null, 
+      "death_date": "2001", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298881, 
+      "role": "Artist", 
+      "birth_date": "1908", 
+      "nationality": null
+    }
+  ], 
+  "irn": 64929, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

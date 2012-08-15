@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.363", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1829", 
-            "death_date": "1916", 
-            "name": "Victoriene P. Mitchell", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1883-1893", 
-    "credit_line": "Gift of Mrs. Jaema C. Ryan", 
-    "cultures": [], 
-    "dimensions": "77 x 64 1/4 in.", 
-    "dynasty": null, 
-    "irn": 1659, 
-    "materials": "silk, cotton, wool, linen, pieced, embroidered", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "crazy quilt"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "77 x 64 1/4 in.", 
+  "title": "crazy quilt", 
+  "accession_number": "77.363", 
+  "credit_line": "Gift of Mrs. Jaema C. Ryan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135235, 
+  "creation_date": "1883-1893", 
+  "materials": "silk, cotton, wool, linen, pieced, embroidered", 
+  "actors": [
+    {
+      "name": "Victoriene P. Mitchell", 
+      "after_follower": null, 
+      "death_date": "1916", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295603, 
+      "role": "Artist", 
+      "birth_date": "1829", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1659, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

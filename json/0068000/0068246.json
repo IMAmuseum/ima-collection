@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.528.2A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1906", 
-            "death_date": "2011", 
-            "name": "Zeisel, Eva", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Hall China", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1955", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "H: 5 3/8 in.", 
-    "dynasty": null, 
-    "irn": 68246, 
-    "materials": "ceramic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Eva Zeisel", 
-    "title": "Tri-Tone teapot with lid"
+  "publishers": [], 
+  "dimensions": "H: 5 3/8 in.", 
+  "rights": "\u00a9 Eva Zeisel", 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2009.528.2A-B", 
+  "title": "Tri-Tone teapot with lid", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283239, 
+  "creation_date": "1955", 
+  "materials": "ceramic", 
+  "actors": [
+    {
+      "name": "Zeisel, Eva", 
+      "after_follower": null, 
+      "death_date": "2011", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303783, 
+      "role": "Designer", 
+      "birth_date": "1906", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hall China", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307729, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68246, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

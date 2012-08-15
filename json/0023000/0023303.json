@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.70", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1865", 
-            "death_date": "1929", 
-            "name": "Robert Henri", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Frederic C. Bartlett", 
-    "cultures": [], 
-    "dimensions": "24 x 20 in.\n28 x 24 1/4 in. (framed)", 
-    "dynasty": null, 
-    "irn": 23303, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Helen"
+  "publishers": [], 
+  "dimensions": "24 x 20 in.\n28 x 24 1/4 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Frederic C. Bartlett", 
+  "accession_number": "55.70", 
+  "title": "Helen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18200445, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Robert Henri", 
+      "after_follower": null, 
+      "death_date": "1929", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296781, 
+      "role": "Artist", 
+      "birth_date": "1865", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23303, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

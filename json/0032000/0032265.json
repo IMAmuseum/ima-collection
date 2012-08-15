@@ -1,30 +1,34 @@
 {
-    "accession_number": "70.82", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1933", 
-            "death_date": null, 
-            "name": "Rosenquist, James Albert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1969-70", 
-    "credit_line": "Herron Alliance Rental Gallery Fund", 
-    "cultures": [], 
-    "dimensions": "22 1/2 x 31 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 32265, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Universal Limited Art Editions"
-        }
-    ], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Night Smoke"
+  "publishers": [
+    {
+      "name": "Universal Limited Art Editions"
+    }
+  ], 
+  "dimensions": "22 1/2 x 31 1/8 in. (sheet)", 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Herron Alliance Rental Gallery Fund", 
+  "accession_number": "70.82", 
+  "title": "Night Smoke", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18221273, 
+  "creation_date": "1969-70", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Rosenquist, James Albert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295201, 
+      "role": "Artist", 
+      "birth_date": "1933", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32265, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

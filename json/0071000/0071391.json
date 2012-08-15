@@ -1,50 +1,60 @@
 {
-    "accession_number": "2010.287A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": null, 
-            "name": "Richard Sapper", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1946", 
-            "death_date": null, 
-            "name": "Tom Hardy", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kazuhiko Yamazaki", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "The IBM Corporation", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Gift of R. Craig Miller in honor of Liliane Stewart", 
-    "cultures": [], 
-    "dimensions": "A) 1 1/4 x 10 3/4 x 8 3/4 in.\nB) L: 115 in.", 
-    "dynasty": null, 
-    "irn": 71391, 
-    "materials": "metal and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Richard Sapper", 
-    "title": "IBM ThinkPad portable computer"
+  "publishers": [], 
+  "dimensions": "A) 1 1/4 x 10 3/4 x 8 3/4 in.\nB) L: 115 in.", 
+  "rights": "\u00a9 Richard Sapper", 
+  "credit_line": "Gift of R. Craig Miller in honor of Liliane Stewart", 
+  "accession_number": "2010.287A-B", 
+  "title": "IBM ThinkPad portable computer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287115, 
+  "creation_date": "1992", 
+  "materials": "metal and plastic", 
+  "actors": [
+    {
+      "name": "Richard Sapper", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300501, 
+      "role": "Designer", 
+      "birth_date": "1932", 
+      "nationality": null
+    }, 
+    {
+      "name": "Tom Hardy", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308431, 
+      "role": "Designer", 
+      "birth_date": "1946", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kazuhiko Yamazaki", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308435, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "The IBM Corporation", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307245, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71391, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

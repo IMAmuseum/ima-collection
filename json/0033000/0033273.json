@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1730", 
-            "death_date": "1803", 
-            "name": "Diana, Giacinto", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1780", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "29 5/8 x 19 5/8 in.", 
-    "dynasty": null, 
-    "irn": 33273, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Martyrdom of St. Sebastian"
+  "publishers": [], 
+  "dimensions": "29 5/8 x 19 5/8 in.", 
+  "rights": null, 
+  "credit_line": "James E. Roberts Fund", 
+  "accession_number": "71.5", 
+  "title": "The Martyrdom of St. Sebastian", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223669, 
+  "creation_date": "about 1780", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Diana, Giacinto", 
+      "after_follower": null, 
+      "death_date": "1803", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303357, 
+      "role": "Artist", 
+      "birth_date": "1730", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33273, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.388", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1955", 
-            "death_date": null, 
-            "name": "Danny Lane", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Danny Lane Artworks", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1999", 
-    "credit_line": "The Ballard Fund", 
-    "cultures": [], 
-    "dimensions": "5 1/2 x 41 x 30 in.", 
-    "dynasty": null, 
-    "irn": 64733, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Danny Lane", 
-    "title": "Crab bowl"
+  "publishers": [], 
+  "dimensions": "5 1/2 x 41 x 30 in.", 
+  "rights": "\u00a9 Danny Lane", 
+  "credit_line": "The Ballard Fund", 
+  "accession_number": "2009.388", 
+  "title": "Crab bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279247, 
+  "creation_date": "1999", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Danny Lane", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307023, 
+      "role": "Designer", 
+      "birth_date": "1955", 
+      "nationality": null
+    }, 
+    {
+      "name": "Danny Lane Artworks", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307025, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64733, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

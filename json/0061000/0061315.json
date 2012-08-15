@@ -1,38 +1,44 @@
 {
-    "accession_number": "2003.156", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1856", 
-            "death_date": "1910", 
-            "name": "Henri Edmond Cross", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1858", 
-            "death_date": "1936", 
-            "name": "Clot, Auguste", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1898", 
-    "credit_line": "Gift of Catharine Lichtenauer in honor of Jennie Lichtenauer", 
-    "cultures": [], 
-    "dimensions": "8 x 10 1/4 in. (image) | 10 3/8 x 13 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 61315, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Pan, Berlin"
-        }
-    ], 
-    "rights": null, 
-    "title": "Aux Champs-Elys\u00e9es (On the Champs Elys\u00e9es)"
+  "publishers": [
+    {
+      "name": "Pan, Berlin"
+    }
+  ], 
+  "dimensions": "8 x 10 1/4 in. (image) | 10 3/8 x 13 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Catharine Lichtenauer in honor of Jennie Lichtenauer", 
+  "accession_number": "2003.156", 
+  "title": "Aux Champs-Elys\u00e9es (On the Champs Elys\u00e9es)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276883, 
+  "creation_date": "1898", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Henri Edmond Cross", 
+      "after_follower": null, 
+      "death_date": "1910", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294807, 
+      "role": "Artist", 
+      "birth_date": "1856", 
+      "nationality": null
+    }, 
+    {
+      "name": "Clot, Auguste", 
+      "after_follower": null, 
+      "death_date": "1936", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298567, 
+      "role": "Printer", 
+      "birth_date": "1858", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61315, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

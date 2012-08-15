@@ -1,34 +1,40 @@
 {
-    "accession_number": "77.51", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1719", 
-            "death_date": "about 1799", 
-            "name": "\u00c9tienne-Henri LeGuay", 
-            "nationality": null, 
-            "role": "Decorator"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "S\u00e8vres Porcelain Manufactory", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1788", 
-    "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2041, 
-    "materials": "hard-paste porcelain, polychrome enamels, gilding", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "wine glass cooler"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "wine glass cooler", 
+  "accession_number": "77.51", 
+  "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136165, 
+  "creation_date": "1788", 
+  "materials": "hard-paste porcelain, polychrome enamels, gilding", 
+  "actors": [
+    {
+      "name": "\u00c9tienne-Henri LeGuay", 
+      "after_follower": null, 
+      "death_date": "about 1799", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295805, 
+      "role": "Decorator", 
+      "birth_date": "1719", 
+      "nationality": null
+    }, 
+    {
+      "name": "S\u00e8vres Porcelain Manufactory", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295809, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 2041, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

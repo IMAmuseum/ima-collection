@@ -1,26 +1,30 @@
 {
-    "accession_number": "77.381", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1873", 
-            "death_date": "1944", 
-            "name": "Preissig, Vojtech", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1913", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4018, 
-    "materials": "color etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "untitled"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "untitled", 
+  "accession_number": "77.381", 
+  "credit_line": "Museum Accession", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140817, 
+  "creation_date": "1913", 
+  "materials": "color etching", 
+  "actors": [
+    {
+      "name": "Preissig, Vojtech", 
+      "after_follower": null, 
+      "death_date": "1944", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296653, 
+      "role": "Artist", 
+      "birth_date": "1873", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4018, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

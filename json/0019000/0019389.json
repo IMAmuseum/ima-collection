@@ -1,26 +1,30 @@
 {
-    "accession_number": "51.40", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1829", 
-            "death_date": "1904", 
-            "name": "Rogers, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1868", 
-    "credit_line": "Gift of Dr. and Mrs. Homer G. Hamer", 
-    "cultures": [], 
-    "dimensions": "24 1/8 x 17 1/8 x 13 7/8 in. (61.3 x 43.4 x 35.1 cm)", 
-    "dynasty": null, 
-    "irn": 19389, 
-    "materials": "plaster", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Council of War"
+  "publishers": [], 
+  "dimensions": "24 1/8 x 17 1/8 x 13 7/8 in. (61.3 x 43.4 x 35.1 cm)", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. and Mrs. Homer G. Hamer", 
+  "accession_number": "51.40", 
+  "title": "Council of War", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191517, 
+  "creation_date": "1868", 
+  "materials": "plaster", 
+  "actors": [
+    {
+      "name": "Rogers, John", 
+      "after_follower": null, 
+      "death_date": "1904", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299385, 
+      "role": "Artist", 
+      "birth_date": "1829", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19389, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

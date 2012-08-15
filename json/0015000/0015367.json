@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.34", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1940", 
-            "death_date": null, 
-            "name": "Pat Hardy", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1977", 
-    "credit_line": "Gift of Dr. Frederick P. Nause and Rebecca A. Nause his wife", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15367, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Model in Studio"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Model in Studio", 
+  "accession_number": "79.34", 
+  "credit_line": "Gift of Dr. Frederick P. Nause and Rebecca A. Nause his wife", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167897, 
+  "creation_date": "1977", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Pat Hardy", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297369, 
+      "role": "Artist", 
+      "birth_date": "1940", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15367, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.142", 
-    "actors": [
-        {
-            "after_follower": "Attributed to", 
-            "birth_date": "1245", 
-            "death_date": "1320", 
-            "name": "Li Kan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1300", 
-    "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
-    "cultures": [], 
-    "dimensions": "63 x 33 3/4 in. (image)\n107 1/8 x 41 1/8 in. (overall)", 
-    "dynasty": "Yuan dynasty", 
-    "irn": 6778, 
-    "materials": "ink on silk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Old Trees, Bamboo, and Rocks"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "63 x 33 3/4 in. (image)\n107 1/8 x 41 1/8 in. (overall)", 
+  "title": "Old Trees, Bamboo, and Rocks", 
+  "accession_number": "60.142", 
+  "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147345, 
+  "creation_date": "about 1300", 
+  "materials": "ink on silk", 
+  "actors": [
+    {
+      "name": "Li Kan", 
+      "after_follower": "Attributed to", 
+      "death_date": "1320", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297533, 
+      "role": "Artist", 
+      "birth_date": "1245", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6778, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Yuan dynasty", 
+  "on_view": false
 }

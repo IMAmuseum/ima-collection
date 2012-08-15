@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.712", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1909", 
-            "death_date": null, 
-            "name": "Brun, Donald", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1943", 
-    "credit_line": "Gift of Mr. and Mrs. D. Edward Yates", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 12104, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ticino"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Ticino", 
+  "accession_number": "81.712", 
+  "credit_line": "Gift of Mr. and Mrs. D. Edward Yates", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18159943, 
+  "creation_date": "1943", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Brun, Donald", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298977, 
+      "role": "Artist", 
+      "birth_date": "1909", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12104, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "79.138", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1776", 
-            "death_date": "1837", 
-            "name": "John Constable", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1802", 
-            "death_date": "1881", 
-            "name": "Lucas, David", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1831", 
-    "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 22557, 
-    "materials": "mezzotint on India paper chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "River Stour, Suffolk"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
+  "accession_number": "79.138", 
+  "title": "River Stour, Suffolk", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18198665, 
+  "creation_date": "1831", 
+  "materials": "mezzotint on India paper chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "John Constable", 
+      "after_follower": null, 
+      "death_date": "1837", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296115, 
+      "role": "Artist", 
+      "birth_date": "1776", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lucas, David", 
+      "after_follower": null, 
+      "death_date": "1881", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296641, 
+      "role": "Engraver", 
+      "birth_date": "1802", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22557, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

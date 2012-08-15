@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.322", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1962", 
-            "death_date": null, 
-            "name": "Stefan Lindfors", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Iittala", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Gift of Form + Function, Indianapolis", 
-    "cultures": [], 
-    "dimensions": "4 1/4 \u00d7 14 3/4 in.", 
-    "dynasty": null, 
-    "irn": 67340, 
-    "materials": "steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Stefan Lindfors", 
-    "title": "Linds 98 salad bowl"
+  "publishers": [], 
+  "dimensions": "4 1/4 \u00d7 14 3/4 in.", 
+  "rights": "\u00a9 Stefan Lindfors", 
+  "credit_line": "Gift of Form + Function, Indianapolis", 
+  "accession_number": "2009.322", 
+  "title": "Linds 98 salad bowl", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282709, 
+  "creation_date": "1998", 
+  "materials": "steel", 
+  "actors": [
+    {
+      "name": "Stefan Lindfors", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307039, 
+      "role": "Designer", 
+      "birth_date": "1962", 
+      "nationality": null
+    }, 
+    {
+      "name": "Iittala", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306847, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67340, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1999.74", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1812", 
-            "death_date": "1852", 
-            "name": "Augustus Welby Northmore Pugin", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "about 1847", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art, the Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks, and the Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "86 x 4 x 59-3/4 x 22", 
-    "dynasty": null, 
-    "irn": 21749, 
-    "materials": "oak, wrought iron, paint, gilding", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "cabinet"
+  "publishers": [], 
+  "dimensions": "86 x 4 x 59-3/4 x 22", 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art, the Robertine Daniels Art Fund in memory of her late husband, Richard Monroe Fairbanks, Sr., and her late son, Michael Fairbanks, and the Martha Delzell Memorial Fund", 
+  "accession_number": "1999.74", 
+  "title": "cabinet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18196865, 
+  "creation_date": "about 1847", 
+  "materials": "oak, wrought iron, paint, gilding", 
+  "actors": [
+    {
+      "name": "Augustus Welby Northmore Pugin", 
+      "after_follower": null, 
+      "death_date": "1852", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295293, 
+      "role": "Designer", 
+      "birth_date": "1812", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21749, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

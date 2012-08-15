@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.18", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Miuccia Prada", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Prada", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "Spring/Summer, 2005", 
-    "credit_line": "Gift of Katherine C. Nagler", 
-    "cultures": [], 
-    "dimensions": "Length: 22 1/4 in.\nWaist: 15 1/2 in.\nHem: 26 in.", 
-    "dynasty": null, 
-    "irn": 71289, 
-    "materials": "cotton, peacock feathers", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "skirt"
+  "publishers": [], 
+  "dimensions": "Length: 22 1/4 in.\nWaist: 15 1/2 in.\nHem: 26 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Katherine C. Nagler", 
+  "accession_number": "2011.18", 
+  "title": "skirt", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18286871, 
+  "creation_date": "Spring/Summer, 2005", 
+  "materials": "cotton, peacock feathers", 
+  "actors": [
+    {
+      "name": "Miuccia Prada", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308359, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "Prada", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308363, 
+      "role": "Design House", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71289, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

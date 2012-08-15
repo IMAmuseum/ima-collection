@@ -1,34 +1,40 @@
 {
-    "accession_number": "2000.341", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1430", 
-            "death_date": "1516", 
-            "name": "Bellini, Giovanni", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": "Workshop of", 
-            "birth_date": "1431", 
-            "death_date": "1516", 
-            "name": "Bellini, Giovanni", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1490-1500", 
-    "credit_line": "The Clowes Collection", 
-    "cultures": [], 
-    "dimensions": "30 x 23 in.", 
-    "dynasty": null, 
-    "irn": 22919, 
-    "materials": "tempera and oil on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna and Child with St. John the Baptist"
+  "publishers": [], 
+  "dimensions": "30 x 23 in.", 
+  "rights": null, 
+  "credit_line": "The Clowes Collection", 
+  "accession_number": "2000.341", 
+  "title": "Madonna and Child with St. John the Baptist", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18199517, 
+  "creation_date": "about 1490-1500", 
+  "materials": "tempera and oil on wood", 
+  "actors": [
+    {
+      "name": "Bellini, Giovanni", 
+      "after_follower": null, 
+      "death_date": "1516", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301479, 
+      "role": "Artist", 
+      "birth_date": "1430", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bellini, Giovanni", 
+      "after_follower": "Workshop of", 
+      "death_date": "1516", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301479, 
+      "role": "Artist", 
+      "birth_date": "1431", 
+      "nationality": null
+    }
+  ], 
+  "irn": 22919, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

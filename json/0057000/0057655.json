@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.55", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922-1990", 
-            "death_date": "1922-1990", 
-            "name": "Parker, Raymond", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 57655, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Composition 123"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2002.55", 
+  "title": "Composition 123", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18274509, 
+  "creation_date": "20th Century", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Parker, Raymond", 
+      "after_follower": null, 
+      "death_date": "1922-1990", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303009, 
+      "role": "Artist", 
+      "birth_date": "1922-1990", 
+      "nationality": null
+    }
+  ], 
+  "irn": 57655, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

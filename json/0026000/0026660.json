@@ -1,26 +1,30 @@
 {
-    "accession_number": "22.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1863", 
-            "death_date": "1937", 
-            "name": "MacMonnies, Frederick William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1890", 
-    "credit_line": "Gift of Robert E. Ramsey through the Indiana Society of the Sons of the American Revolution", 
-    "cultures": [], 
-    "dimensions": "28 1/4 in.", 
-    "dynasty": null, 
-    "irn": 26660, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Nathan Hale"
+  "publishers": [], 
+  "dimensions": "28 1/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Robert E. Ramsey through the Indiana Society of the Sons of the American Revolution", 
+  "accession_number": "22.1", 
+  "title": "Nathan Hale", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18208213, 
+  "creation_date": "1890", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "MacMonnies, Frederick William", 
+      "after_follower": null, 
+      "death_date": "1937", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295205, 
+      "role": "Artist", 
+      "birth_date": "1863", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26660, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

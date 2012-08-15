@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1266", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1795", 
-            "death_date": "1870", 
-            "name": "Edward Goodall", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1834", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "2 5/8 x 3 1/8 in. (image)\n5 5/8 x 6 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 39781, 
-    "materials": "engraving on India paper laid down", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Vision of Columbus"
+  "publishers": [], 
+  "dimensions": "2 5/8 x 3 1/8 in. (image)\n5 5/8 x 6 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1266", 
+  "title": "The Vision of Columbus", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18239947, 
+  "creation_date": "1834", 
+  "materials": "engraving on India paper laid down", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Edward Goodall", 
+      "after_follower": null, 
+      "death_date": "1870", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304545, 
+      "role": "Engraver", 
+      "birth_date": "1795", 
+      "nationality": null
+    }
+  ], 
+  "irn": 39781, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

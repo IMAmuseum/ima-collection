@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.84A-F", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "JeanBaptiste Moli\u00e8re", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 3/8 x 6 in. (each)", 
-    "dynasty": null, 
-    "irn": 62237, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "George Barrie's Sons"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Dramatic Works of Moli\u00e8re (volumes 1-6)"
+  "publishers": [
+    {
+      "name": "George Barrie's Sons"
+    }
+  ], 
+  "dimensions": "8 3/8 x 6 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.84A-F", 
+  "title": "The Dramatic Works of Moli\u00e8re (volumes 1-6)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277607, 
+  "creation_date": null, 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "JeanBaptiste Moli\u00e8re", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306375, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62237, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

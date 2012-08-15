@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.967", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1697", 
-            "death_date": "1764", 
-            "name": "Hogarth, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1732", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": "11 5/8 x 14 3/4 in. (image)\n16 5/8 x 19 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 1787, 
-    "materials": "etching and engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Apprehended by a Magistrate: A Harlot's Progress, Plate 3"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "11 5/8 x 14 3/4 in. (image)\n16 5/8 x 19 3/8 in. (sheet)", 
+  "title": "Apprehended by a Magistrate: A Harlot's Progress, Plate 3", 
+  "accession_number": "30.967", 
+  "credit_line": "Gift of William George Sullivan", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135569, 
+  "creation_date": "1732", 
+  "materials": "etching and engraving", 
+  "actors": [
+    {
+      "name": "Hogarth, William", 
+      "after_follower": null, 
+      "death_date": "1764", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294939, 
+      "role": "Artist", 
+      "birth_date": "1697", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1787, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

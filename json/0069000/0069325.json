@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.2.1-.5A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": null, 
-            "name": "Graves, Michael", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Alessi S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1980-1984", 
-    "credit_line": "Gift in honor of Joyce A Sommers with funds provided by V. Simon Abraham, Cornelius M. and Dorothy Alig, Ruthelen Burns, William J. and Vickie Cafaro, Robert M. Davis, Scott Evenbeck, Russell and Penny B. Fortune, William L. Fortune Jr. and Joseph D. Blakely, Mark M. and Carmen S. Holeman, John David Hoover, Frederick M. King, Kay F. Koch, James E. and Patricia J. LaCrosse, Catharine D. Lichtenauer, Katherine C. Nagler, Nancy J. Ramsey, George J. Seybert, Trent Spence, James A. and Cheryl S. Strain, James P. and Anna S. White, Design Arts Society Fund", 
-    "cultures": [], 
-    "dimensions": "9 11/16 x 16 1/8 (diam.) in. (overall)", 
-    "dynasty": null, 
-    "irn": 69325, 
-    "materials": "925/1000 silver, lacquered aluminum, mock ivory, and Bakelite", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Tea & Coffee Piazza Service"
+  "publishers": [], 
+  "dimensions": "9 11/16 x 16 1/8 (diam.) in. (overall)", 
+  "rights": null, 
+  "credit_line": "Gift in honor of Joyce A Sommers with funds provided by V. Simon Abraham, Cornelius M. and Dorothy Alig, Ruthelen Burns, William J. and Vickie Cafaro, Robert M. Davis, Scott Evenbeck, Russell and Penny B. Fortune, William L. Fortune Jr. and Joseph D. Blakely, Mark M. and Carmen S. Holeman, John David Hoover, Frederick M. King, Kay F. Koch, James E. and Patricia J. LaCrosse, Catharine D. Lichtenauer, Katherine C. Nagler, Nancy J. Ramsey, George J. Seybert, Trent Spence, James A. and Cheryl S. Strain, James P. and Anna S. White, Design Arts Society Fund", 
+  "accession_number": "2011.2.1-.5A-C", 
+  "title": "Tea & Coffee Piazza Service", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284595, 
+  "creation_date": "1980-1984", 
+  "materials": "925/1000 silver, lacquered aluminum, mock ivory, and Bakelite", 
+  "actors": [
+    {
+      "name": "Graves, Michael", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305613, 
+      "role": "Designer", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Alessi S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304005, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 69325, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

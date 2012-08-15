@@ -1,26 +1,30 @@
 {
-    "accession_number": "71.214.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1845", 
-            "death_date": "1917", 
-            "name": "Cl\u00e9ment Massier", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1930", 
-    "credit_line": "Gift of Mr. and Mrs. Robert H. Morse, Jr.", 
-    "cultures": [], 
-    "dimensions": "18 x 20 x 20 in.", 
-    "dynasty": null, 
-    "irn": 12266, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "table"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "18 x 20 x 20 in.", 
+  "title": "table", 
+  "accession_number": "71.214.3", 
+  "credit_line": "Gift of Mr. and Mrs. Robert H. Morse, Jr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160317, 
+  "creation_date": "about 1930", 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Cl\u00e9ment Massier", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299019, 
+      "role": "Artist", 
+      "birth_date": "1845", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12266, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

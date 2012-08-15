@@ -1,34 +1,38 @@
 {
-    "accession_number": "2010.271", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1857", 
-            "death_date": "1922", 
-            "name": "Dow, Arthur Wesley", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1896", 
-    "credit_line": "Gift of John P. Antonelli", 
-    "cultures": [], 
-    "dimensions": "10 1/4 x 8 in. (image)\n15 1/2 x 11 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 69513, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Imprimerie Chaix"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Imprimerie Chaix"
-        }
-    ], 
-    "rights": null, 
-    "title": "Modern Art"
+  "publishers": [
+    {
+      "name": "Imprimerie Chaix"
+    }
+  ], 
+  "dimensions": "10 1/4 x 8 in. (image)\n15 1/2 x 11 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of John P. Antonelli", 
+  "accession_number": "2010.271", 
+  "title": "Modern Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284973, 
+  "creation_date": "1896", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Dow, Arthur Wesley", 
+      "after_follower": null, 
+      "death_date": "1922", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303765, 
+      "role": "Artist", 
+      "birth_date": "1857", 
+      "nationality": null
+    }
+  ], 
+  "irn": 69513, 
+  "printers": [
+    {
+      "name": "Imprimerie Chaix"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "20.111", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1896", 
-            "name": "Morris, William", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1875", 
-    "credit_line": "Gift of Miss Charity Dye", 
-    "cultures": [], 
-    "dimensions": "38 3/8 x 54 3/4 in.", 
-    "dynasty": null, 
-    "irn": 24819, 
-    "materials": "cotton, block printed", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "furnishing fabric; \"Tulip\""
+  "publishers": [], 
+  "dimensions": "38 3/8 x 54 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Miss Charity Dye", 
+  "accession_number": "20.111", 
+  "title": "furnishing fabric; \"Tulip\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18203957, 
+  "creation_date": "1875", 
+  "materials": "cotton, block printed", 
+  "actors": [
+    {
+      "name": "Morris, William", 
+      "after_follower": null, 
+      "death_date": "1896", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296011, 
+      "role": "Designer", 
+      "birth_date": "1834", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24819, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

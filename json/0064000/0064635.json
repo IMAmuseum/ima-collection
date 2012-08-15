@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.357", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1968", 
-            "death_date": null, 
-            "name": "Tord Boontje", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Artecnica", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2005", 
-    "credit_line": "Gift of Artecnica", 
-    "cultures": [], 
-    "dimensions": "8 \u00d7 5 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64635, 
-    "materials": "silver", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Tord Boontje", 
-    "title": "Thinking of You: Now vase cover"
+  "publishers": [], 
+  "dimensions": "8 \u00d7 5 1/2 in.", 
+  "rights": "\u00a9 Tord Boontje", 
+  "credit_line": "Gift of Artecnica", 
+  "accession_number": "2009.357", 
+  "title": "Thinking of You: Now vase cover", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279127, 
+  "creation_date": "2005", 
+  "materials": "silver", 
+  "actors": [
+    {
+      "name": "Tord Boontje", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306823, 
+      "role": "Designer", 
+      "birth_date": "1968", 
+      "nationality": null
+    }, 
+    {
+      "name": "Artecnica", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306831, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64635, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

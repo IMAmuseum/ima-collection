@@ -1,26 +1,30 @@
 {
-    "accession_number": "1991.43", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1728", 
-            "death_date": "1781", 
-            "name": "Gandolfi, Ubaldo", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th century", 
-    "credit_line": "Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 4043, 
-    "materials": "pen and brown ink with brown ink wash over black chalk on off-white laid paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Flagellation"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Flagellation", 
+  "accession_number": "1991.43", 
+  "credit_line": "Martha Delzell Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140871, 
+  "creation_date": "18th century", 
+  "materials": "pen and brown ink with brown ink wash over black chalk on off-white laid paper", 
+  "actors": [
+    {
+      "name": "Gandolfi, Ubaldo", 
+      "after_follower": null, 
+      "death_date": "1781", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296661, 
+      "role": "Artist", 
+      "birth_date": "1728", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4043, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

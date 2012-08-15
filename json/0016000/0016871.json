@@ -1,38 +1,44 @@
 {
-    "accession_number": "73.84.60", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Goodwin, Francis", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1793-1878", 
-            "death_date": "1793-1878", 
-            "name": "Havell, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16871, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Goodwin, Francis"
-        }
-    ], 
-    "rights": null, 
-    "title": "Design for an Italian Villa"
+  "publishers": [
+    {
+      "name": "Goodwin, Francis"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Discretionary Fund", 
+  "accession_number": "73.84.60", 
+  "title": "Design for an Italian Villa", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18171717, 
+  "creation_date": "1833", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Goodwin, Francis", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296435, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Havell, Robert", 
+      "after_follower": null, 
+      "death_date": "1793-1878", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296839, 
+      "role": "Artist", 
+      "birth_date": "1793-1878", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16871, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

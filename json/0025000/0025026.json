@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.81", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1885", 
-            "death_date": "1956", 
-            "name": "Laurencin, Marie", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "16 1/4 x 13 in.", 
-    "dynasty": null, 
-    "irn": 25026, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
-    "title": "Head of a Woman"
+  "publishers": [], 
+  "dimensions": "16 1/4 x 13 in.", 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
+  "credit_line": "Museum Accession", 
+  "accession_number": "70.81", 
+  "title": "Head of a Woman", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18204405, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Laurencin, Marie", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301963, 
+      "role": "Artist", 
+      "birth_date": "1885", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25026, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

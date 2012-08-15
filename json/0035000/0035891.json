@@ -1,26 +1,30 @@
 {
-    "accession_number": "82.110", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1941", 
-            "death_date": "1998", 
-            "name": "Brown, Roger", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1982", 
-    "credit_line": "Gift of the Contemporary Art Society", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 35891, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The School of the Art Institute of Chicago and the Brown Family", 
-    "title": "Couple in Sumac Thicket"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 The School of the Art Institute of Chicago and the Brown Family", 
+  "credit_line": "Gift of the Contemporary Art Society", 
+  "accession_number": "82.110", 
+  "title": "Couple in Sumac Thicket", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229667, 
+  "creation_date": "1982", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Brown, Roger", 
+      "after_follower": null, 
+      "death_date": "1998", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303807, 
+      "role": "Artist", 
+      "birth_date": "1941", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35891, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

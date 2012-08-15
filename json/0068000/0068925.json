@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.246A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1949", 
-            "death_date": null, 
-            "name": "Sipek, Borek", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Driade S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1993", 
-    "credit_line": "Gift of Robert and Lisa Kessler", 
-    "cultures": [], 
-    "dimensions": "A) 11 1/2 x 13 x 9 1/2 in.; B) 2 1/4 x 9 1/2 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 68925, 
-    "materials": "porcelain", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Borek \u008a\u00edpek", 
-    "title": "Berry soup tureen"
+  "publishers": [], 
+  "dimensions": "A) 11 1/2 x 13 x 9 1/2 in.; B) 2 1/4 x 9 1/2 (diam.) in.", 
+  "rights": "\u00a9 Borek \u008a\u00edpek", 
+  "credit_line": "Gift of Robert and Lisa Kessler", 
+  "accession_number": "2010.246A-B", 
+  "title": "Berry soup tureen", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283855, 
+  "creation_date": "about 1993", 
+  "materials": "porcelain", 
+  "actors": [
+    {
+      "name": "Sipek, Borek", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307133, 
+      "role": "Designer", 
+      "birth_date": "1949", 
+      "nationality": null
+    }, 
+    {
+      "name": "Driade S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307137, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68925, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

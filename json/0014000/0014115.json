@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.58", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1613", 
-            "death_date": "1678", 
-            "name": "Zeeman, Reinier", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "5 1/8 x 9 1/2 inches", 
-    "dynasty": null, 
-    "irn": 14115, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Dredger and a Mud Hopper"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "5 1/8 x 9 1/2 inches", 
+  "title": "A Dredger and a Mud Hopper", 
+  "accession_number": "57.58", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164971, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Zeeman, Reinier", 
+      "after_follower": null, 
+      "death_date": "1678", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299531, 
+      "role": "Artist", 
+      "birth_date": "1613", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14115, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

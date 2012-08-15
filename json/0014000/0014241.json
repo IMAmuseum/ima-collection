@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.84", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Giovanni da Pisa", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1440-1460", 
-    "credit_line": "Gift of John G. Rauch in memory of Mary Catherine Rauch", 
-    "cultures": [], 
-    "dimensions": "27 3/4 x 13 3/4", 
-    "dynasty": null, 
-    "irn": 14241, 
-    "materials": "Terra Cotta Relief", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Madonna and child"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "27 3/4 x 13 3/4", 
+  "title": "Madonna and child", 
+  "accession_number": "52.84", 
+  "credit_line": "Gift of John G. Rauch in memory of Mary Catherine Rauch", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165289, 
+  "creation_date": "1440-1460", 
+  "materials": "Terra Cotta Relief", 
+  "actors": [
+    {
+      "name": "Giovanni da Pisa", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299557, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 14241, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

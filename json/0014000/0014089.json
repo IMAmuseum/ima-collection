@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": "1860", 
-            "name": "Zhu Jun", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1857", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 14089, 
-    "materials": "ink and colors on silk or paper", 
-    "on_view": false, 
-    "period": "Xianfeng", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "White Peony after Yun Shouping"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "White Peony after Yun Shouping", 
+  "accession_number": "73.61.11", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Xianfeng", 
+  "artisinal:id": 18164915, 
+  "creation_date": "1857", 
+  "materials": "ink and colors on silk or paper", 
+  "actors": [
+    {
+      "name": "Zhu Jun", 
+      "after_follower": null, 
+      "death_date": "1860", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299517, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 14089, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

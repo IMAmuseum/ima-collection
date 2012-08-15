@@ -1,30 +1,34 @@
 {
-    "accession_number": "2008.793.6", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1898", 
-            "death_date": "1969", 
-            "name": "Shahn, Ben", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1931", 
-    "credit_line": "Gift of Joan and Walter Wolf", 
-    "cultures": [], 
-    "dimensions": "13 x 10 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 67235, 
-    "materials": "lithograph on Canson and Montgolfier cream wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Philip Van Doren Stern"
-        }
-    ], 
-    "rights": "\u00a9 Estate of Ben Shahn/Licensed by VAGA, New York, NY", 
-    "title": "\"Every slave\""
+  "publishers": [
+    {
+      "name": "Philip Van Doren Stern"
+    }
+  ], 
+  "dimensions": "13 x 10 in. (sheet)", 
+  "rights": "\u00a9 Estate of Ben Shahn/Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Joan and Walter Wolf", 
+  "accession_number": "2008.793.6", 
+  "title": "\"Every slave\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282489, 
+  "creation_date": "1931", 
+  "materials": "lithograph on Canson and Montgolfier cream wove paper", 
+  "actors": [
+    {
+      "name": "Shahn, Ben", 
+      "after_follower": null, 
+      "death_date": "1969", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299417, 
+      "role": "Artist", 
+      "birth_date": "1898", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67235, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

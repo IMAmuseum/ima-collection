@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.84.43", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1788", 
-            "death_date": "1834", 
-            "name": "Busby, Charles Augustus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1808", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 23892, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Country House"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Discretionary Fund", 
+  "accession_number": "73.84.43", 
+  "title": "A Country House", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18201831, 
+  "creation_date": "1808", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Busby, Charles Augustus", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299771, 
+      "role": "Artist", 
+      "birth_date": "1788", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23892, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

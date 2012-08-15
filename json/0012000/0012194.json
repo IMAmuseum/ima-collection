@@ -1,26 +1,30 @@
 {
-    "accession_number": "30.270", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Unknown", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1650-1750", 
-    "credit_line": "Gift of Eliza M. Niblack", 
-    "cultures": [], 
-    "dimensions": "16 3/8 x 47 1/4 in.", 
-    "dynasty": null, 
-    "irn": 12194, 
-    "materials": "ink, color and gold leaf on paper, part of six-panel screen", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Views and Poems of the Twelve Months"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "16 3/8 x 47 1/4 in.", 
+  "title": "Views and Poems of the Twelve Months", 
+  "accession_number": "30.270", 
+  "credit_line": "Gift of Eliza M. Niblack", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18160157, 
+  "creation_date": "1650-1750", 
+  "materials": "ink, color and gold leaf on paper, part of six-panel screen", 
+  "actors": [
+    {
+      "name": "Unknown", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294921, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 12194, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.11.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1867", 
-            "death_date": "1956", 
-            "name": "Brangwyn, Frank", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1904", 
-    "credit_line": "Gift of A. Scherrer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15125, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mills, Montreuil-sur-mer"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Mills, Montreuil-sur-mer", 
+  "accession_number": "67.11.26", 
+  "credit_line": "Gift of A. Scherrer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167397, 
+  "creation_date": "1904", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Brangwyn, Frank", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297791, 
+      "role": "Artist", 
+      "birth_date": "1867", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15125, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

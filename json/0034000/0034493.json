@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.200", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1739", 
-            "death_date": "1797", 
-            "name": "Hall, John", 
-            "nationality": "English", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1794", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": "9 5/8 x 7 7/8 in. (image)\n16 3/8 x 11 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 34493, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "King John"
+  "publishers": [], 
+  "dimensions": "9 5/8 x 7 7/8 in. (image)\n16 3/8 x 11 7/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.200", 
+  "title": "King John", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18226497, 
+  "creation_date": "1794", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Hall, John", 
+      "after_follower": null, 
+      "death_date": "1797", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303583, 
+      "role": "Artist", 
+      "birth_date": "1739", 
+      "nationality": "English"
+    }
+  ], 
+  "irn": 34493, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

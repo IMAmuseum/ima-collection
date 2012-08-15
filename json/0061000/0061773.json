@@ -1,38 +1,44 @@
 {
-    "accession_number": "2004.42", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1908", 
-            "death_date": "1984", 
-            "name": "Krasner, Lee", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Pratt Graphic Art Center", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1962", 
-    "credit_line": "Rogert G. Wolcott Fund", 
-    "cultures": [], 
-    "dimensions": "25 1/8 x 30 in.", 
-    "dynasty": null, 
-    "irn": 61773, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Pratt Graphic Art Center"
-        }
-    ], 
-    "rights": "\u00a9 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York", 
-    "title": "The Civet"
+  "publishers": [
+    {
+      "name": "Pratt Graphic Art Center"
+    }
+  ], 
+  "dimensions": "25 1/8 x 30 in.", 
+  "rights": "\u00a9 Pollock-Krasner Foundation / Artists Rights Society (ARS), New York", 
+  "credit_line": "Rogert G. Wolcott Fund", 
+  "accession_number": "2004.42", 
+  "title": "The Civet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277209, 
+  "creation_date": "1962", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Krasner, Lee", 
+      "after_follower": null, 
+      "death_date": "1984", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295117, 
+      "role": "Artist", 
+      "birth_date": "1908", 
+      "nationality": null
+    }, 
+    {
+      "name": "Pratt Graphic Art Center", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302149, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61773, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "47.98", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1839", 
-            "death_date": "1922", 
-            "name": "Hill, John Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Dr. and Mrs. Clarence Wilbur Dicks in memory of Mrs. Dicks mother, Mrs. Frederick B. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3874, 
-    "materials": "ink | pen | ink | pencil", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Moonlight on the Androscoggin"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Moonlight on the Androscoggin", 
+  "accession_number": "47.98", 
+  "credit_line": "Gift of Dr. and Mrs. Clarence Wilbur Dicks in memory of Mrs. Dicks mother, Mrs. Frederick B. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140483, 
+  "creation_date": null, 
+  "materials": "ink | pen | ink | pencil", 
+  "actors": [
+    {
+      "name": "Hill, John Henry", 
+      "after_follower": null, 
+      "death_date": "1922", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296577, 
+      "role": "Artist", 
+      "birth_date": "1839", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3874, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

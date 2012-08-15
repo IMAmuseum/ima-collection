@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.380", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1970", 
-            "death_date": null, 
-            "name": "Frank Tjepkema", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Droog Design", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1996", 
-    "credit_line": "The Ballard Fund", 
-    "cultures": [], 
-    "dimensions": "19 3/4 \u00d7 19 3/4 in.", 
-    "dynasty": null, 
-    "irn": 64830, 
-    "materials": "plastic and rubber", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Frank Tjepkema", 
-    "title": "Artificial Plant"
+  "publishers": [], 
+  "dimensions": "19 3/4 \u00d7 19 3/4 in.", 
+  "rights": "\u00a9 Frank Tjepkema", 
+  "credit_line": "The Ballard Fund", 
+  "accession_number": "2009.380", 
+  "title": "Artificial Plant", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279373, 
+  "creation_date": "1996", 
+  "materials": "plastic and rubber", 
+  "actors": [
+    {
+      "name": "Frank Tjepkema", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307163, 
+      "role": "Designer", 
+      "birth_date": "1970", 
+      "nationality": null
+    }, 
+    {
+      "name": "Droog Design", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306817, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64830, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

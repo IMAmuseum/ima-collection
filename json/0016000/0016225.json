@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.156", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1923", 
-            "name": "Steinlen, Th\u00e9ophile Alexandre", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1895", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16225, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "D'mandez! Les derni\u00e8res nouvelles d'Arton"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "D'mandez! Les derni\u00e8res nouvelles d'Arton", 
+  "accession_number": "32.156", 
+  "credit_line": "Gift of the Gamboliers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170127, 
+  "creation_date": "1895", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Steinlen, Th\u00e9ophile Alexandre", 
+      "after_follower": null, 
+      "death_date": "1923", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300121, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16225, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

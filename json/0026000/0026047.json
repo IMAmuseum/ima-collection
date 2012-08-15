@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.165", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1891", 
-            "death_date": "1989", 
-            "name": "Jacques Th\u00e9venet", 
-            "nationality": "French", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": "7 1/2 x 9 1/2 in. (image)", 
-    "dynasty": null, 
-    "irn": 26047, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Banks of the Creuse"
+  "publishers": [], 
+  "dimensions": "7 1/2 x 9 1/2 in. (image)", 
+  "rights": null, 
+  "credit_line": "Gift of the Gamboliers", 
+  "accession_number": "32.165", 
+  "title": "Banks of the Creuse", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18206785, 
+  "creation_date": null, 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Jacques Th\u00e9venet", 
+      "after_follower": null, 
+      "death_date": "1989", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302165, 
+      "role": "Artist", 
+      "birth_date": "1891", 
+      "nationality": "French"
+    }
+  ], 
+  "irn": 26047, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

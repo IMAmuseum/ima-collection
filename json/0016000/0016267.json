@@ -1,26 +1,30 @@
 {
-    "accession_number": "26.62", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1872", 
-            "death_date": "1941", 
-            "name": "Brouet, Auguste", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th century", 
-    "credit_line": "D. P. Erwin Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16267, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Vielle Maison Normande"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Vielle Maison Normande", 
+  "accession_number": "26.62", 
+  "credit_line": "D. P. Erwin Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18170227, 
+  "creation_date": "20th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Brouet, Auguste", 
+      "after_follower": null, 
+      "death_date": "1941", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300131, 
+      "role": "Artist", 
+      "birth_date": "1872", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16267, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

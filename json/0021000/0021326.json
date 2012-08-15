@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.512", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1935", 
-            "death_date": null, 
-            "name": "Ramos, Mel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1974", 
-    "credit_line": "Gift of Dr. and Mrs. Kenneth Gitlin", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 21326, 
-    "materials": "collotype", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Manet's Olympia"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Dr. and Mrs. Kenneth Gitlin", 
+  "accession_number": "80.512", 
+  "title": "Manet's Olympia", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18195877, 
+  "creation_date": "1974", 
+  "materials": "collotype", 
+  "actors": [
+    {
+      "name": "Ramos, Mel", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299201, 
+      "role": "Artist", 
+      "birth_date": "1935", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21326, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

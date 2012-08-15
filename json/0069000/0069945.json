@@ -1,26 +1,30 @@
 {
-    "accession_number": "MH2010.293", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1811", 
-            "death_date": "1889", 
-            "name": "Dupr\u00e9, Jules", 
-            "nationality": null, 
-            "role": "artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "20 1/2 x 23 x 3", 
-    "dynasty": null, 
-    "irn": 69945, 
-    "materials": "paint and canvas painting", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le P\u00eacheur Solitaire"
+  "publishers": [], 
+  "dimensions": "20 1/2 x 23 x 3", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.293", 
+  "title": "Le P\u00eacheur Solitaire", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18285869, 
+  "creation_date": null, 
+  "materials": "paint and canvas painting", 
+  "actors": [
+    {
+      "name": "Dupr\u00e9, Jules", 
+      "after_follower": null, 
+      "death_date": "1889", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303511, 
+      "role": "artist", 
+      "birth_date": "1811", 
+      "nationality": null
+    }
+  ], 
+  "irn": 69945, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

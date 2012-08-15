@@ -1,26 +1,30 @@
 {
-    "accession_number": "52.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1753", 
-            "death_date": "1817", 
-            "name": "Klauber, Ignaz Sebastian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "18th-19th century", 
-    "credit_line": "Gift of William George Sullivan", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28284, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Prince Alexander Borissowitsch Kourakin"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of William George Sullivan", 
+  "accession_number": "52.3", 
+  "title": "Prince Alexander Borissowitsch Kourakin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18212069, 
+  "creation_date": "18th-19th century", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Klauber, Ignaz Sebastian", 
+      "after_follower": null, 
+      "death_date": "1817", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301571, 
+      "role": "Artist", 
+      "birth_date": "1753", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28284, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

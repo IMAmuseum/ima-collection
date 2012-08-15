@@ -1,26 +1,30 @@
 {
-    "accession_number": "S5177.84.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1756", 
-            "death_date": "1823", 
-            "name": "Raeburn, Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Norma Jeanne Cagle in memory of Mr. and Mrs. Theodore E. (Pop) Myers", 
-    "cultures": [], 
-    "dimensions": "24 x 20", 
-    "dynasty": null, 
-    "irn": 26488, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "PORTRAIT OF A WOMAN"
+  "publishers": [], 
+  "dimensions": "24 x 20", 
+  "rights": null, 
+  "credit_line": "Bequest of Norma Jeanne Cagle in memory of Mr. and Mrs. Theodore E. (Pop) Myers", 
+  "accession_number": "S5177.84.1", 
+  "title": "PORTRAIT OF A WOMAN", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18207809, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Raeburn, Henry", 
+      "after_follower": null, 
+      "death_date": "1823", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298329, 
+      "role": "Artist", 
+      "birth_date": "1756", 
+      "nationality": null
+    }
+  ], 
+  "irn": 26488, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

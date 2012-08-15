@@ -1,34 +1,40 @@
 {
-    "accession_number": "55.230", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1599", 
-            "death_date": "1641", 
-            "name": "Dyck, Anthony van", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1610", 
-            "death_date": "aft 1660", 
-            "name": "Neeffs, Jacobus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9982, 
-    "materials": "engraving and etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Self Portrait"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Self Portrait", 
+  "accession_number": "55.230", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155011, 
+  "creation_date": "17th century", 
+  "materials": "engraving and etching", 
+  "actors": [
+    {
+      "name": "Dyck, Anthony van", 
+      "after_follower": null, 
+      "death_date": "1641", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298493, 
+      "role": "Artist", 
+      "birth_date": "1599", 
+      "nationality": null
+    }, 
+    {
+      "name": "Neeffs, Jacobus", 
+      "after_follower": null, 
+      "death_date": "aft 1660", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298497, 
+      "role": "Artist", 
+      "birth_date": "1610", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9982, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "55.112", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1768", 
-            "death_date": "1834", 
-            "name": "Say, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1768", 
-            "death_date": "1834", 
-            "name": "Say, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1811", 
-    "credit_line": "Given anonymously in memory of Evan F. Lilly", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 5603, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Liber Studiorum 38. Scene in the Campagna"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Liber Studiorum 38. Scene in the Campagna", 
+  "accession_number": "55.112", 
+  "credit_line": "Given anonymously in memory of Evan F. Lilly", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144533, 
+  "creation_date": "1811", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Say, William", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294873, 
+      "role": "Artist", 
+      "birth_date": "1768", 
+      "nationality": null
+    }, 
+    {
+      "name": "Say, William", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294873, 
+      "role": "Engraver", 
+      "birth_date": "1768", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5603, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

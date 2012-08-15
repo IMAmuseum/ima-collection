@@ -1,34 +1,40 @@
 {
-    "accession_number": "55.108", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1768", 
-            "death_date": "1834", 
-            "name": "Say, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1768", 
-            "death_date": "1834", 
-            "name": "Say, William", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1811", 
-    "credit_line": "Given anonymously in memory of Evan F. Lilly", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 36786, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Liber Studiorum 34. Martello Towers Near Bexhill, Sussex"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Given anonymously in memory of Evan F. Lilly", 
+  "accession_number": "55.108", 
+  "title": "Liber Studiorum 34. Martello Towers Near Bexhill, Sussex", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18231773, 
+  "creation_date": "1811", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Say, William", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294873, 
+      "role": "Artist", 
+      "birth_date": "1768", 
+      "nationality": null
+    }, 
+    {
+      "name": "Say, William", 
+      "after_follower": null, 
+      "death_date": "1834", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294873, 
+      "role": "Engraver", 
+      "birth_date": "1768", 
+      "nationality": null
+    }
+  ], 
+  "irn": 36786, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

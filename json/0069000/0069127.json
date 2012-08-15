@@ -1,26 +1,30 @@
 {
-    "accession_number": "MH2010.13", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Steinway & Sons", 
-            "nationality": "United States", 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1957", 
-    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
-    "cultures": [], 
-    "dimensions": "37 1/2 x 56 x 80 in.", 
-    "dynasty": null, 
-    "irn": 69127, 
-    "materials": "Ivory, steel, brass, wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Piano"
+  "publishers": [], 
+  "dimensions": "37 1/2 x 56 x 80 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
+  "accession_number": "MH2010.13", 
+  "title": "Piano", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18284175, 
+  "creation_date": "1957", 
+  "materials": "Ivory, steel, brass, wood", 
+  "actors": [
+    {
+      "name": "Steinway & Sons", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308175, 
+      "role": "manufacturer", 
+      "birth_date": null, 
+      "nationality": "United States"
+    }
+  ], 
+  "irn": 69127, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

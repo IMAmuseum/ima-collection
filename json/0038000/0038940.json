@@ -1,38 +1,44 @@
 {
-    "accession_number": "2000.109", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1930", 
-            "death_date": null, 
-            "name": "Marisol", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1930", 
-            "death_date": null, 
-            "name": "Marisol", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1965", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
-    "cultures": [], 
-    "dimensions": "22 5/5 x 17 3/4 in.", 
-    "dynasty": null, 
-    "irn": 38940, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Universal Limited Art Editions"
-        }
-    ], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "The Kiss"
+  "publishers": [
+    {
+      "name": "Universal Limited Art Editions"
+    }
+  ], 
+  "dimensions": "22 5/5 x 17 3/4 in.", 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
+  "accession_number": "2000.109", 
+  "title": "The Kiss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18237529, 
+  "creation_date": "1965", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Marisol", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295271, 
+      "role": "Artist", 
+      "birth_date": "1930", 
+      "nationality": null
+    }, 
+    {
+      "name": "Marisol", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295271, 
+      "role": "Printer", 
+      "birth_date": "1930", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38940, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

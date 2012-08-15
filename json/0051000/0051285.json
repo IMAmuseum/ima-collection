@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.250", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1929", 
-            "death_date": null, 
-            "name": "Martin Barooshian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
-    "cultures": [], 
-    "dimensions": "10 7/8 x 8 5/8 in.", 
-    "dynasty": null, 
-    "irn": 51285, 
-    "materials": "aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Licensed by VAGA, New York, NY", 
-    "title": "Star Watcher"
+  "publishers": [], 
+  "dimensions": "10 7/8 x 8 5/8 in.", 
+  "rights": "\u00a9 Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
+  "accession_number": "2001.250", 
+  "title": "Star Watcher", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18264723, 
+  "creation_date": "20th Century", 
+  "materials": "aquatint", 
+  "actors": [
+    {
+      "name": "Martin Barooshian", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305465, 
+      "role": "Artist", 
+      "birth_date": "1929", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51285, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1991.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1736", 
-            "death_date": "1795", 
-            "name": "Chen Zhenyue", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1753", 
-    "credit_line": "Gift of Mrs. John H. Roberts", 
-    "cultures": [], 
-    "dimensions": "11 1/2 x 204 in.", 
-    "dynasty": "Qing dynasty", 
-    "irn": 13828, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": "Qianlong", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Where Migratory Birds Dwell"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "11 1/2 x 204 in.", 
+  "title": "Where Migratory Birds Dwell", 
+  "accession_number": "1991.20", 
+  "credit_line": "Gift of Mrs. John H. Roberts", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Qianlong", 
+  "artisinal:id": 18164269, 
+  "creation_date": "1753", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Chen Zhenyue", 
+      "after_follower": null, 
+      "death_date": "1795", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299437, 
+      "role": "Artist", 
+      "birth_date": "1736", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13828, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

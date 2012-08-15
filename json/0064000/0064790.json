@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.391", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1948", 
-            "death_date": null, 
-            "name": "William Sawaya", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Sawaya & Moroni S.p.A.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1992", 
-    "credit_line": "Frank Curtis Springer & Irving Moxley Springer Purchase Fund", 
-    "cultures": [], 
-    "dimensions": "10 1/2  \u00d7  9 1/2  \u00d7  6  in.", 
-    "dynasty": null, 
-    "irn": 64790, 
-    "materials": "silver", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 William Sawaya", 
-    "title": "Le Diable en T\u00eate pitcher"
+  "publishers": [], 
+  "dimensions": "10 1/2  \u00d7  9 1/2  \u00d7  6  in.", 
+  "rights": "\u00a9 William Sawaya", 
+  "credit_line": "Frank Curtis Springer & Irving Moxley Springer Purchase Fund", 
+  "accession_number": "2009.391", 
+  "title": "Le Diable en T\u00eate pitcher", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279313, 
+  "creation_date": "1992", 
+  "materials": "silver", 
+  "actors": [
+    {
+      "name": "William Sawaya", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307121, 
+      "role": "Designer", 
+      "birth_date": "1948", 
+      "nationality": null
+    }, 
+    {
+      "name": "Sawaya & Moroni S.p.A.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306965, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64790, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "17.93", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1850", 
-            "death_date": "1917", 
-            "name": "Lewis H. Meakin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1886", 
-    "credit_line": "Gift of Frank Duveneck and L. H. Meakin", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14307, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "River Thames, at London"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "River Thames, at London", 
+  "accession_number": "17.93", 
+  "credit_line": "Gift of Frank Duveneck and L. H. Meakin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165451, 
+  "creation_date": "1886", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Lewis H. Meakin", 
+      "after_follower": null, 
+      "death_date": "1917", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294863, 
+      "role": "Artist", 
+      "birth_date": "1850", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14307, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

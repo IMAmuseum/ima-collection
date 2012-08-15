@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.2.157", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1783-1869", 
-            "death_date": "1783-1869", 
-            "name": "Smith, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1826", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "7 1/2 X 9 1/4 in. (image)\n8 1/3 X 10 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 46036, 
-    "materials": "hand-colored etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Drawing room curtains"
+  "publishers": [], 
+  "dimensions": "7 1/2 X 9 1/4 in. (image)\n8 1/3 X 10 5/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Director's Discretionary Fund", 
+  "accession_number": "73.2.157", 
+  "title": "Drawing room curtains", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18255823, 
+  "creation_date": "1826", 
+  "materials": "hand-colored etching and aquatint", 
+  "actors": [
+    {
+      "name": "Smith, George", 
+      "after_follower": null, 
+      "death_date": "1783-1869", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298309, 
+      "role": "Artist", 
+      "birth_date": "1783-1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46036, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

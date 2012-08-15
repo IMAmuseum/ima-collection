@@ -1,34 +1,40 @@
 {
-    "accession_number": "79.1081", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1936", 
-            "death_date": "2008", 
-            "name": "Saint Laurent, Yves", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Christian Dior Couture", 
-            "nationality": null, 
-            "role": "Retailer"
-        }
-    ], 
-    "creation_date": "1959", 
-    "credit_line": "Gift of Ritta MacNeill", 
-    "cultures": [], 
-    "dimensions": "L: 34 in.", 
-    "dynasty": null, 
-    "irn": 10684, 
-    "materials": "Silk Taffeta", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Christian Dior \u00a9 Yves Saint Laurent", 
-    "title": "evening dress"
+  "publishers": [], 
+  "rights": "\u00a9 Christian Dior \u00a9 Yves Saint Laurent", 
+  "dimensions": "L: 34 in.", 
+  "title": "evening dress", 
+  "accession_number": "79.1081", 
+  "credit_line": "Gift of Ritta MacNeill", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18156653, 
+  "creation_date": "1959", 
+  "materials": "Silk Taffeta", 
+  "actors": [
+    {
+      "name": "Saint Laurent, Yves", 
+      "after_follower": null, 
+      "death_date": "2008", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298675, 
+      "role": "Designer", 
+      "birth_date": "1936", 
+      "nationality": null
+    }, 
+    {
+      "name": "Christian Dior Couture", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295267, 
+      "role": "Retailer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 10684, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

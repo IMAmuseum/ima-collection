@@ -1,26 +1,30 @@
 {
-    "accession_number": "2004.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1686", 
-            "death_date": "1756", 
-            "name": "Cai Jia", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1750", 
-    "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
-    "cultures": [], 
-    "dimensions": "95 3/4 x 34 1/2 in. (overall)", 
-    "dynasty": "Qing dynasty", 
-    "irn": 61529, 
-    "materials": "ink and color on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Autumn Waters and Evening Sun"
+  "publishers": [], 
+  "dimensions": "95 3/4 x 34 1/2 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
+  "accession_number": "2004.1", 
+  "title": "Autumn Waters and Evening Sun", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276967, 
+  "creation_date": "about 1750", 
+  "materials": "ink and color on paper", 
+  "actors": [
+    {
+      "name": "Cai Jia", 
+      "after_follower": null, 
+      "death_date": "1756", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305985, 
+      "role": "Artist", 
+      "birth_date": "1686", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61529, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.11.98", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1866-1925", 
-            "death_date": "1866-1925", 
-            "name": "Penfield, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1897", 
-    "credit_line": "Museum Acquisition", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 6761, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Harper's January"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Harper's January", 
+  "accession_number": "67.11.98", 
+  "credit_line": "Museum Acquisition", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147307, 
+  "creation_date": "1897", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Penfield, Edward", 
+      "after_follower": null, 
+      "death_date": "1866-1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295557, 
+      "role": "Artist", 
+      "birth_date": "1866-1925", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6761, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

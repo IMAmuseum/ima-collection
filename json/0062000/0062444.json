@@ -1,38 +1,44 @@
 {
-    "accession_number": "2004.163", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1901", 
-            "name": "Toulouse-Lautrec, Henri de", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Bella & de Malherbe", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1894", 
-    "credit_line": "Gift of Phillipa Hughes", 
-    "cultures": [], 
-    "dimensions": "22 3/8 x 15 1/2 in. (image and sheet)", 
-    "dynasty": null, 
-    "irn": 62444, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "J. & E. Bella"
-        }
-    ], 
-    "rights": null, 
-    "title": "Confetti"
+  "publishers": [
+    {
+      "name": "J. & E. Bella"
+    }
+  ], 
+  "dimensions": "22 3/8 x 15 1/2 in. (image and sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Phillipa Hughes", 
+  "accession_number": "2004.163", 
+  "title": "Confetti", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277673, 
+  "creation_date": "1894", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Toulouse-Lautrec, Henri de", 
+      "after_follower": null, 
+      "death_date": "1901", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296139, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bella & de Malherbe", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306423, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 62444, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

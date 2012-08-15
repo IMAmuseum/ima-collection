@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.1109", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "April 25, 1921", 
-            "death_date": null, 
-            "name": "Appel, Karel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1978", 
-    "credit_line": "Gift of Donald Waggoner", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1267, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Blue Cat"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Blue Cat", 
+  "accession_number": "79.1109", 
+  "credit_line": "Gift of Donald Waggoner", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134285, 
+  "creation_date": "1978", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Appel, Karel", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295249, 
+      "role": "Artist", 
+      "birth_date": "April 25, 1921", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1267, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

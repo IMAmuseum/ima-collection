@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1756", 
-            "death_date": "1823", 
-            "name": "Raeburn, Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1790", 
-    "credit_line": "Gift of Mrs. Joseph E. Cain", 
-    "cultures": [], 
-    "dimensions": "35 3/4 x 27 5/8 in.", 
-    "dynasty": null, 
-    "irn": 17338, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Thomas Wood"
+  "publishers": [], 
+  "dimensions": "35 3/4 x 27 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Joseph E. Cain", 
+  "accession_number": "78.9", 
+  "title": "Portrait of Thomas Wood", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18172967, 
+  "creation_date": "about 1790", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Raeburn, Henry", 
+      "after_follower": null, 
+      "death_date": "1823", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298329, 
+      "role": "Artist", 
+      "birth_date": "1756", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17338, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

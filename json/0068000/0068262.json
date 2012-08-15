@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.642A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": null, 
-            "name": "Richard Sapper", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Lucesco", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2005", 
-    "credit_line": "Gift of Form + Function", 
-    "cultures": [], 
-    "dimensions": "H: 51 in.", 
-    "dynasty": null, 
-    "irn": 68262, 
-    "materials": "aluminum, steel, cast iron, and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Richard Sapper", 
-    "title": "Halley lamp"
+  "publishers": [], 
+  "dimensions": "H: 51 in.", 
+  "rights": "\u00a9 Richard Sapper", 
+  "credit_line": "Gift of Form + Function", 
+  "accession_number": "2009.642A-B", 
+  "title": "Halley lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283247, 
+  "creation_date": "2005", 
+  "materials": "aluminum, steel, cast iron, and plastic", 
+  "actors": [
+    {
+      "name": "Richard Sapper", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300501, 
+      "role": "Designer", 
+      "birth_date": "1932", 
+      "nationality": null
+    }, 
+    {
+      "name": "Lucesco", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307789, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68262, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

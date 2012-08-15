@@ -1,26 +1,30 @@
 {
-    "accession_number": "2009.586", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1907", 
-            "death_date": "1981", 
-            "name": "Roszak, Theodore", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1937-1941", 
-    "credit_line": "Gift of Steven Conant in memory of Mrs. H. L. Conant and Mrs. H. E. Conant", 
-    "cultures": [], 
-    "dimensions": "7 x 9 1/2 in.", 
-    "dynasty": null, 
-    "irn": 68285, 
-    "materials": "photogram (gelatin silver print)", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of Theodore Roszak/Licensed by VAGA, New York, NY", 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": "7 x 9 1/2 in.", 
+  "rights": "\u00a9 Estate of Theodore Roszak/Licensed by VAGA, New York, NY", 
+  "credit_line": "Gift of Steven Conant in memory of Mrs. H. L. Conant and Mrs. H. E. Conant", 
+  "accession_number": "2009.586", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283313, 
+  "creation_date": "1937-1941", 
+  "materials": "photogram (gelatin silver print)", 
+  "actors": [
+    {
+      "name": "Roszak, Theodore", 
+      "after_follower": null, 
+      "death_date": "1981", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298603, 
+      "role": "Artist", 
+      "birth_date": "1907", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68285, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

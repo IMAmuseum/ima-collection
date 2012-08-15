@@ -1,26 +1,30 @@
 {
-    "accession_number": "63.225", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1867", 
-            "death_date": "1947", 
-            "name": "Bonnard, Pierre", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1894", 
-    "credit_line": "Daniel P. Erwin Fund", 
-    "cultures": [], 
-    "dimensions": "31 1/2 x 24 1/2 in", 
-    "dynasty": null, 
-    "irn": 12982, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "La Revue Blanche"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": "31 1/2 x 24 1/2 in", 
+  "title": "La Revue Blanche", 
+  "accession_number": "63.225", 
+  "credit_line": "Daniel P. Erwin Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162321, 
+  "creation_date": "1894", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Bonnard, Pierre", 
+      "after_follower": null, 
+      "death_date": "1947", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299191, 
+      "role": "Artist", 
+      "birth_date": "1867", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12982, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

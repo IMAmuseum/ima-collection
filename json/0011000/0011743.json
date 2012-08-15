@@ -1,26 +1,30 @@
 {
-    "accession_number": "54.171", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1856", 
-            "death_date": "1925", 
-            "name": "John Singer Sargent", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1910", 
-    "credit_line": "Gift of Hirschl and Adler Galleries, New York", 
-    "cultures": [], 
-    "dimensions": "22 1/8 x 28 3/4 in.\n31 x 37 3/4 in. (framed)", 
-    "dynasty": null, 
-    "irn": 11743, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Olive Grove"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "22 1/8 x 28 3/4 in.\n31 x 37 3/4 in. (framed)", 
+  "title": "The Olive Grove", 
+  "accession_number": "54.171", 
+  "credit_line": "Gift of Hirschl and Adler Galleries, New York", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18159153, 
+  "creation_date": "about 1910", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "John Singer Sargent", 
+      "after_follower": null, 
+      "death_date": "1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298917, 
+      "role": "Artist", 
+      "birth_date": "1856", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11743, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

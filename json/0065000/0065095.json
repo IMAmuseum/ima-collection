@@ -1,34 +1,40 @@
 {
-    "accession_number": "2008.219.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1930", 
-            "death_date": "1971", 
-            "name": "Colombo, Joe Cesare", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1240", 
-            "death_date": "1309", 
-            "name": "Arnolfo di Cambio", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "1964", 
-    "credit_line": "The Liliane and David M. Stewart Collection", 
-    "cultures": [], 
-    "dimensions": "6 3/8 x 2 3/4 in.", 
-    "dynasty": null, 
-    "irn": 65095, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "smoke goblet"
+  "publishers": [], 
+  "dimensions": "6 3/8 x 2 3/4 in.", 
+  "rights": null, 
+  "credit_line": "The Liliane and David M. Stewart Collection", 
+  "accession_number": "2008.219.2", 
+  "title": "smoke goblet", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279653, 
+  "creation_date": "1964", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Colombo, Joe Cesare", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307269, 
+      "role": "Designer", 
+      "birth_date": "1930", 
+      "nationality": null
+    }, 
+    {
+      "name": "Arnolfo di Cambio", 
+      "after_follower": null, 
+      "death_date": "1309", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307273, 
+      "role": "manufacturer", 
+      "birth_date": "1240", 
+      "nationality": null
+    }
+  ], 
+  "irn": 65095, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

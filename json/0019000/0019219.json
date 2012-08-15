@@ -1,38 +1,44 @@
 {
-    "accession_number": "52.60", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1839", 
-            "death_date": "1906", 
-            "name": "C\u00e9zanne, Paul", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1858", 
-            "death_date": "1936", 
-            "name": "Clot, Auguste", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1897", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "11 7/8 x 14 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 19219, 
-    "materials": "color lithograph chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Ambrose Vollard"
-        }
-    ], 
-    "rights": null, 
-    "title": "Les Baigneurs, Petite Planche"
+  "publishers": [
+    {
+      "name": "Ambrose Vollard"
+    }
+  ], 
+  "dimensions": "11 7/8 x 14 1/2 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "52.60", 
+  "title": "Les Baigneurs, Petite Planche", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191159, 
+  "creation_date": "1897", 
+  "materials": "color lithograph chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "C\u00e9zanne, Paul", 
+      "after_follower": null, 
+      "death_date": "1906", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297707, 
+      "role": "Artist", 
+      "birth_date": "1839", 
+      "nationality": null
+    }, 
+    {
+      "name": "Clot, Auguste", 
+      "after_follower": null, 
+      "death_date": "1936", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298567, 
+      "role": "Printer", 
+      "birth_date": "1858", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19219, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

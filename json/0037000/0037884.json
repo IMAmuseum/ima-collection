@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.809.159", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1721", 
-            "death_date": "1798", 
-            "name": "Sandby, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "3/1/1793", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 37884, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Gresford Cottage, Denbighshire"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.809.159", 
+  "title": "Gresford Cottage, Denbighshire", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234625, 
+  "creation_date": "3/1/1793", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Sandby, Thomas", 
+      "after_follower": null, 
+      "death_date": "1798", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304175, 
+      "role": "Artist", 
+      "birth_date": "1721", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37884, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

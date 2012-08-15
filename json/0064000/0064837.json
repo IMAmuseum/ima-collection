@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.427", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1956", 
-            "death_date": "2005", 
-            "name": "Maarten van Severen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Vitra AG", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1998", 
-    "credit_line": "Deaccessioned Decorative Arts Fund", 
-    "cultures": [], 
-    "dimensions": "30 \u00d7 20 3/4 \u00d7 15 in.", 
-    "dynasty": null, 
-    "irn": 64837, 
-    "materials": "polyurethane, steel and aluminum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Maarten Van Severen", 
-    "title": "No. 3 chair (dark blue)"
+  "publishers": [], 
+  "dimensions": "30 \u00d7 20 3/4 \u00d7 15 in.", 
+  "rights": "\u00a9 Maarten Van Severen", 
+  "credit_line": "Deaccessioned Decorative Arts Fund", 
+  "accession_number": "2009.427", 
+  "title": "No. 3 chair (dark blue)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279385, 
+  "creation_date": "1998", 
+  "materials": "polyurethane, steel and aluminum", 
+  "actors": [
+    {
+      "name": "Maarten van Severen", 
+      "after_follower": null, 
+      "death_date": "2005", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307171, 
+      "role": "Designer", 
+      "birth_date": "1956", 
+      "nationality": null
+    }, 
+    {
+      "name": "Vitra AG", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306781, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64837, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

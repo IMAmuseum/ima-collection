@@ -1,26 +1,30 @@
 {
-    "accession_number": "38.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1856", 
-            "death_date": "1932", 
-            "name": "Pieters, Evert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Henry M. Talbott Bequest", 
-    "cultures": [], 
-    "dimensions": "29 x 23 in.", 
-    "dynasty": null, 
-    "irn": 19150, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Horse and Cart"
+  "publishers": [], 
+  "dimensions": "29 x 23 in.", 
+  "rights": null, 
+  "credit_line": "Henry M. Talbott Bequest", 
+  "accession_number": "38.26", 
+  "title": "Horse and Cart", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191003, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Pieters, Evert", 
+      "after_follower": null, 
+      "death_date": "1932", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300745, 
+      "role": "Artist", 
+      "birth_date": "1856", 
+      "nationality": null
+    }
+  ], 
+  "irn": 19150, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

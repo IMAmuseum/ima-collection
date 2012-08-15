@@ -1,26 +1,30 @@
 {
-    "accession_number": "S3933.80.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1825", 
-            "death_date": "1894", 
-            "name": "Inness, George", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Mr. and Mrs. Charles E. Ballard in memory of Ed and Dolly Ballard", 
-    "cultures": [], 
-    "dimensions": "16 1/2 x 13", 
-    "dynasty": null, 
-    "irn": 32013, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Early Autumn"
+  "publishers": [], 
+  "dimensions": "16 1/2 x 13", 
+  "rights": null, 
+  "credit_line": "Mr. and Mrs. Charles E. Ballard in memory of Ed and Dolly Ballard", 
+  "accession_number": "S3933.80.1", 
+  "title": "Early Autumn", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18220689, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Inness, George", 
+      "after_follower": null, 
+      "death_date": "1894", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294927, 
+      "role": "Artist", 
+      "birth_date": "1825", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32013, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

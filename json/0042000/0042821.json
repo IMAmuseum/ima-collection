@@ -1,30 +1,34 @@
 {
-    "accession_number": "2000.340", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1942", 
-            "death_date": null, 
-            "name": "Stackhouse, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Miscellaneous Print Fund and Jacob Metzger Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "39 x 25 5/8 in.", 
-    "dynasty": null, 
-    "irn": 42821, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "The Lawrence Lithography Workshop"
-        }
-    ], 
-    "rights": null, 
-    "title": "Michigan Swell"
+  "publishers": [
+    {
+      "name": "The Lawrence Lithography Workshop"
+    }
+  ], 
+  "dimensions": "39 x 25 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Miscellaneous Print Fund and Jacob Metzger Memorial Fund", 
+  "accession_number": "2000.340", 
+  "title": "Michigan Swell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18248409, 
+  "creation_date": "2000", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Stackhouse, Robert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302831, 
+      "role": "Artist", 
+      "birth_date": "1942", 
+      "nationality": null
+    }
+  ], 
+  "irn": 42821, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

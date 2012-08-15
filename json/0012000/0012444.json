@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.96", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1938", 
-            "name": "Jacob Atkinson", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1893", 
-    "credit_line": "James E. Roberts Fund and Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "12 x 16 1/8 in.", 
-    "dynasty": null, 
-    "irn": 12444, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Souvenir of the Columbian Exposition"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "12 x 16 1/8 in.", 
+  "title": "Souvenir of the Columbian Exposition", 
+  "accession_number": "75.96", 
+  "credit_line": "James E. Roberts Fund and Martha Delzell Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18160695, 
+  "creation_date": "1893", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Jacob Atkinson", 
+      "after_follower": null, 
+      "death_date": "1938", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299041, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12444, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

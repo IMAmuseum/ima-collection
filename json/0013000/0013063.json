@@ -1,26 +1,30 @@
 {
-    "accession_number": "14.90X", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1849", 
-            "death_date": "1916", 
-            "name": "William Merritt Chase", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1914", 
-    "credit_line": "Gift of Mary Y. Robinson", 
-    "cultures": [], 
-    "dimensions": "19 x 15 in.\n25 x 21 1/2 in (framed)", 
-    "dynasty": null, 
-    "irn": 13063, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Study Head"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "19 x 15 in.\n25 x 21 1/2 in (framed)", 
+  "title": "Study Head", 
+  "accession_number": "14.90X", 
+  "credit_line": "Gift of Mary Y. Robinson", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18162503, 
+  "creation_date": "1914", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "William Merritt Chase", 
+      "after_follower": null, 
+      "death_date": "1916", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295953, 
+      "role": "Artist", 
+      "birth_date": "1849", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13063, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.23A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1711", 
-            "death_date": "1779", 
-            "name": "Punt, Jan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1745", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 17834, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Isaac and Abraham (Izaak Door Abraham Onderwesen)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "accession_number": "09.23A", 
+  "title": "Isaac and Abraham (Izaak Door Abraham Onderwesen)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18174323, 
+  "creation_date": "1745", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Punt, Jan", 
+      "after_follower": null, 
+      "death_date": "1779", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296357, 
+      "role": "Artist", 
+      "birth_date": "1711", 
+      "nationality": null
+    }
+  ], 
+  "irn": 17834, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

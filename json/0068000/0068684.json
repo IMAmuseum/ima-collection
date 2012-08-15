@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.62B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1917", 
-            "death_date": "2007", 
-            "name": "Sottsass, Ettore", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Reed & Barton", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1991-1992", 
-    "credit_line": "Gift of Jewel Stern", 
-    "cultures": [], 
-    "dimensions": "L: 9 3/4 in.", 
-    "dynasty": null, 
-    "irn": 68684, 
-    "materials": "stainless steel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Ettore Sottsass", 
-    "title": "ladle for Swid Powell dessert flatware set"
+  "publishers": [], 
+  "dimensions": "L: 9 3/4 in.", 
+  "rights": "\u00a9 Ettore Sottsass", 
+  "credit_line": "Gift of Jewel Stern", 
+  "accession_number": "2010.62B", 
+  "title": "ladle for Swid Powell dessert flatware set", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283605, 
+  "creation_date": "1991-1992", 
+  "materials": "stainless steel", 
+  "actors": [
+    {
+      "name": "Sottsass, Ettore", 
+      "after_follower": null, 
+      "death_date": "2007", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304001, 
+      "role": "Designer", 
+      "birth_date": "1917", 
+      "nationality": null
+    }, 
+    {
+      "name": "Reed & Barton", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307889, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68684, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

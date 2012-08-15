@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.825.77", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1763", 
-            "death_date": "1804", 
-            "name": "Dayes, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1795", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 38011, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A View of Wadham College from the Garden"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.825.77", 
+  "title": "A View of Wadham College from the Garden", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18234979, 
+  "creation_date": "1795", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Dayes, Edward", 
+      "after_follower": null, 
+      "death_date": "1804", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302409, 
+      "role": "Artist", 
+      "birth_date": "1763", 
+      "nationality": null
+    }
+  ], 
+  "irn": 38011, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

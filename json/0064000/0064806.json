@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.354", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1968", 
-            "death_date": null, 
-            "name": "Ilkka Suppanen", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Snowcrash", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1997", 
-    "credit_line": "Gift of Ilkka Suppanen, Designer", 
-    "cultures": [], 
-    "dimensions": "31 1/2 \u00d7 35 1/2 \u00d7 33 1/2 in.", 
-    "dynasty": null, 
-    "irn": 64806, 
-    "materials": "nylon and polyester", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Airbag chair"
+  "publishers": [], 
+  "dimensions": "31 1/2 \u00d7 35 1/2 \u00d7 33 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Ilkka Suppanen, Designer", 
+  "accession_number": "2009.354", 
+  "title": "Airbag chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279335, 
+  "creation_date": "1997", 
+  "materials": "nylon and polyester", 
+  "actors": [
+    {
+      "name": "Ilkka Suppanen", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307141, 
+      "role": "Designer", 
+      "birth_date": "1968", 
+      "nationality": null
+    }, 
+    {
+      "name": "Snowcrash", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307143, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64806, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

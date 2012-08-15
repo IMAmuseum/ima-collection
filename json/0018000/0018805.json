@@ -1,26 +1,30 @@
 {
-    "accession_number": "56.105", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1527", 
-            "death_date": "1585", 
-            "name": "Cambiaso, Luca", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "16th century", 
-    "credit_line": "Jacob Metzger and Special Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 18805, 
-    "materials": "pen and ink wash on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Angel with Cherubs"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Jacob Metzger and Special Fund", 
+  "accession_number": "56.105", 
+  "title": "Angel with Cherubs", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18190105, 
+  "creation_date": "16th century", 
+  "materials": "pen and ink wash on paper", 
+  "actors": [
+    {
+      "name": "Cambiaso, Luca", 
+      "after_follower": null, 
+      "death_date": "1585", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300673, 
+      "role": "Artist", 
+      "birth_date": "1527", 
+      "nationality": null
+    }
+  ], 
+  "irn": 18805, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

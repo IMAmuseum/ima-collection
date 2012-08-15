@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.33", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1864", 
-            "death_date": "1927", 
-            "name": "Wu Deyi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1916", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Modern {Chinese period}", 
-    "irn": 33333, 
-    "materials": "ink on paper. fan painting.", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "ink plum blossoms"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.33", 
+  "title": "ink plum blossoms", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18223819, 
+  "creation_date": "1916", 
+  "materials": "ink on paper. fan painting.", 
+  "actors": [
+    {
+      "name": "Wu Deyi", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298085, 
+      "role": "Artist", 
+      "birth_date": "1864", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33333, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Modern {Chinese period}", 
+  "on_view": false
 }

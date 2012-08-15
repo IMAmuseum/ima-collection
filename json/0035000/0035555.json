@@ -1,26 +1,30 @@
 {
-    "accession_number": "1994.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1857", 
-            "death_date": "1922", 
-            "name": "Dow, Arthur Wesley", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1912", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": "4 1/4 x 7 1/16 in. (image)\n6  7/16 x 9 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 35555, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Argilla Road"
+  "publishers": [], 
+  "dimensions": "4 1/4 x 7 1/16 in. (image)\n6  7/16 x 9 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Delavan Smith Fund", 
+  "accession_number": "1994.24", 
+  "title": "The Argilla Road", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18228895, 
+  "creation_date": "1912", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Dow, Arthur Wesley", 
+      "after_follower": null, 
+      "death_date": "1922", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303765, 
+      "role": "Artist", 
+      "birth_date": "1857", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35555, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

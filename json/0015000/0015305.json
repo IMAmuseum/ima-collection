@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.301", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1959", 
-            "name": "Wayman Adams", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1916", 
-    "credit_line": "Gift of Mrs. Booth Tarkington Jameson in memory of Ruth Mayer", 
-    "cultures": [], 
-    "dimensions": "H: 7 in.", 
-    "dynasty": null, 
-    "irn": 15305, 
-    "materials": "bronze", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "James Whitcomb Riley"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "H: 7 in.", 
+  "title": "James Whitcomb Riley", 
+  "accession_number": "81.301", 
+  "credit_line": "Gift of Mrs. Booth Tarkington Jameson in memory of Ruth Mayer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167753, 
+  "creation_date": "1916", 
+  "materials": "bronze", 
+  "actors": [
+    {
+      "name": "Wayman Adams", 
+      "after_follower": null, 
+      "death_date": "1959", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296333, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15305, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

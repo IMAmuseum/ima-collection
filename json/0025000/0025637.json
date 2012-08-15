@@ -1,30 +1,34 @@
 {
-    "accession_number": "73.99.8", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1779", 
-            "death_date": "1856", 
-            "name": "Lewis, Frederick Christian, I", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1840", 
-    "credit_line": "Anna Hasselman Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25637, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Lewis, Frederick Christian, I"
-        }
-    ], 
-    "rights": null, 
-    "title": "Remains of the Substruction of Fallust's Villa--from Liber Studiorum of Claude Lorrain"
+  "publishers": [
+    {
+      "name": "Lewis, Frederick Christian, I"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Anna Hasselman Fund", 
+  "accession_number": "73.99.8", 
+  "title": "Remains of the Substruction of Fallust's Villa--from Liber Studiorum of Claude Lorrain", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205819, 
+  "creation_date": "1840", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Lewis, Frederick Christian, I", 
+      "after_follower": null, 
+      "death_date": "1856", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298745, 
+      "role": "Artist", 
+      "birth_date": "1779", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25637, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

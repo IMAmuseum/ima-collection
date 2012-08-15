@@ -1,34 +1,40 @@
 {
-    "accession_number": "71.57", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1912", 
-            "death_date": null, 
-            "name": "Cage, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1927", 
-            "death_date": null, 
-            "name": "Hollander, Irwin", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1969", 
-    "credit_line": "Gift of the Alliance Rental Gallery", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 10027, 
-    "materials": "Plexiglass | ink", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 John Cage Trust", 
-    "title": "Not Wanting to Say Anything About Marcel, Plexigram IV"
+  "publishers": [], 
+  "rights": "\u00a9 John Cage Trust", 
+  "dimensions": null, 
+  "title": "Not Wanting to Say Anything About Marcel, Plexigram IV", 
+  "accession_number": "71.57", 
+  "credit_line": "Gift of the Alliance Rental Gallery", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18155103, 
+  "creation_date": "1969", 
+  "materials": "Plexiglass | ink", 
+  "actors": [
+    {
+      "name": "Cage, John", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298503, 
+      "role": "Artist", 
+      "birth_date": "1912", 
+      "nationality": null
+    }, 
+    {
+      "name": "Hollander, Irwin", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298505, 
+      "role": "Printer", 
+      "birth_date": "1927", 
+      "nationality": null
+    }
+  ], 
+  "irn": 10027, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

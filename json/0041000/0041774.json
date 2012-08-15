@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1705.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1819", 
-            "death_date": "1898", 
-            "name": "Brandard, Edward Paxman", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1859", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41774, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Venice, from the Canal of the Guidecca"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1705.1", 
+  "title": "Venice, from the Canal of the Guidecca", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18245515, 
+  "creation_date": "1859", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Brandard, Edward Paxman", 
+      "after_follower": null, 
+      "death_date": "1898", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304829, 
+      "role": "Engraver", 
+      "birth_date": "1819", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41774, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

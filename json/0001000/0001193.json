@@ -1,26 +1,30 @@
 {
-    "accession_number": "13.316", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1850", 
-            "death_date": "1932", 
-            "name": "de Forest, Lockwood", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1911-1911", 
-    "credit_line": "Gift of Lockwood De Forest", 
-    "cultures": [], 
-    "dimensions": "9 1/2 x 14 in.\n20 1/2 x 24 1/2 in. (framed)", 
-    "dynasty": null, 
-    "irn": 1193, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Mission Canyon, Santa Barbara"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 1/2 x 14 in.\n20 1/2 x 24 1/2 in. (framed)", 
+  "title": "Mission Canyon, Santa Barbara", 
+  "accession_number": "13.316", 
+  "credit_line": "Gift of Lockwood De Forest", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134077, 
+  "creation_date": "1911-1911", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "de Forest, Lockwood", 
+      "after_follower": null, 
+      "death_date": "1932", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295403, 
+      "role": "Artist", 
+      "birth_date": "1850", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1193, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

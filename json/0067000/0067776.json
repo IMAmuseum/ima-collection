@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.14", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Eero Koivisto", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Offecct AB", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2004", 
-    "credit_line": "Gift of Offecct AB", 
-    "cultures": [], 
-    "dimensions": "17 3/8 \u00d7 21 1/4 \u00d7 21 1/4 in.", 
-    "dynasty": null, 
-    "irn": 67776, 
-    "materials": "polyurethane", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Eero Koivisto", 
-    "title": "Flower stool/table"
+  "publishers": [], 
+  "dimensions": "17 3/8 \u00d7 21 1/4 \u00d7 21 1/4 in.", 
+  "rights": "\u00a9 Eero Koivisto", 
+  "credit_line": "Gift of Offecct AB", 
+  "accession_number": "2010.14", 
+  "title": "Flower stool/table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282989, 
+  "creation_date": "2004", 
+  "materials": "polyurethane", 
+  "actors": [
+    {
+      "name": "Eero Koivisto", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307659, 
+      "role": "Designer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Offecct AB", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307661, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 67776, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.200", 
-    "actors": [
-        {
-            "after_follower": "After", 
-            "birth_date": "1566", 
-            "death_date": "1651", 
-            "name": "Bloemaert, Abraham", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1605", 
-    "credit_line": "Allen Whitehill Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "10 1/4 x 9 3/4 in.", 
-    "dynasty": null, 
-    "irn": 20117, 
-    "materials": "oil on copper", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Vertumnus and Pomona"
+  "publishers": [], 
+  "dimensions": "10 1/4 x 9 3/4 in.", 
+  "rights": null, 
+  "credit_line": "Allen Whitehill Clowes Fund", 
+  "accession_number": "80.200", 
+  "title": "Vertumnus and Pomona", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18193171, 
+  "creation_date": "about 1605", 
+  "materials": "oil on copper", 
+  "actors": [
+    {
+      "name": "Bloemaert, Abraham", 
+      "after_follower": "After", 
+      "death_date": "1651", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296875, 
+      "role": "Artist", 
+      "birth_date": "1566", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20117, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

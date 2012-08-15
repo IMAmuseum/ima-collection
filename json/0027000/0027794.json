@@ -1,34 +1,40 @@
 {
-    "accession_number": "1984.27", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1782", 
-            "death_date": "1846", 
-            "name": "Okada Hank^o", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1874", 
-            "death_date": "1944", 
-            "name": "Ikegami Sh^uho", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1810", 
-    "credit_line": "Gift of Mr. and Mrs. F. M. Aker and the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": "68 x 141 in. (overall)", 
-    "dynasty": null, 
-    "irn": 27794, 
-    "materials": "recto:  ink on gold leaf\nverso:  ink and colors on silk", 
-    "on_view": true, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "recto: landscape with figure;  verso: bamboo and sparrows"
+  "publishers": [], 
+  "dimensions": "68 x 141 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. F. M. Aker and the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "1984.27", 
+  "title": "recto: landscape with figure;  verso: bamboo and sparrows", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18210909, 
+  "creation_date": "about 1810", 
+  "materials": "recto:  ink on gold leaf\nverso:  ink and colors on silk", 
+  "actors": [
+    {
+      "name": "Okada Hank^o", 
+      "after_follower": null, 
+      "death_date": "1846", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302513, 
+      "role": "Artist", 
+      "birth_date": "1782", 
+      "nationality": null
+    }, 
+    {
+      "name": "Ikegami Sh^uho", 
+      "after_follower": null, 
+      "death_date": "1944", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302515, 
+      "role": "Artist", 
+      "birth_date": "1874", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27794, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

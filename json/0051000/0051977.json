@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.258", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "20th Century", 
-            "death_date": "20th Century", 
-            "name": "Smith, Kimber", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century/MID", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 51977, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Blue/Red"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
+  "accession_number": "2001.258", 
+  "title": "Blue/Red", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18266399, 
+  "creation_date": "20th Century/MID", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Smith, Kimber", 
+      "after_follower": null, 
+      "death_date": "20th Century", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305507, 
+      "role": "Artist", 
+      "birth_date": "20th Century", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51977, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

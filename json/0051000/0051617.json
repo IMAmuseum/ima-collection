@@ -1,26 +1,30 @@
 {
-    "accession_number": "31.270", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1760", 
-            "death_date": "1849", 
-            "name": "Katsushika Hokusai", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1827-1830", 
-    "credit_line": "Purchased from the D.P. Erwin Fund", 
-    "cultures": [], 
-    "dimensions": "9 3/4 x 14 3/8 in. (image and sheet - trimmed all around)", 
-    "dynasty": null, 
-    "irn": 51617, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bridge of the Reflected Moon, Arashiyama in Yamashiro"
+  "publishers": [], 
+  "dimensions": "9 3/4 x 14 3/8 in. (image and sheet - trimmed all around)", 
+  "rights": null, 
+  "credit_line": "Purchased from the D.P. Erwin Fund", 
+  "accession_number": "31.270", 
+  "title": "Bridge of the Reflected Moon, Arashiyama in Yamashiro", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18265513, 
+  "creation_date": "1827-1830", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Katsushika Hokusai", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298933, 
+      "role": "Artist", 
+      "birth_date": "1760", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51617, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

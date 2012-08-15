@@ -1,34 +1,40 @@
 {
-    "accession_number": "LH2003.35A-H", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Joseph Addison", 
-            "nationality": null, 
-            "role": "Author"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Richard Steele", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1789", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 7/8 x 5 3/4 in. (each)", 
-    "dynasty": null, 
-    "irn": 61853, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Spectator (volumes 1-8)"
+  "publishers": [], 
+  "dimensions": "8 7/8 x 5 3/4 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.35A-H", 
+  "title": "The Spectator (volumes 1-8)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277327, 
+  "creation_date": "1789", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Joseph Addison", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306177, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Richard Steele", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306179, 
+      "role": "Author", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 61853, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

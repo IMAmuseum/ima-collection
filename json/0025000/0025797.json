@@ -1,26 +1,30 @@
 {
-    "accession_number": "34.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "about 1450-1491", 
-            "death_date": "about 1450-1491", 
-            "name": "Schongauer, Martin", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1480", 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25797, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Christ Crowned with Thorns"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "accession_number": "34.24", 
+  "title": "Christ Crowned with Thorns", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18206203, 
+  "creation_date": "about 1480", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Schongauer, Martin", 
+      "after_follower": null, 
+      "death_date": "about 1450-1491", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302119, 
+      "role": "Artist", 
+      "birth_date": "about 1450-1491", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25797, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

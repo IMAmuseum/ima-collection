@@ -1,26 +1,30 @@
 {
-    "accession_number": "49.65", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1849", 
-            "death_date": "1916", 
-            "name": "William Merritt Chase", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1892", 
-    "credit_line": "Gift of Mrs. Carrie Chase Roberts", 
-    "cultures": [], 
-    "dimensions": "20 x 16 in.\n34 x 30 in. (framed)", 
-    "dynasty": null, 
-    "irn": 3851, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Artist's Mother, Sarah Swaim Chase"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "20 x 16 in.\n34 x 30 in. (framed)", 
+  "title": "The Artist's Mother, Sarah Swaim Chase", 
+  "accession_number": "49.65", 
+  "credit_line": "Gift of Mrs. Carrie Chase Roberts", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140433, 
+  "creation_date": "1892", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "William Merritt Chase", 
+      "after_follower": null, 
+      "death_date": "1916", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295953, 
+      "role": "Artist", 
+      "birth_date": "1849", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3851, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

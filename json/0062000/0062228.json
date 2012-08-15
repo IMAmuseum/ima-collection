@@ -1,30 +1,34 @@
 {
-    "accession_number": "LH2003.75A-N", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1819-1875", 
-            "death_date": "1819-1875", 
-            "name": "Charles Kingsley", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "1898-1900", 
-    "credit_line": "Museum Accession", 
-    "cultures": [], 
-    "dimensions": "8 3/8 x 6 1/8 in. (each)", 
-    "dynasty": null, 
-    "irn": 62228, 
-    "materials": "ink, paper, leather", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "J.F. Taylor & Co."
-        }
-    ], 
-    "rights": null, 
-    "title": "Novels and Poems of Charles Kingsley"
+  "publishers": [
+    {
+      "name": "J.F. Taylor & Co."
+    }
+  ], 
+  "dimensions": "8 3/8 x 6 1/8 in. (each)", 
+  "rights": null, 
+  "credit_line": "Museum Accession", 
+  "accession_number": "LH2003.75A-N", 
+  "title": "Novels and Poems of Charles Kingsley", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277589, 
+  "creation_date": "1898-1900", 
+  "materials": "ink, paper, leather", 
+  "actors": [
+    {
+      "name": "Charles Kingsley", 
+      "after_follower": null, 
+      "death_date": "1819-1875", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306349, 
+      "role": "Author", 
+      "birth_date": "1819-1875", 
+      "nationality": null
+    }
+  ], 
+  "irn": 62228, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

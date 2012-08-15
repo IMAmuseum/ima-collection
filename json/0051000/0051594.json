@@ -1,30 +1,34 @@
 {
-    "accession_number": "2001.312", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1786", 
-            "death_date": "1864", 
-            "name": "Utagawa Kunisada", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1857", 
-    "credit_line": "Gift of Mrs. Jeanne Gass Stump", 
-    "cultures": [], 
-    "dimensions": "14 x 9 5/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 51594, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Tsutaya Kichizo"
-        }
-    ], 
-    "rights": null, 
-    "title": "Murasaki Shikibu, Genji Mirror, At the Writing Table, No. 53 (Murasaki Shikibu Genji kagami: Tenarai)"
+  "publishers": [
+    {
+      "name": "Tsutaya Kichizo"
+    }
+  ], 
+  "dimensions": "14 x 9 5/8 in. (sheet)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Jeanne Gass Stump", 
+  "accession_number": "2001.312", 
+  "title": "Murasaki Shikibu, Genji Mirror, At the Writing Table, No. 53 (Murasaki Shikibu Genji kagami: Tenarai)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18265461, 
+  "creation_date": "1857", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kunisada", 
+      "after_follower": null, 
+      "death_date": "1864", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295711, 
+      "role": "Artist", 
+      "birth_date": "1786", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51594, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

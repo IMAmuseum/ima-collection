@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.75", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1877", 
-            "death_date": "1953", 
-            "name": "Dufy, Raoul", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1938", 
-    "credit_line": "The Lockton Collection", 
-    "cultures": [], 
-    "dimensions": "23 3/4 x 28 3/4 in.", 
-    "dynasty": null, 
-    "irn": 11879, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
-    "title": "Yachts in the Port of Deauville (Yachts dans le Port de Deauville)"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
+  "dimensions": "23 3/4 x 28 3/4 in.", 
+  "title": "Yachts in the Port of Deauville (Yachts dans le Port de Deauville)", 
+  "accession_number": "70.75", 
+  "credit_line": "The Lockton Collection", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18159473, 
+  "creation_date": "about 1938", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Dufy, Raoul", 
+      "after_follower": null, 
+      "death_date": "1953", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295789, 
+      "role": "Artist", 
+      "birth_date": "1877", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11879, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

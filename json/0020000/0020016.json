@@ -1,26 +1,30 @@
 {
-    "accession_number": "02.30", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1800", 
-            "death_date": "1899", 
-            "name": "Neymark, S.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Bequest of Daniel P. Erwin", 
-    "cultures": [], 
-    "dimensions": "9 x 7 1/4", 
-    "dynasty": null, 
-    "irn": 20016, 
-    "materials": "oil on panel", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "To the Front"
+  "publishers": [], 
+  "dimensions": "9 x 7 1/4", 
+  "rights": null, 
+  "credit_line": "Bequest of Daniel P. Erwin", 
+  "accession_number": "02.30", 
+  "title": "To the Front", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18192931, 
+  "creation_date": null, 
+  "materials": "oil on panel", 
+  "actors": [
+    {
+      "name": "Neymark, S.", 
+      "after_follower": null, 
+      "death_date": "1899", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300911, 
+      "role": "Artist", 
+      "birth_date": "1800", 
+      "nationality": null
+    }
+  ], 
+  "irn": 20016, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.39", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1867", 
-            "death_date": "1920", 
-            "name": "Li Ruiqing", 
-            "nationality": null, 
-            "role": "Calligrapher"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 9887, 
-    "materials": "ink on paper.fan painting.", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "fan calligraphy"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "fan calligraphy", 
+  "accession_number": "73.61.39", 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18154783, 
+  "creation_date": null, 
+  "materials": "ink on paper.fan painting.", 
+  "actors": [
+    {
+      "name": "Li Ruiqing", 
+      "after_follower": null, 
+      "death_date": "1920", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298473, 
+      "role": "Calligrapher", 
+      "birth_date": "1867", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9887, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

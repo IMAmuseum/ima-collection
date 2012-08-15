@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.312", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1898", 
-            "death_date": null, 
-            "name": "Lapicque, Charles", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of Walter Cahn", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2768, 
-    "materials": "screenprint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lapicque, Galerie Balanci Graham"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Lapicque, Galerie Balanci Graham", 
+  "accession_number": "81.312", 
+  "credit_line": "Gift of Walter Cahn", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137913, 
+  "creation_date": "1975", 
+  "materials": "screenprint", 
+  "actors": [
+    {
+      "name": "Lapicque, Charles", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296105, 
+      "role": "Artist", 
+      "birth_date": "1898", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2768, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

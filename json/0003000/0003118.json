@@ -1,26 +1,30 @@
 {
-    "accession_number": "70.123", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1858", 
-            "death_date": "1925", 
-            "name": "Corinth, Lovis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 3118, 
-    "materials": "lithograph crayon on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Letter 'X'; Reverse: The Letter 'D'"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "The Letter 'X'; Reverse: The Letter 'D'", 
+  "accession_number": "70.123", 
+  "credit_line": "Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138721, 
+  "creation_date": null, 
+  "materials": "lithograph crayon on paper", 
+  "actors": [
+    {
+      "name": "Corinth, Lovis", 
+      "after_follower": null, 
+      "death_date": "1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295647, 
+      "role": "Artist", 
+      "birth_date": "1858", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3118, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

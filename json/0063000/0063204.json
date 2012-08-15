@@ -1,38 +1,44 @@
 {
-    "accession_number": "2005.67.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Hecht, Henry", 
-            "nationality": null, 
-            "role": "Printer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1900", 
-            "death_date": "1971", 
-            "name": "Mead, Roderick Fletcher", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "March 1939", 
-    "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "8 5/8 x 6 3/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 63204, 
-    "materials": "etching on Montval paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Atelier 17"
-        }
-    ], 
-    "rights": "\u00a9 Roderick Fletcher Mead", 
-    "title": "Untitled"
+  "publishers": [
+    {
+      "name": "Atelier 17"
+    }
+  ], 
+  "dimensions": "8 5/8 x 6 3/8 in. (sheet)", 
+  "rights": "\u00a9 Roderick Fletcher Mead", 
+  "credit_line": "Mrs. Pierre F. Goodrich Endowed Art Fund", 
+  "accession_number": "2005.67.7", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18278369, 
+  "creation_date": "March 1939", 
+  "materials": "etching on Montval paper", 
+  "actors": [
+    {
+      "name": "Hecht, Henry", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306505, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Mead, Roderick Fletcher", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306517, 
+      "role": "Artist", 
+      "birth_date": "1900", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63204, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

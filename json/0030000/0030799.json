@@ -1,26 +1,30 @@
 {
-    "accession_number": "C10006", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1440", 
-            "death_date": "1516", 
-            "name": "Bosch, Hieronymus", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1510", 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "24 x 20 1/2 in.", 
-    "dynasty": null, 
-    "irn": 30799, 
-    "materials": "oil and gold on wood", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ecce Homo"
+  "publishers": [], 
+  "dimensions": "24 x 20 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "accession_number": "C10006", 
+  "title": "Ecce Homo", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18217943, 
+  "creation_date": "about 1510", 
+  "materials": "oil and gold on wood", 
+  "actors": [
+    {
+      "name": "Bosch, Hieronymus", 
+      "after_follower": null, 
+      "death_date": "1516", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302979, 
+      "role": "Artist", 
+      "birth_date": "1440", 
+      "nationality": null
+    }
+  ], 
+  "irn": 30799, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

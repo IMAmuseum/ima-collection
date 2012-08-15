@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.47.23K", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1927", 
-            "name": "Adams, John Ottis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1880-1887", 
-    "credit_line": "Gift of Mrs. John A. Adams", 
-    "cultures": [], 
-    "dimensions": "10 1/8 x 7 in.", 
-    "dynasty": null, 
-    "irn": 8245, 
-    "materials": "pen and ink on white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "TO THE FIELDS"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "10 1/8 x 7 in.", 
+  "title": "TO THE FIELDS", 
+  "accession_number": "73.47.23K", 
+  "credit_line": "Gift of Mrs. John A. Adams", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18150777, 
+  "creation_date": "1880-1887", 
+  "materials": "pen and ink on white paper", 
+  "actors": [
+    {
+      "name": "Adams, John Ottis", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295417, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8245, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "32.162", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1876", 
-            "death_date": "1952", 
-            "name": "Robinson, Boardman", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1918", 
-    "credit_line": "Gift of the Gamboliers", 
-    "cultures": [], 
-    "dimensions": "8 x 12 in. (image)", 
-    "dynasty": null, 
-    "irn": 45116, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Street Car"
+  "publishers": [], 
+  "dimensions": "8 x 12 in. (image)", 
+  "rights": null, 
+  "credit_line": "Gift of the Gamboliers", 
+  "accession_number": "32.162", 
+  "title": "Street Car", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18253545, 
+  "creation_date": "1918", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Robinson, Boardman", 
+      "after_follower": null, 
+      "death_date": "1952", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305143, 
+      "role": "Artist", 
+      "birth_date": "1876", 
+      "nationality": null
+    }
+  ], 
+  "irn": 45116, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

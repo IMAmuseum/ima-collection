@@ -1,34 +1,40 @@
 {
-    "accession_number": "1986.456A", 
-    "actors": [
-        {
-            "after_follower": "Attributed to", 
-            "birth_date": "1864", 
-            "death_date": "1934", 
-            "name": "Giuseffi, Girolamo", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "G. Giuseffi L.T. Company", 
-            "nationality": null, 
-            "role": "Design House"
-        }
-    ], 
-    "creation_date": "about 1906", 
-    "credit_line": "Gift of Carolyn Garrigues Scofield in memory of her grandmother Caroline Burford Danner", 
-    "cultures": [], 
-    "dimensions": "bodice L: 18 in.; 45.7 cm", 
-    "dynasty": null, 
-    "irn": 15622, 
-    "materials": "silk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "bodice for evening dress"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "bodice L: 18 in.; 45.7 cm", 
+  "title": "bodice for evening dress", 
+  "accession_number": "1986.456A", 
+  "credit_line": "Gift of Carolyn Garrigues Scofield in memory of her grandmother Caroline Burford Danner", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18168479, 
+  "creation_date": "about 1906", 
+  "materials": "silk", 
+  "actors": [
+    {
+      "name": "Giuseffi, Girolamo", 
+      "after_follower": "Attributed to", 
+      "death_date": "1934", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294897, 
+      "role": "Designer", 
+      "birth_date": "1864", 
+      "nationality": null
+    }, 
+    {
+      "name": "G. Giuseffi L.T. Company", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294899, 
+      "role": "Design House", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 15622, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

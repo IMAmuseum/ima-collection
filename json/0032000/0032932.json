@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.105.9", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1849", 
-            "death_date": "1916", 
-            "name": "William Merritt Chase", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift in memory of John P. Frenzel, Sr., by his heirs", 
-    "cultures": [], 
-    "dimensions": "20 x 24 in.\n26 1/2 x 30 in. (framed)", 
-    "dynasty": null, 
-    "irn": 32932, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Red Snapper"
+  "publishers": [], 
+  "dimensions": "20 x 24 in.\n26 1/2 x 30 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift in memory of John P. Frenzel, Sr., by his heirs", 
+  "accession_number": "73.105.9", 
+  "title": "Red Snapper", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222873, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "William Merritt Chase", 
+      "after_follower": null, 
+      "death_date": "1916", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295953, 
+      "role": "Artist", 
+      "birth_date": "1849", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32932, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

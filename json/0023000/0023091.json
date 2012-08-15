@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "baptized 1684", 
-            "death_date": "1770", 
-            "name": "Michael Rysbrack", 
-            "nationality": "English", 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1745", 
-    "credit_line": "Gift of Mrs. Albert J. Beveridge", 
-    "cultures": [], 
-    "dimensions": "H: 22 in.", 
-    "dynasty": null, 
-    "irn": 23091, 
-    "materials": "terra cotta", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Charity"
+  "publishers": [], 
+  "dimensions": "H: 22 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Albert J. Beveridge", 
+  "accession_number": "57.2", 
+  "title": "Charity", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18199941, 
+  "creation_date": "1745", 
+  "materials": "terra cotta", 
+  "actors": [
+    {
+      "name": "Michael Rysbrack", 
+      "after_follower": null, 
+      "death_date": "1770", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301535, 
+      "role": "Artist", 
+      "birth_date": "baptized 1684", 
+      "nationality": "English"
+    }
+  ], 
+  "irn": 23091, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

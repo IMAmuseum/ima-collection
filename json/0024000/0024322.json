@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.11.91", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1866-1925", 
-            "death_date": "1866-1925", 
-            "name": "Penfield, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1894", 
-    "credit_line": "Museum Acquisition", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 24322, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Harper's Christmas"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Museum Acquisition", 
+  "accession_number": "67.11.91", 
+  "title": "Harper's Christmas", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18202825, 
+  "creation_date": "1894", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Penfield, Edward", 
+      "after_follower": null, 
+      "death_date": "1866-1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295557, 
+      "role": "Artist", 
+      "birth_date": "1866-1925", 
+      "nationality": null
+    }
+  ], 
+  "irn": 24322, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

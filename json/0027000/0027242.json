@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.267", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1830", 
-            "name": "Lawrence, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mr. and Mrs. A. W. S. Herrington", 
-    "cultures": [], 
-    "dimensions": "29 7/8 x 25 in.", 
-    "dynasty": null, 
-    "irn": 27242, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Lord Cavendish"
+  "publishers": [], 
+  "dimensions": "29 7/8 x 25 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. A. W. S. Herrington", 
+  "accession_number": "60.267", 
+  "title": "Portrait of Lord Cavendish", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18209591, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Lawrence, Thomas", 
+      "after_follower": null, 
+      "death_date": "1830", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298019, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27242, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

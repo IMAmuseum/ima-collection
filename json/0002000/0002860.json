@@ -1,26 +1,30 @@
 {
-    "accession_number": "56.161", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1606", 
-            "death_date": "1669", 
-            "name": "Rembrandt van Rijn", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1641", 
-    "credit_line": "Mrs. Nicholas H. Noyes Fund", 
-    "cultures": [], 
-    "dimensions": "6 5/8 x 8 3/8 in. (image)\n7 x 8 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 2860, 
-    "materials": "etching and drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Triumph of Mordecai"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "6 5/8 x 8 3/8 in. (image)\n7 x 8 1/2 in. (sheet)", 
+  "title": "The Triumph of Mordecai", 
+  "accession_number": "56.161", 
+  "credit_line": "Mrs. Nicholas H. Noyes Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138119, 
+  "creation_date": "1641", 
+  "materials": "etching and drypoint", 
+  "actors": [
+    {
+      "name": "Rembrandt van Rijn", 
+      "after_follower": null, 
+      "death_date": "1669", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295685, 
+      "role": "Artist", 
+      "birth_date": "1606", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2860, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

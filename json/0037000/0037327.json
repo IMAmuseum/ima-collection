@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.31", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1811", 
-            "death_date": "1883", 
-            "name": "Wu Yun", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 37327, 
-    "materials": "ink on paper.fan painting.", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Chrysanthemum and pomegranate"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.31", 
+  "title": "Chrysanthemum and pomegranate", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18233037, 
+  "creation_date": null, 
+  "materials": "ink on paper.fan painting.", 
+  "actors": [
+    {
+      "name": "Wu Yun", 
+      "after_follower": null, 
+      "death_date": "1883", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304043, 
+      "role": "Artist", 
+      "birth_date": "1811", 
+      "nationality": null
+    }
+  ], 
+  "irn": 37327, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

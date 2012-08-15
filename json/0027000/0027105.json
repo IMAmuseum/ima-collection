@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.144", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1909", 
-            "death_date": null, 
-            "name": "Kainen, Jacob", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1973", 
-    "credit_line": "Gift of Mr. Jacob Kainen", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 27105, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Invader"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mr. Jacob Kainen", 
+  "accession_number": "75.144", 
+  "title": "Invader", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18209273, 
+  "creation_date": "1973", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Kainen, Jacob", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296005, 
+      "role": "Artist", 
+      "birth_date": "1909", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27105, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

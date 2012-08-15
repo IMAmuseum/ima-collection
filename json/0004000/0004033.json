@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.11", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1903", 
-            "name": "Whistler, James Abbott McNeill", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1886", 
-    "credit_line": "Bequest of Delavan Smith", 
-    "cultures": [], 
-    "dimensions": "5 x 6 7/8 in (sheet)", 
-    "dynasty": null, 
-    "irn": 4033, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Little Court"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "5 x 6 7/8 in (sheet)", 
+  "title": "Little Court", 
+  "accession_number": "25.11", 
+  "credit_line": "Bequest of Delavan Smith", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140847, 
+  "creation_date": "1886", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Whistler, James Abbott McNeill", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296393, 
+      "role": "Artist", 
+      "birth_date": "1834", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4033, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

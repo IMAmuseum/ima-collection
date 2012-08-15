@@ -1,34 +1,40 @@
 {
-    "accession_number": "1984.359", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1925", 
-            "death_date": null, 
-            "name": "Robert Rauschenberg", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Styria Studio", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1973", 
-    "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
-    "cultures": [], 
-    "dimensions": "30 1/8 x 22 3/8 in.", 
-    "dynasty": null, 
-    "irn": 7423, 
-    "materials": "screenprint and collage with embossment", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Estate of Robert Rauschenberg/ Licensed by VAGA, New York, NY", 
-    "title": "Plot"
+  "publishers": [], 
+  "rights": "\u00a9 Estate of Robert Rauschenberg/ Licensed by VAGA, New York, NY", 
+  "dimensions": "30 1/8 x 22 3/8 in.", 
+  "title": "Plot", 
+  "accession_number": "1984.359", 
+  "credit_line": "Gift of Dr. and Mrs. Norbert Neuss", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18148893, 
+  "creation_date": "1973", 
+  "materials": "screenprint and collage with embossment", 
+  "actors": [
+    {
+      "name": "Robert Rauschenberg", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294687, 
+      "role": "Artist", 
+      "birth_date": "1925", 
+      "nationality": null
+    }, 
+    {
+      "name": "Styria Studio", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294689, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 7423, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

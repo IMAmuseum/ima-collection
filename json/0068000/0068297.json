@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.644", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1963", 
-            "death_date": null, 
-            "name": "Marc Newson", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "FLOS USA Inc.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2000", 
-    "credit_line": "Gift of Form + Function", 
-    "cultures": [], 
-    "dimensions": "9 x 2 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 68297, 
-    "materials": "aluminum and polycarbonate", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Marc Newson", 
-    "title": "Apollo flashlight"
+  "publishers": [], 
+  "dimensions": "9 x 2 (diam.) in.", 
+  "rights": "\u00a9 Marc Newson", 
+  "credit_line": "Gift of Form + Function", 
+  "accession_number": "2009.644", 
+  "title": "Apollo flashlight", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283327, 
+  "creation_date": "2000", 
+  "materials": "aluminum and polycarbonate", 
+  "actors": [
+    {
+      "name": "Marc Newson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307375, 
+      "role": "Designer", 
+      "birth_date": "1963", 
+      "nationality": null
+    }, 
+    {
+      "name": "FLOS USA Inc.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307849, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 68297, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.27", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1989", 
-            "name": "Evergood, Philip", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1961", 
-    "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2720, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Philip Evergood", 
-    "title": "Self Portrait with Hat"
+  "publishers": [], 
+  "rights": "\u00a9 Philip Evergood", 
+  "dimensions": null, 
+  "title": "Self Portrait with Hat", 
+  "accession_number": "78.27", 
+  "credit_line": "Mr. and Mrs. Julius F. Pratt Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137779, 
+  "creation_date": "1961", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Evergood, Philip", 
+      "after_follower": null, 
+      "death_date": "1989", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296093, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2720, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

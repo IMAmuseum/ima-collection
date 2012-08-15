@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.343", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1866-1925", 
-            "death_date": "1866-1925", 
-            "name": "Penfield, Edward", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1896", 
-    "credit_line": "Gift of Harold Haven Brown", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2079, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Harper's January"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Harper's January", 
+  "accession_number": "80.343", 
+  "credit_line": "Gift of Harold Haven Brown", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18136255, 
+  "creation_date": "1896", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Penfield, Edward", 
+      "after_follower": null, 
+      "death_date": "1866-1925", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295557, 
+      "role": "Artist", 
+      "birth_date": "1866-1925", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2079, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "08.64", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "ca. 1494", 
-            "death_date": "1533", 
-            "name": "Lucas van Leyden", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1529", 
-    "credit_line": "Purchased from the John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2869, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cain Killing Abel"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Cain Killing Abel", 
+  "accession_number": "08.64", 
+  "credit_line": "Purchased from the John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138141, 
+  "creation_date": "1529", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Lucas van Leyden", 
+      "after_follower": null, 
+      "death_date": "1533", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296159, 
+      "role": "Artist", 
+      "birth_date": "ca. 1494", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2869, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

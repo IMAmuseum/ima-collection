@@ -1,26 +1,30 @@
 {
-    "accession_number": "61.64", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1720", 
-            "death_date": "1778", 
-            "name": "Piranesi, Giovanni Battista", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1763", 
-    "credit_line": "The Springer Fund", 
-    "cultures": [], 
-    "dimensions": "16 x 20 3/4 in (plate) \n19 1/2 x 25 1/4 in (sheet)", 
-    "dynasty": null, 
-    "irn": 46876, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The So-Called Temple of Salus, on the Road to Albano"
+  "publishers": [], 
+  "dimensions": "16 x 20 3/4 in (plate) \n19 1/2 x 25 1/4 in (sheet)", 
+  "rights": null, 
+  "credit_line": "The Springer Fund", 
+  "accession_number": "61.64", 
+  "title": "The So-Called Temple of Salus, on the Road to Albano", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18257609, 
+  "creation_date": "1763", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Piranesi, Giovanni Battista", 
+      "after_follower": null, 
+      "death_date": "1778", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296039, 
+      "role": "Artist", 
+      "birth_date": "1720", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46876, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "48.123", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1871", 
-            "death_date": "1958", 
-            "name": "Rouault, Georges", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1920", 
-    "credit_line": "Gift in memory of William Ray Adams", 
-    "cultures": [], 
-    "dimensions": "25 1/2 x 19 1/2 in.", 
-    "dynasty": null, 
-    "irn": 4991, 
-    "materials": "oil and gouache on paper mounted on linen", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
-    "title": "Head of a Clown"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 
+  "dimensions": "25 1/2 x 19 1/2 in.", 
+  "title": "Head of a Clown", 
+  "accession_number": "48.123", 
+  "credit_line": "Gift in memory of William Ray Adams", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18143083, 
+  "creation_date": "about 1920", 
+  "materials": "oil and gouache on paper mounted on linen", 
+  "actors": [
+    {
+      "name": "Rouault, Georges", 
+      "after_follower": null, 
+      "death_date": "1958", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294877, 
+      "role": "Artist", 
+      "birth_date": "1871", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4991, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

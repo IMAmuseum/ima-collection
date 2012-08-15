@@ -1,26 +1,30 @@
 {
-    "accession_number": "29.7", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1847", 
-            "death_date": "1926", 
-            "name": "T.C. Steele", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1892-1892", 
-    "credit_line": "Gift of Alexander R. Holliday", 
-    "cultures": [], 
-    "dimensions": "40 x 30 in.", 
-    "dynasty": null, 
-    "irn": 21034, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of John H. Holliday"
+  "publishers": [], 
+  "dimensions": "40 x 30 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Alexander R. Holliday", 
+  "accession_number": "29.7", 
+  "title": "Portrait of John H. Holliday", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18195251, 
+  "creation_date": "1892-1892", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "T.C. Steele", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294953, 
+      "role": "Artist", 
+      "birth_date": "1847", 
+      "nationality": null
+    }
+  ], 
+  "irn": 21034, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

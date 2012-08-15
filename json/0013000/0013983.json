@@ -1,26 +1,30 @@
 {
-    "accession_number": "16.1156", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1858", 
-            "death_date": "1915", 
-            "name": "Ball, L. Clarence", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1916", 
-    "credit_line": "Gift of George C. Calvert", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 13983, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Summer"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Summer", 
+  "accession_number": "16.1156", 
+  "credit_line": "Gift of George C. Calvert", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18164651, 
+  "creation_date": "1916", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Ball, L. Clarence", 
+      "after_follower": null, 
+      "death_date": "1915", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294769, 
+      "role": "Artist", 
+      "birth_date": "1858", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13983, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "57.51", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1624", 
-            "death_date": "1685", 
-            "name": "Lutma, Janus, the younger", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Purchased from the Carl H. Lieber Memorial Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 14936, 
-    "materials": "stipple engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bust of Joost Van Vondel"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Bust of Joost Van Vondel", 
+  "accession_number": "57.51", 
+  "credit_line": "Purchased from the Carl H. Lieber Memorial Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166951, 
+  "creation_date": "17th century", 
+  "materials": "stipple engraving", 
+  "actors": [
+    {
+      "name": "Lutma, Janus, the younger", 
+      "after_follower": null, 
+      "death_date": "1685", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299755, 
+      "role": "Artist", 
+      "birth_date": "1624", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14936, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

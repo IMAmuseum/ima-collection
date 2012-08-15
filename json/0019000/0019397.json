@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.84.78", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1773", 
-            "death_date": "1839", 
-            "name": "Atkinson, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Dubourg, Matthew", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1828", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 19397, 
-    "materials": "hand-colored aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Lodge at East Horsely Park, Surrey"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Discretionary Fund", 
+  "accession_number": "73.84.78", 
+  "title": "Lodge at East Horsely Park, Surrey", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18191541, 
+  "creation_date": "1828", 
+  "materials": "hand-colored aquatint", 
+  "actors": [
+    {
+      "name": "Atkinson, William", 
+      "after_follower": null, 
+      "death_date": "1839", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300627, 
+      "role": "Artist", 
+      "birth_date": "1773", 
+      "nationality": null
+    }, 
+    {
+      "name": "Dubourg, Matthew", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299505, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 19397, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

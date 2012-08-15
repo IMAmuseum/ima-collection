@@ -1,26 +1,30 @@
 {
-    "accession_number": "05.20", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1784", 
-            "death_date": "1835", 
-            "name": "Muller, Franz Hubert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Addison C. Harris", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 15310, 
-    "materials": "steel engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Inspiration"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Inspiration", 
+  "accession_number": "05.20", 
+  "credit_line": "Gift of Mrs. Addison C. Harris", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167765, 
+  "creation_date": null, 
+  "materials": "steel engraving", 
+  "actors": [
+    {
+      "name": "Muller, Franz Hubert", 
+      "after_follower": null, 
+      "death_date": "1835", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299845, 
+      "role": "Artist", 
+      "birth_date": "1784", 
+      "nationality": null
+    }
+  ], 
+  "irn": 15310, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

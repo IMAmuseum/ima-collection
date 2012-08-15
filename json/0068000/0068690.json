@@ -1,34 +1,38 @@
 {
-    "accession_number": "2010.124", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1928", 
-            "death_date": null, 
-            "name": "Indiana, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1990", 
-    "credit_line": "Martha Delzell Memorial Fund, Jane Weldon Myers Acquisition Fund", 
-    "cultures": [], 
-    "dimensions": "77 1/16 x 53 1/2 in. (image)\n79 7/8 x 55 1/2 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 68690, 
-    "materials": "screenprint on white Saunders Watercolor 410g paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Brand X Editions, Ltd., New York"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "Park Granada Editions"
-        }
-    ], 
-    "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
-    "title": "KvF V"
+  "publishers": [
+    {
+      "name": "Park Granada Editions"
+    }
+  ], 
+  "dimensions": "77 1/16 x 53 1/2 in. (image)\n79 7/8 x 55 1/2 in. (sheet)", 
+  "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 
+  "credit_line": "Martha Delzell Memorial Fund, Jane Weldon Myers Acquisition Fund", 
+  "accession_number": "2010.124", 
+  "title": "KvF V", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283619, 
+  "creation_date": "1990", 
+  "materials": "screenprint on white Saunders Watercolor 410g paper", 
+  "actors": [
+    {
+      "name": "Indiana, Robert", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294823, 
+      "role": "Artist", 
+      "birth_date": "1928", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68690, 
+  "printers": [
+    {
+      "name": "Brand X Editions, Ltd., New York"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

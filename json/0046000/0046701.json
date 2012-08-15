@@ -1,26 +1,30 @@
 {
-    "accession_number": "04.39", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1838", 
-            "death_date": "1909", 
-            "name": "Shirlaw, Walter", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mary Wright Sewall", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46701, 
-    "materials": "chalk", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Drawing"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mary Wright Sewall", 
+  "accession_number": "04.39", 
+  "title": "Drawing", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18257141, 
+  "creation_date": null, 
+  "materials": "chalk", 
+  "actors": [
+    {
+      "name": "Shirlaw, Walter", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301401, 
+      "role": "Artist", 
+      "birth_date": "1838", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46701, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

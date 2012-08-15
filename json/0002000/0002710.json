@@ -1,26 +1,30 @@
 {
-    "accession_number": "74.528G", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1922", 
-            "death_date": null, 
-            "name": "Swan, Barbara", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1970", 
-    "credit_line": "Gift of Dr. Arthur Herrington", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2710, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Elbert Weinberg"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Elbert Weinberg", 
+  "accession_number": "74.528G", 
+  "credit_line": "Gift of Dr. Arthur Herrington", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18137755, 
+  "creation_date": "1970", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Swan, Barbara", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296091, 
+      "role": "Artist", 
+      "birth_date": "1922", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2710, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

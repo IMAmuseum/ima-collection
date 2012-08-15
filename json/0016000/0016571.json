@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.172", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1784", 
-            "death_date": "1837", 
-            "name": "Yokoyama Kazan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1784-1837", 
-    "credit_line": "Gift of Mr. and Mrs. Robert J. Shula", 
-    "cultures": [], 
-    "dimensions": "43 1/2 x 19 1/4 in. (image)", 
-    "dynasty": null, 
-    "irn": 16571, 
-    "materials": "ink and color on silk", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Eight Immortals of the Wine Cup"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "43 1/2 x 19 1/4 in. (image)", 
+  "title": "Eight Immortals of the Wine Cup", 
+  "accession_number": "80.172", 
+  "credit_line": "Gift of Mr. and Mrs. Robert J. Shula", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18170973, 
+  "creation_date": "1784-1837", 
+  "materials": "ink and color on silk", 
+  "actors": [
+    {
+      "name": "Yokoyama Kazan", 
+      "after_follower": null, 
+      "death_date": "1837", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300217, 
+      "role": "Artist", 
+      "birth_date": "1784", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16571, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

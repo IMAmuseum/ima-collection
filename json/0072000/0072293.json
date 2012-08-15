@@ -1,34 +1,40 @@
 {
-    "accession_number": "2011.244.1-.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Bertil Vallien", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Kosta Boda", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "about 1980", 
-    "credit_line": "Gift of Ben Dreith", 
-    "cultures": [], 
-    "dimensions": "A) 11 3/8 x 5 x 2 1/2 in.\nB) 8 3/8 x 2 1/2 x 1 1/4 in.\nC) 8 7/8 x 3 1/2 x 1 5/8 in.", 
-    "dynasty": null, 
-    "irn": 72293, 
-    "materials": "glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Satellite Bottles (set of three)"
+  "publishers": [], 
+  "dimensions": "A) 11 3/8 x 5 x 2 1/2 in.\nB) 8 3/8 x 2 1/2 x 1 1/4 in.\nC) 8 7/8 x 3 1/2 x 1 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Ben Dreith", 
+  "accession_number": "2011.244.1-.3", 
+  "title": "Satellite Bottles (set of three)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287715, 
+  "creation_date": "about 1980", 
+  "materials": "glass", 
+  "actors": [
+    {
+      "name": "Bertil Vallien", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296887, 
+      "role": "Artist", 
+      "birth_date": "1938", 
+      "nationality": null
+    }, 
+    {
+      "name": "Kosta Boda", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307185, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 72293, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

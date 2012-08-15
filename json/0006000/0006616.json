@@ -1,26 +1,30 @@
 {
-    "accession_number": "02.23", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1860", 
-            "death_date": "1935", 
-            "name": "Jorgensen, Christian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1902", 
-    "credit_line": "Gift of Mrs. Augusta Severin", 
-    "cultures": [], 
-    "dimensions": "30 1/2 x 51 in.\n44 x 64 x 2 in. (frame)", 
-    "dynasty": null, 
-    "irn": 6616, 
-    "materials": "watercolor on cardboard", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Yosemite Valley"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "30 1/2 x 51 in.\n44 x 64 x 2 in. (frame)", 
+  "title": "The Yosemite Valley", 
+  "accession_number": "02.23", 
+  "credit_line": "Gift of Mrs. Augusta Severin", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18146949, 
+  "creation_date": "1902", 
+  "materials": "watercolor on cardboard", 
+  "actors": [
+    {
+      "name": "Jorgensen, Christian", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297479, 
+      "role": "Artist", 
+      "birth_date": "1860", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6616, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

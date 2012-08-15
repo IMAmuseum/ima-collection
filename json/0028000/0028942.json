@@ -1,26 +1,30 @@
 {
-    "accession_number": "17.81", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1848", 
-            "death_date": "1919", 
-            "name": "Duveneck, Frank", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1880", 
-    "credit_line": "Gift of Frank Duveneck and L. H. Meakin", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 28942, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Riva Degli Schiavoni (Plate 1)"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Frank Duveneck and L. H. Meakin", 
+  "accession_number": "17.81", 
+  "title": "Riva Degli Schiavoni (Plate 1)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18213599, 
+  "creation_date": "1880", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Duveneck, Frank", 
+      "after_follower": null, 
+      "death_date": "1919", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295049, 
+      "role": "Artist", 
+      "birth_date": "1848", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28942, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

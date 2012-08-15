@@ -1,30 +1,34 @@
 {
-    "accession_number": "2002.192", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1890", 
-            "death_date": "1970", 
-            "name": "Robert Laurent", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1944", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 60174, 
-    "materials": "woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Corydon Press, University of Indiana, Bloomington"
-        }
-    ], 
-    "rights": null, 
-    "title": "La Beaut\u00e9 (Beauty)"
+  "publishers": [
+    {
+      "name": "Corydon Press, University of Indiana, Bloomington"
+    }
+  ], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2002.192", 
+  "title": "La Beaut\u00e9 (Beauty)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18276399, 
+  "creation_date": "1944", 
+  "materials": "woodblock print", 
+  "actors": [
+    {
+      "name": "Robert Laurent", 
+      "after_follower": null, 
+      "death_date": "1970", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305849, 
+      "role": "Artist", 
+      "birth_date": "1890", 
+      "nationality": null
+    }
+  ], 
+  "irn": 60174, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

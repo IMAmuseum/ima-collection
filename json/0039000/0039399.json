@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.1126.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1801", 
-            "death_date": "1828", 
-            "name": "Bonington, Richard Parkes", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1785", 
-            "death_date": "1848", 
-            "name": "Heath, Charles", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "1830", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 39399, 
-    "materials": "engraving on India paper, chine coll\u00e9", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Francis the First and His Sister"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1126.4", 
+  "title": "Francis the First and His Sister", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18238903, 
+  "creation_date": "1830", 
+  "materials": "engraving on India paper, chine coll\u00e9", 
+  "actors": [
+    {
+      "name": "Bonington, Richard Parkes", 
+      "after_follower": null, 
+      "death_date": "1828", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299677, 
+      "role": "Artist", 
+      "birth_date": "1801", 
+      "nationality": null
+    }, 
+    {
+      "name": "Heath, Charles", 
+      "after_follower": null, 
+      "death_date": "1848", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302963, 
+      "role": "Engraver", 
+      "birth_date": "1785", 
+      "nationality": null
+    }
+  ], 
+  "irn": 39399, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "68.29.3", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1769", 
-            "death_date": "1830", 
-            "name": "Lawrence, Thomas", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Mrs. Joe E. Cain", 
-    "cultures": [], 
-    "dimensions": "30 x 25 in.", 
-    "dynasty": null, 
-    "irn": 8557, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of a Lady"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "30 x 25 in.", 
+  "title": "Portrait of a Lady", 
+  "accession_number": "68.29.3", 
+  "credit_line": "Gift of Mrs. Joe E. Cain", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18151531, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Lawrence, Thomas", 
+      "after_follower": null, 
+      "death_date": "1830", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298019, 
+      "role": "Artist", 
+      "birth_date": "1769", 
+      "nationality": null
+    }
+  ], 
+  "irn": 8557, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

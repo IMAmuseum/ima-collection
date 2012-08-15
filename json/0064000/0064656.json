@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.443", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1965", 
-            "death_date": null, 
-            "name": "Claudio Colucci", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "E & Y Co., Ltd", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "2002", 
-    "credit_line": "The Ballard Fund", 
-    "cultures": [], 
-    "dimensions": "23 3/4 x 15 x 16 in.", 
-    "dynasty": null, 
-    "irn": 64656, 
-    "materials": "polyurethane over existing chair", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Claudio Colucci", 
-    "title": "Mutant chair"
+  "publishers": [], 
+  "dimensions": "23 3/4 x 15 x 16 in.", 
+  "rights": "\u00a9 Claudio Colucci", 
+  "credit_line": "The Ballard Fund", 
+  "accession_number": "2009.443", 
+  "title": "Mutant chair", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279151, 
+  "creation_date": "2002", 
+  "materials": "polyurethane over existing chair", 
+  "actors": [
+    {
+      "name": "Claudio Colucci", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306855, 
+      "role": "Designer", 
+      "birth_date": "1965", 
+      "nationality": null
+    }, 
+    {
+      "name": "E & Y Co., Ltd", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306853, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64656, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

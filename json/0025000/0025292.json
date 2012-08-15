@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.252", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1889", 
-            "death_date": "1975", 
-            "name": "Benton, Thomas Hart", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1945", 
-    "credit_line": "Gift of Dr. Steven Conant in honor of Mr. and Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 25292, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 T.H. Benton and R.P. Benton Testamentary Trusts/UMB Bank Trustee/Licensed by VAGA/New York/NY", 
-    "title": "Island Hay"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 T.H. Benton and R.P. Benton Testamentary Trusts/UMB Bank Trustee/Licensed by VAGA/New York/NY", 
+  "credit_line": "Gift of Dr. Steven Conant in honor of Mr. and Mrs. H. L. Conant", 
+  "accession_number": "1985.252", 
+  "title": "Island Hay", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18205039, 
+  "creation_date": "1945", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Benton, Thomas Hart", 
+      "after_follower": null, 
+      "death_date": "1975", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296103, 
+      "role": "Artist", 
+      "birth_date": "1889", 
+      "nationality": null
+    }
+  ], 
+  "irn": 25292, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

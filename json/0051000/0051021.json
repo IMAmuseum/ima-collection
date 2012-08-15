@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.264", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "20th Century", 
-            "death_date": "20th Century", 
-            "name": "Feltus, Alan Evan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 51021, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "untitled"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H.L. Conant", 
+  "accession_number": "2001.264", 
+  "title": "untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18264105, 
+  "creation_date": "20th Century", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Feltus, Alan Evan", 
+      "after_follower": null, 
+      "death_date": "20th Century", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305431, 
+      "role": "Artist", 
+      "birth_date": "20th Century", 
+      "nationality": null
+    }
+  ], 
+  "irn": 51021, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

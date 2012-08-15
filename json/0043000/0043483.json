@@ -1,26 +1,30 @@
 {
-    "accession_number": "1985.69.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1854", 
-            "death_date": "1935", 
-            "name": "Forsyth, William J.", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1913", 
-    "credit_line": "Museum accession", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 43483, 
-    "materials": "blue pencil on off-white paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 The Estates of William J. and Constance Forsyth \u00a9 The Estates of William J. and Constance Forsyth", 
-    "title": "Balding Man"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 The Estates of William J. and Constance Forsyth \u00a9 The Estates of William J. and Constance Forsyth", 
+  "credit_line": "Museum accession", 
+  "accession_number": "1985.69.4", 
+  "title": "Balding Man", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18249351, 
+  "creation_date": "1913", 
+  "materials": "blue pencil on off-white paper", 
+  "actors": [
+    {
+      "name": "Forsyth, William J.", 
+      "after_follower": null, 
+      "death_date": "1935", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294989, 
+      "role": "Artist", 
+      "birth_date": "1854", 
+      "nationality": null
+    }
+  ], 
+  "irn": 43483, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.180", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1859", 
-            "death_date": "1921", 
-            "name": "Strang, William", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1902", 
-    "credit_line": "Martha Delzell Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 2921, 
-    "materials": "etching and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Clavileno"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Clavileno", 
+  "accession_number": "78.180", 
+  "credit_line": "Martha Delzell Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138259, 
+  "creation_date": "1902", 
+  "materials": "etching and aquatint", 
+  "actors": [
+    {
+      "name": "Strang, William", 
+      "after_follower": null, 
+      "death_date": "1921", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296189, 
+      "role": "Artist", 
+      "birth_date": "1859", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2921, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

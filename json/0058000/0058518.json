@@ -1,26 +1,30 @@
 {
-    "accession_number": "1987.201A", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1883", 
-            "death_date": "1971", 
-            "name": "Chanel, Coco", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1967", 
-    "credit_line": "Gift of Lorraine DeAngelis", 
-    "cultures": [], 
-    "dimensions": "L: 49 in. (dress)", 
-    "dynasty": null, 
-    "irn": 58518, 
-    "materials": "Silk Georgette | Silk Chiffon | Silk Crepe | China Silk | beads", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Coco Chanel", 
-    "title": "Dress for evening ensemble"
+  "publishers": [], 
+  "dimensions": "L: 49 in. (dress)", 
+  "rights": "\u00a9 Coco Chanel", 
+  "credit_line": "Gift of Lorraine DeAngelis", 
+  "accession_number": "1987.201A", 
+  "title": "Dress for evening ensemble", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18275657, 
+  "creation_date": "about 1967", 
+  "materials": "Silk Georgette | Silk Chiffon | Silk Crepe | China Silk | beads", 
+  "actors": [
+    {
+      "name": "Chanel, Coco", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297915, 
+      "role": "Artist", 
+      "birth_date": "1883", 
+      "nationality": null
+    }
+  ], 
+  "irn": 58518, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

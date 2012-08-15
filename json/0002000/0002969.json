@@ -1,26 +1,30 @@
 {
-    "accession_number": "29.68", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1845", 
-            "death_date": "1926", 
-            "name": "Cassatt, Mary", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1891", 
-    "credit_line": "Jacob Metzger Fund", 
-    "cultures": [], 
-    "dimensions": "9 7/8 x 12 5/8 in.", 
-    "dynasty": null, 
-    "irn": 2969, 
-    "materials": "soft-gound etching with drypoint and aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Bath"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "9 7/8 x 12 5/8 in.", 
+  "title": "The Bath", 
+  "accession_number": "29.68", 
+  "credit_line": "Jacob Metzger Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18138353, 
+  "creation_date": "1891", 
+  "materials": "soft-gound etching with drypoint and aquatint", 
+  "actors": [
+    {
+      "name": "Cassatt, Mary", 
+      "after_follower": null, 
+      "death_date": "1926", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296221, 
+      "role": "Artist", 
+      "birth_date": "1845", 
+      "nationality": null
+    }
+  ], 
+  "irn": 2969, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

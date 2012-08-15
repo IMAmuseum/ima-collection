@@ -1,26 +1,30 @@
 {
-    "accession_number": "2002.53", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "20th Century", 
-            "death_date": "20th Century", 
-            "name": "Ryman, Robert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century/LATE", 
-    "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 57653, 
-    "materials": "aquatint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Test No. 3"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of Dr. Steven Conant in memory of Mrs. H. L. Conant", 
+  "accession_number": "2002.53", 
+  "title": "Test No. 3", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18274505, 
+  "creation_date": "20th Century/LATE", 
+  "materials": "aquatint", 
+  "actors": [
+    {
+      "name": "Ryman, Robert", 
+      "after_follower": null, 
+      "death_date": "20th Century", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305741, 
+      "role": "Artist", 
+      "birth_date": "20th Century", 
+      "nationality": null
+    }
+  ], 
+  "irn": 57653, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

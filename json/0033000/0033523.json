@@ -1,34 +1,40 @@
 {
-    "accession_number": "1985.663", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1903", 
-            "death_date": "2001", 
-            "name": "Vicente, Esteban", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Donald Roberts", 
-            "nationality": null, 
-            "role": "Printer"
-        }
-    ], 
-    "creation_date": "1962", 
-    "credit_line": "Gift of Dr. and Mrs. Leonard Kornblee", 
-    "cultures": [], 
-    "dimensions": "11 1/2 x 15 1/2 in.", 
-    "dynasty": null, 
-    "irn": 33523, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Untitled"
+  "publishers": [], 
+  "dimensions": "11 1/2 x 15 1/2 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Dr. and Mrs. Leonard Kornblee", 
+  "accession_number": "1985.663", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18224269, 
+  "creation_date": "1962", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Vicente, Esteban", 
+      "after_follower": null, 
+      "death_date": "2001", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303401, 
+      "role": "Artist", 
+      "birth_date": "1903", 
+      "nationality": null
+    }, 
+    {
+      "name": "Donald Roberts", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18303405, 
+      "role": "Printer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 33523, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

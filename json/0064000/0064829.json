@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.355", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1963", 
-            "death_date": null, 
-            "name": "\u00d3lafur Th\u00f3rdarson", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Dingaling Studio", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1999-2000", 
-    "credit_line": "Gift of \u00d3lafur Th\u00f3rdarson", 
-    "cultures": [], 
-    "dimensions": "24 \u00d7 13 \u00d7 13 in.", 
-    "dynasty": null, 
-    "irn": 64829, 
-    "materials": "resin", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 \u00d3lafur Th\u00f3rdarson", 
-    "title": "UL1 lamp"
+  "publishers": [], 
+  "dimensions": "24 \u00d7 13 \u00d7 13 in.", 
+  "rights": "\u00a9 \u00d3lafur Th\u00f3rdarson", 
+  "credit_line": "Gift of \u00d3lafur Th\u00f3rdarson", 
+  "accession_number": "2009.355", 
+  "title": "UL1 lamp", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18279371, 
+  "creation_date": "1999-2000", 
+  "materials": "resin", 
+  "actors": [
+    {
+      "name": "\u00d3lafur Th\u00f3rdarson", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307157, 
+      "role": "Designer", 
+      "birth_date": "1963", 
+      "nationality": null
+    }, 
+    {
+      "name": "Dingaling Studio", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307159, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 64829, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

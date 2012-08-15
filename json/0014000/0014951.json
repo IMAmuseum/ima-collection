@@ -1,34 +1,40 @@
 {
-    "accession_number": "56.112", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Derby China Works", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Derby China Works", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1756-1758", 
-    "credit_line": "Gift of Mrs. Herbert R. Duckwall in memory of her husband", 
-    "cultures": [], 
-    "dimensions": "7 1/4 in.", 
-    "dynasty": null, 
-    "irn": 14951, 
-    "materials": "soft paste porcelain, polychrome enamels", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Boy Climbing a Tree"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "7 1/4 in.", 
+  "title": "Boy Climbing a Tree", 
+  "accession_number": "56.112", 
+  "credit_line": "Gift of Mrs. Herbert R. Duckwall in memory of her husband", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18166993, 
+  "creation_date": "1756-1758", 
+  "materials": "soft paste porcelain, polychrome enamels", 
+  "actors": [
+    {
+      "name": "Derby China Works", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299759, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Derby China Works", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299759, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 14951, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

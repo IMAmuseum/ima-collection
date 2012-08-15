@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.29", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1889", 
-            "death_date": "1963", 
-            "name": "Ritman, Louis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1918", 
-    "credit_line": "Gift of the Louis Ritman Estate", 
-    "cultures": [], 
-    "dimensions": "47 x 39 3/4 in.", 
-    "dynasty": null, 
-    "irn": 5482, 
-    "materials": "oil and tempera on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sunlit Window"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "47 x 39 3/4 in.", 
+  "title": "Sunlit Window", 
+  "accession_number": "73.29", 
+  "credit_line": "Gift of the Louis Ritman Estate", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18144231, 
+  "creation_date": "1918", 
+  "materials": "oil and tempera on canvas", 
+  "actors": [
+    {
+      "name": "Ritman, Louis", 
+      "after_follower": null, 
+      "death_date": "1963", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297163, 
+      "role": "Artist", 
+      "birth_date": "1889", 
+      "nationality": null
+    }
+  ], 
+  "irn": 5482, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

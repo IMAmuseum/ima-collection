@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1128.1", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1789", 
-            "death_date": "1854", 
-            "name": "Martin, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1833", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 39405, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Caius Marius Mourning Over the Ruins of Carthage"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1128.1", 
+  "title": "Caius Marius Mourning Over the Ruins of Carthage", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18238919, 
+  "creation_date": "1833", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Martin, John", 
+      "after_follower": null, 
+      "death_date": "1854", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296281, 
+      "role": "Artist", 
+      "birth_date": "1789", 
+      "nationality": null
+    }
+  ], 
+  "irn": 39405, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

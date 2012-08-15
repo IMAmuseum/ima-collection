@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.266", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1858", 
-            "death_date": "1941", 
-            "name": "Luce, Maximilien", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1907", 
-    "credit_line": "The Holliday Collection", 
-    "cultures": [], 
-    "dimensions": "10 3/8 x 13 1/16 in.", 
-    "dynasty": null, 
-    "irn": 14421, 
-    "materials": "oil on paper mounted to cardboard", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "The Estuary (L'Estuaire)"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "dimensions": "10 3/8 x 13 1/16 in.", 
+  "title": "The Estuary (L'Estuaire)", 
+  "accession_number": "79.266", 
+  "credit_line": "The Holliday Collection", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18165739, 
+  "creation_date": "1907", 
+  "materials": "oil on paper mounted to cardboard", 
+  "actors": [
+    {
+      "name": "Luce, Maximilien", 
+      "after_follower": null, 
+      "death_date": "1941", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298155, 
+      "role": "Artist", 
+      "birth_date": "1858", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14421, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

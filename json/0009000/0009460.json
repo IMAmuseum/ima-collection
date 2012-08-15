@@ -1,34 +1,40 @@
 {
-    "accession_number": "08.46", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1593", 
-            "death_date": "1670", 
-            "name": "Vignon, Claude", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1602", 
-            "death_date": "1676", 
-            "name": "Bosse, Abraham", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "John Herron Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 9460, 
-    "materials": "engraving and etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Allegorical Subject"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Allegorical Subject", 
+  "accession_number": "08.46", 
+  "credit_line": "John Herron Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18153791, 
+  "creation_date": "17th century", 
+  "materials": "engraving and etching", 
+  "actors": [
+    {
+      "name": "Vignon, Claude", 
+      "after_follower": null, 
+      "death_date": "1670", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297503, 
+      "role": "Artist", 
+      "birth_date": "1593", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bosse, Abraham", 
+      "after_follower": null, 
+      "death_date": "1676", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296179, 
+      "role": "Engraver", 
+      "birth_date": "1602", 
+      "nationality": null
+    }
+  ], 
+  "irn": 9460, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

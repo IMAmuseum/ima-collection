@@ -1,26 +1,30 @@
 {
-    "accession_number": "60.140", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1427", 
-            "death_date": "1509", 
-            "name": "Shen Zhou", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1481", 
-    "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
-    "cultures": [], 
-    "dimensions": "43 3/4 x 16 1/8 in. (image)\n109 7/8 x 22 9/16 in.  (overall)", 
-    "dynasty": "Ming dynasty", 
-    "irn": 23099, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Three Catalpa Trees"
+  "publishers": [], 
+  "dimensions": "43 3/4 x 16 1/8 in. (image)\n109 7/8 x 22 9/16 in.  (overall)", 
+  "rights": null, 
+  "credit_line": "Gift of Mr. and Mrs. Eli Lilly", 
+  "accession_number": "60.140", 
+  "title": "Three Catalpa Trees", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18199963, 
+  "creation_date": "about 1481", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Shen Zhou", 
+      "after_follower": null, 
+      "death_date": "1509", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18301537, 
+      "role": "Artist", 
+      "birth_date": "1427", 
+      "nationality": null
+    }
+  ], 
+  "irn": 23099, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Ming dynasty", 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.61.15", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1828", 
-            "death_date": "1904", 
-            "name": "Ju Lian", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1886", 
-    "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": "Qing dynasty", 
-    "irn": 34700, 
-    "materials": "ink on paper", 
-    "on_view": true, 
-    "period": "Guangxu", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "White Peony"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of the Alliance of the Indianapolis Museum of Art", 
+  "accession_number": "73.61.15", 
+  "title": "White Peony", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Guangxu", 
+  "artisinal:id": 18226959, 
+  "creation_date": "1886", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Ju Lian", 
+      "after_follower": null, 
+      "death_date": "1904", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18302395, 
+      "role": "Artist", 
+      "birth_date": "1828", 
+      "nationality": null
+    }
+  ], 
+  "irn": 34700, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": true
 }

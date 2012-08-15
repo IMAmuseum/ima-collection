@@ -1,26 +1,30 @@
 {
-    "accession_number": "80.1602.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1788", 
-            "death_date": "1833", 
-            "name": "Robson, George Fennel", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1834", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 41102, 
-    "materials": "engraving on plain paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Ben Venue"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "accession_number": "80.1602.10", 
+  "title": "Ben Venue", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18243695, 
+  "creation_date": "about 1834", 
+  "materials": "engraving on plain paper", 
+  "actors": [
+    {
+      "name": "Robson, George Fennel", 
+      "after_follower": null, 
+      "death_date": "1833", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18304599, 
+      "role": "Artist", 
+      "birth_date": "1788", 
+      "nationality": null
+    }
+  ], 
+  "irn": 41102, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.341A-D", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1953", 
-            "death_date": null, 
-            "name": "Jonas Bohlin", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1953", 
-            "death_date": null, 
-            "name": "Jonas Bohlin", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1997", 
-    "credit_line": "Gift of Jonas Bohlin", 
-    "cultures": [], 
-    "dimensions": "25 5/8 x 23 5/8 x 15 3/4 in.", 
-    "dynasty": null, 
-    "irn": 67632, 
-    "materials": "steel and linen", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Jonas Bohlin", 
-    "title": "LIV stool"
+  "publishers": [], 
+  "dimensions": "25 5/8 x 23 5/8 x 15 3/4 in.", 
+  "rights": "\u00a9 Jonas Bohlin", 
+  "credit_line": "Gift of Jonas Bohlin", 
+  "accession_number": "2009.341A-D", 
+  "title": "LIV stool", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18282913, 
+  "creation_date": "1997", 
+  "materials": "steel and linen", 
+  "actors": [
+    {
+      "name": "Jonas Bohlin", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307711, 
+      "role": "Designer", 
+      "birth_date": "1953", 
+      "nationality": null
+    }, 
+    {
+      "name": "Jonas Bohlin", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307711, 
+      "role": "Manufacturer", 
+      "birth_date": "1953", 
+      "nationality": null
+    }
+  ], 
+  "irn": 67632, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

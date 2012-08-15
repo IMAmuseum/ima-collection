@@ -1,26 +1,30 @@
 {
-    "accession_number": "06.124", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1880", 
-            "death_date": "1946", 
-            "name": "Glen C. Henshaw", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Gift of Carl Lieber", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 46984, 
-    "materials": null, 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Old Houses by the River"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Carl Lieber", 
+  "accession_number": "06.124", 
+  "title": "Old Houses by the River", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18257797, 
+  "creation_date": null, 
+  "materials": null, 
+  "actors": [
+    {
+      "name": "Glen C. Henshaw", 
+      "after_follower": null, 
+      "death_date": "1946", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305319, 
+      "role": "Artist", 
+      "birth_date": "1880", 
+      "nationality": null
+    }
+  ], 
+  "irn": 46984, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,34 +1,40 @@
 {
-    "accession_number": "2010.84A-B", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Olivetti", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1887", 
-            "death_date": "1969", 
-            "name": "Nizzoli, Marcello", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "1950", 
-    "credit_line": "Gift of A. Ian Fraser", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 68841, 
-    "materials": "metal and plastic", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Olivetti Lettera 22 typewriter"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of A. Ian Fraser", 
+  "accession_number": "2010.84A-B", 
+  "title": "Olivetti Lettera 22 typewriter", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283729, 
+  "creation_date": "1950", 
+  "materials": "metal and plastic", 
+  "actors": [
+    {
+      "name": "Olivetti", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306881, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }, 
+    {
+      "name": "Nizzoli, Marcello", 
+      "after_follower": null, 
+      "death_date": "1969", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307341, 
+      "role": "Designer", 
+      "birth_date": "1887", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68841, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

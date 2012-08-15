@@ -1,42 +1,50 @@
 {
-    "accession_number": "2011.191A-C", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1932", 
-            "death_date": "1991", 
-            "name": "Gerd A. Muller", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1938", 
-            "death_date": null, 
-            "name": "Robert Oberheim", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Braun", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "1964", 
-    "credit_line": "Gift of A.C. Fernandez in honor of Reginaldo, Catherine and Angelita", 
-    "cultures": [], 
-    "dimensions": "A) food processor: 10 1/2 x 13 x 6 1/2 in.\nB) bowl: 6 1/2 x 9 1/2 (diam.) in.\nC) bowl: 5 5/8 x 6 1/2 x 5 1/4 in.", 
-    "dynasty": null, 
-    "irn": 71822, 
-    "materials": "plastic and metal", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Braun", 
-    "title": "KM 32 Food Processor"
+  "publishers": [], 
+  "dimensions": "A) food processor: 10 1/2 x 13 x 6 1/2 in.\nB) bowl: 6 1/2 x 9 1/2 (diam.) in.\nC) bowl: 5 5/8 x 6 1/2 x 5 1/4 in.", 
+  "rights": "\u00a9 Braun", 
+  "credit_line": "Gift of A.C. Fernandez in honor of Reginaldo, Catherine and Angelita", 
+  "accession_number": "2011.191A-C", 
+  "title": "KM 32 Food Processor", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287497, 
+  "creation_date": "1964", 
+  "materials": "plastic and metal", 
+  "actors": [
+    {
+      "name": "Gerd A. Muller", 
+      "after_follower": null, 
+      "death_date": "1991", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308501, 
+      "role": "Designer", 
+      "birth_date": "1932", 
+      "nationality": null
+    }, 
+    {
+      "name": "Robert Oberheim", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308503, 
+      "role": "Designer", 
+      "birth_date": "1938", 
+      "nationality": null
+    }, 
+    {
+      "name": "Braun", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307401, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 71822, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

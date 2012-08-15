@@ -1,26 +1,30 @@
 {
-    "accession_number": "78.88", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1699", 
-            "death_date": "1769", 
-            "name": "Dong Bangda", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1747", 
-    "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
-    "cultures": [], 
-    "dimensions": "51 5/8 x 5 7/8 in.", 
-    "dynasty": "Qing dynasty", 
-    "irn": 11827, 
-    "materials": "ink on silk", 
-    "on_view": false, 
-    "period": "Qianlong", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Viewing the Scenic Landscape"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "51 5/8 x 5 7/8 in.", 
+  "title": "Viewing the Scenic Landscape", 
+  "accession_number": "78.88", 
+  "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Qianlong", 
+  "artisinal:id": 18159357, 
+  "creation_date": "1747", 
+  "materials": "ink on silk", 
+  "actors": [
+    {
+      "name": "Dong Bangda", 
+      "after_follower": null, 
+      "death_date": "1769", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298927, 
+      "role": "Artist", 
+      "birth_date": "1699", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11827, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

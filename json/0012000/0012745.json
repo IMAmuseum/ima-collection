@@ -1,26 +1,30 @@
 {
-    "accession_number": "C10068", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1733", 
-            "death_date": "1808", 
-            "name": "Robert, Hubert", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": null, 
-    "credit_line": "Courtesy of The Clowes Fund", 
-    "cultures": [], 
-    "dimensions": "26 x 60 in.", 
-    "dynasty": null, 
-    "irn": 12745, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Statue"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "26 x 60 in.", 
+  "title": "The Statue", 
+  "accession_number": "C10068", 
+  "credit_line": "Courtesy of The Clowes Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18161763, 
+  "creation_date": null, 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Robert, Hubert", 
+      "after_follower": null, 
+      "death_date": "1808", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299121, 
+      "role": "Artist", 
+      "birth_date": "1733", 
+      "nationality": null
+    }
+  ], 
+  "irn": 12745, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

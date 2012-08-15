@@ -1,26 +1,30 @@
 {
-    "accession_number": "79.868", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1886", 
-            "death_date": "1980", 
-            "name": "Kokoschka, Oskar", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1967", 
-    "credit_line": "Gift of Mr. Jack Cassidy", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 304, 
-    "materials": "lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Fondation Oskar Kokoschka/Artists Rights Society (ARS), New York/ProLitteris, Z\u00fcrich", 
-    "title": "Manhattan I"
+  "publishers": [], 
+  "rights": "\u00a9 Fondation Oskar Kokoschka/Artists Rights Society (ARS), New York/ProLitteris, Z\u00fcrich", 
+  "dimensions": null, 
+  "title": "Manhattan I", 
+  "accession_number": "79.868", 
+  "credit_line": "Gift of Mr. Jack Cassidy", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131893, 
+  "creation_date": "1967", 
+  "materials": "lithograph", 
+  "actors": [
+    {
+      "name": "Kokoschka, Oskar", 
+      "after_follower": null, 
+      "death_date": "1980", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294941, 
+      "role": "Artist", 
+      "birth_date": "1886", 
+      "nationality": null
+    }
+  ], 
+  "irn": 304, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

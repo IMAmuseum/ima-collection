@@ -1,26 +1,30 @@
 {
-    "accession_number": "1997.123", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1901", 
-            "death_date": "1980", 
-            "name": "Howard Cook", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1930", 
-    "credit_line": "Gift of Dale Kephart", 
-    "cultures": [], 
-    "dimensions": "17 5/8 x 8 5/8 in. (image)\n18 1/4 x 9 1/4 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 32961, 
-    "materials": "wood engraving", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Howard Norton Cook", 
-    "title": "The New Yorker"
+  "publishers": [], 
+  "dimensions": "17 5/8 x 8 5/8 in. (image)\n18 1/4 x 9 1/4 in. (sheet)", 
+  "rights": "\u00a9 Howard Norton Cook", 
+  "credit_line": "Gift of Dale Kephart", 
+  "accession_number": "1997.123", 
+  "title": "The New Yorker", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222937, 
+  "creation_date": "1930", 
+  "materials": "wood engraving", 
+  "actors": [
+    {
+      "name": "Howard Cook", 
+      "after_follower": null, 
+      "death_date": "1980", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298753, 
+      "role": "Artist", 
+      "birth_date": "1901", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32961, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "09.335", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1772", 
-            "death_date": "1813", 
-            "name": "Cardon, Antoine", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 16141, 
-    "materials": "ink", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "A Warrior"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "A Warrior", 
+  "accession_number": "09.335", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18169839, 
+  "creation_date": "19th century", 
+  "materials": "ink", 
+  "actors": [
+    {
+      "name": "Cardon, Antoine", 
+      "after_follower": null, 
+      "death_date": "1813", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18300087, 
+      "role": "Artist", 
+      "birth_date": "1772", 
+      "nationality": null
+    }
+  ], 
+  "irn": 16141, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

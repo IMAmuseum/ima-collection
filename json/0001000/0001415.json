@@ -1,34 +1,40 @@
 {
-    "accession_number": "80.731.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1775", 
-            "death_date": "1851", 
-            "name": "Joseph Mallord William Turner", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1744", 
-            "death_date": "1811", 
-            "name": "Dunkarton, Robert", 
-            "nationality": null, 
-            "role": "Engraver"
-        }
-    ], 
-    "creation_date": "January 1, 1811", 
-    "credit_line": "Bequest of Kurt F. Pantzer", 
-    "cultures": [], 
-    "dimensions": "7 x 10 1/4 in (image) \n8 1/8 x 11 1/4 in (plate) \n11 1/2 x 17 3/16 in (sheet)", 
-    "dynasty": null, 
-    "irn": 1415, 
-    "materials": "mezzotint over etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Hind Head Hill"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "7 x 10 1/4 in (image) \n8 1/8 x 11 1/4 in (plate) \n11 1/2 x 17 3/16 in (sheet)", 
+  "title": "Hind Head Hill", 
+  "accession_number": "80.731.2", 
+  "credit_line": "Bequest of Kurt F. Pantzer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134653, 
+  "creation_date": "January 1, 1811", 
+  "materials": "mezzotint over etching", 
+  "actors": [
+    {
+      "name": "Joseph Mallord William Turner", 
+      "after_follower": null, 
+      "death_date": "1851", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294751, 
+      "role": "Artist", 
+      "birth_date": "1775", 
+      "nationality": null
+    }, 
+    {
+      "name": "Dunkarton, Robert", 
+      "after_follower": null, 
+      "death_date": "1811", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295031, 
+      "role": "Engraver", 
+      "birth_date": "1744", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1415, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,30 +1,34 @@
 {
-    "accession_number": "2006.54", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1790", 
-            "death_date": "1848", 
-            "name": "Ikeda Eisen", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "about 1820s", 
-    "credit_line": "Miscellaneous Asian Art Fund", 
-    "cultures": [], 
-    "dimensions": "14 15/16 x 10 in.", 
-    "dynasty": null, 
-    "irn": 63545, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Kawaguchi-ya Uhei (Fukusendo)"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Courtesan Shiratama from the Tamaya House (Tamaya no uchi Shiratama)"
+  "publishers": [
+    {
+      "name": "Kawaguchi-ya Uhei (Fukusendo)"
+    }
+  ], 
+  "dimensions": "14 15/16 x 10 in.", 
+  "rights": null, 
+  "credit_line": "Miscellaneous Asian Art Fund", 
+  "accession_number": "2006.54", 
+  "title": "The Courtesan Shiratama from the Tamaya House (Tamaya no uchi Shiratama)", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18278637, 
+  "creation_date": "about 1820s", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Ikeda Eisen", 
+      "after_follower": null, 
+      "death_date": "1848", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305513, 
+      "role": "Artist", 
+      "birth_date": "1790", 
+      "nationality": null
+    }
+  ], 
+  "irn": 63545, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

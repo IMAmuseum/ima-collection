@@ -1,30 +1,34 @@
 {
-    "accession_number": "09.101", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1743", 
-            "death_date": "1822", 
-            "name": "Earlom, Richard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1774", 
-    "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
-    "cultures": [], 
-    "dimensions": "8 5/16 x 10 3/16 in.", 
-    "dynasty": null, 
-    "irn": 57, 
-    "materials": "mezzotint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Boydell, John"
-        }
-    ], 
-    "rights": null, 
-    "title": "Landscape"
+  "publishers": [
+    {
+      "name": "Boydell, John"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "8 5/16 x 10 3/16 in.", 
+  "title": "Landscape", 
+  "accession_number": "09.101", 
+  "credit_line": "Gift of Mrs. Anna J. Brownell and Miss Frances J. Brownell", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18131277, 
+  "creation_date": "1774", 
+  "materials": "mezzotint", 
+  "actors": [
+    {
+      "name": "Earlom, Richard", 
+      "after_follower": null, 
+      "death_date": "1822", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294747, 
+      "role": "Artist", 
+      "birth_date": "1743", 
+      "nationality": null
+    }
+  ], 
+  "irn": 57, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

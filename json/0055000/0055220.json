@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.43.26", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1605", 
-            "death_date": "1690", 
-            "name": "Waterloo, Anthonie", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "17th century", 
-    "credit_line": "Gift of Mrs. Herbert S. Call", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 55220, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Study of Trees"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herbert S. Call", 
+  "accession_number": "72.43.26", 
+  "title": "Study of Trees", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18272365, 
+  "creation_date": "17th century", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Waterloo, Anthonie", 
+      "after_follower": null, 
+      "death_date": "1690", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295781, 
+      "role": "Artist", 
+      "birth_date": "1605", 
+      "nationality": null
+    }
+  ], 
+  "irn": 55220, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

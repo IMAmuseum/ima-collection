@@ -1,26 +1,30 @@
 {
-    "accession_number": "48.75", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1793", 
-            "death_date": "1854", 
-            "name": "Utagawa Kuninao", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "end of 18th century", 
-    "credit_line": "Gift of George C. Calvert", 
-    "cultures": [], 
-    "dimensions": "9 3/4 x 14 1/4in.", 
-    "dynasty": null, 
-    "irn": 52616, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Marriage Ceremony"
+  "publishers": [], 
+  "dimensions": "9 3/4 x 14 1/4in.", 
+  "rights": null, 
+  "credit_line": "Gift of George C. Calvert", 
+  "accession_number": "48.75", 
+  "title": "Marriage Ceremony", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18267551, 
+  "creation_date": "end of 18th century", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Utagawa Kuninao", 
+      "after_follower": null, 
+      "death_date": "1854", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305545, 
+      "role": "Artist", 
+      "birth_date": "1793", 
+      "nationality": null
+    }
+  ], 
+  "irn": 52616, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

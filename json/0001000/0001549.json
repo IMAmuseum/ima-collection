@@ -1,26 +1,30 @@
 {
-    "accession_number": "28.44", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1856", 
-            "death_date": "1909", 
-            "name": "Bacher, Otto Henry", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1882", 
-    "credit_line": "Gift of Hilah Drake Wheeler", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1549, 
-    "materials": "etching", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Perleria"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Perleria", 
+  "accession_number": "28.44", 
+  "credit_line": "Gift of Hilah Drake Wheeler", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18134961, 
+  "creation_date": "1882", 
+  "materials": "etching", 
+  "actors": [
+    {
+      "name": "Bacher, Otto Henry", 
+      "after_follower": null, 
+      "death_date": "1909", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295559, 
+      "role": "Artist", 
+      "birth_date": "1856", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1549, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

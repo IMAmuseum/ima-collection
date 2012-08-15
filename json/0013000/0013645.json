@@ -1,26 +1,30 @@
 {
-    "accession_number": "55.225", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1615", 
-            "death_date": "1652", 
-            "name": "Both, Jan", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1647", 
-    "credit_line": "James E. Roberts Fund", 
-    "cultures": [], 
-    "dimensions": "27 1/8 x 35 5/8 in. | 33 1/2 x 39 5/8 in. (framed)", 
-    "dynasty": null, 
-    "irn": 13645, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Scene of the Roman Campagna"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "27 1/8 x 35 5/8 in. | 33 1/2 x 39 5/8 in. (framed)", 
+  "title": "Scene of the Roman Campagna", 
+  "accession_number": "55.225", 
+  "credit_line": "James E. Roberts Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18163841, 
+  "creation_date": "1647", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Both, Jan", 
+      "after_follower": null, 
+      "death_date": "1652", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18299391, 
+      "role": "Artist", 
+      "birth_date": "1615", 
+      "nationality": null
+    }
+  ], 
+  "irn": 13645, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

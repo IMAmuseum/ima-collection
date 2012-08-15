@@ -1,26 +1,30 @@
 {
-    "accession_number": "2001.234", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1907", 
-            "death_date": "1956", 
-            "name": "Lynes, George Platt", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "20th Century", 
-    "credit_line": "Delavan Smith Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 48918, 
-    "materials": "gelatin silver print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 George Platt Lynes", 
-    "title": "Paul Cadmus with a Triangle"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": "\u00a9 George Platt Lynes", 
+  "credit_line": "Delavan Smith Fund", 
+  "accession_number": "2001.234", 
+  "title": "Paul Cadmus with a Triangle", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18259041, 
+  "creation_date": "20th Century", 
+  "materials": "gelatin silver print", 
+  "actors": [
+    {
+      "name": "Lynes, George Platt", 
+      "after_follower": null, 
+      "death_date": "1956", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18305361, 
+      "role": "Artist", 
+      "birth_date": "1907", 
+      "nationality": null
+    }
+  ], 
+  "irn": 48918, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

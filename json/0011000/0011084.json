@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.109.24", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1945-", 
-            "death_date": "1945-", 
-            "name": "Jackson, Herb", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1972", 
-    "credit_line": "Gift of Dr. and Mrs. Fredrick P. Nause", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 11084, 
-    "materials": "color lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Cloud Cover"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Cloud Cover", 
+  "accession_number": "72.109.24", 
+  "credit_line": "Gift of Dr. and Mrs. Fredrick P. Nause", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18157635, 
+  "creation_date": "1972", 
+  "materials": "color lithograph", 
+  "actors": [
+    {
+      "name": "Jackson, Herb", 
+      "after_follower": null, 
+      "death_date": "1945-", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298103, 
+      "role": "Artist", 
+      "birth_date": "1945-", 
+      "nationality": null
+    }
+  ], 
+  "irn": 11084, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

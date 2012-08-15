@@ -1,26 +1,30 @@
 {
-    "accession_number": "17.4", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1850", 
-            "death_date": "1880", 
-            "name": "Love, John Washington", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1878-1878", 
-    "credit_line": "Gift of Louis Kiefer", 
-    "cultures": [], 
-    "dimensions": "22 x 17 in.\n27 1/2 x 22 1/2 in. (framed)", 
-    "dynasty": null, 
-    "irn": 32799, 
-    "materials": "oil on canvas", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Louis A. Kiefer"
+  "publishers": [], 
+  "dimensions": "22 x 17 in.\n27 1/2 x 22 1/2 in. (framed)", 
+  "rights": null, 
+  "credit_line": "Gift of Louis Kiefer", 
+  "accession_number": "17.4", 
+  "title": "Portrait of Louis A. Kiefer", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18222539, 
+  "creation_date": "1878-1878", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Love, John Washington", 
+      "after_follower": null, 
+      "death_date": "1880", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296517, 
+      "role": "Artist", 
+      "birth_date": "1850", 
+      "nationality": null
+    }
+  ], 
+  "irn": 32799, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

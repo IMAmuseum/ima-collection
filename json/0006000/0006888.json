@@ -1,38 +1,44 @@
 {
-    "accession_number": "73.2.59", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1764", 
-            "death_date": "1838", 
-            "name": "Percier, Charles", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1762", 
-            "death_date": "1853", 
-            "name": "Fontaine, Pierre Fran\u00e7ois L\u00e9onard", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1812", 
-    "credit_line": "Director's Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": "13 X 9 1/4 in. (image)\n16 1/2 X 10 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 6888, 
-    "materials": "engraving", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Didot, Pierre"
-        }
-    ], 
-    "rights": null, 
-    "title": "The Tribune and part of the Marshals' Room at the Tuileries"
+  "publishers": [
+    {
+      "name": "Didot, Pierre"
+    }
+  ], 
+  "rights": null, 
+  "dimensions": "13 X 9 1/4 in. (image)\n16 1/2 X 10 in. (sheet)", 
+  "title": "The Tribune and part of the Marshals' Room at the Tuileries", 
+  "accession_number": "73.2.59", 
+  "credit_line": "Director's Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18147607, 
+  "creation_date": "1812", 
+  "materials": "engraving", 
+  "actors": [
+    {
+      "name": "Percier, Charles", 
+      "after_follower": null, 
+      "death_date": "1838", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297585, 
+      "role": "Artist", 
+      "birth_date": "1764", 
+      "nationality": null
+    }, 
+    {
+      "name": "Fontaine, Pierre Fran\u00e7ois L\u00e9onard", 
+      "after_follower": null, 
+      "death_date": "1853", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297589, 
+      "role": "Artist", 
+      "birth_date": "1762", 
+      "nationality": null
+    }
+  ], 
+  "irn": 6888, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.43", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1834", 
-            "death_date": "1894", 
-            "name": "Hamerton, Philip Gilbert", 
-            "nationality": null, 
-            "role": "Author"
-        }
-    ], 
-    "creation_date": "19th century", 
-    "credit_line": "Gift of Mrs. Herbert S. Call", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 27284, 
-    "materials": "etchings and drypoint", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Etchings and Etchers"
+  "publishers": [], 
+  "dimensions": null, 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Herbert S. Call", 
+  "accession_number": "72.43", 
+  "title": "Etchings and Etchers", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18209701, 
+  "creation_date": "19th century", 
+  "materials": "etchings and drypoint", 
+  "actors": [
+    {
+      "name": "Hamerton, Philip Gilbert", 
+      "after_follower": null, 
+      "death_date": "1894", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297335, 
+      "role": "Author", 
+      "birth_date": "1834", 
+      "nationality": null
+    }
+  ], 
+  "irn": 27284, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

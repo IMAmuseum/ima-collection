@@ -1,34 +1,40 @@
 {
-    "accession_number": "2009.451", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1975", 
-            "death_date": null, 
-            "name": "Bertjan Pot", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": "1975", 
-            "death_date": null, 
-            "name": "Bertjan Pot", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }
-    ], 
-    "creation_date": "2002", 
-    "credit_line": "Lucille Stewart Endowed Art Fund", 
-    "cultures": [], 
-    "dimensions": "22 1/2 x 21 x 16 in.", 
-    "dynasty": null, 
-    "irn": 68094, 
-    "materials": "fiber and resin", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Bertjan Pot", 
-    "title": "Knitted light fixture"
+  "publishers": [], 
+  "dimensions": "22 1/2 x 21 x 16 in.", 
+  "rights": "\u00a9 Bertjan Pot", 
+  "credit_line": "Lucille Stewart Endowed Art Fund", 
+  "accession_number": "2009.451", 
+  "title": "Knitted light fixture", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283169, 
+  "creation_date": "2002", 
+  "materials": "fiber and resin", 
+  "actors": [
+    {
+      "name": "Bertjan Pot", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307739, 
+      "role": "Designer", 
+      "birth_date": "1975", 
+      "nationality": null
+    }, 
+    {
+      "name": "Bertjan Pot", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307739, 
+      "role": "manufacturer", 
+      "birth_date": "1975", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68094, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "72.47.291", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1760", 
-            "death_date": "1849", 
-            "name": "Katsushika Hokusai", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1829 (Bunsei 12)", 
-    "credit_line": "Gift of Mrs. Kate Kiser Klein", 
-    "cultures": [], 
-    "dimensions": "Pages trimmed and pasted together:\n8 3/4 x 5 7/8 in. (left sheet, includes binding margin)\n8 3/4 x 5 1/4 in. (right sheet)\n9 3/4 x 7 1/4 in. (image, stitched and rotated 90 degrees from binding)", 
-    "dynasty": null, 
-    "irn": 53449, 
-    "materials": "woodblock printed book illustration", 
-    "on_view": true, 
-    "period": "Edo", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Tei Tokuson, nicknamed \"Arrow-hit Tiger,\" Ch^o Sei, nicknamed \"Featherless Arrow,\" and Ky^o ^O, nicknamed \"Flowery Necked Tiger\""
+  "publishers": [], 
+  "dimensions": "Pages trimmed and pasted together:\n8 3/4 x 5 7/8 in. (left sheet, includes binding margin)\n8 3/4 x 5 1/4 in. (right sheet)\n9 3/4 x 7 1/4 in. (image, stitched and rotated 90 degrees from binding)", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. Kate Kiser Klein", 
+  "accession_number": "72.47.291", 
+  "title": "Tei Tokuson, nicknamed \"Arrow-hit Tiger,\" Ch^o Sei, nicknamed \"Featherless Arrow,\" and Ky^o ^O, nicknamed \"Flowery Necked Tiger\"", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Edo", 
+  "artisinal:id": 18269579, 
+  "creation_date": "1829 (Bunsei 12)", 
+  "materials": "woodblock printed book illustration", 
+  "actors": [
+    {
+      "name": "Katsushika Hokusai", 
+      "after_follower": null, 
+      "death_date": "1849", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18298933, 
+      "role": "Artist", 
+      "birth_date": "1760", 
+      "nationality": null
+    }
+  ], 
+  "irn": 53449, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

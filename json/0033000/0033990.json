@@ -1,26 +1,30 @@
 {
-    "accession_number": "81.226", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1766", 
-            "death_date": "1836", 
-            "name": "Gu Haoqing", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1766-1836", 
-    "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
-    "cultures": [], 
-    "dimensions": "12 in. x 10 in.", 
-    "dynasty": "Qing dynasty", 
-    "irn": 33990, 
-    "materials": "ink and color on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Fisherman by Plum Trees"
+  "publishers": [], 
+  "dimensions": "12 in. x 10 in.", 
+  "rights": null, 
+  "credit_line": "Gift of Mrs. John H. Roberts, Jr.", 
+  "accession_number": "81.226", 
+  "title": "Fisherman by Plum Trees", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18225333, 
+  "creation_date": "1766-1836", 
+  "materials": "ink and color on paper", 
+  "actors": [
+    {
+      "name": "Gu Haoqing", 
+      "after_follower": null, 
+      "death_date": "1836", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295259, 
+      "role": "Artist", 
+      "birth_date": "1766", 
+      "nationality": null
+    }
+  ], 
+  "irn": 33990, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

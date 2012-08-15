@@ -1,34 +1,38 @@
 {
-    "accession_number": "2011.22", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1923", 
-            "death_date": "1994", 
-            "name": "Francis, Sam", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1975", 
-    "credit_line": "Gift of the Sam Francis Foundation", 
-    "cultures": [], 
-    "dimensions": "23 1/2 x 31 1/2 in. (image)\n27 1/8  x 35 1/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 71363, 
-    "materials": "lithograph on off-white wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [
-        {
-            "name": "Page, George"
-        }
-    ], 
-    "publishers": [
-        {
-            "name": "The Litho Shop, Inc."
-        }
-    ], 
-    "rights": "\u00a9 Artists Rights Society (ARS)", 
-    "title": "Untitled"
+  "publishers": [
+    {
+      "name": "The Litho Shop, Inc."
+    }
+  ], 
+  "dimensions": "23 1/2 x 31 1/2 in. (image)\n27 1/8  x 35 1/8 in. (sheet)", 
+  "rights": "\u00a9 Artists Rights Society (ARS)", 
+  "credit_line": "Gift of the Sam Francis Foundation", 
+  "accession_number": "2011.22", 
+  "title": "Untitled", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18287049, 
+  "creation_date": "1975", 
+  "materials": "lithograph on off-white wove paper", 
+  "actors": [
+    {
+      "name": "Francis, Sam", 
+      "after_follower": null, 
+      "death_date": "1994", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297273, 
+      "role": "Artist", 
+      "birth_date": "1923", 
+      "nationality": null
+    }
+  ], 
+  "irn": 71363, 
+  "printers": [
+    {
+      "name": "Page, George"
+    }
+  ], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

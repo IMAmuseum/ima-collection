@@ -1,26 +1,30 @@
 {
-    "accession_number": "73.10", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1877", 
-            "death_date": "1960", 
-            "name": "Flagg, James Montgomery", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1916", 
-    "credit_line": "Gift of the Penrod Society and the Martha Delzell Memorial Fund", 
-    "cultures": [], 
-    "dimensions": "40 x 50 in.", 
-    "dynasty": null, 
-    "irn": 35864, 
-    "materials": "oil on canvas", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Portrait of Booth Tarkington"
+  "publishers": [], 
+  "dimensions": "40 x 50 in.", 
+  "rights": null, 
+  "credit_line": "Gift of the Penrod Society and the Martha Delzell Memorial Fund", 
+  "accession_number": "73.10", 
+  "title": "Portrait of Booth Tarkington", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18229605, 
+  "creation_date": "1916", 
+  "materials": "oil on canvas", 
+  "actors": [
+    {
+      "name": "Flagg, James Montgomery", 
+      "after_follower": null, 
+      "death_date": "1960", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296123, 
+      "role": "Artist", 
+      "birth_date": "1877", 
+      "nationality": null
+    }
+  ], 
+  "irn": 35864, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

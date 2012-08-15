@@ -1,26 +1,30 @@
 {
-    "accession_number": "1998.219", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1869", 
-            "death_date": "1903", 
-            "name": "S\u00e9guin, Armand", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1893", 
-    "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 965, 
-    "materials": "etching, aquatint and roulette", 
-    "on_view": true, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Le Caf\u00e9 (The Caf\u00e9)"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Le Caf\u00e9 (The Caf\u00e9)", 
+  "accession_number": "1998.219", 
+  "credit_line": "Gift of Samuel Josefowitz in tribute to Bret Waller and Ellen Lee", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18133521, 
+  "creation_date": "1893", 
+  "materials": "etching, aquatint and roulette", 
+  "actors": [
+    {
+      "name": "S\u00e9guin, Armand", 
+      "after_follower": null, 
+      "death_date": "1903", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295281, 
+      "role": "Artist", 
+      "birth_date": "1869", 
+      "nationality": null
+    }
+  ], 
+  "irn": 965, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": true
 }

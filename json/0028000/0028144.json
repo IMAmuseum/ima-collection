@@ -1,26 +1,30 @@
 {
-    "accession_number": "25.51", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1819", 
-            "death_date": "1900", 
-            "name": "Ruskin, John", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1864", 
-    "credit_line": "Delavan Smith Bequest", 
-    "cultures": [], 
-    "dimensions": "8 3/4 x 12", 
-    "dynasty": null, 
-    "irn": 28144, 
-    "materials": "watercolor on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Bombay from Matheran Hill"
+  "publishers": [], 
+  "dimensions": "8 3/4 x 12", 
+  "rights": null, 
+  "credit_line": "Delavan Smith Bequest", 
+  "accession_number": "25.51", 
+  "title": "Bombay from Matheran Hill", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18211733, 
+  "creation_date": "1864", 
+  "materials": "watercolor on paper", 
+  "actors": [
+    {
+      "name": "Ruskin, John", 
+      "after_follower": null, 
+      "death_date": "1900", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18294805, 
+      "role": "Artist", 
+      "birth_date": "1819", 
+      "nationality": null
+    }
+  ], 
+  "irn": 28144, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

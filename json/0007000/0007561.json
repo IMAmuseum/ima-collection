@@ -1,34 +1,40 @@
 {
-    "accession_number": "73.84.90", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1798-1874", 
-            "death_date": "1798-1874", 
-            "name": "Ziegler, Henry Bryan", 
-            "nationality": null, 
-            "role": "Artist"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Haghe, Louis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1839", 
-    "credit_line": "Discretionary Fund", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 7561, 
-    "materials": "hand-colored lithograph", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Head Keeper's Lodge--on the Road from Windsor"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "Head Keeper's Lodge--on the Road from Windsor", 
+  "accession_number": "73.84.90", 
+  "credit_line": "Discretionary Fund", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18149239, 
+  "creation_date": "1839", 
+  "materials": "hand-colored lithograph", 
+  "actors": [
+    {
+      "name": "Ziegler, Henry Bryan", 
+      "after_follower": null, 
+      "death_date": "1798-1874", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297805, 
+      "role": "Artist", 
+      "birth_date": "1798-1874", 
+      "nationality": null
+    }, 
+    {
+      "name": "Haghe, Louis", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18297809, 
+      "role": "Artist", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 7561, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

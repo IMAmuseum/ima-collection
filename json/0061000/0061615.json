@@ -1,26 +1,30 @@
 {
-    "accession_number": "2004.21", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1603", 
-            "death_date": "1652", 
-            "name": "Wan Shouqi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1651", 
-    "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
-    "cultures": [], 
-    "dimensions": "11 1/2 x 389 in. (overall)", 
-    "dynasty": "Qing dynasty", 
-    "irn": 61615, 
-    "materials": "ink on paper", 
-    "on_view": false, 
-    "period": "Shunzhi", 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "The Thatched Xixi Studio"
+  "publishers": [], 
+  "dimensions": "11 1/2 x 389 in. (overall)", 
+  "rights": null, 
+  "credit_line": "Purchased to complement the Mr. and Mrs. Eli Lilly Collection of Chinese art through the bequest of Mrs. Enid Goodrich and the support of Lilly Endowment Inc.", 
+  "accession_number": "2004.21", 
+  "title": "The Thatched Xixi Studio", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": "Shunzhi", 
+  "artisinal:id": 18277021, 
+  "creation_date": "1651", 
+  "materials": "ink on paper", 
+  "actors": [
+    {
+      "name": "Wan Shouqi", 
+      "after_follower": null, 
+      "death_date": "1652", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18306023, 
+      "role": "Artist", 
+      "birth_date": "1603", 
+      "nationality": null
+    }
+  ], 
+  "irn": 61615, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Qing dynasty", 
+  "on_view": false
 }

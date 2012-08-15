@@ -1,30 +1,34 @@
 {
-    "accession_number": "2010.137", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1921", 
-            "death_date": null, 
-            "name": "Leiber, Gerson August", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1959", 
-    "credit_line": "Gift of Dr. Steven Conant", 
-    "cultures": [], 
-    "dimensions": "16 3/4 x 15 in. (image)\n21 1/2 x 18 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 68945, 
-    "materials": "etching on cream wove paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [
-        {
-            "name": "Associated American Artists"
-        }
-    ], 
-    "rights": "\u00a9 Gerson August Leiber", 
-    "title": "Stockholders' Meeting"
+  "publishers": [
+    {
+      "name": "Associated American Artists"
+    }
+  ], 
+  "dimensions": "16 3/4 x 15 in. (image)\n21 1/2 x 18 7/8 in. (sheet)", 
+  "rights": "\u00a9 Gerson August Leiber", 
+  "credit_line": "Gift of Dr. Steven Conant", 
+  "accession_number": "2010.137", 
+  "title": "Stockholders' Meeting", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18283907, 
+  "creation_date": "1959", 
+  "materials": "etching on cream wove paper", 
+  "actors": [
+    {
+      "name": "Leiber, Gerson August", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308083, 
+      "role": "Artist", 
+      "birth_date": "1921", 
+      "nationality": null
+    }
+  ], 
+  "irn": 68945, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

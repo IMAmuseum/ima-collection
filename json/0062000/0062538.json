@@ -1,26 +1,30 @@
 {
-    "accession_number": "2005.5", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1867", 
-            "death_date": "1946", 
-            "name": "Lanvin, Jeanne", 
-            "nationality": null, 
-            "role": "Designer"
-        }
-    ], 
-    "creation_date": "Winter 1922-1923", 
-    "credit_line": "Roger G. Wolcott Fund", 
-    "cultures": [], 
-    "dimensions": "L: 64 5/8 in.", 
-    "dynasty": null, 
-    "irn": 62538, 
-    "materials": "silk faille, silver lam\u00e9, silk net with silver metallic threads, silver lam\u00e9 slip", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "evening dress"
+  "publishers": [], 
+  "dimensions": "L: 64 5/8 in.", 
+  "rights": null, 
+  "credit_line": "Roger G. Wolcott Fund", 
+  "accession_number": "2005.5", 
+  "title": "evening dress", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18277703, 
+  "creation_date": "Winter 1922-1923", 
+  "materials": "silk faille, silver lam\u00e9, silk net with silver metallic threads, silver lam\u00e9 slip", 
+  "actors": [
+    {
+      "name": "Lanvin, Jeanne", 
+      "after_follower": null, 
+      "death_date": "1946", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295295, 
+      "role": "Designer", 
+      "birth_date": "1867", 
+      "nationality": null
+    }
+  ], 
+  "irn": 62538, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

@@ -1,26 +1,30 @@
 {
-    "accession_number": "1991.248", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1911", 
-            "death_date": "1994", 
-            "name": "Papart, Max", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1981", 
-    "credit_line": "Gift of Dr. and Mrs. Eugene D. Van Hove", 
-    "cultures": [], 
-    "dimensions": "23 5/8 x 31 1/4 in. (image)", 
-    "dynasty": null, 
-    "irn": 14963, 
-    "materials": "color aquatint | carborundum | carborundum", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
-    "title": "The Red Horse"
+  "publishers": [], 
+  "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 
+  "dimensions": "23 5/8 x 31 1/4 in. (image)", 
+  "title": "The Red Horse", 
+  "accession_number": "1991.248", 
+  "credit_line": "Gift of Dr. and Mrs. Eugene D. Van Hove", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18167021, 
+  "creation_date": "1981", 
+  "materials": "color aquatint | carborundum | carborundum", 
+  "actors": [
+    {
+      "name": "Papart, Max", 
+      "after_follower": null, 
+      "death_date": "1994", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295929, 
+      "role": "Artist", 
+      "birth_date": "1911", 
+      "nationality": null
+    }
+  ], 
+  "irn": 14963, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

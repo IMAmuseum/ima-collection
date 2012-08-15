@@ -1,34 +1,40 @@
 {
-    "accession_number": "2012.2", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1934", 
-            "death_date": "1991", 
-            "name": "Kuramata, Shiro", 
-            "nationality": null, 
-            "role": "Designer"
-        }, 
-        {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": "Memphis S.r.l.", 
-            "nationality": null, 
-            "role": "Manufacturer"
-        }
-    ], 
-    "creation_date": "designed 1987", 
-    "credit_line": "Mary V. Black Art Endowment Fund", 
-    "cultures": [], 
-    "dimensions": "30 1/2 x 21 (diam.) in.", 
-    "dynasty": null, 
-    "irn": 74995, 
-    "materials": "steel and glass", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "Sally table"
+  "publishers": [], 
+  "dimensions": "30 1/2 x 21 (diam.) in.", 
+  "rights": null, 
+  "credit_line": "Mary V. Black Art Endowment Fund", 
+  "accession_number": "2012.2", 
+  "title": "Sally table", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18288575, 
+  "creation_date": "designed 1987", 
+  "materials": "steel and glass", 
+  "actors": [
+    {
+      "name": "Kuramata, Shiro", 
+      "after_follower": null, 
+      "death_date": "1991", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18307311, 
+      "role": "Designer", 
+      "birth_date": "1934", 
+      "nationality": null
+    }, 
+    {
+      "name": "Memphis S.r.l.", 
+      "after_follower": null, 
+      "death_date": null, 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18308717, 
+      "role": "Manufacturer", 
+      "birth_date": null, 
+      "nationality": null
+    }
+  ], 
+  "irn": 74995, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

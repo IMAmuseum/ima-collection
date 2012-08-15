@@ -1,26 +1,30 @@
 {
-    "accession_number": "75.763", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1851", 
-            "death_date": "1927", 
-            "name": "Adams, John Ottis", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1873", 
-    "credit_line": "Gift of Mr. Edward W. Adams", 
-    "cultures": [], 
-    "dimensions": null, 
-    "dynasty": null, 
-    "irn": 1680, 
-    "materials": "charcoal on alternating off-white and gray-green paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "England Sketchbook"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": null, 
+  "title": "England Sketchbook", 
+  "accession_number": "75.763", 
+  "credit_line": "Gift of Mr. Edward W. Adams", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18135297, 
+  "creation_date": "1873", 
+  "materials": "charcoal on alternating off-white and gray-green paper", 
+  "actors": [
+    {
+      "name": "Adams, John Ottis", 
+      "after_follower": null, 
+      "death_date": "1927", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295417, 
+      "role": "Artist", 
+      "birth_date": "1851", 
+      "nationality": null
+    }
+  ], 
+  "irn": 1680, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

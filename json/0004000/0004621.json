@@ -1,26 +1,30 @@
 {
-    "accession_number": "10.251", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1881", 
-            "death_date": "1971", 
-            "name": "Baumann, Gustave", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1910", 
-    "credit_line": "Gift of Fred A. Hetherington", 
-    "cultures": [], 
-    "dimensions": "10 1/4 x 13 7/8 in. (sheet)", 
-    "dynasty": null, 
-    "irn": 4621, 
-    "materials": "color woodblock print", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": "\u00a9 Gustave Baumann", 
-    "title": "The Wagon Shop"
+  "publishers": [], 
+  "rights": "\u00a9 Gustave Baumann", 
+  "dimensions": "10 1/4 x 13 7/8 in. (sheet)", 
+  "title": "The Wagon Shop", 
+  "accession_number": "10.251", 
+  "credit_line": "Gift of Fred A. Hetherington", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18142229, 
+  "creation_date": "1910", 
+  "materials": "color woodblock print", 
+  "actors": [
+    {
+      "name": "Baumann, Gustave", 
+      "after_follower": null, 
+      "death_date": "1971", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18295839, 
+      "role": "Artist", 
+      "birth_date": "1881", 
+      "nationality": null
+    }
+  ], 
+  "irn": 4621, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": null, 
+  "on_view": false
 }

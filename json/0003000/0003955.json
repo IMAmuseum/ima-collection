@@ -1,26 +1,30 @@
 {
-    "accession_number": "67.18", 
-    "actors": [
-        {
-            "after_follower": null, 
-            "birth_date": "1863", 
-            "death_date": "1957", 
-            "name": "Qi Baishi", 
-            "nationality": null, 
-            "role": "Artist"
-        }
-    ], 
-    "creation_date": "1863-1957", 
-    "credit_line": "Gift of Dr. Alfred T. Symmes", 
-    "cultures": [], 
-    "dimensions": "91 1/4 x 19 1/2 in. (overall)", 
-    "dynasty": "Modern {Chinese period}", 
-    "irn": 3955, 
-    "materials": "ink and color on paper", 
-    "on_view": false, 
-    "period": null, 
-    "printers": [], 
-    "publishers": [], 
-    "rights": null, 
-    "title": "new growth on old tree"
+  "publishers": [], 
+  "rights": null, 
+  "dimensions": "91 1/4 x 19 1/2 in. (overall)", 
+  "title": "new growth on old tree", 
+  "accession_number": "67.18", 
+  "credit_line": "Gift of Dr. Alfred T. Symmes", 
+  "artisinal:provider": "http://www.brooklynintegers.com/", 
+  "period": null, 
+  "artisinal:id": 18140663, 
+  "creation_date": "1863-1957", 
+  "materials": "ink and color on paper", 
+  "actors": [
+    {
+      "name": "Qi Baishi", 
+      "after_follower": null, 
+      "death_date": "1957", 
+      "artisinal:provider": "http://www.brooklynintegers.com/", 
+      "artisinal:id": 18296619, 
+      "role": "Artist", 
+      "birth_date": "1863", 
+      "nationality": null
+    }
+  ], 
+  "irn": 3955, 
+  "printers": [], 
+  "cultures": [], 
+  "dynasty": "Modern {Chinese period}", 
+  "on_view": false
 }
