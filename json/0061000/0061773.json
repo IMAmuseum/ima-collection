@@ -5,6 +5,7 @@
             "after_follower": null, 
             "birth_date": "1908", 
             "death_date": "1984", 
+            "irn": 552, 
             "name": "Krasner, Lee", 
             "nationality": null, 
             "role": "Artist"
@@ -13,6 +14,7 @@
             "after_follower": null, 
             "birth_date": null, 
             "death_date": null, 
+            "irn": 2471, 
             "name": "Pratt Graphic Art Center", 
             "nationality": null, 
             "role": "Printer"
@@ -30,6 +32,7 @@
     "printers": [], 
     "publishers": [
         {
+            "irn": 2471, 
             "name": "Pratt Graphic Art Center"
         }
     ], 

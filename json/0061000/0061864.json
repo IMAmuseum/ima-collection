@@ -5,6 +5,7 @@
             "after_follower": null, 
             "birth_date": null, 
             "death_date": null, 
+            "irn": 3030, 
             "name": "John Burroughs", 
             "nationality": null, 
             "role": "Author"
@@ -22,6 +23,7 @@
     "printers": [], 
     "publishers": [
         {
+            "irn": 3015, 
             "name": "Houghton Mifflin Company"
         }
     ], 

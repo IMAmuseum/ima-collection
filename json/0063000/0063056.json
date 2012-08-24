@@ -5,6 +5,7 @@
             "after_follower": null, 
             "birth_date": "1728", 
             "death_date": "1774", 
+            "irn": 2809, 
             "name": "Oliver Goldsmith", 
             "nationality": null, 
             "role": "Author"
@@ -22,9 +23,11 @@
     "printers": [], 
     "publishers": [
         {
+            "irn": 3052, 
             "name": "Peter Cunningham, F.S.A."
         }, 
         {
+            "irn": 3034, 
             "name": "John Murray"
         }
     ], 

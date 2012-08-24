@@ -5,6 +5,7 @@
             "after_follower": null, 
             "birth_date": "1922", 
             "death_date": "2008", 
+            "irn": 626923, 
             "name": "Hartigan, Grace", 
             "nationality": null, 
             "role": "Artist"
@@ -21,14 +22,17 @@
     "period": null, 
     "printers": [
         {
+            "irn": 6260, 
             "name": "Floriano Vecchi"
         }
     ], 
     "publishers": [
         {
+            "irn": 6261, 
             "name": "Daisy Alden"
         }, 
         {
+            "irn": 6262, 
             "name": "Richard Miller"
         }
     ], 

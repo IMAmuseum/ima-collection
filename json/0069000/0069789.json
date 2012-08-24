@@ -1,17 +1,27 @@
 {
     "accession_number": "MH2010.225.2A", 
-    "actors": [], 
-    "creation_date": null, 
+    "actors": [
+        {
+            "after_follower": null, 
+            "birth_date": null, 
+            "death_date": null, 
+            "irn": 8803, 
+            "name": "Trend Pacific, Inc.", 
+            "nationality": "United States", 
+            "role": "Manufacturer"
+        }
+    ], 
+    "creation_date": "1970-1979", 
     "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
-    "dimensions": "7 1/2 x 5 1/2 x 5 1/2", 
+    "dimensions": "5 3/4 x 5 3/4 (diam.) in.", 
     "dynasty": null, 
     "irn": 69789, 
-    "materials": "plastic", 
+    "materials": "melamine", 
     "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Canister"
+    "title": "canister"
 }

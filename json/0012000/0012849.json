@@ -5,9 +5,19 @@
             "after_follower": null, 
             "birth_date": "1797", 
             "death_date": "1858", 
+            "irn": 592, 
             "name": "Utagawa Hiroshige", 
             "nationality": null, 
             "role": "Artist"
+        }, 
+        {
+            "after_follower": null, 
+            "birth_date": null, 
+            "death_date": null, 
+            "irn": 8805, 
+            "name": "Horita", 
+            "nationality": null, 
+            "role": "Engraver"
         }
     ], 
     "creation_date": "1853 (Ox 7)", 
@@ -22,6 +32,7 @@
     "printers": [], 
     "publishers": [
         {
+            "irn": 2504, 
             "name": "Koshimura-ya Heisuke"
         }
     ], 

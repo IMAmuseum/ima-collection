@@ -5,6 +5,7 @@
             "after_follower": null, 
             "birth_date": "1928", 
             "death_date": "1987", 
+            "irn": 605873, 
             "name": "Warhol, Andy", 
             "nationality": null, 
             "role": "Artist"
@@ -13,6 +14,7 @@
             "after_follower": null, 
             "birth_date": null, 
             "death_date": null, 
+            "irn": 2772, 
             "name": "Salvatore Silkscreen Co. Inc., New York", 
             "nationality": null, 
             "role": "Printer"
@@ -30,6 +32,7 @@
     "printers": [], 
     "publishers": [
         {
+            "irn": 2771, 
             "name": "Factory Editions, New York"
         }
     ], 

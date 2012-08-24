@@ -5,6 +5,7 @@
             "after_follower": null, 
             "birth_date": "1864", 
             "death_date": "1901", 
+            "irn": 628487, 
             "name": "Toulouse-Lautrec, Henri de", 
             "nationality": null, 
             "role": "Artist"
@@ -13,6 +14,7 @@
             "after_follower": null, 
             "birth_date": null, 
             "death_date": null, 
+            "irn": 3283, 
             "name": "Edward Ancourt", 
             "nationality": null, 
             "role": "Printer"
@@ -25,11 +27,12 @@
     "dynasty": null, 
     "irn": 62447, 
     "materials": "lithograph", 
-    "on_view": true, 
+    "on_view": false, 
     "period": null, 
     "printers": [], 
     "publishers": [
         {
+            "irn": 3284, 
             "name": "L'Escarmoucher"
         }
     ], 
