@@ -15,6 +15,9 @@ actors.birth_date
 actors.death_date
 ==
 
+actors.irn
+==
+
 actors.name
 ==
 
@@ -54,14 +57,21 @@ period
 printers
 ==
 
+printers.irn
+==
+
 printers.name
 ==
 
 publishers
 ==
 
+publishers.irn
+==
+
 publishers.name
 ==
+
 
 rights
 ==
