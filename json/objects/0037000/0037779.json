@@ -2,12 +2,23 @@
     "accession_number": "80.809.178", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nixon, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Nixon, John", 
+            "first": null, 
+            "fullname": "Nixon, John", 
             "irn": 1758, 
-            "name": "Nixon, John", 
+            "last": "Nixon, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37779, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "2010.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1965", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Konstantin Grcic", 
+            "first": "Konstantin", 
+            "fullname": "Konstantin Grcic", 
             "irn": 5660, 
-            "name": "Konstantin Grcic", 
+            "last": "Grcic", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "ClassiCon", 
+            "first": null, 
+            "fullname": "ClassiCon", 
             "irn": 7566, 
-            "name": "ClassiCon", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "ClassiCon", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 1/4 x 17 3/4 x 18 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67794, 
     "materials": "fabric and metal", 
     "on_view": true, 

@@ -2,21 +2,43 @@
     "accession_number": "80.158", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": "500054662"
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Meissen Porcelain Manufactory", 
+            "first": null, 
+            "fullname": "Meissen Porcelain Manufactory", 
             "irn": 651846, 
-            "name": "Meissen Porcelain Manufactory", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Meissen Porcelain Manufactory", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }, 
         {
+            "ULAN": {
+                "Name": "Johann Friedrich Eberlein", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1696", 
+            "collaboration": null, 
             "death_date": "1749", 
+            "display_name": "Johann Friedrich Eberlein", 
+            "first": "Johann", 
+            "fullname": "Johann F. Eberlein", 
             "irn": 2826, 
-            "name": "Johann Friedrich Eberlein", 
+            "last": "Eberlein", 
+            "middle": "Friedrich", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Modeler"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "15 1/4 in. (diameter)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2367, 
     "materials": "hard paste porcelain, polychrome enamels, gilding", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "82.175", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girtin, Thomas", 
+                "UlanIdNo": "500009169"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1802", 
+            "display_name": "Girtin, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Girtin", 
             "irn": 608944, 
-            "name": "Girtin, Thomas", 
+            "last": "Girtin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 x 10 3/8 in", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15098, 
     "materials": "watercolor over pencil on white wove paper", 
     "on_view": false, 

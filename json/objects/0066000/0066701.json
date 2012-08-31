@@ -2,12 +2,23 @@
     "accession_number": "2008.765", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Russell, Alfred", 
+                "UlanIdNo": "500101074"
+            }, 
             "after_follower": null, 
             "birth_date": "1920", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Russell, Alfred", 
+            "first": "Alfred", 
+            "fullname": "Alfred Russell", 
             "irn": 697472, 
-            "name": "Russell, Alfred", 
+            "last": "Russell", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,14 +27,28 @@
     "cultures": [], 
     "dimensions": "9 x 5 7/8 in. (image)\n12 x 9 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66701, 
     "materials": "engraving on cream wove paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Atelier 17", 
+            "first": null, 
+            "fullname": "Atelier 17", 
             "irn": 2701, 
-            "name": "Atelier 17"
+            "last": null, 
+            "middle": null, 
+            "organization": "Atelier 17", 
+            "party_type": "Organisation"
         }
     ], 
     "publishers": [], 

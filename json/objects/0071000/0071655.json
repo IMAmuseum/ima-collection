@@ -2,12 +2,23 @@
     "accession_number": "2011.62.2A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Zeisel, Eva", 
+                "UlanIdNo": "500092239"
+            }, 
             "after_follower": null, 
             "birth_date": "1906", 
+            "collaboration": null, 
             "death_date": "2011", 
+            "display_name": "Zeisel, Eva", 
+            "first": "Eva", 
+            "fullname": "Eva Zeisel", 
             "irn": 6678, 
-            "name": "Zeisel, Eva", 
+            "last": "Zeisel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "2 1/4 x 4 3/4 x 4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71655, 
     "materials": "ceramic", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "48.93", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lachaise, Gaston", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Lachaise, Gaston", 
+            "first": "Gaston", 
+            "fullname": "Gaston Lachaise", 
             "irn": 3259, 
-            "name": "Lachaise, Gaston", 
+            "last": "Lachaise", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 17 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20182, 
     "materials": "bronze with brass plating", 
     "on_view": true, 

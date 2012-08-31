@@ -2,12 +2,23 @@
     "accession_number": "49.58", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gourmont, Jean de", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Gourmont, Jean de", 
+            "first": null, 
+            "fullname": "Gourmont, Jean de", 
             "irn": 1249, 
-            "name": "Gourmont, Jean de", 
+            "last": "Gourmont, Jean de", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 26406, 
     "materials": "engraving", 
     "on_view": false, 

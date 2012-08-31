@@ -2,12 +2,23 @@
     "accession_number": "45.194", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "C\u00e9zanne, Paul", 
+                "UlanIdNo": "500004793"
+            }, 
             "after_follower": null, 
             "birth_date": "1839", 
+            "collaboration": null, 
             "death_date": "1906", 
+            "display_name": "C\u00e9zanne, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul C\u00e9zanne", 
             "irn": 604666, 
-            "name": "C\u00e9zanne, Paul", 
+            "last": "C\u00e9zanne", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 1/2 x 32 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9730, 
     "materials": "oil on canvas", 
     "on_view": true, 

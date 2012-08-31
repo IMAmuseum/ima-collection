@@ -2,12 +2,23 @@
     "accession_number": "13.337", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Closson, William Baxter Palmer", 
+                "UlanIdNo": "500001829"
+            }, 
             "after_follower": null, 
             "birth_date": "1848", 
+            "collaboration": null, 
             "death_date": "1926", 
+            "display_name": "Closson, William Baxter Palmer", 
+            "first": "William", 
+            "fullname": "William B. Closson", 
             "irn": 601784, 
-            "name": "Closson, William Baxter Palmer", 
+            "last": "Closson", 
+            "middle": "Baxter Palmer", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 14682, 
     "materials": "wood engraving", 
     "on_view": false, 

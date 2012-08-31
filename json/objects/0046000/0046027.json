@@ -6,6 +6,7 @@
     "cultures": [], 
     "dimensions": "4 1/2 X 7 5/8 in. (image)\n5 5/8 X 8 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46027, 
     "materials": "hand-colored etching and aquatint", 
     "on_view": false, 
@@ -13,8 +14,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Ackermann, Rudolph", 
+                "UlanIdNo": "500083656"
+            }, 
+            "birth_date": "1764", 
+            "collaboration": null, 
+            "death_date": "1834", 
+            "display_name": "Ackermann, Rudolph", 
+            "first": "Rudolph", 
+            "fullname": "Rudolph Ackermann", 
             "irn": 680227, 
-            "name": "Ackermann, Rudolph"
+            "last": "Ackermann", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "rights": null, 

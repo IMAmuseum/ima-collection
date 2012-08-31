@@ -2,12 +2,23 @@
     "accession_number": "78.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Raeburn, Henry", 
+                "UlanIdNo": "500032325"
+            }, 
             "after_follower": null, 
             "birth_date": "1756", 
+            "collaboration": null, 
             "death_date": "1823", 
+            "display_name": "Raeburn, Henry", 
+            "first": "Henry", 
+            "fullname": "Henry Raeburn", 
             "irn": 631628, 
-            "name": "Raeburn, Henry", 
+            "last": "Raeburn", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "35 3/4 x 27 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17338, 
     "materials": "oil on canvas", 
     "on_view": true, 

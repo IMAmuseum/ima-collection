@@ -2,12 +2,23 @@
     "accession_number": "30.131", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sully, Thomas", 
+                "UlanIdNo": "500006873"
+            }, 
             "after_follower": null, 
             "birth_date": "1783", 
+            "collaboration": null, 
             "death_date": "1872", 
+            "display_name": "Sully, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Sully", 
             "irn": 606697, 
-            "name": "Sully, Thomas", 
+            "last": "Sully", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "24 x 20 in.\n32 1/2 x 28 3/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30431, 
     "materials": "oil on canvas", 
     "on_view": false, 

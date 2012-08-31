@@ -2,21 +2,43 @@
     "accession_number": "2010.55", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1960", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Ferruccio Laviani", 
+            "first": "Ferruccio", 
+            "fullname": "Ferruccio Laviani", 
             "irn": 6528, 
-            "name": "Ferruccio Laviani", 
+            "last": "Laviani", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Kartell US, Inc.", 
+            "first": null, 
+            "fullname": "Kartell US, Inc.", 
             "irn": 892, 
-            "name": "Kartell US, Inc.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Kartell US, Inc.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "12 x 7 1/4 x 6 3/4 inches", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68637, 
     "materials": "polycarbonate and electrical components", 
     "on_view": false, 

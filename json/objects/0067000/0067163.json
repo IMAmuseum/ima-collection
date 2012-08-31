@@ -2,12 +2,23 @@
     "accession_number": "2009.7", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Richter, Gerhard", 
+                "UlanIdNo": "500003003"
+            }, 
             "after_follower": null, 
             "birth_date": "1932", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Richter, Gerhard", 
+            "first": "Gerhard", 
+            "fullname": "Gerhard Richter", 
             "irn": 602932, 
-            "name": "Richter, Gerhard", 
+            "last": "Richter", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "35 1/4 x 17 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67163, 
     "materials": "color offset lithograph on white wove paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Verein zur Foerderung Modernen Kunst", 
+            "first": null, 
+            "fullname": "Verein zur Foerderung Modernen Kunst", 
             "irn": 1687, 
-            "name": "Verein zur Foerderung Modernen Kunst"
+            "last": null, 
+            "middle": null, 
+            "organization": "Verein zur Foerderung Modernen Kunst", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Gerhard Richter", 

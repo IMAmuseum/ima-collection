@@ -2,12 +2,23 @@
     "accession_number": "49.52", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rox, Henry", 
+                "UlanIdNo": "500042096"
+            }, 
             "after_follower": null, 
             "birth_date": "1899", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Rox, Henry", 
+            "first": "Henry", 
+            "fullname": "Henry Rox", 
             "irn": 641225, 
-            "name": "Rox, Henry", 
+            "last": "Rox", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 14 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 18316, 
     "materials": null, 
     "on_view": false, 

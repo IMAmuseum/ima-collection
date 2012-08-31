@@ -2,12 +2,23 @@
     "accession_number": "S5112.83.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Degas, Edgar", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1834", 
+            "collaboration": null, 
             "death_date": "1917", 
+            "display_name": "Degas, Edgar", 
+            "first": null, 
+            "fullname": "Degas, Edgar", 
             "irn": 885, 
-            "name": "Degas, Edgar", 
+            "last": "Degas, Edgar", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 6981, 
     "materials": "etching", 
     "on_view": false, 

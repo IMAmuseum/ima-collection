@@ -2,21 +2,43 @@
     "accession_number": "80.1602.23", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Reinagle, Ramsay Richard", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1862", 
+            "display_name": "Reinagle, Ramsay Richard", 
+            "first": null, 
+            "fullname": "Reinagle, Ramsay Richard", 
             "irn": 1765, 
-            "name": "Reinagle, Ramsay Richard", 
+            "last": "Reinagle, Ramsay Richard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 41117, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

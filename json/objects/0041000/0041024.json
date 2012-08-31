@@ -2,21 +2,43 @@
     "accession_number": "80.1599.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Forrest, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1805", 
+            "collaboration": null, 
             "death_date": "1889", 
+            "display_name": "Forrest, William", 
+            "first": null, 
+            "fullname": "Forrest, William", 
             "irn": 1902, 
-            "name": "Forrest, William", 
+            "last": "Forrest, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 41024, 
     "materials": "engraving on plain paper with hand-coloring", 
     "on_view": false, 

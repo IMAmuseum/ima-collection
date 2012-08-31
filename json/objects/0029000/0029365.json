@@ -2,12 +2,23 @@
     "accession_number": "09.147", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1682", 
+            "collaboration": null, 
             "death_date": "1746", 
+            "display_name": "Claude d. Bosc", 
+            "first": "Claude", 
+            "fullname": "Claude d. Bosc", 
             "irn": 6437, 
-            "name": "Claude d. Bosc", 
+            "last": "Bosc", 
+            "middle": "du", 
             "nationality": "French", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 29365, 
     "materials": "engraving", 
     "on_view": false, 

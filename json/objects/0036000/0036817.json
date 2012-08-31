@@ -2,12 +2,23 @@
     "accession_number": "09.215", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Reading, Burnet", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Reading, Burnet", 
+            "first": null, 
+            "fullname": "Reading, Burnet", 
             "irn": 1052, 
-            "name": "Reading, Burnet", 
+            "last": "Reading, Burnet", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 36817, 
     "materials": "engraving", 
     "on_view": false, 

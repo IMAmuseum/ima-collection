@@ -2,12 +2,23 @@
     "accession_number": "74.161", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Piranesi, Giovanni Battista", 
+                "UlanIdNo": "500114965"
+            }, 
             "after_follower": null, 
             "birth_date": "1720", 
+            "collaboration": null, 
             "death_date": "1778", 
+            "display_name": "Piranesi, Giovanni Battista", 
+            "first": "Giovanni", 
+            "fullname": "Giovanni B. Piranesi", 
             "irn": 709969, 
-            "name": "Piranesi, Giovanni Battista", 
+            "last": "Piranesi", 
+            "middle": "Battista", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "19 3/4 x 25 1/4 in (plate) \n22 x 28 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11620, 
     "materials": "etching", 
     "on_view": false, 

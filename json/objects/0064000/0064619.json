@@ -2,21 +2,43 @@
     "accession_number": "2009.378", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1971", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Mathias Bengtsson", 
+            "first": "Mathias", 
+            "fullname": "Mathias Bengtsson", 
             "irn": 5677, 
-            "name": "Mathias Bengtsson", 
+            "last": "Bengtsson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bengtsson Design, Ltd.", 
+            "first": null, 
+            "fullname": "Bengtsson Design, Ltd.", 
             "irn": 6726, 
-            "name": "Bengtsson Design, Ltd.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Bengtsson Design, Ltd.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "29 1/2 \u00d7 35 1/8 \u00d7 26 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64619, 
     "materials": "aluminum", 
     "on_view": false, 

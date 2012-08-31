@@ -2,12 +2,23 @@
     "accession_number": "2002.43", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1930", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "John Goodyear", 
+            "first": "John", 
+            "fullname": "John Goodyear", 
             "irn": 6467, 
-            "name": "John Goodyear", 
+            "last": "Goodyear", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 57596, 
     "materials": "screenprint printed recto and verso on two sides of black vinyl", 
     "on_view": false, 

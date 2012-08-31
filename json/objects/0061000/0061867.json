@@ -2,12 +2,23 @@
     "accession_number": "LH2003.49A-G", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Lord Byron", 
+            "first": "Lord", 
+            "fullname": "Lord Byron", 
             "irn": 3033, 
-            "name": "Lord Byron", 
+            "last": "Byron", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/4 x 5 1/2 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61867, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "John Murray", 
+            "first": "John", 
+            "fullname": "John Murray", 
             "irn": 3034, 
-            "name": "John Murray"
+            "last": "Murray", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

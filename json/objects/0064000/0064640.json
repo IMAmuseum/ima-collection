@@ -2,21 +2,43 @@
     "accession_number": "2009.400", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": "Bouroullec Brothers", 
             "death_date": null, 
+            "display_name": "Bouroullec Brothers", 
+            "first": null, 
+            "fullname": "Bouroullec Brothers", 
             "irn": 5665, 
-            "name": "Bouroullec Brothers", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Collaboration", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Cappellini Design SpA", 
+            "first": null, 
+            "fullname": "Cappellini Design SpA", 
             "irn": 1416, 
-            "name": "Cappellini Design SpA", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Cappellini Design SpA", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "41 \u00d7 73 \u00d7 15 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64640, 
     "materials": "polyethylene", 
     "on_view": false, 

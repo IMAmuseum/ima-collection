@@ -2,21 +2,43 @@
     "accession_number": "1989.29", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Albers, Anni", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1899", 
+            "collaboration": null, 
             "death_date": "1994", 
+            "display_name": "Albers, Anni", 
+            "first": null, 
+            "fullname": "Albers, Anni", 
             "irn": 1265, 
-            "name": "Albers, Anni", 
+            "last": "Albers, Anni", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Aris Koutroulis", 
+            "first": "Aris", 
+            "fullname": "Aris Koutroulis", 
             "irn": 5018, 
-            "name": "Aris Koutroulis", 
+            "last": "Koutroulis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 846, 
     "materials": "lithograph | Line Involvements", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Tamarind Lithography Workshop, Inc.", 
+            "first": null, 
+            "fullname": "Tamarind Lithography Workshop, Inc.", 
             "irn": 5014, 
-            "name": "Tamarind Lithography Workshop, Inc."
+            "last": "Tamarind Lithography Workshop, Inc.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York", 

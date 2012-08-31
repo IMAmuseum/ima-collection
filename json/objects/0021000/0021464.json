@@ -2,12 +2,23 @@
     "accession_number": "72.90.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bye, Marcus de", 
+                "UlanIdNo": "500030908"
+            }, 
             "after_follower": null, 
             "birth_date": "1639", 
+            "collaboration": null, 
             "death_date": "1698", 
+            "display_name": "Bye, Marcus de", 
+            "first": "Marcus", 
+            "fullname": "Marcus d. Bye", 
             "irn": 630246, 
-            "name": "Bye, Marcus de", 
+            "last": "Bye", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 21464, 
     "materials": "etching", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "C10078B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vall, Pere", 
+                "UlanIdNo": "500037311"
+            }, 
             "after_follower": null, 
             "birth_date": "1380", 
+            "collaboration": null, 
             "death_date": "1480", 
+            "display_name": "Vall, Pere", 
+            "first": "Pere", 
+            "fullname": "Pere Vall", 
             "irn": 636503, 
-            "name": "Vall, Pere", 
+            "last": "Vall", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "35 1/2 x 26 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16419, 
     "materials": "tempera and gold on wood", 
     "on_view": true, 

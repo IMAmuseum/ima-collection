@@ -2,21 +2,43 @@
     "accession_number": "2010.61D", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Meier, Richard", 
+                "UlanIdNo": "500031375"
+            }, 
             "after_follower": null, 
             "birth_date": "1934", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Meier, Richard", 
+            "first": "Richard", 
+            "fullname": "Richard Meier", 
             "irn": 630700, 
-            "name": "Meier, Richard", 
+            "last": "Meier", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Reed & Barton", 
+            "first": null, 
+            "fullname": "Reed & Barton", 
             "irn": 1122, 
-            "name": "Reed & Barton", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Reed & Barton", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "L: 8 11/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68681, 
     "materials": "stainless steel", 
     "on_view": false, 

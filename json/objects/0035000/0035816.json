@@ -2,12 +2,23 @@
     "accession_number": "C10067", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Robert, Hubert", 
+                "UlanIdNo": "500009558"
+            }, 
             "after_follower": null, 
             "birth_date": "1733", 
+            "collaboration": null, 
             "death_date": "1808", 
+            "display_name": "Robert, Hubert", 
+            "first": "Hubert", 
+            "fullname": "Hubert Robert", 
             "irn": 609327, 
-            "name": "Robert, Hubert", 
+            "last": "Robert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/2 x 12 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35816, 
     "materials": "conte pencil on paper", 
     "on_view": false, 

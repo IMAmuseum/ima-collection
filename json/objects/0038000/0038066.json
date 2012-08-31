@@ -2,12 +2,23 @@
     "accession_number": "80.828", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Storer, James", 
+                "UlanIdNo": "500030751"
+            }, 
             "after_follower": null, 
             "birth_date": "1771", 
+            "collaboration": null, 
             "death_date": "1852", 
+            "display_name": "Storer, James", 
+            "first": "James", 
+            "fullname": "James Storer", 
             "irn": 630093, 
-            "name": "Storer, James", 
+            "last": "Storer", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "3 15/16 x 6 1/16 in (image) \n5 5/16 x 8 5/8 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 38066, 
     "materials": "engraving", 
     "on_view": false, 

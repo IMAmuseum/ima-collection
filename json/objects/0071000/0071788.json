@@ -2,12 +2,23 @@
     "accession_number": "2011.130", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dalou, Jules", 
+                "UlanIdNo": "500115274"
+            }, 
             "after_follower": null, 
             "birth_date": "1838", 
+            "collaboration": null, 
             "death_date": "1902", 
+            "display_name": "Dalou, Jules", 
+            "first": "Jules", 
+            "fullname": "Jules Dalou", 
             "irn": 710189, 
-            "name": "Dalou, Jules", 
+            "last": "Dalou", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 x 11 1/2 x 7 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71788, 
     "materials": "bronze", 
     "on_view": true, 

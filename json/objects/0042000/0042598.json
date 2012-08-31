@@ -2,21 +2,43 @@
     "accession_number": "80.751.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Clint, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1770", 
+            "collaboration": null, 
             "death_date": "1854", 
+            "display_name": "Clint, George", 
+            "first": null, 
+            "fullname": "Clint, George", 
             "irn": 386, 
-            "name": "Clint, George", 
+            "last": "Clint, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42598, 
     "materials": "mezzotint over etching", 
     "on_view": false, 

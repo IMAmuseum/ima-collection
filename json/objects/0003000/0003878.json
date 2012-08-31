@@ -2,21 +2,43 @@
     "accession_number": "1993.224A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Josiah Wedgwood and Sons, Ltd.", 
+            "first": null, 
+            "fullname": "Josiah Wedgwood and Sons, Ltd.", 
             "irn": 995, 
-            "name": "Josiah Wedgwood and Sons, Ltd.", 
+            "last": null, 
+            "middle": null, 
             "nationality": "English", 
+            "organization": "Josiah Wedgwood and Sons, Ltd.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }, 
         {
+            "ULAN": {
+                "Name": "Flaxman, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1755", 
+            "collaboration": null, 
             "death_date": "1826", 
+            "display_name": "Flaxman, John", 
+            "first": "John", 
+            "fullname": "John Flaxman", 
             "irn": 740, 
-            "name": "Flaxman, John", 
+            "last": "Flaxman", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Modeler"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "13 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 3878, 
     "materials": "stoneware", 
     "on_view": true, 

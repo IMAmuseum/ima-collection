@@ -2,12 +2,23 @@
     "accession_number": "LH2003.5A-L", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Maria Edgeworth", 
+            "first": "Maria", 
+            "fullname": "Maria Edgeworth", 
             "irn": 2969, 
-            "name": "Maria Edgeworth", 
+            "last": "Edgeworth", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 x 5 3/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61823, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Croscup & Sterling Co.", 
+            "first": null, 
+            "fullname": "Croscup & Sterling Co.", 
             "irn": 2970, 
-            "name": "Croscup & Sterling Co."
+            "last": "Croscup & Sterling Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

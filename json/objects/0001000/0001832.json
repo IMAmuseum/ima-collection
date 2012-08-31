@@ -2,12 +2,23 @@
     "accession_number": "79.1118", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Carlsen, Emil", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Carlsen, Emil", 
+            "first": null, 
+            "fullname": "Carlsen, Emil", 
             "irn": 2371, 
-            "name": "Carlsen, Emil", 
+            "last": "Carlsen, Emil", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 1832, 
     "materials": "ink", 
     "on_view": false, 

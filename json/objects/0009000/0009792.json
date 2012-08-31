@@ -2,12 +2,23 @@
     "accession_number": "27.21", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sartain, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1843-1924", 
+            "collaboration": null, 
             "death_date": "1843-1924", 
+            "display_name": "Sartain, William", 
+            "first": null, 
+            "fullname": "Sartain, William", 
             "irn": 2179, 
-            "name": "Sartain, William", 
+            "last": "Sartain, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 9792, 
     "materials": "engraving", 
     "on_view": false, 

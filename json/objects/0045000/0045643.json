@@ -2,12 +2,23 @@
     "accession_number": "13.492", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "D\u00fcrer, Albrecht", 
+                "UlanIdNo": "500115493"
+            }, 
             "after_follower": null, 
             "birth_date": "1471", 
+            "collaboration": null, 
             "death_date": "1528", 
+            "display_name": "D\u00fcrer, Albrecht", 
+            "first": "Albrecht", 
+            "fullname": "Albrecht D\u00fcrer", 
             "irn": 710394, 
-            "name": "D\u00fcrer, Albrecht", 
+            "last": "D\u00fcrer", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45643, 
     "materials": "wood engraving", 
     "on_view": false, 

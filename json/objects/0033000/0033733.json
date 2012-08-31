@@ -2,12 +2,23 @@
     "accession_number": "1984.82A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Givenchy, Hubert de", 
+                "UlanIdNo": "500004811"
+            }, 
             "after_follower": null, 
             "birth_date": "1927", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Givenchy, Hubert de", 
+            "first": "Hubert", 
+            "fullname": "Hubert d. Givenchy", 
             "irn": 604684, 
-            "name": "Givenchy, Hubert de", 
+            "last": "Givenchy", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "L: 41 3/4 in. (dress)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 33733, 
     "materials": "silk crepe de chine", 
     "on_view": false, 

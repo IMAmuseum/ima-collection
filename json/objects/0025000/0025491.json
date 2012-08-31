@@ -6,6 +6,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 25491, 
     "materials": "etching", 
     "on_view": false, 
@@ -13,8 +14,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Cadart, Alfred", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1828", 
+            "collaboration": null, 
+            "death_date": "1875", 
+            "display_name": "Cadart, Alfred", 
+            "first": null, 
+            "fullname": "Cadart, Alfred", 
             "irn": 2087, 
-            "name": "Cadart, Alfred"
+            "last": "Cadart, Alfred", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

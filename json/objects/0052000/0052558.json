@@ -2,12 +2,23 @@
     "accession_number": "45.202", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Chambellan, Rene Paul", 
+                "UlanIdNo": "500052983"
+            }, 
             "after_follower": null, 
             "birth_date": "1893", 
+            "collaboration": null, 
             "death_date": "1955", 
+            "display_name": "Chambellan, Rene Paul", 
+            "first": "Rene", 
+            "fullname": "Rene P. Chambellan", 
             "irn": 650431, 
-            "name": "Chambellan, Rene Paul", 
+            "last": "Chambellan", 
+            "middle": "Paul", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 52558, 
     "materials": null, 
     "on_view": false, 

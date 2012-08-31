@@ -2,12 +2,23 @@
     "accession_number": "1999.91", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pechstein, Max", 
+                "UlanIdNo": "500032015"
+            }, 
             "after_follower": null, 
             "birth_date": "1881", 
+            "collaboration": null, 
             "death_date": "1955", 
+            "display_name": "Pechstein, Max", 
+            "first": "Max", 
+            "fullname": "Max Pechstein", 
             "irn": 631327, 
-            "name": "Pechstein, Max", 
+            "last": "Pechstein", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16202, 
     "materials": "color woodblock print", 
     "on_view": false, 

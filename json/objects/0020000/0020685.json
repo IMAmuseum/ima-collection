@@ -2,12 +2,23 @@
     "accession_number": "81.396", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1951", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "John E. Thomas", 
+            "first": "John", 
+            "fullname": "John E. Thomas", 
             "irn": 6086, 
-            "name": "John E. Thomas", 
+            "last": "Thomas", 
+            "middle": "E.", 
             "nationality": "American", 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "80 x 80 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20685, 
     "materials": "acrylic on canvas", 
     "on_view": false, 

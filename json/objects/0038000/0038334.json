@@ -2,21 +2,43 @@
     "accession_number": "80.891.31", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Collins, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1788", 
+            "collaboration": null, 
             "death_date": "1847", 
+            "display_name": "Collins, William", 
+            "first": null, 
+            "fullname": "Collins, William", 
             "irn": 1811, 
-            "name": "Collins, William", 
+            "last": "Collins, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38334, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

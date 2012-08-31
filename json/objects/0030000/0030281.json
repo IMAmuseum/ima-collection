@@ -2,12 +2,23 @@
     "accession_number": "30.48", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ryder, Chauncey Foster", 
+                "UlanIdNo": "500021744"
+            }, 
             "after_follower": null, 
             "birth_date": "1868", 
+            "collaboration": null, 
             "death_date": "1949", 
+            "display_name": "Ryder, Chauncey Foster", 
+            "first": "Chauncey", 
+            "fullname": "Chauncey F. Ryder", 
             "irn": 621279, 
-            "name": "Ryder, Chauncey Foster", 
+            "last": "Ryder", 
+            "middle": "Foster", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "44 1/2 x 60 in.\n52 x 67 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30281, 
     "materials": "oil on canvas", 
     "on_view": false, 

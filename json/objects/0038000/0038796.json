@@ -2,21 +2,43 @@
     "accession_number": "80.979.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Williams, Hugh William (Grecian Williams)", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1773", 
+            "collaboration": null, 
             "death_date": "1829", 
+            "display_name": "Williams, Hugh William (Grecian Williams)", 
+            "first": null, 
+            "fullname": "Williams, Hugh William (Grecian Williams)", 
             "irn": 1842, 
-            "name": "Williams, Hugh William (Grecian Williams)", 
+            "last": "Williams, Hugh William (Grecian Williams)", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1787", 
+            "collaboration": null, 
             "death_date": "1852", 
+            "display_name": "Finden, William", 
+            "first": null, 
+            "fullname": "Finden, William", 
             "irn": 1843, 
-            "name": "Finden, William", 
+            "last": "Finden, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38796, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

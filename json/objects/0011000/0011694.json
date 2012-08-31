@@ -2,12 +2,23 @@
     "accession_number": "09.116", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Le Bas, Jacques Philippe", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1707", 
+            "collaboration": null, 
             "death_date": "1783", 
+            "display_name": "Le Bas, Jacques Philippe", 
+            "first": null, 
+            "fullname": "Le Bas, Jacques Philippe", 
             "irn": 1078, 
-            "name": "Le Bas, Jacques Philippe", 
+            "last": "Le Bas, Jacques Philippe", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 11694, 
     "materials": "engraving", 
     "on_view": false, 

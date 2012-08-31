@@ -2,12 +2,23 @@
     "accession_number": "67.24", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cassatt, Mary", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1845", 
+            "collaboration": null, 
             "death_date": "1926", 
+            "display_name": "Cassatt, Mary", 
+            "first": null, 
+            "fullname": "Cassatt, Mary", 
             "irn": 1643, 
-            "name": "Cassatt, Mary", 
+            "last": "Cassatt, Mary", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 5/8 x 22 1/8 in.\n25 x 29 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30010, 
     "materials": "Pastel On Paper Mounted On Canvas", 
     "on_view": false, 

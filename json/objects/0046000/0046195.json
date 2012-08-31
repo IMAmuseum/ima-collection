@@ -2,12 +2,23 @@
     "accession_number": "1993.98", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hartigan, Grace", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1922", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hartigan, Grace", 
+            "first": null, 
+            "fullname": "Hartigan, Grace", 
             "irn": 3399, 
-            "name": "Hartigan, Grace", 
+            "last": "Hartigan, Grace", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "23 1/2 x 20 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46195, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Universal Limited Art Editions", 
+            "first": null, 
+            "fullname": "Universal Limited Art Editions", 
             "irn": 2186, 
-            "name": "Universal Limited Art Editions"
+            "last": "Universal Limited Art Editions", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Estate of Grace Hartigan", 

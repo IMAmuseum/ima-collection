@@ -2,12 +2,23 @@
     "accession_number": "27.15", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Peploe, Samuel John", 
+                "UlanIdNo": "500017759"
+            }, 
             "after_follower": null, 
             "birth_date": "1871", 
+            "collaboration": null, 
             "death_date": "1935", 
+            "display_name": "Peploe, Samuel John", 
+            "first": "Samuel", 
+            "fullname": "Samuel J. Peploe", 
             "irn": 617360, 
-            "name": "Peploe, Samuel John", 
+            "last": "Peploe", 
+            "middle": "John", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 x 16", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15952, 
     "materials": "oil on canvas", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "2002.44", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1920", 
+            "collaboration": null, 
             "death_date": "2011", 
+            "display_name": "Arthur Deshaies", 
+            "first": "Arthur", 
+            "fullname": "Arthur Deshaies", 
             "irn": 325, 
-            "name": "Arthur Deshaies", 
+            "last": "Deshaies", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 57597, 
     "materials": "lucite engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Pratt Graphic Art Center", 
+            "first": null, 
+            "fullname": "Pratt Graphic Art Center", 
             "irn": 2471, 
-            "name": "Pratt Graphic Art Center"
+            "last": "Pratt Graphic Art Center", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Arthur Deshaies", 

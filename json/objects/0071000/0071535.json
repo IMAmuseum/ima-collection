@@ -2,12 +2,23 @@
     "accession_number": "2011.91", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cameron, David Young", 
+                "UlanIdNo": "500007560"
+            }, 
             "after_follower": null, 
             "birth_date": "1865", 
+            "collaboration": null, 
             "death_date": "1945", 
+            "display_name": "Cameron, David Young", 
+            "first": "David", 
+            "fullname": "David Y. Cameron", 
             "irn": 607372, 
-            "name": "Cameron, David Young", 
+            "last": "Cameron", 
+            "middle": "Young", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 1/8 x 10 in. (image)\n6 5/8 x 10 3/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71535, 
     "materials": "etching on off-white wove paper", 
     "on_view": false, 

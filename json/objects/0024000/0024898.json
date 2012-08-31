@@ -2,12 +2,23 @@
     "accession_number": "32.136", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Matisse, Henri", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1869", 
+            "collaboration": null, 
             "death_date": "1954", 
+            "display_name": "Matisse, Henri", 
+            "first": "Henri", 
+            "fullname": "Henri Matisse", 
             "irn": 1263, 
-            "name": "Matisse, Henri", 
+            "last": "Matisse", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 5/8 x 12 15/16 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 24898, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "La Galerie d\u0092Art  Contemporain de Paris", 
+            "first": null, 
+            "fullname": "La Galerie d\u0092Art  Contemporain de Paris", 
             "irn": 6719, 
-            "name": "La Galerie d\u0092Art  Contemporain de Paris"
+            "last": null, 
+            "middle": null, 
+            "organization": "La Galerie d\u0092Art  Contemporain de Paris", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

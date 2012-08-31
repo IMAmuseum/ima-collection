@@ -2,12 +2,23 @@
     "accession_number": "17.144", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Kuniyoshi", 
+                "UlanIdNo": "500063102"
+            }, 
             "after_follower": null, 
             "birth_date": "1797", 
+            "collaboration": null, 
             "death_date": "1861", 
+            "display_name": "Utagawa Kuniyoshi", 
+            "first": null, 
+            "fullname": "Utagawa Kuniyoshi", 
             "irn": 659879, 
-            "name": "Utagawa Kuniyoshi", 
+            "last": "Utagawa Kuniyoshi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/8 x 13 5/8 in. (image)\n9 13/16 x 14 3/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 50251, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Wakasa-ya Yoichi", 
+            "first": null, 
+            "fullname": "Wakasa-ya Yoichi", 
             "irn": 2503, 
-            "name": "Wakasa-ya Yoichi"
+            "last": "Wakasa-ya Yoichi", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

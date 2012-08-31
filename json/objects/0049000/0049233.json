@@ -2,12 +2,23 @@
     "accession_number": "12.32", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Barnard, George Grey", 
+                "UlanIdNo": "500000396"
+            }, 
             "after_follower": null, 
             "birth_date": "1863", 
+            "collaboration": null, 
             "death_date": "1938", 
+            "display_name": "Barnard, George Grey", 
+            "first": "George", 
+            "fullname": "George G. Barnard", 
             "irn": 600388, 
-            "name": "Barnard, George Grey", 
+            "last": "Barnard", 
+            "middle": "Grey", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 49233, 
     "materials": "Plaster Cast", 
     "on_view": false, 

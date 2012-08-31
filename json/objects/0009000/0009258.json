@@ -2,12 +2,23 @@
     "accession_number": "73.2.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lepautre, Jean", 
+                "UlanIdNo": "500000036"
+            }, 
             "after_follower": null, 
             "birth_date": "1618", 
+            "collaboration": null, 
             "death_date": "1682", 
+            "display_name": "Lepautre, Jean", 
+            "first": "Jean", 
+            "fullname": "Jean Lepautre", 
             "irn": 600034, 
-            "name": "Lepautre, Jean", 
+            "last": "Lepautre", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 5/8 X 5 7/8 in. (image)\n10 5/8 X 7 1/4 in.(sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9258, 
     "materials": "engraving", 
     "on_view": false, 

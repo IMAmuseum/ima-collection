@@ -2,12 +2,23 @@
     "accession_number": "73.2.132", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sheraton, Thomas", 
+                "UlanIdNo": "500029257"
+            }, 
             "after_follower": null, 
             "birth_date": "1751", 
+            "collaboration": null, 
             "death_date": "1806", 
+            "display_name": "Sheraton, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Sheraton", 
             "irn": 628629, 
-            "name": "Sheraton, Thomas", 
+            "last": "Sheraton", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 X 7 1/2 in. (image)\n10 3/8 X 8 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46015, 
     "materials": "engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Sheraton, Thomas", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1751-1806", 
+            "collaboration": null, 
+            "death_date": "1751-1806", 
+            "display_name": "Sheraton, Thomas", 
+            "first": null, 
+            "fullname": "Sheraton, Thomas", 
             "irn": 2165, 
-            "name": "Sheraton, Thomas"
+            "last": "Sheraton, Thomas", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

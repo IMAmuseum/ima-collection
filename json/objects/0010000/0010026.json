@@ -2,12 +2,23 @@
     "accession_number": "81.798", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cage, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1912", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Cage, John", 
+            "first": null, 
+            "fullname": "Cage, John", 
             "irn": 1981, 
-            "name": "Cage, John", 
+            "last": "Cage, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "27 1/2 x 40 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 10026, 
     "materials": "color lithograph", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Erwin Hollander", 
+            "first": "Erwin", 
+            "fullname": "Erwin Hollander", 
             "irn": 6410, 
-            "name": "Erwin Hollander"
+            "last": "Hollander", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Eye Editions", 
+            "first": null, 
+            "fullname": "Eye Editions", 
             "irn": 1396, 
-            "name": "Eye Editions"
+            "last": null, 
+            "middle": null, 
+            "organization": "Eye Editions", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 John Cage Trust", 

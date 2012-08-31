@@ -2,12 +2,23 @@
     "accession_number": "09.44", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Schenck, Pieter", 
+                "UlanIdNo": "500008827"
+            }, 
             "after_follower": null, 
             "birth_date": "1660", 
+            "collaboration": null, 
             "death_date": "1719", 
+            "display_name": "Schenck, Pieter", 
+            "first": "Pieter", 
+            "fullname": "Pieter Schenck", 
             "irn": 608610, 
-            "name": "Schenck, Pieter", 
+            "last": "Schenck", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 15316, 
     "materials": "engraving", 
     "on_view": false, 

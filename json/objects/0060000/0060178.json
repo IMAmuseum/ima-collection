@@ -2,21 +2,43 @@
     "accession_number": "2002.196", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sonia Gechtoff", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1926", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Sonia Gechtoff", 
+            "first": null, 
+            "fullname": "Sonia Gechtoff", 
             "irn": 2476, 
-            "name": "Sonia Gechtoff", 
+            "last": "Sonia Gechtoff", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hudson River Editions", 
+            "first": null, 
+            "fullname": "Hudson River Editions", 
             "irn": 2477, 
-            "name": "Hudson River Editions", 
+            "last": "Hudson River Editions", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 60178, 
     "materials": "color soft-ground etching", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Gruenebaum Graphics, Ltd., New York", 
+            "first": null, 
+            "fullname": "Gruenebaum Graphics, Ltd., New York", 
             "irn": 2478, 
-            "name": "Gruenebaum Graphics, Ltd., New York"
+            "last": "Gruenebaum Graphics, Ltd., New York", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

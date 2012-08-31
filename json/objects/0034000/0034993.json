@@ -2,12 +2,23 @@
     "accession_number": "29.166", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Peale, Rembrandt", 
+                "UlanIdNo": "500019719"
+            }, 
             "after_follower": null, 
             "birth_date": "1778", 
+            "collaboration": null, 
             "death_date": "1860", 
+            "display_name": "Peale, Rembrandt", 
+            "first": "Rembrandt", 
+            "fullname": "Rembrandt Peale", 
             "irn": 619289, 
-            "name": "Peale, Rembrandt", 
+            "last": "Peale", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "27 1/2 x 22 1/2 in.\n35 x 29 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34993, 
     "materials": "oil on canvas", 
     "on_view": false, 

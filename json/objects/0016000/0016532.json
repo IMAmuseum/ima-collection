@@ -2,12 +2,23 @@
     "accession_number": "1990.92", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1866", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Martin Petersen", 
+            "first": "Martin", 
+            "fullname": "Martin Petersen", 
             "irn": 8557, 
-            "name": "Martin Petersen", 
+            "last": "Petersen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 7/8 x 10 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16532, 
     "materials": "etching", 
     "on_view": true, 

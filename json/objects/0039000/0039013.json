@@ -2,21 +2,43 @@
     "accession_number": "80.1107", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "William R. Smith", 
+            "first": "William", 
+            "fullname": "William R. Smith", 
             "irn": 6114, 
-            "name": "William R. Smith", 
+            "last": "Smith", 
+            "middle": "Raymond", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "6 1/2 x 9 7/8 in. (image)\n17 1/16 x 23 1/2 in. (sheet)\n9 7/8 x 12 7/8 in. (plate)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 39013, 
     "materials": "engraving on copper, India paper, chine coll\u00e9", 
     "on_view": false, 

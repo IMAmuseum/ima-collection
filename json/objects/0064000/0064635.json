@@ -2,21 +2,43 @@
     "accession_number": "2009.357", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1968", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tord Boontje", 
+            "first": "Tord", 
+            "fullname": "Tord Boontje", 
             "irn": 5658, 
-            "name": "Tord Boontje", 
+            "last": "Boontje", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Artecnica", 
+            "first": null, 
+            "fullname": "Artecnica", 
             "irn": 6361, 
-            "name": "Artecnica", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Artecnica", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 \u00d7 5 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64635, 
     "materials": "silver", 
     "on_view": false, 

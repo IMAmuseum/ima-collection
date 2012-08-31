@@ -2,12 +2,23 @@
     "accession_number": "78.227", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Hiroshige", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1797", 
+            "collaboration": null, 
             "death_date": "1858", 
+            "display_name": "Utagawa Hiroshige", 
+            "first": null, 
+            "fullname": "Utagawa Hiroshige", 
             "irn": 592, 
-            "name": "Utagawa Hiroshige", 
+            "last": "Utagawa Hiroshige", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 31182, 
     "materials": "color woodcut", 
     "on_view": false, 
@@ -23,12 +35,38 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Tsuta-ya Kichizo", 
+            "first": null, 
+            "fullname": "Tsuta-ya Kichizo", 
             "irn": 2516, 
-            "name": "Tsuta-ya Kichizo"
+            "last": "Tsuta-ya Kichizo", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "K^oeid^o", 
+            "first": null, 
+            "fullname": "K^oeid^o", 
             "irn": 2517, 
-            "name": "K^oeid^o"
+            "last": "K^oeid^o", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

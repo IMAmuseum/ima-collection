@@ -2,12 +2,23 @@
     "accession_number": "09.175", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Knorr, Georg David Salomon", 
+                "UlanIdNo": "500094614"
+            }, 
             "after_follower": null, 
             "birth_date": "1844", 
+            "collaboration": null, 
             "death_date": "1916", 
+            "display_name": "Knorr, Georg David Salomon", 
+            "first": "Georg", 
+            "fullname": "Georg D. Knorr", 
             "irn": 691073, 
-            "name": "Knorr, Georg David Salomon", 
+            "last": "Knorr", 
+            "middle": "David Salomon", 
             "nationality": "German", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 7311, 
     "materials": "etching", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "29.174", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gilpin, William", 
+                "UlanIdNo": "500033044"
+            }, 
             "after_follower": null, 
             "birth_date": "1724", 
+            "collaboration": null, 
             "death_date": "1804", 
+            "display_name": "Gilpin, William", 
+            "first": "William", 
+            "fullname": "William Gilpin", 
             "irn": 632328, 
-            "name": "Gilpin, William", 
+            "last": "Gilpin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 11/16 x 14 3/8 in", 
     "dynasty": null, 
+    "images": [], 
     "irn": 37097, 
     "materials": "gray ink washes strengthened with pen and ink on off-white paper prepared with a light sepia wash", 
     "on_view": false, 

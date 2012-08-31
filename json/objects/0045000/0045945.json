@@ -2,12 +2,23 @@
     "accession_number": "73.2.53", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lalonde, Richard de", 
+                "UlanIdNo": "500004250"
+            }, 
             "after_follower": null, 
             "birth_date": "1740", 
+            "collaboration": null, 
             "death_date": "1830", 
+            "display_name": "Lalonde, Richard de", 
+            "first": "Richard", 
+            "fullname": "Richard d. Lalonde", 
             "irn": 604138, 
-            "name": "Lalonde, Richard de", 
+            "last": "Lalonde", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 1/2 X 10 5/8 in. (image)\n9 1/4 X 14 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 45945, 
     "materials": "engraving", 
     "on_view": false, 

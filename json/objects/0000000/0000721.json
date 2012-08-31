@@ -2,12 +2,23 @@
     "accession_number": "1983.192", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Burt, Charles Kennedy", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1823", 
+            "collaboration": null, 
             "death_date": "1892", 
+            "display_name": "Burt, Charles Kennedy", 
+            "first": null, 
+            "fullname": "Burt, Charles Kennedy", 
             "irn": 2001, 
-            "name": "Burt, Charles Kennedy", 
+            "last": "Burt, Charles Kennedy", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 7/8 x 14 3/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 721, 
     "materials": "engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "American Art Union", 
+            "first": null, 
+            "fullname": "American Art Union", 
             "irn": 935, 
-            "name": "American Art Union"
+            "last": "American Art Union", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified"
         }
     ], 
     "rights": null, 

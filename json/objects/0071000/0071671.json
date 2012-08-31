@@ -2,30 +2,63 @@
     "accession_number": "2011.54.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Zeisel, Eva", 
+                "UlanIdNo": "500092239"
+            }, 
             "after_follower": null, 
             "birth_date": "1906", 
+            "collaboration": null, 
             "death_date": "2011", 
+            "display_name": "Zeisel, Eva", 
+            "first": "Eva", 
+            "fullname": "Eva Zeisel", 
             "irn": 6678, 
-            "name": "Zeisel, Eva", 
+            "last": "Zeisel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Littell, Ross", 
+                "UlanIdNo": "500082168"
+            }, 
             "after_follower": null, 
             "birth_date": "1924", 
+            "collaboration": null, 
             "death_date": "2000", 
+            "display_name": "Littell, Ross", 
+            "first": "Ross", 
+            "fullname": "Ross Littell", 
             "irn": 678755, 
-            "name": "Littell, Ross", 
+            "last": "Littell", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hall China", 
+            "first": null, 
+            "fullname": "Hall China", 
             "irn": 7667, 
-            "name": "Hall China", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Hall China", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "4 x 2 1/8 x 1 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71671, 
     "materials": "ceramic", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2000.256", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Adams, Alice", 
+                "UlanIdNo": "500033075"
+            }, 
             "after_follower": null, 
             "birth_date": "1930", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Adams, Alice", 
+            "first": "Alice", 
+            "fullname": "Alice Adams", 
             "irn": 632359, 
-            "name": "Adams, Alice", 
+            "last": "Adams", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 39938, 
     "materials": "graphite on graph paper", 
     "on_view": false, 

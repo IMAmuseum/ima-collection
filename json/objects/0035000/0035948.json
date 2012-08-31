@@ -2,12 +2,23 @@
     "accession_number": "40.66", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Brown, Bolton Coit", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1864", 
+            "collaboration": null, 
             "death_date": "1936", 
+            "display_name": "Brown, Bolton Coit", 
+            "first": "Bolton", 
+            "fullname": "Bolton C. Brown", 
             "irn": 853, 
-            "name": "Brown, Bolton Coit", 
+            "last": "Brown", 
+            "middle": "Coit", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 35948, 
     "materials": "ink on paper", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "1983.264.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Griffier, Robert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1688", 
+            "collaboration": null, 
             "death_date": "1760", 
+            "display_name": "Griffier, Robert", 
+            "first": null, 
+            "fullname": "Griffier, Robert", 
             "irn": 666, 
-            "name": "Griffier, Robert", 
+            "last": "Griffier, Robert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 21443, 
     "materials": "oil on canvas | Gilded | aquatint", 
     "on_view": false, 

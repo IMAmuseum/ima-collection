@@ -2,21 +2,43 @@
     "accession_number": "80.809.55", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Brand, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Brand, William", 
+            "first": null, 
+            "fullname": "Brand, William", 
             "irn": 1764, 
-            "name": "Brand, William", 
+            "last": "Brand, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Walker, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Walker, John", 
+            "first": null, 
+            "fullname": "Walker, John", 
             "irn": 1754, 
-            "name": "Walker, John", 
+            "last": "Walker, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37768, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2010.268", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Keller, Henry George", 
+                "UlanIdNo": "500030342"
+            }, 
             "after_follower": null, 
             "birth_date": "1869", 
+            "collaboration": null, 
             "death_date": "1949", 
+            "display_name": "Keller, Henry George", 
+            "first": "Henry", 
+            "fullname": "Henry G. Keller", 
             "irn": 629689, 
-            "name": "Keller, Henry George", 
+            "last": "Keller", 
+            "middle": "George", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 5/8 x 11 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69947, 
     "materials": "watercolor on white wove paper", 
     "on_view": false, 

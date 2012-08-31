@@ -2,12 +2,23 @@
     "accession_number": "1994.106", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Celmins, Vija", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Celmins, Vija", 
+            "first": null, 
+            "fullname": "Celmins, Vija", 
             "irn": 678, 
-            "name": "Celmins, Vija", 
+            "last": "Celmins, Vija", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 13/16 x 11 15/16 in. |  22.3 x 30.3 cm. (image) 19 1/4 x 15 7/16 in. |  48.8 x 39.3 cm. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 18223, 
     "materials": "wood engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Grenfell Press, New York", 
+            "first": null, 
+            "fullname": "Grenfell Press, New York", 
             "irn": 2583, 
-            "name": "Grenfell Press, New York"
+            "last": "Grenfell Press, New York", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Vija Celmins", 

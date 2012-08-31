@@ -2,12 +2,23 @@
     "accession_number": "55.36", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rouault, Georges", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1871", 
+            "collaboration": null, 
             "death_date": "1958", 
+            "display_name": "Rouault, Georges", 
+            "first": "Georges", 
+            "fullname": "Georges Rouault", 
             "irn": 1386, 
-            "name": "Rouault, Georges", 
+            "last": "Rouault", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "27 3/8 x 21 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30280, 
     "materials": "lithograph", 
     "on_view": false, 

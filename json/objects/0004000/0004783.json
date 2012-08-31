@@ -2,12 +2,23 @@
     "accession_number": "1986.96", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cottingham, Robert", 
+                "UlanIdNo": "500002290"
+            }, 
             "after_follower": null, 
             "birth_date": "1935", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Cottingham, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Cottingham", 
             "irn": 602234, 
-            "name": "Cottingham, Robert", 
+            "last": "Cottingham", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 3/16 x 37 1/2 in (image) \n21 3/8 x 44 9/16 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4783, 
     "materials": "color linocut", 
     "on_view": false, 

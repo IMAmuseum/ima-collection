@@ -2,12 +2,23 @@
     "accession_number": "73.2.29", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lepautre, Pierre", 
+                "UlanIdNo": "500020915"
+            }, 
             "after_follower": null, 
             "birth_date": "1660", 
+            "collaboration": null, 
             "death_date": "1744", 
+            "display_name": "Lepautre, Pierre", 
+            "first": "Pierre", 
+            "fullname": "Pierre Lepautre", 
             "irn": 620457, 
-            "name": "Lepautre, Pierre", 
+            "last": "Lepautre", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 5/16 X 7 5/8 in. (image)\n12 5/16 X 6 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9275, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "80.361", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vignon, Claude", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1593", 
+            "collaboration": null, 
             "death_date": "1670", 
+            "display_name": "Vignon, Claude", 
+            "first": "Claude", 
+            "fullname": "Claude Vignon", 
             "irn": 3213, 
-            "name": "Vignon, Claude", 
+            "last": "Vignon", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 x 16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 6686, 
     "materials": "oil on wood", 
     "on_view": true, 

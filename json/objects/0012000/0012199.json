@@ -2,21 +2,43 @@
     "accession_number": "78.327", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Unknown", 
+            "first": null, 
+            "fullname": "Unknown", 
             "irn": 2741, 
-            "name": "Unknown", 
+            "last": "Unknown", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Castiglione, Giuseppe", 
+                "UlanIdNo": "500008839"
+            }, 
             "after_follower": "Follower of", 
             "birth_date": "1688", 
+            "collaboration": null, 
             "death_date": "1766", 
+            "display_name": "Castiglione, Giuseppe", 
+            "first": "Giuseppe", 
+            "fullname": "Giuseppe Castiglione", 
             "irn": 608622, 
-            "name": "Castiglione, Giuseppe", 
+            "last": "Castiglione", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "18 x 268 1/4", 
     "dynasty": "Qing dynasty", 
+    "images": [], 
     "irn": 12199, 
     "materials": "Ink On Satin | Brown Wash", 
     "on_view": false, 

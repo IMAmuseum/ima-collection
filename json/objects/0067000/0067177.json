@@ -2,12 +2,23 @@
     "accession_number": "2009.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Jaune Quick-to-See", 
+                "UlanIdNo": "500092544"
+            }, 
             "after_follower": null, 
             "birth_date": "1940", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Smith, Jaune Quick-to-See", 
+            "first": "Jaune", 
+            "fullname": "Jaune Q. Smith", 
             "irn": 689032, 
-            "name": "Smith, Jaune Quick-to-See", 
+            "last": "Smith", 
+            "middle": "Quick-to-See", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "29 1/2 x 41 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67177, 
     "materials": "pastel on cream wove paper", 
     "on_view": false, 

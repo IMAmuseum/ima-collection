@@ -2,12 +2,23 @@
     "accession_number": "2008.183", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Augusta Savage", 
+                "UlanIdNo": "500026666"
+            }, 
             "after_follower": null, 
             "birth_date": "1892", 
+            "collaboration": null, 
             "death_date": "1962", 
+            "display_name": "Augusta Savage", 
+            "first": "Augusta", 
+            "fullname": "Augusta Savage", 
             "irn": 626086, 
-            "name": "Augusta Savage", 
+            "last": "Savage", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 1/8 x 5 3/4 x 4 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65046, 
     "materials": "painted plaster", 
     "on_view": true, 

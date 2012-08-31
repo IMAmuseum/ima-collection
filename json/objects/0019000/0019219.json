@@ -2,21 +2,43 @@
     "accession_number": "52.60", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "C\u00e9zanne, Paul", 
+                "UlanIdNo": "500004793"
+            }, 
             "after_follower": null, 
             "birth_date": "1839", 
+            "collaboration": null, 
             "death_date": "1906", 
+            "display_name": "C\u00e9zanne, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul C\u00e9zanne", 
             "irn": 604666, 
-            "name": "C\u00e9zanne, Paul", 
+            "last": "C\u00e9zanne", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Clot, Auguste", 
+                "UlanIdNo": "500058534"
+            }, 
             "after_follower": null, 
             "birth_date": "1858", 
+            "collaboration": null, 
             "death_date": "1936", 
+            "display_name": "Clot, Auguste", 
+            "first": "Auguste", 
+            "fullname": "Auguste Clot", 
             "irn": 2093, 
-            "name": "Clot, Auguste", 
+            "last": "Clot", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "11 7/8 x 14 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 19219, 
     "materials": "color lithograph chine coll\u00e9", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1890", 
+            "collaboration": null, 
+            "death_date": "1935", 
+            "display_name": "Ambrose Vollard", 
+            "first": "Ambrose", 
+            "fullname": "Ambrose Vollard", 
             "irn": 5022, 
-            "name": "Ambrose Vollard"
+            "last": "Vollard", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

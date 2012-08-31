@@ -2,12 +2,23 @@
     "accession_number": "1985.609", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Reid, Robert", 
+                "UlanIdNo": "500007831"
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1929", 
+            "display_name": "Reid, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Reid", 
             "irn": 607638, 
-            "name": "Reid, Robert", 
+            "last": "Reid", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 54473, 
     "materials": "pastel on canvas", 
     "on_view": false, 

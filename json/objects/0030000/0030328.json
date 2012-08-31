@@ -2,12 +2,23 @@
     "accession_number": "09.126", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1713", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Johann M. Berningroth", 
+            "first": "Johann", 
+            "fullname": "Johann M. Berningroth", 
             "irn": 6436, 
-            "name": "Johann M. Berningroth", 
+            "last": "Berningroth", 
+            "middle": "Martin", 
             "nationality": "German", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 30328, 
     "materials": "engraving", 
     "on_view": false, 

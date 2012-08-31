@@ -2,12 +2,23 @@
     "accession_number": "1998.178", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Laval, Charles", 
+                "UlanIdNo": "500032983"
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1894", 
+            "display_name": "Laval, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Laval", 
             "irn": 632268, 
-            "name": "Laval, Charles", 
+            "last": "Laval", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 3/4 x 18 1/8 in.\n22 1/4 x 26 5/8 x 2 1/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14975, 
     "materials": "oil on canvas", 
     "on_view": true, 

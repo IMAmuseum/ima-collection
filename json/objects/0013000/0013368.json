@@ -2,12 +2,23 @@
     "accession_number": "31.185", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Orozco, Jos\u00e9 Clemente", 
+                "UlanIdNo": "500012316"
+            }, 
             "after_follower": null, 
             "birth_date": "1883", 
+            "collaboration": null, 
             "death_date": "1949", 
+            "display_name": "Orozco, Jos\u00e9 Clemente", 
+            "first": "Jos", 
+            "fullname": "Jos \u00e9. Orozco", 
             "irn": 612028, 
-            "name": "Orozco, Jos\u00e9 Clemente", 
+            "last": "Orozco", 
+            "middle": "\u00e9 Clemente", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 13368, 
     "materials": "lithograph", 
     "on_view": false, 

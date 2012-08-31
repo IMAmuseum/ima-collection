@@ -2,12 +2,23 @@
     "accession_number": "49.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Barlach, Ernst", 
+                "UlanIdNo": "500013940"
+            }, 
             "after_follower": null, 
             "birth_date": "1870", 
+            "collaboration": null, 
             "death_date": "1938", 
+            "display_name": "Barlach, Ernst", 
+            "first": "Ernst", 
+            "fullname": "Ernst Barlach", 
             "irn": 613621, 
-            "name": "Barlach, Ernst", 
+            "last": "Barlach", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 1/4 x 14 1/4 in (image)\n13 1/4 x 17 3/8 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 36211, 
     "materials": "woodcut", 
     "on_view": false, 

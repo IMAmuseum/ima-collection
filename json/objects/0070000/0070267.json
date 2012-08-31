@@ -1,17 +1,39 @@
 {
     "accession_number": "MH2010.430", 
-    "actors": [], 
+    "actors": [
+        {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "after_follower": null, 
+            "birth_date": "1929", 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Lou Rankin", 
+            "first": "Lou", 
+            "fullname": "Lou Rankin", 
+            "irn": 8830, 
+            "last": "Rankin", 
+            "middle": null, 
+            "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
+            "role": "Artist"
+        }
+    ], 
     "creation_date": null, 
     "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
     "dimensions": "28 x 11 x 10 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 70267, 
-    "materials": "stone figure with wire and glass elements", 
+    "materials": "stone with wire and glass elements", 
     "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Otter"
+    "title": "otter"
 }

@@ -2,21 +2,43 @@
     "accession_number": "1989.28", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Albers, Anni", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1899", 
+            "collaboration": null, 
             "death_date": "1994", 
+            "display_name": "Albers, Anni", 
+            "first": null, 
+            "fullname": "Albers, Anni", 
             "irn": 1265, 
-            "name": "Albers, Anni", 
+            "last": "Albers, Anni", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "O'Connor, Thom", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1937", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "O'Connor, Thom", 
+            "first": null, 
+            "fullname": "O'Connor, Thom", 
             "irn": 1552, 
-            "name": "O'Connor, Thom", 
+            "last": "O'Connor, Thom", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 840, 
     "materials": "lithograph", 
     "on_view": false, 

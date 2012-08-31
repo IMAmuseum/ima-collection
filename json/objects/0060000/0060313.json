@@ -2,12 +2,23 @@
     "accession_number": "2002.225", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Haberle, John", 
+                "UlanIdNo": "500003053"
+            }, 
             "after_follower": null, 
             "birth_date": "1856", 
+            "collaboration": null, 
             "death_date": "1933", 
+            "display_name": "Haberle, John", 
+            "first": "John", 
+            "fullname": "John Haberle", 
             "irn": 602981, 
-            "name": "Haberle, John", 
+            "last": "Haberle", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/2 x 12 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 60313, 
     "materials": "oil on canvas", 
     "on_view": true, 

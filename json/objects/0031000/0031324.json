@@ -2,12 +2,23 @@
     "accession_number": "1990.47", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Short, Frank", 
+                "UlanIdNo": "500003216"
+            }, 
             "after_follower": null, 
             "birth_date": "1857", 
+            "collaboration": null, 
             "death_date": "1945", 
+            "display_name": "Short, Frank", 
+            "first": "Frank", 
+            "fullname": "Frank Short", 
             "irn": 603138, 
-            "name": "Short, Frank", 
+            "last": "Short", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 1/4 x 19 1/8 in (image)\n17 1/4 x 22 3/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 31324, 
     "materials": "mezzotint on india paper chine coll\u00e9", 
     "on_view": false, 

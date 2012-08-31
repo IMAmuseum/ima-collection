@@ -2,12 +2,23 @@
     "accession_number": "80.809.159", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sandby, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1721", 
+            "collaboration": null, 
             "death_date": "1798", 
+            "display_name": "Sandby, Thomas", 
+            "first": null, 
+            "fullname": "Sandby, Thomas", 
             "irn": 1786, 
-            "name": "Sandby, Thomas", 
+            "last": "Sandby, Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37884, 
     "materials": "engraving", 
     "on_view": false, 

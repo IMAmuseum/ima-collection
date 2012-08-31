@@ -2,21 +2,43 @@
     "accession_number": "2010.34", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mariuccia Mandelli", 
+                "UlanIdNo": "500032038"
+            }, 
             "after_follower": null, 
             "birth_date": "1933", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Mariuccia Mandelli", 
+            "first": null, 
+            "fullname": "Krizia", 
             "irn": 631350, 
-            "name": "Mariuccia Mandelli", 
+            "last": "Krizia", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Krizia", 
+            "first": null, 
+            "fullname": "Krizia", 
             "irn": 7081, 
-            "name": "Krizia", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Krizia", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "L: 42 3/4 in. (overall front to hem)\nL: 32 11/16 in. (back to hem)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68339, 
     "materials": "metallic cellulose acetate", 
     "on_view": false, 

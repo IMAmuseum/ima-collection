@@ -2,12 +2,23 @@
     "accession_number": "2009.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Warhol, Andy", 
+                "UlanIdNo": "500006031"
+            }, 
             "after_follower": null, 
             "birth_date": "1928", 
+            "collaboration": null, 
             "death_date": "1987", 
+            "display_name": "Warhol, Andy", 
+            "first": "Andy", 
+            "fullname": "Andy Warhol", 
             "irn": 605873, 
-            "name": "Warhol, Andy", 
+            "last": "Warhol", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "39 1/4 x 29 3/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67168, 
     "materials": "screenprint on white wove paper", 
     "on_view": false, 

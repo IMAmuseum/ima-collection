@@ -2,12 +2,23 @@
     "accession_number": "09.170", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "W. J. Edwards", 
+            "first": "W.", 
+            "fullname": "W. J. Edwards", 
             "irn": 6439, 
-            "name": "W. J. Edwards", 
+            "last": "Edwards", 
+            "middle": "J.", 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 15074, 
     "materials": "engraving", 
     "on_view": false, 

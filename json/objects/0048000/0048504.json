@@ -2,12 +2,23 @@
     "accession_number": "2002.76", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pissarro, Camille", 
+                "UlanIdNo": "500001924"
+            }, 
             "after_follower": null, 
             "birth_date": "1831", 
+            "collaboration": null, 
             "death_date": "1903", 
+            "display_name": "Pissarro, Camille", 
+            "first": "Camille", 
+            "fullname": "Camille Pissarro", 
             "irn": 601877, 
-            "name": "Pissarro, Camille", 
+            "last": "Pissarro", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 5/8 x 31 7/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 48504, 
     "materials": "oil on canvas", 
     "on_view": true, 

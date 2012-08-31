@@ -2,12 +2,23 @@
     "accession_number": "2000.111", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Blaine, Nell", 
+                "UlanIdNo": "500016457"
+            }, 
             "after_follower": null, 
             "birth_date": "1922", 
+            "collaboration": null, 
             "death_date": "1996", 
+            "display_name": "Blaine, Nell", 
+            "first": "Nell", 
+            "fullname": "Nell Blaine", 
             "irn": 616086, 
-            "name": "Blaine, Nell", 
+            "last": "Blaine", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38942, 
     "materials": "watercolor on white paper", 
     "on_view": false, 

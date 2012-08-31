@@ -2,12 +2,23 @@
     "accession_number": "25.100", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Phillips, Bert Greer", 
+                "UlanIdNo": "500020985"
+            }, 
             "after_follower": null, 
             "birth_date": "1868", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Phillips, Bert Greer", 
+            "first": "Bert", 
+            "fullname": "Bert G. Phillips", 
             "irn": 620526, 
-            "name": "Phillips, Bert Greer", 
+            "last": "Phillips", 
+            "middle": "Greer", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 x 13 1/2 in.\n15 3/8 x 12 1/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9538, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "2010.255A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Venturi, Robert", 
+                "UlanIdNo": "500018011"
+            }, 
             "after_follower": null, 
             "birth_date": "1925", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Venturi, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Venturi", 
             "irn": 617607, 
-            "name": "Venturi, Robert", 
+            "last": "Venturi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Venturi, Rauch, and Scott Brown", 
+                "UlanIdNo": "500033231"
+            }, 
             "after_follower": null, 
             "birth_date": "1980", 
+            "collaboration": null, 
             "death_date": "1989", 
+            "display_name": "Venturi, Rauch, and Scott Brown", 
+            "first": "Rauch", 
+            "fullname": "Rauch ,. Venturi", 
             "irn": 632511, 
-            "name": "Venturi, Rauch, and Scott Brown", 
+            "last": "Venturi", 
+            "middle": ", and Scott Brown", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "A) 29 3/4 x 11 3/4 x 10 in.; B) 29 3/4 x 11 3/4 x 10 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68934, 
     "materials": "wood and plastic laminate", 
     "on_view": false, 

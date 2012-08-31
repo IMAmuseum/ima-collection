@@ -2,12 +2,23 @@
     "accession_number": "73.104.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Russell, Charles Marion", 
+                "UlanIdNo": "500009086"
+            }, 
             "after_follower": null, 
             "birth_date": "1864", 
+            "collaboration": null, 
             "death_date": "1926", 
+            "display_name": "Russell, Charles Marion", 
+            "first": "Charles", 
+            "fullname": "Charles M. Russell", 
             "irn": 608861, 
-            "name": "Russell, Charles Marion", 
+            "last": "Russell", 
+            "middle": "Marion", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 7/8 x 17 3/4 in.\n21 1/4 x 27 1/8 x 2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 19744, 
     "materials": "oil on board mounted to masonite", 
     "on_view": false, 

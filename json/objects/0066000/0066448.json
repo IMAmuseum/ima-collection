@@ -2,30 +2,63 @@
     "accession_number": "2008.339.4A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gwathmey, Charles", 
+                "UlanIdNo": "500002529"
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Gwathmey, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Gwathmey", 
             "irn": 602469, 
-            "name": "Gwathmey, Charles", 
+            "last": "Gwathmey", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Siegel, Robert H.", 
+                "UlanIdNo": "500094356"
+            }, 
             "after_follower": null, 
             "birth_date": "1939", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Siegel, Robert H.", 
+            "first": "Robert", 
+            "fullname": "Robert H. Siegel", 
             "irn": 690822, 
-            "name": "Siegel, Robert H.", 
+            "last": "Siegel", 
+            "middle": "H", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Swid Powell Company", 
+            "first": null, 
+            "fullname": "Swid Powell Company", 
             "irn": 7748, 
-            "name": "Swid Powell Company", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Swid Powell Company", 
+            "party_type": "Organisation", 
             "role": "manufacturer"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "7/8 x 5 3/4 in. (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66448, 
     "materials": "ceramic", 
     "on_view": false, 

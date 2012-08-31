@@ -2,21 +2,43 @@
     "accession_number": "52.19", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fantin-Latour, Henri", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Fantin-Latour, Henri", 
+            "first": null, 
+            "fullname": "Fantin-Latour, Henri", 
             "irn": 551, 
-            "name": "Fantin-Latour, Henri", 
+            "last": "Fantin-Latour, Henri", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Imprimerie Lemercier et cie.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Imprimerie Lemercier et cie.", 
+            "first": null, 
+            "fullname": "Imprimerie Lemercier et cie.", 
             "irn": 2096, 
-            "name": "Imprimerie Lemercier et cie.", 
+            "last": "Imprimerie Lemercier et cie.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 6638, 
     "materials": "lithograph on chine coll\u00e9", 
     "on_view": false, 

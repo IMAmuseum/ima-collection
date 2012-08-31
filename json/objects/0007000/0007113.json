@@ -2,21 +2,43 @@
     "accession_number": "73.2.28", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lepautre, Pierre", 
+                "UlanIdNo": "500020915"
+            }, 
             "after_follower": null, 
             "birth_date": "1660", 
+            "collaboration": null, 
             "death_date": "1744", 
+            "display_name": "Lepautre, Pierre", 
+            "first": "Pierre", 
+            "fullname": "Pierre Lepautre", 
             "irn": 620457, 
-            "name": "Lepautre, Pierre", 
+            "last": "Lepautre", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Daigremont, M.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Daigremont, M.", 
+            "first": null, 
+            "fullname": "Daigremont, M.", 
             "irn": 2141, 
-            "name": "Daigremont, M.", 
+            "last": "Daigremont, M.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "10 1/2 X 8 3/8 in. (image)\n12 1/4 X 7 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7113, 
     "materials": "engraving", 
     "on_view": false, 

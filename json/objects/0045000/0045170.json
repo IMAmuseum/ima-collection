@@ -2,12 +2,23 @@
     "accession_number": "2001.188", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Davis, Stuart", 
+                "UlanIdNo": "500115507"
+            }, 
             "after_follower": null, 
             "birth_date": "1892", 
+            "collaboration": null, 
             "death_date": "1964", 
+            "display_name": "Davis, Stuart", 
+            "first": "Stuart", 
+            "fullname": "Stuart Davis", 
             "irn": 710407, 
-            "name": "Davis, Stuart", 
+            "last": "Davis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "5 1/2 x 6 3/8 in. (image)\n5 7/8 x 6 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 45170, 
     "materials": "screen print", 
     "on_view": false, 

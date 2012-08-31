@@ -2,21 +2,43 @@
     "accession_number": "2004.165", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Toulouse-Lautrec, Henri de", 
+                "UlanIdNo": "500029114"
+            }, 
             "after_follower": null, 
             "birth_date": "1864", 
+            "collaboration": null, 
             "death_date": "1901", 
+            "display_name": "Toulouse-Lautrec, Henri de", 
+            "first": "Henri", 
+            "fullname": "Henri d. Toulouse-Lautrec", 
             "irn": 628487, 
-            "name": "Toulouse-Lautrec, Henri de", 
+            "last": "Toulouse-Lautrec", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Floury, Henri", 
+            "first": null, 
+            "fullname": "Floury, Henri", 
             "irn": 3282, 
-            "name": "Floury, Henri", 
+            "last": "Floury, Henri", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "10 7/8 x 7 3/4 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62446, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Floury, Henri", 
+            "first": null, 
+            "fullname": "Floury, Henri", 
             "irn": 3282, 
-            "name": "Floury, Henri"
+            "last": "Floury, Henri", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

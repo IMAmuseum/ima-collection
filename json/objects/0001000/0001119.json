@@ -2,12 +2,23 @@
     "accession_number": "73.123", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1873", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Willard D. Paddock", 
+            "first": "Willard", 
+            "fullname": "Willard D. Paddock", 
             "irn": 3164, 
-            "name": "Willard D. Paddock", 
+            "last": "Paddock", 
+            "middle": "Dryden", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 30 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1119, 
     "materials": "copper alloy (bronze)", 
     "on_view": true, 

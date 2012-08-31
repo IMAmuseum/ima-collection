@@ -2,12 +2,23 @@
     "accession_number": "09.33", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1804", 
+            "collaboration": null, 
             "death_date": "1881", 
+            "display_name": "William Radcliffe", 
+            "first": "William", 
+            "fullname": "William Radcliffe", 
             "irn": 6431, 
-            "name": "William Radcliffe", 
+            "last": "Radcliffe", 
+            "middle": null, 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 10506, 
     "materials": "engraving", 
     "on_view": false, 

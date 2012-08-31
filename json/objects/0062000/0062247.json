@@ -2,12 +2,23 @@
     "accession_number": "LH2003.94A-H", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "William Wordsworth", 
+            "first": "William", 
+            "fullname": "William Wordsworth", 
             "irn": 3156, 
-            "name": "William Wordsworth", 
+            "last": "Wordsworth", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 6 1/4 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62247, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "William Paterson", 
+            "first": null, 
+            "fullname": "William Paterson", 
             "irn": 3157, 
-            "name": "William Paterson"
+            "last": "William Paterson", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

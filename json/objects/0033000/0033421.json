@@ -2,12 +2,23 @@
     "accession_number": "29.100", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Richards, Samuel G.", 
+                "UlanIdNo": "500033350"
+            }, 
             "after_follower": null, 
             "birth_date": "1853", 
+            "collaboration": null, 
             "death_date": "1893", 
+            "display_name": "Richards, Samuel G.", 
+            "first": "Samuel", 
+            "fullname": "Samuel G. Richards", 
             "irn": 632625, 
-            "name": "Richards, Samuel G.", 
+            "last": "Richards", 
+            "middle": "G", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "19 x 14 3/4 in. (image)\n29 3/8 x 24 7/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 33421, 
     "materials": "pen and ink wash on off-white wove paper", 
     "on_view": false, 

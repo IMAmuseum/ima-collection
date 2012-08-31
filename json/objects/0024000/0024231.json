@@ -2,39 +2,83 @@
     "accession_number": "80.257", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1865", 
+            "collaboration": null, 
             "death_date": "1946", 
+            "display_name": "Charles Virion", 
+            "first": "Charles", 
+            "fullname": "Charles Virion", 
             "irn": 3063, 
-            "name": "Charles Virion", 
+            "last": "Virion", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Decorator"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1918", 
+            "display_name": "Albert Bou\u00e9", 
+            "first": "Albert", 
+            "fullname": "Albert Bou\u00e9", 
             "irn": 5109, 
-            "name": "Albert Bou\u00e9", 
+            "last": "Bou\u00e9", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial Not Verified", 
             "role": "Modeler"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1927", 
+            "display_name": "Alphonse Petit", 
+            "first": "Alphonse", 
+            "fullname": "Alphonse Petit", 
             "irn": 5110, 
-            "name": "Alphonse Petit", 
+            "last": "Petit", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial Not Verified", 
             "role": "Modeler"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Montigny-sur-Loing Manufactory", 
+            "first": null, 
+            "fullname": "Montigny-sur-Loing Manufactory", 
             "irn": 5111, 
-            "name": "Montigny-sur-Loing Manufactory", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Montigny-sur-Loing Manufactory", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -43,6 +87,7 @@
     "cultures": [], 
     "dimensions": "11 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 24231, 
     "materials": "stoneware, glaze", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "46.16", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Remington, Frederic", 
+                "UlanIdNo": "500024759"
+            }, 
             "after_follower": null, 
             "birth_date": "1861", 
+            "collaboration": null, 
             "death_date": "1909", 
+            "display_name": "Remington, Frederic", 
+            "first": "Frederic", 
+            "fullname": "Frederic Remington", 
             "irn": 624222, 
-            "name": "Remington, Frederic", 
+            "last": "Remington", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 23 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30743, 
     "materials": "bronze", 
     "on_view": true, 

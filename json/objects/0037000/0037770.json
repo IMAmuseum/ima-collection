@@ -2,21 +2,43 @@
     "accession_number": "80.809.57", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bourne, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1773", 
+            "collaboration": null, 
             "death_date": "1854", 
+            "display_name": "Bourne, James", 
+            "first": null, 
+            "fullname": "Bourne, James", 
             "irn": 1769, 
-            "name": "Bourne, James", 
+            "last": "Bourne, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Greig, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Greig, John", 
+            "first": null, 
+            "fullname": "Greig, John", 
             "irn": 1757, 
-            "name": "Greig, John", 
+            "last": "Greig, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37770, 
     "materials": "engraving", 
     "on_view": false, 

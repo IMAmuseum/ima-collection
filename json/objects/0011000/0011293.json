@@ -2,12 +2,23 @@
     "accession_number": "75.455", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fragonard, Jean-Honor\u00e9", 
+                "UlanIdNo": "500115329"
+            }, 
             "after_follower": null, 
             "birth_date": "1732", 
+            "collaboration": null, 
             "death_date": "1806", 
+            "display_name": "Fragonard, Jean-Honor\u00e9", 
+            "first": "Jean-Honor\u00e9", 
+            "fullname": "Jean-Honor\u00e9 Fragonard", 
             "irn": 768, 
-            "name": "Fragonard, Jean-Honor\u00e9", 
+            "last": "Fragonard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "32 5/16 x 29 15/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11293, 
     "materials": "oil on canvas", 
     "on_view": true, 

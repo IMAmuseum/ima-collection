@@ -2,21 +2,43 @@
     "accession_number": "1992.365", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Velde, Henry van de", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1863", 
+            "collaboration": null, 
             "death_date": "1957", 
+            "display_name": "Velde, Henry van de", 
+            "first": "Henry", 
+            "fullname": "Henry v. Velde", 
             "irn": 1734, 
-            "name": "Velde, Henry van de", 
+            "last": "Velde", 
+            "middle": "van de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Reinhold Henke", 
+            "first": "Reinhold", 
+            "fullname": "Reinhold Henke", 
             "irn": 838, 
-            "name": "Reinhold Henke", 
+            "last": "Henke", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "13 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 5171, 
     "materials": "salt-glazed stoneware; painted cobalt blue decoration", 
     "on_view": true, 

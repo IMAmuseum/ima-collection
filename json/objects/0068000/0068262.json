@@ -2,21 +2,43 @@
     "accession_number": "2009.642A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1932", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Richard Sapper", 
+            "first": "Richard", 
+            "fullname": "Richard Sapper", 
             "irn": 6416, 
-            "name": "Richard Sapper", 
+            "last": "Sapper", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Lucesco", 
+            "first": null, 
+            "fullname": "Lucesco", 
             "irn": 6901, 
-            "name": "Lucesco", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Lucesco", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "H: 51 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68262, 
     "materials": "aluminum, steel, cast iron, and plastic", 
     "on_view": false, 

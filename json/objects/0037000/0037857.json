@@ -2,21 +2,43 @@
     "accession_number": "80.809.132", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hornsey, J.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hornsey, J.", 
+            "first": null, 
+            "fullname": "Hornsey, J.", 
             "irn": 1763, 
-            "name": "Hornsey, J.", 
+            "last": "Hornsey, J.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Walker, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Walker, John", 
+            "first": null, 
+            "fullname": "Walker, John", 
             "irn": 1754, 
-            "name": "Walker, John", 
+            "last": "Walker, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37857, 
     "materials": "engraving", 
     "on_view": false, 

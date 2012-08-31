@@ -2,12 +2,23 @@
     "accession_number": "02.27", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Massani, Pompeo", 
+                "UlanIdNo": "500010046"
+            }, 
             "after_follower": null, 
             "birth_date": "1850", 
+            "collaboration": null, 
             "death_date": "1920", 
+            "display_name": "Massani, Pompeo", 
+            "first": "Pompeo", 
+            "fullname": "Pompeo Massani", 
             "irn": 609806, 
-            "name": "Massani, Pompeo", 
+            "last": "Massani", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 1/8 x 16 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15029, 
     "materials": "oil on canvas", 
     "on_view": false, 

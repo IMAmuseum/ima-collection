@@ -2,12 +2,23 @@
     "accession_number": "1991.134", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Paschke, Ed", 
+                "UlanIdNo": "500018520"
+            }, 
             "after_follower": null, 
             "birth_date": "1871", 
+            "collaboration": null, 
             "death_date": "2030", 
+            "display_name": "Paschke, Ed", 
+            "first": "Ed", 
+            "fullname": "Ed Paschke", 
             "irn": 618108, 
-            "name": "Paschke, Ed", 
+            "last": "Paschke", 
+            "middle": null, 
             "nationality": "American", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "26 x 35 1/4 in (image) \n30 1/8 x 40 1/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 3221, 
     "materials": "color lithograph", 
     "on_view": false, 

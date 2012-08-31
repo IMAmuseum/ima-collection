@@ -2,12 +2,23 @@
     "accession_number": "79.322", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Maigret, Georges Edmond", 
+                "UlanIdNo": "500048340"
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Maigret, Georges Edmond", 
+            "first": "Georges", 
+            "fullname": "Georges E. Maigret", 
             "irn": 646841, 
-            "name": "Maigret, Georges Edmond", 
+            "last": "Maigret", 
+            "middle": "Edmond", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 1/8 x 14 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 21151, 
     "materials": "oil on wood", 
     "on_view": false, 

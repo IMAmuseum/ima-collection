@@ -2,12 +2,23 @@
     "accession_number": "32.177", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hopper, Edward", 
+                "UlanIdNo": "500031212"
+            }, 
             "after_follower": null, 
             "birth_date": "1882", 
+            "collaboration": null, 
             "death_date": "1967", 
+            "display_name": "Hopper, Edward", 
+            "first": "Edward", 
+            "fullname": "Edward Hopper", 
             "irn": 630541, 
-            "name": "Hopper, Edward", 
+            "last": "Hopper", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "32 x 50 in.\n38 x 56 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2922, 
     "materials": "oil on canvas", 
     "on_view": false, 

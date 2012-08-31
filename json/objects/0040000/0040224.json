@@ -2,21 +2,43 @@
     "accession_number": "80.1320.120", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pickersgill, Henry William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1782", 
+            "collaboration": null, 
             "death_date": "1875", 
+            "display_name": "Pickersgill, Henry William", 
+            "first": null, 
+            "fullname": "Pickersgill, Henry William", 
             "irn": 1891, 
-            "name": "Pickersgill, Henry William", 
+            "last": "Pickersgill, Henry William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40224, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

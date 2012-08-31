@@ -2,21 +2,43 @@
     "accession_number": "S7880.93.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wormley, Edward", 
+                "UlanIdNo": "500086193"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Wormley, Edward", 
+            "first": "Edward", 
+            "fullname": "Edward Wormley", 
             "irn": 682747, 
-            "name": "Wormley, Edward", 
+            "last": "Wormley", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Dunbar Furniture Company", 
+            "first": null, 
+            "fullname": null, 
             "irn": 8497, 
-            "name": "Dunbar Furniture Company", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Dunbar Furniture Company", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "32 1/2 x 25 x 25 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 12217, 
     "materials": "wood", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "29.41", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Procter, Dod", 
+                "UlanIdNo": "500010537"
+            }, 
             "after_follower": null, 
             "birth_date": "1891", 
+            "collaboration": null, 
             "death_date": "1972", 
+            "display_name": "Procter, Dod", 
+            "first": "Dod", 
+            "fullname": "Dod Procter", 
             "irn": 610285, 
-            "name": "Procter, Dod", 
+            "last": "Procter", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "36 1/4 x 30 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 33183, 
     "materials": "oil on canvas", 
     "on_view": false, 

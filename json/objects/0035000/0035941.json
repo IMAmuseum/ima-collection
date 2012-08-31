@@ -2,12 +2,23 @@
     "accession_number": "12.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Robinson, Charles F.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Robinson, Charles F.", 
+            "first": null, 
+            "fullname": "Robinson, Charles F.", 
             "irn": 839, 
-            "name": "Robinson, Charles F.", 
+            "last": "Robinson, Charles F.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 35941, 
     "materials": "etching", 
     "on_view": false, 

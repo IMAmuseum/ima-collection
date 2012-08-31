@@ -2,12 +2,23 @@
     "accession_number": "2010.138", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Barnet, Will", 
+                "UlanIdNo": "500010278"
+            }, 
             "after_follower": null, 
             "birth_date": "1911", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Barnet, Will", 
+            "first": "Will", 
+            "fullname": "Will Barnet", 
             "irn": 610031, 
-            "name": "Barnet, Will", 
+            "last": "Barnet", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 7/8 x 13 1/4 in. (image)\n13 1/8 x 16 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68946, 
     "materials": "lithograph on red wove paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Laurel Gallery, New York", 
+            "first": null, 
+            "fullname": "Laurel Gallery, New York", 
             "irn": 7088, 
-            "name": "Laurel Gallery, New York"
+            "last": null, 
+            "middle": null, 
+            "organization": "Laurel Gallery, New York", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Licensed by VAGA, New York, NY", 

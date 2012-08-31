@@ -2,12 +2,23 @@
     "accession_number": "46.40", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Von Neumann, Robert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1888", 
+            "collaboration": null, 
             "death_date": "1976", 
+            "display_name": "Von Neumann, Robert", 
+            "first": null, 
+            "fullname": "Von Neumann, Robert", 
             "irn": 684, 
-            "name": "Von Neumann, Robert", 
+            "last": "Von Neumann, Robert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 12852, 
     "materials": "lithograph", 
     "on_view": false, 

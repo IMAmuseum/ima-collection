@@ -2,21 +2,43 @@
     "accession_number": "72.191", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward Francis", 
+                "UlanIdNo": "500077918"
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward Francis", 
+            "first": "Edward", 
+            "fullname": "Edward F. Finden", 
             "irn": 674548, 
-            "name": "Finden, Edward Francis", 
+            "last": "Finden", 
+            "middle": "Francis", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "3 3/4 x 5 5/8 in. (image)\n5 1/8 x 8 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 29375, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "1996.310", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Toulouse-Lautrec, Henri de", 
+                "UlanIdNo": "500029114"
+            }, 
             "after_follower": null, 
             "birth_date": "1864", 
+            "collaboration": null, 
             "death_date": "1901", 
+            "display_name": "Toulouse-Lautrec, Henri de", 
+            "first": "Henri", 
+            "fullname": "Henri d. Toulouse-Lautrec", 
             "irn": 628487, 
-            "name": "Toulouse-Lautrec, Henri de", 
+            "last": "Toulouse-Lautrec", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 11/16 x 4 3/16 in. |  17.0 x 10.6 cm. (image) |  10 11/16 x 7 7/16 in. |  27/1 x 18.9 cm. (sheet).", 
     "dynasty": null, 
+    "images": [], 
     "irn": 31605, 
     "materials": "drypoint", 
     "on_view": false, 

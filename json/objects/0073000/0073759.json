@@ -2,21 +2,43 @@
     "accession_number": "2012.4A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sottsass, Ettore", 
+                "UlanIdNo": "500019835"
+            }, 
             "after_follower": null, 
             "birth_date": "1917", 
+            "collaboration": null, 
             "death_date": "2007", 
+            "display_name": "Sottsass, Ettore", 
+            "first": "Ettore", 
+            "fullname": "Ettore Sottsass", 
             "irn": 619404, 
-            "name": "Sottsass, Ettore", 
+            "last": "Sottsass", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Artemide S.p.A.", 
+            "first": null, 
+            "fullname": "Artemide S.p.A.", 
             "irn": 6311, 
-            "name": "Artemide S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Artemide S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "A) 79 1/4 x 15 1/2 (diam.) in.\nB) 1 3/4 x 7 1/2 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73759, 
     "materials": "painted aluminum, steel, and chrome", 
     "on_view": false, 

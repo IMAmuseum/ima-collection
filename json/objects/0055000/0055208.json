@@ -2,12 +2,23 @@
     "accession_number": "72.43.14", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Appian, Adolphe", 
+                "UlanIdNo": "500009819"
+            }, 
             "after_follower": null, 
             "birth_date": "1818", 
+            "collaboration": null, 
             "death_date": "1898", 
+            "display_name": "Appian, Adolphe", 
+            "first": "Adolphe", 
+            "fullname": "Adolphe Appian", 
             "irn": 609583, 
-            "name": "Appian, Adolphe", 
+            "last": "Appian", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55208, 
     "materials": "etching", 
     "on_view": false, 

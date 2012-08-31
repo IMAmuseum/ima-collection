@@ -2,12 +2,23 @@
     "accession_number": "57.202JJ", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dubuffet, Jean", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1901", 
+            "collaboration": null, 
             "death_date": "1985", 
+            "display_name": "Dubuffet, Jean", 
+            "first": "Jean", 
+            "fullname": "Jean Dubuffet", 
             "irn": 848, 
-            "name": "Dubuffet, Jean", 
+            "last": "Dubuffet", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 48818, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Mourlot", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Mourlot", 
+            "first": null, 
+            "fullname": "Mourlot", 
             "irn": 2289, 
-            "name": "Mourlot"
+            "last": "Mourlot", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 

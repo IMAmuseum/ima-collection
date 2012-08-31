@@ -2,12 +2,23 @@
     "accession_number": "09.128", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vinkeles, Reinier", 
+                "UlanIdNo": "500020996"
+            }, 
             "after_follower": null, 
             "birth_date": "1741", 
+            "collaboration": null, 
             "death_date": "1816", 
+            "display_name": "Vinkeles, Reinier", 
+            "first": "Reinier", 
+            "fullname": "Reinier Vinkeles", 
             "irn": 620537, 
-            "name": "Vinkeles, Reinier", 
+            "last": "Vinkeles", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 14572, 
     "materials": "etching", 
     "on_view": false, 

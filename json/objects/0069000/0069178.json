@@ -2,22 +2,44 @@
     "accession_number": "MH2010.40", 
     "actors": [
         {
-            "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "irn": 5864, 
-            "name": "Knoll International", 
-            "nationality": null, 
-            "role": "manufacturer"
-        }, 
-        {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1932", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Richard Sapper", 
+            "first": "Richard", 
+            "fullname": "Richard Sapper", 
             "irn": 6416, 
-            "name": "Richard Sapper", 
+            "last": "Sapper", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "designer"
+        }, 
+        {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "after_follower": null, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Knoll International", 
+            "first": null, 
+            "fullname": "Knoll International", 
+            "irn": 5864, 
+            "last": null, 
+            "middle": null, 
+            "nationality": null, 
+            "organization": "Knoll International", 
+            "party_type": "Organisation", 
+            "role": "manufacturer"
         }
     ], 
     "creation_date": "1993", 
@@ -25,12 +47,13 @@
     "cultures": [], 
     "dimensions": "33 x 24 x 23 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69178, 
-    "materials": "leather, plastic", 
+    "materials": "leather, plastic, metal", 
     "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Desk Chair"
+    "title": "desk chair"
 }

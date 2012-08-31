@@ -2,21 +2,43 @@
     "accession_number": "1992.366", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Richard Riemerschmid", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1868", 
+            "collaboration": null, 
             "death_date": "1957", 
+            "display_name": "Richard Riemerschmid", 
+            "first": "Richard", 
+            "fullname": "Richard Riemerschmid", 
             "irn": 173, 
-            "name": "Richard Riemerschmid", 
+            "last": "Riemerschmid", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": null, 
+            "first": null, 
+            "fullname": null, 
             "irn": 1077, 
-            "name": null, 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "9 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1245, 
     "materials": "salt-glazed stoneware, painted cobalt blue decoration, pewter cover", 
     "on_view": true, 

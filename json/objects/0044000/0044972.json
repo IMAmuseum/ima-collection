@@ -2,12 +2,23 @@
     "accession_number": "67.11.43", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Webster, Herman Armour", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1878", 
+            "collaboration": null, 
             "death_date": "1970", 
+            "display_name": "Webster, Herman Armour", 
+            "first": null, 
+            "fullname": "Webster, Herman Armour", 
             "irn": 1223, 
-            "name": "Webster, Herman Armour", 
+            "last": "Webster, Herman Armour", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 44972, 
     "materials": "etching", 
     "on_view": false, 

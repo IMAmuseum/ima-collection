@@ -2,12 +2,23 @@
     "accession_number": "48.83", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hassam, Childe", 
+                "UlanIdNo": "500018088"
+            }, 
             "after_follower": null, 
             "birth_date": "1859", 
+            "collaboration": null, 
             "death_date": "1935", 
+            "display_name": "Hassam, Childe", 
+            "first": "Childe", 
+            "fullname": "Childe Hassam", 
             "irn": 617684, 
-            "name": "Hassam, Childe", 
+            "last": "Hassam", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 49615, 
     "materials": "colored pencil on off-white paper", 
     "on_view": false, 

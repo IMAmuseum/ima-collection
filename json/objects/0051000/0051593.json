@@ -2,12 +2,23 @@
     "accession_number": "2001.311", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Kuniyoshi", 
+                "UlanIdNo": "500063102"
+            }, 
             "after_follower": null, 
             "birth_date": "1797", 
+            "collaboration": null, 
             "death_date": "1861", 
+            "display_name": "Utagawa Kuniyoshi", 
+            "first": null, 
+            "fullname": "Utagawa Kuniyoshi", 
             "irn": 659879, 
-            "name": "Utagawa Kuniyoshi", 
+            "last": "Utagawa Kuniyoshi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 1/4 x 9 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 51593, 
     "materials": "color wooblock print", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Koga-ya Katsugoro", 
+            "first": null, 
+            "fullname": "Koga-ya Katsugoro", 
             "irn": 2937, 
-            "name": "Koga-ya Katsugoro"
+            "last": "Koga-ya Katsugoro", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

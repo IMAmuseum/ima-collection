@@ -2,12 +2,23 @@
     "accession_number": "2008.47", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Aldrich, George Ames", 
+                "UlanIdNo": "500108405"
+            }, 
             "after_follower": null, 
             "birth_date": "1872", 
+            "collaboration": null, 
             "death_date": "1941", 
+            "display_name": "Aldrich, George Ames", 
+            "first": "George", 
+            "fullname": "George A. Aldrich", 
             "irn": 704727, 
-            "name": "Aldrich, George Ames", 
+            "last": "Aldrich", 
+            "middle": "Ames", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "20 x 24 in.\n29 1/4 x 30 x 1 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65004, 
     "materials": "oil on canvas", 
     "on_view": false, 

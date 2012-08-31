@@ -2,12 +2,23 @@
     "accession_number": "30.65", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gibson, Charles Dana", 
+                "UlanIdNo": "500012937"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1944", 
+            "display_name": "Gibson, Charles Dana", 
+            "first": "Charles", 
+            "fullname": "Charles D. Gibson", 
             "irn": 612633, 
-            "name": "Gibson, Charles Dana", 
+            "last": "Gibson", 
+            "middle": "Dana", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "22 x 15 in. (image)\n24 3/8 x 18 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 24434, 
     "materials": "charcoal on off-white paper", 
     "on_view": false, 

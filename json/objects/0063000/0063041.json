@@ -2,12 +2,23 @@
     "accession_number": "LH2003.68A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1804", 
+            "collaboration": null, 
             "death_date": "1864", 
+            "display_name": "Nathaniel Hawthorne", 
+            "first": "Nathaniel", 
+            "fullname": "Nathaniel Hawthorne", 
             "irn": 3124, 
-            "name": "Nathaniel Hawthorne", 
+            "last": "Hawthorne", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/2 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63041, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Bigelow, Brown & Co. Inc.", 
+            "first": null, 
+            "fullname": "Bigelow, Brown & Co. Inc.", 
             "irn": 3012, 
-            "name": "Bigelow, Brown & Co. Inc."
+            "last": "Bigelow, Brown & Co. Inc.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

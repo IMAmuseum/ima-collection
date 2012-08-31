@@ -2,12 +2,23 @@
     "accession_number": "64.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Butler, Reg", 
+                "UlanIdNo": "500000379"
+            }, 
             "after_follower": null, 
             "birth_date": "1913", 
+            "collaboration": null, 
             "death_date": "1981", 
+            "display_name": "Butler, Reg", 
+            "first": "Reg", 
+            "fullname": "Reg Butler", 
             "irn": 600371, 
-            "name": "Butler, Reg", 
+            "last": "Butler", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "24 H", 
     "dynasty": null, 
+    "images": [], 
     "irn": 29817, 
     "materials": "bronze", 
     "on_view": false, 

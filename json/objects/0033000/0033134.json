@@ -2,12 +2,23 @@
     "accession_number": "79.272", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Martin, Henri Jean Guillaume", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1860", 
+            "collaboration": null, 
             "death_date": "1943", 
+            "display_name": "Martin, Henri Jean Guillaume", 
+            "first": "Henri", 
+            "fullname": "Henri J. Martin", 
             "irn": 3379, 
-            "name": "Martin, Henri Jean Guillaume", 
+            "last": "Martin", 
+            "middle": "Jean Guillaume", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "26 x 31 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 33134, 
     "materials": "oil on canvas", 
     "on_view": true, 

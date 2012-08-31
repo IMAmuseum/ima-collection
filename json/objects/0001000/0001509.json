@@ -2,12 +2,23 @@
     "accession_number": "45.226", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sharp, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Sharp, William", 
+            "first": null, 
+            "fullname": "Sharp, William", 
             "irn": 791, 
-            "name": "Sharp, William", 
+            "last": "Sharp, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 1509, 
     "materials": "engraving", 
     "on_view": false, 

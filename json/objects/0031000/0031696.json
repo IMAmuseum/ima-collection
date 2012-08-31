@@ -2,12 +2,23 @@
     "accession_number": "09.63", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "No\u00ebl, Alphonse L\u00e9on", 
+                "UlanIdNo": "500056927"
+            }, 
             "after_follower": null, 
             "birth_date": "1807", 
+            "collaboration": null, 
             "death_date": "1884", 
+            "display_name": "No\u00ebl, Alphonse L\u00e9on", 
+            "first": "Alphonse", 
+            "fullname": "Alphonse L. No\u00ebl", 
             "irn": 653817, 
-            "name": "No\u00ebl, Alphonse L\u00e9on", 
+            "last": "No\u00ebl", 
+            "middle": "L\u00e9on", 
             "nationality": "French", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 31696, 
     "materials": "lithograph", 
     "on_view": false, 

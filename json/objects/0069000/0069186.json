@@ -2,21 +2,43 @@
     "accession_number": "MH2010.45", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1920", 
+            "collaboration": null, 
             "death_date": "1982", 
+            "display_name": "Niels M\u00f8ller", 
+            "first": "Niels", 
+            "fullname": "Niels M\u00f8ller", 
             "irn": 7648, 
-            "name": "Niels M\u00f8ller", 
+            "last": "M\u00f8ller", 
+            "middle": null, 
             "nationality": "Danish", 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "J.L. M\u00f8ller M\u00f8belfabrik", 
+            "first": null, 
+            "fullname": "J.L. M\u00f8ller M\u00f8belfabrik", 
             "irn": 7647, 
-            "name": "J.L. M\u00f8ller M\u00f8belfabrik", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "J.L. M\u00f8ller M\u00f8belfabrik", 
+            "party_type": "Organisation", 
             "role": "manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "18 x 19 x 14 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69186, 
     "materials": "upholstered wood", 
     "on_view": true, 

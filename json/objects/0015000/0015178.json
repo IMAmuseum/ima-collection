@@ -2,12 +2,23 @@
     "accession_number": "63.210", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Howard Cook", 
+                "UlanIdNo": "500010422"
+            }, 
             "after_follower": null, 
             "birth_date": "1901", 
+            "collaboration": null, 
             "death_date": "1980", 
+            "display_name": "Howard Cook", 
+            "first": "Howard", 
+            "fullname": "Howard N. Cook", 
             "irn": 610173, 
-            "name": "Howard Cook", 
+            "last": "Cook", 
+            "middle": "Norton", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 3/4 x 8 3/4 in. (image)\n15 3/4 x 12 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15178, 
     "materials": "lithograph", 
     "on_view": false, 

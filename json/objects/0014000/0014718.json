@@ -2,12 +2,23 @@
     "accession_number": "10.241", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Saint-Gaudens, Augustus", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1848", 
+            "collaboration": null, 
             "death_date": "1907", 
+            "display_name": "Saint-Gaudens, Augustus", 
+            "first": "Augustus", 
+            "fullname": "Augustus Saint-Gaudens", 
             "irn": 1504, 
-            "name": "Saint-Gaudens, Augustus", 
+            "last": "Saint-Gaudens", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 1/2 x 10 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14718, 
     "materials": "Bronze Relief", 
     "on_view": false, 

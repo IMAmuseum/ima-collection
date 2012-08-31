@@ -2,21 +2,43 @@
     "accession_number": "2008.790", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "De Morgan, William", 
+                "UlanIdNo": "500011072"
+            }, 
             "after_follower": null, 
             "birth_date": "1839", 
+            "collaboration": null, 
             "death_date": "1917", 
+            "display_name": "De Morgan, William", 
+            "first": "William", 
+            "fullname": "William De Morgan", 
             "irn": 610813, 
-            "name": "De Morgan, William", 
+            "last": "De Morgan", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1854", 
+            "collaboration": null, 
             "death_date": "1928", 
+            "display_name": "Halsey Ricardo", 
+            "first": "Halsey", 
+            "fullname": "Halsey Ricardo", 
             "irn": 4016, 
-            "name": "Halsey Ricardo", 
+            "last": "Ricardo", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "6 x 6 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67228, 
     "materials": "glazed earthenware", 
     "on_view": false, 

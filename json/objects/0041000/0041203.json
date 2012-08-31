@@ -2,21 +2,43 @@
     "accession_number": "80.1640.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bentley, Charles", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1806", 
+            "collaboration": null, 
             "death_date": "1854", 
+            "display_name": "Bentley, Charles", 
+            "first": null, 
+            "fullname": "Bentley, Charles", 
             "irn": 1922, 
-            "name": "Bentley, Charles", 
+            "last": "Bentley, Charles", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Taylor, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1800", 
+            "collaboration": null, 
             "death_date": "1861", 
+            "display_name": "Taylor, William", 
+            "first": null, 
+            "fullname": "Taylor, William", 
             "irn": 1926, 
-            "name": "Taylor, William", 
+            "last": "Taylor, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 41203, 
     "materials": "engraving on India paper, chine coll\u00e9", 
     "on_view": false, 

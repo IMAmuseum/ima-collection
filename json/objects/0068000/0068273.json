@@ -2,12 +2,23 @@
     "accession_number": "2009.574", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rogalski, Walter", 
+                "UlanIdNo": "500055119"
+            }, 
             "after_follower": null, 
             "birth_date": "1923", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Rogalski, Walter", 
+            "first": "Walter", 
+            "fullname": "Walter Rogalski", 
             "irn": 652292, 
-            "name": "Rogalski, Walter", 
+            "last": "Rogalski", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 13 in. (image)\n13 x 17 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68273, 
     "materials": "engraving on cream laid paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "The Print Club of Cleveland", 
+            "first": null, 
+            "fullname": "The Print Club of Cleveland", 
             "irn": 6302, 
-            "name": "The Print Club of Cleveland"
+            "last": null, 
+            "middle": null, 
+            "organization": "The Print Club of Cleveland", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Walter Rogalski", 

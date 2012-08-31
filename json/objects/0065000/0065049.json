@@ -2,21 +2,43 @@
     "accession_number": "2012.7A-D", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": "500034045"
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "frogdesign", 
+            "first": null, 
+            "fullname": null, 
             "irn": 633301, 
-            "name": "frogdesign", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "frogdesign", 
+            "party_type": "Organisation", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Apple Inc.", 
+            "first": null, 
+            "fullname": null, 
             "irn": 5784, 
-            "name": "Apple Inc.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Apple Inc.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "A) computer: 13 9/16 x 9 5/8 x 10 1/2 in.\nB) keyboard: 2 1/16 x 13 1/4 x 5 3/4 in.\nC) mouse: 3 3/4 x 2 3/8 x 1 1/2 in.\nD) carrying case: H: 13 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65049, 
     "materials": "plastic, electrical wire, and fabric carrying case", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2003.34", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stieglitz, Alfred", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1864", 
+            "collaboration": null, 
             "death_date": "1946", 
+            "display_name": "Stieglitz, Alfred", 
+            "first": null, 
+            "fullname": "Stieglitz, Alfred", 
             "irn": 1224, 
-            "name": "Stieglitz, Alfred", 
+            "last": "Stieglitz, Alfred", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 60715, 
     "materials": "photogravure hinged to paper mount", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Camera Work", 
+            "first": null, 
+            "fullname": "Camera Work", 
             "irn": 2525, 
-            "name": "Camera Work"
+            "last": "Camera Work", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

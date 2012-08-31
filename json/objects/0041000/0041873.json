@@ -2,21 +2,43 @@
     "accession_number": "80.1727.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girtin, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1775-1802", 
+            "collaboration": null, 
             "death_date": "1775-1802", 
+            "display_name": "Girtin, Thomas", 
+            "first": null, 
+            "fullname": "Girtin, Thomas", 
             "irn": 500, 
-            "name": "Girtin, Thomas", 
+            "last": "Girtin, Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Lupton, Thomas Goff", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1873", 
+            "display_name": "Lupton, Thomas Goff", 
+            "first": "Thomas", 
+            "fullname": "Thomas G. Lupton", 
             "irn": 830, 
-            "name": "Lupton, Thomas Goff", 
+            "last": "Lupton", 
+            "middle": "Goff", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 41873, 
     "materials": "mezzotint on plain paper", 
     "on_view": false, 

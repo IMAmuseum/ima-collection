@@ -2,12 +2,23 @@
     "accession_number": "1987.234", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Levine, Les", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Levine, Les", 
+            "first": null, 
+            "fullname": "Levine, Les", 
             "irn": 1716, 
-            "name": "Levine, Les", 
+            "last": "Levine, Les", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 21606, 
     "materials": "color etching", 
     "on_view": false, 

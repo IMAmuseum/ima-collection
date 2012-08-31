@@ -2,21 +2,43 @@
     "accession_number": "73.2.68", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Beauvallet, Pierre-Nicolas", 
+                "UlanIdNo": "500040677"
+            }, 
             "after_follower": null, 
             "birth_date": "1750", 
+            "collaboration": null, 
             "death_date": "1818", 
+            "display_name": "Beauvallet, Pierre-Nicolas", 
+            "first": "Pierre", 
+            "fullname": "Pierre -. Beauvallet", 
             "irn": 639818, 
-            "name": "Beauvallet, Pierre-Nicolas", 
+            "last": "Beauvallet", 
+            "middle": "-Nicolas", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Normand, Charles", 
+                "UlanIdNo": "500115762"
+            }, 
             "after_follower": null, 
             "birth_date": "1765", 
+            "collaboration": null, 
             "death_date": "1840", 
+            "display_name": "Normand, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Normand", 
             "irn": 710640, 
-            "name": "Normand, Charles", 
+            "last": "Normand", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "11 1/2 X 8 5/8 in. (image)\n16 5/8 X  11 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 45954, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2006.62", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Beckmann, Max", 
+                "UlanIdNo": "500024106"
+            }, 
             "after_follower": null, 
             "birth_date": "1884", 
+            "collaboration": null, 
             "death_date": "1950", 
+            "display_name": "Beckmann, Max", 
+            "first": "Max", 
+            "fullname": "Max Beckmann", 
             "irn": 623585, 
-            "name": "Beckmann, Max", 
+            "last": "Beckmann", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 1/8 x 13 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63534, 
     "materials": "drypoint on off-white laid paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Zingler's Kabinett", 
+            "first": null, 
+            "fullname": "Zingler's Kabinett", 
             "irn": 4936, 
-            "name": "Zingler's Kabinett"
+            "last": "Zingler's Kabinett", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Curatorial Not Verified"
         }
     ], 
     "rights": "\u00a9 2007 Artists Rights Society (ARS), New York / VG Bild-Kunst, Bonn", 

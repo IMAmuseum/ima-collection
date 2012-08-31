@@ -2,12 +2,23 @@
     "accession_number": "2008.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Saarinen, Eliel", 
+                "UlanIdNo": "500027014"
+            }, 
             "after_follower": null, 
             "birth_date": "1873", 
+            "collaboration": null, 
             "death_date": "1950", 
+            "display_name": "Saarinen, Eliel", 
+            "first": "Eliel", 
+            "fullname": "Eliel Saarinen", 
             "irn": 626428, 
-            "name": "Saarinen, Eliel", 
+            "last": "Saarinen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "49 5/16 x 77 9/16 x 20 13/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65013, 
     "materials": "mahogany and other veneers", 
     "on_view": true, 

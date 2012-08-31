@@ -2,21 +2,43 @@
     "accession_number": "2011.53", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1967", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Patrick Jouin", 
+            "first": "Patrick", 
+            "fullname": "Patrick Jouin", 
             "irn": 1657, 
-            "name": "Patrick Jouin", 
+            "last": "Jouin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": ".MGX by Materialise", 
+            "first": null, 
+            "fullname": ".MGX by Materialise", 
             "irn": 7732, 
-            "name": ".MGX by Materialise", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": ".MGX by Materialise", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 3/8 x 16 x 19 7/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67601, 
     "materials": "stereolithography UV-curable photopolymer resin", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "54.56", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ingres, Jean-Auguste-Dominique", 
+                "UlanIdNo": "500028037"
+            }, 
             "after_follower": null, 
             "birth_date": "1780", 
+            "collaboration": null, 
             "death_date": "1867", 
+            "display_name": "Ingres, Jean-Auguste-Dominique", 
+            "first": "Jean-Auguste-Dominique", 
+            "fullname": "Jean-Auguste-Dominique Ingres", 
             "irn": 627432, 
-            "name": "Ingres, Jean-Auguste-Dominique", 
+            "last": "Ingres", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 3/4 x 15 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 12552, 
     "materials": "oil on canvas mounted on wood", 
     "on_view": true, 

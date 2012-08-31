@@ -2,21 +2,43 @@
     "accession_number": "80.1320.59", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Purser, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Purser, William", 
+            "first": null, 
+            "fullname": "Purser, William", 
             "irn": 1865, 
-            "name": "Purser, William", 
+            "last": "Purser, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40262, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

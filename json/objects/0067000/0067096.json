@@ -2,12 +2,23 @@
     "accession_number": "2008.362", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pippin, Horace", 
+                "UlanIdNo": "500026325"
+            }, 
             "after_follower": null, 
             "birth_date": "1888", 
+            "collaboration": null, 
             "death_date": "1946", 
+            "display_name": "Pippin, Horace", 
+            "first": "Horace", 
+            "fullname": "Horace Pippin", 
             "irn": 625750, 
-            "name": "Pippin, Horace", 
+            "last": "Pippin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 x 28 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67096, 
     "materials": "oil on fabric", 
     "on_view": true, 

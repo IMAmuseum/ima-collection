@@ -2,30 +2,63 @@
     "accession_number": "80.932.42", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Pye, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1782", 
+            "collaboration": null, 
             "death_date": "1874", 
+            "display_name": "Pye, John", 
+            "first": null, 
+            "fullname": "Pye, John", 
             "irn": 822, 
-            "name": "Pye, John", 
+            "last": "Pye, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }, 
         {
+            "ULAN": {
+                "Name": "Middiman, Samuel", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1750", 
+            "collaboration": null, 
             "death_date": "1831", 
+            "display_name": "Middiman, Samuel", 
+            "first": null, 
+            "fullname": "Middiman, Samuel", 
             "irn": 261, 
-            "name": "Middiman, Samuel", 
+            "last": "Middiman, Samuel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Etcher"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38593, 
     "materials": "engraving on India paper, chine coll\u00e9", 
     "on_view": false, 

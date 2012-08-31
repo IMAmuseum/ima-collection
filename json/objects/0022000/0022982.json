@@ -2,12 +2,23 @@
     "accession_number": "64.14", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Brett, John", 
+                "UlanIdNo": "500003891"
+            }, 
             "after_follower": null, 
             "birth_date": "1830", 
+            "collaboration": null, 
             "death_date": "1902", 
+            "display_name": "Brett, John", 
+            "first": "John", 
+            "fullname": "John Brett", 
             "irn": 603785, 
-            "name": "Brett, John", 
+            "last": "Brett", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "34 3/4 x 51 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 22982, 
     "materials": "oil on canvas", 
     "on_view": true, 

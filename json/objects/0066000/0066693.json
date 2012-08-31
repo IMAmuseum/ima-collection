@@ -2,12 +2,23 @@
     "accession_number": "2008.757", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hartigan, Grace", 
+                "UlanIdNo": "500027518"
+            }, 
             "after_follower": null, 
             "birth_date": "1922", 
+            "collaboration": null, 
             "death_date": "2008", 
+            "display_name": "Hartigan, Grace", 
+            "first": "Grace", 
+            "fullname": "Grace Hartigan", 
             "irn": 626923, 
-            "name": "Hartigan, Grace", 
+            "last": "Hartigan", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,24 +27,64 @@
     "cultures": [], 
     "dimensions": "10 x 7 in. (image)\n10 5/8 x 7 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66693, 
     "materials": "screenprint on cream wove paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Floriano Vecchi", 
+            "first": "Floriano", 
+            "fullname": "Floriano Vecchi", 
             "irn": 6260, 
-            "name": "Floriano Vecchi"
+            "last": "Vecchi", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Person"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Daisy Alden", 
+            "first": "Daisy", 
+            "fullname": "Daisy Alden", 
             "irn": 6261, 
-            "name": "Daisy Alden"
+            "last": "Alden", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Person"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Richard Miller", 
+            "first": "Richard", 
+            "fullname": "Richard Miller", 
             "irn": 6262, 
-            "name": "Richard Miller"
+            "last": "Miller", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Person"
         }
     ], 
     "rights": "\u00a9 Estate of Grace Hartigan", 

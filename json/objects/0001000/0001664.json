@@ -2,12 +2,23 @@
     "accession_number": "79.245", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Eeckhoudt, Jean van den", 
+                "UlanIdNo": "500088548"
+            }, 
             "after_follower": null, 
             "birth_date": "1875", 
+            "collaboration": null, 
             "death_date": "1946", 
+            "display_name": "Eeckhoudt, Jean van den", 
+            "first": "Jean", 
+            "fullname": "Jean v. Eeckhoudt", 
             "irn": 685080, 
-            "name": "Eeckhoudt, Jean van den", 
+            "last": "Eeckhoudt", 
+            "middle": "van den", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "39 1/4 x 31 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1664, 
     "materials": "oil on canvas", 
     "on_view": false, 

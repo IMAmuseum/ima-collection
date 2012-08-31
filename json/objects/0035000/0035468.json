@@ -2,12 +2,23 @@
     "accession_number": "1999.30", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1890", 
+            "collaboration": null, 
             "death_date": "1973", 
+            "display_name": "Elsa Schiaparelli", 
+            "first": "Elsa", 
+            "fullname": "Elsa Schiaparelli", 
             "irn": 5073, 
-            "name": "Elsa Schiaparelli", 
+            "last": "Schiaparelli", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 35468, 
     "materials": "pleated netting", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "MH2010.189", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nelson, George", 
+                "UlanIdNo": "500017574"
+            }, 
             "after_follower": null, 
             "birth_date": "1908", 
+            "collaboration": null, 
             "death_date": "1986", 
+            "display_name": "Nelson, George", 
+            "first": "George", 
+            "fullname": "George Nelson", 
             "irn": 617180, 
-            "name": "Nelson, George", 
+            "last": "Nelson", 
+            "middle": null, 
             "nationality": "United States", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
-            "irn": 6896, 
-            "name": "Knoll", 
+            "display_name": "Herman Miller", 
+            "first": null, 
+            "fullname": null, 
+            "irn": 8322, 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Herman Miller", 
+            "party_type": null, 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "6 x 30 x 13 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69616, 
     "materials": "laminate, walnut, rosewood stained teak, porcelain", 
     "on_view": true, 
@@ -32,5 +55,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Minature chest"
+    "title": "minature chest"
 }

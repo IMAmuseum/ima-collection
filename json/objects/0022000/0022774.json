@@ -2,12 +2,23 @@
     "accession_number": "1999.32", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cotman, John Sell", 
+                "UlanIdNo": "500014103"
+            }, 
             "after_follower": null, 
             "birth_date": "1782", 
+            "collaboration": null, 
             "death_date": "1842", 
+            "display_name": "Cotman, John Sell", 
+            "first": "John", 
+            "fullname": "John S. Cotman", 
             "irn": 613778, 
-            "name": "Cotman, John Sell", 
+            "last": "Cotman", 
+            "middle": "Sell", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 1/2 x 22 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 22774, 
     "materials": "watercolor with touches of gum Arabic over pencil on off-white paper", 
     "on_view": true, 

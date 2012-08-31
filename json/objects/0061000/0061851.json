@@ -2,12 +2,23 @@
     "accession_number": "LH2003.33A-Z", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Fran\u00e7ois Voltaire", 
+            "first": "Fran\u00e7ois", 
+            "fullname": "Fran\u00e7ois Voltaire", 
             "irn": 3009, 
-            "name": "Fran\u00e7ois Voltaire", 
+            "last": "Voltaire", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 5/8 x 5 3/4 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61851, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "St. Hubert Guild", 
+            "first": null, 
+            "fullname": "St. Hubert Guild", 
             "irn": 3010, 
-            "name": "St. Hubert Guild"
+            "last": "St. Hubert Guild", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

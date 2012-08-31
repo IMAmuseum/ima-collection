@@ -2,21 +2,43 @@
     "accession_number": "2008.338", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1915", 
+            "collaboration": null, 
             "death_date": "1996", 
+            "display_name": "Fulvio Bianconi", 
+            "first": "Fulvio", 
+            "fullname": "Fulvio Bianconi", 
             "irn": 6010, 
-            "name": "Fulvio Bianconi", 
+            "last": "Bianconi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Venini, Paolo", 
+                "UlanIdNo": "500093458"
+            }, 
             "after_follower": null, 
             "birth_date": "1895", 
+            "collaboration": null, 
             "death_date": "1959", 
+            "display_name": "Venini, Paolo", 
+            "first": "Paolo", 
+            "fullname": "Paolo Venini", 
             "irn": 689931, 
-            "name": "Venini, Paolo", 
+            "last": "Venini", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "10 3/8 x 8 5/16 x 7 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65839, 
     "materials": "glass", 
     "on_view": false, 

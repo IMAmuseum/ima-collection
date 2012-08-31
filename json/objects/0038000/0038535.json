@@ -2,12 +2,23 @@
     "accession_number": "80.915", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pye, John", 
+                "UlanIdNo": "500069933"
+            }, 
             "after_follower": null, 
             "birth_date": "1782", 
+            "collaboration": null, 
             "death_date": "1874", 
+            "display_name": "Pye, John", 
+            "first": "John", 
+            "fullname": "John Pye", 
             "irn": 666643, 
-            "name": "Pye, John", 
+            "last": "Pye", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "5 5/8 x 8 5/8 in (image)\n10 3/4 x 15 1/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 38535, 
     "materials": "engraving", 
     "on_view": false, 

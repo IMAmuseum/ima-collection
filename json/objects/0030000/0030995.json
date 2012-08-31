@@ -2,12 +2,23 @@
     "accession_number": "S5711.85.10A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Carnegie, Hattie", 
+                "UlanIdNo": "500075021"
+            }, 
             "after_follower": null, 
             "birth_date": "1889", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Carnegie, Hattie", 
+            "first": "Hattie", 
+            "fullname": "Hattie Carnegie", 
             "irn": 671675, 
-            "name": "Carnegie, Hattie", 
+            "last": "Carnegie", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "3 1/2 x 6 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30995, 
     "materials": "nylon, grograin ribbon", 
     "on_view": false, 

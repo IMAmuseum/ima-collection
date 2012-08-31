@@ -2,21 +2,43 @@
     "accession_number": "24.224", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Appian, Adolphe", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1818", 
+            "collaboration": null, 
             "death_date": "1898", 
+            "display_name": "Appian, Adolphe", 
+            "first": null, 
+            "fullname": "Appian, Adolphe", 
             "irn": 1320, 
-            "name": "Appian, Adolphe", 
+            "last": "Appian, Adolphe", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Cadart, Alfred", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1828", 
+            "collaboration": null, 
             "death_date": "1875", 
+            "display_name": "Cadart, Alfred", 
+            "first": null, 
+            "fullname": "Cadart, Alfred", 
             "irn": 2087, 
-            "name": "Cadart, Alfred", 
+            "last": "Cadart, Alfred", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 8032, 
     "materials": "etching", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Cadart, Alfred", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1828", 
+            "collaboration": null, 
+            "death_date": "1875", 
+            "display_name": "Cadart, Alfred", 
+            "first": null, 
+            "fullname": "Cadart, Alfred", 
             "irn": 2087, 
-            "name": "Cadart, Alfred"
+            "last": "Cadart, Alfred", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

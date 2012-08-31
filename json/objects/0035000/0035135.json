@@ -2,21 +2,43 @@
     "accession_number": "24.299", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cadart, Alfred", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1828", 
+            "collaboration": null, 
             "death_date": "1875", 
+            "display_name": "Cadart, Alfred", 
+            "first": null, 
+            "fullname": "Cadart, Alfred", 
             "irn": 2087, 
-            "name": "Cadart, Alfred", 
+            "last": "Cadart, Alfred", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }, 
         {
+            "ULAN": {
+                "Name": "Niel, Gabrielle-Marie", 
+                "UlanIdNo": "500072773"
+            }, 
             "after_follower": null, 
             "birth_date": "1840", 
+            "collaboration": null, 
             "death_date": "1940", 
+            "display_name": "Niel, Gabrielle-Marie", 
+            "first": "Gabrielle", 
+            "fullname": "Gabrielle -. Niel", 
             "irn": 669454, 
-            "name": "Niel, Gabrielle-Marie", 
+            "last": "Niel", 
+            "middle": "-Marie", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Etcher"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 35135, 
     "materials": "etching", 
     "on_view": false, 

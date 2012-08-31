@@ -2,12 +2,23 @@
     "accession_number": "49.5.5B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Chagall, Marc", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1887", 
+            "collaboration": null, 
             "death_date": "1985", 
+            "display_name": "Chagall, Marc", 
+            "first": "Marc", 
+            "fullname": "Marc Chagall", 
             "irn": 497, 
-            "name": "Chagall, Marc", 
+            "last": "Chagall", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 44865, 
     "materials": "lithograph and letterpress", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "2009.644", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1963", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Marc Newson", 
+            "first": "Marc", 
+            "fullname": "Marc Newson", 
             "irn": 5662, 
-            "name": "Marc Newson", 
+            "last": "Newson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "FLOS USA Inc.", 
+            "first": null, 
+            "fullname": "FLOS USA Inc.", 
             "irn": 6515, 
-            "name": "FLOS USA Inc.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "FLOS USA Inc.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "9 x 2 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68297, 
     "materials": "aluminum and polycarbonate", 
     "on_view": false, 

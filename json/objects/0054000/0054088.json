@@ -2,12 +2,23 @@
     "accession_number": "2001.359", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Olitski, Jules", 
+                "UlanIdNo": "500009050"
+            }, 
             "after_follower": null, 
             "birth_date": "1922", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Olitski, Jules", 
+            "first": "Jules", 
+            "fullname": "Jules Olitski", 
             "irn": 608827, 
-            "name": "Olitski, Jules", 
+            "last": "Olitski", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 54088, 
     "materials": "screenprint", 
     "on_view": false, 

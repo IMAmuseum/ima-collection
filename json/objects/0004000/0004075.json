@@ -2,12 +2,23 @@
     "accession_number": "09.115", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jacottet, Jean", 
+                "UlanIdNo": "500041157"
+            }, 
             "after_follower": null, 
             "birth_date": "1806", 
+            "collaboration": null, 
             "death_date": "1843", 
+            "display_name": "Jacottet, Jean", 
+            "first": "Jean", 
+            "fullname": "Jean Jacottet", 
             "irn": 640292, 
-            "name": "Jacottet, Jean", 
+            "last": "Jacottet", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 4075, 
     "materials": "lithograph", 
     "on_view": false, 

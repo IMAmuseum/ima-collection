@@ -2,21 +2,43 @@
     "accession_number": "80.889.26", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Prout, Samuel", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1783-1852", 
+            "collaboration": null, 
             "death_date": "1783-1852", 
+            "display_name": "Prout, Samuel", 
+            "first": null, 
+            "fullname": "Prout, Samuel", 
             "irn": 1442, 
-            "name": "Prout, Samuel", 
+            "last": "Prout, Samuel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Cooke, William Bernard", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1778", 
+            "collaboration": null, 
             "death_date": "1855", 
+            "display_name": "Cooke, William Bernard", 
+            "first": null, 
+            "fullname": "Cooke, William Bernard", 
             "irn": 1330, 
-            "name": "Cooke, William Bernard", 
+            "last": "Cooke, William Bernard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38177, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

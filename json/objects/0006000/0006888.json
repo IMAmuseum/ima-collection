@@ -2,21 +2,43 @@
     "accession_number": "73.2.59", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Percier, Charles", 
+                "UlanIdNo": "500012660"
+            }, 
             "after_follower": null, 
             "birth_date": "1764", 
+            "collaboration": null, 
             "death_date": "1838", 
+            "display_name": "Percier, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Percier", 
             "irn": 612360, 
-            "name": "Percier, Charles", 
+            "last": "Percier", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Fontaine, Pierre Fran\u00e7ois L\u00e9onard", 
+                "UlanIdNo": "500016389"
+            }, 
             "after_follower": null, 
             "birth_date": "1762", 
+            "collaboration": null, 
             "death_date": "1853", 
+            "display_name": "Fontaine, Pierre Fran\u00e7ois L\u00e9onard", 
+            "first": "Pierre", 
+            "fullname": "Pierre F. Fontaine", 
             "irn": 616019, 
-            "name": "Fontaine, Pierre Fran\u00e7ois L\u00e9onard", 
+            "last": "Fontaine", 
+            "middle": "Fran\u00e7ois L\u00e9onard", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "13 X 9 1/4 in. (image)\n16 1/2 X 10 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 6888, 
     "materials": "engraving", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Didot, Pierre", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1761-1853", 
+            "collaboration": null, 
+            "death_date": "1761-1853", 
+            "display_name": "Didot, Pierre", 
+            "first": null, 
+            "fullname": "Didot, Pierre", 
             "irn": 2156, 
-            "name": "Didot, Pierre"
+            "last": "Didot, Pierre", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

@@ -2,21 +2,43 @@
     "accession_number": "2009.415", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1963", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hella Jongerius", 
+            "first": "Hella", 
+            "fullname": "Hella Jongerius", 
             "irn": 5661, 
-            "name": "Hella Jongerius", 
+            "last": "Jongerius", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "JongeriusLab", 
+            "first": null, 
+            "fullname": "JongeriusLab", 
             "irn": 6554, 
-            "name": "JongeriusLab", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "JongeriusLab", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "5 1/2 x 12 1/4 x 12 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67816, 
     "materials": "polyurethane", 
     "on_view": false, 

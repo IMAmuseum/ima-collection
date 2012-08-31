@@ -2,12 +2,23 @@
     "accession_number": "1987.58", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bernard, Joseph-Antoine", 
+                "UlanIdNo": "500007261"
+            }, 
             "after_follower": null, 
             "birth_date": "1866", 
+            "collaboration": null, 
             "death_date": "1931", 
+            "display_name": "Bernard, Joseph-Antoine", 
+            "first": "Joseph-Antoine", 
+            "fullname": "Joseph-Antoine Bernard", 
             "irn": 607080, 
-            "name": "Bernard, Joseph-Antoine", 
+            "last": "Bernard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 40 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15525, 
     "materials": "cast cement with pigmented wax", 
     "on_view": true, 

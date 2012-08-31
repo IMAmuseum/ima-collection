@@ -2,12 +2,23 @@
     "accession_number": "80.825.25", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vertue, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1684", 
+            "collaboration": null, 
             "death_date": "1756", 
+            "display_name": "Vertue, George", 
+            "first": null, 
+            "fullname": "Vertue, George", 
             "irn": 1793, 
-            "name": "Vertue, George", 
+            "last": "Vertue, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37962, 
     "materials": "engraving", 
     "on_view": false, 

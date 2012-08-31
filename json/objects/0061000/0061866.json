@@ -2,12 +2,23 @@
     "accession_number": "LH2003.48A-G", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Richard F. Burton", 
+            "first": "Richard", 
+            "fullname": "Richard F. Burton", 
             "irn": 3031, 
-            "name": "Richard F. Burton", 
+            "last": "Burton", 
+            "middle": "F.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 1/2 x 6 3/4 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61866, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Burton Club", 
+            "first": null, 
+            "fullname": "Burton Club", 
             "irn": 3032, 
-            "name": "Burton Club"
+            "last": "Burton Club", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

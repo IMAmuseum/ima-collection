@@ -2,12 +2,23 @@
     "accession_number": "2004.162", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Toulouse-Lautrec, Henri de", 
+                "UlanIdNo": "500029114"
+            }, 
             "after_follower": null, 
             "birth_date": "1864", 
+            "collaboration": null, 
             "death_date": "1901", 
+            "display_name": "Toulouse-Lautrec, Henri de", 
+            "first": "Henri", 
+            "fullname": "Henri d. Toulouse-Lautrec", 
             "irn": 628487, 
-            "name": "Toulouse-Lautrec, Henri de", 
+            "last": "Toulouse-Lautrec", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "20 5/8 x 16 in. (image and sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62443, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Gustave Pellet", 
+            "first": null, 
+            "fullname": "Gustave Pellet", 
             "irn": 3277, 
-            "name": "Gustave Pellet"
+            "last": "Gustave Pellet", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

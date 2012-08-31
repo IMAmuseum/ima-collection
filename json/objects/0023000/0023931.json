@@ -2,12 +2,23 @@
     "accession_number": "48.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ruisdael, Jacob van", 
+                "UlanIdNo": "500027077"
+            }, 
             "after_follower": null, 
             "birth_date": "1628/1629", 
+            "collaboration": null, 
             "death_date": "1682", 
+            "display_name": "Ruisdael, Jacob van", 
+            "first": "Jacob", 
+            "fullname": "Jacob v. Ruisdael", 
             "irn": 626490, 
-            "name": "Ruisdael, Jacob van", 
+            "last": "Ruisdael", 
+            "middle": "van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 3/8 x 10 1/2 in. (image)\n8 x 11 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 23931, 
     "materials": "etching", 
     "on_view": false, 

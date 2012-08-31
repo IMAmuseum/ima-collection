@@ -2,21 +2,43 @@
     "accession_number": "2004.164", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Toulouse-Lautrec, Henri de", 
+                "UlanIdNo": "500029114"
+            }, 
             "after_follower": null, 
             "birth_date": "1864", 
+            "collaboration": null, 
             "death_date": "1901", 
+            "display_name": "Toulouse-Lautrec, Henri de", 
+            "first": "Henri", 
+            "fullname": "Henri d. Toulouse-Lautrec", 
             "irn": 628487, 
-            "name": "Toulouse-Lautrec, Henri de", 
+            "last": "Toulouse-Lautrec", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Imp. Chaix", 
+            "first": null, 
+            "fullname": "Imp. Chaix", 
             "irn": 3280, 
-            "name": "Imp. Chaix", 
+            "last": "Imp. Chaix", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "17 x 24 1/2 in. (image and sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62445, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "La Plume", 
+            "first": null, 
+            "fullname": "La Plume", 
             "irn": 3281, 
-            "name": "La Plume"
+            "last": "La Plume", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "1996.123", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, William Eugene", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1918", 
+            "collaboration": null, 
             "death_date": "1978", 
+            "display_name": "Smith, William Eugene", 
+            "first": null, 
+            "fullname": "Smith, William Eugene", 
             "irn": 1542, 
-            "name": "Smith, William Eugene", 
+            "last": "Smith, William Eugene", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 13/16 x 9 1/2 in. |  32.5 x 24.1 cm. (image) |  13 7/8 x 10 7/8 in. |  35.2 x 27.6 cm. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4545, 
     "materials": "gelatin silver print", 
     "on_view": false, 

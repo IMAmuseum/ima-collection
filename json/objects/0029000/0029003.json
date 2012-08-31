@@ -2,30 +2,63 @@
     "accession_number": "56.89", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1888", 
+            "collaboration": null, 
             "death_date": "1959", 
+            "display_name": "Edvin Ollers", 
+            "first": "Edvin", 
+            "fullname": "Edvin Ollers", 
             "irn": 5106, 
-            "name": "Edvin Ollers", 
+            "last": "Ollers", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial Not Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Karl M\u00fcller", 
+            "first": "Karl", 
+            "fullname": "Karl M\u00fcller", 
             "irn": 5107, 
-            "name": "Karl M\u00fcller", 
+            "last": "M\u00fcller", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial Not Verified", 
             "role": "Engraver"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Elme Glassworks", 
+            "first": null, 
+            "fullname": "Elme Glassworks", 
             "irn": 5108, 
-            "name": "Elme Glassworks", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Elme Glassworks", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "H: 11 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 29003, 
     "materials": "glass", 
     "on_view": true, 

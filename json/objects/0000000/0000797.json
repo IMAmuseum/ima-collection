@@ -2,12 +2,23 @@
     "accession_number": "81.800", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bailey, William", 
+                "UlanIdNo": "500008272"
+            }, 
             "after_follower": null, 
             "birth_date": "1930", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bailey, William", 
+            "first": "William", 
+            "fullname": "William Bailey", 
             "irn": 608071, 
-            "name": "Bailey, William", 
+            "last": "Bailey", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 797, 
     "materials": "collotype", 
     "on_view": false, 

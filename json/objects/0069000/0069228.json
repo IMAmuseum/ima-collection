@@ -2,12 +2,23 @@
     "accession_number": "MH2010.55", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Saarinen, Eero", 
+                "UlanIdNo": "500006141"
+            }, 
             "after_follower": null, 
             "birth_date": "1910", 
+            "collaboration": null, 
             "death_date": "1961", 
+            "display_name": "Saarinen, Eero", 
+            "first": "Eero", 
+            "fullname": "Eero Saarinen", 
             "irn": 605980, 
-            "name": "Saarinen, Eero", 
+            "last": "Saarinen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "28 3/4 x 96 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69228, 
     "materials": "marble, terrazzo, steel", 
     "on_view": true, 

@@ -2,21 +2,43 @@
     "accession_number": "LH2005.36", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1892", 
+            "collaboration": null, 
             "death_date": "1992", 
+            "display_name": "Keith Murray", 
+            "first": "Keith", 
+            "fullname": "Keith Murray", 
             "irn": 2640, 
-            "name": "Keith Murray", 
+            "last": "Murray", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Stevens & Williams, Ltd.", 
+            "first": null, 
+            "fullname": "Stevens & Williams, Ltd.", 
             "irn": 2641, 
-            "name": "Stevens & Williams, Ltd.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Stevens & Williams, Ltd.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "7 1/2 x 8 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 18279, 
     "materials": "glass", 
     "on_view": true, 

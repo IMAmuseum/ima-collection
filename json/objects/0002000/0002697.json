@@ -2,12 +2,23 @@
     "accession_number": "73.2.45", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Delafosse, Jean Charles", 
+                "UlanIdNo": "500022584"
+            }, 
             "after_follower": null, 
             "birth_date": "1734", 
+            "collaboration": null, 
             "death_date": "1789", 
+            "display_name": "Delafosse, Jean Charles", 
+            "first": "Jean", 
+            "fullname": "Jean C. Delafosse", 
             "irn": 622098, 
-            "name": "Delafosse, Jean Charles", 
+            "last": "Delafosse", 
+            "middle": "Charles", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 X 12 1/2 in. (image)\n9 3/8 X 15 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2697, 
     "materials": "engraving", 
     "on_view": false, 

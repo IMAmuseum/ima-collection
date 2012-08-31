@@ -2,21 +2,43 @@
     "accession_number": "2002.154", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Celmins, Vija", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Celmins, Vija", 
+            "first": null, 
+            "fullname": "Celmins, Vija", 
             "irn": 678, 
-            "name": "Celmins, Vija", 
+            "last": "Celmins, Vija", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Doris Simmelink", 
+            "first": "Doris", 
+            "fullname": "Doris Simmelink", 
             "irn": 2464, 
-            "name": "Doris Simmelink", 
+            "last": "Simmelink", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "23 1/2 x 29 1/4 in. (image)\n29 1/2 x 35 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 59919, 
     "materials": "mezzotint", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Gemini G.E.L.", 
+            "first": null, 
+            "fullname": "Gemini G.E.L.", 
             "irn": 5020, 
-            "name": "Gemini G.E.L."
+            "last": "Gemini G.E.L.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Vija Celmins", 

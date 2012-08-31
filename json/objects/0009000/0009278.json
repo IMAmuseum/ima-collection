@@ -2,12 +2,23 @@
     "accession_number": "73.2.32", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Poilly, Francois de, the younger", 
+                "UlanIdNo": "500000016"
+            }, 
             "after_follower": null, 
             "birth_date": "1671", 
+            "collaboration": null, 
             "death_date": "1723", 
+            "display_name": "Poilly, Francois de, the younger", 
+            "first": "Francois", 
+            "fullname": "Francois d. Poilly", 
             "irn": 600014, 
-            "name": "Poilly, Francois de, the younger", 
+            "last": "Poilly", 
+            "middle": "de, the younger", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 X 6 1/8 in. (image)\n10 1/4 X 6 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9278, 
     "materials": "engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Poilly, Francois de, the younger", 
+                "UlanIdNo": "500000016"
+            }, 
+            "birth_date": "1671", 
+            "collaboration": null, 
+            "death_date": "1723", 
+            "display_name": "Poilly, Francois de, the younger", 
+            "first": "Francois", 
+            "fullname": "Francois d. Poilly", 
             "irn": 600014, 
-            "name": "Poilly, Francois de, the younger"
+            "last": "Poilly", 
+            "middle": "de, the younger", 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "rights": null, 

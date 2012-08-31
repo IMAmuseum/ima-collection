@@ -2,12 +2,23 @@
     "accession_number": "71.198", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mucha, Alphonse", 
+                "UlanIdNo": "500030136"
+            }, 
             "after_follower": null, 
             "birth_date": "1860", 
+            "collaboration": null, 
             "death_date": "1939", 
+            "display_name": "Mucha, Alphonse", 
+            "first": "Alphonse", 
+            "fullname": "Alphonse Mucha", 
             "irn": 629489, 
-            "name": "Mucha, Alphonse", 
+            "last": "Mucha", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "49 1/2 x 32 7/8 in", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26792, 
     "materials": "color lithograph", 
     "on_view": false, 

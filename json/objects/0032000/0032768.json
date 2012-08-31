@@ -2,12 +2,23 @@
     "accession_number": "56.62", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Flinck, Govaert", 
+                "UlanIdNo": "500026249"
+            }, 
             "after_follower": "Attributed to", 
             "birth_date": "1615", 
+            "collaboration": null, 
             "death_date": "1660", 
+            "display_name": "Flinck, Govaert", 
+            "first": "Govaert", 
+            "fullname": "Govaert Flinck", 
             "irn": 625674, 
-            "name": "Flinck, Govaert", 
+            "last": "Flinck", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "24 3/8 x 19 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 32768, 
     "materials": "oil on wood", 
     "on_view": false, 

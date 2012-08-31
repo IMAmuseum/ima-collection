@@ -2,12 +2,23 @@
     "accession_number": "2002.86", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "LeWitt, Sol", 
+                "UlanIdNo": "500115429"
+            }, 
             "after_follower": null, 
             "birth_date": "1928", 
+            "collaboration": null, 
             "death_date": "2007", 
+            "display_name": "LeWitt, Sol", 
+            "first": "Sol", 
+            "fullname": "Sol LeWitt", 
             "irn": 710335, 
-            "name": "LeWitt, Sol", 
+            "last": "LeWitt", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 58992, 
     "materials": "screenprint", 
     "on_view": false, 

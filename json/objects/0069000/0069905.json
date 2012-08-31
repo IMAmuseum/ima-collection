@@ -2,21 +2,43 @@
     "accession_number": "MH2010.269", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sarpaneva, Timo", 
+                "UlanIdNo": "500102782"
+            }, 
             "after_follower": null, 
             "birth_date": "1926", 
+            "collaboration": null, 
             "death_date": "2006", 
+            "display_name": "Sarpaneva, Timo", 
+            "first": "Timo", 
+            "fullname": "Timo Sarpaneva", 
             "irn": 699163, 
-            "name": "Sarpaneva, Timo", 
+            "last": "Sarpaneva", 
+            "middle": null, 
             "nationality": "Finnish", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Iittala", 
+            "first": null, 
+            "fullname": "Iittala", 
             "irn": 6312, 
-            "name": "Iittala", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Iittala", 
+            "party_type": "Organisation", 
             "role": "manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "13 x 4 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69905, 
     "materials": "glass vase", 
     "on_view": true, 

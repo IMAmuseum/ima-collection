@@ -2,12 +2,23 @@
     "accession_number": "2011.23", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Francis, Sam", 
+                "UlanIdNo": "500115537"
+            }, 
             "after_follower": null, 
             "birth_date": "1923", 
+            "collaboration": null, 
             "death_date": "1994", 
+            "display_name": "Francis, Sam", 
+            "first": "Sam", 
+            "fullname": "Sam Francis", 
             "irn": 710430, 
-            "name": "Francis, Sam", 
+            "last": "Francis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "2 3/4 x 1 7/8 in. (image)\n15 x 11 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71364, 
     "materials": "aquatint on off-white wove paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Ihuru Kuwahara", 
+            "first": "Ihuru", 
+            "fullname": "Ihuru Kuwahara", 
             "irn": 7448, 
-            "name": "Ihuru Kuwahara"
+            "last": "Kuwahara", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Person"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "3 EP, Ltd.", 
+            "first": "Ihuru", 
+            "fullname": "3 EP, Ltd.", 
             "irn": 7451, 
-            "name": "3 EP, Ltd."
+            "last": "Kuwahara", 
+            "middle": null, 
+            "organization": "3 EP, Ltd.", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

@@ -2,12 +2,23 @@
     "accession_number": "80.41", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Whistler, James Abbott McNeill", 
+                "UlanIdNo": "500012432"
+            }, 
             "after_follower": null, 
             "birth_date": "1834", 
+            "collaboration": null, 
             "death_date": "1903", 
+            "display_name": "Whistler, James Abbott McNeill", 
+            "first": "James", 
+            "fullname": "James A. Whistler", 
             "irn": 612140, 
-            "name": "Whistler, James Abbott McNeill", 
+            "last": "Whistler", 
+            "middle": "Abbott McNeill", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 11/16 x 10 1/4 in (image) \n13 1/2 x 19 1/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 5063, 
     "materials": "lithotint", 
     "on_view": false, 

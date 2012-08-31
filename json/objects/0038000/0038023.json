@@ -2,21 +2,43 @@
     "accession_number": "80.825.88", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "O'Neill, Hugh", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1784", 
+            "collaboration": null, 
             "death_date": "1824", 
+            "display_name": "O'Neill, Hugh", 
+            "first": null, 
+            "fullname": "O'Neill, Hugh", 
             "irn": 1791, 
-            "name": "O'Neill, Hugh", 
+            "last": "O'Neill, Hugh", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Basire, James II", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1769", 
+            "collaboration": null, 
             "death_date": "1822", 
+            "display_name": "Basire, James II", 
+            "first": null, 
+            "fullname": "Basire, James II", 
             "irn": 1790, 
-            "name": "Basire, James II", 
+            "last": "Basire, James II", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38023, 
     "materials": "engraving", 
     "on_view": false, 

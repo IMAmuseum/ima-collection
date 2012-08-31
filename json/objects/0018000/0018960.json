@@ -2,12 +2,23 @@
     "accession_number": "1990.60", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Velde, Henry van de", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1863", 
+            "collaboration": null, 
             "death_date": "1957", 
+            "display_name": "Velde, Henry van de", 
+            "first": "Henry", 
+            "fullname": "Henry v. Velde", 
             "irn": 1734, 
-            "name": "Velde, Henry van de", 
+            "last": "Velde", 
+            "middle": "van de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "37 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 18960, 
     "materials": "oak, leather, brass tacks", 
     "on_view": false, 

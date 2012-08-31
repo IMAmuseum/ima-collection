@@ -2,12 +2,23 @@
     "accession_number": "78.21", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lairesse, Gerard de", 
+                "UlanIdNo": "500024037"
+            }, 
             "after_follower": null, 
             "birth_date": "1640", 
+            "collaboration": null, 
             "death_date": "1711", 
+            "display_name": "Lairesse, Gerard de", 
+            "first": "Gerard", 
+            "fullname": "Gerard d. Lairesse", 
             "irn": 623517, 
-            "name": "Lairesse, Gerard de", 
+            "last": "Lairesse", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 7851, 
     "materials": "etching", 
     "on_view": false, 

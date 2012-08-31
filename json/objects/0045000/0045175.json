@@ -2,12 +2,23 @@
     "accession_number": "2001.190", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Andre, Carl", 
+                "UlanIdNo": "500011651"
+            }, 
             "after_follower": null, 
             "birth_date": "1935", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Andre, Carl", 
+            "first": "Carl", 
+            "fullname": "Carl Andre", 
             "irn": 2077, 
-            "name": "Andre, Carl", 
+            "last": "Andre", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45175, 
     "materials": "screenprint", 
     "on_view": false, 

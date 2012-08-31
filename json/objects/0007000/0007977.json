@@ -2,12 +2,23 @@
     "accession_number": "79.323", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pearce, Charles Sprague", 
+                "UlanIdNo": "500031565"
+            }, 
             "after_follower": null, 
             "birth_date": "1851", 
+            "collaboration": null, 
             "death_date": "1914", 
+            "display_name": "Pearce, Charles Sprague", 
+            "first": "Charles", 
+            "fullname": "Charles S. Pearce", 
             "irn": 630886, 
-            "name": "Pearce, Charles Sprague", 
+            "last": "Pearce", 
+            "middle": "Sprague", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "21 3/8 x 18 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7977, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "70.49.12", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dwight, Mabel", 
+                "UlanIdNo": "500019538"
+            }, 
             "after_follower": null, 
             "birth_date": "1876", 
+            "collaboration": null, 
             "death_date": "1955", 
+            "display_name": "Dwight, Mabel", 
+            "first": "Mabel", 
+            "fullname": "Mabel Dwight", 
             "irn": 619110, 
-            "name": "Dwight, Mabel", 
+            "last": "Dwight", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 7/8 x 17 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13314, 
     "materials": "lithograph", 
     "on_view": false, 

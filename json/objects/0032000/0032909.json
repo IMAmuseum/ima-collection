@@ -2,12 +2,23 @@
     "accession_number": "31.99", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Carroll, John", 
+                "UlanIdNo": "500120551"
+            }, 
             "after_follower": null, 
             "birth_date": "1892", 
+            "collaboration": null, 
             "death_date": "1959", 
+            "display_name": "Carroll, John", 
+            "first": "John", 
+            "fullname": "John Carroll", 
             "irn": 714612, 
-            "name": "Carroll, John", 
+            "last": "Carroll", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 x 27 in.\n30 x 32 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 32909, 
     "materials": "oil on canvas", 
     "on_view": false, 

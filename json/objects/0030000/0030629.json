@@ -2,12 +2,23 @@
     "accession_number": "20.76", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Auguste Rodin", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1840", 
+            "collaboration": null, 
             "death_date": "1917", 
+            "display_name": "Auguste Rodin", 
+            "first": "Auguste", 
+            "fullname": "Auguste Rodin", 
             "irn": 2817, 
-            "name": "Auguste Rodin", 
+            "last": "Rodin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 5/8 x 7 x 8 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30629, 
     "materials": "bronze", 
     "on_view": false, 

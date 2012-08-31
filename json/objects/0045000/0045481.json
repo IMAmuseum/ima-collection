@@ -2,12 +2,23 @@
     "accession_number": "76.145", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gu\u00e9rard, Henri Charles", 
+                "UlanIdNo": "500115875"
+            }, 
             "after_follower": null, 
             "birth_date": "1846", 
+            "collaboration": null, 
             "death_date": "1897", 
+            "display_name": "Gu\u00e9rard, Henri Charles", 
+            "first": "Henri", 
+            "fullname": "Henri C. Gu\u00e9rard", 
             "irn": 710745, 
-            "name": "Gu\u00e9rard, Henri Charles", 
+            "last": "Gu\u00e9rard", 
+            "middle": "Charles", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45481, 
     "materials": "lithograph", 
     "on_view": false, 

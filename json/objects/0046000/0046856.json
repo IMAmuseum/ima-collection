@@ -2,12 +2,23 @@
     "accession_number": "S4277.81.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Richard", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Smith, Richard", 
+            "first": null, 
+            "fullname": "Smith, Richard", 
             "irn": 1385, 
-            "name": "Smith, Richard", 
+            "last": "Smith, Richard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 46856, 
     "materials": "color etching", 
     "on_view": false, 

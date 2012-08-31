@@ -2,21 +2,43 @@
     "accession_number": "LH2005.53", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Josiah Wedgwood and Sons, Ltd.", 
+            "first": null, 
+            "fullname": "Josiah Wedgwood and Sons, Ltd.", 
             "irn": 995, 
-            "name": "Josiah Wedgwood and Sons, Ltd.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Josiah Wedgwood and Sons, Ltd.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Thomas Lovatt", 
+            "first": "Thomas", 
+            "fullname": "Thomas Lovatt", 
             "irn": 3441, 
-            "name": "Thomas Lovatt", 
+            "last": "Lovatt", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Modeler"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "10 x 7 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 6847, 
     "materials": "stoneware", 
     "on_view": true, 

@@ -2,21 +2,43 @@
     "accession_number": "2010.242A-D", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Chihuly, Dale", 
+                "UlanIdNo": "500103274"
+            }, 
             "after_follower": null, 
             "birth_date": "1941", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Chihuly, Dale", 
+            "first": "Dale", 
+            "fullname": "Dale Chihuly", 
             "irn": 699649, 
-            "name": "Chihuly, Dale", 
+            "last": "Chihuly", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Chihuly Studio", 
+            "first": null, 
+            "fullname": "Chihuly Studio", 
             "irn": 7378, 
-            "name": "Chihuly Studio", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Chihuly Studio", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "A) 8 x 12 x 12 1/2 in.; B) 2 x 4 3/4 x 4 3/4 in.; C) 3 1/2 x 3 1/2 x 4 in.; D) 7 x 7 x 8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68921, 
     "materials": "glass", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "09.112", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dyck, Anthony van", 
+                "UlanIdNo": "500115190"
+            }, 
             "after_follower": null, 
             "birth_date": "1599", 
+            "collaboration": null, 
             "death_date": "1641", 
+            "display_name": "Dyck, Anthony van", 
+            "first": "Anthony", 
+            "fullname": "Anthony v. Dyck", 
             "irn": 710122, 
-            "name": "Dyck, Anthony van", 
+            "last": "Dyck", 
+            "middle": "van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Bolswert, Schelte Adams", 
+                "UlanIdNo": "500005257"
+            }, 
             "after_follower": null, 
             "birth_date": "1586", 
+            "collaboration": null, 
             "death_date": "1659", 
+            "display_name": "Bolswert, Schelte Adams", 
+            "first": "Schelte", 
+            "fullname": "Schelte A. Bolswert", 
             "irn": 605122, 
-            "name": "Bolswert, Schelte Adams", 
+            "last": "Bolswert", 
+            "middle": "Adams", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 31975, 
     "materials": "engraving", 
     "on_view": false, 

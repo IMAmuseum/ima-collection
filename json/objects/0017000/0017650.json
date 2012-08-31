@@ -2,12 +2,23 @@
     "accession_number": "70.124", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Edward Burne-Jones", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1833", 
+            "collaboration": null, 
             "death_date": "1898", 
+            "display_name": "Edward Burne-Jones", 
+            "first": "Edward", 
+            "fullname": "Edward Burne-Jones", 
             "irn": 179, 
-            "name": "Edward Burne-Jones", 
+            "last": "Burne-Jones", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 17650, 
     "materials": "black ink heightened with white on off-white paper", 
     "on_view": false, 

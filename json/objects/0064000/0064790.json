@@ -2,21 +2,43 @@
     "accession_number": "2009.391", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1948", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "William Sawaya", 
+            "first": "William", 
+            "fullname": "William Sawaya", 
             "irn": 6538, 
-            "name": "William Sawaya", 
+            "last": "Sawaya", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Sawaya & Moroni S.p.A.", 
+            "first": null, 
+            "fullname": "Sawaya & Moroni S.p.A.", 
             "irn": 6823, 
-            "name": "Sawaya & Moroni S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Sawaya & Moroni S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "10 1/2  \u00d7  9 1/2  \u00d7  6  in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64790, 
     "materials": "silver", 
     "on_view": false, 

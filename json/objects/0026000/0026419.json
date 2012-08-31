@@ -2,12 +2,23 @@
     "accession_number": "47.104", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Falconer, John Mackie", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1820", 
+            "collaboration": null, 
             "death_date": "1903", 
+            "display_name": "Falconer, John Mackie", 
+            "first": null, 
+            "fullname": "Falconer, John Mackie", 
             "irn": 1988, 
-            "name": "Falconer, John Mackie", 
+            "last": "Falconer, John Mackie", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 26419, 
     "materials": "ink | pen | ink | pencil", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "American Art Review", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "American Art Review", 
+            "first": null, 
+            "fullname": "American Art Review", 
             "irn": 1989, 
-            "name": "American Art Review"
+            "last": "American Art Review", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

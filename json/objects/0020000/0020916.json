@@ -2,21 +2,43 @@
     "accession_number": "71.214.55A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dreyfuss, Henry", 
+                "UlanIdNo": "500059346"
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1972", 
+            "display_name": "Dreyfuss, Henry", 
+            "first": "Henry", 
+            "fullname": "Henry Dreyfuss", 
             "irn": 656174, 
-            "name": "Dreyfuss, Henry", 
+            "last": "Dreyfuss", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "The American Thermos Bottle Company", 
+            "first": null, 
+            "fullname": "The American Thermos Bottle Company", 
             "irn": 7736, 
-            "name": "The American Thermos Bottle Company", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "The American Thermos Bottle Company", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "H: 7 1/2 in. Diam: 6 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20916, 
     "materials": "aluminum, enamel", 
     "on_view": false, 

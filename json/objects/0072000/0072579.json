@@ -2,12 +2,23 @@
     "accession_number": "2011.219", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bone, Muirhead", 
+                "UlanIdNo": "500000110"
+            }, 
             "after_follower": null, 
             "birth_date": "1876", 
+            "collaboration": null, 
             "death_date": "1953", 
+            "display_name": "Bone, Muirhead", 
+            "first": "Muirhead", 
+            "fullname": "Muirhead Bone", 
             "irn": 600106, 
-            "name": "Bone, Muirhead", 
+            "last": "Bone", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 7/8 x 12 5/8 in. (image and sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 72579, 
     "materials": "graphite heightened with watercolor on tan paper", 
     "on_view": false, 

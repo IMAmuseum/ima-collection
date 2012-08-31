@@ -2,21 +2,43 @@
     "accession_number": "2010.11", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1948", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "William Sawaya", 
+            "first": "William", 
+            "fullname": "William Sawaya", 
             "irn": 6538, 
-            "name": "William Sawaya", 
+            "last": "Sawaya", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Heller S.r.l.", 
+            "first": null, 
+            "fullname": "Heller S.r.l.", 
             "irn": 6539, 
-            "name": "Heller S.r.l.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Heller S.r.l.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "32 \u00d7 19 \u00d7 21 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64791, 
     "materials": "polypropylene", 
     "on_view": false, 

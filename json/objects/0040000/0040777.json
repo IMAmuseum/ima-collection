@@ -2,12 +2,23 @@
     "accession_number": "2000.241", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gikow, Ruth", 
+                "UlanIdNo": "500008732"
+            }, 
             "after_follower": null, 
             "birth_date": "1915", 
+            "collaboration": null, 
             "death_date": "1982", 
+            "display_name": "Gikow, Ruth", 
+            "first": "Ruth", 
+            "fullname": "Ruth Gikow", 
             "irn": 608517, 
-            "name": "Gikow, Ruth", 
+            "last": "Gikow", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40777, 
     "materials": "screenprint", 
     "on_view": false, 

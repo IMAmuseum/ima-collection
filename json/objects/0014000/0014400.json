@@ -2,12 +2,23 @@
     "accession_number": "09.233", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dalton, Richard", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1715-1791", 
+            "collaboration": null, 
             "death_date": "1715-1791", 
+            "display_name": "Dalton, Richard", 
+            "first": null, 
+            "fullname": "Dalton, Richard", 
             "irn": 1213, 
-            "name": "Dalton, Richard", 
+            "last": "Dalton, Richard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 14400, 
     "materials": "etching and engraving", 
     "on_view": false, 

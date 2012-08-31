@@ -2,12 +2,23 @@
     "accession_number": "2001.259", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Denes, Agnes C.", 
+                "UlanIdNo": "500072038"
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Denes, Agnes C.", 
+            "first": "Agnes", 
+            "fullname": "Agnes C. Denes", 
             "irn": 668727, 
-            "name": "Denes, Agnes C.", 
+            "last": "Denes", 
+            "middle": "C.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 50972, 
     "materials": "lithograph", 
     "on_view": false, 

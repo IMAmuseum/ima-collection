@@ -2,12 +2,23 @@
     "accession_number": "MH2010.113", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wilson, Ellis", 
+                "UlanIdNo": "500017827"
+            }, 
             "after_follower": null, 
             "birth_date": "1900", 
+            "collaboration": null, 
             "death_date": "1977", 
+            "display_name": "Wilson, Ellis", 
+            "first": "Ellis", 
+            "fullname": "Ellis Wilson", 
             "irn": 617427, 
-            "name": "Wilson, Ellis", 
+            "last": "Wilson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "34 x 33 1/2 x 1 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69462, 
     "materials": "ink on paper", 
     "on_view": false, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "\"Funeral Procession\" (print)"
+    "title": "\"Funeral Procession\""
 }

@@ -2,12 +2,23 @@
     "accession_number": "1986.138", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cameron, James", 
+                "UlanIdNo": "500013647"
+            }, 
             "after_follower": null, 
             "birth_date": "1820", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Cameron, James", 
+            "first": "James", 
+            "fullname": "James Cameron", 
             "irn": 613329, 
-            "name": "Cameron, James", 
+            "last": "Cameron", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 3/8 x 18 3/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15059, 
     "materials": "pen and ink on white paper", 
     "on_view": false, 

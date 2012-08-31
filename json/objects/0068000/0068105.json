@@ -2,21 +2,43 @@
     "accession_number": "2009.502", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1972", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Monika Mulder", 
+            "first": "Monika", 
+            "fullname": "Monika Mulder", 
             "irn": 6639, 
-            "name": "Monika Mulder", 
+            "last": "Mulder", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "IKEA", 
+            "first": null, 
+            "fullname": "IKEA", 
             "irn": 6553, 
-            "name": "IKEA", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "IKEA", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "12 3/4 x 14 x 4 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68105, 
     "materials": "polypropylene", 
     "on_view": false, 

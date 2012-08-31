@@ -2,12 +2,23 @@
     "accession_number": "05.20", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Muller, Franz Hubert", 
+                "UlanIdNo": "500067704"
+            }, 
             "after_follower": null, 
             "birth_date": "1784", 
+            "collaboration": null, 
             "death_date": "1835", 
+            "display_name": "Muller, Franz Hubert", 
+            "first": "Franz", 
+            "fullname": "Franz H. Muller", 
             "irn": 664438, 
-            "name": "Muller, Franz Hubert", 
+            "last": "Muller", 
+            "middle": "Hubert", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 15310, 
     "materials": "steel engraving", 
     "on_view": false, 

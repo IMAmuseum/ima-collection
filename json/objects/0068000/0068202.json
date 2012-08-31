@@ -2,21 +2,43 @@
     "accession_number": "2009.507.1-.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1964", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Johan Verde", 
+            "first": "Johan", 
+            "fullname": "Johan Verde", 
             "irn": 6254, 
-            "name": "Johan Verde", 
+            "last": "Verde", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Figgjo A/S", 
+            "first": null, 
+            "fullname": "Figgjo A/S", 
             "irn": 6313, 
-            "name": "Figgjo A/S", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Figgjo A/S", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "1-3) lidded pots\n4-5) cream jugs\n6) sugar bowl\n7-8) gravy boats", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68202, 
     "materials": "porcelain", 
     "on_view": false, 

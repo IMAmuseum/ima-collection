@@ -2,12 +2,23 @@
     "accession_number": "73.2.190", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Habermann, Franz Xaver", 
+                "UlanIdNo": "500013416"
+            }, 
             "after_follower": null, 
             "birth_date": "1721", 
+            "collaboration": null, 
             "death_date": "1796", 
+            "display_name": "Habermann, Franz Xaver", 
+            "first": "Franz", 
+            "fullname": "Franz X. Habermann", 
             "irn": 613102, 
-            "name": "Habermann, Franz Xaver", 
+            "last": "Habermann", 
+            "middle": "Xaver", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 1/2 X 9 7/8 in. (image)\n9 3/8 X 15 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46063, 
     "materials": "etching", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Hertel, Johann Georg", 
+                "UlanIdNo": "500078269"
+            }, 
+            "birth_date": "1720", 
+            "collaboration": null, 
+            "death_date": "1790", 
+            "display_name": "Hertel, Johann Georg", 
+            "first": "Johann", 
+            "fullname": "Johann G. Hertel", 
             "irn": 674898, 
-            "name": "Hertel, Johann Georg"
+            "last": "Hertel", 
+            "middle": "Georg", 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "rights": null, 

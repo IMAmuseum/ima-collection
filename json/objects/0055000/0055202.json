@@ -2,12 +2,23 @@
     "accession_number": "72.43.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ansdell, Richard", 
+                "UlanIdNo": "500029940"
+            }, 
             "after_follower": null, 
             "birth_date": "1815", 
+            "collaboration": null, 
             "death_date": "1885", 
+            "display_name": "Ansdell, Richard", 
+            "first": "Richard", 
+            "fullname": "Richard Ansdell", 
             "irn": 629298, 
-            "name": "Ansdell, Richard", 
+            "last": "Ansdell", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55202, 
     "materials": "etching", 
     "on_view": false, 

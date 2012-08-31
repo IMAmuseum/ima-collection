@@ -2,30 +2,63 @@
     "accession_number": "80.1321", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Miller, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1882", 
+            "display_name": "Miller, William", 
+            "first": null, 
+            "fullname": "Miller, William", 
             "irn": 832, 
-            "name": "Miller, William", 
+            "last": "Miller, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Miller, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1882", 
+            "display_name": "Miller, William", 
+            "first": null, 
+            "fullname": "Miller, William", 
             "irn": 832, 
-            "name": "Miller, William", 
+            "last": "Miller, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40225, 
     "materials": "engraving on steel, India paper, chine coll\u00e9", 
     "on_view": false, 

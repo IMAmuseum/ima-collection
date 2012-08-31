@@ -2,21 +2,43 @@
     "accession_number": "80.825.55", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rooker, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1724", 
+            "collaboration": null, 
             "death_date": "1774", 
+            "display_name": "Rooker, Edward", 
+            "first": null, 
+            "fullname": "Rooker, Edward", 
             "irn": 1800, 
-            "name": "Rooker, Edward", 
+            "last": "Rooker, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Rooker, Michael Angelo", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1746", 
+            "collaboration": null, 
             "death_date": "1801", 
+            "display_name": "Rooker, Michael Angelo", 
+            "first": null, 
+            "fullname": "Rooker, Michael Angelo", 
             "irn": 1801, 
-            "name": "Rooker, Michael Angelo", 
+            "last": "Rooker, Michael Angelo", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37993, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "S3633.82.15", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Turnbull, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Turnbull, William", 
+            "first": null, 
+            "fullname": "Turnbull, William", 
             "irn": 214, 
-            "name": "Turnbull, William", 
+            "last": "Turnbull, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Studio Prints, London", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Studio Prints, London", 
+            "first": null, 
+            "fullname": "Studio Prints, London", 
             "irn": 2298, 
-            "name": "Studio Prints, London", 
+            "last": "Studio Prints, London", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 48773, 
     "materials": "etching", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "The Times Newspapers Ltd.", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "The Times Newspapers Ltd.", 
+            "first": null, 
+            "fullname": "The Times Newspapers Ltd.", 
             "irn": 2299, 
-            "name": "The Times Newspapers Ltd."
+            "last": "The Times Newspapers Ltd.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

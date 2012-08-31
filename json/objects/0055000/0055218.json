@@ -2,12 +2,23 @@
     "accession_number": "72.43.24", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Potter, Paulus", 
+                "UlanIdNo": "500012008"
+            }, 
             "after_follower": null, 
             "birth_date": "1625", 
+            "collaboration": null, 
             "death_date": "1654", 
+            "display_name": "Potter, Paulus", 
+            "first": "Paulus", 
+            "fullname": "Paulus Potter", 
             "irn": 611725, 
-            "name": "Potter, Paulus", 
+            "last": "Potter", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55218, 
     "materials": "etching", 
     "on_view": false, 

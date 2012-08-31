@@ -2,12 +2,23 @@
     "accession_number": "69.89", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Henry Spencer Moore", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1898", 
+            "collaboration": null, 
             "death_date": "1986", 
+            "display_name": "Henry Spencer Moore", 
+            "first": null, 
+            "fullname": "Henry Spencer Moore", 
             "irn": 940, 
-            "name": "Henry Spencer Moore", 
+            "last": "Henry Spencer Moore", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 17791, 
     "materials": "color lithograph", 
     "on_view": false, 

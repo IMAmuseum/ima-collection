@@ -2,12 +2,23 @@
     "accession_number": "75.502", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Johann Friedrich Eberlein", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1696", 
+            "collaboration": null, 
             "death_date": "1749", 
+            "display_name": "Johann Friedrich Eberlein", 
+            "first": "Johann", 
+            "fullname": "Johann F. Eberlein", 
             "irn": 2826, 
-            "name": "Johann Friedrich Eberlein", 
+            "last": "Eberlein", 
+            "middle": "Friedrich", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Modeler"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 7 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 36427, 
     "materials": null, 
     "on_view": false, 

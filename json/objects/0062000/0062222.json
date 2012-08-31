@@ -2,12 +2,23 @@
     "accession_number": "LH2003.69A-P", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1850", 
+            "collaboration": null, 
             "death_date": "1904", 
+            "display_name": "Lafcadio Hearn", 
+            "first": "Lafcadio", 
+            "fullname": "Lafcadio Hearn", 
             "irn": 3125, 
-            "name": "Lafcadio Hearn", 
+            "last": "Hearn", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/8 x 5 3/4 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62222, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Houghton Mifflin Company", 
+            "first": null, 
+            "fullname": "Houghton Mifflin Company", 
             "irn": 3015, 
-            "name": "Houghton Mifflin Company"
+            "last": "Houghton Mifflin Company", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

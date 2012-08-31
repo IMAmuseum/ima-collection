@@ -2,12 +2,23 @@
     "accession_number": "30.132", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Manship, Paul", 
+                "UlanIdNo": "500032239"
+            }, 
             "after_follower": null, 
             "birth_date": "1885", 
+            "collaboration": null, 
             "death_date": "1966", 
+            "display_name": "Manship, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul Manship", 
             "irn": 631547, 
-            "name": "Manship, Paul", 
+            "last": "Manship", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 19 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 3246, 
     "materials": null, 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "46.20", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pittman, Hobson", 
+                "UlanIdNo": "500010049"
+            }, 
             "after_follower": null, 
             "birth_date": "1899", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Pittman, Hobson", 
+            "first": "Hobson", 
+            "fullname": "Hobson Pittman", 
             "irn": 609809, 
-            "name": "Pittman, Hobson", 
+            "last": "Pittman", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "40 x 30 in.\n48 1/4 x 38 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 31779, 
     "materials": "oil on canvas", 
     "on_view": false, 

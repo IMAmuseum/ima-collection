@@ -2,21 +2,43 @@
     "accession_number": "2003.79", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Warhol, Andy", 
+                "UlanIdNo": "500006031"
+            }, 
             "after_follower": null, 
             "birth_date": "1928", 
+            "collaboration": null, 
             "death_date": "1987", 
+            "display_name": "Warhol, Andy", 
+            "first": "Andy", 
+            "fullname": "Andy Warhol", 
             "irn": 605873, 
-            "name": "Warhol, Andy", 
+            "last": "Warhol", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Salvatore Silkscreen Co. Inc., New York", 
+            "first": null, 
+            "fullname": "Salvatore Silkscreen Co. Inc., New York", 
             "irn": 2772, 
-            "name": "Salvatore Silkscreen Co. Inc., New York", 
+            "last": "Salvatore Silkscreen Co. Inc., New York", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "35 1/8 x 23 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 60965, 
     "materials": "screenprint", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Factory Editions, New York", 
+            "first": null, 
+            "fullname": "Factory Editions, New York", 
             "irn": 2771, 
-            "name": "Factory Editions, New York"
+            "last": "Factory Editions, New York", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 The Andy Warhol Foundation for the Visual Arts, Inc. / Artists Rights Society (ARS),  New York", 

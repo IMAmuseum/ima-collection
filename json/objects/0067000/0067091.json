@@ -2,30 +2,63 @@
     "accession_number": "2009.27", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Eames, Charles", 
+                "UlanIdNo": "500029567"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1978", 
+            "display_name": "Eames, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Eames", 
             "irn": 628931, 
-            "name": "Eames, Charles", 
+            "last": "Eames", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Eames, Ray Kaiser", 
+                "UlanIdNo": "500027192"
+            }, 
             "after_follower": null, 
             "birth_date": "1912", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Eames, Ray Kaiser", 
+            "first": "Ray", 
+            "fullname": "Ray K. Eames", 
             "irn": 626605, 
-            "name": "Eames, Ray Kaiser", 
+            "last": "Eames", 
+            "middle": "Kaiser", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Knoll", 
+            "first": null, 
+            "fullname": "Knoll", 
             "irn": 6896, 
-            "name": "Knoll", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Knoll", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "28 3/4 x 21 3/8 x 19 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67091, 
     "materials": "birch plywood, rubber, and steel", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "30.378", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "June, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "June, John", 
+            "first": null, 
+            "fullname": "June, John", 
             "irn": 2122, 
-            "name": "June, John", 
+            "last": "June, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16622, 
     "materials": "engraving", 
     "on_view": false, 

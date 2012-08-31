@@ -2,12 +2,23 @@
     "accession_number": "73.2.50", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Boucher, Juste-Nathan", 
+                "UlanIdNo": "500028922"
+            }, 
             "after_follower": null, 
             "birth_date": "1736", 
+            "collaboration": null, 
             "death_date": "1782", 
+            "display_name": "Boucher, Juste-Nathan", 
+            "first": "Juste", 
+            "fullname": "Juste -. Boucher", 
             "irn": 628299, 
-            "name": "Boucher, Juste-Nathan", 
+            "last": "Boucher", 
+            "middle": "-Nathan", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 7/8 X 11 7/8 in (image)\n9 1/4 X 13 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9283, 
     "materials": "engraving", 
     "on_view": false, 

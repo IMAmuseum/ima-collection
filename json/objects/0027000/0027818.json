@@ -2,12 +2,23 @@
     "accession_number": "02.32", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tryon, Dwight William", 
+                "UlanIdNo": "500001340"
+            }, 
             "after_follower": null, 
             "birth_date": "1849", 
+            "collaboration": null, 
             "death_date": "1925", 
+            "display_name": "Tryon, Dwight William", 
+            "first": "Dwight", 
+            "fullname": "Dwight W. Tryon", 
             "irn": 601305, 
-            "name": "Tryon, Dwight William", 
+            "last": "Tryon", 
+            "middle": "William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "26 x 34 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 27818, 
     "materials": "oil on panel", 
     "on_view": true, 

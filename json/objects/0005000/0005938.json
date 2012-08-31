@@ -2,12 +2,23 @@
     "accession_number": "47.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Titian", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "about 1488", 
+            "collaboration": null, 
             "death_date": "1576", 
+            "display_name": "Titian", 
+            "first": null, 
+            "fullname": "Titian", 
             "irn": 850, 
-            "name": "Titian", 
+            "last": "Titian", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "23 1/2 x 18 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 5938, 
     "materials": "oil on canvas", 
     "on_view": true, 

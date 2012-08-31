@@ -2,21 +2,43 @@
     "accession_number": "73.2.21", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "B\u00e9rain, Jean, I", 
+                "UlanIdNo": "500015026"
+            }, 
             "after_follower": null, 
             "birth_date": "1640", 
+            "collaboration": null, 
             "death_date": "1711", 
+            "display_name": "B\u00e9rain, Jean, I", 
+            "first": "Jean", 
+            "fullname": "Jean ,. B\u00e9rain", 
             "irn": 614686, 
-            "name": "B\u00e9rain, Jean, I", 
+            "last": "B\u00e9rain", 
+            "middle": ", I", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Daigremont, M.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Daigremont, M.", 
+            "first": null, 
+            "fullname": "Daigremont, M.", 
             "irn": 2141, 
-            "name": "Daigremont, M.", 
+            "last": "Daigremont, M.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "12 7/8 X 9 1/2 in. (image)\n15 X 10 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9271, 
     "materials": "engraving", 
     "on_view": false, 

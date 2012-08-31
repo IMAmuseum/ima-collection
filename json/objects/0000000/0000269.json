@@ -2,21 +2,43 @@
     "accession_number": "24.233", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Daubigny, Charles Fran\u00e7ois", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1817", 
+            "collaboration": null, 
             "death_date": "1878", 
+            "display_name": "Daubigny, Charles Fran\u00e7ois", 
+            "first": "Charles", 
+            "fullname": "Charles F. Daubigny", 
             "irn": 1262, 
-            "name": "Daubigny, Charles Fran\u00e7ois", 
+            "last": "Daubigny", 
+            "middle": "Fran\u00e7ois", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Del\u00e2tre, Auguste", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1822", 
+            "collaboration": null, 
             "death_date": "1907", 
+            "display_name": "Del\u00e2tre, Auguste", 
+            "first": null, 
+            "fullname": "Del\u00e2tre, Auguste", 
             "irn": 2047, 
-            "name": "Del\u00e2tre, Auguste", 
+            "last": "Del\u00e2tre, Auguste", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 269, 
     "materials": "etching on chine coll\u00e9", 
     "on_view": false, 

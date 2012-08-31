@@ -2,12 +2,23 @@
     "accession_number": "TR10965/4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Master of the Dresden Prayerbook", 
+                "UlanIdNo": "500018916"
+            }, 
             "after_follower": null, 
             "birth_date": "1440", 
+            "collaboration": null, 
             "death_date": "1525", 
+            "display_name": "Master of the Dresden Prayerbook", 
+            "first": null, 
+            "fullname": "Master of the Dresden Prayerbook", 
             "irn": 618497, 
-            "name": "Master of the Dresden Prayerbook", 
+            "last": "Master of the Dresden Prayerbook", 
+            "middle": null, 
             "nationality": "Flemish", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "bound book: 7 11/16 x 5 3/8 x 1 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67583, 
     "materials": "illuminated manuscript, tempera on vellum", 
     "on_view": false, 

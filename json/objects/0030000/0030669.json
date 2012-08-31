@@ -2,12 +2,23 @@
     "accession_number": "71.177", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Varotti, Giuseppe", 
+                "UlanIdNo": "500020455"
+            }, 
             "after_follower": null, 
             "birth_date": "1715", 
+            "collaboration": null, 
             "death_date": "1780", 
+            "display_name": "Varotti, Giuseppe", 
+            "first": "Giuseppe", 
+            "fullname": "Giuseppe Varotti", 
             "irn": 620007, 
-            "name": "Varotti, Giuseppe", 
+            "last": "Varotti", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "20 1/2 x 15 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30669, 
     "materials": "oil on copper", 
     "on_view": false, 

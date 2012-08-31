@@ -2,12 +2,23 @@
     "accession_number": "28.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Moll, Carl", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1861", 
+            "collaboration": null, 
             "death_date": "1945", 
+            "display_name": "Moll, Carl", 
+            "first": null, 
+            "fullname": "Moll, Carl", 
             "irn": 1014, 
-            "name": "Moll, Carl", 
+            "last": "Moll, Carl", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 28552, 
     "materials": "color lithograph", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "61.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Grosz, George", 
+                "UlanIdNo": "500014558"
+            }, 
             "after_follower": null, 
             "birth_date": "1893", 
+            "collaboration": null, 
             "death_date": "1959", 
+            "display_name": "Grosz, George", 
+            "first": "George", 
+            "fullname": "George Grosz", 
             "irn": 614226, 
-            "name": "Grosz, George", 
+            "last": "Grosz", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 29956, 
     "materials": "photolithograph", 
     "on_view": false, 

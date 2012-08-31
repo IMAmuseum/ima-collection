@@ -2,12 +2,23 @@
     "accession_number": "S3622.81.24", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Roth, Dieter", 
+                "UlanIdNo": "500023079"
+            }, 
             "after_follower": null, 
             "birth_date": "1930", 
+            "collaboration": null, 
             "death_date": "1998", 
+            "display_name": "Roth, Dieter", 
+            "first": "Dieter", 
+            "fullname": "Dieter Roth", 
             "irn": 622584, 
-            "name": "Roth, Dieter", 
+            "last": "Roth", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 23618, 
     "materials": "offset lithograph", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "71.218.14", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Currier, Joseph Frank", 
+                "UlanIdNo": "500023118"
+            }, 
             "after_follower": null, 
             "birth_date": "1843", 
+            "collaboration": null, 
             "death_date": "1909", 
+            "display_name": "Currier, Joseph Frank", 
+            "first": "Joseph", 
+            "fullname": "Joseph F. Currier", 
             "irn": 622623, 
-            "name": "Currier, Joseph Frank", 
+            "last": "Currier", 
+            "middle": "Frank", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 x 25 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9882, 
     "materials": "oil on canvas", 
     "on_view": false, 

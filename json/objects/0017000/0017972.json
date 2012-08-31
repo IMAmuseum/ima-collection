@@ -2,12 +2,23 @@
     "accession_number": "71.183", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "William Merritt Chase", 
+                "UlanIdNo": "500115356"
+            }, 
             "after_follower": null, 
             "birth_date": "1849", 
+            "collaboration": null, 
             "death_date": "1916", 
+            "display_name": "William Merritt Chase", 
+            "first": null, 
+            "fullname": "William Merritt Chase", 
             "irn": 1171, 
-            "name": "William Merritt Chase", 
+            "last": "William Merritt Chase", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 x 8", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17972, 
     "materials": "pastel, gouache on paper, laid on panel", 
     "on_view": false, 

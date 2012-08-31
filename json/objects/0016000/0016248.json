@@ -2,21 +2,43 @@
     "accession_number": "32.138", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fiene, Ernest", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1894", 
+            "collaboration": null, 
             "death_date": "1966", 
+            "display_name": "Fiene, Ernest", 
+            "first": null, 
+            "fullname": "Fiene, Ernest", 
             "irn": 1256, 
-            "name": "Fiene, Ernest", 
+            "last": "Fiene, Ernest", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Miller, George Charles", 
+                "UlanIdNo": "500032306"
+            }, 
             "after_follower": null, 
             "birth_date": "1894", 
+            "collaboration": null, 
             "death_date": "1965", 
+            "display_name": "Miller, George Charles", 
+            "first": "George", 
+            "fullname": "George C. Miller", 
             "irn": 631609, 
-            "name": "Miller, George Charles", 
+            "last": "Miller", 
+            "middle": "Charles", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "15 7/8 x 11 3/8 in. (sheet)\n13 3/4 x 15 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16248, 
     "materials": "color lithograph", 
     "on_view": false, 

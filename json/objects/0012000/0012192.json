@@ -2,21 +2,43 @@
     "accession_number": "1986.25", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Louis Comfort Tiffany", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1848", 
+            "collaboration": null, 
             "death_date": "1933", 
+            "display_name": "Louis Comfort Tiffany", 
+            "first": "Louis", 
+            "fullname": "Louis C. Tiffany", 
             "irn": 2834, 
-            "name": "Louis Comfort Tiffany", 
+            "last": "Tiffany", 
+            "middle": "Comfort", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Louis C. Tiffany Furnaces, Inc.", 
+            "first": null, 
+            "fullname": "Louis C. Tiffany Furnaces, Inc.", 
             "irn": 3064, 
-            "name": "Louis C. Tiffany Furnaces, Inc.", 
+            "last": "Louis C. Tiffany Furnaces, Inc.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "3 3/4  x 5 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 12192, 
     "materials": "glass", 
     "on_view": false, 

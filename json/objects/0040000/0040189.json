@@ -2,21 +2,43 @@
     "accession_number": "80.1320.12", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gastineau, Henry", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1797", 
+            "collaboration": null, 
             "death_date": "1876", 
+            "display_name": "Gastineau, Henry", 
+            "first": null, 
+            "fullname": "Gastineau, Henry", 
             "irn": 1872, 
-            "name": "Gastineau, Henry", 
+            "last": "Gastineau, Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40189, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "81.830", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Otto", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Otto", 
+            "first": null, 
+            "fullname": "Otto", 
             "irn": 2103, 
-            "name": "Otto", 
+            "last": "Otto", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 28523, 
     "materials": "drypoint", 
     "on_view": false, 

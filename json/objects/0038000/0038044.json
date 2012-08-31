@@ -2,12 +2,23 @@
     "accession_number": "80.825.108", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mackenzie, Frederick", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1787-1788", 
+            "collaboration": null, 
             "death_date": "1854", 
+            "display_name": "Mackenzie, Frederick", 
+            "first": null, 
+            "fullname": "Mackenzie, Frederick", 
             "irn": 1804, 
-            "name": "Mackenzie, Frederick", 
+            "last": "Mackenzie, Frederick", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38044, 
     "materials": "engraving", 
     "on_view": false, 

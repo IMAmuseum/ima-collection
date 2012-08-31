@@ -2,21 +2,43 @@
     "accession_number": "80.1320.40", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cattermole, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1800", 
+            "collaboration": null, 
             "death_date": "1868", 
+            "display_name": "Cattermole, George", 
+            "first": null, 
+            "fullname": "Cattermole, George", 
             "irn": 1866, 
-            "name": "Cattermole, George", 
+            "last": "Cattermole, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40243, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

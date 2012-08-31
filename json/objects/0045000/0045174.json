@@ -2,12 +2,23 @@
     "accession_number": "2001.189", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Marden, Brice", 
+                "UlanIdNo": "500118786"
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Marden, Brice", 
+            "first": "Brice", 
+            "fullname": "Brice Marden", 
             "irn": 713490, 
-            "name": "Marden, Brice", 
+            "last": "Marden", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45174, 
     "materials": "etching", 
     "on_view": false, 

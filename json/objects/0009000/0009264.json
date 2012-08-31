@@ -2,12 +2,23 @@
     "accession_number": "73.2.13", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lepautre, Antoine", 
+                "UlanIdNo": "500022516"
+            }, 
             "after_follower": null, 
             "birth_date": "1621", 
+            "collaboration": null, 
             "death_date": "1679", 
+            "display_name": "Lepautre, Antoine", 
+            "first": "Antoine", 
+            "fullname": "Antoine Lepautre", 
             "irn": 622032, 
-            "name": "Lepautre, Antoine", 
+            "last": "Lepautre", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 4/8 X 9 1/2 in. (image)\n11 5/8 X 14 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9264, 
     "materials": "engraving", 
     "on_view": false, 

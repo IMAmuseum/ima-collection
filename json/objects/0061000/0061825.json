@@ -2,12 +2,23 @@
     "accession_number": "LH2003.7A-G", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "O. Henry", 
+            "first": "O.", 
+            "fullname": "O. Henry", 
             "irn": 2972, 
-            "name": "O. Henry", 
+            "last": "Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 x 7 1/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61825, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Doubleday, Page & Co.", 
+            "first": null, 
+            "fullname": "Doubleday, Page & Co.", 
             "irn": 2973, 
-            "name": "Doubleday, Page & Co."
+            "last": "Doubleday, Page & Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

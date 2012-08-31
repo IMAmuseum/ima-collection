@@ -2,21 +2,43 @@
     "accession_number": "2009.362", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1956", 
+            "collaboration": null, 
             "death_date": "2005", 
+            "display_name": "Maarten van Severen", 
+            "first": "Maarten van", 
+            "fullname": "Maarten van Severen", 
             "irn": 5657, 
-            "name": "Maarten van Severen", 
+            "last": "Severen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Vitra AG", 
+            "first": null, 
+            "fullname": "Vitra AG", 
             "irn": 6962, 
-            "name": "Vitra AG", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Vitra AG", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 \u00d7 20 3/4 \u00d7 15 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68203, 
     "materials": "polyurethane, steel, and aluminum", 
     "on_view": false, 

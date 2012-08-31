@@ -2,12 +2,23 @@
     "accession_number": "25.99", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hart, William M.", 
+                "UlanIdNo": "500005878"
+            }, 
             "after_follower": null, 
             "birth_date": "1823", 
+            "collaboration": null, 
             "death_date": "1894", 
+            "display_name": "Hart, William M.", 
+            "first": "William", 
+            "fullname": "William M. Hart", 
             "irn": 605723, 
-            "name": "Hart, William M.", 
+            "last": "Hart", 
+            "middle": "M", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 x 14 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11367, 
     "materials": "oil on canvas", 
     "on_view": false, 

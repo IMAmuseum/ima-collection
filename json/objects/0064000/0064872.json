@@ -2,12 +2,23 @@
     "accession_number": "2007.98", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Halston", 
+                "UlanIdNo": "500054334"
+            }, 
             "after_follower": null, 
             "birth_date": "1932", 
+            "collaboration": null, 
             "death_date": "1990", 
+            "display_name": "Halston", 
+            "first": null, 
+            "fullname": "Halston", 
             "irn": 651528, 
-            "name": "Halston", 
+            "last": "Halston", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "A) dress: L: 44in. \nL: 39 5/8 in.\nW: 16 1/2 in.\nB) scarf: W:22 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64872, 
     "materials": "wool, cotton, synthetic fibers, metal zipper", 
     "on_view": false, 

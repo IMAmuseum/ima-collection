@@ -2,12 +2,23 @@
     "accession_number": "2008.796.7", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Callot, Jacques", 
+                "UlanIdNo": "500021688"
+            }, 
             "after_follower": null, 
             "birth_date": "1592", 
+            "collaboration": null, 
             "death_date": "1635", 
+            "display_name": "Callot, Jacques", 
+            "first": "Jacques", 
+            "fullname": "Jacques Callot", 
             "irn": 621223, 
-            "name": "Callot, Jacques", 
+            "last": "Callot", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "3 1/4 x 7 3/8 in. (image)\n3 5/8 x 7 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67269, 
     "materials": "etching on off-white laid paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Henriet, Isra\u00ebl", 
+                "UlanIdNo": "500082521"
+            }, 
+            "birth_date": "1590", 
+            "collaboration": null, 
+            "death_date": "1661", 
+            "display_name": "Henriet, Isra\u00ebl", 
+            "first": "Isra", 
+            "fullname": "Isra \u00eb. Henriet", 
             "irn": 679106, 
-            "name": "Henriet, Isra\u00ebl"
+            "last": "Henriet", 
+            "middle": "\u00ebl", 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "rights": null, 

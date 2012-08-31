@@ -2,21 +2,43 @@
     "accession_number": "80.825.45", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wale, Samuel", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1721", 
+            "collaboration": null, 
             "death_date": "1786", 
+            "display_name": "Wale, Samuel", 
+            "first": null, 
+            "fullname": "Wale, Samuel", 
             "irn": 1796, 
-            "name": "Wale, Samuel", 
+            "last": "Wale, Samuel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Green, Benjamin", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Green, Benjamin", 
+            "first": null, 
+            "fullname": "Green, Benjamin", 
             "irn": 1797, 
-            "name": "Green, Benjamin", 
+            "last": "Green, Benjamin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37983, 
     "materials": "engraving", 
     "on_view": false, 

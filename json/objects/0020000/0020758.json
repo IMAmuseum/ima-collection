@@ -2,21 +2,43 @@
     "accession_number": "73.84.86", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nash, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1752-1835", 
+            "collaboration": null, 
             "death_date": "1752-1835", 
+            "display_name": "Nash, John", 
+            "first": null, 
+            "fullname": "Nash, John", 
             "irn": 2132, 
-            "name": "Nash, John", 
+            "last": "Nash, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Gendall, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1789-1865", 
+            "collaboration": null, 
             "death_date": "1789-1865", 
+            "display_name": "Gendall, John", 
+            "first": null, 
+            "fullname": "Gendall, John", 
             "irn": 2130, 
-            "name": "Gendall, John", 
+            "last": "Gendall, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 20758, 
     "materials": "hand-colored aquatint", 
     "on_view": false, 

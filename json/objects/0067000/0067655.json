@@ -2,21 +2,43 @@
     "accession_number": "2009.534.3A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1959", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tom Dixon", 
+            "first": "Tom", 
+            "fullname": "Tom Dixon", 
             "irn": 5687, 
-            "name": "Tom Dixon", 
+            "last": "Dixon", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Eurolounge", 
+            "first": null, 
+            "fullname": "Eurolounge", 
             "irn": 6510, 
-            "name": "Eurolounge", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Eurolounge", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "21 x 21 x 21 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67655, 
     "materials": "polyethylene", 
     "on_view": false, 

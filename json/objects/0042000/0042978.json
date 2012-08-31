@@ -2,12 +2,23 @@
     "accession_number": "72.40.40", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Morris, Robert", 
+                "UlanIdNo": "500020041"
+            }, 
             "after_follower": null, 
             "birth_date": "1931", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Morris, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Morris", 
             "irn": 619603, 
-            "name": "Morris, Robert", 
+            "last": "Morris", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42978, 
     "materials": "pen and ink on off-white paper", 
     "on_view": false, 

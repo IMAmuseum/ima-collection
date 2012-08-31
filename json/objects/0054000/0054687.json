@@ -2,12 +2,23 @@
     "accession_number": "71.63.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dongen, Kees van", 
+                "UlanIdNo": "500005833"
+            }, 
             "after_follower": null, 
             "birth_date": "1877", 
+            "collaboration": null, 
             "death_date": "1968", 
+            "display_name": "Dongen, Kees van", 
+            "first": "Kees", 
+            "fullname": "Kees v. Dongen", 
             "irn": 605678, 
-            "name": "Dongen, Kees van", 
+            "last": "Dongen", 
+            "middle": "van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 54687, 
     "materials": "etching", 
     "on_view": false, 

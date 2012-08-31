@@ -2,12 +2,23 @@
     "accession_number": "1994.694", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jimenez, Luis", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1940", 
+            "collaboration": null, 
             "death_date": "2006", 
+            "display_name": "Jimenez, Luis", 
+            "first": null, 
+            "fullname": "Jimenez, Luis", 
             "irn": 1545, 
-            "name": "Jimenez, Luis", 
+            "last": "Jimenez, Luis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 1/16 x 8 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 32566, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Landfall Press", 
+            "first": null, 
+            "fullname": "Landfall Press", 
             "irn": 2221, 
-            "name": "Landfall Press"
+            "last": "Landfall Press", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

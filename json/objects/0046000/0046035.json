@@ -2,12 +2,23 @@
     "accession_number": "73.2.154", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Papworth, John Buonarotti", 
+                "UlanIdNo": "500002768"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1847", 
+            "display_name": "Papworth, John Buonarotti", 
+            "first": "John", 
+            "fullname": "John B. Papworth", 
             "irn": 602704, 
-            "name": "Papworth, John Buonarotti", 
+            "last": "Papworth", 
+            "middle": "Buonarotti", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "3 3/4 X 7 3/4 in. (image)\n6 5/8 X 9 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46035, 
     "materials": "hand-colored etching and aquatint", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Ackermann, Rudolph", 
+                "UlanIdNo": "500083656"
+            }, 
+            "birth_date": "1764", 
+            "collaboration": null, 
+            "death_date": "1834", 
+            "display_name": "Ackermann, Rudolph", 
+            "first": "Rudolph", 
+            "fullname": "Rudolph Ackermann", 
             "irn": 680227, 
-            "name": "Ackermann, Rudolph"
+            "last": "Ackermann", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "rights": null, 

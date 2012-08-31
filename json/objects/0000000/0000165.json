@@ -2,12 +2,23 @@
     "accession_number": "74.54", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sneyd, Walter", 
+                "UlanIdNo": "500080783"
+            }, 
             "after_follower": null, 
             "birth_date": "1809", 
+            "collaboration": null, 
             "death_date": "1888", 
+            "display_name": "Sneyd, Walter", 
+            "first": "Walter", 
+            "fullname": "Walter Sneyd", 
             "irn": 677381, 
-            "name": "Sneyd, Walter", 
+            "last": "Sneyd", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 165, 
     "materials": "pastel on brown paper", 
     "on_view": false, 

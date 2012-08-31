@@ -2,12 +2,23 @@
     "accession_number": "2010.197", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lissitzky, El", 
+                "UlanIdNo": "500015156"
+            }, 
             "after_follower": null, 
             "birth_date": "1890", 
+            "collaboration": null, 
             "death_date": "1941", 
+            "display_name": "Lissitzky, El", 
+            "first": "El", 
+            "fullname": "El Lissitzky", 
             "irn": 614814, 
-            "name": "Lissitzky, El", 
+            "last": "Lissitzky", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Photographer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 x 8 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69033, 
     "materials": "photogram: gelatin silver print", 
     "on_view": false, 

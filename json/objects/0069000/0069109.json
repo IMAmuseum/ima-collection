@@ -2,30 +2,63 @@
     "accession_number": "2010.260A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1974", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Dan Black", 
+            "first": "Dan", 
+            "fullname": "Dan Black", 
             "irn": 7188, 
-            "name": "Dan Black", 
+            "last": "Black", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1964", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Martin Blum", 
+            "first": "Martin", 
+            "fullname": "Martin Blum", 
             "irn": 7189, 
-            "name": "Martin Blum", 
+            "last": "Blum", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Black + Blum Ltd.", 
+            "first": null, 
+            "fullname": "Black + Blum Ltd.", 
             "irn": 7190, 
-            "name": "Black + Blum Ltd.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Black + Blum Ltd.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "A) Diam.: 10 1/4 in.\nB) L: 7 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69109, 
     "materials": "zinc alloy, cast aluminum, and rubber", 
     "on_view": false, 

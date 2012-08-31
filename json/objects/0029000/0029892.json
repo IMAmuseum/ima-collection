@@ -2,12 +2,23 @@
     "accession_number": "47.46", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stubbs, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1724", 
+            "collaboration": null, 
             "death_date": "1806", 
+            "display_name": "Stubbs, George", 
+            "first": "George", 
+            "fullname": "George Stubbs", 
             "irn": 942, 
-            "name": "Stubbs, George", 
+            "last": "Stubbs", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 3/8 x 30 3/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 29892, 
     "materials": "oil on canvas", 
     "on_view": true, 

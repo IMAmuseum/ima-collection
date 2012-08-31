@@ -2,12 +2,23 @@
     "accession_number": "51.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Master MZ", 
+                "UlanIdNo": "500119578"
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Master MZ", 
+            "first": null, 
+            "fullname": null, 
             "irn": 713950, 
-            "name": "Master MZ", 
+            "last": "Master MZ", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 3/16 x 4 5/8 in. (image)\n6 3/8 x 4 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 33688, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "55.226", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Delacroix, Eugene", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1798", 
+            "collaboration": null, 
             "death_date": "1863", 
+            "display_name": "Delacroix, Eugene", 
+            "first": null, 
+            "fullname": "Delacroix, Eugene", 
             "irn": 441, 
-            "name": "Delacroix, Eugene", 
+            "last": "Delacroix, Eugene", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bertauts", 
+            "first": null, 
+            "fullname": "Bertauts", 
             "irn": 2088, 
-            "name": "Bertauts", 
+            "last": "Bertauts", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "12 1/4 x 16 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16435, 
     "materials": "lithograph", 
     "on_view": false, 

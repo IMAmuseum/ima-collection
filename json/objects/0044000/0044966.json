@@ -2,12 +2,23 @@
     "accession_number": "2001.10", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Laporte, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1761", 
+            "collaboration": null, 
             "death_date": "1839", 
+            "display_name": "Laporte, John", 
+            "first": null, 
+            "fullname": "Laporte, John", 
             "irn": 1987, 
-            "name": "Laporte, John", 
+            "last": "Laporte, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 44966, 
     "materials": "lithograph on gray-washed, off-white paper", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "08.75", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Charles Turner", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1773", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Charles Turner", 
+            "first": "Charles", 
+            "fullname": "Charles Turner", 
             "irn": 1098, 
-            "name": "Charles Turner", 
+            "last": "Turner", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 33697, 
     "materials": "mezzotint", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Cooke, William Bernard", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1778", 
+            "collaboration": null, 
+            "death_date": "1855", 
+            "display_name": "Cooke, William Bernard", 
+            "first": null, 
+            "fullname": "Cooke, William Bernard", 
             "irn": 1330, 
-            "name": "Cooke, William Bernard"
+            "last": "Cooke, William Bernard", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

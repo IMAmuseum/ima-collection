@@ -2,21 +2,43 @@
     "accession_number": "2005.29G", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bishop, Isabel", 
+                "UlanIdNo": "500032484"
+            }, 
             "after_follower": null, 
             "birth_date": "1902", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Bishop, Isabel", 
+            "first": "Isabel", 
+            "fullname": "Isabel Bishop", 
             "irn": 631784, 
-            "name": "Bishop, Isabel", 
+            "last": "Bishop", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Sholinsky, Stephen", 
+            "first": null, 
+            "fullname": "Sholinsky, Stephen", 
             "irn": 3391, 
-            "name": "Sholinsky, Stephen", 
+            "last": "Sholinsky, Stephen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "13 x 10 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62767, 
     "materials": "etching on Rives heavyweight white paper", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Associated Artists of America, New York", 
+            "first": null, 
+            "fullname": "Associated Artists of America, New York", 
             "irn": 2792, 
-            "name": "Associated Artists of America, New York"
+            "last": "Associated Artists of America, New York", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Isabel Bishop", 

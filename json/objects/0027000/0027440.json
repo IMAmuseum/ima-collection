@@ -2,12 +2,23 @@
     "accession_number": "75.20", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hoppner, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1758", 
+            "collaboration": null, 
             "death_date": "1810", 
+            "display_name": "Hoppner, John", 
+            "first": "John", 
+            "fullname": "John Hoppner", 
             "irn": 1221, 
-            "name": "Hoppner, John", 
+            "last": "Hoppner", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "92 1/2 x 56 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 27440, 
     "materials": "oil on canvas", 
     "on_view": true, 

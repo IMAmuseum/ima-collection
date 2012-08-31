@@ -2,12 +2,23 @@
     "accession_number": "LH2003.76A-L", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1775-1834", 
+            "collaboration": null, 
             "death_date": "1775-1834", 
+            "display_name": "Charles Lamb", 
+            "first": "Charles", 
+            "fullname": "Charles Lamb", 
             "irn": 3135, 
-            "name": "Charles Lamb", 
+            "last": "Lamb", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 1/4 x 6 1/2 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62229, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Macmillan and Co.", 
+            "first": null, 
+            "fullname": "Macmillan and Co.", 
             "irn": 2454, 
-            "name": "Macmillan and Co."
+            "last": "Macmillan and Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

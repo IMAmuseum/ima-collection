@@ -2,12 +2,23 @@
     "accession_number": "LH2006.25", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wayman Adams", 
+                "UlanIdNo": "500030771"
+            }, 
             "after_follower": null, 
             "birth_date": "1883", 
+            "collaboration": null, 
             "death_date": "1959", 
+            "display_name": "Wayman Adams", 
+            "first": "Wayman", 
+            "fullname": "Wayman Adams", 
             "irn": 620, 
-            "name": "Wayman Adams", 
+            "last": "Adams", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 x 30 in. | 40 x 35 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11210, 
     "materials": "oil on canvas", 
     "on_view": true, 

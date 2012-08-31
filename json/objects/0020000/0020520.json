@@ -2,21 +2,43 @@
     "accession_number": "1988.40", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Short, Frank", 
+                "UlanIdNo": "500003216"
+            }, 
             "after_follower": null, 
             "birth_date": "1857", 
+            "collaboration": null, 
             "death_date": "1945", 
+            "display_name": "Short, Frank", 
+            "first": "Frank", 
+            "fullname": "Frank Short", 
             "irn": 603138, 
-            "name": "Short, Frank", 
+            "last": "Short", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Goulding, Frederick", 
+                "UlanIdNo": "500019143"
+            }, 
             "after_follower": null, 
             "birth_date": "1842", 
+            "collaboration": null, 
             "death_date": "1909", 
+            "display_name": "Goulding, Frederick", 
+            "first": "Frederick", 
+            "fullname": "Frederick Goulding", 
             "irn": 618720, 
-            "name": "Goulding, Frederick", 
+            "last": "Goulding", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "4 7/8 x 8 1/2 in (image)\n6 1/2 x 10 5/8 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20520, 
     "materials": "aquatint", 
     "on_view": false, 

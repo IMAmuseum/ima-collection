@@ -2,12 +2,23 @@
     "accession_number": "79.865", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gottlieb, Adolph", 
+                "UlanIdNo": "500004904"
+            }, 
             "after_follower": null, 
             "birth_date": "1903", 
+            "collaboration": null, 
             "death_date": "1974", 
+            "display_name": "Gottlieb, Adolph", 
+            "first": "Adolph", 
+            "fullname": "Adolph Gottlieb", 
             "irn": 235, 
-            "name": "Gottlieb, Adolph", 
+            "last": "Gottlieb", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16341, 
     "materials": "screenprint", 
     "on_view": false, 

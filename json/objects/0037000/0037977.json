@@ -2,12 +2,23 @@
     "accession_number": "80.825.39", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Green, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Green, John", 
+            "first": null, 
+            "fullname": "Green, John", 
             "irn": 1795, 
-            "name": "Green, John", 
+            "last": "Green, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37977, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "MH2010.448", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Caithness", 
+            "first": null, 
+            "fullname": "Caithness", 
             "irn": 7401, 
-            "name": "Caithness", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Caithness", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "2 1/4 x 2 1/2 x 2 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71036, 
     "materials": "glass", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Paperweight"
+    "title": "paperweight"
 }

@@ -2,30 +2,63 @@
     "accession_number": "80.809.119", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nicholson, Francis", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1753", 
+            "collaboration": null, 
             "death_date": "1844", 
+            "display_name": "Nicholson, Francis", 
+            "first": null, 
+            "fullname": "Nicholson, Francis", 
             "irn": 1775, 
-            "name": "Nicholson, Francis", 
+            "last": "Nicholson, Francis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Walker, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Walker, John", 
+            "first": null, 
+            "fullname": "Walker, John", 
             "irn": 1754, 
-            "name": "Walker, John", 
+            "last": "Walker, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }, 
         {
+            "ULAN": {
+                "Name": "Greig, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Greig, John", 
+            "first": null, 
+            "fullname": "Greig, John", 
             "irn": 1757, 
-            "name": "Greig, John", 
+            "last": "Greig, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37844, 
     "materials": "engraving", 
     "on_view": false, 

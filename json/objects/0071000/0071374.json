@@ -2,21 +2,43 @@
     "accession_number": "2010.285", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Thonet, Michael", 
+                "UlanIdNo": "500062161"
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1871", 
+            "display_name": "Thonet, Michael", 
+            "first": "Michael", 
+            "fullname": "Michael Thonet", 
             "irn": 658947, 
-            "name": "Thonet, Michael", 
+            "last": "Thonet", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Gebr\u00fcder Thonet", 
+                "UlanIdNo": "500034100"
+            }, 
             "after_follower": null, 
             "birth_date": "1853", 
+            "collaboration": null, 
             "death_date": "1900", 
+            "display_name": "Gebr\u00fcder Thonet", 
+            "first": null, 
+            "fullname": "Gebr\u00fcder Thonet", 
             "irn": 633355, 
-            "name": "Gebr\u00fcder Thonet", 
+            "last": "Gebr\u00fcder Thonet", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "38 3/4 x 23 x 40 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71374, 
     "materials": "bentwood and caning", 
     "on_view": false, 

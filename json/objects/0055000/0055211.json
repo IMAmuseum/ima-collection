@@ -2,12 +2,23 @@
     "accession_number": "72.43.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Veyrassat, Jules Jacques", 
+                "UlanIdNo": "500009250"
+            }, 
             "after_follower": null, 
             "birth_date": "1828", 
+            "collaboration": null, 
             "death_date": "1893", 
+            "display_name": "Veyrassat, Jules Jacques", 
+            "first": "Jules", 
+            "fullname": "Jules J. Veyrassat", 
             "irn": 609024, 
-            "name": "Veyrassat, Jules Jacques", 
+            "last": "Veyrassat", 
+            "middle": "Jacques", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55211, 
     "materials": "etching", 
     "on_view": false, 

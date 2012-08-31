@@ -2,12 +2,23 @@
     "accession_number": "2000.333", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Haig, Axel Herman", 
+                "UlanIdNo": "500032599"
+            }, 
             "after_follower": null, 
             "birth_date": "1835", 
+            "collaboration": null, 
             "death_date": "1921", 
+            "display_name": "Haig, Axel Herman", 
+            "first": "Axel", 
+            "fullname": "Axel H. Haig", 
             "irn": 631895, 
-            "name": "Haig, Axel Herman", 
+            "last": "Haig", 
+            "middle": "Herman", 
             "nationality": "Swedish", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 x 9 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 41770, 
     "materials": "pencil on off-white paper", 
     "on_view": false, 

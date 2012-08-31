@@ -2,21 +2,43 @@
     "accession_number": "80.809.120", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nicholson, Francis", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1753", 
+            "collaboration": null, 
             "death_date": "1844", 
+            "display_name": "Nicholson, Francis", 
+            "first": null, 
+            "fullname": "Nicholson, Francis", 
             "irn": 1775, 
-            "name": "Nicholson, Francis", 
+            "last": "Nicholson, Francis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Walker, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Walker, John", 
+            "first": null, 
+            "fullname": "Walker, John", 
             "irn": 1754, 
-            "name": "Walker, John", 
+            "last": "Walker, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37845, 
     "materials": "engraving", 
     "on_view": false, 

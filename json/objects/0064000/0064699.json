@@ -2,21 +2,43 @@
     "accession_number": "2009.529A-K", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1964", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Marti Guixe", 
+            "first": "Marti", 
+            "fullname": "Marti Guixe", 
             "irn": 5692, 
-            "name": "Marti Guixe", 
+            "last": "Guixe", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Galeria H2O", 
+            "first": null, 
+            "fullname": "Galeria H2O", 
             "irn": 6516, 
-            "name": "Galeria H2O", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Galeria H2O", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 3/4 x 16 x 10 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64699, 
     "materials": "resin and existing books", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "58.37", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bartlett, Paul Wayland", 
+                "UlanIdNo": "500012011"
+            }, 
             "after_follower": null, 
             "birth_date": "1865", 
+            "collaboration": null, 
             "death_date": "1925", 
+            "display_name": "Bartlett, Paul Wayland", 
+            "first": "Paul", 
+            "fullname": "Paul W. Bartlett", 
             "irn": 611728, 
-            "name": "Bartlett, Paul Wayland", 
+            "last": "Bartlett", 
+            "middle": "Wayland", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 13 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34030, 
     "materials": null, 
     "on_view": false, 

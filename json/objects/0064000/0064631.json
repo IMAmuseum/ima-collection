@@ -2,21 +2,43 @@
     "accession_number": "2009.398A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1968", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tord Boontje", 
+            "first": "Tord", 
+            "fullname": "Tord Boontje", 
             "irn": 5658, 
-            "name": "Tord Boontje", 
+            "last": "Boontje", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Swarovski Crystal Palace", 
+            "first": null, 
+            "fullname": "Swarovski Crystal Palace", 
             "irn": 6586, 
-            "name": "Swarovski Crystal Palace", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Swarovski Crystal Palace", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "57 \u00d7 65 \u00d7 35 1/2 in. (144.7 \u00d7 165.1 \u00d7 90.1 cm)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64631, 
     "materials": "steel, glass and LED lights", 
     "on_view": false, 

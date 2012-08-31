@@ -2,12 +2,23 @@
     "accession_number": "09.249", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bannerman, Alexander", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bannerman, Alexander", 
+            "first": null, 
+            "fullname": "Bannerman, Alexander", 
             "irn": 482, 
-            "name": "Bannerman, Alexander", 
+            "last": "Bannerman, Alexander", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 26042, 
     "materials": "engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Boydell, John", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1719", 
+            "collaboration": null, 
+            "death_date": "1804", 
+            "display_name": "Boydell, John", 
+            "first": null, 
+            "fullname": "Boydell, John", 
             "irn": 2109, 
-            "name": "Boydell, John"
+            "last": "Boydell, John", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

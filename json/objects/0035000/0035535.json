@@ -2,12 +2,23 @@
     "accession_number": "40.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "McFee, Henry Lee", 
+                "UlanIdNo": "500001132"
+            }, 
             "after_follower": null, 
             "birth_date": "1886", 
+            "collaboration": null, 
             "death_date": "1953", 
+            "display_name": "McFee, Henry Lee", 
+            "first": "Henry", 
+            "fullname": "Henry L. McFee", 
             "irn": 601103, 
-            "name": "McFee, Henry Lee", 
+            "last": "McFee", 
+            "middle": "Lee", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "24 x 29 3/4 in.\n31 x 37 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35535, 
     "materials": "oil on canvas", 
     "on_view": false, 

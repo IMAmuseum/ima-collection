@@ -2,12 +2,23 @@
     "accession_number": "80.1888", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Charles Turner", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1773", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Charles Turner", 
+            "first": "Charles", 
+            "fullname": "Charles Turner", 
             "irn": 1098, 
-            "name": "Charles Turner", 
+            "last": "Turner", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42276, 
     "materials": "mezzotint on plain paper", 
     "on_view": false, 

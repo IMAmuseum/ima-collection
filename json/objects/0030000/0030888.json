@@ -2,12 +2,23 @@
     "accession_number": "62.128", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pierre Auguste Renoir", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1841", 
+            "collaboration": null, 
             "death_date": "1919", 
+            "display_name": "Pierre Auguste Renoir", 
+            "first": "Pierre", 
+            "fullname": "Pierre A. Renoir", 
             "irn": 877, 
-            "name": "Pierre Auguste Renoir", 
+            "last": "Renoir", 
+            "middle": "Auguste", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 30888, 
     "materials": "etching", 
     "on_view": false, 

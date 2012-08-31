@@ -2,12 +2,23 @@
     "accession_number": "70.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Moran, Edward", 
+                "UlanIdNo": "500018805"
+            }, 
             "after_follower": null, 
             "birth_date": "1829", 
+            "collaboration": null, 
             "death_date": "1901", 
+            "display_name": "Moran, Edward", 
+            "first": "Edward", 
+            "fullname": "Edward Moran", 
             "irn": 618387, 
-            "name": "Moran, Edward", 
+            "last": "Moran", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "40 1/2 x 64 in.\n49 1/4 x 73 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 22671, 
     "materials": "oil on canvas", 
     "on_view": true, 

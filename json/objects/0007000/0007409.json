@@ -2,12 +2,23 @@
     "accession_number": "09.18A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cruikshank, George, I", 
+                "UlanIdNo": "500115604"
+            }, 
             "after_follower": null, 
             "birth_date": "1792", 
+            "collaboration": null, 
             "death_date": "1878", 
+            "display_name": "Cruikshank, George, I", 
+            "first": "George", 
+            "fullname": "George ,. Cruikshank", 
             "irn": 710492, 
-            "name": "Cruikshank, George, I", 
+            "last": "Cruikshank", 
+            "middle": ", I", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 7409, 
     "materials": "etching", 
     "on_view": false, 

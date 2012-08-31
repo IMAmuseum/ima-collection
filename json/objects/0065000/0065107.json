@@ -2,21 +2,43 @@
     "accession_number": "2008.190", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kuramata, Shiro", 
+                "UlanIdNo": "500093619"
+            }, 
             "after_follower": null, 
             "birth_date": "1934", 
+            "collaboration": null, 
             "death_date": "1991", 
+            "display_name": "Kuramata, Shiro", 
+            "first": "Shiro", 
+            "fullname": "Shiro Kuramata", 
             "irn": 690090, 
-            "name": "Kuramata, Shiro", 
+            "last": "Kuramata", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Ishimaru Co., Ltd.", 
+            "first": null, 
+            "fullname": "Ishimaru Co., Ltd.", 
             "irn": 5846, 
-            "name": "Ishimaru Co., Ltd.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Ishimaru Co., Ltd.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "33 5/8 x 14 7/8 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65107, 
     "materials": "Chrome-plated steel and oak", 
     "on_view": false, 

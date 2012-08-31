@@ -2,21 +2,43 @@
     "accession_number": "55.230", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dyck, Anthony van", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1599", 
+            "collaboration": null, 
             "death_date": "1641", 
+            "display_name": "Dyck, Anthony van", 
+            "first": null, 
+            "fullname": "Dyck, Anthony van", 
             "irn": 2056, 
-            "name": "Dyck, Anthony van", 
+            "last": "Dyck, Anthony van", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Neeffs, Jacobus", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1610", 
+            "collaboration": null, 
             "death_date": "aft 1660", 
+            "display_name": "Neeffs, Jacobus", 
+            "first": null, 
+            "fullname": "Neeffs, Jacobus", 
             "irn": 2057, 
-            "name": "Neeffs, Jacobus", 
+            "last": "Neeffs, Jacobus", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 9982, 
     "materials": "engraving and etching", 
     "on_view": false, 

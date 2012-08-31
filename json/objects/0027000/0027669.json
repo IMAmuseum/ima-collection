@@ -2,12 +2,23 @@
     "accession_number": "09.345", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Skelton, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Skelton, William", 
+            "first": null, 
+            "fullname": "Skelton, William", 
             "irn": 335, 
-            "name": "Skelton, William", 
+            "last": "Skelton, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 27669, 
     "materials": "engraving", 
     "on_view": false, 

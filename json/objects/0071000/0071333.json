@@ -2,21 +2,43 @@
     "accession_number": "2010.279", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Augustus Welby Northmore Pugin", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1812", 
+            "collaboration": null, 
             "death_date": "1852", 
+            "display_name": "Augustus Welby Northmore Pugin", 
+            "first": "Augustus", 
+            "fullname": "Augustus W. Pugin", 
             "irn": 1728, 
-            "name": "Augustus Welby Northmore Pugin", 
+            "last": "Pugin", 
+            "middle": "Welby Northmore", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Minton's Pottery and Porcelain Factory", 
+            "first": null, 
+            "fullname": "Minton's Pottery and Porcelain Factory", 
             "irn": 7518, 
-            "name": "Minton's Pottery and Porcelain Factory", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Minton's Pottery and Porcelain Factory", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "6 x 6 x 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71333, 
     "materials": "earthenware", 
     "on_view": false, 

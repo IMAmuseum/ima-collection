@@ -2,12 +2,23 @@
     "accession_number": "2011.92", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Steir, Pat", 
+                "UlanIdNo": "500025304"
+            }, 
             "after_follower": null, 
             "birth_date": "1940", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Steir, Pat", 
+            "first": "Pat", 
+            "fullname": "Pat Steir", 
             "irn": 624752, 
-            "name": "Steir, Pat", 
+            "last": "Steir", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "48 x 24 in. (image)\n56 1/4 x 32 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71536, 
     "materials": "screenprint on white Somerset paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Pace Editions, Inc.", 
+            "first": null, 
+            "fullname": "Pace Editions, Inc.", 
             "irn": 4097, 
-            "name": "Pace Editions, Inc."
+            "last": null, 
+            "middle": null, 
+            "organization": "Pace Editions, Inc.", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": null, 

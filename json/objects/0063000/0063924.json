@@ -2,12 +2,23 @@
     "accession_number": "2006.136", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Kunisada", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1786", 
+            "collaboration": null, 
             "death_date": "1864", 
+            "display_name": "Utagawa Kunisada", 
+            "first": null, 
+            "fullname": "Utagawa Kunisada", 
             "irn": 451, 
-            "name": "Utagawa Kunisada", 
+            "last": "Utagawa Kunisada", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 1/4 x 19 3/8 in. (overall)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63924, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Yorozu-ya Kichibei", 
+            "first": null, 
+            "fullname": "Yorozu-ya Kichibei", 
             "irn": 5418, 
-            "name": "Yorozu-ya Kichibei"
+            "last": "Yorozu-ya Kichibei", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Art and Architecture Thesaurus"
         }
     ], 
     "rights": null, 

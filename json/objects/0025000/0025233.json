@@ -2,12 +2,23 @@
     "accession_number": "1987.89", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Calder, Alexander", 
+                "UlanIdNo": "500007824"
+            }, 
             "after_follower": null, 
             "birth_date": "1898", 
+            "collaboration": null, 
             "death_date": "1976", 
+            "display_name": "Calder, Alexander", 
+            "first": "Alexander", 
+            "fullname": "Alexander Calder", 
             "irn": 607631, 
-            "name": "Calder, Alexander", 
+            "last": "Calder", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "L: 100 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 25233, 
     "materials": "painted metal and steel wire", 
     "on_view": true, 

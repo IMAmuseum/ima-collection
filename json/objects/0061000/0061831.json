@@ -2,12 +2,23 @@
     "accession_number": "LH2003.13A-T", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Thomas Macaulay", 
+            "first": "Thomas", 
+            "fullname": "Thomas Macaulay", 
             "irn": 2981, 
-            "name": "Thomas Macaulay", 
+            "last": "Macaulay", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/2 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61831, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Jenson Society", 
+            "first": null, 
+            "fullname": "Jenson Society", 
             "irn": 2971, 
-            "name": "Jenson Society"
+            "last": "Jenson Society", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

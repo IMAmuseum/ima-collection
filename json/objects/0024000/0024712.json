@@ -2,12 +2,23 @@
     "accession_number": "1987.99", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Serrano, Pablo", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1910", 
+            "collaboration": null, 
             "death_date": "1985", 
+            "display_name": "Serrano, Pablo", 
+            "first": "Pablo", 
+            "fullname": "Pablo Serrano", 
             "irn": 3361, 
-            "name": "Serrano, Pablo", 
+            "last": "Serrano", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 1/2 x 14 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 24712, 
     "materials": null, 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2008.290", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Clough, Charles", 
+                "UlanIdNo": "500020777"
+            }, 
             "after_follower": null, 
             "birth_date": "1951", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Clough, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Clough", 
             "irn": 620323, 
-            "name": "Clough, Charles", 
+            "last": "Clough", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "22 1/8 x 36 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66205, 
     "materials": "enamel and graphite on paper", 
     "on_view": false, 

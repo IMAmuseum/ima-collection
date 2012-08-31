@@ -2,21 +2,43 @@
     "accession_number": "2009.492", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Eero Koivisto", 
+            "first": "Eero", 
+            "fullname": "Eero Koivisto", 
             "irn": 6370, 
-            "name": "Eero Koivisto", 
+            "last": "Koivisto", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Offecct AB", 
+            "first": null, 
+            "fullname": "Offecct AB", 
             "irn": 6309, 
-            "name": "Offecct AB", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Offecct AB", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "17 3/8 \u00d7 21 \u00bc \u00d7 21 \u00bc in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67395, 
     "materials": "polyurethane", 
     "on_view": false, 

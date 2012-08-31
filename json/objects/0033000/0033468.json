@@ -2,12 +2,23 @@
     "accession_number": "64.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hultberg, John", 
+                "UlanIdNo": "500030565"
+            }, 
             "after_follower": null, 
             "birth_date": "1922", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hultberg, John", 
+            "first": "John", 
+            "fullname": "John Hultberg", 
             "irn": 629909, 
-            "name": "Hultberg, John", 
+            "last": "Hultberg", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "39 x 50", 
     "dynasty": null, 
+    "images": [], 
     "irn": 33468, 
     "materials": "oil on canvas", 
     "on_view": false, 

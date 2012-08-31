@@ -2,12 +2,23 @@
     "accession_number": "09.38", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Laan, Adolf van der", 
+                "UlanIdNo": "500028005"
+            }, 
             "after_follower": null, 
             "birth_date": "1680", 
+            "collaboration": null, 
             "death_date": "1742", 
+            "display_name": "Laan, Adolf van der", 
+            "first": "Adolf", 
+            "fullname": "Adolf v. Laan", 
             "irn": 627400, 
-            "name": "Laan, Adolf van der", 
+            "last": "Laan", 
+            "middle": "van der", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 27093, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "48.72", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Katsushika Hokusai", 
+                "UlanIdNo": "500060426"
+            }, 
             "after_follower": null, 
             "birth_date": "1760", 
+            "collaboration": null, 
             "death_date": "1849", 
+            "display_name": "Katsushika Hokusai", 
+            "first": "Katsushika", 
+            "fullname": "Katsushika Hokusai", 
             "irn": 657236, 
-            "name": "Katsushika Hokusai", 
+            "last": "Hokusai", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -18,6 +29,7 @@
     ], 
     "dimensions": "9 1/16 x 6 7/8 in. (image and sheet - trimmed all around)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 52613, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -25,8 +37,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Iseya Rihei", 
+            "first": null, 
+            "fullname": "Iseya Rihei", 
             "irn": 2823, 
-            "name": "Iseya Rihei"
+            "last": "Iseya Rihei", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified"
         }
     ], 
     "rights": null, 

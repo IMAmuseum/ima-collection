@@ -2,12 +2,23 @@
     "accession_number": "C10068", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Robert, Hubert", 
+                "UlanIdNo": "500009558"
+            }, 
             "after_follower": null, 
             "birth_date": "1733", 
+            "collaboration": null, 
             "death_date": "1808", 
+            "display_name": "Robert, Hubert", 
+            "first": "Hubert", 
+            "fullname": "Hubert Robert", 
             "irn": 609327, 
-            "name": "Robert, Hubert", 
+            "last": "Robert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "26 x 60 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 12745, 
     "materials": "oil on canvas", 
     "on_view": true, 

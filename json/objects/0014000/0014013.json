@@ -2,12 +2,23 @@
     "accession_number": "51.29", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Huys, Frans", 
+                "UlanIdNo": "500010913"
+            }, 
             "after_follower": null, 
             "birth_date": "1522", 
+            "collaboration": null, 
             "death_date": "1562", 
+            "display_name": "Huys, Frans", 
+            "first": "Frans", 
+            "fullname": "Frans Huys", 
             "irn": 610655, 
-            "name": "Huys, Frans", 
+            "last": "Huys", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 x 11 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14013, 
     "materials": "engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Galle, Theodoor", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1571", 
+            "collaboration": null, 
+            "death_date": "1633", 
+            "display_name": "Galle, Theodoor", 
+            "first": null, 
+            "fullname": "Galle, Theodoor", 
             "irn": 1050, 
-            "name": "Galle, Theodoor"
+            "last": "Galle, Theodoor", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

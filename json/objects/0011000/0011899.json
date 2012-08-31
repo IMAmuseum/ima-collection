@@ -2,12 +2,23 @@
     "accession_number": "59.12", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Scorel, Jan van", 
+                "UlanIdNo": "500029872"
+            }, 
             "after_follower": "Follower of", 
             "birth_date": "1495", 
+            "collaboration": null, 
             "death_date": "1562", 
+            "display_name": "Scorel, Jan van", 
+            "first": "Jan", 
+            "fullname": "Jan v. Scorel", 
             "irn": 629233, 
-            "name": "Scorel, Jan van", 
+            "last": "Scorel", 
+            "middle": "van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "31 3/4 x 37 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11899, 
     "materials": "oil on wood", 
     "on_view": false, 

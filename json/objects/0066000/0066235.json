@@ -2,12 +2,23 @@
     "accession_number": "2008.320", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tuttle, Richard", 
+                "UlanIdNo": "500116277"
+            }, 
             "after_follower": null, 
             "birth_date": "1941", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tuttle, Richard", 
+            "first": "Richard", 
+            "fullname": "Richard Tuttle", 
             "irn": 711134, 
-            "name": "Tuttle, Richard", 
+            "last": "Tuttle", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 3/4 x 6 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66235, 
     "materials": "graphite on paper", 
     "on_view": false, 

@@ -2,11 +2,23 @@
     "accession_number": "74.108", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hundertwasser, Friedensreich", 
+                "UlanIdNo": "500005179"
+            }, 
             "after_follower": null, 
-            "birth_date": null, 
+            "birth_date": "1928", 
+            "collaboration": null, 
             "death_date": null, 
-            "name": null, 
+            "display_name": "Hundertwasser, Friedensreich", 
+            "first": "Friedensreich", 
+            "fullname": "Friedensreich Hundertwasser", 
+            "irn": 605047, 
+            "last": "Hundertwasser", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -15,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 3637, 
     "materials": "ink | enamel", 
     "on_view": false, 

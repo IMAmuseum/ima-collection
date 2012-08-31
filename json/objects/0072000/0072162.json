@@ -2,12 +2,23 @@
     "accession_number": "2011.184", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Macpherson, Robert", 
+                "UlanIdNo": "500022885"
+            }, 
             "after_follower": null, 
             "birth_date": "1811", 
+            "collaboration": null, 
             "death_date": "1872", 
+            "display_name": "Macpherson, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Macpherson", 
             "irn": 622391, 
-            "name": "Macpherson, Robert", 
+            "last": "Macpherson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Photographer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 3/4 x 12 1/8 in. (image)\n15 3/8 x 13 7/8 in. (mount)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 72162, 
     "materials": "albumen print on cardstock mount", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2012.44", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1965", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Brian McCutcheon", 
+            "first": "Brian", 
+            "fullname": "Brian McCutcheon", 
             "irn": 7662, 
-            "name": "Brian McCutcheon", 
+            "last": "McCutcheon", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "48 x 58 in. (sheet)\n40 x 50 in. (image)\n46 5/16 x 56 5/16 x 1 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 72584, 
     "materials": "cibachrome print on paper", 
     "on_view": false, 

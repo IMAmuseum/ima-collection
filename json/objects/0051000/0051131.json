@@ -2,12 +2,23 @@
     "accession_number": "29.31", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Brown, Roy H.", 
+                "UlanIdNo": "500036573"
+            }, 
             "after_follower": null, 
             "birth_date": "1879", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Brown, Roy H.", 
+            "first": "Roy", 
+            "fullname": "Roy H. Brown", 
             "irn": 635787, 
-            "name": "Brown, Roy H.", 
+            "last": "Brown", 
+            "middle": "H", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 51131, 
     "materials": "oil", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2004.45", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Christian Marclay", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1955", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Christian Marclay", 
+            "first": null, 
+            "fullname": "Christian Marclay", 
             "irn": 2896, 
-            "name": "Christian Marclay", 
+            "last": "Christian Marclay", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 1/2 x 37 1/2 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61603, 
     "materials": "offset lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "The Chinati Foundation", 
+            "first": null, 
+            "fullname": "The Chinati Foundation", 
             "irn": 3054, 
-            "name": "The Chinati Foundation"
+            "last": "The Chinati Foundation", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Christian Marclay", 

@@ -2,21 +2,43 @@
     "accession_number": "2009.425A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1963", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hella Jongerius", 
+            "first": "Hella", 
+            "fullname": "Hella Jongerius", 
             "irn": 5661, 
-            "name": "Hella Jongerius", 
+            "last": "Jongerius", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Vitra AG", 
+            "first": null, 
+            "fullname": "Vitra AG", 
             "irn": 6962, 
-            "name": "Vitra AG", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Vitra AG", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "33 x 31 x 30 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64721, 
     "materials": "wood, aluminum, and fabric", 
     "on_view": false, 

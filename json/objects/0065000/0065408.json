@@ -2,12 +2,23 @@
     "accession_number": "2008.350", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Larsen, Jack Lenor", 
+                "UlanIdNo": "500018823"
+            }, 
             "after_follower": null, 
             "birth_date": "1927", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Larsen, Jack Lenor", 
+            "first": "Jack", 
+            "fullname": "Jack L. Larsen", 
             "irn": 618404, 
-            "name": "Larsen, Jack Lenor", 
+            "last": "Larsen", 
+            "middle": "Lenor", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "170 x 73", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65408, 
     "materials": "wool, cotton", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "09.157", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Grandjean, Jean", 
+                "UlanIdNo": "500005675"
+            }, 
             "after_follower": null, 
             "birth_date": "1752", 
+            "collaboration": null, 
             "death_date": "1781", 
+            "display_name": "Grandjean, Jean", 
+            "first": "Jean", 
+            "fullname": "Jean Grandjean", 
             "irn": 605524, 
-            "name": "Grandjean, Jean", 
+            "last": "Grandjean", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Piroli, Tommaso", 
+                "UlanIdNo": "500056332"
+            }, 
             "after_follower": null, 
             "birth_date": "1752", 
+            "collaboration": null, 
             "death_date": "1824", 
+            "display_name": "Piroli, Tommaso", 
+            "first": "Tommaso", 
+            "fullname": "Tommaso Piroli", 
             "irn": 653317, 
-            "name": "Piroli, Tommaso", 
+            "last": "Piroli", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 9436, 
     "materials": "engraving", 
     "on_view": false, 

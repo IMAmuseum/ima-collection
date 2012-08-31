@@ -2,21 +2,43 @@
     "accession_number": "72.49.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Indiana, Robert", 
+                "UlanIdNo": "500015478"
+            }, 
             "after_follower": null, 
             "birth_date": "1928", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Indiana, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Indiana", 
             "irn": 615130, 
-            "name": "Indiana, Robert", 
+            "last": "Indiana", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Domberger K G", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Domberger K G", 
+            "first": null, 
+            "fullname": "Domberger K G", 
             "irn": 2296, 
-            "name": "Domberger K G", 
+            "last": "Domberger K G", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 48744, 
     "materials": "screenprint", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Edition Domberger Stuttgart", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Edition Domberger Stuttgart", 
+            "first": null, 
+            "fullname": "Edition Domberger Stuttgart", 
             "irn": 2297, 
-            "name": "Edition Domberger Stuttgart"
+            "last": "Edition Domberger Stuttgart", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 

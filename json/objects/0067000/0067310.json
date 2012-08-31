@@ -2,21 +2,43 @@
     "accession_number": "2009.435.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1963", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Marcel Wanders", 
+            "first": "Marcel", 
+            "fullname": "Marcel Wanders", 
             "irn": 5656, 
-            "name": "Marcel Wanders", 
+            "last": "Wanders", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Royal Tichelaar Makkum", 
+            "first": null, 
+            "fullname": "Royal Tichelaar Makkum", 
             "irn": 6237, 
-            "name": "Royal Tichelaar Makkum", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Royal Tichelaar Makkum", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "5 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67310, 
     "materials": "porcelain", 
     "on_view": false, 

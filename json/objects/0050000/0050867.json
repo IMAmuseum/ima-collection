@@ -2,12 +2,23 @@
     "accession_number": "25.263", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Josiah Wedgwood", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1730", 
+            "collaboration": null, 
             "death_date": "1795", 
+            "display_name": "Josiah Wedgwood", 
+            "first": "Josiah", 
+            "fullname": "Josiah Wedgwood", 
             "irn": 1031, 
-            "name": "Josiah Wedgwood", 
+            "last": "Wedgwood", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 50867, 
     "materials": null, 
     "on_view": false, 

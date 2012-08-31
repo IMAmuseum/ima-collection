@@ -2,12 +2,23 @@
     "accession_number": "MH2012.2.10", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fornasetti, Piero", 
+                "UlanIdNo": "500000122"
+            }, 
             "after_follower": null, 
             "birth_date": "1913", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Fornasetti, Piero", 
+            "first": "Piero", 
+            "fullname": "Piero Fornasetti", 
             "irn": 600116, 
-            "name": "Fornasetti, Piero", 
+            "last": "Fornasetti", 
+            "middle": null, 
             "nationality": "Italian", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "3/4 x 9 1/8 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73861, 
     "materials": "ceramic", 
     "on_view": false, 

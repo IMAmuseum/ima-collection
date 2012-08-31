@@ -2,12 +2,23 @@
     "accession_number": "54.53", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Andersen, Mogens Helge Thestrup", 
+                "UlanIdNo": "500016872"
+            }, 
             "after_follower": null, 
             "birth_date": "1916", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Andersen, Mogens Helge Thestrup", 
+            "first": "Mogens", 
+            "fullname": "Mogens H. Andersen", 
             "irn": 616496, 
-            "name": "Andersen, Mogens Helge Thestrup", 
+            "last": "Andersen", 
+            "middle": "Helge Thestrup", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 7020, 
     "materials": "color lithograph", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "60.260", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Lawrence Beall", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1902", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Smith, Lawrence Beall", 
+            "first": null, 
+            "fullname": "Smith, Lawrence Beall", 
             "irn": 1651, 
-            "name": "Smith, Lawrence Beall", 
+            "last": "Smith, Lawrence Beall", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 24132, 
     "materials": "lithograph", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "80.932.31", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hakewill, James", 
+                "UlanIdNo": "500014401"
+            }, 
             "after_follower": null, 
             "birth_date": "1778", 
+            "collaboration": null, 
             "death_date": "1843", 
+            "display_name": "Hakewill, James", 
+            "first": "James", 
+            "fullname": "James Hakewill", 
             "irn": 1817, 
-            "name": "Hakewill, James", 
+            "last": "Hakewill", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Moses, Henry", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1782", 
+            "collaboration": null, 
             "death_date": "1870", 
+            "display_name": "Moses, Henry", 
+            "first": null, 
+            "fullname": "Moses, Henry", 
             "irn": 1832, 
-            "name": "Moses, Henry", 
+            "last": "Moses, Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38582, 
     "materials": "engraving on India paper, chine coll\u00e9", 
     "on_view": false, 

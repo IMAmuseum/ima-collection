@@ -2,12 +2,23 @@
     "accession_number": "72.12.45B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Brown, Arthur William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Brown, Arthur William", 
+            "first": null, 
+            "fullname": "Brown, Arthur William", 
             "irn": 2352, 
-            "name": "Brown, Arthur William", 
+            "last": "Brown, Arthur William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 53146, 
     "materials": "offset lithograph", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "LH2003.31D-F", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Jonathan Swift", 
+            "first": "Jonathan", 
+            "fullname": "Jonathan Swift", 
             "irn": 3005, 
-            "name": "Jonathan Swift", 
+            "last": "Swift", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/4 x 5 3/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61849, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "J. Johnson", 
+            "first": null, 
+            "fullname": "J. Johnson", 
             "irn": 3006, 
-            "name": "J. Johnson"
+            "last": "J. Johnson", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

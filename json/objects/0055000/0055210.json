@@ -2,12 +2,23 @@
     "accession_number": "72.43.16", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Longueville, Charles", 
+                "UlanIdNo": "500077785"
+            }, 
             "after_follower": null, 
             "birth_date": "1829", 
+            "collaboration": null, 
             "death_date": "after 1882", 
+            "display_name": "Longueville, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Longueville", 
             "irn": 674417, 
-            "name": "Longueville, Charles", 
+            "last": "Longueville", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55210, 
     "materials": "etching", 
     "on_view": false, 

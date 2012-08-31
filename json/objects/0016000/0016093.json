@@ -2,12 +2,23 @@
     "accession_number": "63.198", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Morse, Samuel Finley Breese", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Morse, Samuel Finley Breese", 
+            "first": "Samuel", 
+            "fullname": "Samuel F. Morse", 
             "irn": 3233, 
-            "name": "Morse, Samuel Finley Breese", 
+            "last": "Morse", 
+            "middle": "Finley Breese", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 25 in.\n41 1/2 x 36 3/4 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16093, 
     "materials": "oil on canvas", 
     "on_view": true, 

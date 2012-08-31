@@ -6,6 +6,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 11858, 
     "materials": "hand-colored woodblock print and letterpress on paper", 
     "on_view": false, 
@@ -13,8 +14,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Koberger, Anton", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Koberger, Anton", 
+            "first": null, 
+            "fullname": "Koberger, Anton", 
             "irn": 1628, 
-            "name": "Koberger, Anton"
+            "last": "Koberger, Anton", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

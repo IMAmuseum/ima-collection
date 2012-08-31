@@ -2,12 +2,23 @@
     "accession_number": "MH2010.13", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Steinway & Sons", 
+            "first": null, 
+            "fullname": "Steinway & Sons", 
             "irn": 7634, 
-            "name": "Steinway & Sons", 
+            "last": null, 
+            "middle": null, 
             "nationality": "United States", 
+            "organization": "Steinway & Sons", 
+            "party_type": "Organisation", 
             "role": "manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "37 1/2 x 56 x 80 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69127, 
     "materials": "Ivory, steel, brass, wood", 
     "on_view": true, 

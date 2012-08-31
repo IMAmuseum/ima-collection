@@ -2,12 +2,23 @@
     "accession_number": "03.18", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1792", 
+            "collaboration": null, 
             "death_date": "1872", 
+            "display_name": "Antonio Perfetti", 
+            "first": "Antonio", 
+            "fullname": "Antonio Perfetti", 
             "irn": 5135, 
-            "name": "Antonio Perfetti", 
+            "last": "Perfetti", 
+            "middle": null, 
             "nationality": "Italian", 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 1/8 x 19 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1900, 
     "materials": "engraving", 
     "on_view": false, 

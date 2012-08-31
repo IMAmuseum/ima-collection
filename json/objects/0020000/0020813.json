@@ -2,12 +2,23 @@
     "accession_number": "09.268", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Frey, Johann Jakob", 
+                "UlanIdNo": "500032892"
+            }, 
             "after_follower": null, 
             "birth_date": "1813", 
+            "collaboration": null, 
             "death_date": "1865", 
+            "display_name": "Frey, Johann Jakob", 
+            "first": "Johann", 
+            "fullname": "Johann J. Frey", 
             "irn": 632179, 
-            "name": "Frey, Johann Jakob", 
+            "last": "Frey", 
+            "middle": "Jakob", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 20813, 
     "materials": "engraving", 
     "on_view": false, 

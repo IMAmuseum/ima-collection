@@ -2,12 +2,23 @@
     "accession_number": "LH2003.34A-J", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Oscar Wilde", 
+            "first": "Oscar", 
+            "fullname": "Oscar Wilde", 
             "irn": 3011, 
-            "name": "Oscar Wilde", 
+            "last": "Wilde", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/8 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61852, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Bigelow, Brown & Co. Inc.", 
+            "first": null, 
+            "fullname": "Bigelow, Brown & Co. Inc.", 
             "irn": 3012, 
-            "name": "Bigelow, Brown & Co. Inc."
+            "last": "Bigelow, Brown & Co. Inc.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

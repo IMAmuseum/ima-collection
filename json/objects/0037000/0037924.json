@@ -2,12 +2,23 @@
     "accession_number": "80.814", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Howlett, Bartholomew", 
+                "UlanIdNo": "500012694"
+            }, 
             "after_follower": null, 
             "birth_date": "1767", 
+            "collaboration": null, 
             "death_date": "1827", 
+            "display_name": "Howlett, Bartholomew", 
+            "first": "Bartholomew", 
+            "fullname": "Bartholomew Howlett", 
             "irn": 612394, 
-            "name": "Howlett, Bartholomew", 
+            "last": "Howlett", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "5 x 7 1/2 in (image) \n11 5/8 x 13 7/8 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 37924, 
     "materials": "engraving", 
     "on_view": false, 

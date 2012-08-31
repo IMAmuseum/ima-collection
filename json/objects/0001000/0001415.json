@@ -2,21 +2,43 @@
     "accession_number": "80.731.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Dunkarton, Robert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1744", 
+            "collaboration": null, 
             "death_date": "1811", 
+            "display_name": "Dunkarton, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Dunkarton", 
             "irn": 1295, 
-            "name": "Dunkarton, Robert", 
+            "last": "Dunkarton", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "7 x 10 1/4 in (image) \n8 1/8 x 11 1/4 in (plate) \n11 1/2 x 17 3/16 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1415, 
     "materials": "mezzotint over etching", 
     "on_view": false, 

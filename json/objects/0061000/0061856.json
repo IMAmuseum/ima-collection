@@ -2,12 +2,23 @@
     "accession_number": "LH2003.38A-J", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Francis Bacon", 
+            "first": "Francis", 
+            "fullname": "Francis Bacon", 
             "irn": 3018, 
-            "name": "Francis Bacon", 
+            "last": "Bacon", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/4 x 5 1/2 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61856, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "W. Baynes and Son", 
+            "first": null, 
+            "fullname": "W. Baynes and Son", 
             "irn": 3019, 
-            "name": "W. Baynes and Son"
+            "last": "W. Baynes and Son", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

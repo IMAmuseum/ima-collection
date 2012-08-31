@@ -2,30 +2,63 @@
     "accession_number": "2008.218", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lescaze, William Edmond", 
+                "UlanIdNo": "500025522"
+            }, 
             "after_follower": null, 
             "birth_date": "1896", 
+            "collaboration": null, 
             "death_date": "1969", 
+            "display_name": "Lescaze, William Edmond", 
+            "first": "William", 
+            "fullname": "William E. Lescaze", 
             "irn": 624964, 
-            "name": "Lescaze, William Edmond", 
+            "last": "Lescaze", 
+            "middle": "Edmond", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Howe, George", 
+                "UlanIdNo": "500017781"
+            }, 
             "after_follower": null, 
             "birth_date": "1877", 
+            "collaboration": null, 
             "death_date": "1955", 
+            "display_name": "Howe, George", 
+            "first": "George", 
+            "fullname": "George Howe", 
             "irn": 617382, 
-            "name": "Howe, George", 
+            "last": "Howe", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": "Howe & Lescaze", 
             "death_date": null, 
+            "display_name": "Howe & Lescaze", 
+            "first": null, 
+            "fullname": "Howe & Lescaze", 
             "irn": 5758, 
-            "name": "Howe & Lescaze", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Howe & Lescaze", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "31 3/4 x 23 1/2 x 22 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65093, 
     "materials": "chromium-plated steel, and leather", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "24.317", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Constant, Jean Joseph Benjamin", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Constant, Jean Joseph Benjamin", 
+            "first": null, 
+            "fullname": "Constant, Jean Joseph Benjamin", 
             "irn": 526, 
-            "name": "Constant, Jean Joseph Benjamin", 
+            "last": "Constant, Jean Joseph Benjamin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 7061, 
     "materials": "etching", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Cadart, Alfred", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1828", 
+            "collaboration": null, 
+            "death_date": "1875", 
+            "display_name": "Cadart, Alfred", 
+            "first": null, 
+            "fullname": "Cadart, Alfred", 
             "irn": 2087, 
-            "name": "Cadart, Alfred"
+            "last": "Cadart, Alfred", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "2008.335.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hoffmann, Josef Franz Maria", 
+                "UlanIdNo": "500019177"
+            }, 
             "after_follower": null, 
             "birth_date": "1870", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Hoffmann, Josef Franz Maria", 
+            "first": "Josef", 
+            "fullname": "Josef F. Hoffmann", 
             "irn": 618753, 
-            "name": "Hoffmann, Josef Franz Maria", 
+            "last": "Hoffmann", 
+            "middle": "Franz Maria", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 1/2 x 3 1/2 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66496, 
     "materials": "glass", 
     "on_view": false, 

@@ -2,29 +2,52 @@
     "accession_number": "MH2010.22", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1917", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Florence K. Bassett", 
+            "first": "Florence", 
+            "fullname": "Florence K. Bassett", 
             "irn": 7633, 
-            "name": "Florence K. Bassett", 
+            "last": "Bassett", 
+            "middle": "Knoll", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Knoll Associates, Inc.", 
+            "first": null, 
+            "fullname": "Knoll Associates, Inc.", 
             "irn": 5872, 
-            "name": "Knoll Associates, Inc.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Knoll Associates, Inc.", 
+            "party_type": "Organisation", 
             "role": "manufacturer"
         }
     ], 
-    "creation_date": null, 
+    "creation_date": "About 1954", 
     "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
     "dimensions": "28 x 34 x 34 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69141, 
     "materials": "wood, metal", 
     "on_view": false, 
@@ -32,5 +55,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Table"
+    "title": "table"
 }

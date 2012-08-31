@@ -2,12 +2,23 @@
     "accession_number": "2000.110", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bonnard, Pierre", 
+                "UlanIdNo": "500115555"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1947", 
+            "display_name": "Bonnard, Pierre", 
+            "first": "Pierre", 
+            "fullname": "Pierre Bonnard", 
             "irn": 710447, 
-            "name": "Bonnard, Pierre", 
+            "last": "Bonnard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38941, 
     "materials": "lithograph", 
     "on_view": false, 

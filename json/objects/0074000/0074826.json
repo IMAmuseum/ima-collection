@@ -2,12 +2,23 @@
     "accession_number": "MH2012.11.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jensen, Georg", 
+                "UlanIdNo": "500103789"
+            }, 
             "after_follower": null, 
             "birth_date": "1866", 
+            "collaboration": null, 
             "death_date": "1935", 
+            "display_name": "Jensen, Georg", 
+            "first": "Georg", 
+            "fullname": "Georg Jensen", 
             "irn": 700161, 
-            "name": "Jensen, Georg", 
+            "last": "Jensen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 x 1 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 74826, 
     "materials": "silver, enamel", 
     "on_view": false, 

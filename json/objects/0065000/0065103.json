@@ -2,21 +2,43 @@
     "accession_number": "2008.187", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kjaerholm, Poul", 
+                "UlanIdNo": "500068499"
+            }, 
             "after_follower": null, 
             "birth_date": "1929", 
+            "collaboration": null, 
             "death_date": "1980", 
+            "display_name": "Kjaerholm, Poul", 
+            "first": "Poul", 
+            "fullname": "Poul Kjaerholm", 
             "irn": 665227, 
-            "name": "Kjaerholm, Poul", 
+            "last": "Kjaerholm", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "E. Kold Christensen", 
+            "first": null, 
+            "fullname": "E. Kold Christensen", 
             "irn": 5845, 
-            "name": "E. Kold Christensen", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "E. Kold Christensen", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "27 7/8 x 24 7/8 x 24 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65103, 
     "materials": "chrome-plated steel, cane", 
     "on_view": false, 

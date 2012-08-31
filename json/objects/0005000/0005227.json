@@ -2,12 +2,23 @@
     "accession_number": "20.163", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Beckwith, James Carroll", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1852", 
+            "collaboration": null, 
             "death_date": "1917", 
+            "display_name": "Beckwith, James Carroll", 
+            "first": "James", 
+            "fullname": "James C. Beckwith", 
             "irn": 345, 
-            "name": "Beckwith, James Carroll", 
+            "last": "Beckwith", 
+            "middle": "Carroll", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "45 x 28 in.\n52 x 36 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 5227, 
     "materials": "oil on canvas", 
     "on_view": false, 

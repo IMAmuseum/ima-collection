@@ -2,12 +2,23 @@
     "accession_number": "34.10", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Woodbury, Charles Herbert", 
+                "UlanIdNo": "500008853"
+            }, 
             "after_follower": null, 
             "birth_date": "1864", 
+            "collaboration": null, 
             "death_date": "1940", 
+            "display_name": "Woodbury, Charles Herbert", 
+            "first": "Charles", 
+            "fullname": "Charles H. Woodbury", 
             "irn": 608636, 
-            "name": "Woodbury, Charles Herbert", 
+            "last": "Woodbury", 
+            "middle": "Herbert", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 26784, 
     "materials": "etching and drypoint", 
     "on_view": false, 

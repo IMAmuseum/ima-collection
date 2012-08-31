@@ -2,21 +2,43 @@
     "accession_number": "82.95", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1989", 
+            "display_name": "Valentina Sanina", 
+            "first": "Valentina", 
+            "fullname": "Valentina Sanina", 
             "irn": 6882, 
-            "name": "Valentina Sanina", 
+            "last": "Sanina", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Valentina Gowns, Inc.", 
+            "first": null, 
+            "fullname": "Valentina Gowns, Inc.", 
             "irn": 6883, 
-            "name": "Valentina Gowns, Inc.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Valentina Gowns, Inc.", 
+            "party_type": "Organisation", 
             "role": "Design House"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "L: 59 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34297, 
     "materials": "silk crepe", 
     "on_view": false, 

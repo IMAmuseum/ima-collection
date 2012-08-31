@@ -2,12 +2,23 @@
     "accession_number": "08.45", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bega, Cornelis", 
+                "UlanIdNo": "500118926"
+            }, 
             "after_follower": null, 
             "birth_date": "1631", 
+            "collaboration": null, 
             "death_date": "1664", 
+            "display_name": "Bega, Cornelis", 
+            "first": "Cornelis", 
+            "fullname": "Cornelis Bega", 
             "irn": 713571, 
-            "name": "Bega, Cornelis", 
+            "last": "Bega", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 8942, 
     "materials": "etching", 
     "on_view": false, 

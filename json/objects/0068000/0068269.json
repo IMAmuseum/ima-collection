@@ -2,12 +2,23 @@
     "accession_number": "2009.570", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Heilmann, Mary", 
+                "UlanIdNo": "500118772"
+            }, 
             "after_follower": null, 
             "birth_date": "1940", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Heilmann, Mary", 
+            "first": "Mary", 
+            "fullname": "Mary Heilmann", 
             "irn": 713483, 
-            "name": "Heilmann, Mary", 
+            "last": "Heilmann", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "30 1/8  x 22 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68269, 
     "materials": "screen print on white wove Arches paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Simca Print Artists, Inc.", 
+            "first": null, 
+            "fullname": "Simca Print Artists, Inc.", 
             "irn": 6703, 
-            "name": "Simca Print Artists, Inc."
+            "last": null, 
+            "middle": null, 
+            "organization": "Simca Print Artists, Inc.", 
+            "party_type": "Organisation"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Simca Print Artists, Inc.", 
+            "first": null, 
+            "fullname": "Simca Print Artists, Inc.", 
             "irn": 6703, 
-            "name": "Simca Print Artists, Inc."
+            "last": null, 
+            "middle": null, 
+            "organization": "Simca Print Artists, Inc.", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Mary Heilmann", 

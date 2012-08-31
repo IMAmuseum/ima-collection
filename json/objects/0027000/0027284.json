@@ -2,12 +2,23 @@
     "accession_number": "72.43", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hamerton, Philip Gilbert", 
+                "UlanIdNo": "500048327"
+            }, 
             "after_follower": null, 
             "birth_date": "1834", 
+            "collaboration": null, 
             "death_date": "1894", 
+            "display_name": "Hamerton, Philip Gilbert", 
+            "first": "Philip", 
+            "fullname": "Philip G. Hamerton", 
             "irn": 646828, 
-            "name": "Hamerton, Philip Gilbert", 
+            "last": "Hamerton", 
+            "middle": "Gilbert", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 27284, 
     "materials": "etchings and drypoint", 
     "on_view": false, 

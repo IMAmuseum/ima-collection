@@ -2,21 +2,43 @@
     "accession_number": "73.84.10", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Laporte, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1761", 
+            "collaboration": null, 
             "death_date": "1839", 
+            "display_name": "Laporte, John", 
+            "first": null, 
+            "fullname": "Laporte, John", 
             "irn": 1987, 
-            "name": "Laporte, John", 
+            "last": "Laporte, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Engelmann, Gottfried", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1788", 
+            "collaboration": null, 
             "death_date": "1839", 
+            "display_name": "Engelmann, Gottfried", 
+            "first": null, 
+            "fullname": "Engelmann, Gottfried", 
             "irn": 1653, 
-            "name": "Engelmann, Gottfried", 
+            "last": "Engelmann, Gottfried", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 32069, 
     "materials": "hand-colored lithograph", 
     "on_view": false, 

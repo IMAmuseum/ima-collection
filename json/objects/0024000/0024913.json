@@ -2,12 +2,23 @@
     "accession_number": "25.15", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tissot, James Jacques Joseph", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tissot, James Jacques Joseph", 
+            "first": null, 
+            "fullname": "Tissot, James Jacques Joseph", 
             "irn": 436, 
-            "name": "Tissot, James Jacques Joseph", 
+            "last": "Tissot, James Jacques Joseph", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 24913, 
     "materials": "drypoint", 
     "on_view": false, 

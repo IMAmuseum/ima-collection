@@ -2,12 +2,23 @@
     "accession_number": "72.43.15", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jongkind, Johan Barthold", 
+                "UlanIdNo": "500028269"
+            }, 
             "after_follower": null, 
             "birth_date": "1819", 
+            "collaboration": null, 
             "death_date": "1891", 
+            "display_name": "Jongkind, Johan Barthold", 
+            "first": "Johan", 
+            "fullname": "Johan B. Jongkind", 
             "irn": 627663, 
-            "name": "Jongkind, Johan Barthold", 
+            "last": "Jongkind", 
+            "middle": "Barthold", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55209, 
     "materials": "etching", 
     "on_view": false, 

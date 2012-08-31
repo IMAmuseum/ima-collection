@@ -2,21 +2,43 @@
     "accession_number": "1990.49", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pond, Arthur", 
+                "UlanIdNo": "500003440"
+            }, 
             "after_follower": null, 
             "birth_date": "1695", 
+            "collaboration": null, 
             "death_date": "1758", 
+            "display_name": "Pond, Arthur", 
+            "first": "Arthur", 
+            "fullname": "Arthur Pond", 
             "irn": 603357, 
-            "name": "Pond, Arthur", 
+            "last": "Pond", 
+            "middle": null, 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }, 
         {
+            "ULAN": {
+                "Name": "Carlo Maratta", 
+                "UlanIdNo": "500118927"
+            }, 
             "after_follower": "After", 
             "birth_date": "1625", 
+            "collaboration": null, 
             "death_date": "1713", 
+            "display_name": "Carlo Maratta", 
+            "first": "Carlo", 
+            "fullname": "Carlo Maratti", 
             "irn": 713572, 
-            "name": "Carlo Maratta", 
+            "last": "Maratti", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 1/2 x 6 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13708, 
     "materials": "crayon manner engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "LH2003.30L-T", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Eugene Sue", 
+            "first": "Eugene", 
+            "fullname": "Eugene Sue", 
             "irn": 3003, 
-            "name": "Eugene Sue", 
+            "last": "Sue", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 x 6 1/4 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61848, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Francis A. Niccolls and Company", 
+            "first": null, 
+            "fullname": "Francis A. Niccolls and Company", 
             "irn": 3004, 
-            "name": "Francis A. Niccolls and Company"
+            "last": "Francis A. Niccolls and Company", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

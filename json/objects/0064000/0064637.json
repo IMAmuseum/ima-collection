@@ -2,21 +2,43 @@
     "accession_number": "2011.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1968", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tord Boontje", 
+            "first": "Tord", 
+            "fullname": "Tord Boontje", 
             "irn": 5658, 
-            "name": "Tord Boontje", 
+            "last": "Boontje", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Moroso", 
+            "first": null, 
+            "fullname": "Moroso", 
             "irn": 6672, 
-            "name": "Moroso", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Moroso", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "31 x 41 x 43 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64637, 
     "materials": "Fabric and metal", 
     "on_view": false, 

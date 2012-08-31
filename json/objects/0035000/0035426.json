@@ -2,21 +2,43 @@
     "accession_number": "30.995", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hogarth, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1697", 
+            "collaboration": null, 
             "death_date": "1764", 
+            "display_name": "Hogarth, William", 
+            "first": "William", 
+            "fullname": "William Hogarth", 
             "irn": 1045, 
-            "name": "Hogarth, William", 
+            "last": "Hogarth", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Grignion the elder, Charles", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1717-1810", 
+            "collaboration": null, 
             "death_date": "1717-1810", 
+            "display_name": "Grignion the elder, Charles", 
+            "first": null, 
+            "fullname": "Grignion the elder, Charles", 
             "irn": 2254, 
-            "name": "Grignion the elder, Charles", 
+            "last": "Grignion the elder, Charles", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 35426, 
     "materials": "etching and engraving", 
     "on_view": false, 

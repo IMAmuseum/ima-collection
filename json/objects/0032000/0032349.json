@@ -2,12 +2,23 @@
     "accession_number": "46.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fitton, Hedley", 
+                "UlanIdNo": "500030145"
+            }, 
             "after_follower": null, 
             "birth_date": "1859", 
+            "collaboration": null, 
             "death_date": "1929", 
+            "display_name": "Fitton, Hedley", 
+            "first": "Hedley", 
+            "fullname": "Hedley Fitton", 
             "irn": 629498, 
-            "name": "Fitton, Hedley", 
+            "last": "Fitton", 
+            "middle": null, 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 32349, 
     "materials": "etching", 
     "on_view": false, 

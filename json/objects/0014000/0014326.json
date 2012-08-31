@@ -2,12 +2,23 @@
     "accession_number": "78.268.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Storr, Paul", 
+                "UlanIdNo": "500074455"
+            }, 
             "after_follower": null, 
             "birth_date": "1771", 
+            "collaboration": null, 
             "death_date": "1844", 
+            "display_name": "Storr, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul Storr", 
             "irn": 671117, 
-            "name": "Storr, Paul", 
+            "last": "Storr", 
+            "middle": null, 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 14326, 
     "materials": "gilt silver, blown lead glass", 
     "on_view": false, 

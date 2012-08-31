@@ -2,12 +2,23 @@
     "accession_number": "2010.262", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hayter, Stanley William", 
+                "UlanIdNo": "500010689"
+            }, 
             "after_follower": null, 
             "birth_date": "1901", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Hayter, Stanley William", 
+            "first": "Stanley", 
+            "fullname": "Stanley W. Hayter", 
             "irn": 610435, 
-            "name": "Hayter, Stanley William", 
+            "last": "Hayter", 
+            "middle": "William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "8 1/4 x 10 5/8 in. (image)\n11 1/4 x 15 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69112, 
     "materials": "engraving and drypoint on cream wove BFK Rives paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Paul Haasen", 
+            "first": "Paul", 
+            "fullname": "Paul Haasen", 
             "irn": 7254, 
-            "name": "Paul Haasen"
+            "last": "Haasen", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Editions de Quatres Chemins", 
+            "first": null, 
+            "fullname": "Editions de Quatres Chemins", 
             "irn": 7255, 
-            "name": "Editions de Quatres Chemins"
+            "last": null, 
+            "middle": null, 
+            "organization": "Editions de Quatres Chemins", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

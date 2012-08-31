@@ -2,21 +2,43 @@
     "accession_number": "80.1967", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Delamotte, William Alfred", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1863", 
+            "display_name": "Delamotte, William Alfred", 
+            "first": null, 
+            "fullname": "Delamotte, William Alfred", 
             "irn": 1953, 
-            "name": "Delamotte, William Alfred", 
+            "last": "Delamotte, William Alfred", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Lupton, Thomas Goff", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1873", 
+            "display_name": "Lupton, Thomas Goff", 
+            "first": "Thomas", 
+            "fullname": "Thomas G. Lupton", 
             "irn": 830, 
-            "name": "Lupton, Thomas Goff", 
+            "last": "Lupton", 
+            "middle": "Goff", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 41934, 
     "materials": "mezzotint on plain paper", 
     "on_view": false, 

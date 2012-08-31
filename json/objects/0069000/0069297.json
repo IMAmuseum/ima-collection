@@ -1,17 +1,39 @@
 {
     "accession_number": "MH2010.87A", 
-    "actors": [], 
+    "actors": [
+        {
+            "ULAN": {
+                "Name": "Girard, Alexander Hayden", 
+                "UlanIdNo": "500096402"
+            }, 
+            "after_follower": null, 
+            "birth_date": "1907", 
+            "collaboration": null, 
+            "death_date": "1993", 
+            "display_name": "Girard, Alexander Hayden", 
+            "first": "Alexander", 
+            "fullname": "Alexander H. Girard", 
+            "irn": 692846, 
+            "last": "Girard", 
+            "middle": "Hayden", 
+            "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
+            "role": "designer"
+        }
+    ], 
     "creation_date": null, 
-    "credit_line": null, 
+    "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
     "dimensions": "12 x 34 x 7 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69297, 
-    "materials": "wood", 
+    "materials": "glass, paint, wood", 
     "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 
     "rights": "\u00a9 Alexander Hayden Girard", 
-    "title": "Box"
+    "title": "box"
 }

@@ -2,21 +2,43 @@
     "accession_number": "1986.173", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Goudt, Hendrik", 
+                "UlanIdNo": "500115705"
+            }, 
             "after_follower": null, 
             "birth_date": "1583", 
+            "collaboration": null, 
             "death_date": "1648", 
+            "display_name": "Goudt, Hendrik", 
+            "first": "Hendrik", 
+            "fullname": "Hendrik Goudt", 
             "irn": 710587, 
-            "name": "Goudt, Hendrik", 
+            "last": "Goudt", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Elsheimer, Adam", 
+                "UlanIdNo": "500115443"
+            }, 
             "after_follower": "after", 
             "birth_date": "1578", 
+            "collaboration": null, 
             "death_date": "1610", 
+            "display_name": "Elsheimer, Adam", 
+            "first": "Adam", 
+            "fullname": "Adam Elsheimer", 
             "irn": 710349, 
-            "name": "Elsheimer, Adam", 
+            "last": "Elsheimer", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "9 7/8 x 10 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13421, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "1986.300", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Audobon, John James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1785", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Audobon, John James", 
+            "first": null, 
+            "fullname": "Audobon, John James", 
             "irn": 676, 
-            "name": "Audobon, John James", 
+            "last": "Audobon, John James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Havell, Robert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1793-1878", 
+            "collaboration": null, 
             "death_date": "1793-1878", 
+            "display_name": "Havell, Robert", 
+            "first": null, 
+            "fullname": "Havell, Robert", 
             "irn": 560, 
-            "name": "Havell, Robert", 
+            "last": "Havell, Robert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 5515, 
     "materials": "hand-colored aquatint", 
     "on_view": false, 

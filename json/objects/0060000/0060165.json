@@ -2,12 +2,23 @@
     "accession_number": "2003.7", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Yoshitoshi", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1839", 
+            "collaboration": null, 
             "death_date": "1892", 
+            "display_name": "Yoshitoshi", 
+            "first": null, 
+            "fullname": "Yoshitoshi", 
             "irn": 2470, 
-            "name": "Yoshitoshi", 
+            "last": "Yoshitoshi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 x 9 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 60165, 
     "materials": "ink on paper", 
     "on_view": false, 

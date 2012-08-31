@@ -2,21 +2,43 @@
     "accession_number": "30.981", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hogarth, William", 
+                "UlanIdNo": "500004242"
+            }, 
             "after_follower": "After", 
             "birth_date": "1697", 
+            "collaboration": null, 
             "death_date": "1764", 
+            "display_name": "Hogarth, William", 
+            "first": "William", 
+            "fullname": "William Hogarth", 
             "irn": 604130, 
-            "name": "Hogarth, William", 
+            "last": "Hogarth", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Baron, Bernard", 
+                "UlanIdNo": "500001126"
+            }, 
             "after_follower": null, 
             "birth_date": "1696", 
+            "collaboration": null, 
             "death_date": "1766", 
+            "display_name": "Baron, Bernard", 
+            "first": "Bernard", 
+            "fullname": "Bernard Baron", 
             "irn": 601097, 
-            "name": "Baron, Bernard", 
+            "last": "Baron", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,9 +47,10 @@
     "cultures": [], 
     "dimensions": "13 7/8 x 17 5/8 in. (image)\n17 1/8 x 21 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 3156, 
     "materials": "etching and engraving", 
-    "on_view": false, 
+    "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 

@@ -2,12 +2,23 @@
     "accession_number": "1998.35", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Chadwick, Helen", 
+                "UlanIdNo": "500005588"
+            }, 
             "after_follower": null, 
             "birth_date": "1953", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Chadwick, Helen", 
+            "first": "Helen", 
+            "fullname": "Helen Chadwick", 
             "irn": 605441, 
-            "name": "Chadwick, Helen", 
+            "last": "Chadwick", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 28258, 
     "materials": "silver dye-bleach print (Cibachrome)", 
     "on_view": false, 

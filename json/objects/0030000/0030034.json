@@ -2,12 +2,23 @@
     "accession_number": "1983.67", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Goyen, Jan van", 
+                "UlanIdNo": "500115612"
+            }, 
             "after_follower": null, 
             "birth_date": "1596", 
+            "collaboration": null, 
             "death_date": "1656", 
+            "display_name": "Goyen, Jan van", 
+            "first": "Jan", 
+            "fullname": "Jan v. Goyen", 
             "irn": 710499, 
-            "name": "Goyen, Jan van", 
+            "last": "Goyen", 
+            "middle": "van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "22 1/4 x 33 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30034, 
     "materials": "oil on wood", 
     "on_view": true, 

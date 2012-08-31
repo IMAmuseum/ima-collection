@@ -2,12 +2,23 @@
     "accession_number": "MH2010.449", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Clichy", 
+            "first": null, 
+            "fullname": "Clichy", 
             "irn": 7402, 
-            "name": "Clichy", 
-            "nationality": null, 
+            "last": null, 
+            "middle": null, 
+            "nationality": "French", 
+            "organization": "Clichy", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "2 1/4 x 3 x 3 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71037, 
     "materials": "glass", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Paperweight"
+    "title": "paperweight"
 }

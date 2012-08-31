@@ -2,12 +2,23 @@
     "accession_number": "56.65", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Heckel, Erich", 
+                "UlanIdNo": "500032971"
+            }, 
             "after_follower": null, 
             "birth_date": "1883", 
+            "collaboration": null, 
             "death_date": "1970", 
+            "display_name": "Heckel, Erich", 
+            "first": "Erich", 
+            "fullname": "Erich Heckel", 
             "irn": 632257, 
-            "name": "Heckel, Erich", 
+            "last": "Heckel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 7/8 x 11 3/8 in (image)\n16 x 12 5/8 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30491, 
     "materials": "woodcut", 
     "on_view": false, 

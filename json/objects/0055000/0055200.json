@@ -2,12 +2,23 @@
     "accession_number": "72.43.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ridley, Matthew White", 
+                "UlanIdNo": "500000724"
+            }, 
             "after_follower": null, 
             "birth_date": "1837", 
+            "collaboration": null, 
             "death_date": "1888", 
+            "display_name": "Ridley, Matthew White", 
+            "first": "Matthew", 
+            "fullname": "Matthew W. Ridley", 
             "irn": 600707, 
-            "name": "Ridley, Matthew White", 
+            "last": "Ridley", 
+            "middle": "White", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55200, 
     "materials": "etching", 
     "on_view": false, 

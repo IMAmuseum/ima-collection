@@ -2,12 +2,23 @@
     "accession_number": "09.69", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Berchem, Nicolaes", 
+                "UlanIdNo": "500010297"
+            }, 
             "after_follower": null, 
             "birth_date": "1620", 
+            "collaboration": null, 
             "death_date": "1683", 
+            "display_name": "Berchem, Nicolaes", 
+            "first": "Nicolaes", 
+            "fullname": "Nicolaes Berchem", 
             "irn": 610050, 
-            "name": "Berchem, Nicolaes", 
+            "last": "Berchem", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 13266, 
     "materials": "etching", 
     "on_view": false, 

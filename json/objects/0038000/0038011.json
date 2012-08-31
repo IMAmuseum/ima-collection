@@ -2,12 +2,23 @@
     "accession_number": "80.825.77", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dayes, Edward", 
+                "UlanIdNo": "500001156"
+            }, 
             "after_follower": null, 
             "birth_date": "1763", 
+            "collaboration": null, 
             "death_date": "1804", 
+            "display_name": "Dayes, Edward", 
+            "first": "Edward", 
+            "fullname": "Edward Dayes", 
             "irn": 601126, 
-            "name": "Dayes, Edward", 
+            "last": "Dayes", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38011, 
     "materials": "engraving", 
     "on_view": false, 

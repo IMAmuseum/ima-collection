@@ -2,12 +2,23 @@
     "accession_number": "11.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Benson, Frank Weston", 
+                "UlanIdNo": "500026137"
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1951", 
+            "display_name": "Benson, Frank Weston", 
+            "first": "Frank", 
+            "fullname": "Frank W. Benson", 
             "irn": 625566, 
-            "name": "Benson, Frank Weston", 
+            "last": "Benson", 
+            "middle": "Weston", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "32 x 20 in.\n37 1/8 x 25 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 32552, 
     "materials": "oil on canvas", 
     "on_view": false, 

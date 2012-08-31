@@ -2,12 +2,23 @@
     "accession_number": "81.1072", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gropper, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1897", 
+            "collaboration": null, 
             "death_date": "1977", 
+            "display_name": "Gropper, William", 
+            "first": null, 
+            "fullname": "Gropper, William", 
             "irn": 531, 
-            "name": "Gropper, William", 
+            "last": "Gropper, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "3 7/8 x 5 7/8 in. (image)\n11 1/2 x 11 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30464, 
     "materials": "etching, aquatint and plate tone", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Associated American Artists", 
+            "first": null, 
+            "fullname": "Associated American Artists", 
             "irn": 6995, 
-            "name": "Associated American Artists"
+            "last": null, 
+            "middle": null, 
+            "organization": "Associated American Artists", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 The Estate of William Gropper", 

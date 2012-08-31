@@ -2,12 +2,23 @@
     "accession_number": "2002.101", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wenban, Sion Longley", 
+                "UlanIdNo": "500025667"
+            }, 
             "after_follower": null, 
             "birth_date": "1848", 
+            "collaboration": null, 
             "death_date": "1897", 
+            "display_name": "Wenban, Sion Longley", 
+            "first": "Sion", 
+            "fullname": "Sion L. Wenban", 
             "irn": 625108, 
-            "name": "Wenban, Sion Longley", 
+            "last": "Wenban", 
+            "middle": "Longley", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 59159, 
     "materials": "etching", 
     "on_view": false, 

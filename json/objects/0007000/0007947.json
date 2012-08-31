@@ -2,12 +2,23 @@
     "accession_number": "1987.50", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sloan, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1871", 
+            "collaboration": null, 
             "death_date": "1951", 
+            "display_name": "Sloan, John", 
+            "first": "John", 
+            "fullname": "John Sloan", 
             "irn": 1710, 
-            "name": "Sloan, John", 
+            "last": "Sloan", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 x 7 1/8 in. (image)\n9 1/4 x 12 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7947, 
     "materials": "etching", 
     "on_view": false, 

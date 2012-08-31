@@ -2,21 +2,43 @@
     "accession_number": "72.109.7", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kohn, Misch", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1916", 
+            "collaboration": null, 
             "death_date": "2002", 
+            "display_name": "Kohn, Misch", 
+            "first": null, 
+            "fullname": "Kohn, Misch", 
             "irn": 1656, 
-            "name": "Kohn, Misch", 
+            "last": "Kohn, Misch", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Lemon, Jack", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1936", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Lemon, Jack", 
+            "first": null, 
+            "fullname": "Lemon, Jack", 
             "irn": 2194, 
-            "name": "Lemon, Jack", 
+            "last": "Lemon, Jack", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "16 x 21 1/2 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7378, 
     "materials": "lithograph, photo etching and screenprint", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Lakeside Studio Press", 
+            "first": null, 
+            "fullname": "Lakeside Studio Press", 
             "irn": 2193, 
-            "name": "Lakeside Studio Press"
+            "last": "Lakeside Studio Press", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

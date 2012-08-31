@@ -2,12 +2,23 @@
     "accession_number": "09.131", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1915", 
+            "display_name": "John Englehart", 
+            "first": "John", 
+            "fullname": "John Englehart", 
             "irn": 2212, 
-            "name": "John Englehart", 
+            "last": "Englehart", 
+            "middle": null, 
             "nationality": "Austrian", 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 33490, 
     "materials": "etching", 
     "on_view": false, 

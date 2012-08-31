@@ -2,21 +2,43 @@
     "accession_number": "79.550", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Carder, Frederick", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1863", 
+            "collaboration": null, 
             "death_date": "1963", 
+            "display_name": "Carder, Frederick", 
+            "first": null, 
+            "fullname": "Carder, Frederick", 
             "irn": 669, 
-            "name": "Carder, Frederick", 
+            "last": "Carder, Frederick", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Steuben Glass Works", 
+            "first": null, 
+            "fullname": "Steuben Glass Works", 
             "irn": 2795, 
-            "name": "Steuben Glass Works", 
+            "last": "Steuben Glass Works", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 36253, 
     "materials": null, 
     "on_view": false, 

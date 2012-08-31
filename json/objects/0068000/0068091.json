@@ -2,21 +2,43 @@
     "accession_number": "2009.489.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1965", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Annaleena Hakatie", 
+            "first": "Annaleena", 
+            "fullname": "Annaleena Hakatie", 
             "irn": 6825, 
-            "name": "Annaleena Hakatie", 
+            "last": "Hakatie", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Iittala", 
+            "first": null, 
+            "fullname": "Iittala", 
             "irn": 6312, 
-            "name": "Iittala", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Iittala", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 x 7 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68091, 
     "materials": "glass", 
     "on_view": false, 

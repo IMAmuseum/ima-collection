@@ -2,12 +2,23 @@
     "accession_number": "09.8A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Major, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1714", 
+            "collaboration": null, 
             "death_date": "1799", 
+            "display_name": "Major, Thomas", 
+            "first": null, 
+            "fullname": "Major, Thomas", 
             "irn": 751, 
-            "name": "Major, Thomas", 
+            "last": "Major, Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 30119, 
     "materials": "engaving", 
     "on_view": false, 

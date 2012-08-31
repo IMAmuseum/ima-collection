@@ -6,6 +6,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 8190, 
     "materials": "hand-colored lithograph", 
     "on_view": false, 
@@ -13,8 +14,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Rice, Rutter & Co.", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Rice, Rutter & Co.", 
+            "first": null, 
+            "fullname": "Rice, Rutter & Co.", 
             "irn": 2002, 
-            "name": "Rice, Rutter & Co."
+            "last": "Rice, Rutter & Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

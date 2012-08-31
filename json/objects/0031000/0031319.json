@@ -2,12 +2,23 @@
     "accession_number": "58.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Canaletto", 
+                "UlanIdNo": "500115269"
+            }, 
             "after_follower": null, 
             "birth_date": "1697", 
+            "collaboration": null, 
             "death_date": "1768", 
+            "display_name": "Canaletto", 
+            "first": null, 
+            "fullname": "Canaletto", 
             "irn": 710184, 
-            "name": "Canaletto", 
+            "last": "Canaletto", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 3/4 x 17 in. (image)\n13 1/8 x 18 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 31319, 
     "materials": "etching", 
     "on_view": false, 

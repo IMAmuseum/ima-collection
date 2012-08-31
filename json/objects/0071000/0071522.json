@@ -2,12 +2,23 @@
     "accession_number": "2011.79", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Katz, Leo", 
+                "UlanIdNo": "500024991"
+            }, 
             "after_follower": null, 
             "birth_date": "1887", 
+            "collaboration": null, 
             "death_date": "1982", 
+            "display_name": "Katz, Leo", 
+            "first": "Leo", 
+            "fullname": "Leo Katz", 
             "irn": 624449, 
-            "name": "Katz, Leo", 
+            "last": "Katz", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 5/8 x 11 7/8 in. (image)\n20 x 15 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71522, 
     "materials": "lithograph on off-white wove paper", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "76.27", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wertheimer, Gustav", 
+                "UlanIdNo": "500075368"
+            }, 
             "after_follower": null, 
             "birth_date": "1847", 
+            "collaboration": null, 
             "death_date": "1902", 
+            "display_name": "Wertheimer, Gustav", 
+            "first": "Gustav", 
+            "fullname": "Gustav Wertheimer", 
             "irn": 672019, 
-            "name": "Wertheimer, Gustav", 
+            "last": "Wertheimer", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "85 x 112", 
     "dynasty": null, 
+    "images": [], 
     "irn": 22760, 
     "materials": "oil on canvas", 
     "on_view": false, 

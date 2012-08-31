@@ -2,12 +2,23 @@
     "accession_number": "2006.115", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Frank, Robert Louis", 
+                "UlanIdNo": "500019916"
+            }, 
             "after_follower": null, 
             "birth_date": "1924", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Frank, Robert Louis", 
+            "first": "Robert", 
+            "fullname": "Robert L. Frank", 
             "irn": 619481, 
-            "name": "Frank, Robert Louis", 
+            "last": "Frank", 
+            "middle": "Louis", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 15/16 x 13 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63905, 
     "materials": "gelatin silver print", 
     "on_view": false, 

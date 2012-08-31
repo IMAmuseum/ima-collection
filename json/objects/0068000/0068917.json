@@ -2,21 +2,43 @@
     "accession_number": "2010.83A-C", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1967", 
+            "display_name": "Peter Muller-Munk", 
+            "first": "Peter", 
+            "fullname": "Peter Muller-Munk", 
             "irn": 7062, 
-            "name": "Peter Muller-Munk", 
+            "last": "Muller-Munk", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Silex Company", 
+            "first": null, 
+            "fullname": "Silex Company", 
             "irn": 7063, 
-            "name": "Silex Company", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Silex Company", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "5 x 7 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68917, 
     "materials": "glass and metal", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "79.234", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Boch, Anna", 
+                "UlanIdNo": "500022508"
+            }, 
             "after_follower": null, 
             "birth_date": "1848", 
+            "collaboration": null, 
             "death_date": "1936", 
+            "display_name": "Boch, Anna", 
+            "first": "Anna", 
+            "fullname": "Anna Boch", 
             "irn": 622025, 
-            "name": "Boch, Anna", 
+            "last": "Boch", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 5/8 x 23 11/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20542, 
     "materials": "oil on canvas", 
     "on_view": false, 

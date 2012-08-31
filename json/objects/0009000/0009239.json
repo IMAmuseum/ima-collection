@@ -2,12 +2,23 @@
     "accession_number": "42.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Barker, Benjamin, II", 
+                "UlanIdNo": "500020514"
+            }, 
             "after_follower": null, 
             "birth_date": "1776", 
+            "collaboration": null, 
             "death_date": "1838", 
+            "display_name": "Barker, Benjamin, II", 
+            "first": "Benjamin", 
+            "fullname": "Benjamin ,. Barker", 
             "irn": 620065, 
-            "name": "Barker, Benjamin, II", 
+            "last": "Barker", 
+            "middle": ", II", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 x 30 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9239, 
     "materials": "oil on canvas", 
     "on_view": false, 

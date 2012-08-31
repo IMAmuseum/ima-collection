@@ -2,12 +2,23 @@
     "accession_number": "72.43.26", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Waterloo, Anthonie", 
+                "UlanIdNo": "500004986"
+            }, 
             "after_follower": null, 
             "birth_date": "1605", 
+            "collaboration": null, 
             "death_date": "1690", 
+            "display_name": "Waterloo, Anthonie", 
+            "first": "Anthonie", 
+            "fullname": "Anthonie Waterloo", 
             "irn": 604856, 
-            "name": "Waterloo, Anthonie", 
+            "last": "Waterloo", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55220, 
     "materials": "etching", 
     "on_view": false, 

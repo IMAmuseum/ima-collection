@@ -2,12 +2,23 @@
     "accession_number": "1998.43", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Baskin, Leonard", 
+                "UlanIdNo": "500003136"
+            }, 
             "after_follower": null, 
             "birth_date": "1922", 
+            "collaboration": null, 
             "death_date": "2000", 
+            "display_name": "Baskin, Leonard", 
+            "first": "Leonard", 
+            "fullname": "Leonard Baskin", 
             "irn": 603061, 
-            "name": "Baskin, Leonard", 
+            "last": "Baskin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 1/4 x 15 1/4 in. (image) |  16 x 21 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 12844, 
     "materials": "color wood engraving", 
     "on_view": false, 

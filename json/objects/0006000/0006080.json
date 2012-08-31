@@ -2,12 +2,23 @@
     "accession_number": "1991.343", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Piper, John", 
+                "UlanIdNo": "500001054"
+            }, 
             "after_follower": null, 
             "birth_date": "1903", 
+            "collaboration": null, 
             "death_date": "1992", 
+            "display_name": "Piper, John", 
+            "first": "John", 
+            "fullname": "John Piper", 
             "irn": 601026, 
-            "name": "Piper, John", 
+            "last": "Piper", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "28 x 36 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 6080, 
     "materials": "oil on canvas", 
     "on_view": false, 

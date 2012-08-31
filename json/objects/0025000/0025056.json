@@ -2,12 +2,23 @@
     "accession_number": "09.362", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Schofield, Walter Elmer", 
+                "UlanIdNo": "500013660"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1944", 
+            "display_name": "Schofield, Walter Elmer", 
+            "first": "Walter", 
+            "fullname": "Walter E. Schofield", 
             "irn": 613342, 
-            "name": "Schofield, Walter Elmer", 
+            "last": "Schofield", 
+            "middle": "Elmer", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "37 x 47 1/2 in.\n48 x 58 1/4 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 25056, 
     "materials": "oil on canvas", 
     "on_view": false, 

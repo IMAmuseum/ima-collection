@@ -2,12 +2,23 @@
     "accession_number": "40.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Parrish, Stephen", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1846", 
+            "collaboration": null, 
             "death_date": "1938", 
+            "display_name": "Parrish, Stephen", 
+            "first": null, 
+            "fullname": "Parrish, Stephen", 
             "irn": 2000, 
-            "name": "Parrish, Stephen", 
+            "last": "Parrish, Stephen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 21568, 
     "materials": "etching", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "78.96A-R", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "William Robertson", 
+            "first": "William", 
+            "fullname": "William Robertson", 
             "irn": 5081, 
-            "name": "William Robertson", 
+            "last": "Robertson", 
+            "middle": null, 
             "nationality": "Scotland", 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "22 3/4 x 29 1/4 x 14 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 12241, 
     "materials": "silver", 
     "on_view": true, 

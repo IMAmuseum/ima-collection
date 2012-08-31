@@ -2,12 +2,23 @@
     "accession_number": "79.252", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Herbin, Auguste", 
+                "UlanIdNo": "500023239"
+            }, 
             "after_follower": null, 
             "birth_date": "1882", 
+            "collaboration": null, 
             "death_date": "1960", 
+            "display_name": "Herbin, Auguste", 
+            "first": "Auguste", 
+            "fullname": "Auguste Herbin", 
             "irn": 622742, 
-            "name": "Herbin, Auguste", 
+            "last": "Herbin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 13/16 x 16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 21966, 
     "materials": "oil on canvas", 
     "on_view": true, 

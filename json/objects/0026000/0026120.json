@@ -2,12 +2,23 @@
     "accession_number": "45.214", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Kunisada", 
+                "UlanIdNo": "500121373"
+            }, 
             "after_follower": null, 
             "birth_date": "1786", 
+            "collaboration": null, 
             "death_date": "1864", 
+            "display_name": "Utagawa Kunisada", 
+            "first": null, 
+            "fullname": "Utagawa Kunisada", 
             "irn": 715404, 
-            "name": "Utagawa Kunisada", 
+            "last": "Utagawa Kunisada", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "28 1/16 x 9 1/4 in. (image & sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26120, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,12 +35,38 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Jukakud^o", 
+            "first": null, 
+            "fullname": "Jukakud^o", 
             "irn": 8746, 
-            "name": "Jukakud^o"
+            "last": "Jukakud^o", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Maru-ya Seijir^o", 
+            "first": null, 
+            "fullname": "Maru-ya Seijir^o", 
             "irn": 8747, 
-            "name": "Maru-ya Seijir^o"
+            "last": "Maru-ya Seijir^o", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

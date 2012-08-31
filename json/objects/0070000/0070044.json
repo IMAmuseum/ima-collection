@@ -1,17 +1,39 @@
 {
     "accession_number": "MH2010.356", 
-    "actors": [], 
+    "actors": [
+        {
+            "ULAN": {
+                "Name": "Larsen, Jack Lenor", 
+                "UlanIdNo": "500018823"
+            }, 
+            "after_follower": null, 
+            "birth_date": "1927", 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Larsen, Jack Lenor", 
+            "first": "Jack", 
+            "fullname": "Jack L. Larsen", 
+            "irn": 618404, 
+            "last": "Larsen", 
+            "middle": "Lenor", 
+            "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
+            "role": "designer"
+        }
+    ], 
     "creation_date": null, 
     "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
     "dimensions": "126 x 100 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 70044, 
-    "materials": "cloth curtains", 
+    "materials": "cloth", 
     "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Curtain"
+    "title": "curtain"
 }

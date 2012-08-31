@@ -2,12 +2,23 @@
     "accession_number": "76.219", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Katz, Alex", 
+                "UlanIdNo": "500022493"
+            }, 
             "after_follower": null, 
             "birth_date": "1927", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Katz, Alex", 
+            "first": "Alex", 
+            "fullname": "Alex Katz", 
             "irn": 622010, 
-            "name": "Katz, Alex", 
+            "last": "Katz", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 3889, 
     "materials": "color lithograph", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "LH2003.28I-L", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tobias Smollett", 
+            "first": "Tobias", 
+            "fullname": "Tobias Smollett", 
             "irn": 3002, 
-            "name": "Tobias Smollett", 
+            "last": "Smollett", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 5/8 x 5 3/4 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62995, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Jenson Society", 
+            "first": null, 
+            "fullname": "Jenson Society", 
             "irn": 2971, 
-            "name": "Jenson Society"
+            "last": "Jenson Society", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

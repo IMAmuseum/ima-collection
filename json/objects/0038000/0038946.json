@@ -2,12 +2,23 @@
     "accession_number": "2000.80", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Artschwager, Richard Ernst", 
+                "UlanIdNo": "500114981"
+            }, 
             "after_follower": null, 
             "birth_date": "1923", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Artschwager, Richard Ernst", 
+            "first": "Richard", 
+            "fullname": "Richard E. Artschwager", 
             "irn": 709974, 
-            "name": "Artschwager, Richard Ernst", 
+            "last": "Artschwager", 
+            "middle": "Ernst", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38946, 
     "materials": "acrylic and collaged elements on celotex with painted frame and inset mirrors", 
     "on_view": false, 

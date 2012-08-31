@@ -2,12 +2,23 @@
     "accession_number": "2009.11", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Salle, David", 
+                "UlanIdNo": "500027321"
+            }, 
             "after_follower": null, 
             "birth_date": "1952", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Salle, David", 
+            "first": "David", 
+            "fullname": "David Salle", 
             "irn": 626729, 
-            "name": "Salle, David", 
+            "last": "Salle", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "46 x 34 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67171, 
     "materials": "color lithograph and photo-screenprint on white wover paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Maurice Sanchez", 
+            "first": "Maurice", 
+            "fullname": "Maurice Sanchez", 
             "irn": 6293, 
-            "name": "Maurice Sanchez"
+            "last": "Sanchez", 
+            "middle": null, 
+            "organization": "Derriere L'Etoile Studios", 
+            "party_type": "Registration-Verified"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Edition Schellmann and Kluser", 
+            "first": null, 
+            "fullname": "Edition Schellmann and Kluser", 
             "irn": 6294, 
-            "name": "Edition Schellmann and Kluser"
+            "last": null, 
+            "middle": null, 
+            "organization": "Edition Schellmann and Kluser", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Licensed by VAGA, New York, NY", 

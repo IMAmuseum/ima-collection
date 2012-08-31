@@ -2,21 +2,43 @@
     "accession_number": "80.1915", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stanfield, Clarkson", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1793", 
+            "collaboration": null, 
             "death_date": "1867", 
+            "display_name": "Stanfield, Clarkson", 
+            "first": "Clarkson", 
+            "fullname": "Clarkson Stanfield", 
             "irn": 1622, 
-            "name": "Stanfield, Clarkson", 
+            "last": "Stanfield", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1800", 
+            "collaboration": null, 
             "death_date": "1863", 
+            "display_name": "James T. Willmore", 
+            "first": "James", 
+            "fullname": "James T. Willmore", 
             "irn": 6113, 
-            "name": "James T. Willmore", 
+            "last": "Willmore", 
+            "middle": "Tibbitts", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "5 1/2 x 3 7/8 in. (image)\n17 1/4 x 11 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 42303, 
     "materials": "engraving", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "81.381", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wiley, William T.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1937", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Wiley, William T.", 
+            "first": null, 
+            "fullname": "Wiley, William T.", 
             "irn": 997, 
-            "name": "Wiley, William T.", 
+            "last": "Wiley, William T.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37298, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Cirrus Editions", 
+            "first": null, 
+            "fullname": "Cirrus Editions", 
             "irn": 2237, 
-            "name": "Cirrus Editions"
+            "last": "Cirrus Editions", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 William T. Wiley", 

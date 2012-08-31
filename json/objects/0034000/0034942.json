@@ -2,12 +2,23 @@
     "accession_number": "09.64", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Purcell, Edward", 
+                "UlanIdNo": "500021179"
+            }, 
             "after_follower": null, 
             "birth_date": "1782", 
+            "collaboration": null, 
             "death_date": "1861", 
+            "display_name": "Purcell, Edward", 
+            "first": "Edward", 
+            "fullname": "Edward Purcell", 
             "irn": 620718, 
-            "name": "Purcell, Edward", 
+            "last": "Purcell", 
+            "middle": null, 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 34942, 
     "materials": "ink on paper", 
     "on_view": false, 

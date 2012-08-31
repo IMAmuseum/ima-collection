@@ -2,21 +2,43 @@
     "accession_number": "80.810.28", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girtin, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1775-1802", 
+            "collaboration": null, 
             "death_date": "1775-1802", 
+            "display_name": "Girtin, Thomas", 
+            "first": null, 
+            "fullname": "Girtin, Thomas", 
             "irn": 500, 
-            "name": "Girtin, Thomas", 
+            "last": "Girtin, Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Walker, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Walker, John", 
+            "first": null, 
+            "fullname": "Walker, John", 
             "irn": 1754, 
-            "name": "Walker, John", 
+            "last": "Walker, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37915, 
     "materials": "engraving", 
     "on_view": false, 

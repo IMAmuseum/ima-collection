@@ -2,12 +2,23 @@
     "accession_number": "C10085", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Weyden, Rogier van der", 
+                "UlanIdNo": "500008384"
+            }, 
             "after_follower": "Follower of", 
             "birth_date": "1395", 
+            "collaboration": null, 
             "death_date": "1464", 
+            "display_name": "Weyden, Rogier van der", 
+            "first": "Rogier", 
+            "fullname": "Rogier v. Weyden", 
             "irn": 608177, 
-            "name": "Weyden, Rogier van der", 
+            "last": "Weyden", 
+            "middle": "van der", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 x 10 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 3964, 
     "materials": "oil on canvas", 
     "on_view": false, 

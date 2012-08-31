@@ -2,21 +2,43 @@
     "accession_number": "2009.546", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1968", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Jerszy Seymour", 
+            "first": "Jerszy", 
+            "fullname": "Jerszy Seymour", 
             "irn": 6533, 
-            "name": "Jerszy Seymour", 
+            "last": "Seymour", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Magis S.p.A.", 
+            "first": null, 
+            "fullname": "Magis S.p.A.", 
             "irn": 6511, 
-            "name": "Magis S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Magis S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "29 5/8 x 23 x 21 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64793, 
     "materials": "polypropylene", 
     "on_view": false, 

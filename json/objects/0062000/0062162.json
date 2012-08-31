@@ -2,21 +2,43 @@
     "accession_number": "2004.130A-W", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wilke, Ulfert S.", 
+                "UlanIdNo": "500031333"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Wilke, Ulfert S.", 
+            "first": "Ulfert", 
+            "fullname": "Ulfert S. Wilke", 
             "irn": 630660, 
-            "name": "Wilke, Ulfert S.", 
+            "last": "Wilke", 
+            "middle": "S", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Kuroyama Collotype Printing Co.", 
+            "first": null, 
+            "fullname": "Kuroyama Collotype Printing Co.", 
             "irn": 3264, 
-            "name": "Kuroyama Collotype Printing Co.", 
+            "last": "Kuroyama Collotype Printing Co.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "19 3/4 x 14 5/8 in. (each image and sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62162, 
     "materials": "collotypes", 
     "on_view": false, 

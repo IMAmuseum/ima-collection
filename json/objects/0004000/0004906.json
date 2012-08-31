@@ -2,12 +2,23 @@
     "accession_number": "59.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tiepolo, Giovanni Domenico", 
+                "UlanIdNo": "500025154"
+            }, 
             "after_follower": null, 
             "birth_date": "1727", 
+            "collaboration": null, 
             "death_date": "1804", 
+            "display_name": "Tiepolo, Giovanni Domenico", 
+            "first": "Giovanni", 
+            "fullname": "Giovanni D. Tiepolo", 
             "irn": 624607, 
-            "name": "Tiepolo, Giovanni Domenico", 
+            "last": "Tiepolo", 
+            "middle": "Domenico", 
             "nationality": "Italian", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/8 x 10 5/8 in. (sheet)\n7 3/8 x 9 7/8 in. (plate)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4906, 
     "materials": "etching", 
     "on_view": false, 

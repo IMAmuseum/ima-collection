@@ -2,12 +2,23 @@
     "accession_number": "26.25", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Harding, John L.", 
+                "UlanIdNo": "500016033"
+            }, 
             "after_follower": null, 
             "birth_date": "1800", 
+            "collaboration": null, 
             "death_date": "1927", 
+            "display_name": "Harding, John L.", 
+            "first": "John", 
+            "fullname": "John L. Harding", 
             "irn": 615672, 
-            "name": "Harding, John L.", 
+            "last": "Harding", 
+            "middle": "L", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "44 x 34 in.\n60 x 49 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4746, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "MH2010.126", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Deyhle", 
+            "first": null, 
+            "fullname": "Deyhle", 
             "irn": 7393, 
-            "name": "Deyhle", 
+            "last": null, 
+            "middle": null, 
             "nationality": "German", 
+            "organization": "Deyhle", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 x 5 x 4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69488, 
     "materials": "plastic", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Pencil Holder"
+    "title": "pencil holder"
 }

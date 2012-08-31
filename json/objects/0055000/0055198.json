@@ -2,12 +2,23 @@
     "accession_number": "72.43.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cope, Charles West", 
+                "UlanIdNo": "500004618"
+            }, 
             "after_follower": null, 
             "birth_date": "1811", 
+            "collaboration": null, 
             "death_date": "1890", 
+            "display_name": "Cope, Charles West", 
+            "first": "Charles", 
+            "fullname": "Charles W. Cope", 
             "irn": 604494, 
-            "name": "Cope, Charles West", 
+            "last": "Cope", 
+            "middle": "West", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55198, 
     "materials": "etching", 
     "on_view": false, 

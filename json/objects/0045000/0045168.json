@@ -2,12 +2,23 @@
     "accession_number": "70.45.23F", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Laer, Pieter van", 
+                "UlanIdNo": "500007565"
+            }, 
             "after_follower": null, 
             "birth_date": "1599", 
+            "collaboration": null, 
             "death_date": "1652", 
+            "display_name": "Laer, Pieter van", 
+            "first": "Pieter", 
+            "fullname": "Pieter v. Laer", 
             "irn": 607377, 
-            "name": "Laer, Pieter van", 
+            "last": "Laer", 
+            "middle": "van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45168, 
     "materials": "etching", 
     "on_view": false, 

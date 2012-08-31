@@ -2,12 +2,23 @@
     "accession_number": "64.745", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Eastman, William Joseph", 
+                "UlanIdNo": "500069765"
+            }, 
             "after_follower": null, 
             "birth_date": "1881", 
+            "collaboration": null, 
             "death_date": "1950", 
+            "display_name": "Eastman, William Joseph", 
+            "first": "William", 
+            "fullname": "William J. Eastman", 
             "irn": 666478, 
-            "name": "Eastman, William Joseph", 
+            "last": "Eastman", 
+            "middle": "Joseph", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "22 x 30 in. (image)\n22 3/4 x 30 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26044, 
     "materials": "watercolor on off-white paper", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "1998.201", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bernard, Emile", 
+                "UlanIdNo": "500012925"
+            }, 
             "after_follower": null, 
             "birth_date": "1868", 
+            "collaboration": null, 
             "death_date": "1941", 
+            "display_name": "Bernard, Emile", 
+            "first": "Emile", 
+            "fullname": "Emile Bernard", 
             "irn": 612621, 
-            "name": "Bernard, Emile", 
+            "last": "Bernard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 20097, 
     "materials": "zincograph", 
     "on_view": false, 

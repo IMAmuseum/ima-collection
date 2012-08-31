@@ -2,12 +2,23 @@
     "accession_number": "73.70.43", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Abraham-Louis Breguet", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1747", 
+            "collaboration": null, 
             "death_date": "1823", 
+            "display_name": "Abraham-Louis Breguet", 
+            "first": null, 
+            "fullname": "Abraham-Louis Breguet", 
             "irn": 2909, 
-            "name": "Abraham-Louis Breguet", 
+            "last": "Abraham-Louis Breguet", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 2985, 
     "materials": "gold, silver, enamel, diamond arrow on blue glaze", 
     "on_view": false, 

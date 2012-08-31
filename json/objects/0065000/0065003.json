@@ -2,12 +2,23 @@
     "accession_number": "2008.53", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cromek, Thomas Hartley", 
+                "UlanIdNo": "500028396"
+            }, 
             "after_follower": null, 
             "birth_date": "1809", 
+            "collaboration": null, 
             "death_date": "1873", 
+            "display_name": "Cromek, Thomas Hartley", 
+            "first": "Thomas", 
+            "fullname": "Thomas H. Cromek", 
             "irn": 627784, 
-            "name": "Cromek, Thomas Hartley", 
+            "last": "Cromek", 
+            "middle": "Hartley", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "19 3/4 x 14 3/4 in. (image and sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65003, 
     "materials": "watercolor on white wove paper", 
     "on_view": false, 

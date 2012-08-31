@@ -2,21 +2,43 @@
     "accession_number": "78.183", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Strang, William", 
+                "UlanIdNo": "500016057"
+            }, 
             "after_follower": null, 
             "birth_date": "1859", 
+            "collaboration": null, 
             "death_date": "1921", 
+            "display_name": "Strang, William", 
+            "first": "William", 
+            "fullname": "William Strang", 
             "irn": 615696, 
-            "name": "Strang, William", 
+            "last": "Strang", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Goulding, Frederick", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1842", 
+            "collaboration": null, 
             "death_date": "1909", 
+            "display_name": "Goulding, Frederick", 
+            "first": null, 
+            "fullname": "Goulding, Frederick", 
             "irn": 2064, 
-            "name": "Goulding, Frederick", 
+            "last": "Goulding, Frederick", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 14070, 
     "materials": "etching", 
     "on_view": false, 

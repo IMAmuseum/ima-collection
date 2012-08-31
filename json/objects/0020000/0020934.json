@@ -2,12 +2,23 @@
     "accession_number": "32.150", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Toulouse-Lautrec, Henri de", 
+                "UlanIdNo": "500029114"
+            }, 
             "after_follower": null, 
             "birth_date": "1864", 
+            "collaboration": null, 
             "death_date": "1901", 
+            "display_name": "Toulouse-Lautrec, Henri de", 
+            "first": "Henri", 
+            "fullname": "Henri d. Toulouse-Lautrec", 
             "irn": 628487, 
-            "name": "Toulouse-Lautrec, Henri de", 
+            "last": "Toulouse-Lautrec", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 1/2 x 10 3/8 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20934, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Bliss, Sands & Co., London", 
+            "first": null, 
+            "fullname": "Bliss, Sands & Co., London", 
             "irn": 6720, 
-            "name": "Bliss, Sands & Co., London"
+            "last": null, 
+            "middle": null, 
+            "organization": "Bliss, Sands & Co., London", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": null, 

@@ -2,21 +2,43 @@
     "accession_number": "46.34", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kokoschka, Oskar", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1886", 
+            "collaboration": null, 
             "death_date": "1980", 
+            "display_name": "Kokoschka, Oskar", 
+            "first": "Oskar", 
+            "fullname": "Oskar Kokoschka", 
             "irn": 1056, 
-            "name": "Kokoschka, Oskar", 
+            "last": "Kokoschka", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "The Baynard Press", 
+            "first": null, 
+            "fullname": "The Baynard Press", 
             "irn": 2268, 
-            "name": "The Baynard Press", 
+            "last": "The Baynard Press", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 x 20 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34047, 
     "materials": "lithograph", 
     "on_view": false, 

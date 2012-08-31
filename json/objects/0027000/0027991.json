@@ -2,12 +2,23 @@
     "accession_number": "47.18", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bouguereau, William-Adolphe", 
+                "UlanIdNo": "500011205"
+            }, 
             "after_follower": null, 
             "birth_date": "1825", 
+            "collaboration": null, 
             "death_date": "1905", 
+            "display_name": "Bouguereau, William-Adolphe", 
+            "first": "William", 
+            "fullname": "William -. Bouguereau", 
             "irn": 610941, 
-            "name": "Bouguereau, William-Adolphe", 
+            "last": "Bouguereau", 
+            "middle": "-Adolphe", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 27991, 
     "materials": "pen and brown ink on off-white paper", 
     "on_view": false, 

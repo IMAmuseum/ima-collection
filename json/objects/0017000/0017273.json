@@ -2,12 +2,23 @@
     "accession_number": "11.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hogarth, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1697", 
+            "collaboration": null, 
             "death_date": "1764", 
+            "display_name": "Hogarth, William", 
+            "first": "William", 
+            "fullname": "William Hogarth", 
             "irn": 1045, 
-            "name": "Hogarth, William", 
+            "last": "Hogarth", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,9 +27,10 @@
     "cultures": [], 
     "dimensions": "9 1/4 x 13 1/2 in. (image)\n10 3/8 x 13 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17273, 
     "materials": "etching and engraving", 
-    "on_view": false, 
+    "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 

@@ -2,12 +2,23 @@
     "accession_number": "2008.811", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lozowick, Louis", 
+                "UlanIdNo": "500028616"
+            }, 
             "after_follower": null, 
             "birth_date": "1892", 
+            "collaboration": null, 
             "death_date": "1973", 
+            "display_name": "Lozowick, Louis", 
+            "first": "Louis", 
+            "fullname": "Louis Lozowick", 
             "irn": 628002, 
-            "name": "Lozowick, Louis", 
+            "last": "Lozowick", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/4 x 12 3/8 in. (image)\n14 1/4 x 20 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67257, 
     "materials": "lithograph on white wove paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "George C. Miller & Son", 
+            "first": null, 
+            "fullname": "George C. Miller & Son", 
             "irn": 6303, 
-            "name": "George C. Miller & Son"
+            "last": null, 
+            "middle": null, 
+            "organization": "George C. Miller & Son", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Estate of Louis Lozowick", 

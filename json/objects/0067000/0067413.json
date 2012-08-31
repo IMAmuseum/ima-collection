@@ -2,21 +2,43 @@
     "accession_number": "2009.474.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1955", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Laura de Santillana", 
+            "first": "Laura", 
+            "fullname": "Laura de Santillana", 
             "irn": 6317, 
-            "name": "Laura de Santillana", 
+            "last": "de Santillana", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Arcade Group S.r.l.", 
+            "first": null, 
+            "fullname": "Arcade Group S.r.l.", 
             "irn": 6318, 
-            "name": "Arcade Group S.r.l.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Arcade Group S.r.l.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "22 1/8 x 2 7/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67413, 
     "materials": "glass", 
     "on_view": false, 

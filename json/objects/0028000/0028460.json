@@ -2,12 +2,23 @@
     "accession_number": "09.95", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Last, Carel Christiaan Antony", 
+                "UlanIdNo": "500020210"
+            }, 
             "after_follower": null, 
             "birth_date": "1808", 
+            "collaboration": null, 
             "death_date": "1876", 
+            "display_name": "Last, Carel Christiaan Antony", 
+            "first": "Carel", 
+            "fullname": "Carel C. Last", 
             "irn": 619767, 
-            "name": "Last, Carel Christiaan Antony", 
+            "last": "Last", 
+            "middle": "Christiaan Antony", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 28460, 
     "materials": "lithograph", 
     "on_view": false, 

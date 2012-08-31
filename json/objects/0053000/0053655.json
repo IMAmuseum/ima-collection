@@ -2,12 +2,23 @@
     "accession_number": "75.345.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1783-1869", 
+            "collaboration": null, 
             "death_date": "1783-1869", 
+            "display_name": "Smith, George", 
+            "first": null, 
+            "fullname": "Smith, George", 
             "irn": 2168, 
-            "name": "Smith, George", 
+            "last": "Smith, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 53655, 
     "materials": null, 
     "on_view": false, 

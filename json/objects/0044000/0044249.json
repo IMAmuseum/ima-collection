@@ -2,12 +2,23 @@
     "accession_number": "1993.446.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stark, Otto", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1859", 
+            "collaboration": null, 
             "death_date": "1926", 
+            "display_name": "Stark, Otto", 
+            "first": null, 
+            "fullname": "Stark, Otto", 
             "irn": 772, 
-            "name": "Stark, Otto", 
+            "last": "Stark, Otto", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 44249, 
     "materials": "pencil, pen and ink, watercolor on various off-white papers", 
     "on_view": false, 

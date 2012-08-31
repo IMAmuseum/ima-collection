@@ -2,21 +2,43 @@
     "accession_number": "2010.253", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sottsass, Ettore", 
+                "UlanIdNo": "500019835"
+            }, 
             "after_follower": null, 
             "birth_date": "1917", 
+            "collaboration": null, 
             "death_date": "2007", 
+            "display_name": "Sottsass, Ettore", 
+            "first": "Ettore", 
+            "fullname": "Ettore Sottsass", 
             "irn": 619404, 
-            "name": "Sottsass, Ettore", 
+            "last": "Sottsass", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Toso Vetri Sarte for Memphis S.r.l.", 
+            "first": null, 
+            "fullname": "Toso Vetri Sarte for Memphis S.r.l.", 
             "irn": 7375, 
-            "name": "Toso Vetri Sarte for Memphis S.r.l.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Toso Vetri Sarte for Memphis S.r.l.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "20 x 8 1/4 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68932, 
     "materials": "glass", 
     "on_view": false, 

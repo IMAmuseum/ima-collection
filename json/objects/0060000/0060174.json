@@ -2,12 +2,23 @@
     "accession_number": "2002.192", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Robert Laurent", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1890", 
+            "collaboration": null, 
             "death_date": "1970", 
+            "display_name": "Robert Laurent", 
+            "first": null, 
+            "fullname": "Robert Laurent", 
             "irn": 2473, 
-            "name": "Robert Laurent", 
+            "last": "Robert Laurent", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 60174, 
     "materials": "woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Corydon Press, University of Indiana, Bloomington", 
+            "first": null, 
+            "fullname": "Corydon Press, University of Indiana, Bloomington", 
             "irn": 2475, 
-            "name": "Corydon Press, University of Indiana, Bloomington"
+            "last": null, 
+            "middle": null, 
+            "organization": "Corydon Press, University of Indiana, Bloomington", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": null, 

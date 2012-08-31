@@ -2,12 +2,23 @@
     "accession_number": "69.35.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Zajac, Jack", 
+                "UlanIdNo": "500112341"
+            }, 
             "after_follower": null, 
             "birth_date": "1929", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Zajac, Jack", 
+            "first": "Jack", 
+            "fullname": "Jack Zajac", 
             "irn": 708632, 
-            "name": "Zajac, Jack", 
+            "last": "Zajac", 
+            "middle": null, 
             "nationality": "American", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "46 L", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2436, 
     "materials": null, 
     "on_view": false, 

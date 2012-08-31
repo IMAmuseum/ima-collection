@@ -2,12 +2,23 @@
     "accession_number": "1999.98", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Kimie Iijima", 
+            "first": "Kimie", 
+            "fullname": "Kimie Iijima", 
             "irn": 3678, 
-            "name": "Kimie Iijima", 
+            "last": "Iijima", 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Ms. Kimie Iijima", 
+            "party_type": "Curatorial Not Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16427, 
     "materials": "wood, silk, paper, ink, metal", 
     "on_view": false, 

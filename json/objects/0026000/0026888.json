@@ -2,12 +2,23 @@
     "accession_number": "1998.320", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dior, Christian", 
+                "UlanIdNo": "500073211"
+            }, 
             "after_follower": null, 
             "birth_date": "1905", 
+            "collaboration": null, 
             "death_date": "1957", 
+            "display_name": "Dior, Christian", 
+            "first": "Christian", 
+            "fullname": "Christian Dior", 
             "irn": 669888, 
-            "name": "Dior, Christian", 
+            "last": "Dior", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 26888, 
     "materials": "silk velvet", 
     "on_view": false, 

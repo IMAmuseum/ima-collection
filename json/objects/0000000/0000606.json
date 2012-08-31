@@ -2,21 +2,43 @@
     "accession_number": "81.810", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Saunders, Raymond Jennings", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1934", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Saunders, Raymond Jennings", 
+            "first": null, 
+            "fullname": "Saunders, Raymond Jennings", 
             "irn": 886, 
-            "name": "Saunders, Raymond Jennings", 
+            "last": "Saunders, Raymond Jennings", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Cirrus Editions", 
+            "first": null, 
+            "fullname": "Cirrus Editions", 
             "irn": 2237, 
-            "name": "Cirrus Editions", 
+            "last": "Cirrus Editions", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 606, 
     "materials": "color lithograph, screenprint and collage", 
     "on_view": false, 

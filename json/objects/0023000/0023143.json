@@ -2,12 +2,23 @@
     "accession_number": "54.92", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Davies, Arthur Bowen", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1928", 
+            "display_name": "Davies, Arthur Bowen", 
+            "first": "Arthur", 
+            "fullname": "Arthur B. Davies", 
             "irn": 888, 
-            "name": "Davies, Arthur Bowen", 
+            "last": "Davies", 
+            "middle": "Bowen", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 23143, 
     "materials": "etching and aquatint", 
     "on_view": false, 

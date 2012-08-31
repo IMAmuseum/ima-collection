@@ -2,12 +2,23 @@
     "accession_number": "1986.92", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Goupy, Joseph", 
+                "UlanIdNo": "500032559"
+            }, 
             "after_follower": null, 
             "birth_date": "1686", 
+            "collaboration": null, 
             "death_date": "1770", 
+            "display_name": "Goupy, Joseph", 
+            "first": "Joseph", 
+            "fullname": "Joseph Goupy", 
             "irn": 631858, 
-            "name": "Goupy, Joseph", 
+            "last": "Goupy", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 1/2 x 12 3/4 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20932, 
     "materials": "etching", 
     "on_view": false, 

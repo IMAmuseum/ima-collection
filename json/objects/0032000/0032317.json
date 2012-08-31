@@ -2,12 +2,23 @@
     "accession_number": "60.240", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Voogd, Hendrik", 
+                "UlanIdNo": "500001479"
+            }, 
             "after_follower": null, 
             "birth_date": "1768", 
+            "collaboration": null, 
             "death_date": "1839", 
+            "display_name": "Voogd, Hendrik", 
+            "first": "Hendrik", 
+            "fullname": "Hendrik Voogd", 
             "irn": 601441, 
-            "name": "Voogd, Hendrik", 
+            "last": "Voogd", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 32317, 
     "materials": "lithograph", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "56.73", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jordaens, Jacob", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1593", 
+            "collaboration": null, 
             "death_date": "1678", 
+            "display_name": "Jordaens, Jacob", 
+            "first": "Jacob", 
+            "fullname": "Jacob Jordaens", 
             "irn": 1104, 
-            "name": "Jordaens, Jacob", 
+            "last": "Jordaens", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "48 1/8 x 35 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17384, 
     "materials": "oil on canvas", 
     "on_view": true, 

@@ -2,21 +2,43 @@
     "accession_number": "2008.329A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Starck, Philippe", 
+                "UlanIdNo": "500021369"
+            }, 
             "after_follower": null, 
             "birth_date": "1949", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Starck, Philippe", 
+            "first": "Philippe", 
+            "fullname": "Philippe Starck", 
             "irn": 6960, 
-            "name": "Starck, Philippe", 
+            "last": "Starck", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Alessi S.p.A.", 
+            "first": null, 
+            "fullname": "Alessi S.p.A.", 
             "irn": 6531, 
-            "name": "Alessi S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Alessi S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "11 7/8 x 11 11/16 x 11 11/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65831, 
     "materials": "stainless steel and brass", 
     "on_view": false, 

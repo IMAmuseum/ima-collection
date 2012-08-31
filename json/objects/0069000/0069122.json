@@ -2,20 +2,32 @@
     "accession_number": "MH2010.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girard, Alexander Hayden", 
+                "UlanIdNo": "500096402"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1993", 
+            "display_name": "Girard, Alexander Hayden", 
+            "first": "Alexander", 
+            "fullname": "Alexander H. Girard", 
             "irn": 692846, 
-            "name": "Girard, Alexander Hayden", 
+            "last": "Girard", 
+            "middle": "Hayden", 
             "nationality": "Italian", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }
     ], 
-    "creation_date": null, 
+    "creation_date": "1900-1965", 
     "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
     "dimensions": "19 x 22 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69122, 
     "materials": "marble, brass, various inlaid hardstones", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": "\u00a9 Alexander Hayden Girard", 
-    "title": "Low Table"
+    "title": "low table"
 }

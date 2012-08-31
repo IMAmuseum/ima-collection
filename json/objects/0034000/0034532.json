@@ -2,12 +2,23 @@
     "accession_number": "1991.42", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Louis Majorelle", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1859", 
+            "collaboration": null, 
             "death_date": "1926", 
+            "display_name": "Louis Majorelle", 
+            "first": "Louis", 
+            "fullname": "Louis Majorelle", 
             "irn": 2848, 
-            "name": "Louis Majorelle", 
+            "last": "Majorelle", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "71 5/8 x 23 1/4 x 18 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34532, 
     "materials": "kingwood, mahogany, amaranth, metal, silk", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "2010.276", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hoffmann, Josef Franz Maria", 
+                "UlanIdNo": "500019177"
+            }, 
             "after_follower": null, 
             "birth_date": "1870", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Hoffmann, Josef Franz Maria", 
+            "first": "Josef", 
+            "fullname": "Josef F. Hoffmann", 
             "irn": 618753, 
-            "name": "Hoffmann, Josef Franz Maria", 
+            "last": "Hoffmann", 
+            "middle": "Franz Maria", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "J. & L. Lobmeyr GmbH", 
+            "first": null, 
+            "fullname": null, 
             "irn": 8558, 
-            "name": "J. & L. Lobmeyr GmbH", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "J. & L. Lobmeyr GmbH", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "6 1/4 x 4 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71329, 
     "materials": "glass", 
     "on_view": true, 

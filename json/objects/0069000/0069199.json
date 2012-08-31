@@ -2,12 +2,23 @@
     "accession_number": "MH2010.25.1A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rams, Dieter", 
+                "UlanIdNo": "500046720"
+            }, 
             "after_follower": null, 
             "birth_date": "1932", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Rams, Dieter", 
+            "first": "Dieter", 
+            "fullname": "Dieter Rams", 
             "irn": 645342, 
-            "name": "Rams, Dieter", 
+            "last": "Rams", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 3/4 x 21 1/2 x 12 1/2", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69199, 
     "materials": "molded plastic nesting table", 
     "on_view": false, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": "\u00a9 Dieter Rams", 
-    "title": "Two nesting tables"
+    "title": "two nesting tables"
 }

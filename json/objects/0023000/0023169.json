@@ -2,12 +2,23 @@
     "accession_number": "58.12", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kollwitz, K\u00e4the", 
+                "UlanIdNo": "500016751"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1945", 
+            "display_name": "Kollwitz, K\u00e4the", 
+            "first": "K", 
+            "fullname": "K \u00e4. Kollwitz", 
             "irn": 616377, 
-            "name": "Kollwitz, K\u00e4the", 
+            "last": "Kollwitz", 
+            "middle": "\u00e4the", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 x 20 1/2", 
     "dynasty": null, 
+    "images": [], 
     "irn": 23169, 
     "materials": "etching and soft-ground etching", 
     "on_view": false, 

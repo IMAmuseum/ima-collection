@@ -2,12 +2,23 @@
     "accession_number": "1992.107", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Zorach, William", 
+                "UlanIdNo": "500003603"
+            }, 
             "after_follower": null, 
             "birth_date": "1887", 
+            "collaboration": null, 
             "death_date": "1966", 
+            "display_name": "Zorach, William", 
+            "first": "William", 
+            "fullname": "William Zorach", 
             "irn": 603511, 
-            "name": "Zorach, William", 
+            "last": "Zorach", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/2 x 11 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16217, 
     "materials": "watercolor", 
     "on_view": false, 

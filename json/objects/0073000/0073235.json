@@ -2,21 +2,43 @@
     "accession_number": "MH2011.11.1-.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Steuben Glass Works", 
+            "first": null, 
+            "fullname": "Steuben Glass Works", 
             "irn": 2795, 
-            "name": "Steuben Glass Works", 
+            "last": "Steuben Glass Works", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1924", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Donald Pollard", 
+            "first": "Donald", 
+            "fullname": "Donald Pollard", 
             "irn": 7836, 
-            "name": "Donald Pollard", 
+            "last": "Pollard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "5 x 4 3/4 (diam.) in. each", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73235, 
     "materials": "glass", 
     "on_view": true, 

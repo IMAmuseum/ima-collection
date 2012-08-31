@@ -2,21 +2,43 @@
     "accession_number": "80.1602.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Robson, George Fennel", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1788", 
+            "collaboration": null, 
             "death_date": "1833", 
+            "display_name": "Robson, George Fennel", 
+            "first": null, 
+            "fullname": "Robson, George Fennel", 
             "irn": 1876, 
-            "name": "Robson, George Fennel", 
+            "last": "Robson, George Fennel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 41096, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

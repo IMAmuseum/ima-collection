@@ -2,12 +2,23 @@
     "accession_number": "2008.801", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kuhn, Walter", 
+                "UlanIdNo": "500009103"
+            }, 
             "after_follower": null, 
             "birth_date": "1913", 
+            "collaboration": null, 
             "death_date": "1984", 
+            "display_name": "Kuhn, Walter", 
+            "first": "Walter", 
+            "fullname": "Walter Kuhn", 
             "irn": 608878, 
-            "name": "Kuhn, Walter", 
+            "last": "Kuhn", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 x 10 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67247, 
     "materials": "lithograph on cream wove paper", 
     "on_view": false, 

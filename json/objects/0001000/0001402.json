@@ -2,12 +2,23 @@
     "accession_number": "70.76", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Monet, Claude", 
+                "UlanIdNo": "500019484"
+            }, 
             "after_follower": null, 
             "birth_date": "1840", 
+            "collaboration": null, 
             "death_date": "1926", 
+            "display_name": "Monet, Claude", 
+            "first": "Claude", 
+            "fullname": "Claude Monet", 
             "irn": 619056, 
-            "name": "Monet, Claude", 
+            "last": "Monet", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 1/2 x 36 1/4 in.\n34 x 44 5/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1402, 
     "materials": "oil on canvas", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "70.65", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bricher, Alfred Thompson", 
+                "UlanIdNo": "500021690"
+            }, 
             "after_follower": null, 
             "birth_date": "1837", 
+            "collaboration": null, 
             "death_date": "1908", 
+            "display_name": "Bricher, Alfred Thompson", 
+            "first": "Alfred", 
+            "fullname": "Alfred T. Bricher", 
             "irn": 621225, 
-            "name": "Bricher, Alfred Thompson", 
+            "last": "Bricher", 
+            "middle": "Thompson", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 x 50 in.\n42 1/2 x 68 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 10799, 
     "materials": "oil on canvas", 
     "on_view": true, 

@@ -2,21 +2,43 @@
     "accession_number": "09.284", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rubens, Peter Paul", 
+                "UlanIdNo": "500002921"
+            }, 
             "after_follower": null, 
             "birth_date": "1577", 
+            "collaboration": null, 
             "death_date": "1640", 
+            "display_name": "Rubens, Peter Paul", 
+            "first": "Peter", 
+            "fullname": "Peter P. Rubens", 
             "irn": 602855, 
-            "name": "Rubens, Peter Paul", 
+            "last": "Rubens", 
+            "middle": "Paul", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Bolswert, Schelte Adams", 
+                "UlanIdNo": "500005257"
+            }, 
             "after_follower": null, 
             "birth_date": "1586", 
+            "collaboration": null, 
             "death_date": "1659", 
+            "display_name": "Bolswert, Schelte Adams", 
+            "first": "Schelte", 
+            "fullname": "Schelte A. Bolswert", 
             "irn": 605122, 
-            "name": "Bolswert, Schelte Adams", 
+            "last": "Bolswert", 
+            "middle": "Adams", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16044, 
     "materials": "engraving", 
     "on_view": false, 

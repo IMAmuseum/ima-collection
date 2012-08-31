@@ -2,12 +2,23 @@
     "accession_number": "67.10.122.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Whitcombe, Thomas", 
+                "UlanIdNo": "500004894"
+            }, 
             "after_follower": null, 
             "birth_date": "1742", 
+            "collaboration": null, 
             "death_date": "1834", 
+            "display_name": "Whitcombe, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Whitcombe", 
             "irn": 604766, 
-            "name": "Whitcombe, Thomas", 
+            "last": "Whitcombe", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "24 x 41 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4568, 
     "materials": "oil on canvas", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "1999.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Callahan, Harry", 
+                "UlanIdNo": "500000873"
+            }, 
             "after_follower": null, 
             "birth_date": "1912", 
+            "collaboration": null, 
             "death_date": "1999", 
+            "display_name": "Callahan, Harry", 
+            "first": "Harry", 
+            "fullname": "Harry Callahan", 
             "irn": 600850, 
-            "name": "Callahan, Harry", 
+            "last": "Callahan", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Photographer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 3/8 x 7 1/16 in. (image)\n9 15/16 x 7 15/16 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7412, 
     "materials": "gelatin silver print", 
     "on_view": false, 

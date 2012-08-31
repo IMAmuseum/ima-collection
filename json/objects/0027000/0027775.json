@@ -2,12 +2,23 @@
     "accession_number": "1985.136", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lenbach, Franz Seraph von", 
+                "UlanIdNo": "500009477"
+            }, 
             "after_follower": null, 
             "birth_date": "1836", 
+            "collaboration": null, 
             "death_date": "1904", 
+            "display_name": "Lenbach, Franz Seraph von", 
+            "first": "Franz", 
+            "fullname": "Franz S. Lenbach", 
             "irn": 609249, 
-            "name": "Lenbach, Franz Seraph von", 
+            "last": "Lenbach", 
+            "middle": "Seraph von", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "32 x 26 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 27775, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "1983.94", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Blakelock, Ralph Albert", 
+                "UlanIdNo": "500023101"
+            }, 
             "after_follower": null, 
             "birth_date": "1847", 
+            "collaboration": null, 
             "death_date": "1919", 
+            "display_name": "Blakelock, Ralph Albert", 
+            "first": "Ralph", 
+            "fullname": "Ralph A. Blakelock", 
             "irn": 622606, 
-            "name": "Blakelock, Ralph Albert", 
+            "last": "Blakelock", 
+            "middle": "Albert", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 1/2 x 9 1/2 in.\n19 x 17 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2076, 
     "materials": "oil on canvas", 
     "on_view": true, 

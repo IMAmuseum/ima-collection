@@ -2,12 +2,23 @@
     "accession_number": "09.171", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Joseph R. Scott", 
+            "first": "Joseph", 
+            "fullname": "Joseph R. Scott", 
             "irn": 6440, 
-            "name": "Joseph R. Scott", 
+            "last": "Scott", 
+            "middle": "R.", 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 17109, 
     "materials": "engraving", 
     "on_view": false, 

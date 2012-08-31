@@ -2,21 +2,43 @@
     "accession_number": "2012.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pesce, Gaetano", 
+                "UlanIdNo": "500012401"
+            }, 
             "after_follower": null, 
             "birth_date": "1939", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Pesce, Gaetano", 
+            "first": "Gaetano", 
+            "fullname": "Gaetano Pesce", 
             "irn": 612112, 
-            "name": "Pesce, Gaetano", 
+            "last": "Pesce", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Cassina", 
+                "UlanIdNo": "500114132"
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Cassina", 
+            "first": null, 
+            "fullname": null, 
             "irn": 709599, 
-            "name": "Cassina", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 74994, 
     "materials": "epoxy resin", 
     "on_view": false, 

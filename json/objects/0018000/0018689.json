@@ -2,12 +2,23 @@
     "accession_number": "09.337", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Schiavonetti, Luigi", 
+                "UlanIdNo": "500043428"
+            }, 
             "after_follower": null, 
             "birth_date": "1765", 
+            "collaboration": null, 
             "death_date": "1810", 
+            "display_name": "Schiavonetti, Luigi", 
+            "first": "Luigi", 
+            "fullname": "Luigi Schiavonetti", 
             "irn": 642544, 
-            "name": "Schiavonetti, Luigi", 
+            "last": "Schiavonetti", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 18689, 
     "materials": "engraving", 
     "on_view": false, 

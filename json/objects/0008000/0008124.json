@@ -2,12 +2,23 @@
     "accession_number": "1987.183", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Saarinen, Eero", 
+                "UlanIdNo": "500006141"
+            }, 
             "after_follower": null, 
             "birth_date": "1910", 
+            "collaboration": null, 
             "death_date": "1961", 
+            "display_name": "Saarinen, Eero", 
+            "first": "Eero", 
+            "fullname": "Eero Saarinen", 
             "irn": 605980, 
-            "name": "Saarinen, Eero", 
+            "last": "Saarinen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "35 1/4 in.  x 29 3/4 in. x 34 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 8124, 
     "materials": "birch, upholstery, metal", 
     "on_view": false, 

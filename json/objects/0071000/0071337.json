@@ -2,12 +2,23 @@
     "accession_number": "2011.19", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Watson, Caroline", 
+                "UlanIdNo": "500030187"
+            }, 
             "after_follower": null, 
             "birth_date": "1760", 
+            "collaboration": null, 
             "death_date": "1814", 
+            "display_name": "Watson, Caroline", 
+            "first": "Caroline", 
+            "fullname": "Caroline Watson", 
             "irn": 629539, 
-            "name": "Watson, Caroline", 
+            "last": "Watson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 x 6 1/2 in. (image)\n17 1/4 x 11 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71337, 
     "materials": "stipple engraving on off-white laid paper", 
     "on_view": false, 

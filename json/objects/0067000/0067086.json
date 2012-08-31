@@ -2,12 +2,23 @@
     "accession_number": "2008.787", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Harrison, J. B.", 
+                "UlanIdNo": "500099519"
+            }, 
             "after_follower": null, 
             "birth_date": "1858", 
+            "collaboration": null, 
             "death_date": "1958", 
+            "display_name": "Harrison, J. B.", 
+            "first": "J", 
+            "fullname": "J B. Harrison", 
             "irn": 695931, 
-            "name": "Harrison, J. B.", 
+            "last": "Harrison", 
+            "middle": "B.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "29 3/8 x 15 3/4 x 18 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67086, 
     "materials": "wood and carpet", 
     "on_view": false, 

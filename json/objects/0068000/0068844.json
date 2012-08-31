@@ -2,12 +2,23 @@
     "accession_number": "2010.86", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "George Jones", 
+            "first": "George", 
+            "fullname": "George Jones", 
             "irn": 7110, 
-            "name": "George Jones", 
+            "last": "Jones", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "L: 7 13/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68844, 
     "materials": "silver and wood", 
     "on_view": false, 

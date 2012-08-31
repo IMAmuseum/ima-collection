@@ -2,12 +2,23 @@
     "accession_number": "09.54", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Goldar, John", 
+                "UlanIdNo": "500024630"
+            }, 
             "after_follower": null, 
             "birth_date": "1729", 
+            "collaboration": null, 
             "death_date": "1795", 
+            "display_name": "Goldar, John", 
+            "first": "John", 
+            "fullname": "John Goldar", 
             "irn": 624098, 
-            "name": "Goldar, John", 
+            "last": "Goldar", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 22009, 
     "materials": "engraving", 
     "on_view": false, 

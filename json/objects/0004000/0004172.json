@@ -2,12 +2,23 @@
     "accession_number": "11.52", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Clouwet, Peeter", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1629", 
+            "collaboration": null, 
             "death_date": "1670", 
+            "display_name": "Clouwet, Peeter", 
+            "first": null, 
+            "fullname": "Clouwet, Peeter", 
             "irn": 556, 
-            "name": "Clouwet, Peeter", 
+            "last": "Clouwet, Peeter", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 4172, 
     "materials": "engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Meyssens, Johannes", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1612", 
+            "collaboration": null, 
+            "death_date": "1670", 
+            "display_name": "Meyssens, Johannes", 
+            "first": null, 
+            "fullname": "Meyssens, Johannes", 
             "irn": 2054, 
-            "name": "Meyssens, Johannes"
+            "last": "Meyssens, Johannes", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "54.99", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gainsborough, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1727", 
+            "collaboration": null, 
             "death_date": "1788", 
+            "display_name": "Gainsborough, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Gainsborough", 
             "irn": 977, 
-            "name": "Gainsborough, Thomas", 
+            "last": "Gainsborough", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "39 1/2 x 50 3/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15919, 
     "materials": "ink, lead white, and gouache on paper mounted on canvas", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "70.45.25F", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Farren, Robert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1832", 
+            "collaboration": null, 
             "death_date": "aft 1891", 
+            "display_name": "Farren, Robert", 
+            "first": null, 
+            "fullname": "Farren, Robert", 
             "irn": 670, 
-            "name": "Farren, Robert", 
+            "last": "Farren, Robert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 31387, 
     "materials": "etching", 
     "on_view": false, 

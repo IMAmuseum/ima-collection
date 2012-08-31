@@ -2,21 +2,43 @@
     "accession_number": "09.357", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Taylor, Isaac, I", 
+                "UlanIdNo": "500009478"
+            }, 
             "after_follower": "Possibly", 
             "birth_date": "1730", 
+            "collaboration": null, 
             "death_date": "1807", 
+            "display_name": "Taylor, Isaac, I", 
+            "first": "Isaac", 
+            "fullname": "Isaac ,. Taylor", 
             "irn": 609250, 
-            "name": "Taylor, Isaac, I", 
+            "last": "Taylor", 
+            "middle": ", I", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Taylor, Isaac, II", 
+                "UlanIdNo": "500010307"
+            }, 
             "after_follower": "Possibly", 
             "birth_date": "1759", 
+            "collaboration": null, 
             "death_date": "1829", 
+            "display_name": "Taylor, Isaac, II", 
+            "first": "Isaac", 
+            "fullname": "Isaac ,. Taylor", 
             "irn": 610060, 
-            "name": "Taylor, Isaac, II", 
+            "last": "Taylor", 
+            "middle": ", II", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 2413, 
     "materials": "engraving", 
     "on_view": false, 

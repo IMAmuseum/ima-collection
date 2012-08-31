@@ -2,29 +2,48 @@
     "accession_number": "2010.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": "Bouroullec Brothers", 
             "death_date": null, 
+            "display_name": "Bouroullec Brothers", 
+            "first": null, 
+            "fullname": "Bouroullec Brothers", 
             "irn": 5665, 
-            "name": "Bouroullec Brothers", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Collaboration", 
             "role": "Designer"
         }, 
         {
             "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": null, 
             "nationality": null, 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Ligne Roset", 
+            "first": null, 
+            "fullname": "Ligne Roset", 
             "irn": 8535, 
-            "name": "Ligne Roset", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Ligne Roset", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -33,6 +52,7 @@
     "cultures": [], 
     "dimensions": "32 1/8 x 24 3/4 x 20 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67788, 
     "materials": "felt", 
     "on_view": true, 

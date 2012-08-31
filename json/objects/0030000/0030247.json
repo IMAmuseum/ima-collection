@@ -2,12 +2,23 @@
     "accession_number": "72.90.14", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Savery, Salomon", 
+                "UlanIdNo": "500030458"
+            }, 
             "after_follower": null, 
             "birth_date": "1594", 
+            "collaboration": null, 
             "death_date": "1678", 
+            "display_name": "Savery, Salomon", 
+            "first": "Salomon", 
+            "fullname": "Salomon Savery", 
             "irn": 629804, 
-            "name": "Savery, Salomon", 
+            "last": "Savery", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 30247, 
     "materials": "etching", 
     "on_view": false, 

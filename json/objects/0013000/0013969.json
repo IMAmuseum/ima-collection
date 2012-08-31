@@ -2,12 +2,23 @@
     "accession_number": "29.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "MacLane, Myrtle Jean", 
+                "UlanIdNo": "500054499"
+            }, 
             "after_follower": null, 
             "birth_date": "1878", 
+            "collaboration": null, 
             "death_date": "1964", 
+            "display_name": "MacLane, Myrtle Jean", 
+            "first": "Myrtle", 
+            "fullname": "Myrtle J. MacLane", 
             "irn": 651692, 
-            "name": "MacLane, Myrtle Jean", 
+            "last": "MacLane", 
+            "middle": "Jean", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "40 x 50 in.\n45 1/4 x 55 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13969, 
     "materials": "oil on canvas", 
     "on_view": false, 

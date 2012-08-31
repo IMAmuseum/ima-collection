@@ -2,21 +2,43 @@
     "accession_number": "2009.506", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mariscal, Javier", 
+                "UlanIdNo": "500075059"
+            }, 
             "after_follower": null, 
             "birth_date": "1950", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Mariscal, Javier", 
+            "first": "Javier", 
+            "fullname": "Javier Mariscal", 
             "irn": 671713, 
-            "name": "Mariscal, Javier", 
+            "last": "Mariscal", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Porcelanas Bidasoa", 
+            "first": null, 
+            "fullname": "Porcelanas Bidasoa", 
             "irn": 6832, 
-            "name": "Porcelanas Bidasoa", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Porcelanas Bidasoa", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "13 3/4 \u00d7 10 \u00bc in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64750, 
     "materials": "porcelain", 
     "on_view": false, 

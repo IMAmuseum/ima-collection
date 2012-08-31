@@ -2,12 +2,23 @@
     "accession_number": "25.126", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Barye, Antoine-Louis", 
+                "UlanIdNo": "500007044"
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1875", 
+            "display_name": "Barye, Antoine-Louis", 
+            "first": "Antoine-Louis", 
+            "fullname": "Antoine-Louis Barye", 
             "irn": 606866, 
-            "name": "Barye, Antoine-Louis", 
+            "last": "Barye", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 8 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 29320, 
     "materials": "bronze", 
     "on_view": false, 

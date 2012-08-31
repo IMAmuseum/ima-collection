@@ -2,12 +2,23 @@
     "accession_number": "1994.22", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Avedon, Richard", 
+                "UlanIdNo": "500013773"
+            }, 
             "after_follower": null, 
             "birth_date": "1923", 
+            "collaboration": null, 
             "death_date": "2004", 
+            "display_name": "Avedon, Richard", 
+            "first": "Richard", 
+            "fullname": "Richard Avedon", 
             "irn": 613455, 
-            "name": "Avedon, Richard", 
+            "last": "Avedon", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 23260, 
     "materials": "gelatin silver print", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "80.809.62", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Marlow, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1740", 
+            "collaboration": null, 
             "death_date": "1813", 
+            "display_name": "Marlow, William", 
+            "first": null, 
+            "fullname": "Marlow, William", 
             "irn": 1771, 
-            "name": "Marlow, William", 
+            "last": "Marlow, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Walker, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Walker, John", 
+            "first": null, 
+            "fullname": "Walker, John", 
             "irn": 1754, 
-            "name": "Walker, John", 
+            "last": "Walker, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37230, 
     "materials": "engraving", 
     "on_view": false, 

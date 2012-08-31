@@ -2,12 +2,23 @@
     "accession_number": "45.184", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lehmbruck, Wilhelm", 
+                "UlanIdNo": "500019056"
+            }, 
             "after_follower": null, 
             "birth_date": "1881", 
+            "collaboration": null, 
             "death_date": "1919", 
+            "display_name": "Lehmbruck, Wilhelm", 
+            "first": "Wilhelm", 
+            "fullname": "Wilhelm Lehmbruck", 
             "irn": 618634, 
-            "name": "Lehmbruck, Wilhelm", 
+            "last": "Lehmbruck", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 10905, 
     "materials": "case cement", 
     "on_view": true, 

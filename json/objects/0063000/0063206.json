@@ -2,21 +2,43 @@
     "accession_number": "2005.67.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1898", 
+            "collaboration": null, 
             "death_date": "1983", 
+            "display_name": "Rieser, Dolf", 
+            "first": null, 
+            "fullname": "Rieser, Dolf", 
             "irn": 2708, 
-            "name": "Rieser, Dolf", 
+            "last": "Rieser, Dolf", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hecht, Henry", 
+            "first": null, 
+            "fullname": "Hecht, Henry", 
             "irn": 2702, 
-            "name": "Hecht, Henry", 
+            "last": "Hecht, Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 3/4 x 6 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63206, 
     "materials": "etching and engraving on Montval paper", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Atelier 17", 
+            "first": null, 
+            "fullname": "Atelier 17", 
             "irn": 2701, 
-            "name": "Atelier 17"
+            "last": null, 
+            "middle": null, 
+            "organization": "Atelier 17", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": null, 

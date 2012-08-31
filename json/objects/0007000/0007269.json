@@ -2,12 +2,23 @@
     "accession_number": "80.202", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1827", 
+            "collaboration": null, 
             "death_date": "1875", 
+            "display_name": "Jean-Baptiste Carpeaux", 
+            "first": "Jean-Baptiste", 
+            "fullname": "Jean-Baptiste Carpeaux", 
             "irn": 5082, 
-            "name": "Jean-Baptiste Carpeaux", 
+            "last": "Carpeaux", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 7269, 
     "materials": "bronze", 
     "on_view": true, 

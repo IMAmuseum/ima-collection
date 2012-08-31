@@ -2,12 +2,23 @@
     "accession_number": "73.2.14", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cotelle, Jean, the elder", 
+                "UlanIdNo": "500008518"
+            }, 
             "after_follower": null, 
             "birth_date": "1607", 
+            "collaboration": null, 
             "death_date": "1676", 
+            "display_name": "Cotelle, Jean, the elder", 
+            "first": "Jean", 
+            "fullname": "Jean ,. Cotelle", 
             "irn": 608306, 
-            "name": "Cotelle, Jean, the elder", 
+            "last": "Cotelle", 
+            "middle": ", the elder", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 7/8 X 15 3/4 in.(mount)\n9 X 14 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9265, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "2009.396", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1952", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Olivier Gagn\u00e8re", 
+            "first": "Olivier", 
+            "fullname": "Olivier Gagn\u00e8re", 
             "irn": 6144, 
-            "name": "Olivier Gagn\u00e8re", 
+            "last": "Gagn\u00e8re", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Galerie Maeght", 
+            "first": null, 
+            "fullname": "Galerie Maeght", 
             "irn": 6225, 
-            "name": "Galerie Maeght", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Galerie Maeght", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 3/4 \u00d7 9 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64685, 
     "materials": "porcelain", 
     "on_view": false, 

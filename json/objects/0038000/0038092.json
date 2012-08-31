@@ -2,21 +2,43 @@
     "accession_number": "80.890.44", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Westall, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1781", 
+            "collaboration": null, 
             "death_date": "1849", 
+            "display_name": "Westall, William", 
+            "first": null, 
+            "fullname": "Westall, William", 
             "irn": 562, 
-            "name": "Westall, William", 
+            "last": "Westall, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Cooke, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1781", 
+            "collaboration": null, 
             "death_date": "1834", 
+            "display_name": "Cooke, George", 
+            "first": null, 
+            "fullname": "Cooke, George", 
             "irn": 1809, 
-            "name": "Cooke, George", 
+            "last": "Cooke, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38092, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

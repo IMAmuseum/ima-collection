@@ -2,12 +2,23 @@
     "accession_number": "79.860", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kahn, Wolf", 
+                "UlanIdNo": "500084815"
+            }, 
             "after_follower": null, 
             "birth_date": "1927", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Kahn, Wolf", 
+            "first": "Wolf", 
+            "fullname": "Wolf Kahn", 
             "irn": 681377, 
-            "name": "Kahn, Wolf", 
+            "last": "Kahn", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 18558, 
     "materials": "color lithograph", 
     "on_view": false, 

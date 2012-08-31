@@ -2,21 +2,43 @@
     "accession_number": "MH2010.493.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ponti, Giovanni", 
+                "UlanIdNo": "500003868"
+            }, 
             "after_follower": null, 
             "birth_date": "1891", 
+            "collaboration": null, 
             "death_date": "1979", 
+            "display_name": "Ponti, Giovanni", 
+            "first": "Giovanni", 
+            "fullname": "Giovanni Ponti", 
             "irn": 603763, 
-            "name": "Ponti, Giovanni", 
+            "last": "Ponti", 
+            "middle": null, 
             "nationality": "Italian", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Venini S.p.A.", 
+            "first": null, 
+            "fullname": "Venini S.p.A.", 
             "irn": 6953, 
-            "name": "Venini S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Venini S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "4 x 3 1/2 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73573, 
     "materials": "multicolored glass", 
     "on_view": false, 

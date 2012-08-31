@@ -2,21 +2,43 @@
     "accession_number": "2009.43", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1965", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Matali Crasset", 
+            "first": "Matali", 
+            "fullname": "Matali Crasset", 
             "irn": 5683, 
-            "name": "Matali Crasset", 
+            "last": "Crasset", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Starck, Philippe", 
+                "UlanIdNo": "500021369"
+            }, 
             "after_follower": null, 
             "birth_date": "1949", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Starck, Philippe", 
+            "first": "Philippe", 
+            "fullname": "Philippe Starck", 
             "irn": 6960, 
-            "name": "Starck, Philippe", 
+            "last": "Starck", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "6 3/4 x 3 3/4 x 4 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64659, 
     "materials": "plastic and metal", 
     "on_view": false, 

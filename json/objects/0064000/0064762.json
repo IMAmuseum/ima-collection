@@ -2,12 +2,23 @@
     "accession_number": "2008.794", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Baldini, Baccio", 
+                "UlanIdNo": "500016603"
+            }, 
             "after_follower": null, 
             "birth_date": "1426", 
+            "collaboration": null, 
             "death_date": "1487", 
+            "display_name": "Baldini, Baccio", 
+            "first": "Baccio", 
+            "fullname": "Baccio Baldini", 
             "irn": 616231, 
-            "name": "Baldini, Baccio", 
+            "last": "Baldini", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "5 1/4 x 3 5/8 in. (image and sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64762, 
     "materials": "engraving on off-white laid paper", 
     "on_view": false, 

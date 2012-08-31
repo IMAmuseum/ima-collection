@@ -2,12 +2,23 @@
     "accession_number": "70.47.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Salt, John", 
+                "UlanIdNo": "500020879"
+            }, 
             "after_follower": null, 
             "birth_date": "1937", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Salt, John", 
+            "first": "John", 
+            "fullname": "John Salt", 
             "irn": 620422, 
-            "name": "Salt, John", 
+            "last": "Salt", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 9899, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "79.312", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sain, Jean Paul Marie", 
+                "UlanIdNo": "500054038"
+            }, 
             "after_follower": null, 
             "birth_date": "1853", 
+            "collaboration": null, 
             "death_date": "1908", 
+            "display_name": "Sain, Jean Paul Marie", 
+            "first": "Jean", 
+            "fullname": "Jean P. Sain", 
             "irn": 651235, 
-            "name": "Sain, Jean Paul Marie", 
+            "last": "Sain", 
+            "middle": "Paul Marie", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 3/16 x 9 7/16 in.\n14 1/8 x 16 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17066, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "80.825.105", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wild, Charles", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1781", 
+            "collaboration": null, 
             "death_date": "1835", 
+            "display_name": "Wild, Charles", 
+            "first": null, 
+            "fullname": "Wild, Charles", 
             "irn": 1802, 
-            "name": "Wild, Charles", 
+            "last": "Wild, Charles", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38041, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "55.221", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Michel, Georges", 
+                "UlanIdNo": "500021197"
+            }, 
             "after_follower": null, 
             "birth_date": "1763", 
+            "collaboration": null, 
             "death_date": "1843", 
+            "display_name": "Michel, Georges", 
+            "first": "Georges", 
+            "fullname": "Georges Michel", 
             "irn": 620736, 
-            "name": "Michel, Georges", 
+            "last": "Michel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "23 1/4 x 28 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 29239, 
     "materials": "oil on canvas", 
     "on_view": true, 

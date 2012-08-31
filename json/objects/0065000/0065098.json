@@ -2,21 +2,43 @@
     "accession_number": "2008.222", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Venturi, Robert", 
+                "UlanIdNo": "500018011"
+            }, 
             "after_follower": null, 
             "birth_date": "1925", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Venturi, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Venturi", 
             "irn": 617607, 
-            "name": "Venturi, Robert", 
+            "last": "Venturi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Knoll International", 
+            "first": null, 
+            "fullname": "Knoll International", 
             "irn": 5864, 
-            "name": "Knoll International", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Knoll International", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "31 1/2 x 21 1/4 x 22 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65098, 
     "materials": "plywood, plastic laminate, and silk-screened decoration", 
     "on_view": true, 

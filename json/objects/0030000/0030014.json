@@ -2,12 +2,23 @@
     "accession_number": "79.276", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Metzinger, Jean", 
+                "UlanIdNo": "500001079"
+            }, 
             "after_follower": null, 
             "birth_date": "1883", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Metzinger, Jean", 
+            "first": "Jean", 
+            "fullname": "Jean Metzinger", 
             "irn": 601051, 
-            "name": "Metzinger, Jean", 
+            "last": "Metzinger", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 7/16 x 35 15/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30014, 
     "materials": "oil on canvas", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "04.19", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nordgren, Anna", 
+                "UlanIdNo": "500089794"
+            }, 
             "after_follower": null, 
             "birth_date": "1847", 
+            "collaboration": null, 
             "death_date": "1916", 
+            "display_name": "Nordgren, Anna", 
+            "first": "Anna", 
+            "fullname": "Anna Nordgren", 
             "irn": 686312, 
-            "name": "Nordgren, Anna", 
+            "last": "Nordgren", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "53 x 41 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34595, 
     "materials": "oil on canvas", 
     "on_view": false, 

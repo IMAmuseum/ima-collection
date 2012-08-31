@@ -2,12 +2,23 @@
     "accession_number": "2006.54", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1790", 
+            "collaboration": null, 
             "death_date": "1848", 
+            "display_name": "Ikeda Eisen", 
+            "first": null, 
+            "fullname": "Ikeda Eisen", 
             "irn": 2500, 
-            "name": "Ikeda Eisen", 
+            "last": "Ikeda Eisen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Dictionary of Japanese Artists", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 15/16 x 10 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63545, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Kawaguchi-ya Uhei (Fukusendo)", 
+            "first": null, 
+            "fullname": "Kawaguchi-ya Uhei (Fukusendo)", 
             "irn": 2936, 
-            "name": "Kawaguchi-ya Uhei (Fukusendo)"
+            "last": "Kawaguchi-ya Uhei (Fukusendo)", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "72.43.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Haden, Seymour", 
+                "UlanIdNo": "500021004"
+            }, 
             "after_follower": null, 
             "birth_date": "1818", 
+            "collaboration": null, 
             "death_date": "1910", 
+            "display_name": "Haden, Seymour", 
+            "first": "Seymour", 
+            "fullname": "Seymour Haden", 
             "irn": 620545, 
-            "name": "Haden, Seymour", 
+            "last": "Haden", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55195, 
     "materials": "etching", 
     "on_view": false, 

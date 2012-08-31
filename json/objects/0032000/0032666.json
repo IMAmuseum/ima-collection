@@ -2,12 +2,23 @@
     "accession_number": "2000.345", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ribera, Jusepe de", 
+                "UlanIdNo": "500008521"
+            }, 
             "after_follower": null, 
             "birth_date": "1590", 
+            "collaboration": null, 
             "death_date": "1652", 
+            "display_name": "Ribera, Jusepe de", 
+            "first": "Jusepe", 
+            "fullname": "Jusepe d. Ribera", 
             "irn": 608309, 
-            "name": "Ribera, Jusepe de", 
+            "last": "Ribera", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "49 x 39 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 32666, 
     "materials": "oil on canvas", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "81.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Michallon, Achille Etna", 
+                "UlanIdNo": "500030742"
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1822", 
+            "display_name": "Michallon, Achille Etna", 
+            "first": "Achille", 
+            "fullname": "Achille E. Michallon", 
             "irn": 630084, 
-            "name": "Michallon, Achille Etna", 
+            "last": "Michallon", 
+            "middle": "Etna", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 1/2 x 11 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 36305, 
     "materials": "oil on canvas", 
     "on_view": true, 

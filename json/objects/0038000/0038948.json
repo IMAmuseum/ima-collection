@@ -2,12 +2,23 @@
     "accession_number": "2000.83", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Feuch\u00e8re, Jean-Jacques", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1807", 
+            "collaboration": null, 
             "death_date": "1852", 
+            "display_name": "Feuch\u00e8re, Jean-Jacques", 
+            "first": "Jean-Jacques", 
+            "fullname": "Jean-Jacques Feuch\u00e8re", 
             "irn": 1851, 
-            "name": "Feuch\u00e8re, Jean-Jacques", 
+            "last": "Feuch\u00e8re", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38948, 
     "materials": "modelled brass with multi-colored patina", 
     "on_view": true, 

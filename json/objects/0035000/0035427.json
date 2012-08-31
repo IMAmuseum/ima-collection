@@ -2,12 +2,23 @@
     "accession_number": "32.155", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "John, Augustus Edwin", 
+                "UlanIdNo": "500018892"
+            }, 
             "after_follower": null, 
             "birth_date": "1878", 
+            "collaboration": null, 
             "death_date": "1961", 
+            "display_name": "John, Augustus Edwin", 
+            "first": "Augustus", 
+            "fullname": "Augustus E. John", 
             "irn": 618473, 
-            "name": "John, Augustus Edwin", 
+            "last": "John", 
+            "middle": "Edwin", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 5/8 x 14 5/16 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35427, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Leicester Galleries, London", 
+            "first": null, 
+            "fullname": "Leicester Galleries, London", 
             "irn": 6722, 
-            "name": "Leicester Galleries, London"
+            "last": null, 
+            "middle": null, 
+            "organization": "Leicester Galleries, London", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": null, 

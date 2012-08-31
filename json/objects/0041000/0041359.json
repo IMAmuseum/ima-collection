@@ -2,21 +2,43 @@
     "accession_number": "80.1699", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": "After", 
             "birth_date": "1794", 
+            "collaboration": null, 
             "death_date": "1878", 
+            "display_name": "Robert Wallis", 
+            "first": "Robert", 
+            "fullname": "Robert Wallis", 
             "irn": 8738, 
-            "name": "Robert Wallis", 
+            "last": "Wallis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "6 1/8 x 10 1/8 in. (image)\n12 x 17 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 41359, 
     "materials": "engraving", 
     "on_view": false, 

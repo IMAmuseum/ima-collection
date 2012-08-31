@@ -2,12 +2,23 @@
     "accession_number": "06.133", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Kuniyoshi", 
+                "UlanIdNo": "500063102"
+            }, 
             "after_follower": null, 
             "birth_date": "1797", 
+            "collaboration": null, 
             "death_date": "1861", 
+            "display_name": "Utagawa Kuniyoshi", 
+            "first": null, 
+            "fullname": "Utagawa Kuniyoshi", 
             "irn": 659879, 
-            "name": "Utagawa Kuniyoshi", 
+            "last": "Utagawa Kuniyoshi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 1/4 x 14 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46987, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": null, 
+            "first": null, 
+            "fullname": null, 
             "irn": 8731, 
-            "name": null
+            "last": "Ehiko", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

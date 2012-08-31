@@ -2,12 +2,23 @@
     "accession_number": "1990.131", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cozens, John Robert", 
+                "UlanIdNo": "500000438"
+            }, 
             "after_follower": null, 
             "birth_date": "1752", 
+            "collaboration": null, 
             "death_date": "1797", 
+            "display_name": "Cozens, John Robert", 
+            "first": "John", 
+            "fullname": "John R. Cozens", 
             "irn": 600430, 
-            "name": "Cozens, John Robert", 
+            "last": "Cozens", 
+            "middle": "Robert", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 1/4 x 14 7/8 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 25798, 
     "materials": "watercolor over pencil on white paper", 
     "on_view": false, 

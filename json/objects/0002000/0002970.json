@@ -2,12 +2,23 @@
     "accession_number": "73.105.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ranger, Henry Ward", 
+                "UlanIdNo": "500000026"
+            }, 
             "after_follower": null, 
             "birth_date": "1858", 
+            "collaboration": null, 
             "death_date": "1916", 
+            "display_name": "Ranger, Henry Ward", 
+            "first": "Henry", 
+            "fullname": "Henry W. Ranger", 
             "irn": 600024, 
-            "name": "Ranger, Henry Ward", 
+            "last": "Ranger", 
+            "middle": "Ward", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 x 13 in.\n16 1/2 x 19 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2970, 
     "materials": "oil on canvas", 
     "on_view": false, 

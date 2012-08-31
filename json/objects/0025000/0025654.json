@@ -2,21 +2,43 @@
     "accession_number": "1983.197", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hoppin, Thomas Frederick", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1816", 
+            "collaboration": null, 
             "death_date": "1872", 
+            "display_name": "Hoppin, Thomas Frederick", 
+            "first": null, 
+            "fullname": "Hoppin, Thomas Frederick", 
             "irn": 2189, 
-            "name": "Hoppin, Thomas Frederick", 
+            "last": "Hoppin, Thomas Frederick", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Prud'Homme, John Francis Eugene", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1800", 
+            "collaboration": null, 
             "death_date": "1892", 
+            "display_name": "Prud'Homme, John Francis Eugene", 
+            "first": null, 
+            "fullname": "Prud'Homme, John Francis Eugene", 
             "irn": 2190, 
-            "name": "Prud'Homme, John Francis Eugene", 
+            "last": "Prud'Homme, John Francis Eugene", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "18 7/8 x 23 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 25654, 
     "materials": "engraving", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "American Art Union", 
+            "first": null, 
+            "fullname": "American Art Union", 
             "irn": 935, 
-            "name": "American Art Union"
+            "last": "American Art Union", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified"
         }
     ], 
     "rights": null, 

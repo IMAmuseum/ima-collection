@@ -2,12 +2,23 @@
     "accession_number": "12.20", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Woodward, W. W.", 
+                "UlanIdNo": "500099591"
+            }, 
             "after_follower": null, 
             "birth_date": "1771", 
+            "collaboration": null, 
             "death_date": "1930", 
+            "display_name": "Woodward, W. W.", 
+            "first": "W", 
+            "fullname": "W W. Woodward", 
             "irn": 696003, 
-            "name": "Woodward, W. W.", 
+            "last": "Woodward", 
+            "middle": "W.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "39 x 33 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 8251, 
     "materials": "oil on canvas", 
     "on_view": false, 

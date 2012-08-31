@@ -2,21 +2,43 @@
     "accession_number": "2011.201A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Meier, Richard", 
+                "UlanIdNo": "500031375"
+            }, 
             "after_follower": null, 
             "birth_date": "1934", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Meier, Richard", 
+            "first": "Richard", 
+            "fullname": "Richard Meier", 
             "irn": 630700, 
-            "name": "Meier, Richard", 
+            "last": "Meier", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Swid Powell Company", 
+            "first": null, 
+            "fullname": "Swid Powell Company", 
             "irn": 7748, 
-            "name": "Swid Powell Company", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Swid Powell Company", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "A) H: 9 1/4 in.\nB) H: 9 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 3707, 
     "materials": "silver plate", 
     "on_view": false, 

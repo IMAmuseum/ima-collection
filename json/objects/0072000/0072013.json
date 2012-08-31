@@ -2,12 +2,23 @@
     "accession_number": "1995.98.32", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1902", 
+            "collaboration": null, 
             "death_date": "1999", 
+            "display_name": "Tokuriki Tomikichir^o", 
+            "first": null, 
+            "fullname": "Tokuriki Tomikichir^o", 
             "irn": 7684, 
-            "name": "Tokuriki Tomikichir^o", 
+            "last": "Tokuriki Tomikichir^o", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "See curator's notes.  10 3/8 x 15 1/16 in. (image)\n11 1/8 x 15 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 72013, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Uchida Bijutsu Shoshi", 
+            "first": null, 
+            "fullname": "Uchida Bijutsu Shoshi", 
             "irn": 7685, 
-            "name": "Uchida Bijutsu Shoshi"
+            "last": "Uchida Bijutsu Shoshi", 
+            "middle": null, 
+            "organization": "Uchida Fine Art Shop", 
+            "party_type": "Art and Architecture Thesaurus"
         }
     ], 
     "rights": null, 

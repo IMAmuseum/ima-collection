@@ -2,21 +2,43 @@
     "accession_number": "1995.66", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1827", 
+            "display_name": "Gottfried Schmidt", 
+            "first": "Gottfried", 
+            "fullname": "Gottfried Schmidt", 
             "irn": 2620, 
-            "name": "Gottfried Schmidt", 
+            "last": "Schmidt", 
+            "middle": null, 
             "nationality": "Austrian", 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Decorator"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Vienna Porcelain Manufactory", 
+            "first": null, 
+            "fullname": "Vienna Porcelain Manufactory", 
             "irn": 2621, 
-            "name": "Vienna Porcelain Manufactory", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Vienna Porcelain Manufactory", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "1 x 5 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15302, 
     "materials": "hard-paste porcelain, polychrome enamels, gilding, silvering", 
     "on_view": true, 

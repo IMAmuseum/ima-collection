@@ -2,21 +2,43 @@
     "accession_number": "73.13.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "T\u00e0pies, Antoni", 
+                "UlanIdNo": "500011373"
+            }, 
             "after_follower": null, 
             "birth_date": "1923", 
+            "collaboration": null, 
             "death_date": "2012", 
+            "display_name": "T\u00e0pies, Antoni", 
+            "first": "Antoni", 
+            "fullname": "Antoni T\u00e0pies", 
             "irn": 611106, 
-            "name": "T\u00e0pies, Antoni", 
+            "last": "T\u00e0pies", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Erker Presse, St. Gallen", 
+            "first": null, 
+            "fullname": "Erker Presse, St. Gallen", 
             "irn": 5133, 
-            "name": "Erker Presse, St. Gallen", 
+            "last": "Erker Presse, St. Gallen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 x 22 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34275, 
     "materials": "color lithograph", 
     "on_view": false, 

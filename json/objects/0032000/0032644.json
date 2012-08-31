@@ -2,12 +2,23 @@
     "accession_number": "79.352", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Blumenschein, Ernest Leonard", 
+                "UlanIdNo": "500013004"
+            }, 
             "after_follower": null, 
             "birth_date": "1874", 
+            "collaboration": null, 
             "death_date": "1960", 
+            "display_name": "Blumenschein, Ernest Leonard", 
+            "first": "Ernest", 
+            "fullname": "Ernest L. Blumenschein", 
             "irn": 612698, 
-            "name": "Blumenschein, Ernest Leonard", 
+            "last": "Blumenschein", 
+            "middle": "Leonard", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 3/16 x 15 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 32644, 
     "materials": "pencil heightened with white on tan paper", 
     "on_view": false, 

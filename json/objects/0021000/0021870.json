@@ -2,12 +2,23 @@
     "accession_number": "29.33", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Flint, William Russell", 
+                "UlanIdNo": "500021574"
+            }, 
             "after_follower": null, 
             "birth_date": "1880", 
+            "collaboration": null, 
             "death_date": "1969", 
+            "display_name": "Flint, William Russell", 
+            "first": "William", 
+            "fullname": "William R. Flint", 
             "irn": 621109, 
-            "name": "Flint, William Russell", 
+            "last": "Flint", 
+            "middle": "Russell", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 1/2 x 20 1/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 21870, 
     "materials": "watercolor on Bristol board", 
     "on_view": false, 

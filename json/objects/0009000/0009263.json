@@ -2,12 +2,23 @@
     "accession_number": "73.2.12", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Marot, Jean, I", 
+                "UlanIdNo": "500021102"
+            }, 
             "after_follower": null, 
             "birth_date": "1619", 
+            "collaboration": null, 
             "death_date": "1679", 
+            "display_name": "Marot, Jean, I", 
+            "first": "Jean", 
+            "fullname": "Jean ,. Marot", 
             "irn": 620642, 
-            "name": "Marot, Jean, I", 
+            "last": "Marot", 
+            "middle": ", I", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 1/2 X 8 in. (image)\n16 7/8 X 10 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9263, 
     "materials": "engraving", 
     "on_view": false, 

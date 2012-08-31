@@ -2,12 +2,23 @@
     "accession_number": "60.248", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Boucher, Fran\u00e7ois", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1703", 
+            "collaboration": null, 
             "death_date": "1770", 
+            "display_name": "Boucher, Fran\u00e7ois", 
+            "first": "Fran\u00e7ois", 
+            "fullname": "Fran\u00e7ois Boucher", 
             "irn": 743, 
-            "name": "Boucher, Fran\u00e7ois", 
+            "last": "Boucher", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 1/2 x 26 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1854, 
     "materials": "oil on canvas", 
     "on_view": true, 

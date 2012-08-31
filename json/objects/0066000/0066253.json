@@ -2,12 +2,23 @@
     "accession_number": "2008.786", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stickley, Gustav", 
+                "UlanIdNo": "500018304"
+            }, 
             "after_follower": null, 
             "birth_date": "1858", 
+            "collaboration": null, 
             "death_date": "1942", 
+            "display_name": "Stickley, Gustav", 
+            "first": "Gustav", 
+            "fullname": "Gustav Stickley", 
             "irn": 617897, 
-            "name": "Stickley, Gustav", 
+            "last": "Stickley", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "36 x 72 x 24 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66253, 
     "materials": "oak and copper", 
     "on_view": true, 

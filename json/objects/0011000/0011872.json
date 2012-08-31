@@ -2,12 +2,23 @@
     "accession_number": "C10076", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mainardi, Bastiano", 
+                "UlanIdNo": "500006581"
+            }, 
             "after_follower": null, 
             "birth_date": "1466", 
+            "collaboration": null, 
             "death_date": "1513", 
+            "display_name": "Mainardi, Bastiano", 
+            "first": "Bastiano", 
+            "fullname": "Bastiano Mainardi", 
             "irn": 606412, 
-            "name": "Mainardi, Bastiano", 
+            "last": "Mainardi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "Diam: 32 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11872, 
     "materials": "tempera and oil on wood", 
     "on_view": false, 

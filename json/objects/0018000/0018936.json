@@ -2,12 +2,23 @@
     "accession_number": "03.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1817", 
+            "collaboration": null, 
             "death_date": "1894", 
+            "display_name": "Filippo Livy", 
+            "first": "Filippo", 
+            "fullname": "Filippo Livy", 
             "irn": 5130, 
-            "name": "Filippo Livy", 
+            "last": "Livy", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "19 x 14 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 18936, 
     "materials": "engraving", 
     "on_view": false, 

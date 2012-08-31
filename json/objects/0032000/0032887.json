@@ -2,21 +2,43 @@
     "accession_number": "47.125", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lalanne, Maxime", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Lalanne, Maxime", 
+            "first": null, 
+            "fullname": "Lalanne, Maxime", 
             "irn": 1184, 
-            "name": "Lalanne, Maxime", 
+            "last": "Lalanne, Maxime", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Del\u00e2tre, Auguste", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1822", 
+            "collaboration": null, 
             "death_date": "1907", 
+            "display_name": "Del\u00e2tre, Auguste", 
+            "first": null, 
+            "fullname": "Del\u00e2tre, Auguste", 
             "irn": 2047, 
-            "name": "Del\u00e2tre, Auguste", 
+            "last": "Del\u00e2tre, Auguste", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 32887, 
     "materials": "etching", 
     "on_view": false, 

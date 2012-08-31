@@ -2,12 +2,23 @@
     "accession_number": "51.57", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Beckmann, Max", 
+                "UlanIdNo": "500024106"
+            }, 
             "after_follower": null, 
             "birth_date": "1884", 
+            "collaboration": null, 
             "death_date": "1950", 
+            "display_name": "Beckmann, Max", 
+            "first": "Max", 
+            "fullname": "Max Beckmann", 
             "irn": 623585, 
-            "name": "Beckmann, Max", 
+            "last": "Beckmann", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 x 6 1/8 in (image)\n19 3/8 x 13 7/8 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20745, 
     "materials": "woodcut", 
     "on_view": false, 

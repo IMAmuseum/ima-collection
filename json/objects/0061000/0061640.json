@@ -2,21 +2,43 @@
     "accession_number": "2004.54", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Unknown", 
+            "first": null, 
+            "fullname": "Unknown", 
             "irn": 2741, 
-            "name": "Unknown", 
+            "last": "Unknown", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Campbell Soup Company", 
+            "first": null, 
+            "fullname": "Campbell Soup Company", 
             "irn": 3101, 
-            "name": "Campbell Soup Company", 
+            "last": "Campbell Soup Company", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "L: 37 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61640, 
     "materials": "paper (80% cellulose, 20% cotton), screenprinted", 
     "on_view": false, 

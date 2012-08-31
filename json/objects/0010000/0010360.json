@@ -2,21 +2,43 @@
     "accession_number": "1990.80", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tamayo, Rufino", 
+                "UlanIdNo": "500024331"
+            }, 
             "after_follower": null, 
             "birth_date": "1899", 
+            "collaboration": null, 
             "death_date": "1991", 
+            "display_name": "Tamayo, Rufino", 
+            "first": "Rufino", 
+            "fullname": "Rufino Tamayo", 
             "irn": 623806, 
-            "name": "Tamayo, Rufino", 
+            "last": "Tamayo", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Tyler, Kenneth", 
+                "UlanIdNo": "500106651"
+            }, 
             "after_follower": null, 
             "birth_date": "1931", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tyler, Kenneth", 
+            "first": "Kenneth", 
+            "fullname": "Kenneth Tyler", 
             "irn": 702993, 
-            "name": "Tyler, Kenneth", 
+            "last": "Tyler", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "22 x 18 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 10360, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Tamarind Lithography Workshop, Inc.", 
+            "first": null, 
+            "fullname": "Tamarind Lithography Workshop, Inc.", 
             "irn": 5014, 
-            "name": "Tamarind Lithography Workshop, Inc."
+            "last": "Tamarind Lithography Workshop, Inc.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Kenneth Tyler", 

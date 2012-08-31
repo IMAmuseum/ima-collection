@@ -2,12 +2,23 @@
     "accession_number": "2005.24", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Varley, John, I", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1778", 
+            "collaboration": null, 
             "death_date": "1842", 
+            "display_name": "Varley, John, I", 
+            "first": "John", 
+            "fullname": "John Varley", 
             "irn": 925, 
-            "name": "Varley, John, I", 
+            "last": "Varley", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 3/4 x 16 1/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62955, 
     "materials": "watercolor over pencil on white paper", 
     "on_view": false, 

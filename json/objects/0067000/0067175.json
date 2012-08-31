@@ -2,12 +2,23 @@
     "accession_number": "2009.15", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Albers, Josef", 
+                "UlanIdNo": "500033049"
+            }, 
             "after_follower": null, 
             "birth_date": "1888", 
+            "collaboration": null, 
             "death_date": "1976", 
+            "display_name": "Albers, Josef", 
+            "first": "Josef", 
+            "fullname": "Josef Albers", 
             "irn": 632333, 
-            "name": "Albers, Josef", 
+            "last": "Albers", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 x 11 7/8 in. (image)\n17 x 17 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67175, 
     "materials": "screenprint on off-white wove paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Ives-Sillman, Inc.", 
+            "first": null, 
+            "fullname": "Ives-Sillman, Inc.", 
             "irn": 6299, 
-            "name": "Ives-Sillman, Inc."
+            "last": null, 
+            "middle": null, 
+            "organization": "Ives-Sillman, Inc.", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 The Josef and Anni Albers Foundation / Artists Rights Society (ARS), New York", 

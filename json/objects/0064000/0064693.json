@@ -2,21 +2,43 @@
     "accession_number": "2009.536", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1965", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Konstantin Grcic", 
+            "first": "Konstantin", 
+            "fullname": "Konstantin Grcic", 
             "irn": 5660, 
-            "name": "Konstantin Grcic", 
+            "last": "Grcic", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "FLOS S.p.A.", 
+            "first": null, 
+            "fullname": "FLOS S.p.A.", 
             "irn": 6514, 
-            "name": "FLOS S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "FLOS S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "21 \u00d7 8 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64693, 
     "materials": "Polypropylene", 
     "on_view": false, 

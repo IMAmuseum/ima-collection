@@ -2,12 +2,23 @@
     "accession_number": "09.252", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fleischmann, Frederick", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Fleischmann, Frederick", 
+            "first": null, 
+            "fullname": "Fleischmann, Frederick", 
             "irn": 1033, 
-            "name": "Fleischmann, Frederick", 
+            "last": "Fleischmann, Frederick", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 23683, 
     "materials": "engraving", 
     "on_view": false, 

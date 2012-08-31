@@ -2,21 +2,43 @@
     "accession_number": "1988.39", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pether, William", 
+                "UlanIdNo": "500018007"
+            }, 
             "after_follower": null, 
             "birth_date": "1728", 
+            "collaboration": null, 
             "death_date": "1821", 
+            "display_name": "Pether, William", 
+            "first": "William", 
+            "fullname": "William Pether", 
             "irn": 617603, 
-            "name": "Pether, William", 
+            "last": "Pether", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Cozens, Alexander", 
+                "UlanIdNo": "500115417"
+            }, 
             "after_follower": "After", 
             "birth_date": "1717", 
+            "collaboration": null, 
             "death_date": "1786", 
+            "display_name": "Cozens, Alexander", 
+            "first": "Alexander", 
+            "fullname": "Alexander Cozens", 
             "irn": 710324, 
-            "name": "Cozens, Alexander", 
+            "last": "Cozens", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "9 x 12 1/8 in (image) \n14 1/4 x 19 1/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20497, 
     "materials": "mezzotint", 
     "on_view": false, 

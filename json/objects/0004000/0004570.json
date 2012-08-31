@@ -2,12 +2,23 @@
     "accession_number": "60.279", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, David", 
+                "UlanIdNo": "500015402"
+            }, 
             "after_follower": null, 
             "birth_date": "1906", 
+            "collaboration": null, 
             "death_date": "1965", 
+            "display_name": "Smith, David", 
+            "first": "David", 
+            "fullname": "David Smith", 
             "irn": 615056, 
-            "name": "Smith, David", 
+            "last": "Smith", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 1/2 x 24 x 5 1/2 in", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4570, 
     "materials": "wrought and soldered silver on wood base", 
     "on_view": false, 

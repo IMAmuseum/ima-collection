@@ -2,21 +2,43 @@
     "accession_number": "2009.473", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1967", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Clarissa Berning", 
+            "first": "Clarissa", 
+            "fullname": "Clarissa Berning", 
             "irn": 6128, 
-            "name": "Clarissa Berning", 
+            "last": "Berning", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "When Objects Work", 
+            "first": null, 
+            "fullname": "When Objects Work", 
             "irn": 6536, 
-            "name": "When Objects Work", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "When Objects Work", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "H: 1 1/4 in.\nDiam.: 14 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67811, 
     "materials": "bohemian glass", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "72.50.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Galle, Philip", 
+                "UlanIdNo": "500016136"
+            }, 
             "after_follower": null, 
             "birth_date": "1537", 
+            "collaboration": null, 
             "death_date": "1612", 
+            "display_name": "Galle, Philip", 
+            "first": "Philip", 
+            "fullname": "Philip Galle", 
             "irn": 615774, 
-            "name": "Galle, Philip", 
+            "last": "Galle", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Collaert, Hans, the younger", 
+                "UlanIdNo": "500040711"
+            }, 
             "after_follower": null, 
             "birth_date": "1566", 
+            "collaboration": null, 
             "death_date": "1628", 
+            "display_name": "Collaert, Hans, the younger", 
+            "first": "Hans", 
+            "fullname": "Hans ,. Collaert", 
             "irn": 639851, 
-            "name": "Collaert, Hans, the younger", 
+            "last": "Collaert", 
+            "middle": ", the younger", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 26125, 
     "materials": "ink", 
     "on_view": false, 

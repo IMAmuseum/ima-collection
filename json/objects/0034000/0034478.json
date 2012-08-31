@@ -2,21 +2,43 @@
     "accession_number": "53.63", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Unknown", 
+            "first": null, 
+            "fullname": "Unknown", 
             "irn": 2741, 
-            "name": "Unknown", 
+            "last": "Unknown", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Largilli\u00e8re, Nicolas de", 
+                "UlanIdNo": "500011561"
+            }, 
             "after_follower": "After", 
             "birth_date": "1656", 
+            "collaboration": null, 
             "death_date": "1746", 
+            "display_name": "Largilli\u00e8re, Nicolas de", 
+            "first": "Nicolas", 
+            "fullname": "Nicolas d. Largilli\u00e8re", 
             "irn": 611288, 
-            "name": "Largilli\u00e8re, Nicolas de", 
+            "last": "Largilli\u00e8re", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 x 24 in. (oval)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34478, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "09.180", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Boissieu, Jean Jacques de", 
+                "UlanIdNo": "500026206"
+            }, 
             "after_follower": null, 
             "birth_date": "1736", 
+            "collaboration": null, 
             "death_date": "1810", 
+            "display_name": "Boissieu, Jean Jacques de", 
+            "first": "Jean", 
+            "fullname": "Jean J. Boissieu", 
             "irn": 625635, 
-            "name": "Boissieu, Jean Jacques de", 
+            "last": "Boissieu", 
+            "middle": "Jacques de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 27452, 
     "materials": "etching", 
     "on_view": false, 

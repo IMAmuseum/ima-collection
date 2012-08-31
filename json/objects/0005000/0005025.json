@@ -2,21 +2,43 @@
     "accession_number": "79.775", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Paolozzi, Eduardo Luigi", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Paolozzi, Eduardo Luigi", 
+            "first": null, 
+            "fullname": "Paolozzi, Eduardo Luigi", 
             "irn": 1214, 
-            "name": "Paolozzi, Eduardo Luigi", 
+            "last": "Paolozzi, Eduardo Luigi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Kelpra Studios", 
+            "first": null, 
+            "fullname": "Kelpra Studios", 
             "irn": 2220, 
-            "name": "Kelpra Studios", 
+            "last": "Kelpra Studios", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 5025, 
     "materials": "screenprint", 
     "on_view": false, 

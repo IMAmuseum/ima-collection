@@ -2,12 +2,23 @@
     "accession_number": "2010.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Signac, Paul", 
+                "UlanIdNo": "500008410"
+            }, 
             "after_follower": null, 
             "birth_date": "1863", 
+            "collaboration": null, 
             "death_date": "1935", 
+            "display_name": "Signac, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul Signac", 
             "irn": 608202, 
-            "name": "Signac, Paul", 
+            "last": "Signac", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "9 3/8 x 15 7/8 in. (image)\n16 x 20 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68324, 
     "materials": "color lithograph on cream wove paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": "Clot, Auguste", 
+                "UlanIdNo": "500058534"
+            }, 
+            "birth_date": "1858", 
+            "collaboration": null, 
+            "death_date": "1936", 
+            "display_name": "Clot, Auguste", 
+            "first": "Auguste", 
+            "fullname": "Auguste Clot", 
             "irn": 2093, 
-            "name": "Clot, Auguste"
+            "last": "Clot", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1859", 
+            "collaboration": null, 
+            "death_date": "1919", 
+            "display_name": "Gustave Pellett", 
+            "first": "Gustave", 
+            "fullname": "Gustave Pellett", 
             "irn": 6940, 
-            "name": "Gustave Pellett"
+            "last": "Pellett", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

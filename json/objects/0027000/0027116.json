@@ -2,21 +2,43 @@
     "accession_number": "09.119", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rubens, Peter Paul", 
+                "UlanIdNo": "500002921"
+            }, 
             "after_follower": null, 
             "birth_date": "1577", 
+            "collaboration": null, 
             "death_date": "1640", 
+            "display_name": "Rubens, Peter Paul", 
+            "first": "Peter", 
+            "fullname": "Peter P. Rubens", 
             "irn": 602855, 
-            "name": "Rubens, Peter Paul", 
+            "last": "Rubens", 
+            "middle": "Paul", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Pontius, Paulus", 
+                "UlanIdNo": "500010060"
+            }, 
             "after_follower": null, 
             "birth_date": "1603", 
+            "collaboration": null, 
             "death_date": "1658", 
+            "display_name": "Pontius, Paulus", 
+            "first": "Paulus", 
+            "fullname": "Paulus Pontius", 
             "irn": 609820, 
-            "name": "Pontius, Paulus", 
+            "last": "Pontius", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 27116, 
     "materials": "engraving", 
     "on_view": false, 

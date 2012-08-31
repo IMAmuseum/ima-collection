@@ -2,12 +2,23 @@
     "accession_number": "1998.50", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Goodwin, Arthur Clifton", 
+                "UlanIdNo": "500026360"
+            }, 
             "after_follower": null, 
             "birth_date": "1864", 
+            "collaboration": null, 
             "death_date": "1929", 
+            "display_name": "Goodwin, Arthur Clifton", 
+            "first": "Arthur", 
+            "fullname": "Arthur C. Goodwin", 
             "irn": 625784, 
-            "name": "Goodwin, Arthur Clifton", 
+            "last": "Goodwin", 
+            "middle": "Clifton", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 1882, 
     "materials": "pencil on off-white paper squared for transfer", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "09.162", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Spilman, Hendrik", 
+                "UlanIdNo": "500001657"
+            }, 
             "after_follower": null, 
             "birth_date": "1721", 
+            "collaboration": null, 
             "death_date": "1784", 
+            "display_name": "Spilman, Hendrik", 
+            "first": "Hendrik", 
+            "fullname": "Hendrik Spilman", 
             "irn": 601616, 
-            "name": "Spilman, Hendrik", 
+            "last": "Spilman", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 27438, 
     "materials": "engraving", 
     "on_view": false, 

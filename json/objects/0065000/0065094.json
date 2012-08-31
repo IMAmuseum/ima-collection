@@ -2,21 +2,43 @@
     "accession_number": "2008.219.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Colombo, Joe Cesare", 
+                "UlanIdNo": "500109860"
+            }, 
             "after_follower": null, 
             "birth_date": "1930", 
+            "collaboration": null, 
             "death_date": "1971", 
+            "display_name": "Colombo, Joe Cesare", 
+            "first": "Joe", 
+            "fullname": "Joe C. Colombo", 
             "irn": 706168, 
-            "name": "Colombo, Joe Cesare", 
+            "last": "Colombo", 
+            "middle": "Cesare", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Arnolfo di Cambio", 
+                "UlanIdNo": "500020772"
+            }, 
             "after_follower": null, 
             "birth_date": "1240", 
+            "collaboration": null, 
             "death_date": "1309", 
+            "display_name": "Arnolfo di Cambio", 
+            "first": null, 
+            "fullname": "Arnolfo di Cambio", 
             "irn": 620319, 
-            "name": "Arnolfo di Cambio", 
+            "last": "Arnolfo di Cambio", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "6 3/8 x 2 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65094, 
     "materials": "glass", 
     "on_view": false, 

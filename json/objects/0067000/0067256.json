@@ -2,12 +2,23 @@
     "accession_number": "2008.810", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lasansky, Mauricio", 
+                "UlanIdNo": "500011243"
+            }, 
             "after_follower": null, 
             "birth_date": "1914", 
+            "collaboration": null, 
             "death_date": "2012", 
+            "display_name": "Lasansky, Mauricio", 
+            "first": "Mauricio", 
+            "fullname": "Mauricio Lasansky", 
             "irn": 5039, 
-            "name": "Lasansky, Mauricio", 
+            "last": "Lasansky", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 3/8 x 5 1/2 in. (image)\n23 1/8 x 11 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67256, 
     "materials": "engraving on cream wove paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Atelier 17", 
+            "first": null, 
+            "fullname": "Atelier 17", 
             "irn": 2701, 
-            "name": "Atelier 17"
+            "last": null, 
+            "middle": null, 
+            "organization": "Atelier 17", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Mauricio Lasansky", 

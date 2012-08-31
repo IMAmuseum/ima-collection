@@ -2,21 +2,43 @@
     "accession_number": "09.232", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fantetti, Cesare", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Fantetti, Cesare", 
+            "first": null, 
+            "fullname": "Fantetti, Cesare", 
             "irn": 1084, 
-            "name": "Fantetti, Cesare", 
+            "last": "Fantetti, Cesare", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Sacchi, Andrea", 
+                "UlanIdNo": "500022759"
+            }, 
             "after_follower": "After", 
             "birth_date": "1599", 
+            "collaboration": null, 
             "death_date": "1661", 
+            "display_name": "Sacchi, Andrea", 
+            "first": "Andrea", 
+            "fullname": "Andrea Sacchi", 
             "irn": 622268, 
-            "name": "Sacchi, Andrea", 
+            "last": "Sacchi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 25631, 
     "materials": "etching", 
     "on_view": false, 

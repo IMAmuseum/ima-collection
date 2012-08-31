@@ -2,12 +2,23 @@
     "accession_number": "2002.197", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Daphnis, Nassos", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Daphnis, Nassos", 
+            "first": null, 
+            "fullname": "Daphnis, Nassos", 
             "irn": 1612, 
-            "name": "Daphnis, Nassos", 
+            "last": "Daphnis, Nassos", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 60179, 
     "materials": "screenprint", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "John Nichols, New York", 
+            "first": null, 
+            "fullname": "John Nichols, New York", 
             "irn": 2479, 
-            "name": "John Nichols, New York"
+            "last": "John Nichols, New York", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

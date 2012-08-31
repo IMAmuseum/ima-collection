@@ -2,12 +2,23 @@
     "accession_number": "25.108", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bauer, Marius Alexander Jacques", 
+                "UlanIdNo": "500032763"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1932", 
+            "display_name": "Bauer, Marius Alexander Jacques", 
+            "first": "Marius", 
+            "fullname": "Marius A. Bauer", 
             "irn": 632053, 
-            "name": "Bauer, Marius Alexander Jacques", 
+            "last": "Bauer", 
+            "middle": "Alexander Jacques", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 25882, 
     "materials": "etching", 
     "on_view": false, 

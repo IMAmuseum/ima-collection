@@ -2,12 +2,23 @@
     "accession_number": "09.161", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Masson, Antoine", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1636", 
+            "collaboration": null, 
             "death_date": "1700", 
+            "display_name": "Masson, Antoine", 
+            "first": null, 
+            "fullname": "Masson, Antoine", 
             "irn": 613, 
-            "name": "Masson, Antoine", 
+            "last": "Masson, Antoine", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 8904, 
     "materials": "engraving", 
     "on_view": false, 

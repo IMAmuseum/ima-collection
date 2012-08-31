@@ -2,12 +2,23 @@
     "accession_number": "78.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Salmon, Robert", 
+                "UlanIdNo": "500115419"
+            }, 
             "after_follower": null, 
             "birth_date": "1770", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Salmon, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Salmon", 
             "irn": 710326, 
-            "name": "Salmon, Robert", 
+            "last": "Salmon", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 x 24 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11820, 
     "materials": "oil on canvas", 
     "on_view": false, 

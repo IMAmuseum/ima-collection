@@ -2,12 +2,23 @@
     "accession_number": "2000.375", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Robert Rauschenberg", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1925", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Robert Rauschenberg", 
+            "first": null, 
+            "fullname": "Robert Rauschenberg", 
             "irn": 1554, 
-            "name": "Robert Rauschenberg", 
+            "last": "Robert Rauschenberg", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "84 1/2 x 51 x 6 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 42764, 
     "materials": "assemblage with screenprints on mylar and sailcloth", 
     "on_view": false, 

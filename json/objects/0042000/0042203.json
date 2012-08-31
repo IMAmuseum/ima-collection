@@ -2,30 +2,63 @@
     "accession_number": "80.1849", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ruskin, John", 
+                "UlanIdNo": "500006262"
+            }, 
             "after_follower": null, 
             "birth_date": "1819", 
+            "collaboration": null, 
             "death_date": "1900", 
+            "display_name": "Ruskin, John", 
+            "first": "John", 
+            "fullname": "John Ruskin", 
             "irn": 606098, 
-            "name": "Ruskin, John", 
+            "last": "Ruskin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Armytage, James Charles", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1802", 
+            "collaboration": null, 
             "death_date": "1897", 
+            "display_name": "Armytage, James Charles", 
+            "first": null, 
+            "fullname": "Armytage, James Charles", 
             "irn": 1598, 
-            "name": "Armytage, James Charles", 
+            "last": "Armytage, James Charles", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Armytage, James Charles", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1802", 
+            "collaboration": null, 
             "death_date": "1897", 
+            "display_name": "Armytage, James Charles", 
+            "first": null, 
+            "fullname": "Armytage, James Charles", 
             "irn": 1598, 
-            "name": "Armytage, James Charles", 
+            "last": "Armytage, James Charles", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42203, 
     "materials": "engraving", 
     "on_view": false, 

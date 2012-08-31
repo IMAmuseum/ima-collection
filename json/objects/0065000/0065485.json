@@ -2,21 +2,43 @@
     "accession_number": "2008.342", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Graves, Michael", 
+                "UlanIdNo": "500030109"
+            }, 
             "after_follower": null, 
             "birth_date": "1934", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Graves, Michael", 
+            "first": "Michael", 
+            "fullname": "Michael Graves", 
             "irn": 629462, 
-            "name": "Graves, Michael", 
+            "last": "Graves", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Alessi S.p.A.", 
+            "first": null, 
+            "fullname": "Alessi S.p.A.", 
             "irn": 6531, 
-            "name": "Alessi S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Alessi S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 3/4 x 8.5 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65485, 
     "materials": "stainless steel and plastic", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "74.98", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jean-Antoine Watteau", 
+                "UlanIdNo": "500032644"
+            }, 
             "after_follower": null, 
             "birth_date": "1684", 
+            "collaboration": null, 
             "death_date": "1721", 
+            "display_name": "Jean-Antoine Watteau", 
+            "first": "Jean-Antoine", 
+            "fullname": "Jean-Antoine Watteau", 
             "irn": 1631, 
-            "name": "Jean-Antoine Watteau", 
+            "last": "Watteau", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "19 1/2 x 23 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 10519, 
     "materials": "oil on canvas", 
     "on_view": false, 

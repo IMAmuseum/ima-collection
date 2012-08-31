@@ -2,12 +2,23 @@
     "accession_number": "LH2003.87P-T", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "GeorgeBernard Shaw", 
+            "first": "GeorgeBernard", 
+            "fullname": "GeorgeBernard Shaw", 
             "irn": 3147, 
-            "name": "GeorgeBernard Shaw", 
+            "last": "Shaw", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 1/2 x 5 1/2 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62240, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Brentano's", 
+            "first": null, 
+            "fullname": "Brentano's", 
             "irn": 3148, 
-            "name": "Brentano's"
+            "last": "Brentano's", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

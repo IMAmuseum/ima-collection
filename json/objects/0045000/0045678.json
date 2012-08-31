@@ -2,12 +2,23 @@
     "accession_number": "27.78", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Unknown", 
+            "first": null, 
+            "fullname": "Unknown", 
             "irn": 2741, 
-            "name": "Unknown", 
+            "last": "Unknown", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "5 3/4 x 7 in. (image)\n8 3/8 x 10 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 45678, 
     "materials": "etching", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "A. W. Sijthoff", 
+            "first": "A.", 
+            "fullname": "A. W. Sijthoff", 
             "irn": 3058, 
-            "name": "A. W. Sijthoff"
+            "last": "Sijthoff", 
+            "middle": "W.", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified"
         }
     ], 
     "rights": null, 

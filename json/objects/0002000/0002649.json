@@ -2,12 +2,23 @@
     "accession_number": "82.54", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gauguin, Paul", 
+                "UlanIdNo": "500011421"
+            }, 
             "after_follower": null, 
             "birth_date": "1848", 
+            "collaboration": null, 
             "death_date": "1903", 
+            "display_name": "Gauguin, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul Gauguin", 
             "irn": 611152, 
-            "name": "Gauguin, Paul", 
+            "last": "Gauguin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "32 x 39 3/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2649, 
     "materials": "oil on canvas", 
     "on_view": false, 

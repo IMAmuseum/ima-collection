@@ -2,12 +2,23 @@
     "accession_number": "79.283", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Manzana-Pissarro, George", 
+                "UlanIdNo": "500021598"
+            }, 
             "after_follower": null, 
             "birth_date": "1871", 
+            "collaboration": null, 
             "death_date": "1961", 
+            "display_name": "Manzana-Pissarro, George", 
+            "first": "George", 
+            "fullname": "George Manzana-Pissarro", 
             "irn": 621133, 
-            "name": "Manzana-Pissarro, George", 
+            "last": "Manzana-Pissarro", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 1/2 x 21 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 36989, 
     "materials": "oil on cotton fabric", 
     "on_view": false, 

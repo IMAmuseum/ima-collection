@@ -2,12 +2,23 @@
     "accession_number": "83.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Chase, Henry", 
+                "UlanIdNo": "500009863"
+            }, 
             "after_follower": null, 
             "birth_date": "1853", 
+            "collaboration": null, 
             "death_date": "1889", 
+            "display_name": "Chase, Henry", 
+            "first": "Henry", 
+            "fullname": "Henry Chase", 
             "irn": 609626, 
-            "name": "Chase, Henry", 
+            "last": "Chase", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 25 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14113, 
     "materials": "oil on canvas", 
     "on_view": false, 

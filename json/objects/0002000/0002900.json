@@ -2,12 +2,23 @@
     "accession_number": "09.93", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "A. W. Graham", 
+            "first": "A.", 
+            "fullname": "A. W. Graham", 
             "irn": 6434, 
-            "name": "A. W. Graham", 
+            "last": "Graham", 
+            "middle": "W.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 x 6 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2900, 
     "materials": "engraving", 
     "on_view": false, 

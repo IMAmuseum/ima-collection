@@ -2,21 +2,43 @@
     "accession_number": "08.46", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vignon, Claude", 
+                "UlanIdNo": "500008549"
+            }, 
             "after_follower": null, 
             "birth_date": "1593", 
+            "collaboration": null, 
             "death_date": "1670", 
+            "display_name": "Vignon, Claude", 
+            "first": "Claude", 
+            "fullname": "Claude Vignon", 
             "irn": 608337, 
-            "name": "Vignon, Claude", 
+            "last": "Vignon", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Bosse, Abraham", 
+                "UlanIdNo": "500031187"
+            }, 
             "after_follower": null, 
             "birth_date": "1602", 
+            "collaboration": null, 
             "death_date": "1676", 
+            "display_name": "Bosse, Abraham", 
+            "first": "Abraham", 
+            "fullname": "Abraham Bosse", 
             "irn": 630516, 
-            "name": "Bosse, Abraham", 
+            "last": "Bosse", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 9460, 
     "materials": "engraving and etching", 
     "on_view": false, 

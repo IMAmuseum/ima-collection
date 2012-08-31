@@ -2,12 +2,23 @@
     "accession_number": "2011.94", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Roszak, Theodore", 
+                "UlanIdNo": "500017526"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1981", 
+            "display_name": "Roszak, Theodore", 
+            "first": "Theodore", 
+            "fullname": "Theodore Roszak", 
             "irn": 5053, 
-            "name": "Roszak, Theodore", 
+            "last": "Roszak", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 3/4 x 9 in. (sheet)\n9 3/8 x 10 7/8 in. (mount)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71566, 
     "materials": "photogram: gelatin silver print", 
     "on_view": false, 

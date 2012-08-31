@@ -2,12 +2,23 @@
     "accession_number": "67.10.121", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Luny, Thomas", 
+                "UlanIdNo": "500032145"
+            }, 
             "after_follower": null, 
             "birth_date": "1759", 
+            "collaboration": null, 
             "death_date": "1837", 
+            "display_name": "Luny, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Luny", 
             "irn": 631455, 
-            "name": "Luny, Thomas", 
+            "last": "Luny", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 x 16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4860, 
     "materials": "oil on canvas", 
     "on_view": false, 

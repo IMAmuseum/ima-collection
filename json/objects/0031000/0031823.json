@@ -2,12 +2,23 @@
     "accession_number": "80.236", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mangold, Sylvia Plimack", 
+                "UlanIdNo": "500006404"
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Mangold, Sylvia Plimack", 
+            "first": "Sylvia", 
+            "fullname": "Sylvia P. Mangold", 
             "irn": 606237, 
-            "name": "Mangold, Sylvia Plimack", 
+            "last": "Mangold", 
+            "middle": "Plimack", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 31823, 
     "materials": "oil on canvas", 
     "on_view": false, 

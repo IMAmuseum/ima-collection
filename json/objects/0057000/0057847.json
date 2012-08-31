@@ -2,12 +2,23 @@
     "accession_number": "1986.72A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lanvin, Jeanne", 
+                "UlanIdNo": "500063579"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1946", 
+            "display_name": "Lanvin, Jeanne", 
+            "first": "Jeanne", 
+            "fullname": "Jeanne Lanvin", 
             "irn": 660351, 
-            "name": "Lanvin, Jeanne", 
+            "last": "Lanvin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "L: 59 in. (coat)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 57847, 
     "materials": "Metallic Brocade | Silk Satin", 
     "on_view": false, 

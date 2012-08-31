@@ -2,12 +2,23 @@
     "accession_number": "72.134", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Espagnat, Georges d'", 
+                "UlanIdNo": "500024075"
+            }, 
             "after_follower": null, 
             "birth_date": "1870", 
+            "collaboration": null, 
             "death_date": "1950", 
+            "display_name": "Espagnat, Georges d'", 
+            "first": "Georges", 
+            "fullname": "Georges d. Espagnat", 
             "irn": 623554, 
-            "name": "Espagnat, Georges d'", 
+            "last": "Espagnat", 
+            "middle": "d'", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "86 1/2 x 114 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1038, 
     "materials": "oil on canvas", 
     "on_view": false, 

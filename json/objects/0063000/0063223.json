@@ -2,12 +2,23 @@
     "accession_number": "2005.72", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Kunisada", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1786", 
+            "collaboration": null, 
             "death_date": "1864", 
+            "display_name": "Utagawa Kunisada", 
+            "first": null, 
+            "fullname": "Utagawa Kunisada", 
             "irn": 451, 
-            "name": "Utagawa Kunisada", 
+            "last": "Utagawa Kunisada", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 5/8 x 9 7/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63223, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Aito", 
+            "first": null, 
+            "fullname": "Aito", 
             "irn": 3411, 
-            "name": "Aito"
+            "last": "Aito", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

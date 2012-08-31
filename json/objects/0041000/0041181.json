@@ -2,21 +2,43 @@
     "accession_number": "80.1636.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Westall, Richard", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1765", 
+            "collaboration": null, 
             "death_date": "1836", 
+            "display_name": "Westall, Richard", 
+            "first": null, 
+            "fullname": "Westall, Richard", 
             "irn": 1883, 
-            "name": "Westall, Richard", 
+            "last": "Westall, Richard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Bacon, Frederick", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1803", 
+            "collaboration": null, 
             "death_date": "1887", 
+            "display_name": "Bacon, Frederick", 
+            "first": null, 
+            "fullname": "Bacon, Frederick", 
             "irn": 1920, 
-            "name": "Bacon, Frederick", 
+            "last": "Bacon, Frederick", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 41181, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

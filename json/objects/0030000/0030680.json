@@ -2,12 +2,23 @@
     "accession_number": "09.331", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Heath, Charles", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1785", 
+            "collaboration": null, 
             "death_date": "1848", 
+            "display_name": "Heath, Charles", 
+            "first": null, 
+            "fullname": "Heath, Charles", 
             "irn": 379, 
-            "name": "Heath, Charles", 
+            "last": "Heath, Charles", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 30680, 
     "materials": "engraving", 
     "on_view": false, 

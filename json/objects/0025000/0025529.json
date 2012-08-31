@@ -2,12 +2,23 @@
     "accession_number": "72.90.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Weirotter, Franz Edmund", 
+                "UlanIdNo": "500017688"
+            }, 
             "after_follower": null, 
             "birth_date": "1730", 
+            "collaboration": null, 
             "death_date": "1771", 
+            "display_name": "Weirotter, Franz Edmund", 
+            "first": "Franz", 
+            "fullname": "Franz E. Weirotter", 
             "irn": 617290, 
-            "name": "Weirotter, Franz Edmund", 
+            "last": "Weirotter", 
+            "middle": "Edmund", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 25529, 
     "materials": "etching", 
     "on_view": false, 

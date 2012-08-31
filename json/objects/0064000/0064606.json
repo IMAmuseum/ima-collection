@@ -2,21 +2,43 @@
     "accession_number": "2009.432", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Arad, Ron", 
+                "UlanIdNo": "500093363"
+            }, 
             "after_follower": null, 
             "birth_date": "1951", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Arad, Ron", 
+            "first": "Ron", 
+            "fullname": "Ron Arad", 
             "irn": 689837, 
-            "name": "Arad, Ron", 
+            "last": "Arad", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Moroso", 
+            "first": null, 
+            "fullname": "Moroso", 
             "irn": 6672, 
-            "name": "Moroso", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Moroso", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "27 \u00d7  29 1/8 \u00d7  24 1/2  in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64606, 
     "materials": "polyurethane", 
     "on_view": false, 

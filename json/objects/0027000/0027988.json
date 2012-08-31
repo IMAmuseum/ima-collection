@@ -2,12 +2,23 @@
     "accession_number": "40.10", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stuart, Gilbert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1755", 
+            "collaboration": null, 
             "death_date": "1828", 
+            "display_name": "Stuart, Gilbert", 
+            "first": "Gilbert", 
+            "fullname": "Gilbert Stuart", 
             "irn": 711, 
-            "name": "Stuart, Gilbert", 
+            "last": "Stuart", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "29 3/8 x 24 3/8 in. \n35 5/8 x 30 3/4 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 27988, 
     "materials": "oil on canvas", 
     "on_view": false, 

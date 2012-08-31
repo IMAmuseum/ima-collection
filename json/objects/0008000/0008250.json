@@ -2,12 +2,23 @@
     "accession_number": "12.19", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1869", 
+            "collaboration": null, 
             "death_date": "1937", 
+            "display_name": "Frank T. Hutchens", 
+            "first": "Frank", 
+            "fullname": "Frank T. Hutchens", 
             "irn": 3174, 
-            "name": "Frank T. Hutchens", 
+            "last": "Hutchens", 
+            "middle": "Townsend", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 25 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 8250, 
     "materials": "oil on canvas", 
     "on_view": false, 

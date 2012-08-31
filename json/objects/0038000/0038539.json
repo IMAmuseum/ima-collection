@@ -2,21 +2,43 @@
     "accession_number": "80.919", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Hollis, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1792", 
+            "collaboration": null, 
             "death_date": "1842", 
+            "display_name": "Hollis, George", 
+            "first": null, 
+            "fullname": "Hollis, George", 
             "irn": 1828, 
-            "name": "Hollis, George", 
+            "last": "Hollis, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38539, 
     "materials": "engraving on copper, plain paper, quarto", 
     "on_view": false, 

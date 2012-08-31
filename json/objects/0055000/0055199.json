@@ -2,12 +2,23 @@
     "accession_number": "72.43.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Redgrave, Richard", 
+                "UlanIdNo": "500013531"
+            }, 
             "after_follower": null, 
             "birth_date": "1804", 
+            "collaboration": null, 
             "death_date": "1888", 
+            "display_name": "Redgrave, Richard", 
+            "first": "Richard", 
+            "fullname": "Richard Redgrave", 
             "irn": 613214, 
-            "name": "Redgrave, Richard", 
+            "last": "Redgrave", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55199, 
     "materials": "etching", 
     "on_view": false, 

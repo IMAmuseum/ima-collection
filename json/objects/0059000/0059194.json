@@ -2,12 +2,23 @@
     "accession_number": "2002.111", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Graves, Nancy", 
+                "UlanIdNo": "500001464"
+            }, 
             "after_follower": null, 
             "birth_date": "1940", 
+            "collaboration": null, 
             "death_date": "1995", 
+            "display_name": "Graves, Nancy", 
+            "first": "Nancy", 
+            "fullname": "Nancy Graves", 
             "irn": 601427, 
-            "name": "Graves, Nancy", 
+            "last": "Graves", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 59194, 
     "materials": "color lithograph", 
     "on_view": false, 

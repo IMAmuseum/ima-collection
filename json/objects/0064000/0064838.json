@@ -2,21 +2,43 @@
     "accession_number": "2009.516", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1956", 
+            "collaboration": null, 
             "death_date": "2005", 
+            "display_name": "Maarten van Severen", 
+            "first": "Maarten van", 
+            "fullname": "Maarten van Severen", 
             "irn": 5657, 
-            "name": "Maarten van Severen", 
+            "last": "Severen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "A IKI furniture", 
+            "first": null, 
+            "fullname": "A IKI furniture", 
             "irn": 6551, 
-            "name": "A IKI furniture", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "A IKI furniture", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "28 5/8 x 98 1/4 x 35 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64838, 
     "materials": "aluminum", 
     "on_view": false, 

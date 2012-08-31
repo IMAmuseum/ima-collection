@@ -2,12 +2,23 @@
     "accession_number": "1986.278", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Allen, James Edward", 
+                "UlanIdNo": "500032760"
+            }, 
             "after_follower": null, 
             "birth_date": "1894", 
+            "collaboration": null, 
             "death_date": "1964", 
+            "display_name": "Allen, James Edward", 
+            "first": "James", 
+            "fullname": "James E. Allen", 
             "irn": 632050, 
-            "name": "Allen, James Edward", 
+            "last": "Allen", 
+            "middle": "Edward", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 23349, 
     "materials": "ink", 
     "on_view": false, 

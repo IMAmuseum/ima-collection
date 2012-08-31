@@ -2,12 +2,23 @@
     "accession_number": "S3643.80.2B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wilson, Richard", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1714", 
+            "collaboration": null, 
             "death_date": "1782", 
+            "display_name": "Wilson, Richard", 
+            "first": "Wilson, Richard", 
+            "fullname": "Wilson, Richard Wilson", 
             "irn": 387, 
-            "name": "Wilson, Richard", 
+            "last": "Wilson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 54796, 
     "materials": "wire, string, balsa wood and paper", 
     "on_view": false, 

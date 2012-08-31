@@ -2,12 +2,23 @@
     "accession_number": "02.29", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hagborg, August Wilhelm Nikolaus", 
+                "UlanIdNo": "500047884"
+            }, 
             "after_follower": null, 
             "birth_date": "1852", 
+            "collaboration": null, 
             "death_date": "1921", 
+            "display_name": "Hagborg, August Wilhelm Nikolaus", 
+            "first": "August", 
+            "fullname": "August W. Hagborg", 
             "irn": 646399, 
-            "name": "Hagborg, August Wilhelm Nikolaus", 
+            "last": "Hagborg", 
+            "middle": "Wilhelm Nikolaus", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "29 x 40 in", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20015, 
     "materials": "oil on canvas", 
     "on_view": false, 

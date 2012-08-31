@@ -2,12 +2,23 @@
     "accession_number": "73.2.158", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1783-1869", 
+            "collaboration": null, 
             "death_date": "1783-1869", 
+            "display_name": "Smith, George", 
+            "first": null, 
+            "fullname": "Smith, George", 
             "irn": 2168, 
-            "name": "Smith, George", 
+            "last": "Smith, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 1/3 X 7 1/2 in. (image)\n10 3/4 X 8 1/3 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46037, 
     "materials": "hand-colored etching and aquatint", 
     "on_view": false, 

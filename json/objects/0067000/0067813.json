@@ -2,21 +2,43 @@
     "accession_number": "2010.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1975", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bertjan Pot", 
+            "first": "Bertjan", 
+            "fullname": "Bertjan Pot", 
             "irn": 6571, 
-            "name": "Bertjan Pot", 
+            "last": "Pot", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Goods", 
+            "first": null, 
+            "fullname": "Goods", 
             "irn": 2150, 
-            "name": "Goods", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Goods", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "27 3/4 x 36 x 20 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67813, 
     "materials": "carbon fiber", 
     "on_view": true, 

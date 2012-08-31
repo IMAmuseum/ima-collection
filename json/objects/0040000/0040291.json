@@ -2,21 +2,43 @@
     "accession_number": "80.1320.88", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Prout, Samuel", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1783-1852", 
+            "collaboration": null, 
             "death_date": "1783-1852", 
+            "display_name": "Prout, Samuel", 
+            "first": null, 
+            "fullname": "Prout, Samuel", 
             "irn": 1442, 
-            "name": "Prout, Samuel", 
+            "last": "Prout, Samuel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40291, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "45.236", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Annigoni, Pietro", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Annigoni, Pietro", 
+            "first": null, 
+            "fullname": "Annigoni, Pietro", 
             "irn": 1114, 
-            "name": "Annigoni, Pietro", 
+            "last": "Annigoni, Pietro", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 48784, 
     "materials": "photographic reproduction", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Giannini, Florence", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Giannini, Florence", 
+            "first": null, 
+            "fullname": "Giannini, Florence", 
             "irn": 2300, 
-            "name": "Giannini, Florence"
+            "last": "Giannini, Florence", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

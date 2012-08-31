@@ -2,21 +2,43 @@
     "accession_number": "2009.633", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dresser, Christopher", 
+                "UlanIdNo": "500042183"
+            }, 
             "after_follower": null, 
             "birth_date": "1834", 
+            "collaboration": null, 
             "death_date": "1904", 
+            "display_name": "Dresser, Christopher", 
+            "first": "Christopher", 
+            "fullname": "Christopher Dresser", 
             "irn": 641310, 
-            "name": "Dresser, Christopher", 
+            "last": "Dresser", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hukin & Heath", 
+            "first": null, 
+            "fullname": "Hukin & Heath", 
             "irn": 6904, 
-            "name": "Hukin & Heath", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Hukin & Heath", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "4 7/8 x 6 5/16 x 4 in. (open)\n4 7/8 x 3 5/8 x 4 in. (closed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68264, 
     "materials": "silver plate", 
     "on_view": false, 

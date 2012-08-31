@@ -2,12 +2,23 @@
     "accession_number": "09.109", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1831", 
+            "collaboration": null, 
             "death_date": "1888", 
+            "display_name": "Jules-Clement Levasseur", 
+            "first": "Jules-Clement", 
+            "fullname": "Jules-Clement Levasseur", 
             "irn": 6435, 
-            "name": "Jules-Clement Levasseur", 
+            "last": "Levasseur", 
+            "middle": null, 
             "nationality": "French", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16377, 
     "materials": "engraving", 
     "on_view": false, 

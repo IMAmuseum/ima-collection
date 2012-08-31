@@ -2,12 +2,23 @@
     "accession_number": "79.145", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Russell", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Smith, Russell", 
+            "first": null, 
+            "fullname": "Smith, Russell", 
             "irn": 3274, 
-            "name": "Smith, Russell", 
+            "last": "Smith, Russell", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "29 1/4 x 37 1/2 in.\n36 5/8 x 45 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 24053, 
     "materials": "oil on canvas", 
     "on_view": false, 

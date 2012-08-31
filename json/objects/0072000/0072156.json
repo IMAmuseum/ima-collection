@@ -2,12 +2,23 @@
     "accession_number": "MH2012.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vasarely, Victor de", 
+                "UlanIdNo": "500030657"
+            }, 
             "after_follower": null, 
             "birth_date": "1908", 
+            "collaboration": null, 
             "death_date": "1997", 
+            "display_name": "Vasarely, Victor de", 
+            "first": "Victor", 
+            "fullname": "Victor d. Vasarely", 
             "irn": 630000, 
-            "name": "Vasarely, Victor de", 
+            "last": "Vasarely", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "33 3/4 x 30 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 72156, 
     "materials": "framed serigraph", 
     "on_view": true, 

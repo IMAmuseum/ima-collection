@@ -2,21 +2,43 @@
     "accession_number": "80.1794.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Alexander, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1767", 
+            "collaboration": null, 
             "death_date": "1816", 
+            "display_name": "Alexander, William", 
+            "first": null, 
+            "fullname": "Alexander, William", 
             "irn": 884, 
-            "name": "Alexander, William", 
+            "last": "Alexander, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Hill, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1770", 
+            "collaboration": null, 
             "death_date": "1850", 
+            "display_name": "Hill, John", 
+            "first": null, 
+            "fullname": "Hill, John", 
             "irn": 581, 
-            "name": "Hill, John", 
+            "last": "Hill, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42014, 
     "materials": "etching and aquatint", 
     "on_view": false, 

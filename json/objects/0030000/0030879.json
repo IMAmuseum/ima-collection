@@ -2,12 +2,23 @@
     "accession_number": "72.130.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Heyden, Pieter van der", 
+                "UlanIdNo": "500029457"
+            }, 
             "after_follower": null, 
             "birth_date": "about 1530", 
+            "collaboration": null, 
             "death_date": "after 1572", 
+            "display_name": "Heyden, Pieter van der", 
+            "first": "Pieter", 
+            "fullname": "Pieter v. Heyden", 
             "irn": 628828, 
-            "name": "Heyden, Pieter van der", 
+            "last": "Heyden", 
+            "middle": "van der", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 11 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30879, 
     "materials": "engraving", 
     "on_view": false, 

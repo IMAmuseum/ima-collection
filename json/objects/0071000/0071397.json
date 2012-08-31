@@ -2,12 +2,23 @@
     "accession_number": "2011.1A-HHH", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Watts, Robert", 
+                "UlanIdNo": "500047426"
+            }, 
             "after_follower": null, 
             "birth_date": "1923", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Watts, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Watts", 
             "irn": 646011, 
-            "name": "Watts, Robert", 
+            "last": "Watts", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 7/8 x 11 3/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71397, 
     "materials": "mimeograph ink on paper", 
     "on_view": true, 

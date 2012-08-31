@@ -2,21 +2,43 @@
     "accession_number": "2004.77", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Norell, Norman", 
+                "UlanIdNo": "500100615"
+            }, 
             "after_follower": null, 
             "birth_date": "1900", 
+            "collaboration": null, 
             "death_date": "1972", 
+            "display_name": "Norell, Norman", 
+            "first": "Norman", 
+            "fullname": "Norman Norell", 
             "irn": 1419, 
-            "name": "Norell, Norman", 
+            "last": "Norell", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Anthony Traina", 
+            "first": null, 
+            "fullname": "Anthony Traina", 
             "irn": 3160, 
-            "name": "Anthony Traina", 
+            "last": "Anthony Traina", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "L: 59 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62252, 
     "materials": "silk taffeta, painted warp (chin\u00e9), silk organza lining", 
     "on_view": false, 

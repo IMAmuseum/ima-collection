@@ -2,21 +2,43 @@
     "accession_number": "MH2010.101A-SS", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girard, Alexander Hayden", 
+                "UlanIdNo": "500096402"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1993", 
+            "display_name": "Girard, Alexander Hayden", 
+            "first": "Alexander", 
+            "fullname": "Alexander H. Girard", 
             "irn": 692846, 
-            "name": "Girard, Alexander Hayden", 
+            "last": "Girard", 
+            "middle": "Hayden", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Giancarlo Girard", 
+            "first": "Giancarlo", 
+            "fullname": "Giancarlo Girard", 
             "irn": 7383, 
-            "name": "Giancarlo Girard", 
+            "last": "Girard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "61 x 18 1/2 x 18 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69382, 
     "materials": "wood, glass, earthenware, paper, paint, brass", 
     "on_view": true, 

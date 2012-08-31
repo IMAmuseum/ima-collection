@@ -2,12 +2,23 @@
     "accession_number": "25.35", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mayer, Wilhelm Emil", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Mayer, Wilhelm Emil", 
+            "first": null, 
+            "fullname": "Mayer, Wilhelm Emil", 
             "irn": 1040, 
-            "name": "Mayer, Wilhelm Emil", 
+            "last": "Mayer, Wilhelm Emil", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 20085, 
     "materials": "color lithograph", 
     "on_view": false, 

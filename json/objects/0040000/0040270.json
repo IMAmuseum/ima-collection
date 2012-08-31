@@ -2,21 +2,43 @@
     "accession_number": "80.1320.67", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Callcott, Augustus Wall", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1779", 
+            "collaboration": null, 
             "death_date": "1844", 
+            "display_name": "Callcott, Augustus Wall", 
+            "first": null, 
+            "fullname": "Callcott, Augustus Wall", 
             "irn": 1846, 
-            "name": "Callcott, Augustus Wall", 
+            "last": "Callcott, Augustus Wall", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40270, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

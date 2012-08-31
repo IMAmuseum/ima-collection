@@ -2,12 +2,23 @@
     "accession_number": "29.178", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Reynolds, S.W.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Reynolds, S.W.", 
+            "first": null, 
+            "fullname": "Reynolds, S.W.", 
             "irn": 1621, 
-            "name": "Reynolds, S.W.", 
+            "last": "Reynolds, S.W.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 12822, 
     "materials": "mezzotint", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Cooke, William Bernard", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1778", 
+            "collaboration": null, 
+            "death_date": "1855", 
+            "display_name": "Cooke, William Bernard", 
+            "first": null, 
+            "fullname": "Cooke, William Bernard", 
             "irn": 1330, 
-            "name": "Cooke, William Bernard"
+            "last": "Cooke, William Bernard", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

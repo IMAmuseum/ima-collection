@@ -2,12 +2,23 @@
     "accession_number": "09.307Q", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hancock, Robert", 
+                "UlanIdNo": "500025673"
+            }, 
             "after_follower": null, 
             "birth_date": "1730", 
+            "collaboration": null, 
             "death_date": "1817", 
+            "display_name": "Hancock, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Hancock", 
             "irn": 625114, 
-            "name": "Hancock, Robert", 
+            "last": "Hancock", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 46760, 
     "materials": "engraving", 
     "on_view": false, 

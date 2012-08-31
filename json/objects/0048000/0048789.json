@@ -2,12 +2,23 @@
     "accession_number": "80.513", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ramos, Mel", 
+                "UlanIdNo": "500012930"
+            }, 
             "after_follower": null, 
             "birth_date": "1935", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Ramos, Mel", 
+            "first": "Mel", 
+            "fullname": "Mel Ramos", 
             "irn": 1282, 
-            "name": "Ramos, Mel", 
+            "last": "Ramos", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 48789, 
     "materials": "collotype", 
     "on_view": false, 

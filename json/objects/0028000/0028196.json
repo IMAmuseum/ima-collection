@@ -2,12 +2,23 @@
     "accession_number": "S1309.76.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Grover, Oliver Dennett", 
+                "UlanIdNo": "500006640"
+            }, 
             "after_follower": null, 
             "birth_date": "1861", 
+            "collaboration": null, 
             "death_date": "1927", 
+            "display_name": "Grover, Oliver Dennett", 
+            "first": "Oliver", 
+            "fullname": "Oliver D. Grover", 
             "irn": 606471, 
-            "name": "Grover, Oliver Dennett", 
+            "last": "Grover", 
+            "middle": "Dennett", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 1/4 x 24 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 28196, 
     "materials": "oil on canvas", 
     "on_view": false, 

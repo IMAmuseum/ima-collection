@@ -2,12 +2,23 @@
     "accession_number": "C10040", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fouquet, Jean", 
+                "UlanIdNo": null
+            }, 
             "after_follower": "Circle of", 
             "birth_date": "1420", 
+            "collaboration": null, 
             "death_date": "1481", 
+            "display_name": "Fouquet, Jean", 
+            "first": null, 
+            "fullname": "Fouquet, Jean", 
             "irn": 1489, 
-            "name": "Fouquet, Jean", 
+            "last": "Fouquet, Jean", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 6 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 36560, 
     "materials": "oil on wood", 
     "on_view": true, 

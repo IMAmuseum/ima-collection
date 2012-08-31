@@ -2,12 +2,23 @@
     "accession_number": "68.29.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lawrence, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1769", 
+            "collaboration": null, 
             "death_date": "1830", 
+            "display_name": "Lawrence, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Lawrence", 
             "irn": 1087, 
-            "name": "Lawrence, Thomas", 
+            "last": "Lawrence", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 25 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 8557, 
     "materials": "oil on canvas", 
     "on_view": false, 

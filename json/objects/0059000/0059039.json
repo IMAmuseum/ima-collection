@@ -2,12 +2,23 @@
     "accession_number": "2002.125", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1909", 
+            "collaboration": null, 
             "death_date": "1984", 
+            "display_name": "Floyd D. Hopper", 
+            "first": "Floyd", 
+            "fullname": "Floyd D. Hopper", 
             "irn": 928, 
-            "name": "Floyd D. Hopper", 
+            "last": "Hopper", 
+            "middle": "D.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 59039, 
     "materials": "lithograph", 
     "on_view": false, 

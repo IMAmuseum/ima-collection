@@ -2,12 +2,23 @@
     "accession_number": "69.2.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jones, Allen", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1937", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Jones, Allen", 
+            "first": null, 
+            "fullname": "Jones, Allen", 
             "irn": 1128, 
-            "name": "Jones, Allen", 
+            "last": "Jones, Allen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55145, 
     "materials": "rubber stamp prints", 
     "on_view": false, 

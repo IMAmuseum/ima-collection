@@ -2,12 +2,23 @@
     "accession_number": "09.96", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rousselet, Gilles", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1610", 
+            "collaboration": null, 
             "death_date": "1686", 
+            "display_name": "Rousselet, Gilles", 
+            "first": null, 
+            "fullname": "Rousselet, Gilles", 
             "irn": 1664, 
-            "name": "Rousselet, Gilles", 
+            "last": "Rousselet, Gilles", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 20601, 
     "materials": "engraving", 
     "on_view": false, 

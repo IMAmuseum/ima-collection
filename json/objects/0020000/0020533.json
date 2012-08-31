@@ -2,21 +2,43 @@
     "accession_number": "09.79", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hollar, Wenceslaus", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1607", 
+            "collaboration": null, 
             "death_date": "1677", 
+            "display_name": "Hollar, Wenceslaus", 
+            "first": null, 
+            "fullname": "Hollar, Wenceslaus", 
             "irn": 2069, 
-            "name": "Hollar, Wenceslaus", 
+            "last": "Hollar, Wenceslaus", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Cleyn, Francis", 
+                "UlanIdNo": "500006024"
+            }, 
             "after_follower": null, 
             "birth_date": "1582", 
+            "collaboration": null, 
             "death_date": "1658", 
+            "display_name": "Cleyn, Francis", 
+            "first": "Francis", 
+            "fullname": "Francis Cleyn", 
             "irn": 605866, 
-            "name": "Cleyn, Francis", 
+            "last": "Cleyn", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 20533, 
     "materials": "engraving", 
     "on_view": false, 

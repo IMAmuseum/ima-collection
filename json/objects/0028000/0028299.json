@@ -2,12 +2,23 @@
     "accession_number": "1992.90", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Man Ray", 
+                "UlanIdNo": "500015030"
+            }, 
             "after_follower": null, 
             "birth_date": "1890", 
+            "collaboration": null, 
             "death_date": "1976", 
+            "display_name": "Man Ray", 
+            "first": null, 
+            "fullname": "Man Ray", 
             "irn": 480, 
-            "name": "Man Ray", 
+            "last": "Man Ray", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 3/4 x 13 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 28299, 
     "materials": "pen, ink and watercolor on off-white paper", 
     "on_view": false, 

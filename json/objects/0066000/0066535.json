@@ -2,12 +2,23 @@
     "accession_number": "2009.555", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Halston", 
+                "UlanIdNo": "500054334"
+            }, 
             "after_follower": "Attributed to", 
             "birth_date": "1932", 
+            "collaboration": null, 
             "death_date": "1990", 
+            "display_name": "Halston", 
+            "first": null, 
+            "fullname": "Halston", 
             "irn": 651528, 
-            "name": "Halston", 
+            "last": "Halston", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "L: 54 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66535, 
     "materials": "silk chiffon and rhinestones", 
     "on_view": true, 

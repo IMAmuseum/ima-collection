@@ -2,21 +2,43 @@
     "accession_number": "1997.49", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1843", 
+            "collaboration": null, 
             "death_date": "1916", 
+            "display_name": "Alexandre Sandier", 
+            "first": "Alexandre", 
+            "fullname": "Alexandre Sandier", 
             "irn": 1162, 
-            "name": "Alexandre Sandier", 
+            "last": "Sandier", 
+            "middle": null, 
             "nationality": "French", 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "S\u00e8vres Porcelain Manufactory", 
+            "first": null, 
+            "fullname": "S\u00e8vres Porcelain Manufactory", 
             "irn": 1180, 
-            "name": "S\u00e8vres Porcelain Manufactory", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "S\u00e8vres Porcelain Manufactory", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "24 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 31596, 
     "materials": "hard paste porcelain, polychrome enamels", 
     "on_view": true, 

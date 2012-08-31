@@ -2,21 +2,43 @@
     "accession_number": "73.2.122", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Adam, Robert", 
+                "UlanIdNo": "500008907"
+            }, 
             "after_follower": null, 
             "birth_date": "1728", 
+            "collaboration": null, 
             "death_date": "1792", 
+            "display_name": "Adam, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Adam", 
             "irn": 608688, 
-            "name": "Adam, Robert", 
+            "last": "Adam", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Patrick Begbie", 
+            "first": "Patrick", 
+            "fullname": "Patrick Begbie", 
             "irn": 2696, 
-            "name": "Patrick Begbie", 
+            "last": "Begbie", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "23 7/8 x 18 1/4 in. (image)\n26 7/8 x 20 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 44886, 
     "materials": "engraving on paper", 
     "on_view": false, 

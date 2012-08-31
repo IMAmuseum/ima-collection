@@ -2,21 +2,43 @@
     "accession_number": "75.755", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Adams, John Ottis", 
+                "UlanIdNo": "500014715"
+            }, 
             "after_follower": null, 
             "birth_date": "1851", 
+            "collaboration": null, 
             "death_date": "1927", 
+            "display_name": "Adams, John Ottis", 
+            "first": "John", 
+            "fullname": "John O. Adams", 
             "irn": 614379, 
-            "name": "Adams, John Ottis", 
+            "last": "Adams", 
+            "middle": "Ottis", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Forsyth, William J.", 
+                "UlanIdNo": "500058161"
+            }, 
             "after_follower": null, 
             "birth_date": "1854", 
+            "collaboration": null, 
             "death_date": "1935", 
+            "display_name": "Forsyth, William J.", 
+            "first": "William", 
+            "fullname": "William J. Forsyth", 
             "irn": 655000, 
-            "name": "Forsyth, William J.", 
+            "last": "Forsyth", 
+            "middle": "J.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 3083, 
     "materials": "pencil, pen and ink and charcoal on paper", 
     "on_view": false, 

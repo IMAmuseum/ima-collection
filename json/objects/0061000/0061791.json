@@ -2,12 +2,23 @@
     "accession_number": "2004.59", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Arp, Hans", 
+                "UlanIdNo": "500031000"
+            }, 
             "after_follower": null, 
             "birth_date": "1886", 
+            "collaboration": null, 
             "death_date": "1966", 
+            "display_name": "Arp, Hans", 
+            "first": "Hans", 
+            "fullname": "Hans Arp", 
             "irn": 630333, 
-            "name": "Arp, Hans", 
+            "last": "Arp", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "19 1/4 x 15 1/2 x 1 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61791, 
     "materials": "bronze with brown patina", 
     "on_view": false, 

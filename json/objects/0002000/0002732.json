@@ -2,12 +2,23 @@
     "accession_number": "72.21.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Crutchfield, William Richard", 
+                "UlanIdNo": "500011501"
+            }, 
             "after_follower": null, 
             "birth_date": "1932", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Crutchfield, William Richard", 
+            "first": "William", 
+            "fullname": "William R. Crutchfield", 
             "irn": 611230, 
-            "name": "Crutchfield, William Richard", 
+            "last": "Crutchfield", 
+            "middle": "Richard", 
             "nationality": "American", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 x 19 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2732, 
     "materials": "hand-colored lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Tamarind Lithography Workshop, Inc.", 
+            "first": null, 
+            "fullname": "Tamarind Lithography Workshop, Inc.", 
             "irn": 5014, 
-            "name": "Tamarind Lithography Workshop, Inc."
+            "last": "Tamarind Lithography Workshop, Inc.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 William Richard Crutchfield", 

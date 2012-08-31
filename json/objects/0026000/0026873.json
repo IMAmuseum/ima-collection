@@ -2,12 +2,23 @@
     "accession_number": "29.80", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Monticelli, Adolphe Joseph Thomas", 
+                "UlanIdNo": "500000984"
+            }, 
             "after_follower": null, 
             "birth_date": "1824", 
+            "collaboration": null, 
             "death_date": "1886", 
+            "display_name": "Monticelli, Adolphe Joseph Thomas", 
+            "first": "Adolphe", 
+            "fullname": "Adolphe J. Monticelli", 
             "irn": 600959, 
-            "name": "Monticelli, Adolphe Joseph Thomas", 
+            "last": "Monticelli", 
+            "middle": "Joseph Thomas", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 1/4 x 24 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26873, 
     "materials": "oil on panel", 
     "on_view": false, 

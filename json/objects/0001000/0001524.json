@@ -2,12 +2,23 @@
     "accession_number": "09.107", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sintzenich, Heinrich", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1752", 
+            "collaboration": null, 
             "death_date": "1812", 
+            "display_name": "Sintzenich, Heinrich", 
+            "first": null, 
+            "fullname": "Sintzenich, Heinrich", 
             "irn": 1142, 
-            "name": "Sintzenich, Heinrich", 
+            "last": "Sintzenich, Heinrich", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 1524, 
     "materials": "engraving", 
     "on_view": false, 

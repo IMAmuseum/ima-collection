@@ -2,12 +2,23 @@
     "accession_number": "1997.67", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "T.C. Steele", 
+                "UlanIdNo": "500032522"
+            }, 
             "after_follower": null, 
             "birth_date": "1847", 
+            "collaboration": null, 
             "death_date": "1926", 
+            "display_name": "T.C. Steele", 
+            "first": "T", 
+            "fullname": "T C. Steele", 
             "irn": 631822, 
-            "name": "T.C. Steele", 
+            "last": "Steele", 
+            "middle": "C.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "19 1/2 x 33 in.\n28 5/8 x 42 1/8 x 2 1/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35082, 
     "materials": "oil on canvas", 
     "on_view": false, 

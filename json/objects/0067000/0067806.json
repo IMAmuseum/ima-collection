@@ -2,12 +2,23 @@
     "accession_number": "2009.523A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wright, Russel", 
+                "UlanIdNo": "500001139"
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1976", 
+            "display_name": "Wright, Russel", 
+            "first": "Russel", 
+            "fullname": "Russel Wright", 
             "irn": 601110, 
-            "name": "Wright, Russel", 
+            "last": "Wright", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "5 1/8 x 11 1/2 x 7 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67806, 
     "materials": "ceramic", 
     "on_view": false, 

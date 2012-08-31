@@ -2,12 +2,23 @@
     "accession_number": "72.12.124", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rockwell, Norman", 
+                "UlanIdNo": "500018505"
+            }, 
             "after_follower": null, 
             "birth_date": "1894", 
+            "collaboration": null, 
             "death_date": "1978", 
+            "display_name": "Rockwell, Norman", 
+            "first": "Norman", 
+            "fullname": "Norman Rockwell", 
             "irn": 618093, 
-            "name": "Rockwell, Norman", 
+            "last": "Rockwell", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16529, 
     "materials": "offset lithograph", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "32.268", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Knight, Ridgway", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1839", 
+            "collaboration": null, 
             "death_date": "1924", 
+            "display_name": "Knight, Ridgway", 
+            "first": null, 
+            "fullname": "Knight, Ridgway", 
             "irn": 181, 
-            "name": "Knight, Ridgway", 
+            "last": "Knight, Ridgway", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 13732, 
     "materials": "ink on paper", 
     "on_view": false, 

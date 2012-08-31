@@ -2,12 +2,23 @@
     "accession_number": "02.28", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Landelle, Charles", 
+                "UlanIdNo": "500029254"
+            }, 
             "after_follower": null, 
             "birth_date": "1821", 
+            "collaboration": null, 
             "death_date": "1908", 
+            "display_name": "Landelle, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Landelle", 
             "irn": 628626, 
-            "name": "Landelle, Charles", 
+            "last": "Landelle", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 24 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30381, 
     "materials": "oil on canvas", 
     "on_view": false, 

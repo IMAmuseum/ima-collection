@@ -2,12 +2,23 @@
     "accession_number": "48.84", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "MacMonnies, Frederick William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "MacMonnies, Frederick William", 
+            "first": "Frederick", 
+            "fullname": "Frederick W. MacMonnies", 
             "irn": 3245, 
-            "name": "MacMonnies, Frederick William", 
+            "last": "MacMonnies", 
+            "middle": "William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 30 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 29443, 
     "materials": "bronze", 
     "on_view": false, 

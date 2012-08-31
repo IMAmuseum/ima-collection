@@ -2,12 +2,23 @@
     "accession_number": "C10084", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pater, Jean-Baptiste Joseph", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1695", 
+            "collaboration": null, 
             "death_date": "1736", 
+            "display_name": "Pater, Jean-Baptiste Joseph", 
+            "first": "Jean-Baptiste", 
+            "fullname": "Jean-Baptiste J. Pater", 
             "irn": 269, 
-            "name": "Pater, Jean-Baptiste Joseph", 
+            "last": "Pater", 
+            "middle": "Joseph", 
             "nationality": "French", 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 32852, 
     "materials": "red chalk and graphite on paper", 
     "on_view": false, 

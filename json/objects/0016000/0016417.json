@@ -2,21 +2,43 @@
     "accession_number": "08.56", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lasne, Michel", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "bef 1590", 
+            "collaboration": null, 
             "death_date": "1667", 
+            "display_name": "Lasne, Michel", 
+            "first": null, 
+            "fullname": "Lasne, Michel", 
             "irn": 1505, 
-            "name": "Lasne, Michel", 
+            "last": "Lasne, Michel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Bosse, Abraham", 
+                "UlanIdNo": "500031187"
+            }, 
             "after_follower": null, 
             "birth_date": "1602", 
+            "collaboration": null, 
             "death_date": "1676", 
+            "display_name": "Bosse, Abraham", 
+            "first": "Abraham", 
+            "fullname": "Abraham Bosse", 
             "irn": 630516, 
-            "name": "Bosse, Abraham", 
+            "last": "Bosse", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16417, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2002.90", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rivers, Larry", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1923", 
+            "collaboration": null, 
             "death_date": "August 14, 2002", 
+            "display_name": "Rivers, Larry", 
+            "first": null, 
+            "fullname": "Rivers, Larry", 
             "irn": 540, 
-            "name": "Rivers, Larry", 
+            "last": "Rivers, Larry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 58996, 
     "materials": "lithograph and screenprint", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Experiments in Art and Technology", 
+            "first": null, 
+            "fullname": "Experiments in Art and Technology", 
             "irn": 2423, 
-            "name": "Experiments in Art and Technology"
+            "last": "Experiments in Art and Technology", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Estate of Larry Rivers/Licensed by VAGA, New York, NY", 

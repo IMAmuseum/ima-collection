@@ -2,21 +2,43 @@
     "accession_number": "11.24", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girtin, Thomas", 
+                "UlanIdNo": "500009169"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1802", 
+            "display_name": "Girtin, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Girtin", 
             "irn": 608944, 
-            "name": "Girtin, Thomas", 
+            "last": "Girtin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Pickett, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Pickett, William", 
+            "first": null, 
+            "fullname": "Pickett, William", 
             "irn": 2345, 
-            "name": "Pickett, William", 
+            "last": "Pickett, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 x 22 7/8 in (image) \n10 7/8 x 25 15/16 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 21521, 
     "materials": "etching and aquatint", 
     "on_view": false, 

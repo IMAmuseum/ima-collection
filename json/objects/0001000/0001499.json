@@ -2,30 +2,63 @@
     "accession_number": "81.816", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Allen, James C.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Allen, James C.", 
+            "first": null, 
+            "fullname": "Allen, James C.", 
             "irn": 860, 
-            "name": "Allen, James C.", 
+            "last": "Allen, James C.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Witherington, William Frederick", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Witherington, William Frederick", 
+            "first": null, 
+            "fullname": "Witherington, William Frederick", 
             "irn": 1452, 
-            "name": "Witherington, William Frederick", 
+            "last": "Witherington, William Frederick", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Allen, James C.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Allen, James C.", 
+            "first": null, 
+            "fullname": "Allen, James C.", 
             "irn": 860, 
-            "name": "Allen, James C.", 
+            "last": "Allen, James C.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 1499, 
     "materials": "engraving on india paper, chine coll\u00e9", 
     "on_view": false, 
@@ -41,8 +75,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Cooke, William Bernard", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1778", 
+            "collaboration": null, 
+            "death_date": "1855", 
+            "display_name": "Cooke, William Bernard", 
+            "first": null, 
+            "fullname": "Cooke, William Bernard", 
             "irn": 1330, 
-            "name": "Cooke, William Bernard"
+            "last": "Cooke, William Bernard", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

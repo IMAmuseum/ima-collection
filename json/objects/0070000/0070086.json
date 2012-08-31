@@ -2,12 +2,23 @@
     "accession_number": "MH2010.375.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girard, Alexander Hayden", 
+                "UlanIdNo": "500096402"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1993", 
+            "display_name": "Girard, Alexander Hayden", 
+            "first": "Alexander", 
+            "fullname": "Alexander H. Girard", 
             "irn": 692846, 
-            "name": "Girard, Alexander Hayden", 
+            "last": "Girard", 
+            "middle": "Hayden", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "100 x 147 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 70086, 
     "materials": "cloth", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Curtain"
+    "title": "curtain"
 }

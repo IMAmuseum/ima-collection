@@ -2,12 +2,23 @@
     "accession_number": "09.41", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "J\u00e9r\u00f4me Paris", 
+            "first": "J\u00e9r\u00f4me", 
+            "fullname": "J\u00e9r\u00f4me Paris", 
             "irn": 188, 
-            "name": "J\u00e9r\u00f4me Paris", 
+            "last": "Paris", 
+            "middle": null, 
             "nationality": "French", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 5450, 
     "materials": "etching", 
     "on_view": false, 

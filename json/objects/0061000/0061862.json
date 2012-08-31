@@ -2,12 +2,23 @@
     "accession_number": "LH2003.44A-C", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Robert Browning", 
+            "first": "Robert", 
+            "fullname": "Robert Browning", 
             "irn": 3028, 
-            "name": "Robert Browning", 
+            "last": "Browning", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 1/4 x 6 1/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61862, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Smith, Elder & Co.", 
+            "first": null, 
+            "fullname": "Smith, Elder & Co.", 
             "irn": 3008, 
-            "name": "Smith, Elder & Co."
+            "last": "Smith, Elder & Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

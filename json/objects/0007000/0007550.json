@@ -2,12 +2,23 @@
     "accession_number": "09.192", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Calvert, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1799", 
+            "collaboration": null, 
             "death_date": "1883", 
+            "display_name": "Calvert, Edward", 
+            "first": null, 
+            "fullname": "Calvert, Edward", 
             "irn": 2206, 
-            "name": "Calvert, Edward", 
+            "last": "Calvert, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 7550, 
     "materials": "lithograph", 
     "on_view": false, 

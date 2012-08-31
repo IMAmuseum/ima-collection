@@ -2,12 +2,23 @@
     "accession_number": "74.536", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stael, Nicolas de", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1914", 
+            "collaboration": null, 
             "death_date": "1955", 
+            "display_name": "Stael, Nicolas de", 
+            "first": "Nicolas", 
+            "fullname": "Nicolas d. Stael", 
             "irn": 1654, 
-            "name": "Stael, Nicolas de", 
+            "last": "Stael", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 5970, 
     "materials": "pencil on white paper", 
     "on_view": false, 

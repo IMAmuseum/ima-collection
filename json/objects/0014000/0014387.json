@@ -2,12 +2,23 @@
     "accession_number": "65.57", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Riggs, Robert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1896-1970", 
+            "collaboration": null, 
             "death_date": "1896-1970", 
+            "display_name": "Riggs, Robert", 
+            "first": null, 
+            "fullname": "Riggs, Robert", 
             "irn": 1733, 
-            "name": "Riggs, Robert", 
+            "last": "Riggs, Robert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 14387, 
     "materials": "lithograph", 
     "on_view": false, 

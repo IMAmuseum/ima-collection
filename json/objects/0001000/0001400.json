@@ -2,12 +2,23 @@
     "accession_number": "09.177", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1746", 
+            "collaboration": null, 
             "death_date": "1797", 
+            "display_name": "Heinrich W. Schweickhardt", 
+            "first": "Heinrich", 
+            "fullname": "Heinrich W. Schweickhardt", 
             "irn": 6442, 
-            "name": "Heinrich W. Schweickhardt", 
+            "last": "Schweickhardt", 
+            "middle": "Wilhelm", 
             "nationality": "German", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 1400, 
     "materials": "engraving", 
     "on_view": false, 

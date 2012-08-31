@@ -2,21 +2,43 @@
     "accession_number": "2011.269", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1906", 
+            "collaboration": null, 
             "death_date": "1984", 
+            "display_name": "Sven E. Palmqvist", 
+            "first": "Sven", 
+            "fullname": "Sven E. Palmqvist", 
             "irn": 8279, 
-            "name": "Sven E. Palmqvist", 
+            "last": "Palmqvist", 
+            "middle": "Ernst Robert", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Orrefors Glasbruk", 
+            "first": null, 
+            "fullname": null, 
             "irn": 8278, 
-            "name": "Orrefors Glasbruk", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Orrefors Glasbruk", 
+            "party_type": "Art and Architecture Thesaurus", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "3 3/4 x 7 1/2 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73799, 
     "materials": "glass", 
     "on_view": false, 

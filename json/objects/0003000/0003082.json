@@ -6,6 +6,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 3082, 
     "materials": "Engraving", 
     "on_view": false, 
@@ -13,8 +14,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Cooke, William Bernard", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1778", 
+            "collaboration": null, 
+            "death_date": "1855", 
+            "display_name": "Cooke, William Bernard", 
+            "first": null, 
+            "fullname": "Cooke, William Bernard", 
             "irn": 1330, 
-            "name": "Cooke, William Bernard"
+            "last": "Cooke, William Bernard", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

@@ -2,21 +2,43 @@
     "accession_number": "2008.788B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sottsass, Ettore", 
+                "UlanIdNo": "500019835"
+            }, 
             "after_follower": null, 
             "birth_date": "1917", 
+            "collaboration": null, 
             "death_date": "2007", 
+            "display_name": "Sottsass, Ettore", 
+            "first": "Ettore", 
+            "fullname": "Ettore Sottsass", 
             "irn": 619404, 
-            "name": "Sottsass, Ettore", 
+            "last": "Sottsass", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Alessi S.p.A.", 
+            "first": null, 
+            "fullname": "Alessi S.p.A.", 
             "irn": 6531, 
-            "name": "Alessi S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Alessi S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "5 3/8 x 3 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67225, 
     "materials": "glass", 
     "on_view": false, 

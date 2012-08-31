@@ -2,12 +2,23 @@
     "accession_number": "2007.99", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Saint Laurent, Yves", 
+                "UlanIdNo": "500023723"
+            }, 
             "after_follower": null, 
             "birth_date": "1936", 
+            "collaboration": null, 
             "death_date": "2008", 
+            "display_name": "Saint Laurent, Yves", 
+            "first": "Yves", 
+            "fullname": "Yves Saint Laurent", 
             "irn": 623216, 
-            "name": "Saint Laurent, Yves", 
+            "last": "Saint Laurent", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "L: 3 7/8 in. \nW: 2 5/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64935, 
     "materials": "metal and semi-precious stones", 
     "on_view": false, 

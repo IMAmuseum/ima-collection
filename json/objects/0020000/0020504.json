@@ -2,12 +2,23 @@
     "accession_number": "78.107", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Neel, Alice", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1900", 
+            "collaboration": null, 
             "death_date": "1984", 
+            "display_name": "Neel, Alice", 
+            "first": null, 
+            "fullname": "Neel, Alice", 
             "irn": 929, 
-            "name": "Neel, Alice", 
+            "last": "Neel, Alice", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 20504, 
     "materials": "lithograph", 
     "on_view": false, 

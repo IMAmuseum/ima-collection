@@ -2,12 +2,23 @@
     "accession_number": "73.15.16", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sartain, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1808-1897", 
+            "collaboration": null, 
             "death_date": "1808-1897", 
+            "display_name": "Sartain, John", 
+            "first": null, 
+            "fullname": "Sartain, John", 
             "irn": 2065, 
-            "name": "Sartain, John", 
+            "last": "Sartain, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 46098, 
     "materials": "mezzotint", 
     "on_view": false, 

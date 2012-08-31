@@ -2,21 +2,43 @@
     "accession_number": "2011.55.6B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Branzi, Andrea", 
+                "UlanIdNo": "500107394"
+            }, 
             "after_follower": null, 
             "birth_date": "1939", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Branzi, Andrea", 
+            "first": "Andrea", 
+            "fullname": "Andrea Branzi", 
             "irn": 703727, 
-            "name": "Branzi, Andrea", 
+            "last": "Branzi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Giotto Green Design Ltd.", 
+            "first": null, 
+            "fullname": "Giotto Green Design Ltd.", 
             "irn": 7007, 
-            "name": "Giotto Green Design Ltd.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Giotto Green Design Ltd.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "11/16 x 5 7/8 in. (diam.)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71685, 
     "materials": "ceramic", 
     "on_view": false, 

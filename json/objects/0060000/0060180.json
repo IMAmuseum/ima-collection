@@ -2,12 +2,23 @@
     "accession_number": "2002.198", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Yunkers, Adja", 
+                "UlanIdNo": "500013967"
+            }, 
             "after_follower": null, 
             "birth_date": "1900", 
+            "collaboration": null, 
             "death_date": "1983", 
+            "display_name": "Yunkers, Adja", 
+            "first": "Adja", 
+            "fullname": "Adja Yunkers", 
             "irn": 613648, 
-            "name": "Yunkers, Adja", 
+            "last": "Yunkers", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 60180, 
     "materials": "etching", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Vermillion Editions Ltd., Minneapolis", 
+            "first": null, 
+            "fullname": "Vermillion Editions Ltd., Minneapolis", 
             "irn": 2480, 
-            "name": "Vermillion Editions Ltd., Minneapolis"
+            "last": "Vermillion Editions Ltd., Minneapolis", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

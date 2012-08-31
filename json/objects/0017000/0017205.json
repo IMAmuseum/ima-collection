@@ -2,12 +2,23 @@
     "accession_number": "77.54", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Barret, George", 
+                "UlanIdNo": "500006857"
+            }, 
             "after_follower": null, 
             "birth_date": "1728", 
+            "collaboration": null, 
             "death_date": "1784", 
+            "display_name": "Barret, George", 
+            "first": "George", 
+            "fullname": "George Barret", 
             "irn": 606682, 
-            "name": "Barret, George", 
+            "last": "Barret", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "24 x 36 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17205, 
     "materials": "oil on canvas", 
     "on_view": true, 

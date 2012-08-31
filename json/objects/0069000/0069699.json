@@ -2,13 +2,24 @@
     "accession_number": "MH2010.197A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Robert Breading", 
+            "first": "Robert", 
+            "fullname": "Robert Breading", 
             "irn": 7386, 
-            "name": "Robert Breading", 
-            "nationality": null, 
-            "role": "Designer"
+            "last": "Breading", 
+            "middle": null, 
+            "nationality": "Irish", 
+            "organization": null, 
+            "party_type": "Person", 
+            "role": "manufacturer"
         }
     ], 
     "creation_date": "1787", 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "Sauce boat: 7 x 9 1/2 x 4 in.\nLid: 2 1/2 x 7 x 4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69699, 
     "materials": "sterling silver", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Sauce boat and lid"
+    "title": "sauce boat and lid"
 }

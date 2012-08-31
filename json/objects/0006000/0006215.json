@@ -2,12 +2,23 @@
     "accession_number": "20.113", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Morris, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1834", 
+            "collaboration": null, 
             "death_date": "1896", 
+            "display_name": "Morris, William", 
+            "first": "William", 
+            "fullname": "William Morris", 
             "irn": 788, 
-            "name": "Morris, William", 
+            "last": "Morris", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "37 1/2 x 56 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 6215, 
     "materials": null, 
     "on_view": false, 

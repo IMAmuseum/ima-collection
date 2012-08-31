@@ -2,12 +2,23 @@
     "accession_number": "25.227", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Piranesi, Francesco", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Piranesi, Francesco", 
+            "first": null, 
+            "fullname": "Piranesi, Francesco", 
             "irn": 287, 
-            "name": "Piranesi, Francesco", 
+            "last": "Piranesi, Francesco", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 31177, 
     "materials": "engraving", 
     "on_view": false, 

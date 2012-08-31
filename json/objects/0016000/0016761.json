@@ -2,12 +2,23 @@
     "accession_number": "45.101", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Hiroshige", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1797", 
+            "collaboration": null, 
             "death_date": "1858", 
+            "display_name": "Utagawa Hiroshige", 
+            "first": null, 
+            "fullname": "Utagawa Hiroshige", 
             "irn": 592, 
-            "name": "Utagawa Hiroshige", 
+            "last": "Utagawa Hiroshige", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 x 14 in. (image)\n10 1/8 x 15 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16761, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,12 +35,38 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Yamamoto-ya Heikichi", 
+            "first": null, 
+            "fullname": "Yamamoto-ya Heikichi", 
             "irn": 2520, 
-            "name": "Yamamoto-ya Heikichi"
+            "last": "Yamamoto-ya Heikichi", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": null, 
+            "first": null, 
+            "fullname": null, 
             "irn": 2515, 
-            "name": null
+            "last": "H^oeid^o", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "1991.326", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Curry, John Steuart", 
+                "UlanIdNo": "500115503"
+            }, 
             "after_follower": null, 
             "birth_date": "1897", 
+            "collaboration": null, 
             "death_date": "1946", 
+            "display_name": "Curry, John Steuart", 
+            "first": "John", 
+            "fullname": "John S. Curry", 
             "irn": 710403, 
-            "name": "Curry, John Steuart", 
+            "last": "Curry", 
+            "middle": "Steuart", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 7/8 x 11 in. (image)\n16 7/8 x 12 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 33048, 
     "materials": "lithograph", 
     "on_view": false, 

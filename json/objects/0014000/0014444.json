@@ -2,12 +2,23 @@
     "accession_number": "79.292", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Signac, Paul", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1863", 
+            "collaboration": null, 
             "death_date": "1935", 
+            "display_name": "Signac, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul Signac", 
             "irn": 1378, 
-            "name": "Signac, Paul", 
+            "last": "Signac", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 3/8 x 19 7/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14444, 
     "materials": "oil on canvas", 
     "on_view": true, 

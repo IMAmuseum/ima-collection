@@ -2,12 +2,23 @@
     "accession_number": "07.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wolf, Henry", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1852", 
+            "collaboration": null, 
             "death_date": "1916", 
+            "display_name": "Wolf, Henry", 
+            "first": null, 
+            "fullname": "Wolf, Henry", 
             "irn": 737, 
-            "name": "Wolf, Henry", 
+            "last": "Wolf, Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 35089, 
     "materials": "ink", 
     "on_view": false, 

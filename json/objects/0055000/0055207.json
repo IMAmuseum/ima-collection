@@ -2,12 +2,23 @@
     "accession_number": "72.43.13", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Daubigny, Charles Fran\u00e7ois", 
+                "UlanIdNo": "500115164"
+            }, 
             "after_follower": null, 
             "birth_date": "1817", 
+            "collaboration": null, 
             "death_date": "1878", 
+            "display_name": "Daubigny, Charles Fran\u00e7ois", 
+            "first": "Charles", 
+            "fullname": "Charles F. Daubigny", 
             "irn": 710102, 
-            "name": "Daubigny, Charles Fran\u00e7ois", 
+            "last": "Daubigny", 
+            "middle": "Fran\u00e7ois", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55207, 
     "materials": "etching", 
     "on_view": false, 

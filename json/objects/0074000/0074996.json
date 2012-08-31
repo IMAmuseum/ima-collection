@@ -2,21 +2,43 @@
     "accession_number": "2012.3A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sottsass, Ettore", 
+                "UlanIdNo": "500019835"
+            }, 
             "after_follower": null, 
             "birth_date": "1917", 
+            "collaboration": null, 
             "death_date": "2007", 
+            "display_name": "Sottsass, Ettore", 
+            "first": "Ettore", 
+            "fullname": "Ettore Sottsass", 
             "irn": 619404, 
-            "name": "Sottsass, Ettore", 
+            "last": "Sottsass", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Rossi & Arcandi S.r.L.", 
+            "first": null, 
+            "fullname": "Rossi & Arcandi S.r.L.", 
             "irn": 7377, 
-            "name": "Rossi & Arcandi S.r.L.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Rossi & Arcandi S.r.L.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "11 1/4 x 14 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 74996, 
     "materials": "silver plate", 
     "on_view": false, 

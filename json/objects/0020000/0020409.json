@@ -2,12 +2,23 @@
     "accession_number": "46.68", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sutherland, Thomas", 
+                "UlanIdNo": "500032953"
+            }, 
             "after_follower": null, 
             "birth_date": "1785", 
+            "collaboration": null, 
             "death_date": "1885", 
+            "display_name": "Sutherland, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Sutherland", 
             "irn": 632239, 
-            "name": "Sutherland, Thomas", 
+            "last": "Sutherland", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 x 11 in (image)\n10 x 12 5/8 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20409, 
     "materials": "hand-colored aquatint", 
     "on_view": false, 

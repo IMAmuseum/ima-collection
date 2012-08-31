@@ -2,12 +2,23 @@
     "accession_number": "73.2.40", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Blondel, Jacques-Fran\u00e7ois", 
+                "UlanIdNo": "500031213"
+            }, 
             "after_follower": null, 
             "birth_date": "1705", 
+            "collaboration": null, 
             "death_date": "1774", 
+            "display_name": "Blondel, Jacques-Fran\u00e7ois", 
+            "first": "Jacques", 
+            "fullname": "Jacques -. Blondel", 
             "irn": 630542, 
-            "name": "Blondel, Jacques-Fran\u00e7ois", 
+            "last": "Blondel", 
+            "middle": "-Fran\u00e7ois", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 5/8 X 8 1/4 in. (image)\n13 7/8 X 10 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9075, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "73.89.91", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Havell, Robert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1793-1878", 
+            "collaboration": null, 
             "death_date": "1793-1878", 
+            "display_name": "Havell, Robert", 
+            "first": null, 
+            "fullname": "Havell, Robert", 
             "irn": 560, 
-            "name": "Havell, Robert", 
+            "last": "Havell, Robert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 9127, 
     "materials": "ink on paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Havell, Robert", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1793-1878", 
+            "collaboration": null, 
+            "death_date": "1793-1878", 
+            "display_name": "Havell, Robert", 
+            "first": null, 
+            "fullname": "Havell, Robert", 
             "irn": 560, 
-            "name": "Havell, Robert"
+            "last": "Havell, Robert", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

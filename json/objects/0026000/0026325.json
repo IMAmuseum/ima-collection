@@ -2,12 +2,23 @@
     "accession_number": "21.135", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lunois, Alexandre", 
+                "UlanIdNo": "500060215"
+            }, 
             "after_follower": null, 
             "birth_date": "1863", 
+            "collaboration": null, 
             "death_date": "1916", 
+            "display_name": "Lunois, Alexandre", 
+            "first": "Alexandre", 
+            "fullname": "Alexandre Lunois", 
             "irn": 657029, 
-            "name": "Lunois, Alexandre", 
+            "last": "Lunois", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "5 1/4 x 4 in (image) \n10.1/8 x 8 1/8 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26325, 
     "materials": "lithograph", 
     "on_view": false, 

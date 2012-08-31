@@ -2,12 +2,23 @@
     "accession_number": "73.28", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "De Kooning, Willem", 
+                "UlanIdNo": "500000974"
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1997", 
+            "display_name": "De Kooning, Willem", 
+            "first": "Willem", 
+            "fullname": "Willem De Kooning", 
             "irn": 600949, 
-            "name": "De Kooning, Willem", 
+            "last": "De Kooning", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "35 x 17 in (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9970, 
     "materials": "oil on paper towel mounted to Masonite", 
     "on_view": false, 

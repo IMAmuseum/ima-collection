@@ -2,12 +2,23 @@
     "accession_number": "80.502", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Baeder, John", 
+                "UlanIdNo": "500012249"
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Baeder, John", 
+            "first": "John", 
+            "fullname": "John Baeder", 
             "irn": 611963, 
-            "name": "Baeder, John", 
+            "last": "Baeder", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 2318, 
     "materials": "screenprint", 
     "on_view": false, 

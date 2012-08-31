@@ -2,30 +2,63 @@
     "accession_number": "LH2003.43D-F", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Anne Bront\u00eb", 
+            "first": "Anne", 
+            "fullname": "Anne Bront\u00eb", 
             "irn": 3025, 
-            "name": "Anne Bront\u00eb", 
+            "last": "Bront\u00eb", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Charlotte Bront\u00eb", 
+            "first": "Charlotte", 
+            "fullname": "Charlotte Bront\u00eb", 
             "irn": 3026, 
-            "name": "Charlotte Bront\u00eb", 
+            "last": "Bront\u00eb", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Emily Bront\u00eb", 
+            "first": "Emily", 
+            "fullname": "Emily Bront\u00eb", 
             "irn": 3027, 
-            "name": "Emily Bront\u00eb", 
+            "last": "Bront\u00eb", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "8 3/8 x 5 7/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63040, 
     "materials": null, 
     "on_view": true, 
@@ -41,8 +75,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Bigelow, Brown & Co. Inc.", 
+            "first": null, 
+            "fullname": "Bigelow, Brown & Co. Inc.", 
             "irn": 3012, 
-            "name": "Bigelow, Brown & Co. Inc."
+            "last": "Bigelow, Brown & Co. Inc.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

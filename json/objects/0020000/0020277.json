@@ -2,12 +2,23 @@
     "accession_number": "S2177.77.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1912", 
+            "collaboration": null, 
             "death_date": "1999", 
+            "display_name": "Edmund Brucker", 
+            "first": "Edmund", 
+            "fullname": "Edmund Brucker", 
             "irn": 777, 
-            "name": "Edmund Brucker", 
+            "last": "Brucker", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 20277, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "1990.45", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fielding, Anthony Vandyke Copley", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1787", 
+            "collaboration": null, 
             "death_date": "1855", 
+            "display_name": "Fielding, Anthony Vandyke Copley", 
+            "first": "Anthony", 
+            "fullname": "Anthony V. Fielding", 
             "irn": 1205, 
-            "name": "Fielding, Anthony Vandyke Copley", 
+            "last": "Fielding", 
+            "middle": "Vandyke Copley", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 1/8 x 14 1/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 5, 
     "materials": "watercolor on white paper", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "71.208.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wimar, Charles Ferdinand", 
+                "UlanIdNo": "500001261"
+            }, 
             "after_follower": null, 
             "birth_date": "1828", 
+            "collaboration": null, 
             "death_date": "1862", 
+            "display_name": "Wimar, Charles Ferdinand", 
+            "first": "Charles", 
+            "fullname": "Charles F. Wimar", 
             "irn": 601228, 
-            "name": "Wimar, Charles Ferdinand", 
+            "last": "Wimar", 
+            "middle": "Ferdinand", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 x 11 1/2 in.\n16 5/8 x 14 5/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4963, 
     "materials": "oil on paper mounted on canvas", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "63.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Inman, Henry", 
+                "UlanIdNo": "500021656"
+            }, 
             "after_follower": null, 
             "birth_date": "1801", 
+            "collaboration": null, 
             "death_date": "1846", 
+            "display_name": "Inman, Henry", 
+            "first": "Henry", 
+            "fullname": "Henry Inman", 
             "irn": 621191, 
-            "name": "Inman, Henry", 
+            "last": "Inman", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 25 in.\n38 x 33 1/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 3963, 
     "materials": "oil on canvas", 
     "on_view": true, 

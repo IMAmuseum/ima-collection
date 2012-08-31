@@ -2,12 +2,23 @@
     "accession_number": "74.520", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Childs, Bernard", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1910", 
+            "collaboration": null, 
             "death_date": "1985", 
+            "display_name": "Childs, Bernard", 
+            "first": null, 
+            "fullname": "Childs, Bernard", 
             "irn": 1297, 
-            "name": "Childs, Bernard", 
+            "last": "Childs, Bernard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "15 1/16 x 8 3/4 in. (image)\n22 1/8 x 17 15/16 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 31767, 
     "materials": "collagraph", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Lockwood, George", 
+            "first": null, 
+            "fullname": "Lockwood, George", 
             "irn": 3532, 
-            "name": "Lockwood, George"
+            "last": "Lockwood, George", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Impressions Workshop", 
+            "first": null, 
+            "fullname": "Impressions Workshop", 
             "irn": 6308, 
-            "name": "Impressions Workshop"
+            "last": null, 
+            "middle": null, 
+            "organization": "Impressions Workshop", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": null, 

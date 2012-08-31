@@ -2,12 +2,23 @@
     "accession_number": "73.2.186", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sch\u00fcbler, Johann Jacob", 
+                "UlanIdNo": "500017094"
+            }, 
             "after_follower": null, 
             "birth_date": "1689", 
+            "collaboration": null, 
             "death_date": "1741", 
+            "display_name": "Sch\u00fcbler, Johann Jacob", 
+            "first": "Johann", 
+            "fullname": "Johann J. Sch\u00fcbler", 
             "irn": 616714, 
-            "name": "Sch\u00fcbler, Johann Jacob", 
+            "last": "Sch\u00fcbler", 
+            "middle": "Jacob", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 7/8 X 7 1/8 in. (image)\n13 1/4 X 8 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46058, 
     "materials": "engraving", 
     "on_view": false, 

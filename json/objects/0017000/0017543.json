@@ -2,12 +2,23 @@
     "accession_number": "12.33", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kronberg, Louis", 
+                "UlanIdNo": "500003749"
+            }, 
             "after_follower": null, 
             "birth_date": "1872", 
+            "collaboration": null, 
             "death_date": "1965", 
+            "display_name": "Kronberg, Louis", 
+            "first": "Louis", 
+            "fullname": "Louis Kronberg", 
             "irn": 603649, 
-            "name": "Kronberg, Louis", 
+            "last": "Kronberg", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 x 9 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17543, 
     "materials": "oil on canvas", 
     "on_view": false, 

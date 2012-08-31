@@ -2,21 +2,43 @@
     "accession_number": "80.1274.14", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stothard, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1755", 
+            "collaboration": null, 
             "death_date": "1834", 
+            "display_name": "Stothard, Thomas", 
+            "first": null, 
+            "fullname": "Stothard, Thomas", 
             "irn": 1854, 
-            "name": "Stothard, Thomas", 
+            "last": "Stothard, Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1787", 
+            "collaboration": null, 
             "death_date": "1852", 
+            "display_name": "Finden, William", 
+            "first": null, 
+            "fullname": "Finden, William", 
             "irn": 1843, 
-            "name": "Finden, William", 
+            "last": "Finden, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 39804, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "57.150", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bril, Paul", 
+                "UlanIdNo": "500005652"
+            }, 
             "after_follower": "Workshop of", 
             "birth_date": "1554", 
+            "collaboration": null, 
             "death_date": "1626", 
+            "display_name": "Bril, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul Bril", 
             "irn": 605502, 
-            "name": "Bril, Paul", 
+            "last": "Bril", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "23 x 38 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 33961, 
     "materials": "oil on wood", 
     "on_view": false, 

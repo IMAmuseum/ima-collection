@@ -2,12 +2,23 @@
     "accession_number": "2008.799", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Marin, John", 
+                "UlanIdNo": "500115368"
+            }, 
             "after_follower": null, 
             "birth_date": "1870", 
+            "collaboration": null, 
             "death_date": "1953", 
+            "display_name": "Marin, John", 
+            "first": "John", 
+            "fullname": "John Marin", 
             "irn": 710278, 
-            "name": "Marin, John", 
+            "last": "Marin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 3/4 x 8 7/8 in. (image)\n13 3/4 x 10 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67245, 
     "materials": "etching on ivory wove paper", 
     "on_view": false, 

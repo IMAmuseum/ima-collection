@@ -2,12 +2,23 @@
     "accession_number": "MH2010.122", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Giancarlo Girard", 
+            "first": "Giancarlo", 
+            "fullname": "Giancarlo Girard", 
             "irn": 7383, 
-            "name": "Giancarlo Girard", 
+            "last": "Girard", 
+            "middle": null, 
             "nationality": "Italian", 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 1/2 x 53 x 1 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69482, 
     "materials": "earthenware, wood", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Town Streetscape\"  plaque"
+    "title": "Town Street Scene\"  plaque"
 }

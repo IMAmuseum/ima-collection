@@ -2,12 +2,23 @@
     "accession_number": "80.1918", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Miller, William", 
+                "UlanIdNo": "500003200"
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1882", 
+            "display_name": "Miller, William", 
+            "first": "William", 
+            "fullname": "William Miller", 
             "irn": 603122, 
-            "name": "Miller, William", 
+            "last": "Miller", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 x 10 1/8 in (image) \n15 1/4 x 20 1/8 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 42306, 
     "materials": "engraving", 
     "on_view": false, 

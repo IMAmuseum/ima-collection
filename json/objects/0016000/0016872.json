@@ -2,12 +2,23 @@
     "accession_number": "43.37", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "O'Keeffe, Georgia", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1887", 
+            "collaboration": null, 
             "death_date": "1986", 
+            "display_name": "O'Keeffe, Georgia", 
+            "first": "O'Keeffe, Georgia", 
+            "fullname": "O'Keeffe, Georgia O'Keeffe", 
             "irn": 371, 
-            "name": "O'Keeffe, Georgia", 
+            "last": "O'Keeffe", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "20 x 30 in.\n30 x 39 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16872, 
     "materials": "oil on canvas", 
     "on_view": true, 

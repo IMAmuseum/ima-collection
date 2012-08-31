@@ -2,12 +2,23 @@
     "accession_number": "2001.234", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lynes, George Platt", 
+                "UlanIdNo": "500003292"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Lynes, George Platt", 
+            "first": "George", 
+            "fullname": "George P. Lynes", 
             "irn": 603213, 
-            "name": "Lynes, George Platt", 
+            "last": "Lynes", 
+            "middle": "Platt", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 48918, 
     "materials": "gelatin silver print", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "MH2010.244", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1819", 
+            "collaboration": null, 
             "death_date": "1892", 
+            "display_name": "Walt Whitman", 
+            "first": "Walt", 
+            "fullname": "Walt Whitman", 
             "irn": 5380, 
-            "name": "Walt Whitman", 
+            "last": "Whitman", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "4 x 6 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69835, 
     "materials": "ink on paper", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Walt Whitman Signature"
+    "title": "Walt Whitman signature"
 }

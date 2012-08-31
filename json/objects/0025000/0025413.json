@@ -2,12 +2,23 @@
     "accession_number": "24.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cornelisz. van Oostsanen, Jacob", 
+                "UlanIdNo": "500115388"
+            }, 
             "after_follower": null, 
             "birth_date": "1470", 
+            "collaboration": null, 
             "death_date": "1533", 
+            "display_name": "Cornelisz. van Oostsanen, Jacob", 
+            "first": "Jacob", 
+            "fullname": "Jacob Cornelisz. van Oostsanen", 
             "irn": 710296, 
-            "name": "Cornelisz. van Oostsanen, Jacob", 
+            "last": "Cornelisz. van Oostsanen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "24 x 17 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 25413, 
     "materials": "oil on wood", 
     "on_view": true, 

@@ -2,21 +2,43 @@
     "accession_number": "2009.543", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Morrison, Jasper", 
+                "UlanIdNo": "500048491"
+            }, 
             "after_follower": null, 
             "birth_date": "1959", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Morrison, Jasper", 
+            "first": "Jasper", 
+            "fullname": "Jasper Morrison", 
             "irn": 646990, 
-            "name": "Morrison, Jasper", 
+            "last": "Morrison", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Magis S.p.A.", 
+            "first": null, 
+            "fullname": "Magis S.p.A.", 
             "irn": 6511, 
-            "name": "Magis S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Magis S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 1/2 \u00d7 19 1/2 \u00d7 20 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64759, 
     "materials": "polypropylene", 
     "on_view": false, 

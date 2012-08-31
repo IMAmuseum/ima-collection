@@ -2,21 +2,43 @@
     "accession_number": "80.250", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1924", 
+            "collaboration": null, 
             "death_date": "2005", 
+            "display_name": "Stroh, Earl", 
+            "first": null, 
+            "fullname": "Stroh, Earl", 
             "irn": 3515, 
-            "name": "Stroh, Earl", 
+            "last": "Stroh, Earl", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tamarind Institute", 
+            "first": null, 
+            "fullname": "Tamarind Institute", 
             "irn": 2472, 
-            "name": "Tamarind Institute", 
+            "last": "Tamarind Institute", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "20 1/4 x 29 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14286, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Tamarind Institute", 
+            "first": null, 
+            "fullname": "Tamarind Institute", 
             "irn": 2472, 
-            "name": "Tamarind Institute"
+            "last": "Tamarind Institute", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "1995.100", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pissarro, Lucien", 
+                "UlanIdNo": "500028996"
+            }, 
             "after_follower": null, 
             "birth_date": "1863", 
+            "collaboration": null, 
             "death_date": "1944", 
+            "display_name": "Pissarro, Lucien", 
+            "first": "Lucien", 
+            "fullname": "Lucien Pissarro", 
             "irn": 628371, 
-            "name": "Pissarro, Lucien", 
+            "last": "Pissarro", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 1/4 x 31 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 29424, 
     "materials": "oil on canvas", 
     "on_view": true, 

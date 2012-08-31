@@ -2,12 +2,23 @@
     "accession_number": "66.191", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kellogg, Edmund Burke", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Kellogg, Edmund Burke", 
+            "first": null, 
+            "fullname": "Kellogg, Edmund Burke", 
             "irn": 2357, 
-            "name": "Kellogg, Edmund Burke", 
+            "last": "Kellogg, Edmund Burke", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 24193, 
     "materials": "hand-colored lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Kellogg, Edmund Burke", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Kellogg, Edmund Burke", 
+            "first": null, 
+            "fullname": "Kellogg, Edmund Burke", 
             "irn": 2357, 
-            "name": "Kellogg, Edmund Burke"
+            "last": "Kellogg, Edmund Burke", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

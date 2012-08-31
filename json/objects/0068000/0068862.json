@@ -2,12 +2,23 @@
     "accession_number": "2010.101", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "William Grundy", 
+            "first": "William", 
+            "fullname": "William Grundy", 
             "irn": 7135, 
-            "name": "William Grundy", 
+            "last": "Grundy", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "L: 12 15/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68862, 
     "materials": "silver and wood", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "73.2.15", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mansart, Jules Hardouin", 
+                "UlanIdNo": "500029668"
+            }, 
             "after_follower": null, 
             "birth_date": "1645", 
+            "collaboration": null, 
             "death_date": "1708", 
+            "display_name": "Mansart, Jules Hardouin", 
+            "first": "Jules", 
+            "fullname": "Jules H. Mansart", 
             "irn": 629031, 
-            "name": "Mansart, Jules Hardouin", 
+            "last": "Mansart", 
+            "middle": "Hardouin", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 1/2 X 5 1/8 (image)\n10 1/4 X 7 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9266, 
     "materials": "ink on paper", 
     "on_view": false, 

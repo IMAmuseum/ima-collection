@@ -2,12 +2,23 @@
     "accession_number": "2007.49.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Marcotte, Leon", 
+                "UlanIdNo": "500026799"
+            }, 
             "after_follower": null, 
             "birth_date": "1824", 
+            "collaboration": null, 
             "death_date": "1887", 
+            "display_name": "Marcotte, Leon", 
+            "first": "Leon", 
+            "fullname": "Leon Marcotte", 
             "irn": 626217, 
-            "name": "Marcotte, Leon", 
+            "last": "Marcotte", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "43 x 77 5/8 x 31 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64389, 
     "materials": "wood, bronze", 
     "on_view": false, 

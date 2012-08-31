@@ -2,12 +2,23 @@
     "accession_number": "LH2003.66F-U", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1840", 
+            "collaboration": null, 
             "death_date": "1928", 
+            "display_name": "Thomas Hardy", 
+            "first": "Thomas", 
+            "fullname": "Thomas Hardy", 
             "irn": 3053, 
-            "name": "Thomas Hardy", 
+            "last": "Hardy", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 6 3/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62993, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Harper & Brothers", 
+            "first": null, 
+            "fullname": "Harper & Brothers", 
             "irn": 2453, 
-            "name": "Harper & Brothers"
+            "last": "Harper & Brothers", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

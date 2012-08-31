@@ -2,12 +2,23 @@
     "accession_number": "80.991.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cross, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1819-1861", 
+            "collaboration": null, 
             "death_date": "1819-1861", 
+            "display_name": "Cross, John", 
+            "first": null, 
+            "fullname": "Cross, John", 
             "irn": 2215, 
-            "name": "Cross, John", 
+            "last": "Cross, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 46364, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "1993.4A-C", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Edward Burne-Jones", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1833", 
+            "collaboration": null, 
             "death_date": "1898", 
+            "display_name": "Edward Burne-Jones", 
+            "first": "Edward", 
+            "fullname": "Edward Burne-Jones", 
             "irn": 179, 
-            "name": "Edward Burne-Jones", 
+            "last": "Burne-Jones", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Morris and Company", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Morris and Company", 
+            "first": null, 
+            "fullname": "Morris and Company", 
             "irn": 1499, 
-            "name": "Morris and Company", 
+            "last": "Morris and Company", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "71 in. x 22 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15542, 
     "materials": "painted lead and stained glass", 
     "on_view": true, 

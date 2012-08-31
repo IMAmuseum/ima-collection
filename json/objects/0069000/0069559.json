@@ -2,12 +2,23 @@
     "accession_number": "MHS2010.26", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Roche, Kevin", 
+                "UlanIdNo": "500032415"
+            }, 
             "after_follower": null, 
             "birth_date": "1922", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Roche, Kevin", 
+            "first": "Kevin", 
+            "fullname": "Kevin Roche", 
             "irn": 631717, 
-            "name": "Roche, Kevin", 
+            "last": "Roche", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "author"
         }
     ], 
@@ -16,8 +27,9 @@
     "cultures": [], 
     "dimensions": "10 x 10 1/2 x 1 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69559, 
-    "materials": "ink on paper book", 
+    "materials": "ink on paper", 
     "on_view": true, 
     "period": null, 
     "printers": [], 

@@ -2,12 +2,23 @@
     "accession_number": "1988.227", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Celmins, Vija", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Celmins, Vija", 
+            "first": null, 
+            "fullname": "Celmins, Vija", 
             "irn": 678, 
-            "name": "Celmins, Vija", 
+            "last": "Celmins, Vija", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 x 10 in. (image)\n24 x 19 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 12731, 
     "materials": "drypoint", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Gemini G.E.L.", 
+            "first": null, 
+            "fullname": "Gemini G.E.L.", 
             "irn": 5020, 
-            "name": "Gemini G.E.L."
+            "last": "Gemini G.E.L.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Vija Celmins", 

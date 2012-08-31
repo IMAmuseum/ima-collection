@@ -2,12 +2,23 @@
     "accession_number": "2011.187", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "C. M. Eckert", 
+            "first": "C.", 
+            "fullname": "C. M. Eckert", 
             "irn": 7701, 
-            "name": "C. M. Eckert", 
+            "last": "Eckert", 
+            "middle": "M.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Photographer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/4 x 10 3/8 in. (image)\n12 1/4 x 15 3/4 in. (mount)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 72160, 
     "materials": "albumen print on cardstock mount", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "F. Basserman", 
+            "first": "F.", 
+            "fullname": "F. Basserman", 
             "irn": 7755, 
-            "name": "F. Basserman"
+            "last": "Basserman", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

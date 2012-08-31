@@ -2,12 +2,23 @@
     "accession_number": "73.2.51", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Canu, Jean Dominique Etienne", 
+                "UlanIdNo": "500092130"
+            }, 
             "after_follower": null, 
             "birth_date": "1768", 
+            "collaboration": null, 
             "death_date": "1816", 
+            "display_name": "Canu, Jean Dominique Etienne", 
+            "first": "Jean", 
+            "fullname": "Jean D. Canu", 
             "irn": 688622, 
-            "name": "Canu, Jean Dominique Etienne", 
+            "last": "Canu", 
+            "middle": "Dominique Etienne", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 7/8 X 6 7/8 in. (image)\n12 1/4 X 9 3/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9284, 
     "materials": "engraving", 
     "on_view": false, 

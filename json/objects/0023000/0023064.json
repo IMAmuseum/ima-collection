@@ -2,21 +2,43 @@
     "accession_number": "1992.153", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bergdorf Goodman", 
+            "first": null, 
+            "fullname": "Bergdorf Goodman", 
             "irn": 2575, 
-            "name": "Bergdorf Goodman", 
+            "last": "Bergdorf Goodman", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }, 
         {
+            "ULAN": {
+                "Name": "Halston", 
+                "UlanIdNo": "500054334"
+            }, 
             "after_follower": null, 
             "birth_date": "1932", 
+            "collaboration": null, 
             "death_date": "1990", 
+            "display_name": "Halston", 
+            "first": null, 
+            "fullname": "Halston", 
             "irn": 651528, 
-            "name": "Halston", 
+            "last": "Halston", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 23064, 
     "materials": "silk organza with silk net lining", 
     "on_view": false, 

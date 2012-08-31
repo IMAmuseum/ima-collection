@@ -2,21 +2,43 @@
     "accession_number": "09.80", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pillement, Jean Baptiste", 
+                "UlanIdNo": "500022719"
+            }, 
             "after_follower": null, 
             "birth_date": "1728", 
+            "collaboration": null, 
             "death_date": "1808", 
+            "display_name": "Pillement, Jean Baptiste", 
+            "first": "Jean", 
+            "fullname": "Jean B. Pillement", 
             "irn": 622228, 
-            "name": "Pillement, Jean Baptiste", 
+            "last": "Pillement", 
+            "middle": "Baptiste", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Canot, Pierre-Charles", 
+                "UlanIdNo": "500002801"
+            }, 
             "after_follower": null, 
             "birth_date": "1710", 
+            "collaboration": null, 
             "death_date": "1777", 
+            "display_name": "Canot, Pierre-Charles", 
+            "first": "Pierre", 
+            "fullname": "Pierre -. Canot", 
             "irn": 602737, 
-            "name": "Canot, Pierre-Charles", 
+            "last": "Canot", 
+            "middle": "-Charles", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 20529, 
     "materials": "engraving", 
     "on_view": false, 

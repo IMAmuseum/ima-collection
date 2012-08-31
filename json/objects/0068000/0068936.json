@@ -2,12 +2,23 @@
     "accession_number": "2010.130", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Walter Dexel", 
+                "UlanIdNo": "500005708"
+            }, 
             "after_follower": null, 
             "birth_date": "1890", 
+            "collaboration": null, 
             "death_date": "1973", 
+            "display_name": "Walter Dexel", 
+            "first": "Walter", 
+            "fullname": "Walter Drexel", 
             "irn": 605556, 
-            "name": "Walter Dexel", 
+            "last": "Drexel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 3/4 x 4 3/4 in. (image)\n8 1/2 x 6 1/8  in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68936, 
     "materials": "woodblock print on cream laid paper", 
     "on_view": false, 

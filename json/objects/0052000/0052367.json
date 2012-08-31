@@ -2,12 +2,23 @@
     "accession_number": "38.32", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lawson, Ernest", 
+                "UlanIdNo": "500026852"
+            }, 
             "after_follower": null, 
             "birth_date": "1873", 
+            "collaboration": null, 
             "death_date": "1939", 
+            "display_name": "Lawson, Ernest", 
+            "first": "Ernest", 
+            "fullname": "Ernest Lawson", 
             "irn": 626269, 
-            "name": "Lawson, Ernest", 
+            "last": "Lawson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 x 30 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 52367, 
     "materials": "oil", 
     "on_view": false, 

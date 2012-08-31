@@ -2,12 +2,23 @@
     "accession_number": "55.19", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Parton, Arthur", 
+                "UlanIdNo": "500032423"
+            }, 
             "after_follower": null, 
             "birth_date": "1842", 
+            "collaboration": null, 
             "death_date": "1914", 
+            "display_name": "Parton, Arthur", 
+            "first": "Arthur", 
+            "fullname": "Arthur Parton", 
             "irn": 631725, 
-            "name": "Parton, Arthur", 
+            "last": "Parton", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "35 1/8 x 32 1/8 in.\n38 x 32 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 21873, 
     "materials": "oil on canvas", 
     "on_view": false, 

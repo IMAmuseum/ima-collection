@@ -2,21 +2,43 @@
     "accession_number": "2009.526.4A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Zeisel, Eva", 
+                "UlanIdNo": "500092239"
+            }, 
             "after_follower": null, 
             "birth_date": "1906", 
+            "collaboration": null, 
             "death_date": "2011", 
+            "display_name": "Zeisel, Eva", 
+            "first": "Eva", 
+            "fullname": "Eva Zeisel", 
             "irn": 6678, 
-            "name": "Zeisel, Eva", 
+            "last": "Zeisel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "SMFSchramberger Majolikafabrik", 
+            "first": null, 
+            "fullname": "SMFSchramberger Majolikafabrik", 
             "irn": 3949, 
-            "name": "SMFSchramberger Majolikafabrik", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "SMFSchramberger Majolikafabrik", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "H: 7 3/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67847, 
     "materials": "ceramic", 
     "on_view": false, 

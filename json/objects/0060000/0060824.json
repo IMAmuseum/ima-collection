@@ -2,12 +2,23 @@
     "accession_number": "2003.69", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1943", 
+            "collaboration": null, 
             "death_date": "2003", 
+            "display_name": "Frederick L. Sandback", 
+            "first": "Frederick", 
+            "fullname": "Frederick L. Sandback", 
             "irn": 2571, 
-            "name": "Frederick L. Sandback", 
+            "last": "Sandback", 
+            "middle": "Lane", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 60824, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Griffelkunstvereinigung", 
+            "first": null, 
+            "fullname": "Griffelkunstvereinigung", 
             "irn": 3271, 
-            "name": "Griffelkunstvereinigung"
+            "last": "Griffelkunstvereinigung", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Estate of Frederick Sandback", 

@@ -2,12 +2,23 @@
     "accession_number": "09.225", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cook, Thomas", 
+                "UlanIdNo": "500007808"
+            }, 
             "after_follower": null, 
             "birth_date": "1744", 
+            "collaboration": null, 
             "death_date": "1818", 
+            "display_name": "Cook, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Cook", 
             "irn": 607615, 
-            "name": "Cook, Thomas", 
+            "last": "Cook", 
+            "middle": null, 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 23742, 
     "materials": "engraving", 
     "on_view": false, 

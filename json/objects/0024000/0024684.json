@@ -2,12 +2,23 @@
     "accession_number": "1985.245", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cassatt, Mary", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1845", 
+            "collaboration": null, 
             "death_date": "1926", 
+            "display_name": "Cassatt, Mary", 
+            "first": null, 
+            "fullname": "Cassatt, Mary", 
             "irn": 1643, 
-            "name": "Cassatt, Mary", 
+            "last": "Cassatt, Mary", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 24684, 
     "materials": "ink", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "81.795", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Robert Henri", 
+                "UlanIdNo": "500005486"
+            }, 
             "after_follower": null, 
             "birth_date": "1865", 
+            "collaboration": null, 
             "death_date": "1929", 
+            "display_name": "Robert Henri", 
+            "first": "Robert", 
+            "fullname": "Robert Henri", 
             "irn": 605342, 
-            "name": "Robert Henri", 
+            "last": "Henri", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "31 x 25 in.\n39 x 32 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34669, 
     "materials": "oil on canvas", 
     "on_view": false, 

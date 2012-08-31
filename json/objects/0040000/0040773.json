@@ -2,12 +2,23 @@
     "accession_number": "2000.237", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Chermayeff, Serge", 
+                "UlanIdNo": "500011342"
+            }, 
             "after_follower": null, 
             "birth_date": "1900", 
+            "collaboration": null, 
             "death_date": "1996", 
+            "display_name": "Chermayeff, Serge", 
+            "first": "Serge", 
+            "fullname": "Serge Chermayeff", 
             "irn": 611075, 
-            "name": "Chermayeff, Serge", 
+            "last": "Chermayeff", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40773, 
     "materials": "lithograph", 
     "on_view": false, 

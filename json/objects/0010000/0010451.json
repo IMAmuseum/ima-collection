@@ -2,12 +2,23 @@
     "accession_number": "41.37", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ritchie, Alexander Hay", 
+                "UlanIdNo": "500062511"
+            }, 
             "after_follower": null, 
             "birth_date": "1822", 
+            "collaboration": null, 
             "death_date": "1895", 
+            "display_name": "Ritchie, Alexander Hay", 
+            "first": "Alexander", 
+            "fullname": "Alexander H. Ritchie", 
             "irn": 659294, 
-            "name": "Ritchie, Alexander Hay", 
+            "last": "Ritchie", 
+            "middle": "Hay", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 10451, 
     "materials": "engraving", 
     "on_view": false, 

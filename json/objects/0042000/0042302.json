@@ -2,12 +2,23 @@
     "accession_number": "80.1914", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stanfield, Clarkson", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1793", 
+            "collaboration": null, 
             "death_date": "1867", 
+            "display_name": "Stanfield, Clarkson", 
+            "first": "Clarkson", 
+            "fullname": "Clarkson Stanfield", 
             "irn": 1622, 
-            "name": "Stanfield, Clarkson", 
+            "last": "Stanfield", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42302, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

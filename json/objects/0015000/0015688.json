@@ -2,21 +2,43 @@
     "accession_number": "24.322", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lan\u00e7on, Auguste Andre", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Lan\u00e7on, Auguste Andre", 
+            "first": null, 
+            "fullname": "Lan\u00e7on, Auguste Andre", 
             "irn": 936, 
-            "name": "Lan\u00e7on, Auguste Andre", 
+            "last": "Lan\u00e7on, Auguste Andre", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Cadart, Alfred", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1828", 
+            "collaboration": null, 
             "death_date": "1875", 
+            "display_name": "Cadart, Alfred", 
+            "first": null, 
+            "fullname": "Cadart, Alfred", 
             "irn": 2087, 
-            "name": "Cadart, Alfred", 
+            "last": "Cadart, Alfred", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 15688, 
     "materials": "etching", 
     "on_view": false, 

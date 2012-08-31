@@ -2,12 +2,23 @@
     "accession_number": "S1753.77.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Henriquel-Dupont, Louis Pierre", 
+                "UlanIdNo": "500030235"
+            }, 
             "after_follower": null, 
             "birth_date": "1797", 
+            "collaboration": null, 
             "death_date": "1892", 
+            "display_name": "Henriquel-Dupont, Louis Pierre", 
+            "first": "Louis", 
+            "fullname": "Louis P. Henriquel-Dupont", 
             "irn": 629585, 
-            "name": "Henriquel-Dupont, Louis Pierre", 
+            "last": "Henriquel-Dupont", 
+            "middle": "Pierre", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 51826, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "1992.81", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Braque, Georges", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1882", 
+            "collaboration": null, 
             "death_date": "1963", 
+            "display_name": "Braque, Georges", 
+            "first": "Georges", 
+            "fullname": "Georges Braque", 
             "irn": 583, 
-            "name": "Braque, Georges", 
+            "last": "Braque", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 1/2 x 20 1/8 in. |  49.5 x 73.0 cm. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 10975, 
     "materials": "color gravure", 
     "on_view": false, 

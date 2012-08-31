@@ -2,12 +2,23 @@
     "accession_number": "72.90.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Both, Jan", 
+                "UlanIdNo": "500032845"
+            }, 
             "after_follower": null, 
             "birth_date": "1615", 
+            "collaboration": null, 
             "death_date": "1652", 
+            "display_name": "Both, Jan", 
+            "first": "Jan", 
+            "fullname": "Jan Both", 
             "irn": 632133, 
-            "name": "Both, Jan", 
+            "last": "Both", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 19388, 
     "materials": "etching", 
     "on_view": false, 

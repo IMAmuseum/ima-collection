@@ -2,12 +2,23 @@
     "accession_number": "67.11.23", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Strang, William", 
+                "UlanIdNo": "500016057"
+            }, 
             "after_follower": null, 
             "birth_date": "1859", 
+            "collaboration": null, 
             "death_date": "1921", 
+            "display_name": "Strang, William", 
+            "first": "William", 
+            "fullname": "William Strang", 
             "irn": 615696, 
-            "name": "Strang, William", 
+            "last": "Strang", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 28986, 
     "materials": "etching on chine coll\u00e9", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "69.23", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Picasso, Pablo", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1881", 
+            "collaboration": null, 
             "death_date": "1973", 
+            "display_name": "Picasso, Pablo", 
+            "first": "Pablo", 
+            "fullname": "Pablo Picasso", 
             "irn": 1427, 
-            "name": "Picasso, Pablo", 
+            "last": "Picasso", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 5/8 x 19 3/4", 
     "dynasty": null, 
+    "images": [], 
     "irn": 22490, 
     "materials": "linocut", 
     "on_view": false, 

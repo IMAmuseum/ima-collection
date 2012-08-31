@@ -2,12 +2,23 @@
     "accession_number": "72.100", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Segal, George", 
+                "UlanIdNo": "500032575"
+            }, 
             "after_follower": null, 
             "birth_date": "1924", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Segal, George", 
+            "first": "George", 
+            "fullname": "George Segal", 
             "irn": 631873, 
-            "name": "Segal, George", 
+            "last": "Segal", 
+            "middle": null, 
             "nationality": "  ", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "36 x 24 x 15 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 28150, 
     "materials": "plaster and wood", 
     "on_view": false, 

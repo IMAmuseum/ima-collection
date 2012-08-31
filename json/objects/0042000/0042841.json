@@ -2,12 +2,23 @@
     "accession_number": "2001.241", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Renoir, Pierre Auguste", 
+                "UlanIdNo": "500115467"
+            }, 
             "after_follower": "After", 
             "birth_date": "1841", 
+            "collaboration": null, 
             "death_date": "1919", 
+            "display_name": "Renoir, Pierre Auguste", 
+            "first": "Pierre", 
+            "fullname": "Pierre A. Renoir", 
             "irn": 710371, 
-            "name": "Renoir, Pierre Auguste", 
+            "last": "Renoir", 
+            "middle": "Auguste", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 1/2 x 7 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 42841, 
     "materials": "oil on canvas mounted to canvas", 
     "on_view": false, 

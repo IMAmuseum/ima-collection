@@ -2,21 +2,43 @@
     "accession_number": "17.52", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1866", 
+            "collaboration": null, 
             "death_date": "1913", 
+            "display_name": "Seegmiller, Wilhelmina", 
+            "first": null, 
+            "fullname": "Seegmiller, Wilhelmina", 
             "irn": 1244, 
-            "name": "Seegmiller, Wilhelmina", 
+            "last": "Seegmiller, Wilhelmina", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Matsummoto Sogo", 
+            "first": null, 
+            "fullname": "Matsummoto Sogo", 
             "irn": 2003, 
-            "name": "Matsummoto Sogo", 
+            "last": "Matsummoto Sogo", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 44968, 
     "materials": "color woodblock print", 
     "on_view": false, 

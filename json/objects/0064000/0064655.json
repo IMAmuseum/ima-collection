@@ -2,21 +2,43 @@
     "accession_number": "2009.455", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": "Claesson Koivisto Rune", 
             "death_date": null, 
+            "display_name": "Claesson Koivisto Rune", 
+            "first": null, 
+            "fullname": "Claesson Koivisto Rune", 
             "irn": 5668, 
-            "name": "Claesson Koivisto Rune", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Collaboration", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "E & Y Co., Ltd", 
+            "first": null, 
+            "fullname": "E & Y Co., Ltd", 
             "irn": 6668, 
-            "name": "E & Y Co., Ltd", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "E & Y Co., Ltd", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "20 x 27 1/2 x 37 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64655, 
     "materials": "fabric", 
     "on_view": false, 

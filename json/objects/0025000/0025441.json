@@ -2,12 +2,23 @@
     "accession_number": "58.44", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rogers, John", 
+                "UlanIdNo": "500004980"
+            }, 
             "after_follower": null, 
             "birth_date": "1829", 
+            "collaboration": null, 
             "death_date": "1904", 
+            "display_name": "Rogers, John", 
+            "first": "John", 
+            "fullname": "John Rogers", 
             "irn": 604850, 
-            "name": "Rogers, John", 
+            "last": "Rogers", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "23 H", 
     "dynasty": null, 
+    "images": [], 
     "irn": 25441, 
     "materials": "plaster", 
     "on_view": false, 

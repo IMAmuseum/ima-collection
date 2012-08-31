@@ -2,30 +2,63 @@
     "accession_number": "MH2010.54.1-.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Saarinen, Eero", 
+                "UlanIdNo": "500006141"
+            }, 
             "after_follower": null, 
             "birth_date": "1910", 
+            "collaboration": null, 
             "death_date": "1961", 
+            "display_name": "Saarinen, Eero", 
+            "first": "Eero", 
+            "fullname": "Eero Saarinen", 
             "irn": 605980, 
-            "name": "Saarinen, Eero", 
+            "last": "Saarinen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Girard, Alexander Hayden", 
+                "UlanIdNo": "500096402"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1993", 
+            "display_name": "Girard, Alexander Hayden", 
+            "first": "Alexander", 
+            "fullname": "Alexander H. Girard", 
             "irn": 692846, 
-            "name": "Girard, Alexander Hayden", 
+            "last": "Girard", 
+            "middle": "Hayden", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Knoll Associates, Inc.", 
+            "first": null, 
+            "fullname": "Knoll Associates, Inc.", 
             "irn": 5872, 
-            "name": "Knoll Associates, Inc.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Knoll Associates, Inc.", 
+            "party_type": "Organisation", 
             "role": "manufacturer"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "31 x 25 3/4 x 19 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 75192, 
     "materials": "fiberglass, aluminum", 
     "on_view": true, 

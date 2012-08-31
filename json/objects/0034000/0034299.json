@@ -2,12 +2,23 @@
     "accession_number": "71.89", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Crutchfield, William Richard", 
+                "UlanIdNo": "500011501"
+            }, 
             "after_follower": null, 
             "birth_date": "1932", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Crutchfield, William Richard", 
+            "first": "William", 
+            "fullname": "William R. Crutchfield", 
             "irn": 611230, 
-            "name": "Crutchfield, William Richard", 
+            "last": "Crutchfield", 
+            "middle": "Richard", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 34299, 
     "materials": "ink", 
     "on_view": false, 

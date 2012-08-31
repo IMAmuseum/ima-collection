@@ -2,12 +2,23 @@
     "accession_number": "80.200", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bloemaert, Abraham", 
+                "UlanIdNo": "500007342"
+            }, 
             "after_follower": "After", 
             "birth_date": "1566", 
+            "collaboration": null, 
             "death_date": "1651", 
+            "display_name": "Bloemaert, Abraham", 
+            "first": "Abraham", 
+            "fullname": "Abraham Bloemaert", 
             "irn": 607161, 
-            "name": "Bloemaert, Abraham", 
+            "last": "Bloemaert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 1/4 x 9 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20117, 
     "materials": "oil on copper", 
     "on_view": true, 

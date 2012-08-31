@@ -2,30 +2,63 @@
     "accession_number": "2009.325", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vignelli, Massimo", 
+                "UlanIdNo": "500078468"
+            }, 
             "after_follower": null, 
             "birth_date": "1930", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Vignelli, Massimo", 
+            "first": "Massimo", 
+            "fullname": "Massimo Vignelli", 
             "irn": 675095, 
-            "name": "Vignelli, Massimo", 
+            "last": "Vignelli", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Vignelli, Lella", 
+                "UlanIdNo": "500082275"
+            }, 
             "after_follower": null, 
             "birth_date": "1934", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Vignelli, Lella", 
+            "first": "Lella", 
+            "fullname": "Lella Vignelli", 
             "irn": 678861, 
-            "name": "Vignelli, Lella", 
+            "last": "Vignelli", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Knoll International", 
+            "first": null, 
+            "fullname": "Knoll International", 
             "irn": 5864, 
-            "name": "Knoll International", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Knoll International", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "29 1/8 x 21 15/16 x 20 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64715, 
     "materials": "polyester and painted steel", 
     "on_view": false, 

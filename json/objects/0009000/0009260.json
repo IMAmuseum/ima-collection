@@ -2,12 +2,23 @@
     "accession_number": "73.2.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lepautre, Jean", 
+                "UlanIdNo": "500000036"
+            }, 
             "after_follower": null, 
             "birth_date": "1618", 
+            "collaboration": null, 
             "death_date": "1682", 
+            "display_name": "Lepautre, Jean", 
+            "first": "Jean", 
+            "fullname": "Jean Lepautre", 
             "irn": 600034, 
-            "name": "Lepautre, Jean", 
+            "last": "Lepautre", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/4 X 5 1/2 in. (image)\n10 5/8 X 7 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9260, 
     "materials": "engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Le Blond", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Le Blond", 
+            "first": null, 
+            "fullname": "Le Blond", 
             "irn": 2074, 
-            "name": "Le Blond"
+            "last": "Le Blond", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "73.2.41", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Babel, Pierre Edme", 
+                "UlanIdNo": "500016418"
+            }, 
             "after_follower": null, 
             "birth_date": "1710", 
+            "collaboration": null, 
             "death_date": "1775", 
+            "display_name": "Babel, Pierre Edme", 
+            "first": "Pierre", 
+            "fullname": "Pierre E. Babel", 
             "irn": 616048, 
-            "name": "Babel, Pierre Edme", 
+            "last": "Babel", 
+            "middle": "Edme", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 1/4 X 7 1/4 in.(image)\n14 3/4 X 9 3/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9076, 
     "materials": "engraving", 
     "on_view": false, 

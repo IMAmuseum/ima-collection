@@ -2,12 +2,23 @@
     "accession_number": "47.130", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Garrard, George", 
+                "UlanIdNo": "500019039"
+            }, 
             "after_follower": null, 
             "birth_date": "1760", 
+            "collaboration": null, 
             "death_date": "1826", 
+            "display_name": "Garrard, George", 
+            "first": "George", 
+            "fullname": "George Garrard", 
             "irn": 618618, 
-            "name": "Garrard, George", 
+            "last": "Garrard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "40 x 50 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 37272, 
     "materials": "oil on canvas", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "2004.120", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Peterdi, Gabor F.", 
+                "UlanIdNo": "500022299"
+            }, 
             "after_follower": null, 
             "birth_date": "1915", 
+            "collaboration": null, 
             "death_date": "2001", 
+            "display_name": "Peterdi, Gabor F.", 
+            "first": "Gabor", 
+            "fullname": "Gabor F. Peterdi", 
             "irn": 621818, 
-            "name": "Peterdi, Gabor F.", 
+            "last": "Peterdi", 
+            "middle": "F", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 1/5 x 10 5/8 in. (image)\n19 3/4 x 15 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62152, 
     "materials": "color etching and aquatint on white Arches", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Touchstone Publishers, Ltd.", 
+            "first": null, 
+            "fullname": "Touchstone Publishers, Ltd.", 
             "irn": 2793, 
-            "name": "Touchstone Publishers, Ltd."
+            "last": "Touchstone Publishers, Ltd.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 The Estate of Gabor F. Peterdi", 

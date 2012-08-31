@@ -2,12 +2,23 @@
     "accession_number": "1994.388", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Adams, Kenneth Miller", 
+                "UlanIdNo": "500003776"
+            }, 
             "after_follower": null, 
             "birth_date": "1897", 
+            "collaboration": null, 
             "death_date": "1966", 
+            "display_name": "Adams, Kenneth Miller", 
+            "first": "Kenneth", 
+            "fullname": "Kenneth M. Adams", 
             "irn": 603676, 
-            "name": "Adams, Kenneth Miller", 
+            "last": "Adams", 
+            "middle": "Miller", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "20 7/8 x 15 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 56092, 
     "materials": "lithograph", 
     "on_view": false, 

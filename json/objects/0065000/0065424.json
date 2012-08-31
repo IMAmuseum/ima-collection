@@ -2,21 +2,43 @@
     "accession_number": "2008.252", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pesce, Gaetano", 
+                "UlanIdNo": "500012401"
+            }, 
             "after_follower": null, 
             "birth_date": "1939", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Pesce, Gaetano", 
+            "first": "Gaetano", 
+            "fullname": "Gaetano Pesce", 
             "irn": 612112, 
-            "name": "Pesce, Gaetano", 
+            "last": "Pesce", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "C & B Italia", 
+            "first": null, 
+            "fullname": "C & B Italia", 
             "irn": 76, 
-            "name": "C & B Italia", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "C & B Italia", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "27 x 37 1/2 x 36 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65424, 
     "materials": "polyester, polyurethane, bast fiber, rubber, leather, and metal", 
     "on_view": false, 

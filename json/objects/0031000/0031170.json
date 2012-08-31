@@ -2,12 +2,23 @@
     "accession_number": "12.18", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "MacEwen, Walter", 
+                "UlanIdNo": "500021622"
+            }, 
             "after_follower": null, 
             "birth_date": "1860", 
+            "collaboration": null, 
             "death_date": "1943", 
+            "display_name": "MacEwen, Walter", 
+            "first": "Walter", 
+            "fullname": "Walter MacEwen", 
             "irn": 621157, 
-            "name": "MacEwen, Walter", 
+            "last": "MacEwen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "?", 
     "dynasty": null, 
+    "images": [], 
     "irn": 31170, 
     "materials": "oil on canvas", 
     "on_view": false, 

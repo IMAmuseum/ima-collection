@@ -2,21 +2,43 @@
     "accession_number": "1988.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": "500054662"
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Meissen Porcelain Manufactory", 
+            "first": null, 
+            "fullname": "Meissen Porcelain Manufactory", 
             "irn": 651846, 
-            "name": "Meissen Porcelain Manufactory", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Meissen Porcelain Manufactory", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }, 
         {
+            "ULAN": {
+                "Name": "Christian Friederich Herold", 
+                "UlanIdNo": null
+            }, 
             "after_follower": "Attributed to", 
             "birth_date": "1700", 
+            "collaboration": null, 
             "death_date": "1779", 
+            "display_name": "Christian Friederich Herold", 
+            "first": null, 
+            "fullname": "Christian Friederich Herold", 
             "irn": 2841, 
-            "name": "Christian Friederich Herold", 
+            "last": "Christian Friederich Herold", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Decorator"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "17 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16693, 
     "materials": "hard paste porcelain, polychrome enamels, gilding", 
     "on_view": false, 

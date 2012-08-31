@@ -2,21 +2,43 @@
     "accession_number": "73.23", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "S\u00e8vres Porcelain Manufactory", 
+            "first": null, 
+            "fullname": "S\u00e8vres Porcelain Manufactory", 
             "irn": 1180, 
-            "name": "S\u00e8vres Porcelain Manufactory", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "S\u00e8vres Porcelain Manufactory", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }, 
         {
+            "ULAN": {
+                "Name": "Auguste Rodin", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1840", 
+            "collaboration": null, 
             "death_date": "1917", 
+            "display_name": "Auguste Rodin", 
+            "first": "Auguste", 
+            "fullname": "Auguste Rodin", 
             "irn": 2817, 
-            "name": "Auguste Rodin", 
+            "last": "Rodin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Modeler"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "14 1/2 x 9 1/2 x 6 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26979, 
     "materials": "soft-paste biscuit porcelain", 
     "on_view": false, 

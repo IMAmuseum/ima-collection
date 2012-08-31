@@ -2,21 +2,43 @@
     "accession_number": "2010.16.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lovegrove, Ross", 
+                "UlanIdNo": "500070938"
+            }, 
             "after_follower": null, 
             "birth_date": "1958", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Lovegrove, Ross", 
+            "first": "Ross", 
+            "fullname": "Ross Lovegrove", 
             "irn": 667636, 
-            "name": "Lovegrove, Ross", 
+            "last": "Lovegrove", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Ty Nant Spring Water Ltd.", 
+            "first": null, 
+            "fullname": "Ty Nant Spring Water Ltd.", 
             "irn": 6267, 
-            "name": "Ty Nant Spring Water Ltd.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Ty Nant Spring Water Ltd.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "12 3/4 x 3 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64745, 
     "materials": "polyethylene terephthalate", 
     "on_view": false, 

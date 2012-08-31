@@ -2,12 +2,23 @@
     "accession_number": "1991.80", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mars, Ethel", 
+                "UlanIdNo": "500075220"
+            }, 
             "after_follower": null, 
             "birth_date": "1876", 
+            "collaboration": null, 
             "death_date": "1959", 
+            "display_name": "Mars, Ethel", 
+            "first": "Ethel", 
+            "fullname": "Ethel Mars", 
             "irn": 671872, 
-            "name": "Mars, Ethel", 
+            "last": "Mars", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 3/4 x 8 1/4 in. (image)\n12 1/8 x 11 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 12659, 
     "materials": "color woodblock print", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "80.1564.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Forrest, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1805", 
+            "collaboration": null, 
             "death_date": "1889", 
+            "display_name": "Forrest, William", 
+            "first": null, 
+            "fullname": "Forrest, William", 
             "irn": 1902, 
-            "name": "Forrest, William", 
+            "last": "Forrest, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40957, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

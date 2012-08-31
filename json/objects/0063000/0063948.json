@@ -2,12 +2,23 @@
     "accession_number": "2007.19", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Enneking, John Joseph", 
+                "UlanIdNo": "500023876"
+            }, 
             "after_follower": null, 
             "birth_date": "1841", 
+            "collaboration": null, 
             "death_date": "1916", 
+            "display_name": "Enneking, John Joseph", 
+            "first": "John", 
+            "fullname": "John J. Enneking", 
             "irn": 623360, 
-            "name": "Enneking, John Joseph", 
+            "last": "Enneking", 
+            "middle": "Joseph", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 3/4 x 13 15/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63948, 
     "materials": "watercolor on white cold-press watercolor paper", 
     "on_view": false, 

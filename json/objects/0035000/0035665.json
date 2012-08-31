@@ -2,12 +2,23 @@
     "accession_number": "71.106.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wyeth, Andrew Newell", 
+                "UlanIdNo": "500001266"
+            }, 
             "after_follower": null, 
             "birth_date": "1917", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Wyeth, Andrew Newell", 
+            "first": "Andrew", 
+            "fullname": "Andrew N. Wyeth", 
             "irn": 601233, 
-            "name": "Wyeth, Andrew Newell", 
+            "last": "Wyeth", 
+            "middle": "Newell", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 x 37 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35665, 
     "materials": "offset lithograph", 
     "on_view": false, 

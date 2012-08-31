@@ -2,12 +2,23 @@
     "accession_number": "72.88.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lear, Edward", 
+                "UlanIdNo": "500016261"
+            }, 
             "after_follower": null, 
             "birth_date": "1812", 
+            "collaboration": null, 
             "death_date": "1888", 
+            "display_name": "Lear, Edward", 
+            "first": "Edward", 
+            "fullname": "Edward Lear", 
             "irn": 615895, 
-            "name": "Lear, Edward", 
+            "last": "Lear", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 32524, 
     "materials": "pen and red-brown ink on blue paper", 
     "on_view": false, 

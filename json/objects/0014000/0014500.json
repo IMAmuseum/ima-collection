@@ -2,12 +2,23 @@
     "accession_number": "62.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hesselius, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1728", 
+            "collaboration": null, 
             "death_date": "1778", 
+            "display_name": "Hesselius, John", 
+            "first": null, 
+            "fullname": "Hesselius, John", 
             "irn": 1369, 
-            "name": "Hesselius, John", 
+            "last": "Hesselius, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 25 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14500, 
     "materials": "oil on canvas", 
     "on_view": false, 

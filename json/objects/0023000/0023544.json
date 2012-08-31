@@ -2,12 +2,23 @@
     "accession_number": "42.46", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mauny, Jacques", 
+                "UlanIdNo": "500020145"
+            }, 
             "after_follower": null, 
             "birth_date": "1893", 
+            "collaboration": null, 
             "death_date": "1962", 
+            "display_name": "Mauny, Jacques", 
+            "first": "Jacques", 
+            "fullname": "Jacques Mauny", 
             "irn": 619705, 
-            "name": "Mauny, Jacques", 
+            "last": "Mauny", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 x 21 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 23544, 
     "materials": "oil on canvas", 
     "on_view": false, 

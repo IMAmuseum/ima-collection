@@ -2,12 +2,23 @@
     "accession_number": "32.132", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Davies, Arthur Bowen", 
+                "UlanIdNo": "500013464"
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1928", 
+            "display_name": "Davies, Arthur Bowen", 
+            "first": "Arthur", 
+            "fullname": "Arthur B. Davies", 
             "irn": 613149, 
-            "name": "Davies, Arthur Bowen", 
+            "last": "Davies", 
+            "middle": "Bowen", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,14 +27,28 @@
     "cultures": [], 
     "dimensions": "5 1/8 x 7 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20950, 
     "materials": "transfer lithograph", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "George C. Miller & Son", 
+            "first": null, 
+            "fullname": "George C. Miller & Son", 
             "irn": 6303, 
-            "name": "George C. Miller & Son"
+            "last": null, 
+            "middle": null, 
+            "organization": "George C. Miller & Son", 
+            "party_type": "Organisation"
         }
     ], 
     "publishers": [], 

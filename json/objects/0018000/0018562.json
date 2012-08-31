@@ -2,12 +2,23 @@
     "accession_number": "70.64A-C", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rauschenberg, Robert", 
+                "UlanIdNo": "500002941"
+            }, 
             "after_follower": null, 
             "birth_date": "1925", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Rauschenberg, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Rauschenberg", 
             "irn": 602875, 
-            "name": "Rauschenberg, Robert", 
+            "last": "Rauschenberg", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 18562, 
     "materials": "ink", 
     "on_view": false, 

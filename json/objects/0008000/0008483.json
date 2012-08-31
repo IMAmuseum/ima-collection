@@ -2,12 +2,23 @@
     "accession_number": "1991.273", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Schmidt, Johann Heinrich", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1749", 
+            "collaboration": null, 
             "death_date": "1829", 
+            "display_name": "Schmidt, Johann Heinrich", 
+            "first": "Johann Wilhelm", 
+            "fullname": "Johann Wilhelm H. Schmidt", 
             "irn": 520, 
-            "name": "Schmidt, Johann Heinrich", 
+            "last": "Schmidt", 
+            "middle": "Heinrich", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 8483, 
     "materials": "pastel on paper", 
     "on_view": false, 

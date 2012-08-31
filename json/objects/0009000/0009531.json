@@ -2,12 +2,23 @@
     "accession_number": "55.30", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Brouwer, Cornelis", 
+                "UlanIdNo": "500111007"
+            }, 
             "after_follower": null, 
             "birth_date": "1751", 
+            "collaboration": null, 
             "death_date": "1802", 
+            "display_name": "Brouwer, Cornelis", 
+            "first": "Cornelis", 
+            "fullname": "Cornelis Brouwer", 
             "irn": 707308, 
-            "name": "Brouwer, Cornelis", 
+            "last": "Brouwer", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 9531, 
     "materials": "gray wash on paper", 
     "on_view": false, 

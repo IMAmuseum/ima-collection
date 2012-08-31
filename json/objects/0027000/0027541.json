@@ -2,12 +2,23 @@
     "accession_number": "1992.83", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hartung, Hans", 
+                "UlanIdNo": "500003694"
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1989", 
+            "display_name": "Hartung, Hans", 
+            "first": "Hans", 
+            "fullname": "Hans Hartung", 
             "irn": 603598, 
-            "name": "Hartung, Hans", 
+            "last": "Hartung", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 22 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 27541, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Erker Presse, St. Gallen", 
+            "first": null, 
+            "fullname": "Erker Presse, St. Gallen", 
             "irn": 5133, 
-            "name": "Erker Presse, St. Gallen"
+            "last": "Erker Presse, St. Gallen", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

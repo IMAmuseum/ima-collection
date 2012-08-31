@@ -2,12 +2,23 @@
     "accession_number": "81.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Baudry, Paul Jacques Aim\u00e9", 
+                "UlanIdNo": "500021687"
+            }, 
             "after_follower": null, 
             "birth_date": "1828", 
+            "collaboration": null, 
             "death_date": "1886", 
+            "display_name": "Baudry, Paul Jacques Aim\u00e9", 
+            "first": "Paul", 
+            "fullname": "Paul J. Baudry", 
             "irn": 621222, 
-            "name": "Baudry, Paul Jacques Aim\u00e9", 
+            "last": "Baudry", 
+            "middle": "Jacques Aim\u00e9", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "27 x 16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13833, 
     "materials": "oil on canvas", 
     "on_view": false, 

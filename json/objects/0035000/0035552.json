@@ -2,12 +2,23 @@
     "accession_number": "73.47.23D", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Adams, John Ottis", 
+                "UlanIdNo": "500014715"
+            }, 
             "after_follower": null, 
             "birth_date": "1851", 
+            "collaboration": null, 
             "death_date": "1927", 
+            "display_name": "Adams, John Ottis", 
+            "first": "John", 
+            "fullname": "John O. Adams", 
             "irn": 614379, 
-            "name": "Adams, John Ottis", 
+            "last": "Adams", 
+            "middle": "Ottis", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/4 x 5 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35552, 
     "materials": "pencil on off-white paper", 
     "on_view": false, 

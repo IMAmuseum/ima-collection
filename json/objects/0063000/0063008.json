@@ -2,12 +2,23 @@
     "accession_number": "LH2003.27R-S", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "William Shakespeare", 
+            "first": "William", 
+            "fullname": "William Shakespeare", 
             "irn": 3000, 
-            "name": "William Shakespeare", 
+            "last": "Shakespeare", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 1/8 x 6 1/2 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63008, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Merrill and Baker", 
+            "first": null, 
+            "fullname": "Merrill and Baker", 
             "irn": 3001, 
-            "name": "Merrill and Baker"
+            "last": "Merrill and Baker", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

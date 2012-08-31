@@ -2,12 +2,23 @@
     "accession_number": "2009.569", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Schrag, Karl", 
+                "UlanIdNo": "500055512"
+            }, 
             "after_follower": null, 
             "birth_date": "1912", 
+            "collaboration": null, 
             "death_date": "1995", 
+            "display_name": "Schrag, Karl", 
+            "first": "Karl", 
+            "fullname": "Karl Schrag", 
             "irn": 652667, 
-            "name": "Schrag, Karl", 
+            "last": "Schrag", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "23 3/4 x 19 3/4 in. (image)\n27 7/8 x 22 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68268, 
     "materials": "aquatint on cream wove paper", 
     "on_view": false, 

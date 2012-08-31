@@ -2,12 +2,23 @@
     "accession_number": "1997.150", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Alf Wallander", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1914", 
+            "display_name": "Alf Wallander", 
+            "first": "Alf", 
+            "fullname": "Alf Wallander", 
             "irn": 2822, 
-            "name": "Alf Wallander", 
+            "last": "Wallander", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "49 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 21997, 
     "materials": "glazed earthenware", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "2001.195", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Manessier, Alfred", 
+                "UlanIdNo": "500010362"
+            }, 
             "after_follower": null, 
             "birth_date": "1911", 
+            "collaboration": null, 
             "death_date": "1993", 
+            "display_name": "Manessier, Alfred", 
+            "first": "Alfred", 
+            "fullname": "Alfred Manessier", 
             "irn": 610114, 
-            "name": "Manessier, Alfred", 
+            "last": "Manessier", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45448, 
     "materials": "color lithograph", 
     "on_view": false, 

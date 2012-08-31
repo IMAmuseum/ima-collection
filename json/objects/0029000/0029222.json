@@ -2,12 +2,23 @@
     "accession_number": "72.12.138A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Shahn, Ben", 
+                "UlanIdNo": "500005524"
+            }, 
             "after_follower": null, 
             "birth_date": "1898", 
+            "collaboration": null, 
             "death_date": "1969", 
+            "display_name": "Shahn, Ben", 
+            "first": "Ben", 
+            "fullname": "Ben Shahn", 
             "irn": 605378, 
-            "name": "Shahn, Ben", 
+            "last": "Shahn", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 29222, 
     "materials": "color lithograph", 
     "on_view": false, 

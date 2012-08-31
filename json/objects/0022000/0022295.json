@@ -2,12 +2,23 @@
     "accession_number": "24.124", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Morris, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1834", 
+            "collaboration": null, 
             "death_date": "1896", 
+            "display_name": "Morris, William", 
+            "first": "William", 
+            "fullname": "William Morris", 
             "irn": 788, 
-            "name": "Morris, William", 
+            "last": "Morris", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 22295, 
     "materials": "ink on paper", 
     "on_view": false, 

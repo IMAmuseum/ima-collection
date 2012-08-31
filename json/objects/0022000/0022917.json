@@ -2,12 +2,23 @@
     "accession_number": "09.12A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pyne, William Henry", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1769", 
+            "collaboration": null, 
             "death_date": "1843", 
+            "display_name": "Pyne, William Henry", 
+            "first": null, 
+            "fullname": "Pyne, William Henry", 
             "irn": 793, 
-            "name": "Pyne, William Henry", 
+            "last": "Pyne, William Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 22917, 
     "materials": "etching", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "73.84.85", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nash, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1752-1835", 
+            "collaboration": null, 
             "death_date": "1752-1835", 
+            "display_name": "Nash, John", 
+            "first": null, 
+            "fullname": "Nash, John", 
             "irn": 2132, 
-            "name": "Nash, John", 
+            "last": "Nash, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16327, 
     "materials": "hand-colored aquatint", 
     "on_view": false, 

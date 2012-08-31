@@ -2,12 +2,23 @@
     "accession_number": "81.683", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Motherwell, Robert", 
+                "UlanIdNo": "500016415"
+            }, 
             "after_follower": null, 
             "birth_date": "1915", 
+            "collaboration": null, 
             "death_date": "1991", 
+            "display_name": "Motherwell, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Motherwell", 
             "irn": 616045, 
-            "name": "Motherwell, Robert", 
+            "last": "Motherwell", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 19787, 
     "materials": "screenprint", 
     "on_view": false, 

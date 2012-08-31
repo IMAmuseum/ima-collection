@@ -2,21 +2,43 @@
     "accession_number": "2011.268", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1921", 
+            "collaboration": null, 
             "death_date": "1992", 
+            "display_name": "Ingeborg Lundin", 
+            "first": "Ingeborg", 
+            "fullname": "Ingeborg Lundin", 
             "irn": 8277, 
-            "name": "Ingeborg Lundin", 
+            "last": "Lundin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Orrefors Glasbruk", 
+            "first": null, 
+            "fullname": null, 
             "irn": 8278, 
-            "name": "Orrefors Glasbruk", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Orrefors Glasbruk", 
+            "party_type": "Art and Architecture Thesaurus", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "6 1/4 x 4 x 4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73798, 
     "materials": "glass", 
     "on_view": false, 

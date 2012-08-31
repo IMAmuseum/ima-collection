@@ -2,12 +2,23 @@
     "accession_number": "2007.67", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Papart, Max", 
+                "UlanIdNo": "500007383"
+            }, 
             "after_follower": null, 
             "birth_date": "1911", 
+            "collaboration": null, 
             "death_date": "1994", 
+            "display_name": "Papart, Max", 
+            "first": "Max", 
+            "fullname": "Max Papart", 
             "irn": 607202, 
-            "name": "Papart, Max", 
+            "last": "Papart", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 3/4 x 22 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64566, 
     "materials": "carborundum gravure with collage on hand-made paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Kenneth Nahan", 
+            "first": "Kenneth", 
+            "fullname": "Kenneth Nahan", 
             "irn": 5704, 
-            "name": "Kenneth Nahan"
+            "last": "Nahan", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 

@@ -2,21 +2,43 @@
     "accession_number": "1990.42", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "S\u00e8vres Porcelain Manufactory", 
+            "first": null, 
+            "fullname": "S\u00e8vres Porcelain Manufactory", 
             "irn": 1180, 
-            "name": "S\u00e8vres Porcelain Manufactory", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "S\u00e8vres Porcelain Manufactory", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }, 
         {
+            "ULAN": {
+                "Name": "Pierre-Antoine M\u00e9reaud", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Pierre-Antoine M\u00e9reaud", 
+            "first": null, 
+            "fullname": "Pierre-Antoine M\u00e9reaud", 
             "irn": 2829, 
-            "name": "Pierre-Antoine M\u00e9reaud", 
+            "last": "Pierre-Antoine M\u00e9reaud", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Decorator"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "5 7/8 x 9 x 4 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17185, 
     "materials": "soft-paste porcelain, polychrome enamels, gilding", 
     "on_view": false, 

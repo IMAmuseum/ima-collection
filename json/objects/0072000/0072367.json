@@ -2,12 +2,23 @@
     "accession_number": "2011.234", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Snyder, Joan", 
+                "UlanIdNo": "500018221"
+            }, 
             "after_follower": null, 
             "birth_date": "1940", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Snyder, Joan", 
+            "first": "Joan", 
+            "fullname": "Joan Snyder", 
             "irn": 617815, 
-            "name": "Snyder, Joan", 
+            "last": "Snyder", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "30 1/4 x 44 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 72367, 
     "materials": "lithograph with hand-coloring on white wove BFK Rives paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "John Hutcheson", 
+            "first": "John", 
+            "fullname": "John Hutcheson", 
             "irn": 7827, 
-            "name": "John Hutcheson"
+            "last": "Hutcheson", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Mount Holyoke College Printmaking Workshop", 
+            "first": null, 
+            "fullname": "Mount Holyoke College Printmaking Workshop", 
             "irn": 7828, 
-            "name": "Mount Holyoke College Printmaking Workshop"
+            "last": null, 
+            "middle": null, 
+            "organization": "Mount Holyoke College Printmaking Workshop", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": null, 

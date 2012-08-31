@@ -2,12 +2,23 @@
     "accession_number": "69.28.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Francis, Sam", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1923", 
+            "collaboration": null, 
             "death_date": "1994", 
+            "display_name": "Francis, Sam", 
+            "first": null, 
+            "fullname": "Francis, Sam", 
             "irn": 576, 
-            "name": "Francis, Sam", 
+            "last": "Francis, Sam", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 1/2 x 24 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 5875, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Universal Limited Art Editions", 
+            "first": null, 
+            "fullname": "Universal Limited Art Editions", 
             "irn": 2186, 
-            "name": "Universal Limited Art Editions"
+            "last": "Universal Limited Art Editions", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

@@ -2,12 +2,23 @@
     "accession_number": "75.658", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lamerie, Paul de", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1688", 
+            "collaboration": null, 
             "death_date": "1751", 
+            "display_name": "Lamerie, Paul de", 
+            "first": "Paul", 
+            "fullname": "Paul d. Lamerie", 
             "irn": 1702, 
-            "name": "Lamerie, Paul de", 
+            "last": "Lamerie", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 13779, 
     "materials": null, 
     "on_view": false, 

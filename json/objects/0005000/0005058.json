@@ -2,21 +2,43 @@
     "accession_number": "30.982", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hogarth, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": "After", 
             "birth_date": "1697", 
+            "collaboration": null, 
             "death_date": "1764", 
+            "display_name": "Hogarth, William", 
+            "first": "William", 
+            "fullname": "William Hogarth", 
             "irn": 1045, 
-            "name": "Hogarth, William", 
+            "last": "Hogarth", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Ravenet, Simon Fran\u00e7ois", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1706-1774", 
+            "collaboration": null, 
             "death_date": "1706-1774", 
+            "display_name": "Ravenet, Simon Fran\u00e7ois", 
+            "first": null, 
+            "fullname": "Ravenet, Simon Fran\u00e7ois", 
             "irn": 2251, 
-            "name": "Ravenet, Simon Fran\u00e7ois", 
+            "last": "Ravenet, Simon Fran\u00e7ois", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,9 +47,10 @@
     "cultures": [], 
     "dimensions": "13 7/8 x 17 5/8 in. (image)\n17 x 21 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 5058, 
     "materials": "etching and engraving", 
-    "on_view": false, 
+    "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 

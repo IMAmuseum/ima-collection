@@ -2,12 +2,23 @@
     "accession_number": "72.161.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fraser, Robert Winchester, of Huntingdonshire", 
+                "UlanIdNo": "500074602"
+            }, 
             "after_follower": null, 
             "birth_date": "1848", 
+            "collaboration": null, 
             "death_date": "1906", 
+            "display_name": "Fraser, Robert Winchester, of Huntingdonshire", 
+            "first": "Robert", 
+            "fullname": "Robert W. Fraser", 
             "irn": 671261, 
-            "name": "Fraser, Robert Winchester, of Huntingdonshire", 
+            "last": "Fraser", 
+            "middle": "Winchester, of Huntingdonshire", 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 5/8 x 19 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4194, 
     "materials": "watercolor on white paper", 
     "on_view": false, 

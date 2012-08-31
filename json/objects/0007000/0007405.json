@@ -2,21 +2,43 @@
     "accession_number": "10.199", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Hiroshige", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1797", 
+            "collaboration": null, 
             "death_date": "1858", 
+            "display_name": "Utagawa Hiroshige", 
+            "first": null, 
+            "fullname": "Utagawa Hiroshige", 
             "irn": 592, 
-            "name": "Utagawa Hiroshige", 
+            "last": "Utagawa Hiroshige", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Horitake", 
+            "first": null, 
+            "fullname": "Horitake", 
             "irn": 3409, 
-            "name": "Horitake", 
+            "last": "Horitake", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Engraver"
         }
     ], 
@@ -25,14 +47,28 @@
     "cultures": [], 
     "dimensions": "13-1/2 x 9- 1/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7405, 
     "materials": "color woodblock print", 
     "on_view": false, 
     "period": "Edo", 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Koshimura-ya Heisuke", 
+            "first": null, 
+            "fullname": "Koshimura-ya Heisuke", 
             "irn": 2504, 
-            "name": "Koshimura-ya Heisuke"
+            "last": "Koshimura-ya Heisuke", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "publishers": [], 

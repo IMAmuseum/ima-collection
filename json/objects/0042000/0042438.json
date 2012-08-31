@@ -2,21 +2,43 @@
     "accession_number": "80.736.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Say, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1768", 
+            "collaboration": null, 
             "death_date": "1834", 
+            "display_name": "Say, William", 
+            "first": null, 
+            "fullname": "Say, William", 
             "irn": 426, 
-            "name": "Say, William", 
+            "last": "Say, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42438, 
     "materials": "mezzotint over etching", 
     "on_view": false, 

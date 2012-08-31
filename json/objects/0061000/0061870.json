@@ -2,12 +2,23 @@
     "accession_number": "LH2003.52A-L", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "James F. Cooper", 
+            "first": "James", 
+            "fullname": "James F. Cooper", 
             "irn": 3036, 
-            "name": "James F. Cooper", 
+            "last": "Cooper", 
+            "middle": "Fenimore", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/4 x 5 7/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61870, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Thomas Y. Crowell Co.", 
+            "first": null, 
+            "fullname": "Thomas Y. Crowell Co.", 
             "irn": 3037, 
-            "name": "Thomas Y. Crowell Co."
+            "last": "Thomas Y. Crowell Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

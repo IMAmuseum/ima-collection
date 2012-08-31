@@ -2,21 +2,43 @@
     "accession_number": "2010.12.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1964", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Alfredo Haberli", 
+            "first": "Alfredo", 
+            "fullname": "Alfredo Haberli", 
             "irn": 5655, 
-            "name": "Alfredo Haberli", 
+            "last": "Haberli", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Iittala", 
+            "first": null, 
+            "fullname": "Iittala", 
             "irn": 6312, 
-            "name": "Iittala", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Iittala", 
+            "party_type": "Organisation", 
             "role": "manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "7 1/2 x 3 1/4 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64700, 
     "materials": "glass", 
     "on_view": false, 

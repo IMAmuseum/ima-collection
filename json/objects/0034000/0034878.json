@@ -2,21 +2,43 @@
     "accession_number": "56.83", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sartain, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1808-1897", 
+            "collaboration": null, 
             "death_date": "1808-1897", 
+            "display_name": "Sartain, John", 
+            "first": null, 
+            "fullname": "Sartain, John", 
             "irn": 2065, 
-            "name": "Sartain, John", 
+            "last": "Sartain, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Cogswell, William F.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1819", 
+            "collaboration": null, 
             "death_date": "1903", 
+            "display_name": "Cogswell, William F.", 
+            "first": null, 
+            "fullname": "Cogswell, William F.", 
             "irn": 2213, 
-            "name": "Cogswell, William F.", 
+            "last": "Cogswell, William F.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 34878, 
     "materials": "engraving", 
     "on_view": false, 

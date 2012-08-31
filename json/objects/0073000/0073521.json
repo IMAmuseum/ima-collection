@@ -2,38 +2,72 @@
     "accession_number": "MH2010.487.1-.11", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girard, Alexander Hayden", 
+                "UlanIdNo": "500096402"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1993", 
+            "display_name": "Girard, Alexander Hayden", 
+            "first": "Alexander", 
+            "fullname": "Alexander H. Girard", 
             "irn": 692846, 
-            "name": "Girard, Alexander Hayden", 
+            "last": "Girard", 
+            "middle": "Hayden", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hutschenreuther", 
+            "first": null, 
+            "fullname": null, 
             "irn": 8577, 
-            "name": "Hutschenreuther", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Hutschenreuther", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Georg Jensen A/S", 
+            "first": null, 
+            "fullname": "Georg Jensen A/S", 
             "irn": 6217, 
-            "name": "Georg Jensen A/S", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Georg Jensen A/S", 
+            "party_type": "Organisation", 
             "role": "Retailer"
         }
     ], 
     "creation_date": "1956", 
     "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
-    "dimensions": "1 1/2 x 10 1/2 (diam). in.", 
+    "dimensions": "1 1/2 x 10 1/2 (diam). in. each", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73521, 
     "materials": "painted porcelain", 
     "on_view": false, 
@@ -41,5 +75,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Set of 11 Hexagon pattern dinner plates (small)"
+    "title": "set of 11 Hexagon pattern dinner plates (small)"
 }

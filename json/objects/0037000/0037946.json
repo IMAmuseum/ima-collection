@@ -2,21 +2,43 @@
     "accession_number": "80.825.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Burghers, Michael", 
+                "UlanIdNo": "500095021"
+            }, 
             "after_follower": null, 
             "birth_date": "1653", 
+            "collaboration": null, 
             "death_date": "1727", 
+            "display_name": "Burghers, Michael", 
+            "first": "Michael", 
+            "fullname": "Michael Burghers", 
             "irn": 691477, 
-            "name": "Burghers, Michael", 
+            "last": "Burghers", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Vertue, George", 
+                "UlanIdNo": "500013594"
+            }, 
             "after_follower": null, 
             "birth_date": "1684", 
+            "collaboration": null, 
             "death_date": "1756", 
+            "display_name": "Vertue, George", 
+            "first": "George", 
+            "fullname": "George Vertue", 
             "irn": 613277, 
-            "name": "Vertue, George", 
+            "last": "Vertue", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37946, 
     "materials": "engraving", 
     "on_view": false, 

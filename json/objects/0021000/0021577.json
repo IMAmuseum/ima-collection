@@ -2,12 +2,23 @@
     "accession_number": "39.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Courbet, Gustave", 
+                "UlanIdNo": "500010927"
+            }, 
             "after_follower": null, 
             "birth_date": "1819", 
+            "collaboration": null, 
             "death_date": "1877", 
+            "display_name": "Courbet, Gustave", 
+            "first": "Gustave", 
+            "fullname": "Gustave Courbet", 
             "irn": 610669, 
-            "name": "Courbet, Gustave", 
+            "last": "Courbet", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "22 3/4 x 29 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 21577, 
     "materials": "oil on canvas", 
     "on_view": true, 

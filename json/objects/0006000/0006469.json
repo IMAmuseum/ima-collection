@@ -2,12 +2,23 @@
     "accession_number": "S0840.75.9.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Rosenthal GmbH", 
+            "first": null, 
+            "fullname": "Rosenthal GmbH", 
             "irn": 7430, 
-            "name": "Rosenthal GmbH", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Rosenthal GmbH", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 6469, 
     "materials": "porcelain", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "58.89", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Eeckhout, Gerbrand van den", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1621", 
+            "collaboration": null, 
             "death_date": "1674", 
+            "display_name": "Eeckhout, Gerbrand van den", 
+            "first": "Gerbrand", 
+            "fullname": "Gerbrand v. Eeckhout", 
             "irn": 655, 
-            "name": "Eeckhout, Gerbrand van den", 
+            "last": "Eeckhout", 
+            "middle": "van den", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 5/8 x 8 1/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 19058, 
     "materials": "oil on wood", 
     "on_view": true, 

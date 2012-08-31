@@ -2,12 +2,23 @@
     "accession_number": "44.52", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "John Singer Sargent", 
+                "UlanIdNo": "500023972"
+            }, 
             "after_follower": null, 
             "birth_date": "1856", 
+            "collaboration": null, 
             "death_date": "1925", 
+            "display_name": "John Singer Sargent", 
+            "first": "John", 
+            "fullname": "John S. Sargent", 
             "irn": 1494, 
-            "name": "John Singer Sargent", 
+            "last": "Sargent", 
+            "middle": "Singer", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 5/8 x 20 1/2 in", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30477, 
     "materials": "watercolor over pencil on off-white paper", 
     "on_view": false, 

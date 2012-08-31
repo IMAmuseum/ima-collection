@@ -2,12 +2,23 @@
     "accession_number": "71.214.33", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Christofle", 
+            "first": null, 
+            "fullname": "Christofle", 
             "irn": 5570, 
-            "name": "Christofle", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Christofle", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 1/2 x 12 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 36585, 
     "materials": "silver, wood", 
     "on_view": false, 

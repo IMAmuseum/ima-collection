@@ -2,12 +2,23 @@
     "accession_number": "73.84.58", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Goodwin, Francis", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Goodwin, Francis", 
+            "first": null, 
+            "fullname": "Goodwin, Francis", 
             "irn": 1086, 
-            "name": "Goodwin, Francis", 
+            "last": "Goodwin, Francis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 25991, 
     "materials": "hand-colored aquatint", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Goodwin, Francis", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Goodwin, Francis", 
+            "first": null, 
+            "fullname": "Goodwin, Francis", 
             "irn": 1086, 
-            "name": "Goodwin, Francis"
+            "last": "Goodwin, Francis", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

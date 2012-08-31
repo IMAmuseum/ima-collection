@@ -2,12 +2,23 @@
     "accession_number": "LH2003.60A-J", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Gustave Flaubert", 
+            "first": "Gustave", 
+            "fullname": "Gustave Flaubert", 
             "irn": 3046, 
-            "name": "Gustave Flaubert", 
+            "last": "Flaubert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 x 5 3/4 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61878, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "St. Dunstan Society", 
+            "first": null, 
+            "fullname": "St. Dunstan Society", 
             "irn": 3047, 
-            "name": "St. Dunstan Society"
+            "last": "St. Dunstan Society", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

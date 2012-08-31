@@ -6,6 +6,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 22460, 
     "materials": "engraving", 
     "on_view": false, 
@@ -13,8 +14,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Galle, Philip", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1537", 
+            "collaboration": null, 
+            "death_date": "1612", 
+            "display_name": "Galle, Philip", 
+            "first": null, 
+            "fullname": "Galle, Philip", 
             "irn": 2052, 
-            "name": "Galle, Philip"
+            "last": "Galle, Philip", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

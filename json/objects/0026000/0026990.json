@@ -2,12 +2,23 @@
     "accession_number": "76.237", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pierre, Jean Baptiste Marie", 
+                "UlanIdNo": "500001529"
+            }, 
             "after_follower": null, 
             "birth_date": "1714", 
+            "collaboration": null, 
             "death_date": "1789", 
+            "display_name": "Pierre, Jean Baptiste Marie", 
+            "first": "Jean", 
+            "fullname": "Jean B. Pierre", 
             "irn": 240, 
-            "name": "Pierre, Jean Baptiste Marie", 
+            "last": "Pierre", 
+            "middle": "Baptiste Marie", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "35 5/8 x 39 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26990, 
     "materials": "oil on canvas", 
     "on_view": true, 

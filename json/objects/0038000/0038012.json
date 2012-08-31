@@ -2,21 +2,43 @@
     "accession_number": "80.825.78", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dayes, Edward", 
+                "UlanIdNo": "500001156"
+            }, 
             "after_follower": null, 
             "birth_date": "1763", 
+            "collaboration": null, 
             "death_date": "1804", 
+            "display_name": "Dayes, Edward", 
+            "first": "Edward", 
+            "fullname": "Edward Dayes", 
             "irn": 601126, 
-            "name": "Dayes, Edward", 
+            "last": "Dayes", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Basire, James II", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1769", 
+            "collaboration": null, 
             "death_date": "1822", 
+            "display_name": "Basire, James II", 
+            "first": null, 
+            "fullname": "Basire, James II", 
             "irn": 1790, 
-            "name": "Basire, James II", 
+            "last": "Basire, James II", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38012, 
     "materials": "engraving", 
     "on_view": false, 

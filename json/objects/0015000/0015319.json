@@ -2,12 +2,23 @@
     "accession_number": "1983.111", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fiorino, Jeremias David Alexander", 
+                "UlanIdNo": "500072727"
+            }, 
             "after_follower": null, 
             "birth_date": "1797", 
+            "collaboration": null, 
             "death_date": "1847", 
+            "display_name": "Fiorino, Jeremias David Alexander", 
+            "first": "Jeremias", 
+            "fullname": "Jeremias D. Fiorino", 
             "irn": 669408, 
-            "name": "Fiorino, Jeremias David Alexander", 
+            "last": "Fiorino", 
+            "middle": "David Alexander", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "3 1/4 x 2 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15319, 
     "materials": "watercolor on paper", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2011.24", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Moses, Ed", 
+                "UlanIdNo": "500015112"
+            }, 
             "after_follower": null, 
             "birth_date": "1926", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Moses, Ed", 
+            "first": "Ed", 
+            "fullname": "Ed Moses", 
             "irn": 614771, 
-            "name": "Moses, Ed", 
+            "last": "Moses", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,14 +27,28 @@
     "cultures": [], 
     "dimensions": "23 1/2 x 17 1/2 in. (image)\n32 7/8 x 25 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71365, 
     "materials": "etching and aquatint on off-white wove paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Lapsis Press", 
+            "first": "Ihuru", 
+            "fullname": "Lapsis Press", 
             "irn": 7450, 
-            "name": "Lapsis Press"
+            "last": "Kuwahara", 
+            "middle": null, 
+            "organization": "Lapsis Press", 
+            "party_type": "Organisation"
         }
     ], 
     "publishers": [], 

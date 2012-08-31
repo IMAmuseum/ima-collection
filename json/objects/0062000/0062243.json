@@ -2,12 +2,23 @@
     "accession_number": "LH2003.90A-D", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Laurence Sterne", 
+            "first": "Laurence", 
+            "fullname": "Laurence Sterne", 
             "irn": 3152, 
-            "name": "Laurence Sterne", 
+            "last": "Sterne", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/4 x 5 7/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62243, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "J. Johnson", 
+            "first": null, 
+            "fullname": "J. Johnson", 
             "irn": 3006, 
-            "name": "J. Johnson"
+            "last": "J. Johnson", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "32.143", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Maillol, Aristide", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1861", 
+            "collaboration": null, 
             "death_date": "1944", 
+            "display_name": "Maillol, Aristide", 
+            "first": "Aristide", 
+            "fullname": "Aristide Maillol", 
             "irn": 589, 
-            "name": "Maillol, Aristide", 
+            "last": "Maillol", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 3/4 x 5 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1111, 
     "materials": "lithograph", 
     "on_view": false, 

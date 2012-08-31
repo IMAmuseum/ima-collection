@@ -2,12 +2,23 @@
     "accession_number": "67.11.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Halm, Peter von", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1854", 
+            "collaboration": null, 
             "death_date": "1923", 
+            "display_name": "Halm, Peter von", 
+            "first": null, 
+            "fullname": "Halm, Peter von", 
             "irn": 2105, 
-            "name": "Halm, Peter von", 
+            "last": "Halm, Peter von", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 18106, 
     "materials": "etching", 
     "on_view": false, 

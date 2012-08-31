@@ -2,12 +2,23 @@
     "accession_number": "2008.286", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bishop, James", 
+                "UlanIdNo": "500116149"
+            }, 
             "after_follower": null, 
             "birth_date": "1927", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bishop, James", 
+            "first": "James", 
+            "fullname": "James Bishop", 
             "irn": 711009, 
-            "name": "Bishop, James", 
+            "last": "Bishop", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "22 1/8 x 22 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66201, 
     "materials": "oil on paper", 
     "on_view": false, 

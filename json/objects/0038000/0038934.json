@@ -2,12 +2,23 @@
     "accession_number": "2000.103", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Walter, Martha", 
+                "UlanIdNo": "500019832"
+            }, 
             "after_follower": null, 
             "birth_date": "1875", 
+            "collaboration": null, 
             "death_date": "1976", 
+            "display_name": "Walter, Martha", 
+            "first": "Martha", 
+            "fullname": "Martha Walter", 
             "irn": 619401, 
-            "name": "Walter, Martha", 
+            "last": "Walter", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38934, 
     "materials": "watercolor on white paper", 
     "on_view": false, 

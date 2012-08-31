@@ -2,30 +2,63 @@
     "accession_number": "MH2010.36.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Eames, Charles", 
+                "UlanIdNo": "500029567"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1978", 
+            "display_name": "Eames, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Eames", 
             "irn": 628931, 
-            "name": "Eames, Charles", 
+            "last": "Eames", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Eames, Ray Kaiser", 
+                "UlanIdNo": "500027192"
+            }, 
             "after_follower": null, 
             "birth_date": "1912", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Eames, Ray Kaiser", 
+            "first": "Ray", 
+            "fullname": "Ray K. Eames", 
             "irn": 626605, 
-            "name": "Eames, Ray Kaiser", 
+            "last": "Eames", 
+            "middle": "Kaiser", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
-            "irn": 6896, 
-            "name": "Knoll", 
+            "display_name": "Herman Miller", 
+            "first": null, 
+            "fullname": null, 
+            "irn": 8322, 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Herman Miller", 
+            "party_type": null, 
             "role": "manufacturer"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "30 x 25 x 25 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69172, 
     "materials": "Naugahyde, fiberglass, aluminum", 
     "on_view": true, 

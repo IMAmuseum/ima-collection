@@ -2,12 +2,23 @@
     "accession_number": "09.359", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fittler, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1758", 
+            "collaboration": null, 
             "death_date": "1835", 
+            "display_name": "Fittler, James", 
+            "first": null, 
+            "fullname": "Fittler, James", 
             "irn": 1016, 
-            "name": "Fittler, James", 
+            "last": "Fittler, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 10686, 
     "materials": "engraving", 
     "on_view": false, 

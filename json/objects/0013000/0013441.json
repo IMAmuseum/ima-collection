@@ -2,12 +2,23 @@
     "accession_number": "1992.289", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Evans, Walker", 
+                "UlanIdNo": "500012076"
+            }, 
             "after_follower": null, 
             "birth_date": "1903", 
+            "collaboration": null, 
             "death_date": "1975", 
+            "display_name": "Evans, Walker", 
+            "first": "Walker", 
+            "fullname": "Walker Evans", 
             "irn": 611793, 
-            "name": "Evans, Walker", 
+            "last": "Evans", 
+            "middle": null, 
             "nationality": "American", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Photographer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 9/16 x 7 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13441, 
     "materials": "gelatin silver print", 
     "on_view": false, 

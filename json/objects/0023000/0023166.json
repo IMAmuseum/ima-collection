@@ -2,12 +2,23 @@
     "accession_number": "73.54.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jones, Alfred", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Jones, Alfred", 
+            "first": null, 
+            "fullname": "Jones, Alfred", 
             "irn": 517, 
-            "name": "Jones, Alfred", 
+            "last": "Jones, Alfred", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 23166, 
     "materials": "ink", 
     "on_view": false, 

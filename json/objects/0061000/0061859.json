@@ -2,21 +2,43 @@
     "accession_number": "LH2003.41A-J", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Francis Beaumont", 
+            "first": "Francis", 
+            "fullname": "Francis Beaumont", 
             "irn": 3021, 
-            "name": "Francis Beaumont", 
+            "last": "Beaumont", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "John Fletcher", 
+            "first": "John", 
+            "fullname": "John Fletcher", 
             "irn": 3022, 
-            "name": "John Fletcher", 
+            "last": "Fletcher", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "7 3/4 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61859, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Cambridge University Press", 
+            "first": null, 
+            "fullname": "Cambridge University Press", 
             "irn": 3023, 
-            "name": "Cambridge University Press"
+            "last": "Cambridge University Press", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

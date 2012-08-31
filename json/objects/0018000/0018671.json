@@ -2,12 +2,23 @@
     "accession_number": "30.93", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Dan", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Smith, Dan", 
+            "first": null, 
+            "fullname": "Smith, Dan", 
             "irn": 527, 
-            "name": "Smith, Dan", 
+            "last": "Smith, Dan", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 18671, 
     "materials": "gouache on illustration board", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "1994.23", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hine, Lewis Wickes", 
+                "UlanIdNo": "500115193"
+            }, 
             "after_follower": null, 
             "birth_date": "1874", 
+            "collaboration": null, 
             "death_date": "1940", 
+            "display_name": "Hine, Lewis Wickes", 
+            "first": "Lewis", 
+            "fullname": "Lewis W. Hine", 
             "irn": 710125, 
-            "name": "Hine, Lewis Wickes", 
+            "last": "Hine", 
+            "middle": "Wickes", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Photographer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "4 13/16 x 6 15/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 32030, 
     "materials": "gelatin silver print", 
     "on_view": false, 

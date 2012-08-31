@@ -2,12 +2,23 @@
     "accession_number": "2005.28", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Faurer, Louis", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1916", 
+            "collaboration": null, 
             "death_date": "2001", 
+            "display_name": "Faurer, Louis", 
+            "first": null, 
+            "fullname": "Faurer, Louis", 
             "irn": 3366, 
-            "name": "Faurer, Louis", 
+            "last": "Faurer, Louis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Photographer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 x 14 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62799, 
     "materials": "gelatin silver print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Light Gallery, New York", 
+            "first": null, 
+            "fullname": "Light Gallery, New York", 
             "irn": 3389, 
-            "name": "Light Gallery, New York"
+            "last": "Light Gallery, New York", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

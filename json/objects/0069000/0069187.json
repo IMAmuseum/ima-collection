@@ -2,12 +2,23 @@
     "accession_number": "MH2010.46", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girard, Alexander Hayden", 
+                "UlanIdNo": "500096402"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1993", 
+            "display_name": "Girard, Alexander Hayden", 
+            "first": "Alexander", 
+            "fullname": "Alexander H. Girard", 
             "irn": 692846, 
-            "name": "Girard, Alexander Hayden", 
+            "last": "Girard", 
+            "middle": "Hayden", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 x 24 (diam.)  in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69187, 
     "materials": "wool upholstered brass", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": "\u00a9 Alexander Hayden Girard", 
-    "title": "Ottoman"
+    "title": "ottoman"
 }

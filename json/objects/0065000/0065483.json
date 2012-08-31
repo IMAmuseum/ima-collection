@@ -2,21 +2,43 @@
     "accession_number": "2008.344", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rams, Dieter", 
+                "UlanIdNo": "500046720"
+            }, 
             "after_follower": null, 
             "birth_date": "1932", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Rams, Dieter", 
+            "first": "Dieter", 
+            "fullname": "Dieter Rams", 
             "irn": 645342, 
-            "name": "Rams, Dieter", 
+            "last": "Rams", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Braun", 
+            "first": null, 
+            "fullname": "Braun", 
             "irn": 6013, 
-            "name": "Braun", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Braun", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "5 5/8 x 3 x 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65483, 
     "materials": "plastic", 
     "on_view": false, 

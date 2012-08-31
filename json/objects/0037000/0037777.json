@@ -2,21 +2,43 @@
     "accession_number": "80.809.176", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Holmes, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Holmes, George", 
+            "first": null, 
+            "fullname": "Holmes, George", 
             "irn": 1768, 
-            "name": "Holmes, George", 
+            "last": "Holmes, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Storer, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1771", 
+            "collaboration": null, 
             "death_date": "1853", 
+            "display_name": "Storer, James", 
+            "first": null, 
+            "fullname": "Storer, James", 
             "irn": 1527, 
-            "name": "Storer, James", 
+            "last": "Storer, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37777, 
     "materials": "engraving", 
     "on_view": false, 

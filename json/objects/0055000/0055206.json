@@ -2,12 +2,23 @@
     "accession_number": "72.43.12", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jacquemart, Jules Ferdinand", 
+                "UlanIdNo": "500006882"
+            }, 
             "after_follower": null, 
             "birth_date": "1837", 
+            "collaboration": null, 
             "death_date": "1880", 
+            "display_name": "Jacquemart, Jules Ferdinand", 
+            "first": "Jules", 
+            "fullname": "Jules F. Jacquemart", 
             "irn": 606706, 
-            "name": "Jacquemart, Jules Ferdinand", 
+            "last": "Jacquemart", 
+            "middle": "Ferdinand", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55206, 
     "materials": "etching", 
     "on_view": false, 

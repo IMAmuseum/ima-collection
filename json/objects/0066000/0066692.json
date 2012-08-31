@@ -2,12 +2,23 @@
     "accession_number": "2008.358", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Robert Irwin", 
+                "UlanIdNo": "500022899"
+            }, 
             "after_follower": null, 
             "birth_date": "1928", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Robert Irwin", 
+            "first": "Robert", 
+            "fullname": "Robert Irwin", 
             "irn": 2649, 
-            "name": "Robert Irwin", 
+            "last": "Irwin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "various dimensions", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66692, 
     "materials": "fluorescent lights", 
     "on_view": true, 

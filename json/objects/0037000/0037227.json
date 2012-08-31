@@ -2,21 +2,43 @@
     "accession_number": "80.809.59", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Capon, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1757", 
+            "collaboration": null, 
             "death_date": "1827", 
+            "display_name": "Capon, William", 
+            "first": null, 
+            "fullname": "Capon, William", 
             "irn": 1770, 
-            "name": "Capon, William", 
+            "last": "Capon, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Walker, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Walker, John", 
+            "first": null, 
+            "fullname": "Walker, John", 
             "irn": 1754, 
-            "name": "Walker, John", 
+            "last": "Walker, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37227, 
     "materials": "engraving", 
     "on_view": false, 

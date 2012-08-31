@@ -2,12 +2,23 @@
     "accession_number": "1999.74", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Augustus Welby Northmore Pugin", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1812", 
+            "collaboration": null, 
             "death_date": "1852", 
+            "display_name": "Augustus Welby Northmore Pugin", 
+            "first": "Augustus", 
+            "fullname": "Augustus W. Pugin", 
             "irn": 1728, 
-            "name": "Augustus Welby Northmore Pugin", 
+            "last": "Pugin", 
+            "middle": "Welby Northmore", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "86 x 4 x 59-3/4 x 22", 
     "dynasty": null, 
+    "images": [], 
     "irn": 21749, 
     "materials": "oak, wrought iron, paint, gilding", 
     "on_view": true, 

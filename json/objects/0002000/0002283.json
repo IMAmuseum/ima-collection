@@ -2,12 +2,23 @@
     "accession_number": "33.42A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hoffmann, Josef Franz Maria", 
+                "UlanIdNo": "500019177"
+            }, 
             "after_follower": null, 
             "birth_date": "1870", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Hoffmann, Josef Franz Maria", 
+            "first": "Josef", 
+            "fullname": "Josef F. Hoffmann", 
             "irn": 618753, 
-            "name": "Hoffmann, Josef Franz Maria", 
+            "last": "Hoffmann", 
+            "middle": "Franz Maria", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 11 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2283, 
     "materials": "muslin glass", 
     "on_view": true, 

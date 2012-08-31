@@ -2,12 +2,23 @@
     "accession_number": "2008.797", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Maurin, Charles", 
+                "UlanIdNo": "500016190"
+            }, 
             "after_follower": null, 
             "birth_date": "1856", 
+            "collaboration": null, 
             "death_date": "1914", 
+            "display_name": "Maurin, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Maurin", 
             "irn": 615824, 
-            "name": "Maurin, Charles", 
+            "last": "Maurin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 x 11 3/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67243, 
     "materials": "steel", 
     "on_view": false, 

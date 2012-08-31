@@ -2,21 +2,43 @@
     "accession_number": "80.1320.85", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Page, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1794", 
+            "collaboration": null, 
             "death_date": "1872", 
+            "display_name": "Page, William", 
+            "first": null, 
+            "fullname": "Page, William", 
             "irn": 813, 
-            "name": "Page, William", 
+            "last": "Page, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Higham, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1844", 
+            "display_name": "Higham, Thomas", 
+            "first": null, 
+            "fullname": "Higham, Thomas", 
             "irn": 1836, 
-            "name": "Higham, Thomas", 
+            "last": "Higham, Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40288, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

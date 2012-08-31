@@ -2,12 +2,23 @@
     "accession_number": "09.121", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Fessard, Etienne", 
+                "UlanIdNo": "500017211"
+            }, 
             "after_follower": null, 
             "birth_date": "1714", 
+            "collaboration": null, 
             "death_date": "1777", 
+            "display_name": "Fessard, Etienne", 
+            "first": "Etienne", 
+            "fullname": "Etienne Fessard", 
             "irn": 616829, 
-            "name": "Fessard, Etienne", 
+            "last": "Fessard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 21206, 
     "materials": "engraving", 
     "on_view": false, 

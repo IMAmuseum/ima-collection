@@ -2,12 +2,23 @@
     "accession_number": "09.184", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Godby, James", 
+                "UlanIdNo": "500024416"
+            }, 
             "after_follower": null, 
             "birth_date": "1750", 
+            "collaboration": null, 
             "death_date": "1850", 
+            "display_name": "Godby, James", 
+            "first": "James", 
+            "fullname": "James Godby", 
             "irn": 623890, 
-            "name": "Godby, James", 
+            "last": "Godby", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 36246, 
     "materials": "engraving", 
     "on_view": false, 

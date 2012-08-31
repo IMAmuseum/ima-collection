@@ -2,12 +2,23 @@
     "accession_number": "2001.237", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rubens, Peter Paul", 
+                "UlanIdNo": "500002921"
+            }, 
             "after_follower": null, 
             "birth_date": "1577", 
+            "collaboration": null, 
             "death_date": "1640", 
+            "display_name": "Rubens, Peter Paul", 
+            "first": "Peter", 
+            "fullname": "Peter P. Rubens", 
             "irn": 602855, 
-            "name": "Rubens, Peter Paul", 
+            "last": "Rubens", 
+            "middle": "Paul", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "19 x 25 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17239, 
     "materials": "oil on wood", 
     "on_view": true, 

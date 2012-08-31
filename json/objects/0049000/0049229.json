@@ -2,12 +2,23 @@
     "accession_number": "12.23", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Schellenberg, Johann Rudolph", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1740-1806", 
+            "collaboration": null, 
             "death_date": "1740-1806", 
+            "display_name": "Schellenberg, Johann Rudolph", 
+            "first": null, 
+            "fullname": "Schellenberg, Johann Rudolph", 
             "irn": 2332, 
-            "name": "Schellenberg, Johann Rudolph", 
+            "last": "Schellenberg, Johann Rudolph", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 49229, 
     "materials": "copper engraving plate", 
     "on_view": false, 

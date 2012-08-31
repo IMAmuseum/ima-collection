@@ -2,12 +2,23 @@
     "accession_number": "80.609I", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hayter, Stanley William", 
+                "UlanIdNo": "500010689"
+            }, 
             "after_follower": null, 
             "birth_date": "1901", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Hayter, Stanley William", 
+            "first": "Stanley", 
+            "fullname": "Stanley W. Hayter", 
             "irn": 610435, 
-            "name": "Hayter, Stanley William", 
+            "last": "Hayter", 
+            "middle": "William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 1/2 x 11 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 713, 
     "materials": "etching and engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Circle Press Publications", 
+            "first": null, 
+            "fullname": "Circle Press Publications", 
             "irn": 2368, 
-            "name": "Circle Press Publications"
+            "last": "Circle Press Publications", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

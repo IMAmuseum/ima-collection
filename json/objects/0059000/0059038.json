@@ -2,12 +2,23 @@
     "accession_number": "2002.124", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nevelson, Louise", 
+                "UlanIdNo": "500001621"
+            }, 
             "after_follower": null, 
             "birth_date": "1899", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Nevelson, Louise", 
+            "first": "Louise", 
+            "fullname": "Louise Nevelson", 
             "irn": 601581, 
-            "name": "Nevelson, Louise", 
+            "last": "Nevelson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 59038, 
     "materials": "print", 
     "on_view": false, 
@@ -23,12 +35,38 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Harry N. Abrams, Inc.", 
+            "first": null, 
+            "fullname": "Harry N. Abrams, Inc.", 
             "irn": 2432, 
-            "name": "Harry N. Abrams, Inc."
+            "last": "Harry N. Abrams, Inc.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "The Pace Gallery", 
+            "first": null, 
+            "fullname": "The Pace Gallery", 
             "irn": 2433, 
-            "name": "The Pace Gallery"
+            "last": "The Pace Gallery", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

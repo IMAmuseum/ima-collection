@@ -2,12 +2,23 @@
     "accession_number": "2005.73", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1809", 
+            "collaboration": null, 
             "death_date": "1879", 
+            "display_name": "Hasegawa Sadanobu", 
+            "first": null, 
+            "fullname": "Hasegawa Sadanobu", 
             "irn": 3412, 
-            "name": "Hasegawa Sadanobu", 
+            "last": "Hasegawa Sadanobu", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Dictionary of Japanese Artists", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 5/8 x 14 9/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63226, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Menki", 
+            "first": null, 
+            "fullname": "Menki", 
             "irn": 3413, 
-            "name": "Menki"
+            "last": "Menki", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

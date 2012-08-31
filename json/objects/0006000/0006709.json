@@ -2,12 +2,23 @@
     "accession_number": "09.185", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Pierre F. Beaumont", 
+            "first": "Pierre", 
+            "fullname": "Pierre F. Beaumont", 
             "irn": 3223, 
-            "name": "Pierre F. Beaumont", 
+            "last": "Beaumont", 
+            "middle": "Francois", 
             "nationality": "French", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 6709, 
     "materials": "engraving", 
     "on_view": false, 

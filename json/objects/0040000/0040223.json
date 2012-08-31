@@ -2,21 +2,43 @@
     "accession_number": "80.1320.119", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "G\u00e9rard, Fran\u00e7ois", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1770", 
+            "collaboration": null, 
             "death_date": "1837", 
+            "display_name": "G\u00e9rard, Fran\u00e7ois", 
+            "first": null, 
+            "fullname": "G\u00e9rard, Fran\u00e7ois", 
             "irn": 1890, 
-            "name": "G\u00e9rard, Fran\u00e7ois", 
+            "last": "G\u00e9rard, Fran\u00e7ois", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40223, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

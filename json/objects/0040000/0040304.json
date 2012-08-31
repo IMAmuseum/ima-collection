@@ -2,21 +2,43 @@
     "accession_number": "80.1320.101", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Newton, William John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1785", 
+            "collaboration": null, 
             "death_date": "1869", 
+            "display_name": "Newton, William John", 
+            "first": null, 
+            "fullname": "Newton, William John", 
             "irn": 1882, 
-            "name": "Newton, William John", 
+            "last": "Newton, William John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Mote, W. H.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Mote, W. H.", 
+            "first": null, 
+            "fullname": "Mote, W. H.", 
             "irn": 1871, 
-            "name": "Mote, W. H.", 
+            "last": "Mote, W. H.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40304, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

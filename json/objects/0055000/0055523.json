@@ -2,21 +2,43 @@
     "accession_number": "80.1727", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Girtin, Thomas", 
+                "UlanIdNo": "500009169"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1802", 
+            "display_name": "Girtin, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Girtin", 
             "irn": 608944, 
-            "name": "Girtin, Thomas", 
+            "last": "Girtin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "16 1/4 x 11 x 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 55523, 
     "materials": "book", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Cooke, William Bernard", 
+                "UlanIdNo": "500012369"
+            }, 
+            "birth_date": "1778", 
+            "collaboration": null, 
+            "death_date": "1855", 
+            "display_name": "Cooke, William Bernard", 
+            "first": "William", 
+            "fullname": "William B. Cooke", 
             "irn": 612081, 
-            "name": "Cooke, William Bernard"
+            "last": "Cooke", 
+            "middle": "Bernard", 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "rights": null, 

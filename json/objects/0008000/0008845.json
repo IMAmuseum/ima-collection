@@ -2,12 +2,23 @@
     "accession_number": "77.305", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lombard, Pierre", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1612", 
+            "collaboration": null, 
             "death_date": "1682", 
+            "display_name": "Lombard, Pierre", 
+            "first": null, 
+            "fullname": "Lombard, Pierre", 
             "irn": 1530, 
-            "name": "Lombard, Pierre", 
+            "last": "Lombard, Pierre", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 8845, 
     "materials": "engraving", 
     "on_view": false, 

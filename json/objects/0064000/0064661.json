@@ -2,21 +2,43 @@
     "accession_number": "2009.512A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1957", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bjorn Dahlstrom", 
+            "first": "Bjorn", 
+            "fullname": "Bjorn Dahlstrom", 
             "irn": 5684, 
-            "name": "Bjorn Dahlstrom", 
+            "last": "Dahlstrom", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Iittala", 
+            "first": null, 
+            "fullname": "Iittala", 
             "irn": 6312, 
-            "name": "Iittala", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Iittala", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "11 5/8 x 9 x 6 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64661, 
     "materials": "steel", 
     "on_view": false, 

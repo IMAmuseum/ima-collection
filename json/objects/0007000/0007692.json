@@ -2,12 +2,23 @@
     "accession_number": "1984.103", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Backer, Jacob de", 
+                "UlanIdNo": "500031946"
+            }, 
             "after_follower": null, 
             "birth_date": "1545", 
+            "collaboration": null, 
             "death_date": "1595", 
+            "display_name": "Backer, Jacob de", 
+            "first": "Jacob", 
+            "fullname": "Jacob d. Backer", 
             "irn": 631259, 
-            "name": "Backer, Jacob de", 
+            "last": "Backer", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "76 x 48 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7692, 
     "materials": "oil on canvas", 
     "on_view": false, 

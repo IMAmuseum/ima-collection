@@ -2,12 +2,23 @@
     "accession_number": "2009.365", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1953", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Joanne Greenbaum", 
+            "first": "Joanne", 
+            "fullname": "Joanne Greenbaum", 
             "irn": 779, 
-            "name": "Joanne Greenbaum", 
+            "last": "Greenbaum", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "23 7/8 x 17 7/8 in. (image)\n28 1/2 x 22 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67602, 
     "materials": "color linocut on cream Arches paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "The Chinati Foundation", 
+            "first": null, 
+            "fullname": "The Chinati Foundation", 
             "irn": 3054, 
-            "name": "The Chinati Foundation"
+            "last": "The Chinati Foundation", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Joanne Greenbaum", 

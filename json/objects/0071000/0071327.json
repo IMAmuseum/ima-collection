@@ -2,21 +2,43 @@
     "accession_number": "2010.274", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1902", 
+            "collaboration": null, 
             "death_date": "2000", 
+            "display_name": "Belle Kogan", 
+            "first": "Belle", 
+            "fullname": "Belle Kogan", 
             "irn": 7431, 
-            "name": "Belle Kogan", 
+            "last": "Kogan", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Boonton Plastics Molding Co.", 
+            "first": null, 
+            "fullname": "Boonton Plastics Molding Co.", 
             "irn": 7432, 
-            "name": "Boonton Plastics Molding Co.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Boonton Plastics Molding Co.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "2 1/2 x 10 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71327, 
     "materials": "Melamine", 
     "on_view": false, 

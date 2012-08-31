@@ -2,12 +2,23 @@
     "accession_number": "1985.111", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dine, Jim", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1935", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Dine, Jim", 
+            "first": null, 
+            "fullname": "Dine, Jim", 
             "irn": 1712, 
-            "name": "Dine, Jim", 
+            "last": "Dine, Jim", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "26 x 20 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11225, 
     "materials": "etching and drypoint", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Universal Limited Art Editions", 
+            "first": null, 
+            "fullname": "Universal Limited Art Editions", 
             "irn": 2186, 
-            "name": "Universal Limited Art Editions"
+            "last": "Universal Limited Art Editions", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Jim Dine/Artists Rights Society (ARS), New York", 

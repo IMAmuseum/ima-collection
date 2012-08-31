@@ -2,12 +2,23 @@
     "accession_number": "52.84", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Giovanni da Pisa", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Giovanni da Pisa", 
+            "first": null, 
+            "fullname": "Giovanni da Pisa", 
             "irn": 343, 
-            "name": "Giovanni da Pisa", 
+            "last": "Giovanni da Pisa", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "27 3/4 x 13 3/4", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14241, 
     "materials": "Terra Cotta Relief", 
     "on_view": false, 

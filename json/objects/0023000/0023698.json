@@ -2,12 +2,23 @@
     "accession_number": "1987.285", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Botero, Fernando", 
+                "UlanIdNo": "500004359"
+            }, 
             "after_follower": null, 
             "birth_date": "1932", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Botero, Fernando", 
+            "first": "Fernando", 
+            "fullname": "Fernando Botero", 
             "irn": 604242, 
-            "name": "Botero, Fernando", 
+            "last": "Botero", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "75 x 58 1/2 inches", 
     "dynasty": null, 
+    "images": [], 
     "irn": 23698, 
     "materials": "oil on canvas", 
     "on_view": false, 

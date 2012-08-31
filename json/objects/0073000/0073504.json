@@ -2,21 +2,43 @@
     "accession_number": "MH2010.485.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girard, Alexander Hayden", 
+                "UlanIdNo": "500096402"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1993", 
+            "display_name": "Girard, Alexander Hayden", 
+            "first": "Alexander", 
+            "fullname": "Alexander H. Girard", 
             "irn": 692846, 
-            "name": "Girard, Alexander Hayden", 
+            "last": "Girard", 
+            "middle": "Hayden", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Jensen, Georg", 
+                "UlanIdNo": "500103789"
+            }, 
             "after_follower": null, 
             "birth_date": "1866", 
+            "collaboration": null, 
             "death_date": "1935", 
+            "display_name": "Jensen, Georg", 
+            "first": "Georg", 
+            "fullname": "Georg Jensen", 
             "irn": 700161, 
-            "name": "Jensen, Georg", 
+            "last": "Jensen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "1 1/2 x 12 3/4 (diam). in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73504, 
     "materials": "porcelain, colored glazes", 
     "on_view": false, 

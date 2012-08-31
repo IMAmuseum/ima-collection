@@ -2,12 +2,23 @@
     "accession_number": "73.110.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Zorn, Anders Leonard", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1860-1920", 
+            "collaboration": null, 
             "death_date": "1860-1920", 
+            "display_name": "Zorn, Anders Leonard", 
+            "first": null, 
+            "fullname": "Zorn, Anders Leonard", 
             "irn": 1726, 
-            "name": "Zorn, Anders Leonard", 
+            "last": "Zorn, Anders Leonard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 19067, 
     "materials": "etching", 
     "on_view": false, 

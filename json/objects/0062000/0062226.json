@@ -2,12 +2,23 @@
     "accession_number": "LH2003.73A-I", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1572-1673", 
+            "collaboration": null, 
             "death_date": "1572-1673", 
+            "display_name": "Ben Johnson", 
+            "first": "Ben", 
+            "fullname": "Ben Johnson", 
             "irn": 3129, 
-            "name": "Ben Johnson", 
+            "last": "Johnson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 7/8 x 6 3/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62226, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "W. Bulmer and Co.", 
+            "first": null, 
+            "fullname": "W. Bulmer and Co.", 
             "irn": 3130, 
-            "name": "W. Bulmer and Co."
+            "last": "W. Bulmer and Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

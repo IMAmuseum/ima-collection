@@ -2,12 +2,23 @@
     "accession_number": "69.24.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hawthorne, Charles Webster", 
+                "UlanIdNo": "500008988"
+            }, 
             "after_follower": null, 
             "birth_date": "1872", 
+            "collaboration": null, 
             "death_date": "1930", 
+            "display_name": "Hawthorne, Charles Webster", 
+            "first": "Charles", 
+            "fullname": "Charles W. Hawthorne", 
             "irn": 608767, 
-            "name": "Hawthorne, Charles Webster", 
+            "last": "Hawthorne", 
+            "middle": "Webster", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "28 x 24 in.\n31 5/8 x 27 3/4 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 37391, 
     "materials": "oil on canvas", 
     "on_view": false, 

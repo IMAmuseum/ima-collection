@@ -2,12 +2,23 @@
     "accession_number": "12.98", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cox, Jacob", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1810", 
+            "collaboration": null, 
             "death_date": "1892", 
+            "display_name": "Cox, Jacob", 
+            "first": "Jacob", 
+            "fullname": "Jacob Cox", 
             "irn": 1663, 
-            "name": "Cox, Jacob", 
+            "last": "Cox", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "36 x 60 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 49283, 
     "materials": "oil", 
     "on_view": false, 

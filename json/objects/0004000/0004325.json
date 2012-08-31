@@ -2,12 +2,23 @@
     "accession_number": "1986.51", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Clay, John Cecil", 
+                "UlanIdNo": "500042218"
+            }, 
             "after_follower": null, 
             "birth_date": "1875", 
+            "collaboration": null, 
             "death_date": "1930", 
+            "display_name": "Clay, John Cecil", 
+            "first": "John", 
+            "fullname": "John C. Clay", 
             "irn": 641343, 
-            "name": "Clay, John Cecil", 
+            "last": "Clay", 
+            "middle": "Cecil", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 1/8 x 13 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4325, 
     "materials": "colored chalk on brown paper", 
     "on_view": false, 

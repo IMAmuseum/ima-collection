@@ -2,21 +2,43 @@
     "accession_number": "80.1602.20", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cattermole, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1800", 
+            "collaboration": null, 
             "death_date": "1868", 
+            "display_name": "Cattermole, George", 
+            "first": null, 
+            "fullname": "Cattermole, George", 
             "irn": 1866, 
-            "name": "Cattermole, George", 
+            "last": "Cattermole, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Simmons, William Henry", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1811", 
+            "collaboration": null, 
             "death_date": "1882", 
+            "display_name": "Simmons, William Henry", 
+            "first": null, 
+            "fullname": "Simmons, William Henry", 
             "irn": 1913, 
-            "name": "Simmons, William Henry", 
+            "last": "Simmons, William Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 41112, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

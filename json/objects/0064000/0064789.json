@@ -2,21 +2,43 @@
     "accession_number": "2009.464A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Santachiara, Denis", 
+                "UlanIdNo": "500100987"
+            }, 
             "after_follower": null, 
             "birth_date": "1950", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Santachiara, Denis", 
+            "first": "Denis", 
+            "fullname": "Denis Santachiara", 
             "irn": 697386, 
-            "name": "Santachiara, Denis", 
+            "last": "Santachiara", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Studio Italia Design", 
+            "first": null, 
+            "fullname": "Studio Italia Design", 
             "irn": 6640, 
-            "name": "Studio Italia Design", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Studio Italia Design", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "27 5/8 \u00d7 39 3/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64789, 
     "materials": "dacron", 
     "on_view": false, 

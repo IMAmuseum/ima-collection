@@ -2,12 +2,23 @@
     "accession_number": "S4026.81.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Toussaint, Henri", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1849", 
+            "collaboration": null, 
             "death_date": "1911", 
+            "display_name": "Toussaint, Henri", 
+            "first": null, 
+            "fullname": "Toussaint, Henri", 
             "irn": 2089, 
-            "name": "Toussaint, Henri", 
+            "last": "Toussaint, Henri", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45462, 
     "materials": "etching", 
     "on_view": false, 

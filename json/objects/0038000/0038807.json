@@ -2,12 +2,23 @@
     "accession_number": "80.979.19", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Thomson, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1778", 
+            "collaboration": null, 
             "death_date": "1840", 
+            "display_name": "Thomson, John", 
+            "first": null, 
+            "fullname": "Thomson, John", 
             "irn": 1845, 
-            "name": "Thomson, John", 
+            "last": "Thomson, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38807, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

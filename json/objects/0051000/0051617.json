@@ -2,12 +2,23 @@
     "accession_number": "31.270", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Katsushika Hokusai", 
+                "UlanIdNo": "500060426"
+            }, 
             "after_follower": null, 
             "birth_date": "1760", 
+            "collaboration": null, 
             "death_date": "1849", 
+            "display_name": "Katsushika Hokusai", 
+            "first": "Katsushika", 
+            "fullname": "Katsushika Hokusai", 
             "irn": 657236, 
-            "name": "Katsushika Hokusai", 
+            "last": "Hokusai", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 3/4 x 14 3/8 in. (image and sheet - trimmed all around)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 51617, 
     "materials": "color woodblock print", 
     "on_view": false, 

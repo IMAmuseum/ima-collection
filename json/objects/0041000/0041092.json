@@ -2,12 +2,23 @@
     "accession_number": "80.1601", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cooke, William Bernard", 
+                "UlanIdNo": "500012369"
+            }, 
             "after_follower": null, 
             "birth_date": "1778", 
+            "collaboration": null, 
             "death_date": "1855", 
+            "display_name": "Cooke, William Bernard", 
+            "first": "William", 
+            "fullname": "William B. Cooke", 
             "irn": 612081, 
-            "name": "Cooke, William Bernard", 
+            "last": "Cooke", 
+            "middle": "Bernard", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "3 1/8 x 4 5/8 in (image)\n8 x 11 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 41092, 
     "materials": "engraving on India paper, chine coll\u00e9", 
     "on_view": false, 

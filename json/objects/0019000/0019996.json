@@ -2,12 +2,23 @@
     "accession_number": "09.173", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Peter S. Lamborne", 
+            "first": "Peter", 
+            "fullname": "Peter S. Lamborne", 
             "irn": 6441, 
-            "name": "Peter S. Lamborne", 
+            "last": "Lamborne", 
+            "middle": "S.", 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 19996, 
     "materials": "etching", 
     "on_view": false, 

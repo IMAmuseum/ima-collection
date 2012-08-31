@@ -2,12 +2,23 @@
     "accession_number": "49.69", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "C\u00e1rcova, Ernesto de la", 
+                "UlanIdNo": "500117898"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1927", 
+            "display_name": "C\u00e1rcova, Ernesto de la", 
+            "first": "Ernesto", 
+            "fullname": "Ernesto d. C\u00e1rcova", 
             "irn": 712691, 
-            "name": "C\u00e1rcova, Ernesto de la", 
+            "last": "C\u00e1rcova", 
+            "middle": "de la", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Modeler"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 52641, 
     "materials": "bronze", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "2009.553.2A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "CreaDesign", 
+            "first": null, 
+            "fullname": "CreaDesign", 
             "irn": 6285, 
-            "name": "CreaDesign", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "CreaDesign", 
+            "party_type": "Organisation", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Abloy Oy", 
+            "first": null, 
+            "fullname": "Abloy Oy", 
             "irn": 6286, 
-            "name": "Abloy Oy", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Abloy Oy", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "2 1/4 x 2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67374, 
     "materials": "ABS plastic and steel", 
     "on_view": false, 

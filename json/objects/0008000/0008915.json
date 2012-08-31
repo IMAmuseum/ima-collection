@@ -2,12 +2,23 @@
     "accession_number": "C10065", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Reynolds, Joshua", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1723", 
+            "collaboration": null, 
             "death_date": "1792", 
+            "display_name": "Reynolds, Joshua", 
+            "first": "Joshua", 
+            "fullname": "Joshua Reynolds", 
             "irn": 557, 
-            "name": "Reynolds, Joshua", 
+            "last": "Reynolds", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 25 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 8915, 
     "materials": "oil on canvas", 
     "on_view": true, 

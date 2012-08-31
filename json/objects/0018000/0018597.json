@@ -2,12 +2,23 @@
     "accession_number": "73.84.77", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Atkinson, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1773", 
+            "collaboration": null, 
             "death_date": "1839", 
+            "display_name": "Atkinson, William", 
+            "first": null, 
+            "fullname": "Atkinson, William", 
             "irn": 1518, 
-            "name": "Atkinson, William", 
+            "last": "Atkinson, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 18597, 
     "materials": "hand-colored aquatint", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Atkinson, William", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1773", 
+            "collaboration": null, 
+            "death_date": "1839", 
+            "display_name": "Atkinson, William", 
+            "first": null, 
+            "fullname": "Atkinson, William", 
             "irn": 1518, 
-            "name": "Atkinson, William"
+            "last": "Atkinson, William", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

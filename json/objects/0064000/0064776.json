@@ -2,21 +2,43 @@
     "accession_number": "2009.548", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1949", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "John Pawson", 
+            "first": "John", 
+            "fullname": "John Pawson", 
             "irn": 6535, 
-            "name": "John Pawson", 
+            "last": "Pawson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "When Objects Work", 
+            "first": null, 
+            "fullname": "When Objects Work", 
             "irn": 6536, 
-            "name": "When Objects Work", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "When Objects Work", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "H: 7 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64776, 
     "materials": "acrylic resin", 
     "on_view": false, 

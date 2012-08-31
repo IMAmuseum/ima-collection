@@ -2,12 +2,23 @@
     "accession_number": "59.30", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rembrandt van Rijn", 
+                "UlanIdNo": "500011051"
+            }, 
             "after_follower": null, 
             "birth_date": "1606", 
+            "collaboration": null, 
             "death_date": "1669", 
+            "display_name": "Rembrandt van Rijn", 
+            "first": null, 
+            "fullname": "Rembrandt van Rijn", 
             "irn": 610793, 
-            "name": "Rembrandt van Rijn", 
+            "last": "Rembrandt van Rijn", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 33156, 
     "materials": "etching", 
     "on_view": false, 

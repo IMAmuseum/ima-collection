@@ -2,21 +2,43 @@
     "accession_number": "74.544", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Yunkers, Adja", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1900", 
+            "collaboration": null, 
             "death_date": "1983", 
+            "display_name": "Yunkers, Adja", 
+            "first": null, 
+            "fullname": "Yunkers, Adja", 
             "irn": 893, 
-            "name": "Yunkers, Adja", 
+            "last": "Yunkers, Adja", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": "500111055"
+            }, 
             "after_follower": null, 
             "birth_date": "1922", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Garo Z. Antreasian", 
+            "first": "Garo", 
+            "fullname": "Garo Z. Antreasian", 
             "irn": 3985, 
-            "name": "Garo Z. Antreasian", 
+            "last": "Antreasian", 
+            "middle": "Zareh", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 29768, 
     "materials": "lithograph", 
     "on_view": false, 

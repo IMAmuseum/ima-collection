@@ -2,21 +2,43 @@
     "accession_number": "1986.57", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Unknown", 
+            "first": null, 
+            "fullname": "Unknown", 
             "irn": 2741, 
-            "name": "Unknown", 
+            "last": "Unknown", 
+            "middle": null, 
             "nationality": "American", 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Chippendale, Thomas", 
+                "UlanIdNo": "500015768"
+            }, 
             "after_follower": null, 
             "birth_date": "1718", 
+            "collaboration": null, 
             "death_date": "1779", 
+            "display_name": "Chippendale, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Chippendale", 
             "irn": 615413, 
-            "name": "Chippendale, Thomas", 
+            "last": "Chippendale", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "43 1/4 x 39 x 20 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 22330, 
     "materials": "walnut, brass", 
     "on_view": true, 

@@ -2,21 +2,43 @@
     "accession_number": "80.809.150", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wilson, Andrew", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1780", 
+            "collaboration": null, 
             "death_date": "1848", 
+            "display_name": "Wilson, Andrew", 
+            "first": null, 
+            "fullname": "Wilson, Andrew", 
             "irn": 1785, 
-            "name": "Wilson, Andrew", 
+            "last": "Wilson, Andrew", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Walker, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Walker, John", 
+            "first": null, 
+            "fullname": "Walker, John", 
             "irn": 1754, 
-            "name": "Walker, John", 
+            "last": "Walker, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37875, 
     "materials": "engraving", 
     "on_view": false, 

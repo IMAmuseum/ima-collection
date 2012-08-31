@@ -2,21 +2,43 @@
     "accession_number": "29.189", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sartain, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1808-1897", 
+            "collaboration": null, 
             "death_date": "1808-1897", 
+            "display_name": "Sartain, John", 
+            "first": null, 
+            "fullname": "Sartain, John", 
             "irn": 2065, 
-            "name": "Sartain, John", 
+            "last": "Sartain, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Ja. Irwin, Philadelphia", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Ja. Irwin, Philadelphia", 
+            "first": null, 
+            "fullname": "Ja. Irwin, Philadelphia", 
             "irn": 1035, 
-            "name": "Ja. Irwin, Philadelphia", 
+            "last": "Ja. Irwin, Philadelphia", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 20373, 
     "materials": "engraving", 
     "on_view": false, 

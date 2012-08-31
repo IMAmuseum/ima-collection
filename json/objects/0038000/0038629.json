@@ -2,12 +2,23 @@
     "accession_number": "80.956", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Archer, John Wykeham", 
+                "UlanIdNo": "500004115"
+            }, 
             "after_follower": null, 
             "birth_date": "1806", 
+            "collaboration": null, 
             "death_date": "1864", 
+            "display_name": "Archer, John Wykeham", 
+            "first": "John", 
+            "fullname": "John W. Archer", 
             "irn": 604003, 
-            "name": "Archer, John Wykeham", 
+            "last": "Archer", 
+            "middle": "Wykeham", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 1/2 x 11 in (image) \n13 7/8 x 20 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 38629, 
     "materials": "engraving", 
     "on_view": false, 

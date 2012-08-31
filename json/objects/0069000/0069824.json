@@ -2,12 +2,23 @@
     "accession_number": "MH2010.235", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bassett, Edward", 
+                "UlanIdNo": "500044491"
+            }, 
             "after_follower": null, 
             "birth_date": "1922", 
+            "collaboration": null, 
             "death_date": "1999", 
+            "display_name": "Bassett, Edward", 
+            "first": "Edward", 
+            "fullname": "Edward Bassett", 
             "irn": 643420, 
-            "name": "Bassett, Edward", 
+            "last": "Bassett", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 1/2  x 11 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69824, 
     "materials": "ink on paper", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Ink drawing"
+    "title": "ink drawing"
 }

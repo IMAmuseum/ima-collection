@@ -2,12 +2,23 @@
     "accession_number": "44.131", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dyck, Anthony van", 
+                "UlanIdNo": "500115190"
+            }, 
             "after_follower": "Follower of", 
             "birth_date": "1599", 
+            "collaboration": null, 
             "death_date": "1641", 
+            "display_name": "Dyck, Anthony van", 
+            "first": "Anthony", 
+            "fullname": "Anthony v. Dyck", 
             "irn": 710122, 
-            "name": "Dyck, Anthony van", 
+            "last": "Dyck", 
+            "middle": "van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "29 x 24 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 31647, 
     "materials": "oil on canvas", 
     "on_view": false, 

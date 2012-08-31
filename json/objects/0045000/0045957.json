@@ -2,21 +2,43 @@
     "accession_number": "73.2.72", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Daly, C\u00e9sar Denis", 
+                "UlanIdNo": "500023915"
+            }, 
             "after_follower": null, 
             "birth_date": "1811", 
+            "collaboration": null, 
             "death_date": "1893", 
+            "display_name": "Daly, C\u00e9sar Denis", 
+            "first": "C", 
+            "fullname": "C \u00e9. Daly", 
             "irn": 623397, 
-            "name": "Daly, C\u00e9sar Denis", 
+            "last": "Daly", 
+            "middle": "\u00e9sar Denis", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Editor"
         }, 
         {
+            "ULAN": {
+                "Name": "Werner, Carl Friedrich Heinrich", 
+                "UlanIdNo": "500016087"
+            }, 
             "after_follower": null, 
             "birth_date": "1808", 
+            "collaboration": null, 
             "death_date": "1894", 
+            "display_name": "Werner, Carl Friedrich Heinrich", 
+            "first": "Carl", 
+            "fullname": "Carl F. Werner", 
             "irn": 615726, 
-            "name": "Werner, Carl Friedrich Heinrich", 
+            "last": "Werner", 
+            "middle": "Friedrich Heinrich", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "11 1/2 X 8 in. (image)\n17 1/2 X 12 3/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 45957, 
     "materials": "chromolithograph", 
     "on_view": false, 

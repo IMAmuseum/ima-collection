@@ -2,21 +2,43 @@
     "accession_number": "80.809.155", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Samuel, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Samuel, George", 
+            "first": null, 
+            "fullname": "Samuel, George", 
             "irn": 1760, 
-            "name": "Samuel, George", 
+            "last": "Samuel, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Storer, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1771", 
+            "collaboration": null, 
             "death_date": "1853", 
+            "display_name": "Storer, James", 
+            "first": null, 
+            "fullname": "Storer, James", 
             "irn": 1527, 
-            "name": "Storer, James", 
+            "last": "Storer, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37880, 
     "materials": "engraving", 
     "on_view": false, 

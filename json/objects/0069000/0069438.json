@@ -2,12 +2,23 @@
     "accession_number": "MH2010.104.1B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Heinrich & Co", 
+            "first": null, 
+            "fullname": "Heinrich & Co", 
             "irn": 7391, 
-            "name": "Heinrich & Co", 
+            "last": null, 
+            "middle": null, 
             "nationality": "German", 
+            "organization": "Heinrich & Co", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "5 x 7 x 7 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69438, 
     "materials": "painted porcelain", 
     "on_view": true, 

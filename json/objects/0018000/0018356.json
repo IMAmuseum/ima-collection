@@ -2,12 +2,23 @@
     "accession_number": "24.228", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bracquemond, F\u00e9lix", 
+                "UlanIdNo": "500023048"
+            }, 
             "after_follower": null, 
             "birth_date": "1833", 
+            "collaboration": null, 
             "death_date": "1914", 
+            "display_name": "Bracquemond, F\u00e9lix", 
+            "first": "F\u00e9lix", 
+            "fullname": "F\u00e9lix Bracquemond", 
             "irn": 954, 
-            "name": "Bracquemond, F\u00e9lix", 
+            "last": "Bracquemond", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 1/4 x 4 5/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 18356, 
     "materials": "etching", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Cadart, Alfred", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1828", 
+            "collaboration": null, 
+            "death_date": "1875", 
+            "display_name": "Cadart, Alfred", 
+            "first": null, 
+            "fullname": "Cadart, Alfred", 
             "irn": 2087, 
-            "name": "Cadart, Alfred"
+            "last": "Cadart, Alfred", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

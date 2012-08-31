@@ -2,21 +2,43 @@
     "accession_number": "2008.256", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sottsass, Ettore", 
+                "UlanIdNo": "500019835"
+            }, 
             "after_follower": null, 
             "birth_date": "1917", 
+            "collaboration": null, 
             "death_date": "2007", 
+            "display_name": "Sottsass, Ettore", 
+            "first": "Ettore", 
+            "fullname": "Ettore Sottsass", 
             "irn": 619404, 
-            "name": "Sottsass, Ettore", 
+            "last": "Sottsass", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Vistosi, Luciano", 
+                "UlanIdNo": "500107269"
+            }, 
             "after_follower": null, 
             "birth_date": "1931", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Vistosi, Luciano", 
+            "first": "Luciano", 
+            "fullname": "Luciano Vistosi", 
             "irn": 703602, 
-            "name": "Vistosi, Luciano", 
+            "last": "Vistosi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "10 x 8 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65416, 
     "materials": "glass", 
     "on_view": false, 

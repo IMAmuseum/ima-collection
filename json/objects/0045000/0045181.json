@@ -2,12 +2,23 @@
     "accession_number": "S4026.81.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "George, Ernest", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1839", 
+            "collaboration": null, 
             "death_date": "1922", 
+            "display_name": "George, Ernest", 
+            "first": null, 
+            "fullname": "George, Ernest", 
             "irn": 2061, 
-            "name": "George, Ernest", 
+            "last": "George, Ernest", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45181, 
     "materials": "etching", 
     "on_view": false, 

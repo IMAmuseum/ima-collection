@@ -2,12 +2,23 @@
     "accession_number": "2001.254", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Kimber", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "20th Century", 
+            "collaboration": null, 
             "death_date": "20th Century", 
+            "display_name": "Smith, Kimber", 
+            "first": null, 
+            "fullname": "Smith, Kimber", 
             "irn": 2338, 
-            "name": "Smith, Kimber", 
+            "last": "Smith, Kimber", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 51973, 
     "materials": "color lithograph", 
     "on_view": false, 

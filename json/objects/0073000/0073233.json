@@ -2,12 +2,23 @@
     "accession_number": "2011.263", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Feltus, Alan Evan", 
+                "UlanIdNo": "500105025"
+            }, 
             "after_follower": null, 
             "birth_date": "1943", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Feltus, Alan Evan", 
+            "first": "Alan", 
+            "fullname": "Alan E. Feltus", 
             "irn": 701385, 
-            "name": "Feltus, Alan Evan", 
+            "last": "Feltus", 
+            "middle": "Evan", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "9 x 7 1/4 in. (image)\n10 5/8 x 8 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73233, 
     "materials": "lithograph on wove Arches white paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Evelyn Lincoln", 
+            "first": "Evelyn", 
+            "fullname": "Evelyn Lincoln", 
             "irn": 8261, 
-            "name": "Evelyn Lincoln"
+            "last": "Lincoln", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Editions Press, San Francisco", 
+            "first": null, 
+            "fullname": "Editions Press, San Francisco", 
             "irn": 8263, 
-            "name": "Editions Press, San Francisco"
+            "last": null, 
+            "middle": null, 
+            "organization": "Editions Press, San Francisco", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "1999.61", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kent, Rockwell", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1882", 
+            "collaboration": null, 
             "death_date": "1971", 
+            "display_name": "Kent, Rockwell", 
+            "first": "Rockwell", 
+            "fullname": "Rockwell Kent", 
             "irn": 920, 
-            "name": "Kent, Rockwell", 
+            "last": "Kent", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 24012, 
     "materials": "woodblock print", 
     "on_view": false, 

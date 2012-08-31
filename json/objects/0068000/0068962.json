@@ -2,21 +2,43 @@
     "accession_number": "2010.229", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1957", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Martin Margiela", 
+            "first": "Martin", 
+            "fullname": "Martin Margiela", 
             "irn": 5903, 
-            "name": "Martin Margiela", 
+            "last": "Margiela", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Maison Martin Margiela", 
+            "first": null, 
+            "fullname": "Maison Martin Margiela", 
             "irn": 5904, 
-            "name": "Maison Martin Margiela", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Maison Martin Margiela", 
+            "party_type": "Organisation", 
             "role": "Design House"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "L: 27 1/16 in. (front neck to hem)\nL: 30 in. (back neck to hem)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68962, 
     "materials": "linen, cotton lining, metal hook & eye fasteners", 
     "on_view": false, 

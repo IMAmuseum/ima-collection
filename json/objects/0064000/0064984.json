@@ -2,12 +2,23 @@
     "accession_number": "2008.198A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cardin, Pierre", 
+                "UlanIdNo": "500101312"
+            }, 
             "after_follower": null, 
             "birth_date": "1922", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Cardin, Pierre", 
+            "first": "Pierre", 
+            "fullname": "Pierre Cardin", 
             "irn": 697707, 
-            "name": "Cardin, Pierre", 
+            "last": "Cardin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "A) jacket: 20 1/4 x 14 1/2 in.\nB) pants: 37 7/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64984, 
     "materials": "wool with metal zippers", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "1992.375", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Josiah Wedgwood", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1730", 
+            "collaboration": null, 
             "death_date": "1795", 
+            "display_name": "Josiah Wedgwood", 
+            "first": "Josiah", 
+            "fullname": "Josiah Wedgwood", 
             "irn": 1031, 
-            "name": "Josiah Wedgwood", 
+            "last": "Wedgwood", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Manufacturer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "William Beattie", 
+            "first": "William", 
+            "fullname": "William Beattie", 
             "irn": 370, 
-            "name": "William Beattie", 
+            "last": "Beattie", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Modeler"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "20 x 13 1/2 x 9 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34759, 
     "materials": "hard paste porcelain", 
     "on_view": false, 

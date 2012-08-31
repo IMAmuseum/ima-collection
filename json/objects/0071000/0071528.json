@@ -2,12 +2,23 @@
     "accession_number": "2011.85", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hopkins, James Roy", 
+                "UlanIdNo": "500016388"
+            }, 
             "after_follower": null, 
             "birth_date": "1877", 
+            "collaboration": null, 
             "death_date": "1969", 
+            "display_name": "Hopkins, James Roy", 
+            "first": "James", 
+            "fullname": "James R. Hopkins", 
             "irn": 616018, 
-            "name": "Hopkins, James Roy", 
+            "last": "Hopkins", 
+            "middle": "Roy", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "4 1/2 x 7 1/2 in. (image)\n10 3/8 x 14 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71528, 
     "materials": "color woodblock print on cream wove paper laid down", 
     "on_view": false, 

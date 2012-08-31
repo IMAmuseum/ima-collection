@@ -2,12 +2,23 @@
     "accession_number": "80.2006", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gilpin, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1724-1804", 
+            "collaboration": null, 
             "death_date": "1724-1804", 
+            "display_name": "Gilpin, William", 
+            "first": null, 
+            "fullname": "Gilpin, William", 
             "irn": 1372, 
-            "name": "Gilpin, William", 
+            "last": "Gilpin, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55776, 
     "materials": null, 
     "on_view": false, 

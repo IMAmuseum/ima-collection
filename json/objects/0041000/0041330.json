@@ -2,21 +2,43 @@
     "accession_number": "80.1670", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1795", 
+            "collaboration": null, 
             "death_date": "1870", 
+            "display_name": "Edward Goodall", 
+            "first": "Edward", 
+            "fullname": "Edward Goodall", 
             "irn": 7733, 
-            "name": "Edward Goodall", 
+            "last": "Goodall", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "4 1/4 x 3 3/4 in. (image)\n17 x 11 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 41330, 
     "materials": "engraving on India paper, chine coll\u00e9", 
     "on_view": true, 

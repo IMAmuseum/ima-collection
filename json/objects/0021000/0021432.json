@@ -2,12 +2,23 @@
     "accession_number": "09.363", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hildebrandt, Howard Logan", 
+                "UlanIdNo": "500054285"
+            }, 
             "after_follower": null, 
             "birth_date": "1872", 
+            "collaboration": null, 
             "death_date": "1958", 
+            "display_name": "Hildebrandt, Howard Logan", 
+            "first": "Howard", 
+            "fullname": "Howard L. Hildebrandt", 
             "irn": 651480, 
-            "name": "Hildebrandt, Howard Logan", 
+            "last": "Hildebrandt", 
+            "middle": "Logan", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "26 x 32 in.\n32 1/2 x 39 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 21432, 
     "materials": "oil on canvas", 
     "on_view": false, 

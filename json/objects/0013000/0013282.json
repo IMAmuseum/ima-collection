@@ -2,12 +2,23 @@
     "accession_number": "1983.206", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jones, Alfred", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Jones, Alfred", 
+            "first": null, 
+            "fullname": "Jones, Alfred", 
             "irn": 517, 
-            "name": "Jones, Alfred", 
+            "last": "Jones, Alfred", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "22 x 24 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13282, 
     "materials": "hand-colored engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "American Art Union", 
+            "first": null, 
+            "fullname": "American Art Union", 
             "irn": 935, 
-            "name": "American Art Union"
+            "last": "American Art Union", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified"
         }
     ], 
     "rights": null, 

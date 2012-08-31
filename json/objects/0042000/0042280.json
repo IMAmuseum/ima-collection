@@ -2,12 +2,23 @@
     "accession_number": "80.1892", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "John Constable", 
+                "UlanIdNo": "500115382"
+            }, 
             "after_follower": null, 
             "birth_date": "1776", 
+            "collaboration": null, 
             "death_date": "1837", 
+            "display_name": "John Constable", 
+            "first": "John", 
+            "fullname": "John Constable", 
             "irn": 710291, 
-            "name": "John Constable", 
+            "last": "Constable", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42280, 
     "materials": "mezzotint on plain paper", 
     "on_view": false, 

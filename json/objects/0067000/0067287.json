@@ -2,12 +2,23 @@
     "accession_number": "2008.819", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stella, Frank", 
+                "UlanIdNo": "500020533"
+            }, 
             "after_follower": null, 
             "birth_date": "1936", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Stella, Frank", 
+            "first": "Frank", 
+            "fullname": "Frank Stella", 
             "irn": 620084, 
-            "name": "Stella, Frank", 
+            "last": "Stella", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "39 7/8 x 26 7/8 in. (image)\n40 7/8 x 28 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67287, 
     "materials": "screenprint on cream wove paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Gemini G.E.L.", 
+            "first": null, 
+            "fullname": "Gemini G.E.L.", 
             "irn": 5020, 
-            "name": "Gemini G.E.L."
+            "last": "Gemini G.E.L.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

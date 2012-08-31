@@ -2,12 +2,23 @@
     "accession_number": "80.1575.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Colvin", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1795", 
+            "collaboration": null, 
             "death_date": "1875", 
+            "display_name": "Smith, Colvin", 
+            "first": null, 
+            "fullname": "Smith, Colvin", 
             "irn": 1905, 
-            "name": "Smith, Colvin", 
+            "last": "Smith, Colvin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40579, 
     "materials": "engraving on plain paper with hand-coloring", 
     "on_view": false, 

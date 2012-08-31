@@ -2,12 +2,23 @@
     "accession_number": "57.58", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Zeeman, Reinier", 
+                "UlanIdNo": "500000615"
+            }, 
             "after_follower": null, 
             "birth_date": "1613", 
+            "collaboration": null, 
             "death_date": "1678", 
+            "display_name": "Zeeman, Reinier", 
+            "first": "Reinier", 
+            "fullname": "Reinier Zeeman", 
             "irn": 600600, 
-            "name": "Zeeman, Reinier", 
+            "last": "Zeeman", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "5 1/8 x 9 1/2 inches", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14115, 
     "materials": "etching", 
     "on_view": false, 

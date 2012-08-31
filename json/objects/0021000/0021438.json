@@ -2,12 +2,23 @@
     "accession_number": "70.45.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Palmer, Samuel", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1805-1881", 
+            "collaboration": null, 
             "death_date": "1805-1881", 
+            "display_name": "Palmer, Samuel", 
+            "first": null, 
+            "fullname": "Palmer, Samuel", 
             "irn": 641, 
-            "name": "Palmer, Samuel", 
+            "last": "Palmer, Samuel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 21438, 
     "materials": "etching", 
     "on_view": false, 

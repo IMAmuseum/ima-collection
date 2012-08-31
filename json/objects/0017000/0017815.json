@@ -2,12 +2,23 @@
     "accession_number": "67.11.61", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Grasset, Eug\u00e8ne Samuel", 
+                "UlanIdNo": "500029865"
+            }, 
             "after_follower": null, 
             "birth_date": "1841", 
+            "collaboration": null, 
             "death_date": "1917", 
+            "display_name": "Grasset, Eug\u00e8ne Samuel", 
+            "first": "Eug", 
+            "fullname": "Eug \u00e8. Grasset", 
             "irn": 629226, 
-            "name": "Grasset, Eug\u00e8ne Samuel", 
+            "last": "Grasset", 
+            "middle": "\u00e8ne Samuel", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 3/4 x 12 3/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17815, 
     "materials": "color lithograph", 
     "on_view": false, 

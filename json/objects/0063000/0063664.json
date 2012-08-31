@@ -2,12 +2,23 @@
     "accession_number": "2006.121", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kitagawa Utamaro", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1750", 
+            "collaboration": null, 
             "death_date": "1806", 
+            "display_name": "Kitagawa Utamaro", 
+            "first": null, 
+            "fullname": "Kitagawa Utamaro", 
             "irn": 2698, 
-            "name": "Kitagawa Utamaro", 
+            "last": "Kitagawa Utamaro", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 3/16 x 9 3/4 in. (overall)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63664, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Yamashiro-ya Toemon", 
+            "first": null, 
+            "fullname": "Yamashiro-ya Toemon", 
             "irn": 5297, 
-            "name": "Yamashiro-ya Toemon"
+            "last": "Yamashiro-ya Toemon", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Art and Architecture Thesaurus"
         }
     ], 
     "rights": null, 

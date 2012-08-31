@@ -1,17 +1,39 @@
 {
     "accession_number": "MH2010.53.6B", 
-    "actors": [], 
+    "actors": [
+        {
+            "ULAN": {
+                "Name": "Girard, Alexander Hayden", 
+                "UlanIdNo": "500096402"
+            }, 
+            "after_follower": null, 
+            "birth_date": "1907", 
+            "collaboration": null, 
+            "death_date": "1993", 
+            "display_name": "Girard, Alexander Hayden", 
+            "first": "Alexander", 
+            "fullname": "Alexander H. Girard", 
+            "irn": 692846, 
+            "last": "Girard", 
+            "middle": "Hayden", 
+            "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
+            "role": "designer"
+        }
+    ], 
     "creation_date": null, 
     "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
-    "dimensions": "19 x 20 x 2 1/2", 
+    "dimensions": "19 x 20 x 2 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 70185, 
-    "materials": "cloth cushion", 
+    "materials": "cloth", 
     "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Cushion"
+    "title": "cushion"
 }

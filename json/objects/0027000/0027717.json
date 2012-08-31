@@ -2,12 +2,23 @@
     "accession_number": "09.43", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Picart, Bernard", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1673", 
+            "collaboration": null, 
             "death_date": "1733", 
+            "display_name": "Picart, Bernard", 
+            "first": null, 
+            "fullname": "Picart, Bernard", 
             "irn": 559, 
-            "name": "Picart, Bernard", 
+            "last": "Picart, Bernard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 27717, 
     "materials": "engraving", 
     "on_view": false, 

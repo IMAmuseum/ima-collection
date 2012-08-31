@@ -2,12 +2,23 @@
     "accession_number": "33.11", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Brangwyn, Sir Frank", 
+                "UlanIdNo": "500026093"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Brangwyn, Sir Frank", 
+            "first": "Sir", 
+            "fullname": "Sir F. Brangwyn", 
             "irn": 625523, 
-            "name": "Brangwyn, Sir Frank", 
+            "last": "Brangwyn", 
+            "middle": "Frank", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "18 x 14 1/8 in (image)\n20 x 15 1/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9651, 
     "materials": "lithograph", 
     "on_view": false, 

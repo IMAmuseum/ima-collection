@@ -2,12 +2,23 @@
     "accession_number": "1990.44", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Blake, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1757", 
+            "collaboration": null, 
             "death_date": "1827", 
+            "display_name": "Blake, William", 
+            "first": null, 
+            "fullname": "Blake, William", 
             "irn": 1266, 
-            "name": "Blake, William", 
+            "last": "Blake, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 x 6 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7214, 
     "materials": "pencil on white paper", 
     "on_view": false, 

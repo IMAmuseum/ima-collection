@@ -2,12 +2,23 @@
     "accession_number": "09.110", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hooghe, Romeyn de", 
+                "UlanIdNo": "500015656"
+            }, 
             "after_follower": null, 
             "birth_date": "1645", 
+            "collaboration": null, 
             "death_date": "1708", 
+            "display_name": "Hooghe, Romeyn de", 
+            "first": "Romeyn", 
+            "fullname": "Romeyn d. Hooghe", 
             "irn": 615302, 
-            "name": "Hooghe, Romeyn de", 
+            "last": "Hooghe", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16371, 
     "materials": "etching", 
     "on_view": false, 

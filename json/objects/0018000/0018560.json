@@ -2,12 +2,23 @@
     "accession_number": "72.121.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gregory, Edward John", 
+                "UlanIdNo": "500011047"
+            }, 
             "after_follower": null, 
             "birth_date": "1850", 
+            "collaboration": null, 
             "death_date": "1909", 
+            "display_name": "Gregory, Edward John", 
+            "first": "Edward", 
+            "fullname": "Edward J. Gregory", 
             "irn": 610789, 
-            "name": "Gregory, Edward John", 
+            "last": "Gregory", 
+            "middle": "John", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 x 10 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 18560, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2010.39", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Caravaggio, Michelangelo Merisi da", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1573", 
+            "collaboration": null, 
             "death_date": "1610", 
+            "display_name": "Caravaggio, Michelangelo Merisi da", 
+            "first": "Michelangelo", 
+            "fullname": "Michelangelo M. Caravaggio", 
             "irn": 1725, 
-            "name": "Caravaggio, Michelangelo Merisi da", 
+            "last": "Caravaggio", 
+            "middle": "Merisi da", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 3/4 x 41 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7140, 
     "materials": "oil on canvas", 
     "on_view": true, 

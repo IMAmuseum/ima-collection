@@ -2,12 +2,23 @@
     "accession_number": "79.1088", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dupont, Gainsborough", 
+                "UlanIdNo": "500115199"
+            }, 
             "after_follower": null, 
             "birth_date": "1754", 
+            "collaboration": null, 
             "death_date": "1797", 
+            "display_name": "Dupont, Gainsborough", 
+            "first": "Gainsborough", 
+            "fullname": "Gainsborough Dupont", 
             "irn": 710131, 
-            "name": "Dupont, Gainsborough", 
+            "last": "Dupont", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "50 1/4 x 40 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1462, 
     "materials": "oil on canvas", 
     "on_view": true, 

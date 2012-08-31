@@ -2,12 +2,23 @@
     "accession_number": "34.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Romney, George", 
+                "UlanIdNo": "500115779"
+            }, 
             "after_follower": null, 
             "birth_date": "1734", 
+            "collaboration": null, 
             "death_date": "1802", 
+            "display_name": "Romney, George", 
+            "first": "George", 
+            "fullname": "George Romney", 
             "irn": 710656, 
-            "name": "Romney, George", 
+            "last": "Romney", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 25 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 31341, 
     "materials": "oil on canvas", 
     "on_view": true, 

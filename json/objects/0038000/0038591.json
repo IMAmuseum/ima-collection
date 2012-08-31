@@ -2,21 +2,43 @@
     "accession_number": "80.932.40", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hakewill, James", 
+                "UlanIdNo": "500014401"
+            }, 
             "after_follower": null, 
             "birth_date": "1778", 
+            "collaboration": null, 
             "death_date": "1843", 
+            "display_name": "Hakewill, James", 
+            "first": "James", 
+            "fullname": "James Hakewill", 
             "irn": 1817, 
-            "name": "Hakewill, James", 
+            "last": "Hakewill", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Fittler, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1758", 
+            "collaboration": null, 
             "death_date": "1835", 
+            "display_name": "Fittler, James", 
+            "first": null, 
+            "fullname": "Fittler, James", 
             "irn": 1016, 
-            "name": "Fittler, James", 
+            "last": "Fittler, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38591, 
     "materials": "engraving on India paper, chine coll\u00e9", 
     "on_view": false, 

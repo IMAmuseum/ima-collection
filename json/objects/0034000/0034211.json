@@ -2,12 +2,23 @@
     "accession_number": "64.15", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hofmann, Hans", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1880", 
+            "collaboration": null, 
             "death_date": "1966", 
+            "display_name": "Hofmann, Hans", 
+            "first": "Hans", 
+            "fullname": "Hans Hofmann", 
             "irn": 2732, 
-            "name": "Hofmann, Hans", 
+            "last": "Hofmann", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "36 1/4 x 48 1/8 in\n37 1/2 x 49 1/2 x 2 1/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34211, 
     "materials": "oil on canvas", 
     "on_view": true, 

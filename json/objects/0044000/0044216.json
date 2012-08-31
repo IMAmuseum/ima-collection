@@ -2,12 +2,23 @@
     "accession_number": "2001.16", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Thieme, Anthony", 
+                "UlanIdNo": "500032627"
+            }, 
             "after_follower": null, 
             "birth_date": "1888", 
+            "collaboration": null, 
             "death_date": "1954", 
+            "display_name": "Thieme, Anthony", 
+            "first": "Anthony", 
+            "fullname": "Anthony Thieme", 
             "irn": 631922, 
-            "name": "Thieme, Anthony", 
+            "last": "Thieme", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 44216, 
     "materials": "lithograph", 
     "on_view": false, 

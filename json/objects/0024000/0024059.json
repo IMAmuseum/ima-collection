@@ -2,21 +2,43 @@
     "accession_number": "09.53", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hamilton, William", 
+                "UlanIdNo": "500006289"
+            }, 
             "after_follower": null, 
             "birth_date": "1751", 
+            "collaboration": null, 
             "death_date": "1801", 
+            "display_name": "Hamilton, William", 
+            "first": "William", 
+            "fullname": "William Hamilton", 
             "irn": 606125, 
-            "name": "Hamilton, William", 
+            "last": "Hamilton", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Pollard, Robert, I", 
+                "UlanIdNo": "500010094"
+            }, 
             "after_follower": null, 
             "birth_date": "1755", 
+            "collaboration": null, 
             "death_date": "1838", 
+            "display_name": "Pollard, Robert, I", 
+            "first": "Robert", 
+            "fullname": "Robert ,. Pollard", 
             "irn": 609850, 
-            "name": "Pollard, Robert, I", 
+            "last": "Pollard", 
+            "middle": ", I", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 24059, 
     "materials": "engraving", 
     "on_view": false, 

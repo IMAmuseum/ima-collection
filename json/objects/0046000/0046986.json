@@ -2,12 +2,23 @@
     "accession_number": "06.126", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Okamoto Masafusa", 
+            "first": null, 
+            "fullname": "Okamoto Masafusa", 
             "irn": 8609, 
-            "name": "Okamoto Masafusa", 
+            "last": "Okamoto Masafusa", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 9/16 x 5 1/2 in. (image & sheet, remargined on right)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46986, 
     "materials": "wood block print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "^Okichi", 
+            "first": null, 
+            "fullname": "^Okichi", 
             "irn": 8729, 
-            "name": "^Okichi"
+            "last": "^Okichi", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "09.335", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cardon, Antoine", 
+                "UlanIdNo": "500041839"
+            }, 
             "after_follower": null, 
             "birth_date": "1772", 
+            "collaboration": null, 
             "death_date": "1813", 
+            "display_name": "Cardon, Antoine", 
+            "first": "Antoine", 
+            "fullname": "Antoine Cardon", 
             "irn": 640970, 
-            "name": "Cardon, Antoine", 
+            "last": "Cardon", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16141, 
     "materials": "ink", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "71.56", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rouault, Georges", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1871", 
+            "collaboration": null, 
             "death_date": "1958", 
+            "display_name": "Rouault, Georges", 
+            "first": "Georges", 
+            "fullname": "Georges Rouault", 
             "irn": 1386, 
-            "name": "Rouault, Georges", 
+            "last": "Rouault", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Lacouri\u00e9re", 
+            "first": null, 
+            "fullname": "Lacouri\u00e9re", 
             "irn": 2283, 
-            "name": "Lacouri\u00e9re", 
+            "last": "Lacouri\u00e9re", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "22 5/8 x 30 5/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1789, 
     "materials": "color aquatint", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1890", 
+            "collaboration": null, 
+            "death_date": "1935", 
+            "display_name": "Ambrose Vollard", 
+            "first": "Ambrose", 
+            "fullname": "Ambrose Vollard", 
             "irn": 5022, 
-            "name": "Ambrose Vollard"
+            "last": "Vollard", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 

@@ -2,21 +2,43 @@
     "accession_number": "80.1919", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stanfield, Clarkson", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1793", 
+            "collaboration": null, 
             "death_date": "1867", 
+            "display_name": "Stanfield, Clarkson", 
+            "first": "Clarkson", 
+            "fullname": "Clarkson Stanfield", 
             "irn": 1622, 
-            "name": "Stanfield, Clarkson", 
+            "last": "Stanfield", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Chapman, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1817", 
+            "collaboration": null, 
             "death_date": "1879", 
+            "display_name": "Chapman, William", 
+            "first": null, 
+            "fullname": "Chapman, William", 
             "irn": 1930, 
-            "name": "Chapman, William", 
+            "last": "Chapman, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42307, 
     "materials": "engraving", 
     "on_view": false, 

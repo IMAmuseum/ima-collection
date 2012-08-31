@@ -2,12 +2,23 @@
     "accession_number": "1999.138", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Frank, Mary", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1933", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Frank, Mary", 
+            "first": null, 
+            "fullname": "Frank, Mary", 
             "irn": 1746, 
-            "name": "Frank, Mary", 
+            "last": "Frank, Mary", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 9346, 
     "materials": "monotype", 
     "on_view": false, 

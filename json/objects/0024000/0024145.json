@@ -2,12 +2,23 @@
     "accession_number": "1988.70", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Carlo Maratta", 
+                "UlanIdNo": "500118927"
+            }, 
             "after_follower": null, 
             "birth_date": "1625", 
+            "collaboration": null, 
             "death_date": "1713", 
+            "display_name": "Carlo Maratta", 
+            "first": "Carlo", 
+            "fullname": "Carlo Maratti", 
             "irn": 713572, 
-            "name": "Carlo Maratta", 
+            "last": "Maratti", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "47 x 62 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 24145, 
     "materials": "oil on canvas", 
     "on_view": true, 

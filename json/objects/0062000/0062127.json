@@ -2,21 +2,43 @@
     "accession_number": "2004.101", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cage, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1912", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Cage, John", 
+            "first": null, 
+            "fullname": "Cage, John", 
             "irn": 1981, 
-            "name": "Cage, John", 
+            "last": "Cage, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Paulson, Pamela T.", 
+            "first": null, 
+            "fullname": "Paulson, Pamela T.", 
             "irn": 3204, 
-            "name": "Paulson, Pamela T.", 
+            "last": "Paulson, Pamela T.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "18 x 22 7/8 in. (image and sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62127, 
     "materials": "color spit bite and sugar lift aquatint on smoked Somerset white paper", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Crown Point Press", 
+            "first": null, 
+            "fullname": "Crown Point Press", 
             "irn": 3205, 
-            "name": "Crown Point Press"
+            "last": "Crown Point Press", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 John Cage Trust", 

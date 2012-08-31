@@ -2,12 +2,23 @@
     "accession_number": "32.27", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hugo, Jean", 
+                "UlanIdNo": "500014444"
+            }, 
             "after_follower": null, 
             "birth_date": "1894", 
+            "collaboration": null, 
             "death_date": "1984", 
+            "display_name": "Hugo, Jean", 
+            "first": "Jean", 
+            "fullname": "Jean Hugo", 
             "irn": 614115, 
-            "name": "Hugo, Jean", 
+            "last": "Hugo", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45526, 
     "materials": "pochoir", 
     "on_view": false, 

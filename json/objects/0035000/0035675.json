@@ -2,12 +2,23 @@
     "accession_number": "08.62", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lucas van Leyden", 
+                "UlanIdNo": "500020789"
+            }, 
             "after_follower": null, 
             "birth_date": "ca. 1494", 
+            "collaboration": null, 
             "death_date": "1533", 
+            "display_name": "Lucas van Leyden", 
+            "first": null, 
+            "fullname": "Lucas van Leyden", 
             "irn": 620335, 
-            "name": "Lucas van Leyden", 
+            "last": "Lucas van Leyden", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "4 1/2 x 3 3/8 inches", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35675, 
     "materials": null, 
     "on_view": false, 

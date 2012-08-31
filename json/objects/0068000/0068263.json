@@ -2,21 +2,43 @@
     "accession_number": "2009.643", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1926", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Jacob Jensen", 
+            "first": "Jacob", 
+            "fullname": "Jacob Jensen", 
             "irn": 6902, 
-            "name": "Jacob Jensen", 
+            "last": "Jensen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bang & Olufson", 
+            "first": null, 
+            "fullname": "Bang & Olufson", 
             "irn": 6903, 
-            "name": "Bang & Olufson", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Bang & Olufson", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "4 x 19 1/4 x 15 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68263, 
     "materials": "steel, aluminum, and rosewood", 
     "on_view": false, 

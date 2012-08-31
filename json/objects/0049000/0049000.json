@@ -2,21 +2,43 @@
     "accession_number": "71.88.9A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Indiana, Robert", 
+                "UlanIdNo": "500015478"
+            }, 
             "after_follower": null, 
             "birth_date": "1928", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Indiana, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Indiana", 
             "irn": 615130, 
-            "name": "Indiana, Robert", 
+            "last": "Indiana", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Domberger, KG", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Domberger, KG", 
+            "first": null, 
+            "fullname": "Domberger, KG", 
             "irn": 2310, 
-            "name": "Domberger, KG", 
+            "last": "Domberger, KG", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 49000, 
     "materials": "screenprint", 
     "on_view": false, 

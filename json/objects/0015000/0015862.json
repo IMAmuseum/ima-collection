@@ -2,12 +2,23 @@
     "accession_number": "31.150", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Krieger, Wilhelm", 
+                "UlanIdNo": "500031795"
+            }, 
             "after_follower": null, 
             "birth_date": "1877", 
+            "collaboration": null, 
             "death_date": "1945", 
+            "display_name": "Krieger, Wilhelm", 
+            "first": "Wilhelm", 
+            "fullname": "Wilhelm Krieger", 
             "irn": 631113, 
-            "name": "Krieger, Wilhelm", 
+            "last": "Krieger", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 x 17 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15862, 
     "materials": null, 
     "on_view": false, 

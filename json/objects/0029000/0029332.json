@@ -2,12 +2,23 @@
     "accession_number": "09.330", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Anker", 
+                "UlanIdNo": "500027651"
+            }, 
             "after_follower": null, 
             "birth_date": "1759", 
+            "collaboration": null, 
             "death_date": "1819", 
+            "display_name": "Smith, Anker", 
+            "first": "Anker", 
+            "fullname": "Anker Smith", 
             "irn": 627054, 
-            "name": "Smith, Anker", 
+            "last": "Smith", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 29332, 
     "materials": "engraving", 
     "on_view": false, 

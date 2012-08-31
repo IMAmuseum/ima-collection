@@ -2,12 +2,23 @@
     "accession_number": "2008.793.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Shahn, Ben", 
+                "UlanIdNo": "500005524"
+            }, 
             "after_follower": null, 
             "birth_date": "1898", 
+            "collaboration": null, 
             "death_date": "1969", 
+            "display_name": "Shahn, Ben", 
+            "first": "Ben", 
+            "fullname": "Ben Shahn", 
             "irn": 605378, 
-            "name": "Shahn, Ben", 
+            "last": "Shahn", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 x 10 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67237, 
     "materials": "lithograph on Canson and Montgolfier cream wove paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Philip Van Doren Stern", 
+            "first": "Philip", 
+            "fullname": "Philip Van Doren Stern", 
             "irn": 6229, 
-            "name": "Philip Van Doren Stern"
+            "last": "Van Doren Stern", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Person"
         }
     ], 
     "rights": "\u00a9 Estate of Ben Shahn/Licensed by VAGA, New York, NY", 

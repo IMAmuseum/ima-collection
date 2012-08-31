@@ -2,12 +2,23 @@
     "accession_number": "09.4A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dalen, Cornelis van, I", 
+                "UlanIdNo": "500031216"
+            }, 
             "after_follower": null, 
             "birth_date": "1592", 
+            "collaboration": null, 
             "death_date": "1665", 
+            "display_name": "Dalen, Cornelis van, I", 
+            "first": "Cornelis", 
+            "fullname": "Cornelis v. Dalen", 
             "irn": 630545, 
-            "name": "Dalen, Cornelis van, I", 
+            "last": "Dalen", 
+            "middle": "van, I", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 1679, 
     "materials": "engraving", 
     "on_view": false, 

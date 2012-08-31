@@ -2,21 +2,43 @@
     "accession_number": "2009.637", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hadid, Zaha", 
+                "UlanIdNo": "500011138"
+            }, 
             "after_follower": null, 
             "birth_date": "1950", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hadid, Zaha", 
+            "first": "Zaha", 
+            "fullname": "Zaha Hadid", 
             "irn": 610876, 
-            "name": "Hadid, Zaha", 
+            "last": "Hadid", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Alessi S.p.A.", 
+            "first": null, 
+            "fullname": "Alessi S.p.A.", 
             "irn": 6531, 
-            "name": "Alessi S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Alessi S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "16 7/16 x 3 1/8 x 2 5/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68034, 
     "materials": "polished stainless steel", 
     "on_view": false, 

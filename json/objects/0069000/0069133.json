@@ -2,12 +2,23 @@
     "accession_number": "MH2010.15", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Reeves, Paul B.", 
+                "UlanIdNo": "500054247"
+            }, 
             "after_follower": null, 
             "birth_date": "1861", 
+            "collaboration": null, 
             "death_date": "2060", 
+            "display_name": "Reeves, Paul B.", 
+            "first": "Paul", 
+            "fullname": "Paul B. Reeves", 
             "irn": 651442, 
-            "name": "Reeves, Paul B.", 
+            "last": "Reeves", 
+            "middle": "B.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "23 1/4 x 27 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69133, 
     "materials": "watercolor, paper", 
     "on_view": true, 

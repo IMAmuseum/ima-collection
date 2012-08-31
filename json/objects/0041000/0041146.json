@@ -2,21 +2,43 @@
     "accession_number": "80.1618.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Skene, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1864", 
+            "display_name": "Skene, James", 
+            "first": null, 
+            "fullname": "Skene, James", 
             "irn": 1919, 
-            "name": "Skene, James", 
+            "last": "Skene, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "William Richardson", 
+                "UlanIdNo": "500015522"
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "William Richardson", 
+            "first": null, 
+            "fullname": null, 
             "irn": 615172, 
-            "name": "William Richardson", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 41146, 
     "materials": "engraving on plain paper with hand-coloring", 
     "on_view": false, 

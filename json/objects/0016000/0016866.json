@@ -2,21 +2,43 @@
     "accession_number": "1992.57", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Russel Wright", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1976", 
+            "display_name": "Russel Wright", 
+            "first": null, 
+            "fullname": "Russel Wright", 
             "irn": 485, 
-            "name": "Russel Wright", 
+            "last": "Russel Wright", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "The Steubenville Pottery", 
+            "first": null, 
+            "fullname": "The Steubenville Pottery", 
             "irn": 2847, 
-            "name": "The Steubenville Pottery", 
+            "last": "The Steubenville Pottery", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "2 1/2 x 10 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16866, 
     "materials": "earthenware", 
     "on_view": false, 

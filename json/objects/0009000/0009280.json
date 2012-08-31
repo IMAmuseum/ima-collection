@@ -2,12 +2,23 @@
     "accession_number": "73.2.36", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Leroux, Jean-Baptist", 
+                "UlanIdNo": "500083338"
+            }, 
             "after_follower": null, 
             "birth_date": "1667", 
+            "collaboration": null, 
             "death_date": "1746", 
+            "display_name": "Leroux, Jean-Baptist", 
+            "first": "Jean", 
+            "fullname": "Jean -. Leroux", 
             "irn": 679912, 
-            "name": "Leroux, Jean-Baptist", 
+            "last": "Leroux", 
+            "middle": "-Baptist", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 1/4 X 10 1/2 in. (image)\n7 1/2 X 11 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9280, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "2006.89", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Johns, Jasper", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1930", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Johns, Jasper", 
+            "first": null, 
+            "fullname": "Johns, Jasper", 
             "irn": 918, 
-            "name": "Johns, Jasper", 
+            "last": "Johns, Jasper", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1921", 
+            "collaboration": null, 
             "death_date": "1986", 
+            "display_name": "Donn Steward", 
+            "first": "Donn", 
+            "fullname": "Donn Steward", 
             "irn": 141, 
-            "name": "Donn Steward", 
+            "last": "Steward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "25 5/16 x 19 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63765, 
     "materials": "etching and aquatint on off-white Richard de Bas laid paper", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Universal Limited Art Editions", 
+            "first": null, 
+            "fullname": "Universal Limited Art Editions", 
             "irn": 2186, 
-            "name": "Universal Limited Art Editions"
+            "last": "Universal Limited Art Editions", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Jasper Johns/Licensed by VAGA, New York, NY", 

@@ -2,12 +2,23 @@
     "accession_number": "1996.139", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ruskin, John", 
+                "UlanIdNo": "500006262"
+            }, 
             "after_follower": null, 
             "birth_date": "1819", 
+            "collaboration": null, 
             "death_date": "1900", 
+            "display_name": "Ruskin, John", 
+            "first": "John", 
+            "fullname": "John Ruskin", 
             "irn": 606098, 
-            "name": "Ruskin, John", 
+            "last": "Ruskin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/4 x 12 7/8 in. |  22.1 x 32.7 cm. (image and sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11503, 
     "materials": "watercolor over pencil on off-white paper", 
     "on_view": false, 

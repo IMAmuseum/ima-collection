@@ -2,12 +2,23 @@
     "accession_number": "2002.142T", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Blake, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1757", 
+            "collaboration": null, 
             "death_date": "1827", 
+            "display_name": "Blake, William", 
+            "first": null, 
+            "fullname": "Blake, William", 
             "irn": 1266, 
-            "name": "Blake, William", 
+            "last": "Blake, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 x 13 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 60016, 
     "materials": "engraving on India paper chine coll\u00e9", 
     "on_view": false, 

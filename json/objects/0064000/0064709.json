@@ -2,30 +2,63 @@
     "accession_number": "2009.533", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Herzog, Jacques", 
+                "UlanIdNo": "500082477"
+            }, 
             "after_follower": null, 
             "birth_date": "1950", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Herzog, Jacques", 
+            "first": "Jacques", 
+            "fullname": "Jacques Herzog", 
             "irn": 679063, 
-            "name": "Herzog, Jacques", 
+            "last": "Herzog", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Meuron, Pierre de", 
+                "UlanIdNo": "500031633"
+            }, 
             "after_follower": null, 
             "birth_date": "1950", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Meuron, Pierre de", 
+            "first": "Pierre", 
+            "fullname": "Pierre d. Meuron", 
             "irn": 630953, 
-            "name": "Meuron, Pierre de", 
+            "last": "Meuron", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Artemide S.p.A.", 
+            "first": null, 
+            "fullname": "Artemide S.p.A.", 
             "irn": 6311, 
-            "name": "Artemide S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Artemide S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "54 1/4 \u00d7 8 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64709, 
     "materials": "steel, silicon, and lacquer", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2008.807", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Burchfield, Charles Ephraim", 
+                "UlanIdNo": "500015189"
+            }, 
             "after_follower": null, 
             "birth_date": "1893", 
+            "collaboration": null, 
             "death_date": "1967", 
+            "display_name": "Burchfield, Charles Ephraim", 
+            "first": "Charles", 
+            "fullname": "Charles E. Burchfield", 
             "irn": 614847, 
-            "name": "Burchfield, Charles Ephraim", 
+            "last": "Burchfield", 
+            "middle": "Ephraim", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "12 x 9 1/4 in. (image)\n15 1/2 x 11 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67253, 
     "materials": "lithograph on cream wove paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": "Miller, A. George", 
+                "UlanIdNo": "500036711"
+            }, 
+            "birth_date": "1900", 
+            "collaboration": null, 
+            "death_date": "1970", 
+            "display_name": "Miller, A. George", 
+            "first": "A", 
+            "fullname": "A G. Miller", 
             "irn": 635922, 
-            "name": "Miller, A. George"
+            "last": "Miller", 
+            "middle": "George", 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "The Print Club of Cleveland", 
+            "first": null, 
+            "fullname": "The Print Club of Cleveland", 
             "irn": 6302, 
-            "name": "The Print Club of Cleveland"
+            "last": null, 
+            "middle": null, 
+            "organization": "The Print Club of Cleveland", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Charles Ephraim Burchfield", 

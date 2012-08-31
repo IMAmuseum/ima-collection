@@ -2,12 +2,23 @@
     "accession_number": "2009.575", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Henry Holmes", 
+                "UlanIdNo": "500073883"
+            }, 
             "after_follower": null, 
             "birth_date": "1909", 
+            "collaboration": null, 
             "death_date": "1986", 
+            "display_name": "Smith, Henry Holmes", 
+            "first": "Henry", 
+            "fullname": "Henry H. Smith", 
             "irn": 670549, 
-            "name": "Smith, Henry Holmes", 
+            "last": "Smith", 
+            "middle": "Holmes", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "3 3/4 x 4 7/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68274, 
     "materials": "gelatin silver print", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "72.43.11", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lalanne, Maxime", 
+                "UlanIdNo": "500022662"
+            }, 
             "after_follower": null, 
             "birth_date": "1827", 
+            "collaboration": null, 
             "death_date": "1886", 
+            "display_name": "Lalanne, Maxime", 
+            "first": "Maxime", 
+            "fullname": "Maxime Lalanne", 
             "irn": 622173, 
-            "name": "Lalanne, Maxime", 
+            "last": "Lalanne", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55205, 
     "materials": "etching", 
     "on_view": false, 

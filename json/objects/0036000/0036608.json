@@ -2,12 +2,23 @@
     "accession_number": "1999.123C", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Aycock, Alice", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1946", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Aycock, Alice", 
+            "first": null, 
+            "fullname": "Aycock, Alice", 
             "irn": 1302, 
-            "name": "Aycock, Alice", 
+            "last": "Aycock, Alice", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 36608, 
     "materials": "steel", 
     "on_view": false, 

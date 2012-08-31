@@ -2,12 +2,23 @@
     "accession_number": "MH2010.193.3C", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "George Boyer", 
+            "first": null, 
+            "fullname": "George Boyer", 
             "irn": 7396, 
-            "name": "George Boyer", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "George Boyer", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "1 x 11 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69665, 
     "materials": "porcelain", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Plate"
+    "title": "plate"
 }

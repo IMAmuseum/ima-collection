@@ -2,12 +2,23 @@
     "accession_number": "1998.179", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Moret, Henry", 
+                "UlanIdNo": "500012548"
+            }, 
             "after_follower": null, 
             "birth_date": "1856", 
+            "collaboration": null, 
             "death_date": "1913", 
+            "display_name": "Moret, Henry", 
+            "first": "Henry", 
+            "fullname": "Henry Moret", 
             "irn": 612250, 
-            "name": "Moret, Henry", 
+            "last": "Moret", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "33 1/16 x 45 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16742, 
     "materials": "oil on canvas", 
     "on_view": false, 

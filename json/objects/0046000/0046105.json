@@ -2,12 +2,23 @@
     "accession_number": "73.15.20A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Forbes, Edwin", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1839-1895", 
+            "collaboration": null, 
             "death_date": "1839-1895", 
+            "display_name": "Forbes, Edwin", 
+            "first": null, 
+            "fullname": "Forbes, Edwin", 
             "irn": 2180, 
-            "name": "Forbes, Edwin", 
+            "last": "Forbes, Edwin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 46105, 
     "materials": "engraving", 
     "on_view": false, 

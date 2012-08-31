@@ -2,12 +2,23 @@
     "accession_number": "MH2010.352", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girard, Alexander Hayden", 
+                "UlanIdNo": "500096402"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1993", 
+            "display_name": "Girard, Alexander Hayden", 
+            "first": "Alexander", 
+            "fullname": "Alexander H. Girard", 
             "irn": 692846, 
-            "name": "Girard, Alexander Hayden", 
+            "last": "Girard", 
+            "middle": "Hayden", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }
     ], 
@@ -16,12 +27,13 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 70007, 
-    "materials": "cloth pillow", 
+    "materials": "cloth", 
     "on_view": false, 
     "period": null, 
     "printers": [], 
     "publishers": [], 
     "rights": "\u00a9 Alexander Hayden Girard", 
-    "title": "Pillow"
+    "title": "pillow"
 }

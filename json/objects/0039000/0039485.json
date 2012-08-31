@@ -2,21 +2,43 @@
     "accession_number": "80.1192", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1787", 
+            "collaboration": null, 
             "death_date": "1868", 
+            "display_name": "Henry Le Keux", 
+            "first": "Henry", 
+            "fullname": "Henry Le Keux", 
             "irn": 1806, 
-            "name": "Henry Le Keux", 
+            "last": "Le Keux", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Etcher"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "2 3/4 x 2 7/8 in. (image)\n8 7/8 x 5 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 39485, 
     "materials": "etching with touches of pencil", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "73.10", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Flagg, James Montgomery", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1877", 
+            "collaboration": null, 
             "death_date": "1960", 
+            "display_name": "Flagg, James Montgomery", 
+            "first": "James", 
+            "fullname": "James M. Flagg", 
             "irn": 330, 
-            "name": "Flagg, James Montgomery", 
+            "last": "Flagg", 
+            "middle": "Montgomery", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "40 x 50 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35864, 
     "materials": "oil on canvas", 
     "on_view": true, 

@@ -2,21 +2,43 @@
     "accession_number": "2012.62", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gehry, Frank Owen", 
+                "UlanIdNo": "500010962"
+            }, 
             "after_follower": null, 
             "birth_date": "1929", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Gehry, Frank Owen", 
+            "first": "Frank", 
+            "fullname": "Frank O. Gehry", 
             "irn": 610704, 
-            "name": "Gehry, Frank Owen", 
+            "last": "Gehry", 
+            "middle": "Owen", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "New City Editions", 
+            "first": null, 
+            "fullname": "New City Editions", 
             "irn": 5844, 
-            "name": "New City Editions", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "New City Editions", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "37 1/2 x 32 x 28 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 74993, 
     "materials": "laminated cardboard and plywood", 
     "on_view": false, 

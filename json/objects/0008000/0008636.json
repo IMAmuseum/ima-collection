@@ -2,12 +2,23 @@
     "accession_number": "61.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Velde, Willem van de, II", 
+                "UlanIdNo": "500023744"
+            }, 
             "after_follower": null, 
             "birth_date": "1633", 
+            "collaboration": null, 
             "death_date": "1707", 
+            "display_name": "Velde, Willem van de, II", 
+            "first": "Willem", 
+            "fullname": "Willem v. Velde", 
             "irn": 623235, 
-            "name": "Velde, Willem van de, II", 
+            "last": "Velde", 
+            "middle": "van de, II", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 8636, 
     "materials": "pen, ink, and grey ink wash on off-white paper", 
     "on_view": false, 

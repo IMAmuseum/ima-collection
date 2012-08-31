@@ -2,12 +2,23 @@
     "accession_number": "80.831", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Byrne, William", 
+                "UlanIdNo": "500003121"
+            }, 
             "after_follower": null, 
             "birth_date": "1743", 
+            "collaboration": null, 
             "death_date": "1805", 
+            "display_name": "Byrne, William", 
+            "first": "William", 
+            "fullname": "William Byrne", 
             "irn": 603046, 
-            "name": "Byrne, William", 
+            "last": "Byrne", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 x 11 in (image) \n10 7/16 x 13 1/2 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 38069, 
     "materials": "engraving", 
     "on_view": false, 

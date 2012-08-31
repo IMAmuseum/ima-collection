@@ -2,12 +2,23 @@
     "accession_number": "82.66", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Th\u00e9o van Rysselberghe", 
+                "UlanIdNo": "500030824"
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1926", 
+            "display_name": "Th\u00e9o van Rysselberghe", 
+            "first": "Th\u00e9o", 
+            "fullname": "Th\u00e9o v. Rysselberghe", 
             "irn": 1430, 
-            "name": "Th\u00e9o van Rysselberghe", 
+            "last": "Rysselberghe", 
+            "middle": "van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 3/4 x 16 3/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 32306, 
     "materials": "etching, drypoint", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "S5022.83.14-.24", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tiffany, Louis Comfort", 
+                "UlanIdNo": "500030415"
+            }, 
             "after_follower": null, 
             "birth_date": "1848", 
+            "collaboration": null, 
             "death_date": "1933", 
+            "display_name": "Tiffany, Louis Comfort", 
+            "first": "Louis", 
+            "fullname": "Louis C. Tiffany", 
             "irn": 629762, 
-            "name": "Tiffany, Louis Comfort", 
+            "last": "Tiffany", 
+            "middle": "Comfort", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "L: 9 1/4 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 55969, 
     "materials": "silver", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "1991.88", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lum, Bertha Boynton", 
+                "UlanIdNo": "500067003"
+            }, 
             "after_follower": null, 
             "birth_date": "1879", 
+            "collaboration": null, 
             "death_date": "1954", 
+            "display_name": "Lum, Bertha Boynton", 
+            "first": "Bertha", 
+            "fullname": "Bertha B. Lum", 
             "irn": 663744, 
-            "name": "Lum, Bertha Boynton", 
+            "last": "Lum", 
+            "middle": "Boynton", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 1/2 x 2 1/4 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 23809, 
     "materials": "color woodblock print", 
     "on_view": false, 

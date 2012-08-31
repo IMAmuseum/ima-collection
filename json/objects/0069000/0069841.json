@@ -2,12 +2,23 @@
     "accession_number": "MH2010.247", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tinguely, Jean", 
+                "UlanIdNo": "500010804"
+            }, 
             "after_follower": null, 
             "birth_date": "1925", 
+            "collaboration": null, 
             "death_date": "1991", 
+            "display_name": "Tinguely, Jean", 
+            "first": "Jean", 
+            "fullname": "Jean Tinguely", 
             "irn": 610546, 
-            "name": "Tinguely, Jean", 
+            "last": "Tinguely", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 3/4 x 12 1/2 x 1 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69841, 
     "materials": "ink, paper", 
     "on_view": true, 

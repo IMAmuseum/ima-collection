@@ -2,12 +2,23 @@
     "accession_number": "MH2010.452", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "St. Louis", 
+            "first": null, 
+            "fullname": "St. Louis", 
             "irn": 7404, 
-            "name": "St. Louis", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "St. Louis", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,12 +27,13 @@
     "cultures": [], 
     "dimensions": "2 x 3 x 3 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71040, 
-    "materials": "glass paperweight", 
+    "materials": "glass", 
     "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Paperweight"
+    "title": "paperweight"
 }

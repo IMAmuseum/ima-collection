@@ -2,12 +2,23 @@
     "accession_number": "65.23", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ricchi, Pietro", 
+                "UlanIdNo": "500019488"
+            }, 
             "after_follower": null, 
             "birth_date": "1605", 
+            "collaboration": null, 
             "death_date": "1675", 
+            "display_name": "Ricchi, Pietro", 
+            "first": "Pietro", 
+            "fullname": "Pietro Ricchi", 
             "irn": 619060, 
-            "name": "Ricchi, Pietro", 
+            "last": "Ricchi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "52 1/2 x 74 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17164, 
     "materials": "oil on canvas", 
     "on_view": false, 

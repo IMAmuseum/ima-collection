@@ -2,12 +2,23 @@
     "accession_number": "LH2003.55A-D", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Charles Dickens", 
+            "first": "Charles", 
+            "fullname": "Charles Dickens", 
             "irn": 3040, 
-            "name": "Charles Dickens", 
+            "last": "Dickens", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/8 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61873, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Charles Scribner's Sons", 
+            "first": null, 
+            "fullname": "Charles Scribner's Sons", 
             "irn": 2996, 
-            "name": "Charles Scribner's Sons"
+            "last": "Charles Scribner's Sons", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

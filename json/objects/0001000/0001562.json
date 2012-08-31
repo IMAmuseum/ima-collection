@@ -2,21 +2,43 @@
     "accession_number": "09.267B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Farington, Joseph", 
+                "UlanIdNo": "500013876"
+            }, 
             "after_follower": null, 
             "birth_date": "1747", 
+            "collaboration": null, 
             "death_date": "1821", 
+            "display_name": "Farington, Joseph", 
+            "first": "Joseph", 
+            "fullname": "Joseph Farington", 
             "irn": 613557, 
-            "name": "Farington, Joseph", 
+            "last": "Farington", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Canot, Pierre-Charles", 
+                "UlanIdNo": "500002801"
+            }, 
             "after_follower": null, 
             "birth_date": "1710", 
+            "collaboration": null, 
             "death_date": "1777", 
+            "display_name": "Canot, Pierre-Charles", 
+            "first": "Pierre", 
+            "fullname": "Pierre -. Canot", 
             "irn": 602737, 
-            "name": "Canot, Pierre-Charles", 
+            "last": "Canot", 
+            "middle": "-Charles", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 1562, 
     "materials": "engraving", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Boydell, John", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1719", 
+            "collaboration": null, 
+            "death_date": "1804", 
+            "display_name": "Boydell, John", 
+            "first": null, 
+            "fullname": "Boydell, John", 
             "irn": 2109, 
-            "name": "Boydell, John"
+            "last": "Boydell, John", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

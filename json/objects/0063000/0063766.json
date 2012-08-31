@@ -2,21 +2,43 @@
     "accession_number": "2006.90", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Masson, Andr\u00e9", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1896", 
+            "collaboration": null, 
             "death_date": "1987", 
+            "display_name": "Masson, Andr\u00e9", 
+            "first": null, 
+            "fullname": "Masson, Andr\u00e9", 
             "irn": 879, 
-            "name": "Masson, Andr\u00e9", 
+            "last": "Masson, Andr\u00e9", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Atelier 17", 
+            "first": null, 
+            "fullname": "Atelier 17", 
             "irn": 2701, 
-            "name": "Atelier 17", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Atelier 17", 
+            "party_type": "Organisation", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "12 5/8 x 10 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63766, 
     "materials": "engraving and aquatint on off-white wove paper", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Buchholz Gallery", 
+            "first": null, 
+            "fullname": "Buchholz Gallery", 
             "irn": 3981, 
-            "name": "Buchholz Gallery"
+            "last": null, 
+            "middle": null, 
+            "organization": "Buchholz Gallery", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS), New York/ADAGP, Paris", 

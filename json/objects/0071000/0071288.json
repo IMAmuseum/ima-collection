@@ -2,21 +2,43 @@
     "accession_number": "2010.286", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Otto E. Stelzer", 
+            "first": "Otto", 
+            "fullname": "Otto E. Stelzer", 
             "irn": 7511, 
-            "name": "Otto E. Stelzer", 
+            "last": "Stelzer", 
+            "middle": "E.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Calkins Appliance Corporation", 
+            "first": null, 
+            "fullname": "Calkins Appliance Corporation", 
             "irn": 7512, 
-            "name": "Calkins Appliance Corporation", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Calkins Appliance Corporation", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "4 7/8 x 11 x 7 1/2 in. (w/o cord)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71288, 
     "materials": "aluminum, Bakelite, nylon, and plastic", 
     "on_view": false, 

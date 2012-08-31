@@ -2,12 +2,23 @@
     "accession_number": "08.101", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bitter, Karl Theodore Francis", 
+                "UlanIdNo": "500012278"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1915", 
+            "display_name": "Bitter, Karl Theodore Francis", 
+            "first": "Karl", 
+            "fullname": "Karl T. Bitter", 
             "irn": 611991, 
-            "name": "Bitter, Karl Theodore Francis", 
+            "last": "Bitter", 
+            "middle": "Theodore Francis", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 47078, 
     "materials": "plaster cast", 
     "on_view": false, 

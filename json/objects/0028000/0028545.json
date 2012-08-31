@@ -2,12 +2,23 @@
     "accession_number": "09.176", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Guttenberg, Heinrich", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1749", 
+            "collaboration": null, 
             "death_date": "1818", 
+            "display_name": "Guttenberg, Heinrich", 
+            "first": null, 
+            "fullname": "Guttenberg, Heinrich", 
             "irn": 270, 
-            "name": "Guttenberg, Heinrich", 
+            "last": "Guttenberg, Heinrich", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 28545, 
     "materials": "engraving", 
     "on_view": false, 

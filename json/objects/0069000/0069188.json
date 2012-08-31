@@ -2,29 +2,52 @@
     "accession_number": "MH2010.47", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wegner, Hans J.", 
+                "UlanIdNo": "500004003"
+            }, 
             "after_follower": null, 
             "birth_date": "1914", 
+            "collaboration": null, 
             "death_date": "2007", 
+            "display_name": "Wegner, Hans J.", 
+            "first": "Hans", 
+            "fullname": "Hans J. Wegner", 
             "irn": 603897, 
-            "name": "Wegner, Hans J.", 
+            "last": "Wegner", 
+            "middle": "J.", 
             "nationality": "Danish", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "PP M\u00f8bler", 
+            "first": null, 
+            "fullname": "PP M\u00f8bler", 
             "irn": 7639, 
-            "name": "PP M\u00f8bler", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "PP M\u00f8bler", 
+            "party_type": "Organisation", 
             "role": "manufacturer"
         }
     ], 
-    "creation_date": null, 
+    "creation_date": "1980-1989", 
     "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
     "dimensions": "37 x 19 x 18 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69188, 
     "materials": "wood", 
     "on_view": true, 
@@ -32,5 +55,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Chair"
+    "title": "Valet Chair"
 }

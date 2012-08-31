@@ -2,21 +2,43 @@
     "accession_number": "2002.97", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Adams, Clinton", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1918", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Adams, Clinton", 
+            "first": null, 
+            "fullname": "Adams, Clinton", 
             "irn": 1379, 
-            "name": "Adams, Clinton", 
+            "last": "Adams, Clinton", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Kistler, Lynton R.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1897", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Kistler, Lynton R.", 
+            "first": null, 
+            "fullname": "Kistler, Lynton R.", 
             "irn": 2015, 
-            "name": "Kistler, Lynton R.", 
+            "last": "Kistler, Lynton R.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 59003, 
     "materials": "lithograph", 
     "on_view": false, 

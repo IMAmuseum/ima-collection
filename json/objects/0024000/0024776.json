@@ -2,12 +2,23 @@
     "accession_number": "1989.40", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lemmen, Georges", 
+                "UlanIdNo": "500025073"
+            }, 
             "after_follower": null, 
             "birth_date": "1865", 
+            "collaboration": null, 
             "death_date": "1916", 
+            "display_name": "Lemmen, Georges", 
+            "first": "Georges", 
+            "fullname": "Georges Lemmen", 
             "irn": 624529, 
-            "name": "Lemmen, Georges", 
+            "last": "Lemmen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 24776, 
     "materials": "lithograph", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "2011.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1956", 
+            "collaboration": null, 
             "death_date": "2005", 
+            "display_name": "Maarten van Severen", 
+            "first": "Maarten van", 
+            "fullname": "Maarten van Severen", 
             "irn": 5657, 
-            "name": "Maarten van Severen", 
+            "last": "Severen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Edra S.p.A.", 
+            "first": null, 
+            "fullname": "Edra S.p.A.", 
             "irn": 7059, 
-            "name": "Edra S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Edra S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "20 1/2 x 79 3/4 x 49 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64834, 
     "materials": "polyurethane and metal", 
     "on_view": false, 

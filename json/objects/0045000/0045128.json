@@ -2,12 +2,23 @@
     "accession_number": "72.90.10B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Heemskerck, Maerten van", 
+                "UlanIdNo": "500016699"
+            }, 
             "after_follower": null, 
             "birth_date": "1498", 
+            "collaboration": null, 
             "death_date": "1574", 
+            "display_name": "Heemskerck, Maerten van", 
+            "first": "Maerten", 
+            "fullname": "Maerten v. Heemskerck", 
             "irn": 616326, 
-            "name": "Heemskerck, Maerten van", 
+            "last": "Heemskerck", 
+            "middle": "van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45128, 
     "materials": "ink", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Cock, Hieronymus", 
+                "UlanIdNo": "500005618"
+            }, 
+            "birth_date": "1500", 
+            "collaboration": null, 
+            "death_date": "1570", 
+            "display_name": "Cock, Hieronymus", 
+            "first": "Hieronymus", 
+            "fullname": "Hieronymus Cock", 
             "irn": 605469, 
-            "name": "Cock, Hieronymus"
+            "last": "Cock", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "rights": null, 

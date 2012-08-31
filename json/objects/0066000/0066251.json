@@ -2,21 +2,43 @@
     "accession_number": "2009.49", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Haines, Ephraim", 
+                "UlanIdNo": "500113151"
+            }, 
             "after_follower": null, 
             "birth_date": "1740", 
+            "collaboration": null, 
             "death_date": "1856", 
+            "display_name": "Haines, Ephraim", 
+            "first": "Ephraim", 
+            "fullname": "Ephraim Haines", 
             "irn": 709439, 
-            "name": "Haines, Ephraim", 
+            "last": "Haines", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": "Connelly, Henry", 
+                "UlanIdNo": "500071541"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1837", 
+            "display_name": "Connelly, Henry", 
+            "first": "Henry", 
+            "fullname": "Henry Connelly", 
             "irn": 668234, 
-            "name": "Connelly, Henry", 
+            "last": "Connelly", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 x 24 x 24 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66251, 
     "materials": "wood, caning, and upholstery", 
     "on_view": true, 

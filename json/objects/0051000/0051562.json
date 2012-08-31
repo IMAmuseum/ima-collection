@@ -2,12 +2,23 @@
     "accession_number": "2001.302", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Roussel, Ker Xavier", 
+                "UlanIdNo": "500025651"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1944", 
+            "display_name": "Roussel, Ker Xavier", 
+            "first": "Ker", 
+            "fullname": "Ker X. Roussel", 
             "irn": 625092, 
-            "name": "Roussel, Ker Xavier", 
+            "last": "Roussel", 
+            "middle": "Xavier", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 51562, 
     "materials": "etching", 
     "on_view": false, 

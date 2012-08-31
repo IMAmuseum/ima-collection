@@ -2,12 +2,23 @@
     "accession_number": "1996.273", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Prout, Samuel", 
+                "UlanIdNo": "500018332"
+            }, 
             "after_follower": null, 
             "birth_date": "1783", 
+            "collaboration": null, 
             "death_date": "1852", 
+            "display_name": "Prout, Samuel", 
+            "first": "Samuel", 
+            "fullname": "Samuel Prout", 
             "irn": 617925, 
-            "name": "Prout, Samuel", 
+            "last": "Prout", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 3/8 x 11 5/8 in (image)\n11 x 14 3/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 45285, 
     "materials": "soft-ground etching", 
     "on_view": false, 

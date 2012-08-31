@@ -2,21 +2,43 @@
     "accession_number": "09.60", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Roberts, David", 
+                "UlanIdNo": "500000610"
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1864", 
+            "display_name": "Roberts, David", 
+            "first": "David", 
+            "fullname": "David Roberts", 
             "irn": 600595, 
-            "name": "Roberts, David", 
+            "last": "Roberts", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Haghe, Louis", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Haghe, Louis", 
+            "first": null, 
+            "fullname": "Haghe, Louis", 
             "irn": 1018, 
-            "name": "Haghe, Louis", 
+            "last": "Haghe, Louis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 25189, 
     "materials": "color lithograph", 
     "on_view": false, 

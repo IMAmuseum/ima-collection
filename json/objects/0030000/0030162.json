@@ -2,12 +2,23 @@
     "accession_number": "09.123B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Worlidge, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1700", 
+            "collaboration": null, 
             "death_date": "1766", 
+            "display_name": "Worlidge, Thomas", 
+            "first": null, 
+            "fullname": "Worlidge, Thomas", 
             "irn": 829, 
-            "name": "Worlidge, Thomas", 
+            "last": "Worlidge, Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 30162, 
     "materials": "etching", 
     "on_view": false, 

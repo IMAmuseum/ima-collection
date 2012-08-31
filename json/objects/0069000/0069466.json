@@ -2,21 +2,43 @@
     "accession_number": "2010.258A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1942", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Jan Roth", 
+            "first": "Jan", 
+            "fullname": "Jan Roth", 
             "irn": 7373, 
-            "name": "Jan Roth", 
+            "last": "Roth", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Ingo Maurer GmbH", 
+            "first": null, 
+            "fullname": "Ingo Maurer GmbH", 
             "irn": 6874, 
-            "name": "Ingo Maurer GmbH", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Ingo Maurer GmbH", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "A) lamp: 18 3/4 x 10 1/2 in.; B) box: 22 1/2 x 10 3/8 x 10 3/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69466, 
     "materials": "polystyrene", 
     "on_view": false, 

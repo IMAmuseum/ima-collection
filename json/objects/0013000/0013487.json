@@ -2,12 +2,23 @@
     "accession_number": "69.12", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Camoin, Charles", 
+                "UlanIdNo": "500009979"
+            }, 
             "after_follower": null, 
             "birth_date": "1879", 
+            "collaboration": null, 
             "death_date": "1965", 
+            "display_name": "Camoin, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Camoin", 
             "irn": 609740, 
-            "name": "Camoin, Charles", 
+            "last": "Camoin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "27 x 31 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13487, 
     "materials": "oil on canvas", 
     "on_view": false, 

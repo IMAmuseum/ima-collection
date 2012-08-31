@@ -2,12 +2,23 @@
     "accession_number": "57.54", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vliet, Jan Georg van", 
+                "UlanIdNo": "500001218"
+            }, 
             "after_follower": null, 
             "birth_date": "1600", 
+            "collaboration": null, 
             "death_date": "1635", 
+            "display_name": "Vliet, Jan Georg van", 
+            "first": "Jan", 
+            "fullname": "Jan G. Vliet", 
             "irn": 601188, 
-            "name": "Vliet, Jan Georg van", 
+            "last": "Vliet", 
+            "middle": "Georg van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 36237, 
     "materials": "etching", 
     "on_view": false, 

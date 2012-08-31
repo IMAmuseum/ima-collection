@@ -2,12 +2,23 @@
     "accession_number": "09.65", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "John I. Ogborne", 
+            "first": "John", 
+            "fullname": "John I. Ogborne", 
             "irn": 2273, 
-            "name": "John I. Ogborne", 
+            "last": "Ogborne", 
+            "middle": "I.", 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 2349, 
     "materials": "engraving", 
     "on_view": false, 

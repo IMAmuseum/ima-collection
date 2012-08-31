@@ -2,12 +2,23 @@
     "accession_number": "25.92", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Watson, Charles John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1846", 
+            "collaboration": null, 
             "death_date": "1927", 
+            "display_name": "Watson, Charles John", 
+            "first": null, 
+            "fullname": "Watson, Charles John", 
             "irn": 1368, 
-            "name": "Watson, Charles John", 
+            "last": "Watson, Charles John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 12764, 
     "materials": "etching", 
     "on_view": false, 

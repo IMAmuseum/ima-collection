@@ -2,21 +2,43 @@
     "accession_number": "80.1320.71", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Barry, Charles", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1795", 
+            "collaboration": null, 
             "death_date": "1860", 
+            "display_name": "Barry, Charles", 
+            "first": null, 
+            "fullname": "Barry, Charles", 
             "irn": 851, 
-            "name": "Barry, Charles", 
+            "last": "Barry, Charles", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40274, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2010.217", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": "Los Carpinteros", 
             "death_date": null, 
+            "display_name": "Los Carpinteros", 
+            "first": null, 
+            "fullname": "Los Carpinteros", 
             "irn": 7052, 
-            "name": "Los Carpinteros", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Collaboration", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "various dimensions", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68903, 
     "materials": "steel, paint, plastic", 
     "on_view": true, 

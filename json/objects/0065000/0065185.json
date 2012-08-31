@@ -2,21 +2,43 @@
     "accession_number": "2008.240", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nizzoli, Marcello", 
+                "UlanIdNo": "500013130"
+            }, 
             "after_follower": null, 
             "birth_date": "1887", 
+            "collaboration": null, 
             "death_date": "1969", 
+            "display_name": "Nizzoli, Marcello", 
+            "first": "Marcello", 
+            "fullname": "Marcello Nizzoli", 
             "irn": 612821, 
-            "name": "Nizzoli, Marcello", 
+            "last": "Nizzoli", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Olivetti", 
+            "first": null, 
+            "fullname": "Olivetti", 
             "irn": 5874, 
-            "name": "Olivetti", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Olivetti", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "9 x 16 5/8 x 14 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65185, 
     "materials": "painted metal", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "07.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Twachtman, John Henry", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1853", 
+            "collaboration": null, 
             "death_date": "1902", 
+            "display_name": "Twachtman, John Henry", 
+            "first": "John", 
+            "fullname": "John H. Twachtman", 
             "irn": 1898, 
-            "name": "Twachtman, John Henry", 
+            "last": "Twachtman", 
+            "middle": "Henry", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "27 x 30 in.\n34 5/8 x 39 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 10922, 
     "materials": "oil on canvas", 
     "on_view": true, 

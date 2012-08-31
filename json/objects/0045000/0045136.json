@@ -2,21 +2,43 @@
     "accession_number": "34.29II", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Flaxman, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1755", 
+            "collaboration": null, 
             "death_date": "1826", 
+            "display_name": "Flaxman, John", 
+            "first": "John", 
+            "fullname": "John Flaxman", 
             "irn": 740, 
-            "name": "Flaxman, John", 
+            "last": "Flaxman", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Blake, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1757", 
+            "collaboration": null, 
             "death_date": "1827", 
+            "display_name": "Blake, William", 
+            "first": null, 
+            "fullname": "Blake, William", 
             "irn": 1266, 
-            "name": "Blake, William", 
+            "last": "Blake, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45136, 
     "materials": "engraving on paper", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Longman, Hurst, Rees, Orme & Brown", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Longman, Hurst, Rees, Orme & Brown", 
+            "first": null, 
+            "fullname": "Longman, Hurst, Rees, Orme & Brown", 
             "irn": 2060, 
-            "name": "Longman, Hurst, Rees, Orme & Brown"
+            "last": "Longman, Hurst, Rees, Orme & Brown", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

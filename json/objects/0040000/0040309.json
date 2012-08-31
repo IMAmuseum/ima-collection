@@ -2,21 +2,43 @@
     "accession_number": "80.1320.106", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Newton, Gilbert Stuart", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1794", 
+            "collaboration": null, 
             "death_date": "1835", 
+            "display_name": "Newton, Gilbert Stuart", 
+            "first": null, 
+            "fullname": "Newton, Gilbert Stuart", 
             "irn": 1884, 
-            "name": "Newton, Gilbert Stuart", 
+            "last": "Newton, Gilbert Stuart", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1787", 
+            "collaboration": null, 
             "death_date": "1852", 
+            "display_name": "Finden, William", 
+            "first": null, 
+            "fullname": "Finden, William", 
             "irn": 1843, 
-            "name": "Finden, William", 
+            "last": "Finden, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40309, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

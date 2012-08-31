@@ -2,20 +2,32 @@
     "accession_number": "MHS2010.24", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Crayonne", 
+            "first": null, 
+            "fullname": "Crayonne", 
             "irn": 7395, 
-            "name": "Crayonne", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Crayonne", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
-    "creation_date": "circa 1970-1979", 
+    "creation_date": "1970-1979", 
     "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
     "dimensions": "9 1/2 x 10 3/4 x 7 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69531, 
     "materials": "plastic", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Trashcan"
+    "title": "trashcan"
 }

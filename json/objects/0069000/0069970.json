@@ -2,12 +2,23 @@
     "accession_number": "MH2010.316", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Larsen, Jack Lenor", 
+                "UlanIdNo": "500018823"
+            }, 
             "after_follower": null, 
             "birth_date": "1927", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Larsen, Jack Lenor", 
+            "first": "Jack", 
+            "fullname": "Jack L. Larsen", 
             "irn": 618404, 
-            "name": "Larsen, Jack Lenor", 
+            "last": "Larsen", 
+            "middle": "Lenor", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 x 14 x 3 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69970, 
     "materials": "cloth", 
     "on_view": false, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": "\u00a9 Alexander Hayden Girard", 
-    "title": "Pillow"
+    "title": "pillow"
 }

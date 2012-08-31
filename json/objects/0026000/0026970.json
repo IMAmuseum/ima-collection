@@ -2,12 +2,23 @@
     "accession_number": "32.151", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kuhn, Walt", 
+                "UlanIdNo": "500012372"
+            }, 
             "after_follower": null, 
             "birth_date": "1880", 
+            "collaboration": null, 
             "death_date": "1949", 
+            "display_name": "Kuhn, Walt", 
+            "first": "Walt", 
+            "fullname": "Walt Kuhn", 
             "irn": 612084, 
-            "name": "Kuhn, Walt", 
+            "last": "Kuhn", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 1/2 x 12 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26970, 
     "materials": "lithograph", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "11.78", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bierstadt, Albert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1830", 
+            "collaboration": null, 
             "death_date": "1902", 
+            "display_name": "Bierstadt, Albert", 
+            "first": "Albert", 
+            "fullname": "Albert Bierstadt", 
             "irn": 966, 
-            "name": "Bierstadt, Albert", 
+            "last": "Bierstadt", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 x 20 in.\n25 1/2 x 35 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 6692, 
     "materials": "oil on canvas", 
     "on_view": true, 

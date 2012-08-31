@@ -2,21 +2,43 @@
     "accession_number": "80.1586.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Steuben, Charles Auguste Guillaume", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1788", 
+            "collaboration": null, 
             "death_date": "1856", 
+            "display_name": "Steuben, Charles Auguste Guillaume", 
+            "first": null, 
+            "fullname": "Steuben, Charles Auguste Guillaume", 
             "irn": 1906, 
-            "name": "Steuben, Charles Auguste Guillaume", 
+            "last": "Steuben, Charles Auguste Guillaume", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Graves, Robert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1798", 
+            "collaboration": null, 
             "death_date": "1873", 
+            "display_name": "Graves, Robert", 
+            "first": null, 
+            "fullname": "Graves, Robert", 
             "irn": 1907, 
-            "name": "Graves, Robert", 
+            "last": "Graves, Robert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40999, 
     "materials": "engraving on plain paper with hand-coloring", 
     "on_view": false, 

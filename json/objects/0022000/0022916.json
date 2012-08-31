@@ -2,12 +2,23 @@
     "accession_number": "1998.285C", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bruce James Talbert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1838", 
+            "collaboration": null, 
             "death_date": "1881", 
+            "display_name": "Bruce James Talbert", 
+            "first": "Bruce", 
+            "fullname": "Bruce J. Talbert", 
             "irn": 1059, 
-            "name": "Bruce James Talbert", 
+            "last": "Talbert", 
+            "middle": "James", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 22916, 
     "materials": "brass", 
     "on_view": false, 

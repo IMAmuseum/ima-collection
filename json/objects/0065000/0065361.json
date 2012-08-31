@@ -2,21 +2,43 @@
     "accession_number": "2008.245", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sloan, John", 
+                "UlanIdNo": "500014645"
+            }, 
             "after_follower": null, 
             "birth_date": "1871", 
+            "collaboration": null, 
             "death_date": "1951", 
+            "display_name": "Sloan, John", 
+            "first": "John", 
+            "fullname": "John Sloan", 
             "irn": 614311, 
-            "name": "Sloan, John", 
+            "last": "Sloan", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Roth, Ernest David", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1879", 
+            "collaboration": null, 
             "death_date": "1964", 
+            "display_name": "Roth, Ernest David", 
+            "first": null, 
+            "fullname": "Roth, Ernest David", 
             "irn": 1017, 
-            "name": "Roth, Ernest David", 
+            "last": "Roth, Ernest David", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "6 7/8 x 5 1/2 in. (image)\n12 7/8 x 10 7/16in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65361, 
     "materials": "etching on cream wove paper", 
     "on_view": false, 

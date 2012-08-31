@@ -2,12 +2,23 @@
     "accession_number": "72.86", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Harlow, George Henry", 
+                "UlanIdNo": "500001061"
+            }, 
             "after_follower": null, 
             "birth_date": "1787", 
+            "collaboration": null, 
             "death_date": "1819", 
+            "display_name": "Harlow, George Henry", 
+            "first": "George", 
+            "fullname": "George H. Harlow", 
             "irn": 601033, 
-            "name": "Harlow, George Henry", 
+            "last": "Harlow", 
+            "middle": "Henry", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "54 x 44 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 12981, 
     "materials": "oil on canvas", 
     "on_view": true, 

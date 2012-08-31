@@ -2,12 +2,23 @@
     "accession_number": "2001.247", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Halley, Peter", 
+                "UlanIdNo": "500115428"
+            }, 
             "after_follower": null, 
             "birth_date": "1953", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Halley, Peter", 
+            "first": "Peter", 
+            "fullname": "Peter Halley", 
             "irn": 710334, 
-            "name": "Halley, Peter", 
+            "last": "Halley", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 51972, 
     "materials": "woodblock print", 
     "on_view": false, 

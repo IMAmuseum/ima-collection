@@ -2,12 +2,23 @@
     "accession_number": "09.199", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kauffmann, Angelica", 
+                "UlanIdNo": "500115055"
+            }, 
             "after_follower": null, 
             "birth_date": "1741", 
+            "collaboration": null, 
             "death_date": "1807", 
+            "display_name": "Kauffmann, Angelica", 
+            "first": "Angelica", 
+            "fullname": "Angelica Kauffmann", 
             "irn": 710006, 
-            "name": "Kauffmann, Angelica", 
+            "last": "Kauffmann", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 7304, 
     "materials": "etching and aquatint", 
     "on_view": false, 

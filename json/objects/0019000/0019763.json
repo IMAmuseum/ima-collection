@@ -2,12 +2,23 @@
     "accession_number": "1989.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tooker, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1920", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tooker, George", 
+            "first": "George", 
+            "fullname": "George Tooker", 
             "irn": 1458, 
-            "name": "Tooker, George", 
+            "last": "Tooker", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 19763, 
     "materials": "lithograph", 
     "on_view": false, 

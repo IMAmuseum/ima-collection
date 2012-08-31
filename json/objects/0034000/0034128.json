@@ -2,12 +2,23 @@
     "accession_number": "12.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Durand, Asher Brown", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1886", 
+            "display_name": "Durand, Asher Brown", 
+            "first": "Asher", 
+            "fullname": "Asher B. Durand", 
             "irn": 1151, 
-            "name": "Durand, Asher Brown", 
+            "last": "Durand", 
+            "middle": "Brown", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "26 1/2 x 36 in.\n38 1/4 x 45 1/4 in/ (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34128, 
     "materials": "oil on canvas", 
     "on_view": true, 

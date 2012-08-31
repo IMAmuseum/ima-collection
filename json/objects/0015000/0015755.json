@@ -2,12 +2,23 @@
     "accession_number": "1986.90", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Frank Lloyd Wright", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1959", 
+            "display_name": "Frank Lloyd Wright", 
+            "first": null, 
+            "fullname": "Frank Lloyd Wright", 
             "irn": 1689, 
-            "name": "Frank Lloyd Wright", 
+            "last": "Frank Lloyd Wright", 
+            "middle": null, 
             "nationality": "American", 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15755, 
     "materials": "copper", 
     "on_view": false, 

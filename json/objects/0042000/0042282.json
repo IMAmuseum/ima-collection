@@ -2,21 +2,43 @@
     "accession_number": "80.1894", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Thomson, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1778", 
+            "collaboration": null, 
             "death_date": "1840", 
+            "display_name": "Thomson, John", 
+            "first": null, 
+            "fullname": "Thomson, John", 
             "irn": 1845, 
-            "name": "Thomson, John", 
+            "last": "Thomson, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Miller, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1882", 
+            "display_name": "Miller, William", 
+            "first": null, 
+            "fullname": "Miller, William", 
             "irn": 832, 
-            "name": "Miller, William", 
+            "last": "Miller, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42282, 
     "materials": "etching on India paper, chine coll\u00e9", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "1983.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sloan, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1871", 
+            "collaboration": null, 
             "death_date": "1951", 
+            "display_name": "Sloan, John", 
+            "first": "John", 
+            "fullname": "John Sloan", 
             "irn": 1710, 
-            "name": "Sloan, John", 
+            "last": "Sloan", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Roth, Ernest David", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1879", 
+            "collaboration": null, 
             "death_date": "1964", 
+            "display_name": "Roth, Ernest David", 
+            "first": null, 
+            "fullname": "Roth, Ernest David", 
             "irn": 1017, 
-            "name": "Roth, Ernest David", 
+            "last": "Roth, Ernest David", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 13589, 
     "materials": "etching", 
     "on_view": false, 

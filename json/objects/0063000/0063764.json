@@ -2,21 +2,43 @@
     "accession_number": "2006.88", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Guston, Philip", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1913", 
+            "collaboration": null, 
             "death_date": "1980", 
+            "display_name": "Guston, Philip", 
+            "first": null, 
+            "fullname": "Guston, Philip", 
             "irn": 2390, 
-            "name": "Guston, Philip", 
+            "last": "Guston, Philip", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "The Hollander Workshop", 
+            "first": null, 
+            "fullname": "The Hollander Workshop", 
             "irn": 68, 
-            "name": "The Hollander Workshop", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "The Hollander Workshop", 
+            "party_type": "Organisation", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "22 1/2 x 30 1/8 in. (image and sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63764, 
     "materials": "lithograph on off white Arches wove paper", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Hollander, Irwin", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1927", 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Hollander, Irwin", 
+            "first": null, 
+            "fullname": "Hollander, Irwin", 
             "irn": 1982, 
-            "name": "Hollander, Irwin"
+            "last": "Hollander, Irwin", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": "\u00a9 Philip Guston", 

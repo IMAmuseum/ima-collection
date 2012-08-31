@@ -2,21 +2,43 @@
     "accession_number": "73.84.78", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Atkinson, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1773", 
+            "collaboration": null, 
             "death_date": "1839", 
+            "display_name": "Atkinson, William", 
+            "first": null, 
+            "fullname": "Atkinson, William", 
             "irn": 1518, 
-            "name": "Atkinson, William", 
+            "last": "Atkinson, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Dubourg, Matthew", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Dubourg, Matthew", 
+            "first": null, 
+            "fullname": "Dubourg, Matthew", 
             "irn": 2128, 
-            "name": "Dubourg, Matthew", 
+            "last": "Dubourg, Matthew", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 19397, 
     "materials": "hand-colored aquatint", 
     "on_view": false, 

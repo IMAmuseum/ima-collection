@@ -2,21 +2,43 @@
     "accession_number": "49.44", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Velde, Jan van de, II", 
+                "UlanIdNo": "500115398"
+            }, 
             "after_follower": null, 
             "birth_date": "about 1593", 
+            "collaboration": null, 
             "death_date": "1641", 
+            "display_name": "Velde, Jan van de, II", 
+            "first": "Jan", 
+            "fullname": "Jan v. Velde", 
             "irn": 1414, 
-            "name": "Velde, Jan van de, II", 
+            "last": "Velde", 
+            "middle": "van de, II", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Molijn, Pieter de", 
+                "UlanIdNo": "500118810"
+            }, 
             "after_follower": "After", 
             "birth_date": "1595", 
+            "collaboration": null, 
             "death_date": "1661", 
+            "display_name": "Molijn, Pieter de", 
+            "first": "Pieter", 
+            "fullname": "Pieter d. Molijn", 
             "irn": 713502, 
-            "name": "Molijn, Pieter de", 
+            "last": "Molijn", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "7 5/8 x 6 3/8 in. (image)\n8 1/4 x 6 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 23087, 
     "materials": "engraving", 
     "on_view": false, 

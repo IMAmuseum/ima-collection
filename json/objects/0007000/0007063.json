@@ -2,12 +2,23 @@
     "accession_number": "61.40", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Chirico, Giorgio de", 
+                "UlanIdNo": "500032635"
+            }, 
             "after_follower": null, 
             "birth_date": "1888", 
+            "collaboration": null, 
             "death_date": "1978", 
+            "display_name": "Chirico, Giorgio de", 
+            "first": "Giorgio", 
+            "fullname": "Giorgio d. Chirico", 
             "irn": 631929, 
-            "name": "Chirico, Giorgio de", 
+            "last": "Chirico", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "21 7/16 x 27 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7063, 
     "materials": "oil on canvas", 
     "on_view": true, 

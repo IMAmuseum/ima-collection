@@ -2,12 +2,23 @@
     "accession_number": "C10006", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bosch, Hieronymus", 
+                "UlanIdNo": "500000759"
+            }, 
             "after_follower": null, 
             "birth_date": "1440", 
+            "collaboration": null, 
             "death_date": "1516", 
+            "display_name": "Bosch, Hieronymus", 
+            "first": "Hieronymus", 
+            "fullname": "Hieronymus Bosch", 
             "irn": 600739, 
-            "name": "Bosch, Hieronymus", 
+            "last": "Bosch", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "24 x 20 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30799, 
     "materials": "oil and gold on wood", 
     "on_view": true, 

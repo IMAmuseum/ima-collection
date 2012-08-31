@@ -2,21 +2,43 @@
     "accession_number": "2010.64", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1964", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Harry Allen", 
+            "first": "Harry", 
+            "fullname": "Harry Allen", 
             "irn": 6923, 
-            "name": "Harry Allen", 
+            "last": "Allen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Johnson & Johnson", 
+            "first": null, 
+            "fullname": "Johnson & Johnson", 
             "irn": 6924, 
-            "name": "Johnson & Johnson", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Johnson & Johnson", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 x 10 x 2 7/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68617, 
     "materials": "plastic", 
     "on_view": false, 

@@ -2,30 +2,63 @@
     "accession_number": "80.1772.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lupton, Thomas Goff", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1873", 
+            "display_name": "Lupton, Thomas Goff", 
+            "first": "Thomas", 
+            "fullname": "Thomas G. Lupton", 
             "irn": 830, 
-            "name": "Lupton, Thomas Goff", 
+            "last": "Lupton", 
+            "middle": "Goff", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Lupton, Thomas Goff", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1873", 
+            "display_name": "Lupton, Thomas Goff", 
+            "first": "Thomas", 
+            "fullname": "Thomas G. Lupton", 
             "irn": 830, 
-            "name": "Lupton, Thomas Goff", 
+            "last": "Lupton", 
+            "middle": "Goff", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": "6 1/2 x 9 1/4 in. (image)\n10 7/16 x 14 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 41961, 
     "materials": "mezzotint", 
     "on_view": true, 
@@ -41,8 +75,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Smith, Elder & Co.", 
+            "first": null, 
+            "fullname": "Smith, Elder & Co.", 
             "irn": 3008, 
-            "name": "Smith, Elder & Co."
+            "last": "Smith, Elder & Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

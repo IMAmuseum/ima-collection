@@ -2,21 +2,43 @@
     "accession_number": "2005.67.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hayter, Stanley William", 
+                "UlanIdNo": "500010689"
+            }, 
             "after_follower": null, 
             "birth_date": "1901", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Hayter, Stanley William", 
+            "first": "Stanley", 
+            "fullname": "Stanley W. Hayter", 
             "irn": 610435, 
-            "name": "Hayter, Stanley William", 
+            "last": "Hayter", 
+            "middle": "William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hecht, Henry", 
+            "first": null, 
+            "fullname": "Hecht, Henry", 
             "irn": 2702, 
-            "name": "Hecht, Henry", 
+            "last": "Hecht, Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 x 6 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63200, 
     "materials": "engraving on Montval paper", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Atelier 17", 
+            "first": null, 
+            "fullname": "Atelier 17", 
             "irn": 2701, 
-            "name": "Atelier 17"
+            "last": null, 
+            "middle": null, 
+            "organization": "Atelier 17", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

@@ -2,12 +2,23 @@
     "accession_number": "LH2003.80A-I", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1862-1949", 
+            "collaboration": null, 
             "death_date": "1862-1949", 
+            "display_name": "Maurice Maeterlinck", 
+            "first": "Maurice", 
+            "fullname": "Maurice Maeterlinck", 
             "irn": 3140, 
-            "name": "Maurice Maeterlinck", 
+            "last": "Maeterlinck", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 5/8 x 5 7/16 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62233, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Dodd, Mead & Co.", 
+            "first": null, 
+            "fullname": "Dodd, Mead & Co.", 
             "irn": 3151, 
-            "name": "Dodd, Mead & Co."
+            "last": "Dodd, Mead & Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

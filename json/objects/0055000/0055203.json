@@ -2,12 +2,23 @@
     "accession_number": "72.43.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Knight, John Prescott", 
+                "UlanIdNo": "500007932"
+            }, 
             "after_follower": null, 
             "birth_date": "1803", 
+            "collaboration": null, 
             "death_date": "1881", 
+            "display_name": "Knight, John Prescott", 
+            "first": "John", 
+            "fullname": "John P. Knight", 
             "irn": 607738, 
-            "name": "Knight, John Prescott", 
+            "last": "Knight", 
+            "middle": "Prescott", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55203, 
     "materials": "etching", 
     "on_view": false, 

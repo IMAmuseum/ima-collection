@@ -2,21 +2,43 @@
     "accession_number": "2008.225", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Harry S. Preble Jr.", 
+            "first": "Harry", 
+            "fullname": "Harry S. Preble Jr.", 
             "irn": 5868, 
-            "name": "Harry S. Preble Jr.", 
+            "last": "Preble", 
+            "middle": "S.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "A.C. Gilbert Company", 
+            "first": null, 
+            "fullname": "A.C. Gilbert Company", 
             "irn": 5869, 
-            "name": "A.C. Gilbert Company", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "A.C. Gilbert Company", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "5 5/8 x 4 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65120, 
     "materials": "Bakelite, chromium-plated and enameled steel", 
     "on_view": false, 

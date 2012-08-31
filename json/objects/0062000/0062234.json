@@ -2,12 +2,23 @@
     "accession_number": "LH2003.81A-L", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1792", 
+            "collaboration": null, 
             "death_date": "1848", 
+            "display_name": "Frederick Marryatt", 
+            "first": "Frederick", 
+            "fullname": "Frederick Marryatt", 
             "irn": 2461, 
-            "name": "Frederick Marryatt", 
+            "last": "Marryatt", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/8 x 5 7/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62234, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Colonial Press Company", 
+            "first": null, 
+            "fullname": "Colonial Press Company", 
             "irn": 3141, 
-            "name": "Colonial Press Company"
+            "last": "Colonial Press Company", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

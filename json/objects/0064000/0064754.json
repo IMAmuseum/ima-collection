@@ -2,21 +2,43 @@
     "accession_number": "2009.449", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1970", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tobias M\u00f8hl", 
+            "first": "Tobias", 
+            "fullname": "Tobias M\u00f8hl", 
             "irn": 6638, 
-            "name": "Tobias M\u00f8hl", 
+            "last": "M\u00f8hl", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "M\u00f8hl & Drivsholm Glas", 
+            "first": null, 
+            "fullname": "M\u00f8hl & Drivsholm Glas", 
             "irn": 6637, 
-            "name": "M\u00f8hl & Drivsholm Glas", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "M\u00f8hl & Drivsholm Glas", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "7 7/8 \u00d7 15 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64754, 
     "materials": "glass", 
     "on_view": false, 

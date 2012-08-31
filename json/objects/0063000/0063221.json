@@ -2,21 +2,43 @@
     "accession_number": "2005.71", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Kunisada", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1786", 
+            "collaboration": null, 
             "death_date": "1864", 
+            "display_name": "Utagawa Kunisada", 
+            "first": null, 
+            "fullname": "Utagawa Kunisada", 
             "irn": 451, 
-            "name": "Utagawa Kunisada", 
+            "last": "Utagawa Kunisada", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Horitake", 
+            "first": null, 
+            "fullname": "Horitake", 
             "irn": 3409, 
-            "name": "Horitake", 
+            "last": "Horitake", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "14 15/16 x 9 11/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63221, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Fujiokaya Keijir", 
+            "first": null, 
+            "fullname": "Fujiokaya Keijir", 
             "irn": 3410, 
-            "name": "Fujiokaya Keijir"
+            "last": "Fujiokaya Keijir", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

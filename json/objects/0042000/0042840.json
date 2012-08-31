@@ -2,12 +2,23 @@
     "accession_number": "2001.240", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Raphael", 
+                "UlanIdNo": null
+            }, 
             "after_follower": "Follower of", 
             "birth_date": "1483", 
+            "collaboration": null, 
             "death_date": "1520", 
+            "display_name": "Raphael", 
+            "first": null, 
+            "fullname": "Raphael", 
             "irn": 1967, 
-            "name": "Raphael", 
+            "last": "Raphael", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/2 x 6 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 42840, 
     "materials": "oil on wood", 
     "on_view": false, 

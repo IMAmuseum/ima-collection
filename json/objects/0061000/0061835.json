@@ -2,12 +2,23 @@
     "accession_number": "LH2003.17A-D", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "MichelDe Montaigne", 
+            "first": "MichelDe", 
+            "fullname": "MichelDe Montaigne", 
             "irn": 2986, 
-            "name": "MichelDe Montaigne", 
+            "last": "Montaigne", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 61835, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Reeves & Turner", 
+            "first": null, 
+            "fullname": "Reeves & Turner", 
             "irn": 2987, 
-            "name": "Reeves & Turner"
+            "last": "Reeves & Turner", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

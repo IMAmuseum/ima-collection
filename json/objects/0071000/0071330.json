@@ -2,21 +2,43 @@
     "accession_number": "2010.277", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1902", 
+            "collaboration": null, 
             "death_date": "1973", 
+            "display_name": "Goren Hongell", 
+            "first": "Goren", 
+            "fullname": "Goren Hongell", 
             "irn": 7517, 
-            "name": "Goren Hongell", 
+            "last": "Hongell", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Karhula Glassworks", 
+            "first": null, 
+            "fullname": "Karhula Glassworks", 
             "irn": 7515, 
-            "name": "Karhula Glassworks", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Karhula Glassworks", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "4 3/4 x 6 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71330, 
     "materials": "glass", 
     "on_view": false, 

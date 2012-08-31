@@ -2,21 +2,43 @@
     "accession_number": "76.223", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ruscha, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1937", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Ruscha, Edward", 
+            "first": null, 
+            "fullname": "Ruscha, Edward", 
             "irn": 1022, 
-            "name": "Ruscha, Edward", 
+            "last": "Ruscha, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Cirrus Editions, Ltd.", 
+            "first": null, 
+            "fullname": "Cirrus Editions, Ltd.", 
             "irn": 2224, 
-            "name": "Cirrus Editions, Ltd.", 
+            "last": "Cirrus Editions, Ltd.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 3892, 
     "materials": "color lithograph", 
     "on_view": false, 

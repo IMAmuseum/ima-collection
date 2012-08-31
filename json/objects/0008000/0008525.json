@@ -2,12 +2,23 @@
     "accession_number": "1987.148", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "McLaughlin, John", 
+                "UlanIdNo": "500028436"
+            }, 
             "after_follower": null, 
             "birth_date": "1898", 
+            "collaboration": null, 
             "death_date": "1976", 
+            "display_name": "McLaughlin, John", 
+            "first": "John", 
+            "fullname": "John McLaughlin", 
             "irn": 627824, 
-            "name": "McLaughlin, John", 
+            "last": "McLaughlin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "48 x 60 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 8525, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "1992.367", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Peter Behrens", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1868", 
+            "collaboration": null, 
             "death_date": "1940", 
+            "display_name": "Peter Behrens", 
+            "first": "Peter", 
+            "fullname": "Peter Behrens", 
             "irn": 2849, 
-            "name": "Peter Behrens", 
+            "last": "Behrens", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Simon P. Gerz", 
+            "first": "Simon", 
+            "fullname": "Simon P. Gerz", 
             "irn": 2850, 
-            "name": "Simon P. Gerz", 
+            "last": "Gerz", 
+            "middle": "Peter", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "H: 12 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16793, 
     "materials": "salt-glazed stoneware, painted cobalt blue decoration, pewter cover", 
     "on_view": true, 

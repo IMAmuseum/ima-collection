@@ -2,12 +2,23 @@
     "accession_number": "2002.87", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Di Suvero, Mark", 
+                "UlanIdNo": "500013375"
+            }, 
             "after_follower": null, 
             "birth_date": "1933", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Di Suvero, Mark", 
+            "first": "Mark", 
+            "fullname": "Mark Di Suvero", 
             "irn": 613062, 
-            "name": "Di Suvero, Mark", 
+            "last": "Di Suvero", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 58993, 
     "materials": "lithograph and screenprint", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Tyler Graphics", 
+            "first": null, 
+            "fullname": "Tyler Graphics", 
             "irn": 2422, 
-            "name": "Tyler Graphics"
+            "last": "Tyler Graphics", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Mark Di Suvero", 

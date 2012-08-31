@@ -2,21 +2,43 @@
     "accession_number": "73.2.24", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "B\u00e9rain, Jean, I", 
+                "UlanIdNo": "500015026"
+            }, 
             "after_follower": null, 
             "birth_date": "1640", 
+            "collaboration": null, 
             "death_date": "1711", 
+            "display_name": "B\u00e9rain, Jean, I", 
+            "first": "Jean", 
+            "fullname": "Jean ,. B\u00e9rain", 
             "irn": 614686, 
-            "name": "B\u00e9rain, Jean, I", 
+            "last": "B\u00e9rain", 
+            "middle": ", I", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Bernard, J. F.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bernard, J. F.", 
+            "first": null, 
+            "fullname": "Bernard, J. F.", 
             "irn": 1978, 
-            "name": "Bernard, J. F.", 
+            "last": "Bernard, J. F.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "11 1/2 X 16 1/2 in. (image)\n13 1/4 X 18 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 43008, 
     "materials": "engraving on paper", 
     "on_view": false, 

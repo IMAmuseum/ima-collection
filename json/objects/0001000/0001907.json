@@ -2,12 +2,23 @@
     "accession_number": "50.13", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utrillo, Maurice", 
+                "UlanIdNo": "500008404"
+            }, 
             "after_follower": null, 
             "birth_date": "1883", 
+            "collaboration": null, 
             "death_date": "1955", 
+            "display_name": "Utrillo, Maurice", 
+            "first": "Maurice", 
+            "fullname": "Maurice Utrillo", 
             "irn": 608196, 
-            "name": "Utrillo, Maurice", 
+            "last": "Utrillo", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "27 x 21 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1907, 
     "materials": "gouache on paper mounted on canvas", 
     "on_view": false, 

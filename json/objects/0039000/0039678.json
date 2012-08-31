@@ -2,21 +2,43 @@
     "accession_number": "2000.197", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pyne, James Baker", 
+                "UlanIdNo": "500018937"
+            }, 
             "after_follower": null, 
             "birth_date": "1800", 
+            "collaboration": null, 
             "death_date": "1870", 
+            "display_name": "Pyne, James Baker", 
+            "first": "James", 
+            "fullname": "James B. Pyne", 
             "irn": 618518, 
-            "name": "Pyne, James Baker", 
+            "last": "Pyne", 
+            "middle": "Baker", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Picken, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": "1870", 
+            "display_name": "Picken, Thomas", 
+            "first": null, 
+            "fullname": "Picken, Thomas", 
             "irn": 1864, 
-            "name": "Picken, Thomas", 
+            "last": "Picken, Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 39678, 
     "materials": "chromolithographs and letterpress (25)", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Day & Son Lithographers", 
+            "first": null, 
+            "fullname": "Day & Son Lithographers", 
             "irn": 1975, 
-            "name": "Day & Son Lithographers"
+            "last": "Day & Son Lithographers", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

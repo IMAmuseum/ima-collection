@@ -2,21 +2,43 @@
     "accession_number": "2002.115", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gene Davis", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1920", 
+            "collaboration": null, 
             "death_date": "1985", 
+            "display_name": "Gene Davis", 
+            "first": null, 
+            "fullname": "Gene Davis", 
             "irn": 2882, 
-            "name": "Gene Davis", 
+            "last": "Gene Davis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Alpha Omega", 
+            "first": null, 
+            "fullname": "Alpha Omega", 
             "irn": 2430, 
-            "name": "Alpha Omega", 
+            "last": "Alpha Omega", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 59198, 
     "materials": "screen print", 
     "on_view": false, 

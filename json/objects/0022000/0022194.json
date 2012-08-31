@@ -2,12 +2,23 @@
     "accession_number": "09.104", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1719", 
+            "collaboration": null, 
             "death_date": "1769", 
+            "display_name": "Pierre Fran\u00e7ois Beaumont", 
+            "first": "Pierre Fran\u00e7ois", 
+            "fullname": "Pierre Fran\u00e7ois Beaumont", 
             "irn": 1517, 
-            "name": "Pierre Fran\u00e7ois Beaumont", 
+            "last": "Beaumont", 
+            "middle": null, 
             "nationality": "French", 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 22194, 
     "materials": "engraving", 
     "on_view": false, 

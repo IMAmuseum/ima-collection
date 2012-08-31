@@ -2,12 +2,23 @@
     "accession_number": "45.244", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Romek, \u00c1rp\u00e1d", 
+                "UlanIdNo": "500008875"
+            }, 
             "after_follower": null, 
             "birth_date": "1883", 
+            "collaboration": null, 
             "death_date": "1960", 
+            "display_name": "Romek, \u00c1rp\u00e1d", 
+            "first": "rp", 
+            "fullname": "rp \u00c1. Romek", 
             "irn": 608656, 
-            "name": "Romek, \u00c1rp\u00e1d", 
+            "last": "Romek", 
+            "middle": "\u00c1\u00e1d", 
             "nationality": "Hungarian", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "28 x 34 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4202, 
     "materials": "oil on canvas", 
     "on_view": false, 

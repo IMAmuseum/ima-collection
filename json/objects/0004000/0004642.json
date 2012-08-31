@@ -2,21 +2,43 @@
     "accession_number": "1986.110", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bloemaert, Abraham", 
+                "UlanIdNo": "500007342"
+            }, 
             "after_follower": null, 
             "birth_date": "1566", 
+            "collaboration": null, 
             "death_date": "1651", 
+            "display_name": "Bloemaert, Abraham", 
+            "first": "Abraham", 
+            "fullname": "Abraham Bloemaert", 
             "irn": 607161, 
-            "name": "Bloemaert, Abraham", 
+            "last": "Bloemaert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Bry, Johann Theodor de", 
+                "UlanIdNo": "500028444"
+            }, 
             "after_follower": null, 
             "birth_date": "1561", 
+            "collaboration": null, 
             "death_date": "1623", 
+            "display_name": "Bry, Johann Theodor de", 
+            "first": "Johann", 
+            "fullname": "Johann T. Bry", 
             "irn": 627832, 
-            "name": "Bry, Johann Theodor de", 
+            "last": "Bry", 
+            "middle": "Theodor de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 4642, 
     "materials": "engraving", 
     "on_view": false, 

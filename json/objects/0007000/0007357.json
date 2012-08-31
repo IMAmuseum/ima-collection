@@ -2,12 +2,23 @@
     "accession_number": "82.55", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stevens, Alfred Emile Leopold Joseph Victor", 
+                "UlanIdNo": "500000844"
+            }, 
             "after_follower": null, 
             "birth_date": "1823", 
+            "collaboration": null, 
             "death_date": "1906", 
+            "display_name": "Stevens, Alfred Emile Leopold Joseph Victor", 
+            "first": "Alfred", 
+            "fullname": "Alfred E. Stevens", 
             "irn": 600822, 
-            "name": "Stevens, Alfred Emile Leopold Joseph Victor", 
+            "last": "Stevens", 
+            "middle": "Emile Leopold Joseph Victor", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "29 3/8 x 25 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7357, 
     "materials": "oil on canvas", 
     "on_view": true, 

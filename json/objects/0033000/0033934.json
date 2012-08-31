@@ -2,21 +2,43 @@
     "accession_number": "1984.102", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1820", 
+            "collaboration": null, 
             "death_date": "1893", 
+            "display_name": "Leopold Gely", 
+            "first": "Leopold", 
+            "fullname": "Leopold Gely", 
             "irn": 1457, 
-            "name": "Leopold Gely", 
+            "last": "Gely", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "S\u00e8vres Porcelain Manufactory", 
+            "first": null, 
+            "fullname": "S\u00e8vres Porcelain Manufactory", 
             "irn": 1180, 
-            "name": "S\u00e8vres Porcelain Manufactory", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "S\u00e8vres Porcelain Manufactory", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "H: 27 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 33934, 
     "materials": "hard paste porcelain, gilding", 
     "on_view": false, 

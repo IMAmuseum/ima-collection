@@ -2,21 +2,43 @@
     "accession_number": "2009.384", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tejo Remy", 
+            "first": "Tejo", 
+            "fullname": "Tejo Remy", 
             "irn": 5664, 
-            "name": "Tejo Remy", 
+            "last": "Remy", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Droog Design", 
+            "first": null, 
+            "fullname": "Droog Design", 
             "irn": 6124, 
-            "name": "Droog Design", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Droog Design", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "Single Bottle: 10 5/8 \u00d7 3 3/4 in. (26.9 \u00d7 9.3 cm) (height \u00d7 diameter)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64784, 
     "materials": "existing glass milk bottles and steel", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "83.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Percival De Luce", 
+                "UlanIdNo": "500103270"
+            }, 
             "after_follower": null, 
             "birth_date": "1847", 
+            "collaboration": null, 
             "death_date": "1914", 
+            "display_name": "Percival De Luce", 
+            "first": "Percival", 
+            "fullname": "Percival d. Luce", 
             "irn": 699645, 
-            "name": "Percival De Luce", 
+            "last": "Luce", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 x 12 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16482, 
     "materials": "oil on canvas", 
     "on_view": false, 

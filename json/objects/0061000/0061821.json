@@ -2,12 +2,23 @@
     "accession_number": "LH2003.3A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "William Cowper", 
+            "first": "William", 
+            "fullname": "William Cowper", 
             "irn": 2965, 
-            "name": "William Cowper", 
+            "last": "Cowper", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61821, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "William Pickering", 
+            "first": null, 
+            "fullname": "William Pickering", 
             "irn": 2966, 
-            "name": "William Pickering"
+            "last": "William Pickering", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

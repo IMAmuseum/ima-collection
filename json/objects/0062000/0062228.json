@@ -2,12 +2,23 @@
     "accession_number": "LH2003.75A-N", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1819-1875", 
+            "collaboration": null, 
             "death_date": "1819-1875", 
+            "display_name": "Charles Kingsley", 
+            "first": "Charles", 
+            "fullname": "Charles Kingsley", 
             "irn": 3133, 
-            "name": "Charles Kingsley", 
+            "last": "Kingsley", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/8 x 6 1/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62228, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "J.F. Taylor & Co.", 
+            "first": null, 
+            "fullname": "J.F. Taylor & Co.", 
             "irn": 3134, 
-            "name": "J.F. Taylor & Co."
+            "last": "J.F. Taylor & Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

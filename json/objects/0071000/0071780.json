@@ -2,12 +2,23 @@
     "accession_number": "2011.109", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Peterdi, Gabor F.", 
+                "UlanIdNo": "500022299"
+            }, 
             "after_follower": null, 
             "birth_date": "1915", 
+            "collaboration": null, 
             "death_date": "2001", 
+            "display_name": "Peterdi, Gabor F.", 
+            "first": "Gabor", 
+            "fullname": "Gabor F. Peterdi", 
             "irn": 621818, 
-            "name": "Peterdi, Gabor F.", 
+            "last": "Peterdi", 
+            "middle": "F", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 x 16 7/8 in. (image)\n15 5/8 x 21 3/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71780, 
     "materials": "etching and engraving with stenciled coloring on paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Pace Editions, Inc.", 
+            "first": null, 
+            "fullname": "Pace Editions, Inc.", 
             "irn": 4097, 
-            "name": "Pace Editions, Inc."
+            "last": null, 
+            "middle": null, 
+            "organization": "Pace Editions, Inc.", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 The Estate of Gabor F. Peterdi", 

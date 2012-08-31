@@ -2,21 +2,43 @@
     "accession_number": "2011.217", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Wright of Derby", 
+                "UlanIdNo": "500029777"
+            }, 
             "after_follower": "After", 
             "birth_date": "1734", 
+            "collaboration": null, 
             "death_date": "1797", 
+            "display_name": "Joseph Wright of Derby", 
+            "first": null, 
+            "fullname": null, 
             "irn": 629140, 
-            "name": "Joseph Wright of Derby", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": null
         }, 
         {
+            "ULAN": {
+                "Name": "Earlom, Richard", 
+                "UlanIdNo": "500018023"
+            }, 
             "after_follower": null, 
             "birth_date": "1743", 
+            "collaboration": null, 
             "death_date": "1822", 
+            "display_name": "Earlom, Richard", 
+            "first": "Richard", 
+            "fullname": "Richard Earlom", 
             "irn": 617619, 
-            "name": "Earlom, Richard", 
+            "last": "Earlom", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "19 x 23 1/4 in. (image)\n22 1/4 x 25 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73214, 
     "materials": "mezzotint on cream laid paper", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Boydell, John", 
+                "UlanIdNo": "500000875"
+            }, 
+            "birth_date": "1719", 
+            "collaboration": null, 
+            "death_date": "1804", 
+            "display_name": "Boydell, John", 
+            "first": "John", 
+            "fullname": "John Boydell", 
             "irn": 600852, 
-            "name": "Boydell, John"
+            "last": "Boydell", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "rights": null, 

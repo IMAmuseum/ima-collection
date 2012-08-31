@@ -2,12 +2,23 @@
     "accession_number": "1992.202", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mason, Alice Trumbull", 
+                "UlanIdNo": "500010243"
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1971", 
+            "display_name": "Mason, Alice Trumbull", 
+            "first": "Alice", 
+            "fullname": "Alice T. Mason", 
             "irn": 609997, 
-            "name": "Mason, Alice Trumbull", 
+            "last": "Mason", 
+            "middle": "Trumbull", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/16 x 10 in. |  20.4 x 25.4 cm. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 261, 
     "materials": "color woodcut", 
     "on_view": false, 

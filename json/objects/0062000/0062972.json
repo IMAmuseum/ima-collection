@@ -2,12 +2,23 @@
     "accession_number": "LH2003.95F", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Emile Zola", 
+            "first": "Emile", 
+            "fullname": "Emile Zola", 
             "irn": 3158, 
-            "name": "Emile Zola", 
+            "last": "Zola", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 1/16 x 6 3/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62972, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Boni & Liveright", 
+            "first": null, 
+            "fullname": "Boni & Liveright", 
             "irn": 3159, 
-            "name": "Boni & Liveright"
+            "last": "Boni & Liveright", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

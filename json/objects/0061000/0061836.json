@@ -2,12 +2,23 @@
     "accession_number": "LH2003.18A-J", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Thomas Moore", 
+            "first": "Thomas", 
+            "fullname": "Thomas Moore", 
             "irn": 2988, 
-            "name": "Thomas Moore", 
+            "last": "Moore", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 3/4 x 4 3/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61836, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Longman, Brown, Green and Longmans", 
+            "first": null, 
+            "fullname": "Longman, Brown, Green and Longmans", 
             "irn": 2989, 
-            "name": "Longman, Brown, Green and Longmans"
+            "last": "Longman, Brown, Green and Longmans", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

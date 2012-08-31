@@ -2,12 +2,23 @@
     "accession_number": "08.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Thomas, Stephen Seymour", 
+                "UlanIdNo": "500028705"
+            }, 
             "after_follower": null, 
             "birth_date": "1868", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Thomas, Stephen Seymour", 
+            "first": "Stephen", 
+            "fullname": "Stephen S. Thomas", 
             "irn": 628089, 
-            "name": "Thomas, Stephen Seymour", 
+            "last": "Thomas", 
+            "middle": "Seymour", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "36 1/2 x 29 in.\n51 3/8 x 44 in. (frame)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13077, 
     "materials": "oil on canvas", 
     "on_view": false, 

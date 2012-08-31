@@ -2,12 +2,23 @@
     "accession_number": "60.189", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Duck, Jacob", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "c.1600", 
+            "collaboration": null, 
             "death_date": "1667", 
+            "display_name": "Duck, Jacob", 
+            "first": "Jacob", 
+            "fullname": "Jacob Duck", 
             "irn": 3222, 
-            "name": "Duck, Jacob", 
+            "last": "Duck", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 1/2 x 10 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 25627, 
     "materials": "oil on wood", 
     "on_view": true, 

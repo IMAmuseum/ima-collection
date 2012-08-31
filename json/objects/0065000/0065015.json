@@ -2,12 +2,23 @@
     "accession_number": "2008.48J", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gilliam, Sam", 
+                "UlanIdNo": "500013570"
+            }, 
             "after_follower": null, 
             "birth_date": "1933", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Gilliam, Sam", 
+            "first": "Sam", 
+            "fullname": "Sam Gilliam", 
             "irn": 613253, 
-            "name": "Gilliam, Sam", 
+            "last": "Gilliam", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "75 1/8 x 40 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65015, 
     "materials": "acylic on canvas with collage", 
     "on_view": false, 

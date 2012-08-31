@@ -2,12 +2,23 @@
     "accession_number": "C10081", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vel\u00e1zquez, Diego", 
+                "UlanIdNo": "500016881"
+            }, 
             "after_follower": "School of", 
             "birth_date": "1599", 
+            "collaboration": null, 
             "death_date": "1660", 
+            "display_name": "Vel\u00e1zquez, Diego", 
+            "first": "Diego", 
+            "fullname": "Diego Vel\u00e1zquez", 
             "irn": 616505, 
-            "name": "Vel\u00e1zquez, Diego", 
+            "last": "Vel\u00e1zquez", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "21 1/4 x 19 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34536, 
     "materials": "oil on canvas", 
     "on_view": false, 

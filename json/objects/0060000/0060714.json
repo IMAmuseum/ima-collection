@@ -2,12 +2,23 @@
     "accession_number": "2003.62", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Steichen, Edward Jean", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1876-1973", 
+            "collaboration": null, 
             "death_date": "1876-1973", 
+            "display_name": "Steichen, Edward Jean", 
+            "first": null, 
+            "fullname": "Steichen, Edward Jean", 
             "irn": 2526, 
-            "name": "Steichen, Edward Jean", 
+            "last": "Steichen, Edward Jean", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 60714, 
     "materials": "photogravure hinged to paper mount", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Camera Work", 
+            "first": null, 
+            "fullname": "Camera Work", 
             "irn": 2525, 
-            "name": "Camera Work"
+            "last": "Camera Work", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

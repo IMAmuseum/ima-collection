@@ -2,21 +2,43 @@
     "accession_number": "78.269", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Louis Comfort Tiffany", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1848", 
+            "collaboration": null, 
             "death_date": "1933", 
+            "display_name": "Louis Comfort Tiffany", 
+            "first": "Louis", 
+            "fullname": "Louis C. Tiffany", 
             "irn": 2834, 
-            "name": "Louis Comfort Tiffany", 
+            "last": "Tiffany", 
+            "middle": "Comfort", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tiffany and Company", 
+            "first": null, 
+            "fullname": "Tiffany and Company", 
             "irn": 1085, 
-            "name": "Tiffany and Company", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Tiffany and Company", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "13 3/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35345, 
     "materials": "lead glass and sterling silver", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "LH2003.61R-DD", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Anatole France", 
+            "first": "Anatole", 
+            "fullname": "Anatole France", 
             "irn": 3049, 
-            "name": "Anatole France", 
+            "last": "France", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63011, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Gabriel Wells", 
+            "first": null, 
+            "fullname": "Gabriel Wells", 
             "irn": 3048, 
-            "name": "Gabriel Wells"
+            "last": "Gabriel Wells", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

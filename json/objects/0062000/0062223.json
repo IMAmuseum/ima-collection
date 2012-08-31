@@ -2,12 +2,23 @@
     "accession_number": "LH2003.70A-M", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1809", 
+            "collaboration": null, 
             "death_date": "1894", 
+            "display_name": "Oliver W. Holmes", 
+            "first": "Oliver", 
+            "fullname": "Oliver W. Holmes", 
             "irn": 3126, 
-            "name": "Oliver W. Holmes", 
+            "last": "Holmes", 
+            "middle": "Wendell", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/4 x 5 5/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62223, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Houghton Mifflin Company", 
+            "first": null, 
+            "fullname": "Houghton Mifflin Company", 
             "irn": 3015, 
-            "name": "Houghton Mifflin Company"
+            "last": "Houghton Mifflin Company", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

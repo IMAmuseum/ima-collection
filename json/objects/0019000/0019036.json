@@ -2,12 +2,23 @@
     "accession_number": "62.222", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Morten, Thomas", 
+                "UlanIdNo": "500026072"
+            }, 
             "after_follower": null, 
             "birth_date": "1836", 
+            "collaboration": null, 
             "death_date": "1866", 
+            "display_name": "Morten, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Morten", 
             "irn": 625502, 
-            "name": "Morten, Thomas", 
+            "last": "Morten", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 x 8 7/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 19036, 
     "materials": "oil on canvas", 
     "on_view": false, 

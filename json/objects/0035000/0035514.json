@@ -2,12 +2,23 @@
     "accession_number": "65.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jenkins, Paul", 
+                "UlanIdNo": "500007772"
+            }, 
             "after_follower": null, 
             "birth_date": "1923", 
+            "collaboration": null, 
             "death_date": "2012", 
+            "display_name": "Jenkins, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul Jenkins", 
             "irn": 5016, 
-            "name": "Jenkins, Paul", 
+            "last": "Jenkins", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "51 x 77 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35514, 
     "materials": "oil on canvas", 
     "on_view": false, 

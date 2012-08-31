@@ -2,12 +2,23 @@
     "accession_number": "76.257", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wille, Johann Georg", 
+                "UlanIdNo": "500019339"
+            }, 
             "after_follower": null, 
             "birth_date": "1715", 
+            "collaboration": null, 
             "death_date": "1808", 
+            "display_name": "Wille, Johann Georg", 
+            "first": "Johann", 
+            "fullname": "Johann G. Wille", 
             "irn": 618914, 
-            "name": "Wille, Johann Georg", 
+            "last": "Wille", 
+            "middle": "Georg", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 x 7 1/2 in. (plate)\n21 5/8 x 19 1/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15700, 
     "materials": "engraving", 
     "on_view": false, 

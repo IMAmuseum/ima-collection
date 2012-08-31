@@ -2,21 +2,43 @@
     "accession_number": "76.284.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Giuseffi, Girolamo", 
+                "UlanIdNo": "500096221"
+            }, 
             "after_follower": null, 
             "birth_date": "1864", 
+            "collaboration": null, 
             "death_date": "1934", 
+            "display_name": "Giuseffi, Girolamo", 
+            "first": "Girolamo", 
+            "fullname": "Girolamo Giuseffi", 
             "irn": 692666, 
-            "name": "Giuseffi, Girolamo", 
+            "last": "Giuseffi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "G. Giuseffi L.T. Company", 
+            "first": null, 
+            "fullname": "G. Giuseffi L.T. Company", 
             "irn": 1079, 
-            "name": "G. Giuseffi L.T. Company", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "G. Giuseffi L.T. Company", 
+            "party_type": "Organisation", 
             "role": "Design House"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "L: 46 in. (dress)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 57990, 
     "materials": "velvet, chiffon lace, satin, fur trim", 
     "on_view": false, 

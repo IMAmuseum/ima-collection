@@ -2,12 +2,23 @@
     "accession_number": "32.134", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Matisse, Henri", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1869", 
+            "collaboration": null, 
             "death_date": "1954", 
+            "display_name": "Matisse, Henri", 
+            "first": "Henri", 
+            "fullname": "Henri Matisse", 
             "irn": 1263, 
-            "name": "Matisse, Henri", 
+            "last": "Matisse", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "3 1/4 x 2 1/4 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30495, 
     "materials": "drypoint on chine appliqu\u00e9", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "72.43.7", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tayler, John Frederick", 
+                "UlanIdNo": "500021236"
+            }, 
             "after_follower": null, 
             "birth_date": "1802", 
+            "collaboration": null, 
             "death_date": "1889", 
+            "display_name": "Tayler, John Frederick", 
+            "first": "John", 
+            "fullname": "John F. Tayler", 
             "irn": 620774, 
-            "name": "Tayler, John Frederick", 
+            "last": "Tayler", 
+            "middle": "Frederick", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55201, 
     "materials": "etching", 
     "on_view": false, 

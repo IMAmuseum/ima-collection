@@ -2,12 +2,23 @@
     "accession_number": "2008.764", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hayter, Stanley William", 
+                "UlanIdNo": "500010689"
+            }, 
             "after_follower": null, 
             "birth_date": "1901", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Hayter, Stanley William", 
+            "first": "Stanley", 
+            "fullname": "Stanley W. Hayter", 
             "irn": 610435, 
-            "name": "Hayter, Stanley William", 
+            "last": "Hayter", 
+            "middle": "William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,18 +27,45 @@
     "cultures": [], 
     "dimensions": "5 1/2 x 3 1/2 in. (image)\n7 1/2 x 10 in. (sheet - unfolded)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66700, 
     "materials": "engraving on cream laid paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": "Hayter, Stanley William", 
+                "UlanIdNo": "500010689"
+            }, 
+            "birth_date": "1901", 
+            "collaboration": null, 
+            "death_date": "1988", 
+            "display_name": "Hayter, Stanley William", 
+            "first": "Stanley", 
+            "fullname": "Stanley W. Hayter", 
             "irn": 610435, 
-            "name": "Hayter, Stanley William"
+            "last": "Hayter", 
+            "middle": "William", 
+            "organization": null, 
+            "party_type": "Ulan"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Atelier 17", 
+            "first": null, 
+            "fullname": "Atelier 17", 
             "irn": 2701, 
-            "name": "Atelier 17"
+            "last": null, 
+            "middle": null, 
+            "organization": "Atelier 17", 
+            "party_type": "Organisation"
         }
     ], 
     "publishers": [], 

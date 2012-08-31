@@ -2,12 +2,23 @@
     "accession_number": "80.932.1-.63", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hakewill, James", 
+                "UlanIdNo": "500014401"
+            }, 
             "after_follower": null, 
             "birth_date": "1778", 
+            "collaboration": null, 
             "death_date": "1843", 
+            "display_name": "Hakewill, James", 
+            "first": "James", 
+            "fullname": "James Hakewill", 
             "irn": 1817, 
-            "name": "Hakewill, James", 
+            "last": "Hakewill", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 1/4 x 11 x 1 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 55666, 
     "materials": "engravings and letterpress", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "John Murray", 
+            "first": "John", 
+            "fullname": "John Murray", 
             "irn": 3034, 
-            "name": "John Murray"
+            "last": "Murray", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

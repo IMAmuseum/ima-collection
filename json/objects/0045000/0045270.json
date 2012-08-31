@@ -2,21 +2,43 @@
     "accession_number": "34.30X", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Flaxman, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1755", 
+            "collaboration": null, 
             "death_date": "1826", 
+            "display_name": "Flaxman, John", 
+            "first": "John", 
+            "fullname": "John Flaxman", 
             "irn": 740, 
-            "name": "Flaxman, John", 
+            "last": "Flaxman", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Piroli, Tommaso", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1752", 
+            "collaboration": null, 
             "death_date": "1824", 
+            "display_name": "Piroli, Tommaso", 
+            "first": null, 
+            "fullname": "Piroli, Tommaso", 
             "irn": 249, 
-            "name": "Piroli, Tommaso", 
+            "last": "Piroli, Tommaso", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45270, 
     "materials": "engraving", 
     "on_view": false, 

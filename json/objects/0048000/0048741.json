@@ -2,21 +2,43 @@
     "accession_number": "79.1027", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jones, Allen", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1937", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Jones, Allen", 
+            "first": null, 
+            "fullname": "Jones, Allen", 
             "irn": 1128, 
-            "name": "Jones, Allen", 
+            "last": "Jones, Allen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Matthieu A G, Zurich", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Matthieu A G, Zurich", 
+            "first": null, 
+            "fullname": "Matthieu A G, Zurich", 
             "irn": 2295, 
-            "name": "Matthieu A G, Zurich", 
+            "last": "Matthieu A G, Zurich", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 48741, 
     "materials": "color lithograph", 
     "on_view": false, 

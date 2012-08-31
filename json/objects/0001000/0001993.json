@@ -2,12 +2,23 @@
     "accession_number": "72.12.72A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "McKell, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "McKell, James", 
+            "first": null, 
+            "fullname": "McKell, James", 
             "irn": 2355, 
-            "name": "McKell, James", 
+            "last": "McKell, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 1993, 
     "materials": "offset lithograph", 
     "on_view": false, 

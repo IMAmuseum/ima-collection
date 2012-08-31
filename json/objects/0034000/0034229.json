@@ -2,12 +2,23 @@
     "accession_number": "09.106", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bonington, Richard Parkes", 
+                "UlanIdNo": "500024171"
+            }, 
             "after_follower": null, 
             "birth_date": "1802", 
+            "collaboration": null, 
             "death_date": "1828", 
+            "display_name": "Bonington, Richard Parkes", 
+            "first": "Richard", 
+            "fullname": "Richard P. Bonington", 
             "irn": 623650, 
-            "name": "Bonington, Richard Parkes", 
+            "last": "Bonington", 
+            "middle": "Parkes", 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 34229, 
     "materials": "lithograph", 
     "on_view": false, 

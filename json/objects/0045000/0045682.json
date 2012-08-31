@@ -2,12 +2,23 @@
     "accession_number": "27.82", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Unger, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Unger, William", 
+            "first": null, 
+            "fullname": "Unger, William", 
             "irn": 950, 
-            "name": "Unger, William", 
+            "last": "Unger, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45682, 
     "materials": "etching", 
     "on_view": false, 

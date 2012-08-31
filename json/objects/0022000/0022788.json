@@ -2,12 +2,23 @@
     "accession_number": "1998.234", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "S\u00e9guin, Armand", 
+                "UlanIdNo": "500019502"
+            }, 
             "after_follower": null, 
             "birth_date": "1869", 
+            "collaboration": null, 
             "death_date": "1903", 
+            "display_name": "S\u00e9guin, Armand", 
+            "first": "Armand", 
+            "fullname": "Armand S\u00e9guin", 
             "irn": 619074, 
-            "name": "S\u00e9guin, Armand", 
+            "last": "S\u00e9guin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 22788, 
     "materials": "etching and roulette", 
     "on_view": false, 

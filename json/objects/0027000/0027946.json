@@ -2,12 +2,23 @@
     "accession_number": "67.25", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Corneille de Lyon", 
+                "UlanIdNo": "500115387"
+            }, 
             "after_follower": "Follower of", 
             "birth_date": "1500", 
+            "collaboration": null, 
             "death_date": "1575", 
+            "display_name": "Corneille de Lyon", 
+            "first": null, 
+            "fullname": "Corneille de Lyon", 
             "irn": 710295, 
-            "name": "Corneille de Lyon", 
+            "last": "Corneille de Lyon", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 x 18 1/2 inches", 
     "dynasty": null, 
+    "images": [], 
     "irn": 27946, 
     "materials": "oil on canvas", 
     "on_view": false, 

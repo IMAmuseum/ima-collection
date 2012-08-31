@@ -2,21 +2,43 @@
     "accession_number": "2011.284", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Anonymous", 
+            "first": null, 
+            "fullname": "Anonymous", 
             "irn": 2740, 
-            "name": "Anonymous", 
+            "last": "Anonymous", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Swingline", 
+            "first": null, 
+            "fullname": "Swingline", 
             "irn": 8286, 
-            "name": "Swingline", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Swingline", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "4 1/4 x 6 x 3 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 74453, 
     "materials": "plastic and metal", 
     "on_view": false, 

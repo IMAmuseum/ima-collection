@@ -2,12 +2,23 @@
     "accession_number": "82.201", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tarbell, Edmund Charles", 
+                "UlanIdNo": "500025696"
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1938", 
+            "display_name": "Tarbell, Edmund Charles", 
+            "first": "Edmund", 
+            "fullname": "Edmund C. Tarbell", 
             "irn": 625136, 
-            "name": "Tarbell, Edmund Charles", 
+            "last": "Tarbell", 
+            "middle": "Charles", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "45 1/2 x 35 1/2 in.\n57 x 46 1/2 x 2 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35255, 
     "materials": "oil on canvas", 
     "on_view": true, 

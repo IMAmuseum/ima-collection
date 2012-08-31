@@ -2,12 +2,23 @@
     "accession_number": "57.202MM", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Erni, Hans", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1909", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Erni, Hans", 
+            "first": null, 
+            "fullname": "Erni, Hans", 
             "irn": 1211, 
-            "name": "Erni, Hans", 
+            "last": "Erni, Hans", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 48816, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Mourlot", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Mourlot", 
+            "first": null, 
+            "fullname": "Mourlot", 
             "irn": 2289, 
-            "name": "Mourlot"
+            "last": "Mourlot", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

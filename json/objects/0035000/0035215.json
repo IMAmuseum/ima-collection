@@ -2,12 +2,23 @@
     "accession_number": "54.10", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Homer, Winslow", 
+                "UlanIdNo": "500019202"
+            }, 
             "after_follower": null, 
             "birth_date": "1836", 
+            "collaboration": null, 
             "death_date": "1910", 
+            "display_name": "Homer, Winslow", 
+            "first": "Winslow", 
+            "fullname": "Winslow Homer", 
             "irn": 618778, 
-            "name": "Homer, Winslow", 
+            "last": "Homer", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 x 10 1/4 in.\n13 3/4 x 17 3/4 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35215, 
     "materials": "oil on panel", 
     "on_view": true, 

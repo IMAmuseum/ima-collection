@@ -2,21 +2,43 @@
     "accession_number": "66.125", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Currier, Nathaniel", 
+                "UlanIdNo": "500115501"
+            }, 
             "after_follower": null, 
             "birth_date": "1813", 
+            "collaboration": null, 
             "death_date": "1888", 
+            "display_name": "Currier, Nathaniel", 
+            "first": "Nathaniel", 
+            "fullname": "Nathaniel Currier", 
             "irn": 710401, 
-            "name": "Currier, Nathaniel", 
+            "last": "Currier", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Ives, James Merritt", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1824-1895", 
+            "collaboration": null, 
             "death_date": "1824-1895", 
+            "display_name": "Ives, James Merritt", 
+            "first": null, 
+            "fullname": "Ives, James Merritt", 
             "irn": 2175, 
-            "name": "Ives, James Merritt", 
+            "last": "Ives, James Merritt", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 18874, 
     "materials": "hand-colored lithograph", 
     "on_view": false, 

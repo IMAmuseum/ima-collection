@@ -2,12 +2,23 @@
     "accession_number": "LH2003.58A-F", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Ralph W. Emerson", 
+            "first": "Ralph", 
+            "fullname": "Ralph W. Emerson", 
             "irn": 3044, 
-            "name": "Ralph W. Emerson", 
+            "last": "Emerson", 
+            "middle": "Waldo", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/8 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61876, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Houghton Mifflin Company", 
+            "first": null, 
+            "fullname": "Houghton Mifflin Company", 
             "irn": 3015, 
-            "name": "Houghton Mifflin Company"
+            "last": "Houghton Mifflin Company", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

@@ -2,21 +2,43 @@
     "accession_number": "30.1005", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hogarth, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1697", 
+            "collaboration": null, 
             "death_date": "1764", 
+            "display_name": "Hogarth, William", 
+            "first": "William", 
+            "fullname": "William Hogarth", 
             "irn": 1045, 
-            "name": "Hogarth, William", 
+            "last": "Hogarth", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist and Engraver"
         }, 
         {
+            "ULAN": {
+                "Name": "Aveline, Fran\u00e7ois Antoine II", 
+                "UlanIdNo": "500018038"
+            }, 
             "after_follower": null, 
             "birth_date": "1727", 
+            "collaboration": null, 
             "death_date": "1780", 
+            "display_name": "Aveline, Fran\u00e7ois Antoine II", 
+            "first": "Fran", 
+            "fullname": "Fran \u00e7. Aveline", 
             "irn": 617634, 
-            "name": "Aveline, Fran\u00e7ois Antoine II", 
+            "last": "Aveline", 
+            "middle": "\u00e7ois Antoine II", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,9 +47,10 @@
     "cultures": [], 
     "dimensions": "15 3/4 x 21 1/4 in. (image)\n17 1/4 x 23 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 37277, 
     "materials": "etching and engraving", 
-    "on_view": false, 
+    "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 

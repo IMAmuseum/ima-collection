@@ -2,12 +2,23 @@
     "accession_number": "82.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hall, Susan", 
+                "UlanIdNo": "500088898"
+            }, 
             "after_follower": null, 
             "birth_date": "1943", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hall, Susan", 
+            "first": "Susan", 
+            "fullname": "Susan Hall", 
             "irn": 685427, 
-            "name": "Hall, Susan", 
+            "last": "Hall", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 545, 
     "materials": "screenprint and lithograph", 
     "on_view": false, 

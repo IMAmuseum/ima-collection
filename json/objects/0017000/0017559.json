@@ -2,12 +2,23 @@
     "accession_number": "63.200", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Levine, Jack", 
+                "UlanIdNo": "500017725"
+            }, 
             "after_follower": null, 
             "birth_date": "1915", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Levine, Jack", 
+            "first": "Jack", 
+            "fullname": "Jack Levine", 
             "irn": 617326, 
-            "name": "Levine, Jack", 
+            "last": "Levine", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 17559, 
     "materials": "etching and aquatint", 
     "on_view": false, 

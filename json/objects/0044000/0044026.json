@@ -2,12 +2,23 @@
     "accession_number": "1985.66.56", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Forsyth, William J.", 
+                "UlanIdNo": "500058161"
+            }, 
             "after_follower": null, 
             "birth_date": "1854", 
+            "collaboration": null, 
             "death_date": "1935", 
+            "display_name": "Forsyth, William J.", 
+            "first": "William", 
+            "fullname": "William J. Forsyth", 
             "irn": 655000, 
-            "name": "Forsyth, William J.", 
+            "last": "Forsyth", 
+            "middle": "J.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 44026, 
     "materials": "pencil on off-white paper", 
     "on_view": false, 

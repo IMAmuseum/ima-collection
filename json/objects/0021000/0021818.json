@@ -2,12 +2,23 @@
     "accession_number": "66.11", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Betts, Edward Howard", 
+                "UlanIdNo": "500027168"
+            }, 
             "after_follower": null, 
             "birth_date": "1920", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Betts, Edward Howard", 
+            "first": "Edward", 
+            "fullname": "Edward H. Betts", 
             "irn": 626581, 
-            "name": "Betts, Edward Howard", 
+            "last": "Betts", 
+            "middle": "Howard", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "42 x 45 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 21818, 
     "materials": "polymer on canvas", 
     "on_view": false, 

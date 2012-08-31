@@ -2,12 +2,23 @@
     "accession_number": "72.43.20", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Chauvel, Th\u00e9ophile-Narcisse", 
+                "UlanIdNo": "500049897"
+            }, 
             "after_follower": null, 
             "birth_date": "1831", 
+            "collaboration": null, 
             "death_date": "1910", 
+            "display_name": "Chauvel, Th\u00e9ophile-Narcisse", 
+            "first": "Th", 
+            "fullname": "Th \u00e9. Chauvel", 
             "irn": 648296, 
-            "name": "Chauvel, Th\u00e9ophile-Narcisse", 
+            "last": "Chauvel", 
+            "middle": "\u00e9ophile-Narcisse", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55214, 
     "materials": "etching", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "LH2003.24A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Paul Scarron", 
+            "first": "Paul", 
+            "fullname": "Paul Scarron", 
             "irn": 2998, 
-            "name": "Paul Scarron", 
+            "last": "Scarron", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61842, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Lawrence & Bullen", 
+            "first": null, 
+            "fullname": "Lawrence & Bullen", 
             "irn": 2999, 
-            "name": "Lawrence & Bullen"
+            "last": "Lawrence & Bullen", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

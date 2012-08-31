@@ -2,21 +2,43 @@
     "accession_number": "80.1812", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Short, Frank", 
+                "UlanIdNo": "500003216"
+            }, 
             "after_follower": "After", 
             "birth_date": "1857", 
+            "collaboration": null, 
             "death_date": "1945", 
+            "display_name": "Short, Frank", 
+            "first": "Frank", 
+            "fullname": "Frank Short", 
             "irn": 603138, 
-            "name": "Short, Frank", 
+            "last": "Short", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 3/8 x 10 7/8 in. (image)\n9 3/4 x 12 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 42168, 
     "materials": "mezzotint over etching", 
     "on_view": false, 

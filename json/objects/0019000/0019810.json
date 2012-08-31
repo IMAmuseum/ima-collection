@@ -2,12 +2,23 @@
     "accession_number": "14.60", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Holloway, Thomas", 
+                "UlanIdNo": "500015192"
+            }, 
             "after_follower": null, 
             "birth_date": "1748", 
+            "collaboration": null, 
             "death_date": "1827", 
+            "display_name": "Holloway, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Holloway", 
             "irn": 614850, 
-            "name": "Holloway, Thomas", 
+            "last": "Holloway", 
+            "middle": null, 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 19810, 
     "materials": "engraving", 
     "on_view": false, 

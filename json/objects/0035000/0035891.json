@@ -2,12 +2,23 @@
     "accession_number": "82.110", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Brown, Roger", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1941", 
+            "collaboration": null, 
             "death_date": "1998", 
+            "display_name": "Brown, Roger", 
+            "first": "Roger", 
+            "fullname": "Roger Brown", 
             "irn": 558, 
-            "name": "Brown, Roger", 
+            "last": "Brown", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 35891, 
     "materials": "oil on canvas", 
     "on_view": true, 

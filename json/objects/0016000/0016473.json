@@ -2,12 +2,23 @@
     "accession_number": "56.162", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Boulogne, Valentin de", 
+                "UlanIdNo": "500021073"
+            }, 
             "after_follower": null, 
             "birth_date": "1591", 
+            "collaboration": null, 
             "death_date": "1632", 
+            "display_name": "Boulogne, Valentin de", 
+            "first": "Valentin", 
+            "fullname": "Valentin d. Boulogne", 
             "irn": 620614, 
-            "name": "Boulogne, Valentin de", 
+            "last": "Boulogne", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "47 x 62 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16473, 
     "materials": "oil on canvas", 
     "on_view": false, 

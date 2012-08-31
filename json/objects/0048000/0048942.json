@@ -2,12 +2,23 @@
     "accession_number": "69.10.7", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "McGarrell, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1930", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "McGarrell, James", 
+            "first": null, 
+            "fullname": "McGarrell, James", 
             "irn": 1231, 
-            "name": "McGarrell, James", 
+            "last": "McGarrell, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 48942, 
     "materials": "lithograph", 
     "on_view": false, 

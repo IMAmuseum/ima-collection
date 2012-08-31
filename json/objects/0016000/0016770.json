@@ -2,12 +2,23 @@
     "accession_number": "52.92", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Beechey, William", 
+                "UlanIdNo": "500014785"
+            }, 
             "after_follower": null, 
             "birth_date": "1753", 
+            "collaboration": null, 
             "death_date": "1839", 
+            "display_name": "Beechey, William", 
+            "first": "William", 
+            "fullname": "William Beechey", 
             "irn": 614448, 
-            "name": "Beechey, William", 
+            "last": "Beechey", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "50 x 40 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16770, 
     "materials": "oil on canvas", 
     "on_view": false, 

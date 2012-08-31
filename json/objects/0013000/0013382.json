@@ -2,12 +2,23 @@
     "accession_number": "21.130", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Proctor, Alexander Phimister", 
+                "UlanIdNo": "500024193"
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1950", 
+            "display_name": "Proctor, Alexander Phimister", 
+            "first": "Alexander", 
+            "fullname": "Alexander P. Proctor", 
             "irn": 623671, 
-            "name": "Proctor, Alexander Phimister", 
+            "last": "Proctor", 
+            "middle": "Phimister", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 H", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13382, 
     "materials": null, 
     "on_view": false, 

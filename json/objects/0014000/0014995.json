@@ -2,12 +2,23 @@
     "accession_number": "09.196", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cesi, Carlo", 
+                "UlanIdNo": "500030069"
+            }, 
             "after_follower": null, 
             "birth_date": "1612", 
+            "collaboration": null, 
             "death_date": "1692", 
+            "display_name": "Cesi, Carlo", 
+            "first": "Carlo", 
+            "fullname": "Carlo Cesi", 
             "irn": 629424, 
-            "name": "Cesi, Carlo", 
+            "last": "Cesi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 14995, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2007.53", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "El Greco", 
+                "UlanIdNo": "500010916"
+            }, 
             "after_follower": null, 
             "birth_date": "1541", 
+            "collaboration": null, 
             "death_date": "1614", 
+            "display_name": "El Greco", 
+            "first": null, 
+            "fullname": "El Greco", 
             "irn": 610658, 
-            "name": "El Greco", 
+            "last": "El Greco", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "28 1/4 x 21 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26457, 
     "materials": "oil on canvas", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "1983.91", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Richmond, William Blake", 
+                "UlanIdNo": "500012779"
+            }, 
             "after_follower": null, 
             "birth_date": "1842", 
+            "collaboration": null, 
             "death_date": "1921", 
+            "display_name": "Richmond, William Blake", 
+            "first": "William", 
+            "fullname": "William B. Richmond", 
             "irn": 612478, 
-            "name": "Richmond, William Blake", 
+            "last": "Richmond", 
+            "middle": "Blake", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "67 1/2 x 56 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 22965, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "49.26", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Moreau, Jean-Michel, the Younger", 
+                "UlanIdNo": "500028967"
+            }, 
             "after_follower": null, 
             "birth_date": "1741", 
+            "collaboration": null, 
             "death_date": "1814", 
+            "display_name": "Moreau, Jean-Michel, the Younger", 
+            "first": "Jean-Michel", 
+            "fullname": "Jean-Michel Moreau the Younger", 
             "irn": 628343, 
-            "name": "Moreau, Jean-Michel, the Younger", 
+            "last": "Moreau", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 32905, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "MH2012.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Anton Michelsen", 
+            "first": null, 
+            "fullname": null, 
             "irn": 8243, 
-            "name": "Anton Michelsen", 
+            "last": null, 
+            "middle": null, 
             "nationality": "Danish", 
+            "organization": "Anton Michelsen", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 1/4 x 7/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 74818, 
     "materials": "enamel on gold washed silver", 
     "on_view": false, 

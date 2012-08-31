@@ -2,21 +2,43 @@
     "accession_number": "2009.646A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pesce, Gaetano", 
+                "UlanIdNo": "500012401"
+            }, 
             "after_follower": null, 
             "birth_date": "1939", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Pesce, Gaetano", 
+            "first": "Gaetano", 
+            "fullname": "Gaetano Pesce", 
             "irn": 612112, 
-            "name": "Pesce, Gaetano", 
+            "last": "Pesce", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "B&B Italia, S.p.A.", 
+            "first": null, 
+            "fullname": "B&B Italia, S.p.A.", 
             "irn": 6507, 
-            "name": "B&B Italia, S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "B&B Italia, S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "A) chair: 41 x 36 x 45 in.\nB) ottoman: diam.: 22 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67743, 
     "materials": "fabric", 
     "on_view": true, 

@@ -2,20 +2,43 @@
     "accession_number": "72.75", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wilson, Frederick", 
+                "UlanIdNo": "500052092"
+            }, 
             "after_follower": null, 
-            "birth_date": null, 
-            "death_date": null, 
-            "name": null, 
+            "birth_date": "1858", 
+            "collaboration": null, 
+            "death_date": "1938", 
+            "display_name": "Wilson, Frederick", 
+            "first": "Frederick", 
+            "fullname": "Frederick Wilson", 
+            "irn": 649920, 
+            "last": "Wilson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tiffany Studios", 
+            "first": null, 
+            "fullname": "Tiffany Studios", 
             "irn": 2835, 
-            "name": "Tiffany Studios", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Tiffany Studios", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -24,6 +47,7 @@
     "cultures": [], 
     "dimensions": "348 x 168 x 4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 3166, 
     "materials": "stained glass, lead", 
     "on_view": true, 

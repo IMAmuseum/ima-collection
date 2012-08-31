@@ -2,12 +2,23 @@
     "accession_number": "1988.263", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kinney, Troy", 
+                "UlanIdNo": "500064181"
+            }, 
             "after_follower": null, 
             "birth_date": "1871", 
+            "collaboration": null, 
             "death_date": "1938", 
+            "display_name": "Kinney, Troy", 
+            "first": "Troy", 
+            "fullname": "Troy Kinney", 
             "irn": 660944, 
-            "name": "Kinney, Troy", 
+            "last": "Kinney", 
+            "middle": null, 
             "nationality": "American", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 13055, 
     "materials": "ink", 
     "on_view": false, 

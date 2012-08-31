@@ -2,21 +2,43 @@
     "accession_number": "2010.3A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1955", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Giorgio Vigna", 
+            "first": "Giorgio", 
+            "fullname": "Giorgio Vigna", 
             "irn": 6647, 
-            "name": "Giorgio Vigna", 
+            "last": "Vigna", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Venini S.p.A.", 
+            "first": null, 
+            "fullname": "Venini S.p.A.", 
             "irn": 6953, 
-            "name": "Venini S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Venini S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "A) vase: H: 21 1/4 in.\nB) vase necklace: Diam.: 7 13/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67812, 
     "materials": "glass and silver", 
     "on_view": false, 

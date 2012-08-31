@@ -2,12 +2,23 @@
     "accession_number": "2011.221", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Audubon, John James", 
+                "UlanIdNo": "500016578"
+            }, 
             "after_follower": null, 
             "birth_date": "1785", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Audubon, John James", 
+            "first": "John", 
+            "fullname": "John J. Audubon", 
             "irn": 616206, 
-            "name": "Audubon, John James", 
+            "last": "Audubon", 
+            "middle": "James", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 1/2 x 7 1/2 x 1 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73216, 
     "materials": "ink on paper, bound volume", 
     "on_view": false, 

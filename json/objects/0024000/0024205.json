@@ -2,12 +2,23 @@
     "accession_number": "57.71", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Morin, Jean", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1600", 
+            "collaboration": null, 
             "death_date": "1650", 
+            "display_name": "Morin, Jean", 
+            "first": null, 
+            "fullname": "Morin, Jean", 
             "irn": 1179, 
-            "name": "Morin, Jean", 
+            "last": "Morin, Jean", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 24205, 
     "materials": "etching and engraving", 
     "on_view": false, 

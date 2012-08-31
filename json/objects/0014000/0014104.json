@@ -2,12 +2,23 @@
     "accession_number": "09.188", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Zannoni, Francesco", 
+                "UlanIdNo": "500058708"
+            }, 
             "after_follower": null, 
             "birth_date": "1710", 
+            "collaboration": null, 
             "death_date": "1792", 
+            "display_name": "Zannoni, Francesco", 
+            "first": "Francesco", 
+            "fullname": "Francesco Zannoni", 
             "irn": 655540, 
-            "name": "Zannoni, Francesco", 
+            "last": "Zannoni", 
+            "middle": null, 
             "nationality": "Italian", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 14104, 
     "materials": "engraving", 
     "on_view": false, 

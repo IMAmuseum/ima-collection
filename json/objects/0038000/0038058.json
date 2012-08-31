@@ -2,12 +2,23 @@
     "accession_number": "80.825.121", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Le Keux, John Henry", 
+                "UlanIdNo": "500049421"
+            }, 
             "after_follower": null, 
             "birth_date": "1812", 
+            "collaboration": null, 
             "death_date": "1896", 
+            "display_name": "Le Keux, John Henry", 
+            "first": "John", 
+            "fullname": "John H. Le Keux", 
             "irn": 647885, 
-            "name": "Le Keux, John Henry", 
+            "last": "Le Keux", 
+            "middle": "Henry", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38058, 
     "materials": "engraving", 
     "on_view": false, 

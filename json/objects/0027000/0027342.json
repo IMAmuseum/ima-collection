@@ -2,12 +2,23 @@
     "accession_number": "1984.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dine, Jim", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1935", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Dine, Jim", 
+            "first": null, 
+            "fullname": "Dine, Jim", 
             "irn": 1712, 
-            "name": "Dine, Jim", 
+            "last": "Dine, Jim", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "48 1/2 x 35 in", 
     "dynasty": null, 
+    "images": [], 
     "irn": 27342, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Petersburg Press", 
+            "first": null, 
+            "fullname": "Petersburg Press", 
             "irn": 429, 
-            "name": "Petersburg Press"
+            "last": "Petersburg Press", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Jim Dine/Artists Rights Society (ARS), New York", 

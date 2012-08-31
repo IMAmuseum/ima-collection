@@ -2,12 +2,23 @@
     "accession_number": "MH2010.74", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Joe St. Clair", 
+            "first": "Joe", 
+            "fullname": "Joe St. Clair", 
             "irn": 7384, 
-            "name": "Joe St. Clair", 
+            "last": "St. Clair", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 x 5 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69256, 
     "materials": "glass", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Paperweight"
+    "title": "paperweight"
 }

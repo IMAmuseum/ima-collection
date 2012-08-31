@@ -2,12 +2,23 @@
     "accession_number": "1997.153", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Munakata, Shiko", 
+                "UlanIdNo": "500105681"
+            }, 
             "after_follower": null, 
             "birth_date": "1903", 
+            "collaboration": null, 
             "death_date": "1975", 
+            "display_name": "Munakata, Shiko", 
+            "first": "Shiko", 
+            "fullname": "Shiko Munakata", 
             "irn": 702032, 
-            "name": "Munakata, Shiko", 
+            "last": "Munakata", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 3/8 x 12 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9657, 
     "materials": "ink woodcut", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Munakata, Shiko", 
+                "UlanIdNo": "500105681"
+            }, 
+            "birth_date": "1903", 
+            "collaboration": null, 
+            "death_date": "1975", 
+            "display_name": "Munakata, Shiko", 
+            "first": "Shiko", 
+            "fullname": "Shiko Munakata", 
             "irn": 702032, 
-            "name": "Munakata, Shiko"
+            "last": "Munakata", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "rights": "\u00a9 Shiko Munakata", 

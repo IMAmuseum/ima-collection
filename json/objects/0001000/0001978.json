@@ -2,12 +2,23 @@
     "accession_number": "1985.251", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Benson, Frank Weston", 
+                "UlanIdNo": "500026137"
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1951", 
+            "display_name": "Benson, Frank Weston", 
+            "first": "Frank", 
+            "fullname": "Frank W. Benson", 
             "irn": 625566, 
-            "name": "Benson, Frank Weston", 
+            "last": "Benson", 
+            "middle": "Weston", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 1978, 
     "materials": "ink", 
     "on_view": false, 

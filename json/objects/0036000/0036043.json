@@ -2,12 +2,23 @@
     "accession_number": "17.222", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Edelinck, G\u00e9rard", 
+                "UlanIdNo": "500115661"
+            }, 
             "after_follower": null, 
             "birth_date": "1640", 
+            "collaboration": null, 
             "death_date": "1707", 
+            "display_name": "Edelinck, G\u00e9rard", 
+            "first": "G", 
+            "fullname": "G \u00e9. Edelinck", 
             "irn": 710545, 
-            "name": "Edelinck, G\u00e9rard", 
+            "last": "Edelinck", 
+            "middle": "\u00e9rard", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 36043, 
     "materials": "engraving", 
     "on_view": false, 

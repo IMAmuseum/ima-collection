@@ -2,12 +2,23 @@
     "accession_number": "2008.822", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Motherwell, Robert", 
+                "UlanIdNo": "500016415"
+            }, 
             "after_follower": null, 
             "birth_date": "1915", 
+            "collaboration": null, 
             "death_date": "1991", 
+            "display_name": "Motherwell, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Motherwell", 
             "irn": 616045, 
-            "name": "Motherwell, Robert", 
+            "last": "Motherwell", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "22 1/4 x 17 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67261, 
     "materials": "lithograph on white Rives BFK", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": "Hollander, Irwin", 
+                "UlanIdNo": "500016502"
+            }, 
+            "birth_date": "1927", 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Hollander, Irwin", 
+            "first": "Irwin", 
+            "fullname": "Irwin Hollander", 
             "irn": 616131, 
-            "name": "Hollander, Irwin"
+            "last": "Hollander", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "The Hollander Workshop", 
+            "first": null, 
+            "fullname": "The Hollander Workshop", 
             "irn": 68, 
-            "name": "The Hollander Workshop"
+            "last": null, 
+            "middle": null, 
+            "organization": "The Hollander Workshop", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Licensed by VAGA, New York, NY", 

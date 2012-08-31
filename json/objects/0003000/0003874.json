@@ -2,12 +2,23 @@
     "accession_number": "47.98", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hill, John Henry", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1839", 
+            "collaboration": null, 
             "death_date": "1922", 
+            "display_name": "Hill, John Henry", 
+            "first": null, 
+            "fullname": "Hill, John Henry", 
             "irn": 1992, 
-            "name": "Hill, John Henry", 
+            "last": "Hill, John Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 3874, 
     "materials": "ink | pen | ink | pencil", 
     "on_view": false, 

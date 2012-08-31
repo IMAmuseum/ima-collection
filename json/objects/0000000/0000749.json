@@ -2,12 +2,23 @@
     "accession_number": "67.26", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Callcott, Augustus Wall", 
+                "UlanIdNo": "500030582"
+            }, 
             "after_follower": "Follower of", 
             "birth_date": "1779", 
+            "collaboration": null, 
             "death_date": "1844", 
+            "display_name": "Callcott, Augustus Wall", 
+            "first": "Augustus", 
+            "fullname": "Augustus W. Callcott", 
             "irn": 629926, 
-            "name": "Callcott, Augustus Wall", 
+            "last": "Callcott", 
+            "middle": "Wall", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 3/4 x 19 3/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 749, 
     "materials": "oil on canvas", 
     "on_view": false, 

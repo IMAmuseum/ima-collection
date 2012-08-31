@@ -2,21 +2,43 @@
     "accession_number": "2010.282.13A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1887", 
+            "collaboration": null, 
             "death_date": "1943", 
+            "display_name": "Friedrich Fleischmann", 
+            "first": "Friedrich", 
+            "fullname": "Friedrich Fleischmann", 
             "irn": 8265, 
-            "name": "Friedrich Fleischmann", 
+            "last": "Fleischmann", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Rosenthal GmbH", 
+            "first": null, 
+            "fullname": "Rosenthal GmbH", 
             "irn": 7430, 
-            "name": "Rosenthal GmbH", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Rosenthal GmbH", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "Overall) 4 1/2 x 8 1/2 x 5 1/2 in.\nX) 3 x 8 1/2 x 5 1/2 in.\nY) 2 1/8 x 3 3/8 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71464, 
     "materials": "porcelain", 
     "on_view": false, 

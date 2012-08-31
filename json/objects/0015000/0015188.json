@@ -2,12 +2,23 @@
     "accession_number": "1984.177", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Robert Rauschenberg", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1925", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Robert Rauschenberg", 
+            "first": null, 
+            "fullname": "Robert Rauschenberg", 
             "irn": 1554, 
-            "name": "Robert Rauschenberg", 
+            "last": "Robert Rauschenberg", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "20 x 28 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15188, 
     "materials": "photo lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Universal Limited Art Editions", 
+            "first": null, 
+            "fullname": "Universal Limited Art Editions", 
             "irn": 2186, 
-            "name": "Universal Limited Art Editions"
+            "last": "Universal Limited Art Editions", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Estate of Robert Rauschenberg/ Licensed by VAGA, New York, NY", 

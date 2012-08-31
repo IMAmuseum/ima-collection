@@ -2,21 +2,43 @@
     "accession_number": "2009.482", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1946", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Jorge Pensi", 
+            "first": "Jorge", 
+            "fullname": "Jorge Pensi", 
             "irn": 6216, 
-            "name": "Jorge Pensi", 
+            "last": "Pensi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Knoll Associates, Inc.", 
+            "first": null, 
+            "fullname": "Knoll Associates, Inc.", 
             "irn": 5872, 
-            "name": "Knoll Associates, Inc.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Knoll Associates, Inc.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 1/2 x 18 1/4 x 21 1/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64777, 
     "materials": "aluminum", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "2010.272", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Castellon, Federico", 
+                "UlanIdNo": "500009576"
+            }, 
             "after_follower": null, 
             "birth_date": "1914", 
+            "collaboration": null, 
             "death_date": "1971", 
+            "display_name": "Castellon, Federico", 
+            "first": "Federico", 
+            "fullname": "Federico Castellon", 
             "irn": 609344, 
-            "name": "Castellon, Federico", 
+            "last": "Castellon", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 x 12 3/4 in. (image)\n11 7/8 x 14 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69514, 
     "materials": "lithograph on cream wove paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Associated American Artists", 
+            "first": null, 
+            "fullname": "Associated American Artists", 
             "irn": 6995, 
-            "name": "Associated American Artists"
+            "last": null, 
+            "middle": null, 
+            "organization": "Associated American Artists", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Federico Castellon", 

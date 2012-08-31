@@ -2,12 +2,23 @@
     "accession_number": "1991.312", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Papart, Max", 
+                "UlanIdNo": "500007383"
+            }, 
             "after_follower": null, 
             "birth_date": "1911", 
+            "collaboration": null, 
             "death_date": "1994", 
+            "display_name": "Papart, Max", 
+            "first": "Max", 
+            "fullname": "Max Papart", 
             "irn": 607202, 
-            "name": "Papart, Max", 
+            "last": "Papart", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 32706, 
     "materials": "color aquatint with carborundum", 
     "on_view": false, 

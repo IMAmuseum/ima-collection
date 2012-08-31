@@ -2,12 +2,23 @@
     "accession_number": "LH2003.23F-O", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ruskin, John", 
+                "UlanIdNo": "500006262"
+            }, 
             "after_follower": null, 
             "birth_date": "1819", 
+            "collaboration": null, 
             "death_date": "1900", 
+            "display_name": "Ruskin, John", 
+            "first": "John", 
+            "fullname": "John Ruskin", 
             "irn": 606098, 
-            "name": "Ruskin, John", 
+            "last": "Ruskin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 7/8 x 7 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62983, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "George Allen", 
+            "first": null, 
+            "fullname": "George Allen", 
             "irn": 2997, 
-            "name": "George Allen"
+            "last": "George Allen", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

@@ -2,21 +2,43 @@
     "accession_number": "2011.57.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "J\u00e1nos Megyik", 
+            "first": "J\u00e1nos", 
+            "fullname": "J\u00e1nos Megyik", 
             "irn": 7469, 
-            "name": "J\u00e1nos Megyik", 
+            "last": "Megyik", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Amboss", 
+            "first": null, 
+            "fullname": "Amboss", 
             "irn": 7470, 
-            "name": "Amboss", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Amboss", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "15/16 x 5 7/8 x 1 1/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71647, 
     "materials": "18/8 stainless steel", 
     "on_view": false, 

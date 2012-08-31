@@ -2,12 +2,23 @@
     "accession_number": "2006.69", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Toyokuni", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1769", 
+            "collaboration": null, 
             "death_date": "1825", 
+            "display_name": "Utagawa Toyokuni", 
+            "first": null, 
+            "fullname": "Utagawa Toyokuni", 
             "irn": 3531, 
-            "name": "Utagawa Toyokuni", 
+            "last": "Utagawa Toyokuni", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 1/4 x 15 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63324, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Nishimura-ya Yohachi", 
+            "first": null, 
+            "fullname": "Nishimura-ya Yohachi", 
             "irn": 2518, 
-            "name": "Nishimura-ya Yohachi"
+            "last": "Nishimura-ya Yohachi", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "92.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Poore, Henry Rankin", 
+                "UlanIdNo": "500016666"
+            }, 
             "after_follower": null, 
             "birth_date": "1859", 
+            "collaboration": null, 
             "death_date": "1940", 
+            "display_name": "Poore, Henry Rankin", 
+            "first": "Henry", 
+            "fullname": "Henry R. Poore", 
             "irn": 616293, 
-            "name": "Poore, Henry Rankin", 
+            "last": "Poore", 
+            "middle": "Rankin", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "5 x 8 1/2 in.\n14 3/8 x 17 3/4 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17621, 
     "materials": "oil on wallboard", 
     "on_view": false, 

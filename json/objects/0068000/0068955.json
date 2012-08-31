@@ -2,12 +2,23 @@
     "accession_number": "2010.147", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Marisol", 
+                "UlanIdNo": "500027334"
+            }, 
             "after_follower": null, 
             "birth_date": "1930", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Marisol", 
+            "first": null, 
+            "fullname": "Marisol", 
             "irn": 2195, 
-            "name": "Marisol", 
+            "last": "Marisol", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,24 +27,64 @@
     "cultures": [], 
     "dimensions": "41 1/2 x 29 5/8 in. (image and sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68955, 
     "materials": "lithograph on cream wove BFK Rives paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": "Berns, Ben", 
+                "UlanIdNo": "500022982"
+            }, 
+            "birth_date": "1871", 
+            "collaboration": null, 
+            "death_date": "2030", 
+            "display_name": "Berns, Ben", 
+            "first": "Ben", 
+            "fullname": "Ben Berns", 
             "irn": 622488, 
-            "name": "Berns, Ben"
+            "last": "Berns", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Ulan"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Mike Kuhno", 
+            "first": "Mike", 
+            "fullname": "Mike Kuhno", 
             "irn": 7087, 
-            "name": "Mike Kuhno"
+            "last": "Kuhno", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Universal Limited Art Editions", 
+            "first": null, 
+            "fullname": "Universal Limited Art Editions", 
             "irn": 2186, 
-            "name": "Universal Limited Art Editions"
+            "last": "Universal Limited Art Editions", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Licensed by VAGA, New York, NY", 

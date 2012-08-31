@@ -2,12 +2,23 @@
     "accession_number": "74.135", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Houben, Henri", 
+                "UlanIdNo": "500041863"
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Houben, Henri", 
+            "first": "Henri", 
+            "fullname": "Henri Houben", 
             "irn": 640994, 
-            "name": "Houben, Henri", 
+            "last": "Houben", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "39 3/4 x 31 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7915, 
     "materials": "oil on canvas", 
     "on_view": false, 

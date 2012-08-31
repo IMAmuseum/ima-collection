@@ -2,12 +2,23 @@
     "accession_number": "73.84.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Byrne, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1743", 
+            "collaboration": null, 
             "death_date": "1805", 
+            "display_name": "Byrne, William", 
+            "first": null, 
+            "fullname": "Byrne, William", 
             "irn": 1808, 
-            "name": "Byrne, William", 
+            "last": "Byrne, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 14911, 
     "materials": "copperplate engraving", 
     "on_view": false, 

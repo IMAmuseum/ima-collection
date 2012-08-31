@@ -2,12 +2,23 @@
     "accession_number": "LH2003.2A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Samuel Coleridge", 
+            "first": "Samuel", 
+            "fullname": "Samuel Coleridge", 
             "irn": 2963, 
-            "name": "Samuel Coleridge", 
+            "last": "Coleridge", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 x 4 1/2 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61820, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "George Bell & Sons", 
+            "first": null, 
+            "fullname": "George Bell & Sons", 
             "irn": 2964, 
-            "name": "George Bell & Sons"
+            "last": "George Bell & Sons", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

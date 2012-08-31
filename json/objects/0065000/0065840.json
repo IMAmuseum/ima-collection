@@ -2,21 +2,43 @@
     "accession_number": "2008.357.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wegner, Hans J.", 
+                "UlanIdNo": "500004003"
+            }, 
             "after_follower": null, 
             "birth_date": "1914", 
+            "collaboration": null, 
             "death_date": "2007", 
+            "display_name": "Wegner, Hans J.", 
+            "first": "Hans", 
+            "fullname": "Hans J. Wegner", 
             "irn": 603897, 
-            "name": "Wegner, Hans J.", 
+            "last": "Wegner", 
+            "middle": "J.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "PP M\u00f8bler", 
+            "first": null, 
+            "fullname": "PP M\u00f8bler", 
             "irn": 7639, 
-            "name": "PP M\u00f8bler", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "PP M\u00f8bler", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 x 24 1/4 x 19 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65840, 
     "materials": "teak and caning", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "MH2010.123", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1927", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Warren Kaffka", 
+            "first": "Warren", 
+            "fullname": "Warren Kaffka", 
             "irn": 8735, 
-            "name": "Warren Kaffka", 
+            "last": "Kaffka", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }
     ], 
@@ -16,12 +27,13 @@
     "cultures": [], 
     "dimensions": "11 1/2 x 13 x 12 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69483, 
     "materials": "painted wood, plastic", 
     "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 
-    "rights": "\u00a9 Eero Saarinen", 
+    "rights": null, 
     "title": "Visitors Center"
 }

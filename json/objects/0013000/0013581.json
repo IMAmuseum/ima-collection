@@ -2,12 +2,23 @@
     "accession_number": "64.28", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lorrain, Claude", 
+                "UlanIdNo": "500115366"
+            }, 
             "after_follower": "After", 
             "birth_date": "1604", 
+            "collaboration": null, 
             "death_date": "1682", 
+            "display_name": "Lorrain, Claude", 
+            "first": "Claude", 
+            "fullname": "Claude Lorrain", 
             "irn": 710276, 
-            "name": "Lorrain, Claude", 
+            "last": "Lorrain", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 1/4 x 23 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13581, 
     "materials": "oil on canvas", 
     "on_view": false, 

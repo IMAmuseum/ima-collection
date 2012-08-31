@@ -2,12 +2,23 @@
     "accession_number": "73.2.170", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Waring, John Burley", 
+                "UlanIdNo": "500026575"
+            }, 
             "after_follower": null, 
             "birth_date": "1823", 
+            "collaboration": null, 
             "death_date": "1875", 
+            "display_name": "Waring, John Burley", 
+            "first": "John", 
+            "fullname": "John B. Waring", 
             "irn": 625995, 
-            "name": "Waring, John Burley", 
+            "last": "Waring", 
+            "middle": "Burley", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Editor"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 1/8 X 8 in. (image)\n16 1/4 X 11 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11031, 
     "materials": "chromolithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Day & Son Lithographers", 
+            "first": null, 
+            "fullname": "Day & Son Lithographers", 
             "irn": 1975, 
-            "name": "Day & Son Lithographers"
+            "last": "Day & Son Lithographers", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

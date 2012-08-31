@@ -2,12 +2,23 @@
     "accession_number": "1992.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bremmer, Hendricus Petrus", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1872", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Bremmer, Hendricus Petrus", 
+            "first": "Hendricus", 
+            "fullname": "Hendricus P. Bremmer", 
             "irn": 906, 
-            "name": "Bremmer, Hendricus Petrus", 
+            "last": "Bremmer", 
+            "middle": "Petrus", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "21 5/8 x 25 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 27632, 
     "materials": "oil on canvas", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "1987.25", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Noguchi, Isamu", 
+                "UlanIdNo": "500008602"
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Noguchi, Isamu", 
+            "first": "Isamu", 
+            "fullname": "Isamu Noguchi", 
             "irn": 608389, 
-            "name": "Noguchi, Isamu", 
+            "last": "Noguchi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 1/4 x 15 x 15 in", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14102, 
     "materials": "teak and chrome plated steel", 
     "on_view": true, 

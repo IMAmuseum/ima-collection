@@ -2,21 +2,43 @@
     "accession_number": "1985.663", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vicente, Esteban", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1903", 
+            "collaboration": null, 
             "death_date": "2001", 
+            "display_name": "Vicente, Esteban", 
+            "first": null, 
+            "fullname": "Vicente, Esteban", 
             "irn": 1362, 
-            "name": "Vicente, Esteban", 
+            "last": "Vicente, Esteban", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Donald Roberts", 
+            "first": "Donald", 
+            "fullname": "Donald Roberts", 
             "irn": 5088, 
-            "name": "Donald Roberts", 
+            "last": "Roberts", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial Not Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "11 1/2 x 15 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 33523, 
     "materials": "lithograph", 
     "on_view": false, 

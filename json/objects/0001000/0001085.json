@@ -2,12 +2,23 @@
     "accession_number": "72.39.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Williams, Frederick Ballard", 
+                "UlanIdNo": "500025397"
+            }, 
             "after_follower": null, 
             "birth_date": "1871", 
+            "collaboration": null, 
             "death_date": "1956", 
+            "display_name": "Williams, Frederick Ballard", 
+            "first": "Frederick", 
+            "fullname": "Frederick B. Williams", 
             "irn": 624844, 
-            "name": "Williams, Frederick Ballard", 
+            "last": "Williams", 
+            "middle": "Ballard", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "24 1/8 x 16 in.\n28 3/4 x 20 3/4 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1085, 
     "materials": "oil on canvas", 
     "on_view": false, 

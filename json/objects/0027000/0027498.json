@@ -2,12 +2,23 @@
     "accession_number": "74.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Loth, Johann Carl", 
+                "UlanIdNo": "500009882"
+            }, 
             "after_follower": null, 
             "birth_date": "1632", 
+            "collaboration": null, 
             "death_date": "1698", 
+            "display_name": "Loth, Johann Carl", 
+            "first": "Johann", 
+            "fullname": "Johann C. Loth", 
             "irn": 609645, 
-            "name": "Loth, Johann Carl", 
+            "last": "Loth", 
+            "middle": "Carl", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "32 x 22 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 27498, 
     "materials": "oil on canvas", 
     "on_view": false, 

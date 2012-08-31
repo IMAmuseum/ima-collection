@@ -2,21 +2,43 @@
     "accession_number": "2009.335", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Starck, Philippe", 
+                "UlanIdNo": "500021369"
+            }, 
             "after_follower": null, 
             "birth_date": "1949", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Starck, Philippe", 
+            "first": "Philippe", 
+            "fullname": "Philippe Starck", 
             "irn": 6960, 
-            "name": "Starck, Philippe", 
+            "last": "Starck", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Kartell S.p.A.", 
+            "first": null, 
+            "fullname": "Kartell S.p.A.", 
             "irn": 6559, 
-            "name": "Kartell S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Kartell S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "37 \u00d7 21 1/2 \u00d7 22 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64821, 
     "materials": "polycarbonate", 
     "on_view": false, 

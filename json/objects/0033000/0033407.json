@@ -2,12 +2,23 @@
     "accession_number": "64.763", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Soulages, Pierre", 
+                "UlanIdNo": "500004928"
+            }, 
             "after_follower": null, 
             "birth_date": "1919", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Soulages, Pierre", 
+            "first": "Pierre", 
+            "fullname": "Pierre Soulages", 
             "irn": 671, 
-            "name": "Soulages, Pierre", 
+            "last": "Soulages", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 33407, 
     "materials": "color etching", 
     "on_view": false, 

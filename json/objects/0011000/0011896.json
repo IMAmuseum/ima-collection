@@ -2,12 +2,23 @@
     "accession_number": "60.12", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Katsushika Hokusai", 
+                "UlanIdNo": "500060426"
+            }, 
             "after_follower": null, 
             "birth_date": "1760", 
+            "collaboration": null, 
             "death_date": "1849", 
+            "display_name": "Katsushika Hokusai", 
+            "first": "Katsushika", 
+            "fullname": "Katsushika Hokusai", 
             "irn": 657236, 
-            "name": "Katsushika Hokusai", 
+            "last": "Hokusai", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 1/8 x 15 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11896, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,12 +35,38 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Nishimura-ya Yohachi", 
+            "first": null, 
+            "fullname": "Nishimura-ya Yohachi", 
             "irn": 2518, 
-            "name": "Nishimura-ya Yohachi"
+            "last": "Nishimura-ya Yohachi", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Eijudo", 
+            "first": null, 
+            "fullname": "Eijudo", 
             "irn": 2519, 
-            "name": "Eijudo"
+            "last": "Eijudo", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

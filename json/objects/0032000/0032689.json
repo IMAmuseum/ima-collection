@@ -2,12 +2,23 @@
     "accession_number": "09.186", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Basan, Pierre Fran\u00e7ois", 
+                "UlanIdNo": "500042976"
+            }, 
             "after_follower": null, 
             "birth_date": "1723", 
+            "collaboration": null, 
             "death_date": "1797", 
+            "display_name": "Basan, Pierre Fran\u00e7ois", 
+            "first": "Pierre", 
+            "fullname": "Pierre F. Basan", 
             "irn": 642099, 
-            "name": "Basan, Pierre Fran\u00e7ois", 
+            "last": "Basan", 
+            "middle": "Fran\u00e7ois", 
             "nationality": "French", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 32689, 
     "materials": "engraving", 
     "on_view": false, 

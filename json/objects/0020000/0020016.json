@@ -2,12 +2,23 @@
     "accession_number": "02.30", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Neymark, S.", 
+                "UlanIdNo": "500045108"
+            }, 
             "after_follower": null, 
             "birth_date": "1800", 
+            "collaboration": null, 
             "death_date": "1899", 
+            "display_name": "Neymark, S.", 
+            "first": "S", 
+            "fullname": "S Neymark", 
             "irn": 643936, 
-            "name": "Neymark, S.", 
+            "last": "Neymark", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 7 1/4", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20016, 
     "materials": "oil on panel", 
     "on_view": false, 

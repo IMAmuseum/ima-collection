@@ -2,12 +2,23 @@
     "accession_number": "09.19A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Punt, Jan", 
+                "UlanIdNo": "500006702"
+            }, 
             "after_follower": null, 
             "birth_date": "1711", 
+            "collaboration": null, 
             "death_date": "1779", 
+            "display_name": "Punt, Jan", 
+            "first": "Jan", 
+            "fullname": "Jan Punt", 
             "irn": 606533, 
-            "name": "Punt, Jan", 
+            "last": "Punt", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 8872, 
     "materials": "engraving", 
     "on_view": false, 

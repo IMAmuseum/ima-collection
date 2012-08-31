@@ -2,12 +2,23 @@
     "accession_number": "1998.259", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "O'Conor, Roderic", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1860", 
+            "collaboration": null, 
             "death_date": "1940", 
+            "display_name": "O'Conor, Roderic", 
+            "first": "Roderic", 
+            "fullname": "Roderic O'Conor", 
             "irn": 529, 
-            "name": "O'Conor, Roderic", 
+            "last": "O'Conor", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 30294, 
     "materials": "etching", 
     "on_view": false, 

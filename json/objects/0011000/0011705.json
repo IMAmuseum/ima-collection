@@ -2,12 +2,23 @@
     "accession_number": "48.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Delacroix, Eugene", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1798", 
+            "collaboration": null, 
             "death_date": "1863", 
+            "display_name": "Delacroix, Eugene", 
+            "first": null, 
+            "fullname": "Delacroix, Eugene", 
             "irn": 441, 
-            "name": "Delacroix, Eugene", 
+            "last": "Delacroix, Eugene", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 11705, 
     "materials": "lithograph", 
     "on_view": false, 

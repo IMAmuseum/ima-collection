@@ -2,12 +2,23 @@
     "accession_number": "77.392", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nash, Frederick", 
+                "UlanIdNo": "500000958"
+            }, 
             "after_follower": null, 
             "birth_date": "1782", 
+            "collaboration": null, 
             "death_date": "1856", 
+            "display_name": "Nash, Frederick", 
+            "first": "Frederick", 
+            "fullname": "Frederick Nash", 
             "irn": 600934, 
-            "name": "Nash, Frederick", 
+            "last": "Nash", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 24566, 
     "materials": "pen, ink and watercolor over pencil on white wove paper", 
     "on_view": false, 

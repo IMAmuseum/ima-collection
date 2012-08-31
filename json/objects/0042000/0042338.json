@@ -2,21 +2,43 @@
     "accession_number": "80.1950", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bough, Samuel", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1822", 
+            "collaboration": null, 
             "death_date": "1878", 
+            "display_name": "Bough, Samuel", 
+            "first": null, 
+            "fullname": "Bough, Samuel", 
             "irn": 1949, 
-            "name": "Bough, Samuel", 
+            "last": "Bough, Samuel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Miller, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1882", 
+            "display_name": "Miller, William", 
+            "first": null, 
+            "fullname": "Miller, William", 
             "irn": 832, 
-            "name": "Miller, William", 
+            "last": "Miller, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42338, 
     "materials": "engraving on India paper, chine coll\u00e9", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "64.742", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Harding, Chester", 
+                "UlanIdNo": "500031083"
+            }, 
             "after_follower": null, 
             "birth_date": "1792", 
+            "collaboration": null, 
             "death_date": "1866", 
+            "display_name": "Harding, Chester", 
+            "first": "Chester", 
+            "fullname": "Chester Harding", 
             "irn": 630414, 
-            "name": "Harding, Chester", 
+            "last": "Harding", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "36 1/4 x 29 3/4 in.\n47 1/2 x 40 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 32010, 
     "materials": "oil on canvas laid down on masonite", 
     "on_view": false, 

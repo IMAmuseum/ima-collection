@@ -2,12 +2,23 @@
     "accession_number": "08.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Redfield, Edward Willis", 
+                "UlanIdNo": "500001839"
+            }, 
             "after_follower": null, 
             "birth_date": "1869", 
+            "collaboration": null, 
             "death_date": "1965", 
+            "display_name": "Redfield, Edward Willis", 
+            "first": "Edward", 
+            "fullname": "Edward W. Redfield", 
             "irn": 601793, 
-            "name": "Redfield, Edward Willis", 
+            "last": "Redfield", 
+            "middle": "Willis", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "36 x 52 in. \n46 x 60 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26361, 
     "materials": "oil on canvas", 
     "on_view": false, 

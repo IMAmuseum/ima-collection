@@ -2,21 +2,43 @@
     "accession_number": "71.227.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Righini, Pietro", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1683", 
+            "collaboration": null, 
             "death_date": "1742", 
+            "display_name": "Righini, Pietro", 
+            "first": null, 
+            "fullname": "Righini, Pietro", 
             "irn": 1508, 
-            "name": "Righini, Pietro", 
+            "last": "Righini, Pietro", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Engelbrecht, Martin", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1684", 
+            "collaboration": null, 
             "death_date": "1756", 
+            "display_name": "Engelbrecht, Martin", 
+            "first": null, 
+            "fullname": "Engelbrecht, Martin", 
             "irn": 2115, 
-            "name": "Engelbrecht, Martin", 
+            "last": "Engelbrecht, Martin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45731, 
     "materials": "etching", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Engelbrecht, Martin", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1684", 
+            "collaboration": null, 
+            "death_date": "1756", 
+            "display_name": "Engelbrecht, Martin", 
+            "first": null, 
+            "fullname": "Engelbrecht, Martin", 
             "irn": 2115, 
-            "name": "Engelbrecht, Martin"
+            "last": "Engelbrecht, Martin", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

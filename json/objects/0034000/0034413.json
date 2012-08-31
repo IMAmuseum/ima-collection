@@ -2,21 +2,43 @@
     "accession_number": "29.58", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vos, Maarten de", 
+                "UlanIdNo": "500029816"
+            }, 
             "after_follower": null, 
             "birth_date": "1532", 
+            "collaboration": null, 
             "death_date": "1603", 
+            "display_name": "Vos, Maarten de", 
+            "first": "Maarten", 
+            "fullname": "Maarten d. Vos", 
             "irn": 629177, 
-            "name": "Vos, Maarten de", 
+            "last": "Vos", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Sadeler, Jan, I", 
+                "UlanIdNo": "500020677"
+            }, 
             "after_follower": null, 
             "birth_date": "1550", 
+            "collaboration": null, 
             "death_date": "1600", 
+            "display_name": "Sadeler, Jan, I", 
+            "first": "Jan", 
+            "fullname": "Jan ,. Sadeler", 
             "irn": 620225, 
-            "name": "Sadeler, Jan, I", 
+            "last": "Sadeler", 
+            "middle": ", I", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 34413, 
     "materials": "engraving", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Sadeler, Jan, I", 
+                "UlanIdNo": "500020677"
+            }, 
+            "birth_date": "1550", 
+            "collaboration": null, 
+            "death_date": "1600", 
+            "display_name": "Sadeler, Jan, I", 
+            "first": "Jan", 
+            "fullname": "Jan ,. Sadeler", 
             "irn": 620225, 
-            "name": "Sadeler, Jan, I"
+            "last": "Sadeler", 
+            "middle": ", I", 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "rights": null, 

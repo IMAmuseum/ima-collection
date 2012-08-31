@@ -2,12 +2,23 @@
     "accession_number": "LH2003.25A-R", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1771", 
+            "collaboration": null, 
             "death_date": "1832", 
+            "display_name": "Sir Walter Scott", 
+            "first": "Walter", 
+            "fullname": "Sir Walter Scott", 
             "irn": 2748, 
-            "name": "Sir Walter Scott", 
+            "last": "Scott", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Library of Congress", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/4 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63039, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Dana Estes & Co.", 
+            "first": null, 
+            "fullname": "Dana Estes & Co.", 
             "irn": 3146, 
-            "name": "Dana Estes & Co."
+            "last": "Dana Estes & Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

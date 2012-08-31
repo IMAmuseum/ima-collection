@@ -2,12 +2,23 @@
     "accession_number": "65.107", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Peckham, Lewis", 
+                "UlanIdNo": "500080303"
+            }, 
             "after_follower": null, 
             "birth_date": "1788", 
+            "collaboration": null, 
             "death_date": "1822", 
+            "display_name": "Peckham, Lewis", 
+            "first": "Lewis", 
+            "fullname": "Lewis Peckham", 
             "irn": 676908, 
-            "name": "Peckham, Lewis", 
+            "last": "Peckham", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "27 x 22 1/4 in.\n31 1/8 x 26 3/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35412, 
     "materials": "oil on canvas", 
     "on_view": false, 

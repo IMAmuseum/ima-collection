@@ -2,12 +2,23 @@
     "accession_number": "17.7", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Schulzberg, Anshelm Leonard", 
+                "UlanIdNo": "500084781"
+            }, 
             "after_follower": null, 
             "birth_date": "1862", 
+            "collaboration": null, 
             "death_date": "1945", 
+            "display_name": "Schulzberg, Anshelm Leonard", 
+            "first": "Anshelm", 
+            "fullname": "Anshelm L. Schulzberg", 
             "irn": 681343, 
-            "name": "Schulzberg, Anshelm Leonard", 
+            "last": "Schulzberg", 
+            "middle": "Leonard", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "43 x 59 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34749, 
     "materials": "oil on canvas", 
     "on_view": false, 

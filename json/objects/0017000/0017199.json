@@ -2,12 +2,23 @@
     "accession_number": "78.123", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bishop, Isabel", 
+                "UlanIdNo": "500032484"
+            }, 
             "after_follower": null, 
             "birth_date": "1902", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Bishop, Isabel", 
+            "first": "Isabel", 
+            "fullname": "Isabel Bishop", 
             "irn": 631784, 
-            "name": "Bishop, Isabel", 
+            "last": "Bishop", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "28 x 35 in.\n33 x 36 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17199, 
     "materials": "oil and tempera on canvas", 
     "on_view": false, 

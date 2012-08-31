@@ -2,12 +2,23 @@
     "accession_number": "72.43.25", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dujardin, Karel", 
+                "UlanIdNo": "500000918"
+            }, 
             "after_follower": null, 
             "birth_date": "1626", 
+            "collaboration": null, 
             "death_date": "1678", 
+            "display_name": "Dujardin, Karel", 
+            "first": "Karel", 
+            "fullname": "Karel Dujardin", 
             "irn": 600894, 
-            "name": "Dujardin, Karel", 
+            "last": "Dujardin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55219, 
     "materials": "etching", 
     "on_view": false, 

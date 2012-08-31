@@ -2,21 +2,43 @@
     "accession_number": "79.1121", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Matthew Andrew Daly", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1860", 
+            "collaboration": null, 
             "death_date": "1937", 
+            "display_name": "Matthew Andrew Daly", 
+            "first": null, 
+            "fullname": "Matthew Andrew Daly", 
             "irn": 3062, 
-            "name": "Matthew Andrew Daly", 
+            "last": "Matthew Andrew Daly", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Rookwood Pottery", 
+            "first": null, 
+            "fullname": "Rookwood Pottery", 
             "irn": 282, 
-            "name": "Rookwood Pottery", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Rookwood Pottery", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "31 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20918, 
     "materials": "earthenware, glaze", 
     "on_view": false, 

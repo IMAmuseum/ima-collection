@@ -2,21 +2,43 @@
     "accession_number": "80.1732", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Lupton, Thomas Goff", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1873", 
+            "display_name": "Lupton, Thomas Goff", 
+            "first": "Thomas", 
+            "fullname": "Thomas G. Lupton", 
             "irn": 830, 
-            "name": "Lupton, Thomas Goff", 
+            "last": "Lupton", 
+            "middle": "Goff", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "3 1/4 x 4 3/4 in. (image)\n11 3/4 x 17 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 41890, 
     "materials": "mezzotint", 
     "on_view": true, 

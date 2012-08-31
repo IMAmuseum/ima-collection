@@ -2,12 +2,23 @@
     "accession_number": "53.30", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Thoma, Hans", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Thoma, Hans", 
+            "first": null, 
+            "fullname": "Thoma, Hans", 
             "irn": 570, 
-            "name": "Thoma, Hans", 
+            "last": "Thoma, Hans", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 20940, 
     "materials": "drypoint", 
     "on_view": false, 

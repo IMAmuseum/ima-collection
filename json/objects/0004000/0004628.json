@@ -2,12 +2,23 @@
     "accession_number": "38.30", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Noble, John", 
+                "UlanIdNo": "500001171"
+            }, 
             "after_follower": null, 
             "birth_date": "1874", 
+            "collaboration": null, 
             "death_date": "1934", 
+            "display_name": "Noble, John", 
+            "first": "John", 
+            "fullname": "John Noble", 
             "irn": 601141, 
-            "name": "Noble, John", 
+            "last": "Noble", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 x 30 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4628, 
     "materials": "oil on canvas", 
     "on_view": false, 

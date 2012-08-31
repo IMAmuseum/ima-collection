@@ -2,12 +2,23 @@
     "accession_number": "2005.96", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Benton, Thomas Hart", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1889", 
+            "collaboration": null, 
             "death_date": "1975", 
+            "display_name": "Benton, Thomas Hart", 
+            "first": "Thomas", 
+            "fullname": "Thomas H. Benton", 
             "irn": 1334, 
-            "name": "Benton, Thomas Hart", 
+            "last": "Benton", 
+            "middle": "Hart", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 7/8 x 9 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62186, 
     "materials": "pen and ink over pencil on off-white paper", 
     "on_view": false, 

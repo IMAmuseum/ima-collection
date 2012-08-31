@@ -2,12 +2,23 @@
     "accession_number": "09.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rullmann, Ludwig", 
+                "UlanIdNo": "500015079"
+            }, 
             "after_follower": null, 
             "birth_date": "1765", 
+            "collaboration": null, 
             "death_date": "1822", 
+            "display_name": "Rullmann, Ludwig", 
+            "first": "Ludwig", 
+            "fullname": "Ludwig Rullmann", 
             "irn": 614738, 
-            "name": "Rullmann, Ludwig", 
+            "last": "Rullmann", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 2077, 
     "materials": "lithograph", 
     "on_view": false, 

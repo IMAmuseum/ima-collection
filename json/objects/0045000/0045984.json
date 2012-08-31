@@ -2,12 +2,23 @@
     "accession_number": "73.2.87", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Prignot, Alexandre Eug\u00e8ne", 
+                "UlanIdNo": "500088483"
+            }, 
             "after_follower": null, 
             "birth_date": "1822", 
+            "collaboration": null, 
             "death_date": "1875", 
+            "display_name": "Prignot, Alexandre Eug\u00e8ne", 
+            "first": "Alexandre", 
+            "fullname": "Alexandre E. Prignot", 
             "irn": 685015, 
-            "name": "Prignot, Alexandre Eug\u00e8ne", 
+            "last": "Prignot", 
+            "middle": "Eug\u00e8ne", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 X 13 1/2 in. (image)\n12 1/3 X 17 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 45984, 
     "materials": "color lithograph", 
     "on_view": false, 

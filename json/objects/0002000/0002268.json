@@ -2,21 +2,43 @@
     "accession_number": "09.325", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lorenzi, Lorenzo", 
+                "UlanIdNo": "500070097"
+            }, 
             "after_follower": null, 
             "birth_date": "1720", 
+            "collaboration": null, 
             "death_date": "1790", 
+            "display_name": "Lorenzi, Lorenzo", 
+            "first": "Lorenzo", 
+            "fullname": "Lorenzo Lorenzi", 
             "irn": 666805, 
-            "name": "Lorenzi, Lorenzo", 
+            "last": "Lorenzi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Faucci, Carol", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Faucci, Carol", 
+            "first": null, 
+            "fullname": "Faucci, Carol", 
             "irn": 970, 
-            "name": "Faucci, Carol", 
+            "last": "Faucci, Carol", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 2268, 
     "materials": "engraving", 
     "on_view": false, 

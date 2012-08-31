@@ -2,21 +2,43 @@
     "accession_number": "2008.236A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Noguchi, Isamu", 
+                "UlanIdNo": "500008602"
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Noguchi, Isamu", 
+            "first": "Isamu", 
+            "fullname": "Isamu Noguchi", 
             "irn": 608389, 
-            "name": "Noguchi, Isamu", 
+            "last": "Noguchi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Knoll Associates, Inc.", 
+            "first": null, 
+            "fullname": "Knoll Associates, Inc.", 
             "irn": 5872, 
-            "name": "Knoll Associates, Inc.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Knoll Associates, Inc.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "top) diam.: 46 5/8 in.\nbase) H: 27 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65133, 
     "materials": "mica, plywood, beaverboard, cast iron, and steel", 
     "on_view": false, 

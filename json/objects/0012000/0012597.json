@@ -2,12 +2,23 @@
     "accession_number": "31.279", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Kunisada", 
+                "UlanIdNo": "500121373"
+            }, 
             "after_follower": null, 
             "birth_date": "1786", 
+            "collaboration": null, 
             "death_date": "1864", 
+            "display_name": "Utagawa Kunisada", 
+            "first": null, 
+            "fullname": "Utagawa Kunisada", 
             "irn": 715404, 
-            "name": "Utagawa Kunisada", 
+            "last": "Utagawa Kunisada", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "27 1/8 x 9 5/8 in. (image & sheet trimmed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 12597, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Sano-ya Kihei", 
+            "first": null, 
+            "fullname": "Sano-ya Kihei", 
             "irn": 2574, 
-            "name": "Sano-ya Kihei"
+            "last": "Sano-ya Kihei", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

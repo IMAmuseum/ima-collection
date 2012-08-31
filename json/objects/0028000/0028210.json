@@ -2,12 +2,23 @@
     "accession_number": "19.24", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Plasent, Gomez", 
+                "UlanIdNo": "500045129"
+            }, 
             "after_follower": null, 
             "birth_date": "1800", 
+            "collaboration": null, 
             "death_date": "1899", 
+            "display_name": "Plasent, Gomez", 
+            "first": "Gomez", 
+            "fullname": "Gomez Plasent", 
             "irn": 643957, 
-            "name": "Plasent, Gomez", 
+            "last": "Plasent", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "42 1/2 x 31 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 28210, 
     "materials": "oil on canvas", 
     "on_view": false, 

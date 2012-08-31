@@ -2,12 +2,23 @@
     "accession_number": "09.59", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Louis-Pierre-Alphonse Bichebois", 
+            "first": "Louis-Pierre-Alphonse", 
+            "fullname": "Louis-Pierre-Alphonse Bichebois", 
             "irn": 2102, 
-            "name": "Louis-Pierre-Alphonse Bichebois", 
+            "last": "Bichebois", 
+            "middle": null, 
             "nationality": "French", 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 25190, 
     "materials": "lithograph", 
     "on_view": false, 

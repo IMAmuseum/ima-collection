@@ -2,12 +2,23 @@
     "accession_number": "73.100.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mack, Heinz", 
+                "UlanIdNo": "500006451"
+            }, 
             "after_follower": null, 
             "birth_date": "1931", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Mack, Heinz", 
+            "first": "Heinz", 
+            "fullname": "Heinz Mack", 
             "irn": 606283, 
-            "name": "Mack, Heinz", 
+            "last": "Mack", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "23 9/16 x 23 9/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16596, 
     "materials": "serigraph | S", 
     "on_view": false, 

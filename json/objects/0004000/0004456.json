@@ -2,12 +2,23 @@
     "accession_number": "79.291", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Seurat, Georges", 
+                "UlanIdNo": "500008873"
+            }, 
             "after_follower": null, 
             "birth_date": "1859", 
+            "collaboration": null, 
             "death_date": "1891", 
+            "display_name": "Seurat, Georges", 
+            "first": "Georges", 
+            "fullname": "Georges Seurat", 
             "irn": 608654, 
-            "name": "Seurat, Georges", 
+            "last": "Seurat", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 4456, 
     "materials": "pencil on off-white paper", 
     "on_view": false, 

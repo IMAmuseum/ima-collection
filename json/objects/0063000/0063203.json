@@ -2,21 +2,43 @@
     "accession_number": "2005.67.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kandinsky, Vassily", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1866", 
+            "collaboration": null, 
             "death_date": "1944", 
+            "display_name": "Kandinsky, Vassily", 
+            "first": null, 
+            "fullname": "Kandinsky, Vassily", 
             "irn": 2706, 
-            "name": "Kandinsky, Vassily", 
+            "last": "Kandinsky, Vassily", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hecht, Henry", 
+            "first": null, 
+            "fullname": "Hecht, Henry", 
             "irn": 2702, 
-            "name": "Hecht, Henry", 
+            "last": "Hecht, Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 3/4 x 6 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63203, 
     "materials": "drypoint on Montval paper", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Atelier 17", 
+            "first": null, 
+            "fullname": "Atelier 17", 
             "irn": 2701, 
-            "name": "Atelier 17"
+            "last": null, 
+            "middle": null, 
+            "organization": "Atelier 17", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

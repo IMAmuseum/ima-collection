@@ -2,12 +2,23 @@
     "accession_number": "52.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bosse, Abraham", 
+                "UlanIdNo": "500031187"
+            }, 
             "after_follower": null, 
             "birth_date": "1602", 
+            "collaboration": null, 
             "death_date": "1676", 
+            "display_name": "Bosse, Abraham", 
+            "first": "Abraham", 
+            "fullname": "Abraham Bosse", 
             "irn": 630516, 
-            "name": "Bosse, Abraham", 
+            "last": "Bosse", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 17849, 
     "materials": "engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Le Blond", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Le Blond", 
+            "first": null, 
+            "fullname": "Le Blond", 
             "irn": 2074, 
-            "name": "Le Blond"
+            "last": "Le Blond", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

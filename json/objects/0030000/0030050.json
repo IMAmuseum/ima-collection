@@ -2,12 +2,23 @@
     "accession_number": "1993.167", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Millais, John Everett", 
+                "UlanIdNo": "500031367"
+            }, 
             "after_follower": null, 
             "birth_date": "1829", 
+            "collaboration": null, 
             "death_date": "1896", 
+            "display_name": "Millais, John Everett", 
+            "first": "John", 
+            "fullname": "John E. Millais", 
             "irn": 630692, 
-            "name": "Millais, John Everett", 
+            "last": "Millais", 
+            "middle": "Everett", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/4 x 5 5/8 in. (sheet)\n11 1/8 x 7 5/8 in. (mount)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30050, 
     "materials": "pen and brown ink on white paper", 
     "on_view": false, 

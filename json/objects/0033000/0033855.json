@@ -2,12 +2,23 @@
     "accession_number": "81.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bisschop, Jan de", 
+                "UlanIdNo": "500012701"
+            }, 
             "after_follower": null, 
             "birth_date": "1628", 
+            "collaboration": null, 
             "death_date": "1671", 
+            "display_name": "Bisschop, Jan de", 
+            "first": "Jan", 
+            "fullname": "Jan d. Bisschop", 
             "irn": 612401, 
-            "name": "Bisschop, Jan de", 
+            "last": "Bisschop", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 33855, 
     "materials": "pen, ink and sepia wash strengthened with charcoal on buff laid paper", 
     "on_view": false, 

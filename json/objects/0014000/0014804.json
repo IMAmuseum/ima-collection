@@ -2,12 +2,23 @@
     "accession_number": "52.14", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hays, Barton Stone", 
+                "UlanIdNo": "500106095"
+            }, 
             "after_follower": null, 
             "birth_date": "1826", 
+            "collaboration": null, 
             "death_date": "1914", 
+            "display_name": "Hays, Barton Stone", 
+            "first": "Barton", 
+            "fullname": "Barton S. Hays", 
             "irn": 702441, 
-            "name": "Hays, Barton Stone", 
+            "last": "Hays", 
+            "middle": "Stone", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 x 14 in.\n22 x 19 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14804, 
     "materials": "oil on canvas", 
     "on_view": false, 

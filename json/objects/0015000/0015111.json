@@ -2,12 +2,23 @@
     "accession_number": "46.7", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "McBey, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1883", 
+            "collaboration": null, 
             "death_date": "1959", 
+            "display_name": "McBey, James", 
+            "first": null, 
+            "fullname": "McBey, James", 
             "irn": 1337, 
-            "name": "McBey, James", 
+            "last": "McBey, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 3/4 x 8 1/4 in (image) \n17 1/4 x 11 1/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15111, 
     "materials": "etching and aquatint with hand-wiping", 
     "on_view": false, 

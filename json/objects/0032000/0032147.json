@@ -2,12 +2,23 @@
     "accession_number": "36.7", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Thayer, Abbott Handerson", 
+                "UlanIdNo": "500016002"
+            }, 
             "after_follower": null, 
             "birth_date": "1849", 
+            "collaboration": null, 
             "death_date": "1921", 
+            "display_name": "Thayer, Abbott Handerson", 
+            "first": "Abbott", 
+            "fullname": "Abbott H. Thayer", 
             "irn": 615641, 
-            "name": "Thayer, Abbott Handerson", 
+            "last": "Thayer", 
+            "middle": "Handerson", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 1/2 x 17 1/2 in.\n19 x 22 3/4 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 32147, 
     "materials": "oil on canvas", 
     "on_view": true, 

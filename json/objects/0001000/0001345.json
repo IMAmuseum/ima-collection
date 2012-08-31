@@ -2,12 +2,23 @@
     "accession_number": "71.38", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Roos, Johann Heinrich", 
+                "UlanIdNo": "500013837"
+            }, 
             "after_follower": null, 
             "birth_date": "1631", 
+            "collaboration": null, 
             "death_date": "1685", 
+            "display_name": "Roos, Johann Heinrich", 
+            "first": "Johann", 
+            "fullname": "Johann H. Roos", 
             "irn": 613518, 
-            "name": "Roos, Johann Heinrich", 
+            "last": "Roos", 
+            "middle": "Heinrich", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 3/4 x 11 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 1345, 
     "materials": "oil on canvas", 
     "on_view": false, 

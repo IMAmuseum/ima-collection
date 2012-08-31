@@ -2,12 +2,23 @@
     "accession_number": "81.375", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Chippendale, Thomas", 
+                "UlanIdNo": "500015768"
+            }, 
             "after_follower": null, 
             "birth_date": "1718", 
+            "collaboration": null, 
             "death_date": "1779", 
+            "display_name": "Chippendale, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Chippendale", 
             "irn": 615413, 
-            "name": "Chippendale, Thomas", 
+            "last": "Chippendale", 
+            "middle": null, 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "39 1/2 x 25 x 21 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 28242, 
     "materials": "mahogany, oak,  upholstery", 
     "on_view": false, 

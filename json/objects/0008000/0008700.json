@@ -2,12 +2,23 @@
     "accession_number": "C10013", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cock, Jan de", 
+                "UlanIdNo": "500115371"
+            }, 
             "after_follower": null, 
             "birth_date": "1450", 
+            "collaboration": null, 
             "death_date": "1527", 
+            "display_name": "Cock, Jan de", 
+            "first": "Jan", 
+            "fullname": "Jan d. Cock", 
             "irn": 710281, 
-            "name": "Cock, Jan de", 
+            "last": "Cock", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "19 1/2 x 10 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 8700, 
     "materials": "oil on wood", 
     "on_view": true, 

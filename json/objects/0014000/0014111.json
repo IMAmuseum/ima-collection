@@ -2,12 +2,23 @@
     "accession_number": "1999.134", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mason, Alice Trumbull", 
+                "UlanIdNo": "500010243"
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1971", 
+            "display_name": "Mason, Alice Trumbull", 
+            "first": "Alice", 
+            "fullname": "Alice T. Mason", 
             "irn": 609997, 
-            "name": "Mason, Alice Trumbull", 
+            "last": "Mason", 
+            "middle": "Trumbull", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 14111, 
     "materials": "etching and aquatint", 
     "on_view": false, 

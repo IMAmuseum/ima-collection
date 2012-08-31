@@ -2,12 +2,23 @@
     "accession_number": "25.128", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Weinman, Adolph Alexander", 
+                "UlanIdNo": "500090663"
+            }, 
             "after_follower": null, 
             "birth_date": "1870", 
+            "collaboration": null, 
             "death_date": "1952", 
+            "display_name": "Weinman, Adolph Alexander", 
+            "first": "Adolph", 
+            "fullname": "Adolph A. Weinman", 
             "irn": 687174, 
-            "name": "Weinman, Adolph Alexander", 
+            "last": "Weinman", 
+            "middle": "Alexander", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 17 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 58917, 
     "materials": "bronze", 
     "on_view": false, 

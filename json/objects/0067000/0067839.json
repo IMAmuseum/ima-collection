@@ -2,21 +2,43 @@
     "accession_number": "2010.29", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1955", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Donatella Versace", 
+            "first": "Donatella", 
+            "fullname": "Donatella Versace", 
             "irn": 6935, 
-            "name": "Donatella Versace", 
+            "last": "Versace", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Versace", 
+            "first": null, 
+            "fullname": "Versace", 
             "irn": 7082, 
-            "name": "Versace", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Versace", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "W: 10 13/16 in. (bottoms)\nhip circumference - 24\u0094 (elastic relaxed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67839, 
     "materials": "nylon (80%) spandex (20%)", 
     "on_view": false, 

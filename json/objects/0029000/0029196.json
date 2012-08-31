@@ -2,12 +2,23 @@
     "accession_number": "1984.48", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bradley, William H.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1868", 
+            "collaboration": null, 
             "death_date": "1962", 
+            "display_name": "Bradley, William H.", 
+            "first": null, 
+            "fullname": "Bradley, William H.", 
             "irn": 605, 
-            "name": "Bradley, William H.", 
+            "last": "Bradley, William H.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 29196, 
     "materials": "woodblock print and letterpress", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "The Wayside Press", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "The Wayside Press", 
+            "first": null, 
+            "fullname": "The Wayside Press", 
             "irn": 2372, 
-            "name": "The Wayside Press"
+            "last": "The Wayside Press", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

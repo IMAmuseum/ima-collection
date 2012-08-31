@@ -2,12 +2,23 @@
     "accession_number": "08.47", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Browne, John", 
+                "UlanIdNo": "500010564"
+            }, 
             "after_follower": null, 
             "birth_date": "1572", 
+            "collaboration": null, 
             "death_date": "1633", 
+            "display_name": "Browne, John", 
+            "first": "John", 
+            "fullname": "John Browne", 
             "irn": 610311, 
-            "name": "Browne, John", 
+            "last": "Browne", 
+            "middle": null, 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 27241, 
     "materials": "ink", 
     "on_view": false, 

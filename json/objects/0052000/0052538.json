@@ -2,12 +2,23 @@
     "accession_number": "45.105", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Utagawa Hiroshige", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1797", 
+            "collaboration": null, 
             "death_date": "1858", 
+            "display_name": "Utagawa Hiroshige", 
+            "first": null, 
+            "fullname": "Utagawa Hiroshige", 
             "irn": 592, 
-            "name": "Utagawa Hiroshige", 
+            "last": "Utagawa Hiroshige", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 15/16 x 13 3/4 in. (image)\ntrimmed all around (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 52538, 
     "materials": "color woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Yamamoto-ya Heikichi", 
+            "first": null, 
+            "fullname": "Yamamoto-ya Heikichi", 
             "irn": 2520, 
-            "name": "Yamamoto-ya Heikichi"
+            "last": "Yamamoto-ya Heikichi", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

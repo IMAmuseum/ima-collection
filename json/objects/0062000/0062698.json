@@ -2,12 +2,23 @@
     "accession_number": "2005.3", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Callow, William", 
+                "UlanIdNo": "500000266"
+            }, 
             "after_follower": null, 
             "birth_date": "1812", 
+            "collaboration": null, 
             "death_date": "1908", 
+            "display_name": "Callow, William", 
+            "first": "William", 
+            "fullname": "William Callow", 
             "irn": 600259, 
-            "name": "Callow, William", 
+            "last": "Callow", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "22 x 30 1/8 in. (image and sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62698, 
     "materials": "watercolor over pencil heightened with white on off-white paper", 
     "on_view": false, 

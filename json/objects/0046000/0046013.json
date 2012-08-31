@@ -2,12 +2,23 @@
     "accession_number": "73.2.129", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hepplewhite, George", 
+                "UlanIdNo": "500091259"
+            }, 
             "after_follower": null, 
             "birth_date": "1686", 
+            "collaboration": null, 
             "death_date": "1786", 
+            "display_name": "Hepplewhite, George", 
+            "first": "George", 
+            "fullname": "George Hepplewhite", 
             "irn": 687760, 
-            "name": "Hepplewhite, George", 
+            "last": "Hepplewhite", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 X 7 in. (image)\n13 7/8 X 9 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46013, 
     "materials": "engraving", 
     "on_view": false, 

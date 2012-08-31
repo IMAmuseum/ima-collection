@@ -2,21 +2,43 @@
     "accession_number": "2010.280", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1918", 
+            "collaboration": null, 
             "death_date": "1985", 
+            "display_name": "Ben Siebel", 
+            "first": "Ben", 
+            "fullname": "Ben Siebel", 
             "irn": 7520, 
-            "name": "Ben Siebel", 
+            "last": "Siebel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Roseville Pottery", 
+            "first": null, 
+            "fullname": "Roseville Pottery", 
             "irn": 7519, 
-            "name": "Roseville Pottery", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Roseville Pottery", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "1 5/8 x 15 3/4 x 6 3/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71334, 
     "materials": "earthenware", 
     "on_view": false, 

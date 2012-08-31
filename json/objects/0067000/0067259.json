@@ -2,12 +2,23 @@
     "accession_number": "2008.820", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tooker, George", 
+                "UlanIdNo": "500017656"
+            }, 
             "after_follower": null, 
             "birth_date": "1920", 
+            "collaboration": null, 
             "death_date": "2011", 
+            "display_name": "Tooker, George", 
+            "first": "George", 
+            "fullname": "George Tooker", 
             "irn": 617259, 
-            "name": "Tooker, George", 
+            "last": "Tooker", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "8 5/8 x 7 7/8 in. (image)\n18 x 14 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67259, 
     "materials": "lithograph on Rives BFK white wove paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "George C. Miller & Son", 
+            "first": null, 
+            "fullname": "George C. Miller & Son", 
             "irn": 6303, 
-            "name": "George C. Miller & Son"
+            "last": null, 
+            "middle": null, 
+            "organization": "George C. Miller & Son", 
+            "party_type": "Organisation"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Imago Imprint", 
+            "first": null, 
+            "fullname": "Imago Imprint", 
             "irn": 6306, 
-            "name": "Imago Imprint"
+            "last": null, 
+            "middle": null, 
+            "organization": "Imago Imprint", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 George Tooker", 

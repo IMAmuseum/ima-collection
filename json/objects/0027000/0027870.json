@@ -2,12 +2,23 @@
     "accession_number": "43.33", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kuniyoshi, Yasuo", 
+                "UlanIdNo": "500023210"
+            }, 
             "after_follower": null, 
             "birth_date": "1889", 
+            "collaboration": null, 
             "death_date": "1953", 
+            "display_name": "Kuniyoshi, Yasuo", 
+            "first": "Yasuo", 
+            "fullname": "Yasuo Kuniyoshi", 
             "irn": 622713, 
-            "name": "Kuniyoshi, Yasuo", 
+            "last": "Kuniyoshi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 27870, 
     "materials": "lithograph", 
     "on_view": false, 

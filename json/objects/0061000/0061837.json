@@ -2,12 +2,23 @@
     "accession_number": "LH2003.19A-J", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1809", 
+            "collaboration": null, 
             "death_date": "1849", 
+            "display_name": "Edgar A. Poe", 
+            "first": "Edgar", 
+            "fullname": "Edgar A. Poe", 
             "irn": 2410, 
-            "name": "Edgar A. Poe", 
+            "last": "Poe", 
+            "middle": "Allan", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/8 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61837, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "G.P. Putnam's", 
+            "first": null, 
+            "fullname": "G.P. Putnam's", 
             "irn": 2990, 
-            "name": "G.P. Putnam's"
+            "last": "G.P. Putnam's", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

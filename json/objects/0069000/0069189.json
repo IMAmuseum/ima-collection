@@ -2,21 +2,43 @@
     "accession_number": "MH2010.48", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wegner, Hans J.", 
+                "UlanIdNo": "500004003"
+            }, 
             "after_follower": null, 
             "birth_date": "1914", 
+            "collaboration": null, 
             "death_date": "2007", 
+            "display_name": "Wegner, Hans J.", 
+            "first": "Hans", 
+            "fullname": "Hans J. Wegner", 
             "irn": 603897, 
-            "name": "Wegner, Hans J.", 
+            "last": "Wegner", 
+            "middle": "J.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Andreas Tuck", 
+            "first": null, 
+            "fullname": "Andreas Tuck", 
             "irn": 7638, 
-            "name": "Andreas Tuck", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Andreas Tuck", 
+            "party_type": "Organisation", 
             "role": "manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "23 1/2 x 27 x 22 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69189, 
     "materials": "wood", 
     "on_view": true, 

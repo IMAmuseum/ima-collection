@@ -2,21 +2,43 @@
     "accession_number": "09.111", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rubens, Peter Paul", 
+                "UlanIdNo": "500002921"
+            }, 
             "after_follower": null, 
             "birth_date": "1577", 
+            "collaboration": null, 
             "death_date": "1640", 
+            "display_name": "Rubens, Peter Paul", 
+            "first": "Peter", 
+            "fullname": "Peter P. Rubens", 
             "irn": 602855, 
-            "name": "Rubens, Peter Paul", 
+            "last": "Rubens", 
+            "middle": "Paul", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Jode, Pieter de, II", 
+                "UlanIdNo": "500009552"
+            }, 
             "after_follower": null, 
             "birth_date": "1606", 
+            "collaboration": null, 
             "death_date": "1678", 
+            "display_name": "Jode, Pieter de, II", 
+            "first": "Pieter", 
+            "fullname": "Pieter d. Jode", 
             "irn": 609321, 
-            "name": "Jode, Pieter de, II", 
+            "last": "Jode", 
+            "middle": "de, II", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 17570, 
     "materials": "engraving", 
     "on_view": false, 

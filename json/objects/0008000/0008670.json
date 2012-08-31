@@ -2,12 +2,23 @@
     "accession_number": "1993.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bloemaert, Abraham", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1564", 
+            "collaboration": null, 
             "death_date": "1651", 
+            "display_name": "Bloemaert, Abraham", 
+            "first": "Abraham", 
+            "fullname": "Abraham Bloemaert", 
             "irn": 1604, 
-            "name": "Bloemaert, Abraham", 
+            "last": "Bloemaert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "35 1/2 x 85 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 8670, 
     "materials": "oil on wood", 
     "on_view": true, 

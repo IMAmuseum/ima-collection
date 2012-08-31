@@ -2,21 +2,43 @@
     "accession_number": "2010.58", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1978", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Maarten Baas", 
+            "first": "Maarten", 
+            "fullname": "Maarten Baas", 
             "irn": 5653, 
-            "name": "Maarten Baas", 
+            "last": "Baas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Moooi", 
+            "first": null, 
+            "fullname": "Moooi", 
             "irn": 6671, 
-            "name": "Moooi", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Moooi", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "41 3/4 x 19 x 22 1/2 inches", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68640, 
     "materials": "wood and leather", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "32.205", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ingres, Jean Auguste Dominique", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1780", 
+            "collaboration": null, 
             "death_date": "1867", 
+            "display_name": "Ingres, Jean Auguste Dominique", 
+            "first": null, 
+            "fullname": "Ingres, Jean Auguste Dominique", 
             "irn": 1225, 
-            "name": "Ingres, Jean Auguste Dominique", 
+            "last": "Ingres, Jean Auguste Dominique", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Delpech, Fran\u00e7ois-S\u00e9raphin", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Delpech, Fran\u00e7ois-S\u00e9raphin", 
+            "first": null, 
+            "fullname": "Delpech, Fran\u00e7ois-S\u00e9raphin", 
             "irn": 2099, 
-            "name": "Delpech, Fran\u00e7ois-S\u00e9raphin", 
+            "last": "Delpech, Fran\u00e7ois-S\u00e9raphin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 4899, 
     "materials": "lithograph", 
     "on_view": false, 

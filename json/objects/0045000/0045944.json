@@ -2,21 +2,43 @@
     "accession_number": "73.84.91", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Shaw, Henry", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1800", 
+            "collaboration": null, 
             "death_date": "1873", 
+            "display_name": "Shaw, Henry", 
+            "first": null, 
+            "fullname": "Shaw, Henry", 
             "irn": 2134, 
-            "name": "Shaw, Henry", 
+            "last": "Shaw, Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Havell, Robert, I", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1769", 
+            "collaboration": null, 
             "death_date": "1832", 
+            "display_name": "Havell, Robert, I", 
+            "first": null, 
+            "fullname": "Havell, Robert, I", 
             "irn": 561, 
-            "name": "Havell, Robert, I", 
+            "last": "Havell, Robert, I", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 45944, 
     "materials": "hand-colored etching and aquatint", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Havell, Robert, I", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1769", 
+            "collaboration": null, 
+            "death_date": "1832", 
+            "display_name": "Havell, Robert, I", 
+            "first": null, 
+            "fullname": "Havell, Robert, I", 
             "irn": 561, 
-            "name": "Havell, Robert, I"
+            "last": "Havell, Robert, I", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

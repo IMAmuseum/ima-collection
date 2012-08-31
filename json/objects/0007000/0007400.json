@@ -2,12 +2,23 @@
     "accession_number": "70.49.5", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mayer, Henrik Martin", 
+                "UlanIdNo": "500050084"
+            }, 
             "after_follower": null, 
             "birth_date": "1909", 
+            "collaboration": null, 
             "death_date": "1972", 
+            "display_name": "Mayer, Henrik Martin", 
+            "first": "Henrik", 
+            "fullname": "Henrik M. Mayer", 
             "irn": 648461, 
-            "name": "Mayer, Henrik Martin", 
+            "last": "Mayer", 
+            "middle": "Martin", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "29 1/2 x 42 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7400, 
     "materials": "oil on canvas mounted on Masonite", 
     "on_view": false, 

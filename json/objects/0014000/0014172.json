@@ -2,12 +2,23 @@
     "accession_number": "1993.16", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cameron, Julia Margaret", 
+                "UlanIdNo": "500118804"
+            }, 
             "after_follower": null, 
             "birth_date": "1815", 
+            "collaboration": null, 
             "death_date": "1879", 
+            "display_name": "Cameron, Julia Margaret", 
+            "first": "Julia", 
+            "fullname": "Julia M. Cameron", 
             "irn": 713499, 
-            "name": "Cameron, Julia Margaret", 
+            "last": "Cameron", 
+            "middle": "Margaret", 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 1/16 x 10 5/8 in. (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14172, 
     "materials": "albumen print", 
     "on_view": false, 

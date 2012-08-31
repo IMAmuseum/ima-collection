@@ -2,21 +2,43 @@
     "accession_number": "2008.356", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Knoll, Florence Schust", 
+                "UlanIdNo": "500108516"
+            }, 
             "after_follower": null, 
             "birth_date": "1917", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Knoll, Florence Schust", 
+            "first": "Florence", 
+            "fullname": "Florence S. Knoll", 
             "irn": 704837, 
-            "name": "Knoll, Florence Schust", 
+            "last": "Knoll", 
+            "middle": "Schust", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Knoll Associates, Inc.", 
+            "first": null, 
+            "fullname": "Knoll Associates, Inc.", 
             "irn": 5872, 
-            "name": "Knoll Associates, Inc.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Knoll Associates, Inc.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 x 25 x 30 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66381, 
     "materials": "wood and fabric", 
     "on_view": false, 

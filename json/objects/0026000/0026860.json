@@ -2,12 +2,23 @@
     "accession_number": "52.29", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jorn, Asger", 
+                "UlanIdNo": "500007669"
+            }, 
             "after_follower": null, 
             "birth_date": "1914", 
+            "collaboration": null, 
             "death_date": "1973", 
+            "display_name": "Jorn, Asger", 
+            "first": "Asger", 
+            "fullname": "Asger Jorn", 
             "irn": 607480, 
-            "name": "Jorn, Asger", 
+            "last": "Jorn", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 26860, 
     "materials": "color lithograph", 
     "on_view": false, 

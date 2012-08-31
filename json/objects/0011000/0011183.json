@@ -2,12 +2,23 @@
     "accession_number": "09.40", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "R. Schlicht", 
+            "first": "R.", 
+            "fullname": "R. Schlicht", 
             "irn": 6432, 
-            "name": "R. Schlicht", 
+            "last": "Schlicht", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 11183, 
     "materials": "lithograph", 
     "on_view": false, 

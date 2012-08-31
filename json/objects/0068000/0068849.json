@@ -2,21 +2,43 @@
     "accession_number": "2010.90", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Courtauld, Louisa Perina", 
+                "UlanIdNo": "500098823"
+            }, 
             "after_follower": null, 
             "birth_date": "1719", 
+            "collaboration": null, 
             "death_date": "1807", 
+            "display_name": "Courtauld, Louisa Perina", 
+            "first": "Louisa", 
+            "fullname": "Louisa P. Courtauld", 
             "irn": 695240, 
-            "name": "Courtauld, Louisa Perina", 
+            "last": "Courtauld", 
+            "middle": "Perina", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Cowles, George", 
+                "UlanIdNo": "500058613"
+            }, 
             "after_follower": null, 
             "birth_date": "1738", 
+            "collaboration": null, 
             "death_date": "1811", 
+            "display_name": "Cowles, George", 
+            "first": "George", 
+            "fullname": "George Cowles", 
             "irn": 655446, 
-            "name": "Cowles, George", 
+            "last": "Cowles", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "H: 11 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68849, 
     "materials": "silver and wood", 
     "on_view": true, 

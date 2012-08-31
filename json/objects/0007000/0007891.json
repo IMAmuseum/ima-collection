@@ -2,12 +2,23 @@
     "accession_number": "80.586", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Phillips, Peter", 
+                "UlanIdNo": "500001509"
+            }, 
             "after_follower": null, 
             "birth_date": "1939", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Phillips, Peter", 
+            "first": "Peter", 
+            "fullname": "Peter Phillips", 
             "irn": 601471, 
-            "name": "Phillips, Peter", 
+            "last": "Phillips", 
+            "middle": null, 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 7891, 
     "materials": "screenprint", 
     "on_view": false, 

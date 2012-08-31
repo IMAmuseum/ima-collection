@@ -2,21 +2,43 @@
     "accession_number": "24.268", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jacque, Charles \u00c9mile", 
+                "UlanIdNo": "500027865"
+            }, 
             "after_follower": null, 
             "birth_date": "1813", 
+            "collaboration": null, 
             "death_date": "1894", 
+            "display_name": "Jacque, Charles \u00c9mile", 
+            "first": "Charles", 
+            "fullname": "Charles \u00c9. Jacque", 
             "irn": 627265, 
-            "name": "Jacque, Charles \u00c9mile", 
+            "last": "Jacque", 
+            "middle": "\u00c9mile", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Del\u00e2tre, Auguste", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1822", 
+            "collaboration": null, 
             "death_date": "1907", 
+            "display_name": "Del\u00e2tre, Auguste", 
+            "first": null, 
+            "fullname": "Del\u00e2tre, Auguste", 
             "irn": 2047, 
-            "name": "Del\u00e2tre, Auguste", 
+            "last": "Del\u00e2tre, Auguste", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 12936, 
     "materials": "etching", 
     "on_view": false, 

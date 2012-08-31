@@ -2,12 +2,23 @@
     "accession_number": "2010.123", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Indiana, Robert", 
+                "UlanIdNo": "500015478"
+            }, 
             "after_follower": null, 
             "birth_date": "1928", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Indiana, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Indiana", 
             "irn": 615130, 
-            "name": "Indiana, Robert", 
+            "last": "Indiana", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,20 +27,47 @@
     "cultures": [], 
     "dimensions": "77 1/8 x 53 1/8 in. (image)\n79 7/8 x 55 9/16 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68689, 
     "materials": "screenprint on white Saunders Watercolor 410g paper", 
     "on_view": false, 
     "period": null, 
     "printers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Brand X Editions, Ltd., New York", 
+            "first": null, 
+            "fullname": "Brand X Editions, Ltd., New York", 
             "irn": 7028, 
-            "name": "Brand X Editions, Ltd., New York"
+            "last": null, 
+            "middle": null, 
+            "organization": "Brand X Editions, Ltd., New York", 
+            "party_type": "Organisation"
         }
     ], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Park Granada Editions", 
+            "first": null, 
+            "fullname": "Park Granada Editions", 
             "irn": 7032, 
-            "name": "Park Granada Editions"
+            "last": null, 
+            "middle": null, 
+            "organization": "Park Granada Editions", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Morgan Art Foundation/Artists Rights Society (ARS), New York", 

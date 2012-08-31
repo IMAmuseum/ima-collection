@@ -2,21 +2,43 @@
     "accession_number": "80.1320.103", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Harlow, George Henry", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1787", 
+            "collaboration": null, 
             "death_date": "1819", 
+            "display_name": "Harlow, George Henry", 
+            "first": null, 
+            "fullname": "Harlow, George Henry", 
             "irn": 1252, 
-            "name": "Harlow, George Henry", 
+            "last": "Harlow, George Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Ryall, Henry Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1811", 
+            "collaboration": null, 
             "death_date": "1867", 
+            "display_name": "Ryall, Henry Thomas", 
+            "first": null, 
+            "fullname": "Ryall, Henry Thomas", 
             "irn": 981, 
-            "name": "Ryall, Henry Thomas", 
+            "last": "Ryall, Henry Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40306, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

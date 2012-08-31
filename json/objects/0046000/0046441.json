@@ -2,21 +2,43 @@
     "accession_number": "1996.7", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dine, Jim", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1935", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Dine, Jim", 
+            "first": null, 
+            "fullname": "Dine, Jim", 
             "irn": 1712, 
-            "name": "Dine, Jim", 
+            "last": "Dine, Jim", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Pratt Graphic Art Center", 
+            "first": null, 
+            "fullname": "Pratt Graphic Art Center", 
             "irn": 2471, 
-            "name": "Pratt Graphic Art Center", 
+            "last": "Pratt Graphic Art Center", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "30 x 22 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46441, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Martha Jackson Gallery", 
+            "first": null, 
+            "fullname": "Martha Jackson Gallery", 
             "irn": 5090, 
-            "name": "Martha Jackson Gallery"
+            "last": null, 
+            "middle": null, 
+            "organization": "Martha Jackson Gallery", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Jim Dine/Artists Rights Society (ARS), New York", 

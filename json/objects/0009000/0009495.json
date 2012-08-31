@@ -2,12 +2,23 @@
     "accession_number": "17.66", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Payne, Edgar Alwin", 
+                "UlanIdNo": "500002917"
+            }, 
             "after_follower": null, 
             "birth_date": "1883", 
+            "collaboration": null, 
             "death_date": "1947", 
+            "display_name": "Payne, Edgar Alwin", 
+            "first": "Edgar", 
+            "fullname": "Edgar A. Payne", 
             "irn": 602851, 
-            "name": "Payne, Edgar Alwin", 
+            "last": "Payne", 
+            "middle": "Alwin", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "43 1/4 x 51 in. canvas", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9495, 
     "materials": "oil on canvas", 
     "on_view": false, 

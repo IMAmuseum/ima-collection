@@ -1,17 +1,39 @@
 {
     "accession_number": "MH2010.420", 
-    "actors": [], 
+    "actors": [
+        {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "after_follower": null, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Carruth Studio", 
+            "first": null, 
+            "fullname": "Carruth Studio", 
+            "irn": 8831, 
+            "last": null, 
+            "middle": null, 
+            "nationality": "United States", 
+            "organization": "Carruth Studio", 
+            "party_type": "Organisation", 
+            "role": "manufacturer"
+        }
+    ], 
     "creation_date": "1997", 
     "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
     "dimensions": "9  x 3 x 3 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 70246, 
-    "materials": "stone figure", 
+    "materials": "stone", 
     "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Frog on the Ball"
+    "title": "Frog on the Ball figure"
 }

@@ -2,12 +2,23 @@
     "accession_number": "79.999", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kokoschka, Oskar", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1886", 
+            "collaboration": null, 
             "death_date": "1980", 
+            "display_name": "Kokoschka, Oskar", 
+            "first": "Oskar", 
+            "fullname": "Oskar Kokoschka", 
             "irn": 1056, 
-            "name": "Kokoschka, Oskar", 
+            "last": "Kokoschka", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 7720, 
     "materials": "lithograph", 
     "on_view": false, 

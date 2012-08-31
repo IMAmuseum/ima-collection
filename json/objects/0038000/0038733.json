@@ -2,21 +2,43 @@
     "accession_number": "80.978.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Blore, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1787", 
+            "collaboration": null, 
             "death_date": "1879", 
+            "display_name": "Blore, Edward", 
+            "first": null, 
+            "fullname": "Blore, Edward", 
             "irn": 1819, 
-            "name": "Blore, Edward", 
+            "last": "Blore, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Sands, Roberts", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1792", 
+            "collaboration": null, 
             "death_date": "1855", 
+            "display_name": "Sands, Roberts", 
+            "first": null, 
+            "fullname": "Sands, Roberts", 
             "irn": 1844, 
-            "name": "Sands, Roberts", 
+            "last": "Sands, Roberts", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38733, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

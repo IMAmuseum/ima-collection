@@ -2,12 +2,23 @@
     "accession_number": "51.28", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Klee, Paul", 
+                "UlanIdNo": "500010493"
+            }, 
             "after_follower": null, 
             "birth_date": "1879", 
+            "collaboration": null, 
             "death_date": "1940", 
+            "display_name": "Klee, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul Klee", 
             "irn": 610242, 
-            "name": "Klee, Paul", 
+            "last": "Klee", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 1/4 x 9 in (image)\n14 x 10 1/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16394, 
     "materials": "color lithograph", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "80.1794.8", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Edridge, Henry", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1769", 
+            "collaboration": null, 
             "death_date": "1821", 
+            "display_name": "Edridge, Henry", 
+            "first": null, 
+            "fullname": "Edridge, Henry", 
             "irn": 292, 
-            "name": "Edridge, Henry", 
+            "last": "Edridge, Henry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Hill, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1770", 
+            "collaboration": null, 
             "death_date": "1850", 
+            "display_name": "Hill, John", 
+            "first": null, 
+            "fullname": "Hill, John", 
             "irn": 581, 
-            "name": "Hill, John", 
+            "last": "Hill, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 46376, 
     "materials": "etching and aquatint", 
     "on_view": false, 

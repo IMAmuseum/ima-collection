@@ -2,12 +2,23 @@
     "accession_number": "2011.77", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Chafetz, Sidney", 
+                "UlanIdNo": "500105615"
+            }, 
             "after_follower": null, 
             "birth_date": "1922", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Chafetz, Sidney", 
+            "first": "Sidney", 
+            "fullname": "Sidney Chafetz", 
             "irn": 701966, 
-            "name": "Chafetz, Sidney", 
+            "last": "Chafetz", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 7/8 x 8 1/4 in. (image)\n16 7/8 x 13 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71520, 
     "materials": "etching and aquatint on off-white wove paper", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Associated American Artists", 
+            "first": null, 
+            "fullname": "Associated American Artists", 
             "irn": 6995, 
-            "name": "Associated American Artists"
+            "last": null, 
+            "middle": null, 
+            "organization": "Associated American Artists", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": null, 

@@ -2,12 +2,23 @@
     "accession_number": "1986.67", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Givenchy, Hubert de", 
+                "UlanIdNo": "500004811"
+            }, 
             "after_follower": null, 
             "birth_date": "1927", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Givenchy, Hubert de", 
+            "first": "Hubert", 
+            "fullname": "Hubert d. Givenchy", 
             "irn": 604684, 
-            "name": "Givenchy, Hubert de", 
+            "last": "Givenchy", 
+            "middle": "de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 25989, 
     "materials": "silk shantung gazar with glass beads and cotton thread", 
     "on_view": false, 

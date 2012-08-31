@@ -2,21 +2,43 @@
     "accession_number": "73.2.49", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Boucher, Juste-Nathan", 
+                "UlanIdNo": "500028922"
+            }, 
             "after_follower": null, 
             "birth_date": "1736", 
+            "collaboration": null, 
             "death_date": "1782", 
+            "display_name": "Boucher, Juste-Nathan", 
+            "first": "Juste", 
+            "fullname": "Juste -. Boucher", 
             "irn": 628299, 
-            "name": "Boucher, Juste-Nathan", 
+            "last": "Boucher", 
+            "middle": "-Nathan", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Berthault, Pierre Gabriel", 
+                "UlanIdNo": "500043438"
+            }, 
             "after_follower": null, 
             "birth_date": "1748", 
+            "collaboration": null, 
             "death_date": "1819", 
+            "display_name": "Berthault, Pierre Gabriel", 
+            "first": "Pierre", 
+            "fullname": "Pierre G. Berthault", 
             "irn": 642554, 
-            "name": "Berthault, Pierre Gabriel", 
+            "last": "Berthault", 
+            "middle": "Gabriel", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "7 1/2 X 11 5/8 in. (image)\n9 1/2 X 13 3/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9083, 
     "materials": "engraving", 
     "on_view": false, 

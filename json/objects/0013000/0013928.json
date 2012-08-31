@@ -2,21 +2,43 @@
     "accession_number": "39.11A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Waugh, Sidney", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1904", 
+            "collaboration": null, 
             "death_date": "1963", 
+            "display_name": "Waugh, Sidney", 
+            "first": null, 
+            "fullname": "Waugh, Sidney", 
             "irn": 2794, 
-            "name": "Waugh, Sidney", 
+            "last": "Waugh, Sidney", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Steuben Glass Works", 
+            "first": null, 
+            "fullname": "Steuben Glass Works", 
             "irn": 2795, 
-            "name": "Steuben Glass Works", 
+            "last": "Steuben Glass Works", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "7 x 6-1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13928, 
     "materials": "optical glass", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "80.1953", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Foster, Myles Birket", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1825", 
+            "collaboration": null, 
             "death_date": "1899", 
+            "display_name": "Foster, Myles Birket", 
+            "first": null, 
+            "fullname": "Foster, Myles Birket", 
             "irn": 901, 
-            "name": "Foster, Myles Birket", 
+            "last": "Foster, Myles Birket", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Miller, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1796", 
+            "collaboration": null, 
             "death_date": "1882", 
+            "display_name": "Miller, William", 
+            "first": null, 
+            "fullname": "Miller, William", 
             "irn": 832, 
-            "name": "Miller, William", 
+            "last": "Miller, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42341, 
     "materials": "engraving on India paper, chine coll\u00e9", 
     "on_view": false, 

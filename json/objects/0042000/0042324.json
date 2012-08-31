@@ -2,21 +2,43 @@
     "accession_number": "80.1936", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Roberts, David", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1796-1864", 
+            "collaboration": null, 
             "death_date": "1796-1864", 
+            "display_name": "Roberts, David", 
+            "first": null, 
+            "fullname": "Roberts, David", 
             "irn": 927, 
-            "name": "Roberts, David", 
+            "last": "Roberts, David", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Carter, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1798", 
+            "collaboration": null, 
             "death_date": "1855", 
+            "display_name": "Carter, James", 
+            "first": null, 
+            "fullname": "Carter, James", 
             "irn": 1947, 
-            "name": "Carter, James", 
+            "last": "Carter, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42324, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

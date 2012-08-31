@@ -2,12 +2,23 @@
     "accession_number": "80.825.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Burghers, Michael", 
+                "UlanIdNo": "500095021"
+            }, 
             "after_follower": null, 
             "birth_date": "1653", 
+            "collaboration": null, 
             "death_date": "1727", 
+            "display_name": "Burghers, Michael", 
+            "first": "Michael", 
+            "fullname": "Michael Burghers", 
             "irn": 691477, 
-            "name": "Burghers, Michael", 
+            "last": "Burghers", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37943, 
     "materials": "engraving", 
     "on_view": false, 

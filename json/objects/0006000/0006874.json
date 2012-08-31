@@ -2,12 +2,23 @@
     "accession_number": "1993.202A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Josiah Wedgwood", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1730", 
+            "collaboration": null, 
             "death_date": "1795", 
+            "display_name": "Josiah Wedgwood", 
+            "first": "Josiah", 
+            "fullname": "Josiah Wedgwood", 
             "irn": 1031, 
-            "name": "Josiah Wedgwood", 
+            "last": "Wedgwood", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "H: 4 1/4 in. |  W: 8 1/2 in. |  D: 5 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 6874, 
     "materials": "stoneware", 
     "on_view": false, 

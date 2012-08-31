@@ -2,21 +2,43 @@
     "accession_number": "2011.58A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1957", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Nathalie du Pasquier", 
+            "first": "Nathalie", 
+            "fullname": "Nathalie du Pasquier", 
             "irn": 7005, 
-            "name": "Nathalie du Pasquier", 
+            "last": "du Pasquier", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Swatch", 
+            "first": null, 
+            "fullname": "Swatch", 
             "irn": 6292, 
-            "name": "Swatch", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Swatch", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "Overall): 9 3/8 x 1 5/8 x 1/2 in.\nA) 9 1/8 x 1 3/8 x 5/16 in.\nB) 9 3/8 x 1 5/8 x 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71497, 
     "materials": "plastic", 
     "on_view": false, 

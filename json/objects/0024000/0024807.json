@@ -2,12 +2,23 @@
     "accession_number": "47.185", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Panini, Giovanni Paolo", 
+                "UlanIdNo": "500018296"
+            }, 
             "after_follower": "Follower of", 
             "birth_date": "1691", 
+            "collaboration": null, 
             "death_date": "1765", 
+            "display_name": "Panini, Giovanni Paolo", 
+            "first": "Giovanni", 
+            "fullname": "Giovanni P. Panini", 
             "irn": 617889, 
-            "name": "Panini, Giovanni Paolo", 
+            "last": "Panini", 
+            "middle": "Paolo", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "39 x 45 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 24807, 
     "materials": "oil on canvas", 
     "on_view": false, 

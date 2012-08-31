@@ -2,12 +2,23 @@
     "accession_number": "1991.52", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Munsch, Josef", 
+                "UlanIdNo": "500014657"
+            }, 
             "after_follower": null, 
             "birth_date": "1832", 
+            "collaboration": null, 
             "death_date": "1896", 
+            "display_name": "Munsch, Josef", 
+            "first": "Josef", 
+            "fullname": "Josef Munsch", 
             "irn": 614322, 
-            "name": "Munsch, Josef", 
+            "last": "Munsch", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "34 1/2 x 45 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14063, 
     "materials": "oil on canvas", 
     "on_view": false, 

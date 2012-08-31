@@ -2,12 +2,23 @@
     "accession_number": "2000.340", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stackhouse, Robert", 
+                "UlanIdNo": "500041095"
+            }, 
             "after_follower": null, 
             "birth_date": "1942", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Stackhouse, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Stackhouse", 
             "irn": 640230, 
-            "name": "Stackhouse, Robert", 
+            "last": "Stackhouse", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "39 x 25 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 42821, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "The Lawrence Lithography Workshop", 
+            "first": null, 
+            "fullname": null, 
             "irn": 4240, 
-            "name": "The Lawrence Lithography Workshop"
+            "last": null, 
+            "middle": null, 
+            "organization": "The Lawrence Lithography Workshop", 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

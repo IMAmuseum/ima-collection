@@ -2,12 +2,23 @@
     "accession_number": "2008.328", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dell, Christian", 
+                "UlanIdNo": "500045673"
+            }, 
             "after_follower": "Attributed to", 
             "birth_date": "1893", 
+            "collaboration": null, 
             "death_date": "1974", 
+            "display_name": "Dell, Christian", 
+            "first": "Christian", 
+            "fullname": "Christian Dell", 
             "irn": 644422, 
-            "name": "Dell, Christian", 
+            "last": "Dell", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 7/8 x 9 3/4 x 5 7/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65830, 
     "materials": "enameled steel, aluminum, and Bakelite", 
     "on_view": false, 

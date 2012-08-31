@@ -2,12 +2,23 @@
     "accession_number": "66.13Q", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1930", 
+            "collaboration": null, 
             "death_date": "1982", 
+            "display_name": "William Majors", 
+            "first": "William", 
+            "fullname": "William Majors", 
             "irn": 1116, 
-            "name": "William Majors", 
+            "last": "Majors", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 7/8 x 17 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 5363, 
     "materials": "etching and aquatint", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "The Museum of Modern Art, New York", 
+            "first": null, 
+            "fullname": "The Museum of Modern Art, New York", 
             "irn": 2367, 
-            "name": "The Museum of Modern Art, New York"
+            "last": "The Museum of Modern Art, New York", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

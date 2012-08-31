@@ -2,12 +2,23 @@
     "accession_number": "2000.343", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jan Brueghel the Elder", 
+                "UlanIdNo": "500007095"
+            }, 
             "after_follower": null, 
             "birth_date": "1568", 
+            "collaboration": null, 
             "death_date": "1625", 
+            "display_name": "Jan Brueghel the Elder", 
+            "first": null, 
+            "fullname": null, 
             "irn": 606915, 
-            "name": "Jan Brueghel the Elder", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 x 24 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 23764, 
     "materials": "oil on wood", 
     "on_view": true, 

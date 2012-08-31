@@ -2,21 +2,43 @@
     "accession_number": "2011.272", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1909", 
+            "collaboration": null, 
             "death_date": "1999", 
+            "display_name": "Archimede Seguso", 
+            "first": "Archimede", 
+            "fullname": "Archimede Seguso", 
             "irn": 8282, 
-            "name": "Archimede Seguso", 
+            "last": "Seguso", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Vetraria Archimede Seguso", 
+            "first": null, 
+            "fullname": "Vetraria Archimede Seguso", 
             "irn": 8283, 
-            "name": "Vetraria Archimede Seguso", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Vetraria Archimede Seguso", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 3/4 x 4 7/8 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 73803, 
     "materials": "glass", 
     "on_view": false, 

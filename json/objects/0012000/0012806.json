@@ -2,12 +2,23 @@
     "accession_number": "71.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Conca, Sebastiano", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1680", 
+            "collaboration": null, 
             "death_date": "1764", 
+            "display_name": "Conca, Sebastiano", 
+            "first": "Sebastiano", 
+            "fullname": "Sebastiano Conca", 
             "irn": 1110, 
-            "name": "Conca, Sebastiano", 
+            "last": "Conca", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 x 10 3/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 12806, 
     "materials": "oil on canvas", 
     "on_view": true, 

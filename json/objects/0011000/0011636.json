@@ -2,12 +2,23 @@
     "accession_number": "44.74", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gogh, Vincent van", 
+                "UlanIdNo": "500115588"
+            }, 
             "after_follower": null, 
             "birth_date": "1853", 
+            "collaboration": null, 
             "death_date": "1890", 
+            "display_name": "Gogh, Vincent van", 
+            "first": "Vincent", 
+            "fullname": "Vincent v. Gogh", 
             "irn": 710476, 
-            "name": "Gogh, Vincent van", 
+            "last": "Gogh", 
+            "middle": "van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "29 x 36 1/4 in. (sight)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11636, 
     "materials": "oil on canvas", 
     "on_view": true, 

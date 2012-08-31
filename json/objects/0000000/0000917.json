@@ -2,21 +2,43 @@
     "accession_number": "1986.237A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bohan, Marc", 
+                "UlanIdNo": "500071828"
+            }, 
             "after_follower": null, 
             "birth_date": "1926", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bohan, Marc", 
+            "first": "Marc", 
+            "fullname": "Marc Bohan", 
             "irn": 668519, 
-            "name": "Bohan, Marc", 
+            "last": "Bohan", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Christian Dior Couture", 
+            "first": null, 
+            "fullname": "Christian Dior Couture", 
             "irn": 5276, 
-            "name": "Christian Dior Couture", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Christian Dior Couture", 
+            "party_type": "Organisation", 
             "role": "Design House"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "L: 24 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 917, 
     "materials": "silk chiffon, sequins, paillettes, leather (belt)", 
     "on_view": false, 

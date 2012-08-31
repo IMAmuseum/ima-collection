@@ -2,12 +2,23 @@
     "accession_number": "09.103", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Poilly, Fran\u00e7ois I de", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1622", 
+            "collaboration": null, 
             "death_date": "1693", 
+            "display_name": "Poilly, Fran\u00e7ois I de", 
+            "first": null, 
+            "fullname": "Poilly, Fran\u00e7ois I de", 
             "irn": 459, 
-            "name": "Poilly, Fran\u00e7ois I de", 
+            "last": "Poilly, Fran\u00e7ois I de", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 15581, 
     "materials": "engraving", 
     "on_view": false, 

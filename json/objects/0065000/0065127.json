@@ -2,21 +2,43 @@
     "accession_number": "2008.231A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1919", 
+            "collaboration": null, 
             "death_date": "2008", 
+            "display_name": "Jens H. Quistgaard", 
+            "first": "Jens", 
+            "fullname": "Jens H. Quistgaard", 
             "irn": 5870, 
-            "name": "Jens H. Quistgaard", 
+            "last": "Quistgaard", 
+            "middle": "Harald", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Dansk International Designs, Ltd.", 
+            "first": null, 
+            "fullname": "Dansk International Designs, Ltd.", 
             "irn": 5871, 
-            "name": "Dansk International Designs, Ltd.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Dansk International Designs, Ltd.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "A) bucket: 19 1/4 x 9 1/4 in.\nB) lid: diam.: 7 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65127, 
     "materials": "teak and plastic", 
     "on_view": false, 

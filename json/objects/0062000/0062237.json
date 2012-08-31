@@ -2,12 +2,23 @@
     "accession_number": "LH2003.84A-F", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "JeanBaptiste Moli\u00e8re", 
+            "first": "JeanBaptiste", 
+            "fullname": "JeanBaptiste Moli\u00e8re", 
             "irn": 3143, 
-            "name": "JeanBaptiste Moli\u00e8re", 
+            "last": "Moli\u00e8re", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 3/8 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62237, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "George Barrie's Sons", 
+            "first": null, 
+            "fullname": "George Barrie's Sons", 
             "irn": 3144, 
-            "name": "George Barrie's Sons"
+            "last": "George Barrie's Sons", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

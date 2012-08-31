@@ -2,12 +2,23 @@
     "accession_number": "70.135.13", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rouault, Georges", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1871", 
+            "collaboration": null, 
             "death_date": "1958", 
+            "display_name": "Rouault, Georges", 
+            "first": "Georges", 
+            "fullname": "Georges Rouault", 
             "irn": 1386, 
-            "name": "Rouault, Georges", 
+            "last": "Rouault", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 1/2 x 13 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 54718, 
     "materials": "etching and aquatint", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "L'Etoile Filante", 
+            "first": null, 
+            "fullname": "L'Etoile Filante", 
             "irn": 2208, 
-            "name": "L'Etoile Filante"
+            "last": "L'Etoile Filante", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS), New York / ADAGP, Paris", 

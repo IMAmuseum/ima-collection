@@ -2,21 +2,43 @@
     "accession_number": "80.1726.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girtin, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1775-1802", 
+            "collaboration": null, 
             "death_date": "1775-1802", 
+            "display_name": "Girtin, Thomas", 
+            "first": null, 
+            "fullname": "Girtin, Thomas", 
             "irn": 500, 
-            "name": "Girtin, Thomas", 
+            "last": "Girtin, Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Say, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1768", 
+            "collaboration": null, 
             "death_date": "1834", 
+            "display_name": "Say, William", 
+            "first": null, 
+            "fullname": "Say, William", 
             "irn": 426, 
-            "name": "Say, William", 
+            "last": "Say, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 41856, 
     "materials": "mezzotint on plain paper", 
     "on_view": false, 

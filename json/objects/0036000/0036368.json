@@ -2,12 +2,23 @@
     "accession_number": "82.64", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Celmins, Vija", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Celmins, Vija", 
+            "first": null, 
+            "fullname": "Celmins, Vija", 
             "irn": 678, 
-            "name": "Celmins, Vija", 
+            "last": "Celmins, Vija", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 3/8 x 16 1/2 in. |  31.7 x 41.9 cm. (image) |  16 1/2 x 20 1/2 in. |  41.9 x 52.1 cm. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 36368, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Cirrus Editions", 
+            "first": null, 
+            "fullname": "Cirrus Editions", 
             "irn": 2237, 
-            "name": "Cirrus Editions"
+            "last": "Cirrus Editions", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Vija Celmins", 

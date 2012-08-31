@@ -2,21 +2,43 @@
     "accession_number": "2009.490", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1968", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tord Boontje", 
+            "first": "Tord", 
+            "fullname": "Tord Boontje", 
             "irn": 5658, 
-            "name": "Tord Boontje", 
+            "last": "Boontje", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Studio Tord Boontje", 
+            "first": null, 
+            "fullname": "Studio Tord Boontje", 
             "irn": 6675, 
-            "name": "Studio Tord Boontje", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Studio Tord Boontje", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "33 3/8 \u00d7 17 7/8 \u00d7 18 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64636, 
     "materials": "wood, fabric, and metal", 
     "on_view": false, 

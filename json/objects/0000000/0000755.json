@@ -2,12 +2,23 @@
     "accession_number": "73.2.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "B\u00e9rain, Jean, I", 
+                "UlanIdNo": "500015026"
+            }, 
             "after_follower": null, 
             "birth_date": "1640", 
+            "collaboration": null, 
             "death_date": "1711", 
+            "display_name": "B\u00e9rain, Jean, I", 
+            "first": "Jean", 
+            "fullname": "Jean ,. B\u00e9rain", 
             "irn": 614686, 
-            "name": "B\u00e9rain, Jean, I", 
+            "last": "B\u00e9rain", 
+            "middle": ", I", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "13 1/4 X 10 in. (image)\n16 1/8 X 10 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 755, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,21 +2,43 @@
     "accession_number": "MH2010.103", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Ulrica Hydman-Vallien", 
+            "first": "Ulrica", 
+            "fullname": "Ulrica Hydman-Vallien", 
             "irn": 7385, 
-            "name": "Ulrica Hydman-Vallien", 
+            "last": "Hydman-Vallien", 
+            "middle": null, 
             "nationality": "Swedish", 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Boda Afors", 
+            "first": null, 
+            "fullname": "Boda Afors", 
             "irn": 7390, 
-            "name": "Boda Afors", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Boda Afors", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "4 1/2 x 8 x 3 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69431, 
     "materials": "painted glass", 
     "on_view": true, 

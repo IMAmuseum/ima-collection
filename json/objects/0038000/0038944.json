@@ -2,12 +2,23 @@
     "accession_number": "2000.113", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Conant, Lucy Scarborough", 
+                "UlanIdNo": "500103339"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1921", 
+            "display_name": "Conant, Lucy Scarborough", 
+            "first": "Lucy", 
+            "fullname": "Lucy S. Conant", 
             "irn": 699714, 
-            "name": "Conant, Lucy Scarborough", 
+            "last": "Conant", 
+            "middle": "Scarborough", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38944, 
     "materials": "gouache on brown paper", 
     "on_view": false, 

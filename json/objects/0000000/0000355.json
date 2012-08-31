@@ -2,12 +2,23 @@
     "accession_number": "46.46", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Inness, George", 
+                "UlanIdNo": "500013380"
+            }, 
             "after_follower": null, 
             "birth_date": "1825", 
+            "collaboration": null, 
             "death_date": "1894", 
+            "display_name": "Inness, George", 
+            "first": "George", 
+            "fullname": "George Inness", 
             "irn": 613067, 
-            "name": "Inness, George", 
+            "last": "Inness", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 x 18 in\n19 1/4 x 25 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 355, 
     "materials": "oil on canvas", 
     "on_view": false, 

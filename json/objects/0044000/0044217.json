@@ -2,12 +2,23 @@
     "accession_number": "2001.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ferrari, Giuseppe", 
+                "UlanIdNo": "500050132"
+            }, 
             "after_follower": null, 
             "birth_date": "1843", 
+            "collaboration": null, 
             "death_date": "1905", 
+            "display_name": "Ferrari, Giuseppe", 
+            "first": "Giuseppe", 
+            "fullname": "Giuseppe Ferrari", 
             "irn": 648506, 
-            "name": "Ferrari, Giuseppe", 
+            "last": "Ferrari", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 44217, 
     "materials": "watercolor", 
     "on_view": false, 

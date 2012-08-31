@@ -2,12 +2,23 @@
     "accession_number": "73.54.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Hezekiah Wright", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Smith, Hezekiah Wright", 
+            "first": null, 
+            "fullname": "Smith, Hezekiah Wright", 
             "irn": 2214, 
-            "name": "Smith, Hezekiah Wright", 
+            "last": "Smith, Hezekiah Wright", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 13919, 
     "materials": "engraving", 
     "on_view": false, 

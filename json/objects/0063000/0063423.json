@@ -2,12 +2,23 @@
     "accession_number": "2006.93", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Saint Laurent, Yves", 
+                "UlanIdNo": "500023723"
+            }, 
             "after_follower": null, 
             "birth_date": "1936", 
+            "collaboration": null, 
             "death_date": "2008", 
+            "display_name": "Saint Laurent, Yves", 
+            "first": "Yves", 
+            "fullname": "Yves Saint Laurent", 
             "irn": 623216, 
-            "name": "Saint Laurent, Yves", 
+            "last": "Saint Laurent", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 1/2 x 12 x 6 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63423, 
     "materials": "wool, felt, silk cord and synthetic fur", 
     "on_view": false, 

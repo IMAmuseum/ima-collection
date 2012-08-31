@@ -2,21 +2,43 @@
     "accession_number": "1984.335", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Irvine, Sarah Agnes Estelle", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1887", 
+            "collaboration": null, 
             "death_date": "1970", 
+            "display_name": "Irvine, Sarah Agnes Estelle", 
+            "first": null, 
+            "fullname": "Irvine, Sarah Agnes Estelle", 
             "irn": 3065, 
-            "name": "Irvine, Sarah Agnes Estelle", 
+            "last": "Irvine, Sarah Agnes Estelle", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Newcomb Pottery", 
+            "first": null, 
+            "fullname": "Newcomb Pottery", 
             "irn": 1751, 
-            "name": "Newcomb Pottery", 
+            "last": "Newcomb Pottery", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "5 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 20112, 
     "materials": "earthenware, glaze", 
     "on_view": false, 

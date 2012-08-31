@@ -2,39 +2,83 @@
     "accession_number": "80.1885.15", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ruskin, John", 
+                "UlanIdNo": "500006262"
+            }, 
             "after_follower": null, 
             "birth_date": "1819", 
+            "collaboration": null, 
             "death_date": "1900", 
+            "display_name": "Ruskin, John", 
+            "first": "John", 
+            "fullname": "John Ruskin", 
             "irn": 606098, 
-            "name": "Ruskin, John", 
+            "last": "Ruskin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Lupton, Thomas Goff", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1873", 
+            "display_name": "Lupton, Thomas Goff", 
+            "first": "Thomas", 
+            "fullname": "Thomas G. Lupton", 
             "irn": 830, 
-            "name": "Lupton, Thomas Goff", 
+            "last": "Lupton", 
+            "middle": "Goff", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Boys, Thomas Shotter", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1803", 
+            "collaboration": null, 
             "death_date": "1874", 
+            "display_name": "Boys, Thomas Shotter", 
+            "first": null, 
+            "fullname": "Boys, Thomas Shotter", 
             "irn": 1704, 
-            "name": "Boys, Thomas Shotter", 
+            "last": "Boys, Thomas Shotter", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Lupton, Thomas Goff", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1873", 
+            "display_name": "Lupton, Thomas Goff", 
+            "first": "Thomas", 
+            "fullname": "Thomas G. Lupton", 
             "irn": 830, 
-            "name": "Lupton, Thomas Goff", 
+            "last": "Lupton", 
+            "middle": "Goff", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -43,6 +87,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 42253, 
     "materials": "mezzotint over etching", 
     "on_view": false, 

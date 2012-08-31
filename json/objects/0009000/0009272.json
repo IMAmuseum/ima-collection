@@ -2,21 +2,43 @@
     "accession_number": "73.2.22", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "B\u00e9rain, Jean, I", 
+                "UlanIdNo": "500015026"
+            }, 
             "after_follower": null, 
             "birth_date": "1640", 
+            "collaboration": null, 
             "death_date": "1711", 
+            "display_name": "B\u00e9rain, Jean, I", 
+            "first": "Jean", 
+            "fullname": "Jean ,. B\u00e9rain", 
             "irn": 614686, 
-            "name": "B\u00e9rain, Jean, I", 
+            "last": "B\u00e9rain", 
+            "middle": ", I", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Scotin, G\u00e9rard Jean-Baptiste", 
+                "UlanIdNo": "500041165"
+            }, 
             "after_follower": null, 
             "birth_date": "1671", 
+            "collaboration": null, 
             "death_date": "1716", 
+            "display_name": "Scotin, G\u00e9rard Jean-Baptiste", 
+            "first": "G", 
+            "fullname": "G \u00e9. Scotin", 
             "irn": 640300, 
-            "name": "Scotin, G\u00e9rard Jean-Baptiste", 
+            "last": "Scotin", 
+            "middle": "\u00e9rard Jean-Baptiste", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "10 3/8 X 15 3/8 in.  (image)\n11 X 16 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9272, 
     "materials": "engraving", 
     "on_view": false, 

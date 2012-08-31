@@ -2,12 +2,23 @@
     "accession_number": "11.101", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Blum, Robert Frederick", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1857", 
+            "collaboration": null, 
             "death_date": "1903", 
+            "display_name": "Blum, Robert Frederick", 
+            "first": null, 
+            "fullname": "Blum, Robert Frederick", 
             "irn": 914, 
-            "name": "Blum, Robert Frederick", 
+            "last": "Blum, Robert Frederick", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 34591, 
     "materials": "etching", 
     "on_view": false, 

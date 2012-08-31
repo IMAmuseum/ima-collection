@@ -2,12 +2,23 @@
     "accession_number": "2005.65", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vuillard, Edouard", 
+                "UlanIdNo": "500014954"
+            }, 
             "after_follower": null, 
             "birth_date": "1868", 
+            "collaboration": null, 
             "death_date": "1940", 
+            "display_name": "Vuillard, Edouard", 
+            "first": "Edouard", 
+            "fullname": "Edouard Vuillard", 
             "irn": 614616, 
-            "name": "Vuillard, Edouard", 
+            "last": "Vuillard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 x 11 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62956, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Insel, Leipzig", 
+            "first": null, 
+            "fullname": "Insel, Leipzig", 
             "irn": 3390, 
-            "name": "Insel, Leipzig"
+            "last": "Insel, Leipzig", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

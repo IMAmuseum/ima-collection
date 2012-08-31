@@ -2,21 +2,43 @@
     "accession_number": "80.809.87", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Arnald, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1763", 
+            "collaboration": null, 
             "death_date": "1841", 
+            "display_name": "Arnald, George", 
+            "first": null, 
+            "fullname": "Arnald, George", 
             "irn": 1777, 
-            "name": "Arnald, George", 
+            "last": "Arnald, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Greig, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Greig, John", 
+            "first": null, 
+            "fullname": "Greig, John", 
             "irn": 1757, 
-            "name": "Greig, John", 
+            "last": "Greig, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37812, 
     "materials": "engraving", 
     "on_view": false, 

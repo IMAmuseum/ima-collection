@@ -2,21 +2,43 @@
     "accession_number": "74.548", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Adams, Clinton", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1918", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Adams, Clinton", 
+            "first": null, 
+            "fullname": "Adams, Clinton", 
             "irn": 1379, 
-            "name": "Adams, Clinton", 
+            "last": "Adams, Clinton", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "David Folkman", 
+            "first": "David", 
+            "fullname": "David Folkman", 
             "irn": 5086, 
-            "name": "David Folkman", 
+            "last": "Folkman", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial Not Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "24 3/4 x 15 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 16754, 
     "materials": "lithograph", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Tamarind Lithography Workshop, Inc.", 
+            "first": null, 
+            "fullname": "Tamarind Lithography Workshop, Inc.", 
             "irn": 5014, 
-            "name": "Tamarind Lithography Workshop, Inc."
+            "last": "Tamarind Lithography Workshop, Inc.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

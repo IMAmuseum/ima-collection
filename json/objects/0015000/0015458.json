@@ -2,12 +2,23 @@
     "accession_number": "11.46", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Vion, Henri Felix", 
+                "UlanIdNo": "500066836"
+            }, 
             "after_follower": null, 
             "birth_date": "1863", 
+            "collaboration": null, 
             "death_date": "1891", 
+            "display_name": "Vion, Henri Felix", 
+            "first": "Henri", 
+            "fullname": "Henri F. Vion", 
             "irn": 663578, 
-            "name": "Vion, Henri Felix", 
+            "last": "Vion", 
+            "middle": "Felix", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 15458, 
     "materials": "etching", 
     "on_view": false, 

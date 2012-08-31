@@ -2,12 +2,23 @@
     "accession_number": "33.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pears, Charles", 
+                "UlanIdNo": "500010482"
+            }, 
             "after_follower": null, 
             "birth_date": "1873", 
+            "collaboration": null, 
             "death_date": "1958", 
+            "display_name": "Pears, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Pears", 
             "irn": 610232, 
-            "name": "Pears, Charles", 
+            "last": "Pears", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 19489, 
     "materials": "lithograph", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "80.2011", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Malton, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Malton, James", 
+            "first": null, 
+            "fullname": "Malton, James", 
             "irn": 1694, 
-            "name": "Malton, James", 
+            "last": "Malton, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 56052, 
     "materials": null, 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Carpenter and Co., London", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Carpenter and Co., London", 
+            "first": null, 
+            "fullname": "Carpenter and Co., London", 
             "irn": 2394, 
-            "name": "Carpenter and Co., London"
+            "last": "Carpenter and Co., London", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

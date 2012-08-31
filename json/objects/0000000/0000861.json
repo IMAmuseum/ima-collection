@@ -2,12 +2,23 @@
     "accession_number": "30.382", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ostade, Adriaen van", 
+                "UlanIdNo": "500021654"
+            }, 
             "after_follower": null, 
             "birth_date": "1610", 
+            "collaboration": null, 
             "death_date": "1685", 
+            "display_name": "Ostade, Adriaen van", 
+            "first": "Adriaen", 
+            "fullname": "Adriaen v. Ostade", 
             "irn": 621189, 
-            "name": "Ostade, Adriaen van", 
+            "last": "Ostade", 
+            "middle": "van", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 861, 
     "materials": "etching", 
     "on_view": false, 

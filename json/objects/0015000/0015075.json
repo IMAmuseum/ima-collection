@@ -2,12 +2,23 @@
     "accession_number": "09.61", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hawkins, G.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1819", 
+            "collaboration": null, 
             "death_date": "1852", 
+            "display_name": "Hawkins, G.", 
+            "first": null, 
+            "fullname": "Hawkins, G.", 
             "irn": 300, 
-            "name": "Hawkins, G.", 
+            "last": "Hawkins, G.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 15075, 
     "materials": "lithograph", 
     "on_view": false, 

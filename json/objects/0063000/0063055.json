@@ -2,12 +2,23 @@
     "accession_number": "LH2003.92F-J", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1809", 
+            "collaboration": null, 
             "death_date": "1892", 
+            "display_name": "Alfred L. Tennyson", 
+            "first": "Alfred", 
+            "fullname": "Alfred L. Tennyson", 
             "irn": 2746, 
-            "name": "Alfred L. Tennyson", 
+            "last": "Tennyson", 
+            "middle": "Lord", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Library of Congress", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 3/4 x 5 1/2 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63055, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Macmillan and Co.", 
+            "first": null, 
+            "fullname": "Macmillan and Co.", 
             "irn": 2454, 
-            "name": "Macmillan and Co."
+            "last": "Macmillan and Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

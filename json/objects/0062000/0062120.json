@@ -2,21 +2,43 @@
     "accession_number": "2004.94", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tworkov, Jack", 
+                "UlanIdNo": "500009670"
+            }, 
             "after_follower": null, 
             "birth_date": "1900", 
+            "collaboration": null, 
             "death_date": "1982", 
+            "display_name": "Tworkov, Jack", 
+            "first": "Jack", 
+            "fullname": "Jack Tworkov", 
             "irn": 609436, 
-            "name": "Tworkov, Jack", 
+            "last": "Tworkov", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tamarind Institute", 
+            "first": null, 
+            "fullname": "Tamarind Institute", 
             "irn": 2472, 
-            "name": "Tamarind Institute", 
+            "last": "Tamarind Institute", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "25 x 25 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62120, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Tamarind Institute", 
+            "first": null, 
+            "fullname": "Tamarind Institute", 
             "irn": 2472, 
-            "name": "Tamarind Institute"
+            "last": "Tamarind Institute", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Jack Tworkov", 

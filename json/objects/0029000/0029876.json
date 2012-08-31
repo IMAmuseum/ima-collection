@@ -2,12 +2,23 @@
     "accession_number": "58.55", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Watson, George", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Watson, George", 
+            "first": null, 
+            "fullname": "Watson, George", 
             "irn": 1478, 
-            "name": "Watson, George", 
+            "last": "Watson, George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "29 3/8 x 25 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 29876, 
     "materials": "oil on canvas", 
     "on_view": false, 

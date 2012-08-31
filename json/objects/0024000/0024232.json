@@ -2,12 +2,23 @@
     "accession_number": "79.257", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lacombe, Georges", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1868", 
+            "collaboration": null, 
             "death_date": "1916", 
+            "display_name": "Lacombe, Georges", 
+            "first": "Georges", 
+            "fullname": "Georges Lacombe", 
             "irn": 1117, 
-            "name": "Lacombe, Georges", 
+            "last": "Lacombe", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 13/16 x 23 5/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 24232, 
     "materials": "oil on canvas", 
     "on_view": false, 

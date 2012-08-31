@@ -2,21 +2,43 @@
     "accession_number": "53.64", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Peale, Charles Willson", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1741", 
+            "collaboration": null, 
             "death_date": "1827", 
+            "display_name": "Peale, Charles Willson", 
+            "first": "Charles", 
+            "fullname": "Charles W. Peale", 
             "irn": 965, 
-            "name": "Peale, Charles Willson", 
+            "last": "Peale", 
+            "middle": "Willson", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Polk, Charles Peale", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1767", 
+            "collaboration": null, 
             "death_date": "1822", 
+            "display_name": "Polk, Charles Peale", 
+            "first": "Charles", 
+            "fullname": "Charles P. Polk", 
             "irn": 1139, 
-            "name": "Polk, Charles Peale", 
+            "last": "Polk", 
+            "middle": "Peale", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "32 x 29 in.\n45 3/4 x 38 3/8 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 60831, 
     "materials": "oil on canvas", 
     "on_view": true, 

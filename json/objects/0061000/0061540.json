@@ -2,12 +2,23 @@
     "accession_number": "2003.161", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dove, Arthur Garfield", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1880", 
+            "collaboration": null, 
             "death_date": "1946", 
+            "display_name": "Dove, Arthur Garfield", 
+            "first": "Arthur", 
+            "fullname": "Arthur G. Dove", 
             "irn": 247, 
-            "name": "Dove, Arthur Garfield", 
+            "last": "Dove", 
+            "middle": "Garfield", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "15 1/8 x 21 1/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61540, 
     "materials": "oil on canvas", 
     "on_view": true, 

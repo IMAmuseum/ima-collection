@@ -2,21 +2,43 @@
     "accession_number": "MH2010.450", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
-            "birth_date": null, 
+            "birth_date": "1948", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Stephen Smyers", 
+            "first": "Stephen", 
+            "fullname": "Stephen Smyers", 
             "irn": 7389, 
-            "name": "Stephen Smyers", 
+            "last": "Smyers", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Smyers Glass", 
+            "first": null, 
+            "fullname": "Smyers Glass", 
             "irn": 7403, 
-            "name": "Smyers Glass", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Smyers Glass", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "2 1/2 x 2 3/4 x 2/34 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71038, 
     "materials": "glass", 
     "on_view": true, 
@@ -32,5 +55,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Paperweight"
+    "title": "paperweight"
 }

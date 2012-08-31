@@ -2,12 +2,23 @@
     "accession_number": "2008.812", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hart, George Overbury", 
+                "UlanIdNo": "500027420"
+            }, 
             "after_follower": null, 
             "birth_date": "1868", 
+            "collaboration": null, 
             "death_date": "1933", 
+            "display_name": "Hart, George Overbury", 
+            "first": "George", 
+            "fullname": "George O. Hart", 
             "irn": 626826, 
-            "name": "Hart, George Overbury", 
+            "last": "Hart", 
+            "middle": "Overbury", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 12 3/4 in. (image)\n12 x 16 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67258, 
     "materials": "etching, soft-ground etching and aquatint on cream wove paper", 
     "on_view": false, 

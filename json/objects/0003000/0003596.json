@@ -2,12 +2,23 @@
     "accession_number": "19.222", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1800", 
+            "collaboration": null, 
             "death_date": "1863", 
+            "display_name": "James T. Willmore", 
+            "first": "James", 
+            "fullname": "James T. Willmore", 
             "irn": 6113, 
-            "name": "James T. Willmore", 
+            "last": "Willmore", 
+            "middle": "Tibbitts", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "6 3/8 x 9 1/4 in. (image)\n12 x 19 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 3596, 
     "materials": "engraving", 
     "on_view": false, 

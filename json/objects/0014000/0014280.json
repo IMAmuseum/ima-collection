@@ -2,21 +2,43 @@
     "accession_number": "80.249", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Dasburg, Andrew Michael", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1887-1979", 
+            "collaboration": null, 
             "death_date": "1887-1979", 
+            "display_name": "Dasburg, Andrew Michael", 
+            "first": null, 
+            "fullname": "Dasburg, Andrew Michael", 
             "irn": 2231, 
-            "name": "Dasburg, Andrew Michael", 
+            "last": "Dasburg, Andrew Michael", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "John Sommers", 
+            "first": "John", 
+            "fullname": "John Sommers", 
             "irn": 5085, 
-            "name": "John Sommers", 
+            "last": "Sommers", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial Not Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "17 3/16 x 22 15/16 in. (image)\n22 1/4 x 27 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14280, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Tamarind Institute", 
+            "first": null, 
+            "fullname": "Tamarind Institute", 
             "irn": 2472, 
-            "name": "Tamarind Institute"
+            "last": "Tamarind Institute", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

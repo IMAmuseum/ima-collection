@@ -2,12 +2,23 @@
     "accession_number": "76.123", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Carmiencke, Johann Herman", 
+                "UlanIdNo": "500085191"
+            }, 
             "after_follower": null, 
             "birth_date": "1810", 
+            "collaboration": null, 
             "death_date": "1867", 
+            "display_name": "Carmiencke, Johann Herman", 
+            "first": "Johann", 
+            "fullname": "Johann H. Carmiencke", 
             "irn": 681749, 
-            "name": "Carmiencke, Johann Herman", 
+            "last": "Carmiencke", 
+            "middle": "Herman", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 x 37 in.\n33 1/4 x 45 1/4 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 10577, 
     "materials": "oil on canvas", 
     "on_view": false, 

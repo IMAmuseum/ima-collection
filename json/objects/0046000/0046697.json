@@ -2,12 +2,23 @@
     "accession_number": "04.20", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Heymans, Adriaan Joseph", 
+                "UlanIdNo": "500006159"
+            }, 
             "after_follower": null, 
             "birth_date": "1839", 
+            "collaboration": null, 
             "death_date": "1921", 
+            "display_name": "Heymans, Adriaan Joseph", 
+            "first": "Adriaan", 
+            "fullname": "Adriaan J. Heymans", 
             "irn": 605998, 
-            "name": "Heymans, Adriaan Joseph", 
+            "last": "Heymans", 
+            "middle": "Joseph", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 46697, 
     "materials": "Oil", 
     "on_view": false, 

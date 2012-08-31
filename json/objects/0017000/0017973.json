@@ -2,12 +2,23 @@
     "accession_number": "1983.56", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Carsman, Jon", 
+                "UlanIdNo": "500001369"
+            }, 
             "after_follower": null, 
             "birth_date": "1944", 
+            "collaboration": null, 
             "death_date": "1987", 
+            "display_name": "Carsman, Jon", 
+            "first": "Jon", 
+            "fullname": "Jon Carsman", 
             "irn": 601332, 
-            "name": "Carsman, Jon", 
+            "last": "Carsman", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 17973, 
     "materials": "screenprint", 
     "on_view": false, 

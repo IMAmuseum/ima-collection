@@ -2,21 +2,43 @@
     "accession_number": "2003.156", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Henri Edmond Cross", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1856", 
+            "collaboration": null, 
             "death_date": "1910", 
+            "display_name": "Henri Edmond Cross", 
+            "first": null, 
+            "fullname": "Henri Edmond Cross", 
             "irn": 2796, 
-            "name": "Henri Edmond Cross", 
+            "last": "Henri Edmond Cross", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Clot, Auguste", 
+                "UlanIdNo": "500058534"
+            }, 
             "after_follower": null, 
             "birth_date": "1858", 
+            "collaboration": null, 
             "death_date": "1936", 
+            "display_name": "Clot, Auguste", 
+            "first": "Auguste", 
+            "fullname": "Auguste Clot", 
             "irn": 2093, 
-            "name": "Clot, Auguste", 
+            "last": "Clot", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 x 10 1/4 in. (image) | 10 3/8 x 13 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61315, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Pan, Berlin", 
+            "first": null, 
+            "fullname": "Pan, Berlin", 
             "irn": 2797, 
-            "name": "Pan, Berlin"
+            "last": "Pan, Berlin", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

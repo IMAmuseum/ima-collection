@@ -2,12 +2,23 @@
     "accession_number": "2002.31", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Klee, Paul", 
+                "UlanIdNo": "500010493"
+            }, 
             "after_follower": null, 
             "birth_date": "1879", 
+            "collaboration": null, 
             "death_date": "1940", 
+            "display_name": "Klee, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul Klee", 
             "irn": 610242, 
-            "name": "Klee, Paul", 
+            "last": "Klee", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 57947, 
     "materials": "pen and ink on off-white laid paper affixed to off-white paper mount", 
     "on_view": false, 

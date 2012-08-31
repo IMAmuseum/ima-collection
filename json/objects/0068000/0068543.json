@@ -2,21 +2,43 @@
     "accession_number": "2010.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Starck, Philippe", 
+                "UlanIdNo": "500021369"
+            }, 
             "after_follower": null, 
             "birth_date": "1949", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Starck, Philippe", 
+            "first": "Philippe", 
+            "fullname": "Philippe Starck", 
             "irn": 6960, 
-            "name": "Starck, Philippe", 
+            "last": "Starck", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Vitra AG", 
+            "first": null, 
+            "fullname": "Vitra AG", 
             "irn": 6962, 
-            "name": "Vitra AG", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Vitra AG", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "38 \u00d7 22 \u00d7 21 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68543, 
     "materials": "lacquered aluminum", 
     "on_view": false, 

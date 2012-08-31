@@ -2,12 +2,23 @@
     "accession_number": "80.1839", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Le Keux, John Henry", 
+                "UlanIdNo": "500049421"
+            }, 
             "after_follower": null, 
             "birth_date": "1812", 
+            "collaboration": null, 
             "death_date": "1896", 
+            "display_name": "Le Keux, John Henry", 
+            "first": "John", 
+            "fullname": "John H. Le Keux", 
             "irn": 647885, 
-            "name": "Le Keux, John Henry", 
+            "last": "Le Keux", 
+            "middle": "Henry", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 x 11 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 42192, 
     "materials": "mezzotint over etching on India paper chine coll\u00e9", 
     "on_view": false, 

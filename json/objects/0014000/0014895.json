@@ -2,12 +2,23 @@
     "accession_number": "09.239", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gaucher, Charles-Etienne", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1741", 
+            "collaboration": null, 
             "death_date": "1804", 
+            "display_name": "Gaucher, Charles-Etienne", 
+            "first": null, 
+            "fullname": "Gaucher, Charles-Etienne", 
             "irn": 476, 
-            "name": "Gaucher, Charles-Etienne", 
+            "last": "Gaucher, Charles-Etienne", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 14895, 
     "materials": "engraving", 
     "on_view": false, 

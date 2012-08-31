@@ -2,12 +2,23 @@
     "accession_number": "1992.13", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Moigniez, Jules", 
+                "UlanIdNo": "500120148"
+            }, 
             "after_follower": null, 
             "birth_date": "1835", 
+            "collaboration": null, 
             "death_date": "1894", 
+            "display_name": "Moigniez, Jules", 
+            "first": "Jules", 
+            "fullname": "Jules Moigniez", 
             "irn": 714273, 
-            "name": "Moigniez, Jules", 
+            "last": "Moigniez", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 3/8 x 10 x 5 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 17475, 
     "materials": "bronze", 
     "on_view": true, 

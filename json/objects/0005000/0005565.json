@@ -2,21 +2,43 @@
     "accession_number": "11.25", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Girtin, Thomas", 
+                "UlanIdNo": "500009169"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1802", 
+            "display_name": "Girtin, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Girtin", 
             "irn": 608944, 
-            "name": "Girtin, Thomas", 
+            "last": "Girtin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Lewis, F.C.", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Lewis, F.C.", 
+            "first": null, 
+            "fullname": "Lewis, F.C.", 
             "irn": 1238, 
-            "name": "Lewis, F.C.", 
+            "last": "Lewis, F.C.", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "7 7/8 x 22 5/8 in (image) \n11 1/4 x 25 3/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 5565, 
     "materials": "etching and aquatint", 
     "on_view": false, 

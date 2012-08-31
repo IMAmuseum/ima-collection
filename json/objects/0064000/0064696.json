@@ -2,21 +2,43 @@
     "accession_number": "2009.457", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1970", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "D\u00f6gg Gudmundsd\u00f3ttir", 
+            "first": "D\u00f6gg", 
+            "fullname": "D\u00f6gg Gudmundsd\u00f3ttir", 
             "irn": 6147, 
-            "name": "D\u00f6gg Gudmundsd\u00f3ttir", 
+            "last": "Gudmundsd\u00f3ttir", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "D\u00f6gg Design", 
+            "first": null, 
+            "fullname": "D\u00f6gg Design", 
             "irn": 6725, 
-            "name": "D\u00f6gg Design", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "D\u00f6gg Design", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "24 1/2 x 16 x 50 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64696, 
     "materials": "feathers and plywood", 
     "on_view": false, 

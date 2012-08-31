@@ -2,12 +2,23 @@
     "accession_number": "73.89.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Sidney Lawton", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Smith, Sidney Lawton", 
+            "first": null, 
+            "fullname": "Smith, Sidney Lawton", 
             "irn": 2199, 
-            "name": "Smith, Sidney Lawton", 
+            "last": "Smith, Sidney Lawton", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 19721, 
     "materials": "engraving and etching", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "73.2.118", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Chippendale, Thomas", 
+                "UlanIdNo": "500015768"
+            }, 
             "after_follower": null, 
             "birth_date": "1718", 
+            "collaboration": null, 
             "death_date": "1779", 
+            "display_name": "Chippendale, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Chippendale", 
             "irn": 615413, 
-            "name": "Chippendale, Thomas", 
+            "last": "Chippendale", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 X 13 7/8 in. (image)\n10 3/4 X 18 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 46007, 
     "materials": "engraving", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Chippendale, Thomas", 
+                "UlanIdNo": "500015768"
+            }, 
+            "birth_date": "1718", 
+            "collaboration": null, 
+            "death_date": "1779", 
+            "display_name": "Chippendale, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Chippendale", 
             "irn": 615413, 
-            "name": "Chippendale, Thomas"
+            "last": "Chippendale", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Ulan"
         }
     ], 
     "rights": null, 

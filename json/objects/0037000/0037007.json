@@ -2,12 +2,23 @@
     "accession_number": "72.96", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nichols, Abel", 
+                "UlanIdNo": "500007929"
+            }, 
             "after_follower": null, 
             "birth_date": "1815", 
+            "collaboration": null, 
             "death_date": "1860", 
+            "display_name": "Nichols, Abel", 
+            "first": "Abel", 
+            "fullname": "Abel Nichols", 
             "irn": 607735, 
-            "name": "Nichols, Abel", 
+            "last": "Nichols", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "39 x 53 1/2 in.\n48 1/4 x 62 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 37007, 
     "materials": "oil on canvas", 
     "on_view": false, 

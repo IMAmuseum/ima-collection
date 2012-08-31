@@ -2,12 +2,23 @@
     "accession_number": "2008.69", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Baumann, Gustave", 
+                "UlanIdNo": "500033111"
+            }, 
             "after_follower": null, 
             "birth_date": "1881", 
+            "collaboration": null, 
             "death_date": "1971", 
+            "display_name": "Baumann, Gustave", 
+            "first": "Gustave", 
+            "fullname": null, 
             "irn": 632393, 
-            "name": "Baumann, Gustave", 
+            "last": "Baumann", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "5 x 7 7/8 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 65226, 
     "materials": "graphite on ivory wove paper", 
     "on_view": false, 

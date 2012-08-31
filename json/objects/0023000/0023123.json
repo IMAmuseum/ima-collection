@@ -2,12 +2,23 @@
     "accession_number": "73.95.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wolgemut, Michael", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Wolgemut, Michael", 
+            "first": null, 
+            "fullname": "Wolgemut, Michael", 
             "irn": 1134, 
-            "name": "Wolgemut, Michael", 
+            "last": "Wolgemut, Michael", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 23123, 
     "materials": "woodblock print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Koberger, Anton", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Koberger, Anton", 
+            "first": null, 
+            "fullname": "Koberger, Anton", 
             "irn": 1628, 
-            "name": "Koberger, Anton"
+            "last": "Koberger, Anton", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

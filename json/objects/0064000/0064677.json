@@ -2,12 +2,23 @@
     "accession_number": "2009.320", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1947", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "James Dyson", 
+            "first": "James", 
+            "fullname": "James Dyson", 
             "irn": 6137, 
-            "name": "James Dyson", 
+            "last": "Dyson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 7/8 x 12 x 24 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64677, 
     "materials": "plastic and metal", 
     "on_view": false, 

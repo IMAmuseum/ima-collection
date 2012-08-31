@@ -2,12 +2,23 @@
     "accession_number": "2004.27", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1794", 
+            "collaboration": null, 
             "death_date": "1860", 
+            "display_name": "Jean-Valentin Morel", 
+            "first": "Jean-Valentin", 
+            "fullname": "Jean-Valentin Morel", 
             "irn": 3166, 
-            "name": "Jean-Valentin Morel", 
+            "last": "Morel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "11 x 10 x 7 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61647, 
     "materials": "bloodstone (jasper), gold, enamels, emeralds, rubies, sapphires, cameos", 
     "on_view": false, 

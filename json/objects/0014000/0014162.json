@@ -2,12 +2,23 @@
     "accession_number": "79.449", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Simpson, Henry", 
+                "UlanIdNo": "500031787"
+            }, 
             "after_follower": null, 
             "birth_date": "1853", 
+            "collaboration": null, 
             "death_date": "1921", 
+            "display_name": "Simpson, Henry", 
+            "first": "Henry", 
+            "fullname": "Henry Simpson", 
             "irn": 631105, 
-            "name": "Simpson, Henry", 
+            "last": "Simpson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "10 1/2 x 6", 
     "dynasty": null, 
+    "images": [], 
     "irn": 14162, 
     "materials": "watercolor on off-white paper", 
     "on_view": false, 

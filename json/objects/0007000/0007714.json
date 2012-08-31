@@ -2,12 +2,23 @@
     "accession_number": "1998.184", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Mitchell, Joan", 
+                "UlanIdNo": "500000901"
+            }, 
             "after_follower": null, 
             "birth_date": "1926", 
+            "collaboration": null, 
             "death_date": "1992", 
+            "display_name": "Mitchell, Joan", 
+            "first": "Joan", 
+            "fullname": "Joan Mitchell", 
             "irn": 600878, 
-            "name": "Mitchell, Joan", 
+            "last": "Mitchell", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "102 3/8 x 70 3/4 in", 
     "dynasty": null, 
+    "images": [], 
     "irn": 7714, 
     "materials": "oil on canvas", 
     "on_view": true, 

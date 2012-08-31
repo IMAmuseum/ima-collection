@@ -2,12 +2,23 @@
     "accession_number": "2002.141", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Doomer, Lambert", 
+                "UlanIdNo": "500031031"
+            }, 
             "after_follower": null, 
             "birth_date": "1624", 
+            "collaboration": null, 
             "death_date": "1700", 
+            "display_name": "Doomer, Lambert", 
+            "first": "Lambert", 
+            "fullname": "Lambert Doomer", 
             "irn": 630363, 
-            "name": "Doomer, Lambert", 
+            "last": "Doomer", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 60019, 
     "materials": "pen and brown ink with brown and gray ink washes on off-white laid paper", 
     "on_view": false, 

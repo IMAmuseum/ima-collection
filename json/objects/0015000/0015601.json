@@ -2,12 +2,23 @@
     "accession_number": "40.9", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Eakins, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1844", 
+            "collaboration": null, 
             "death_date": "1916", 
+            "display_name": "Eakins, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Eakins", 
             "irn": 1019, 
-            "name": "Eakins, Thomas", 
+            "last": "Eakins", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "23 1/2 x 19 3/4 in.\n32 x 28 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 15601, 
     "materials": "oil on canvas", 
     "on_view": true, 

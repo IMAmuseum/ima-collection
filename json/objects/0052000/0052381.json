@@ -2,12 +2,23 @@
     "accession_number": "2002.213", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Clough, Charles", 
+                "UlanIdNo": "500020777"
+            }, 
             "after_follower": null, 
             "birth_date": "1951", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Clough, Charles", 
+            "first": "Charles", 
+            "fullname": "Charles Clough", 
             "irn": 620323, 
-            "name": "Clough, Charles", 
+            "last": "Clough", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Photographer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 52381, 
     "materials": "enamel over photo-lithograph on paper laid to masonite", 
     "on_view": false, 

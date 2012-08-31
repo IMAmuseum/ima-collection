@@ -2,12 +2,23 @@
     "accession_number": "LH2003.91A-T", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Algernon Swinburne", 
+            "first": "Algernon", 
+            "fullname": "Algernon Swinburne", 
             "irn": 3153, 
-            "name": "Algernon Swinburne", 
+            "last": "Swinburne", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 x 6 1/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 62244, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,12 +35,38 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Wm. Heinemann Ltd.", 
+            "first": null, 
+            "fullname": "Wm. Heinemann Ltd.", 
             "irn": 3154, 
-            "name": "Wm. Heinemann Ltd."
+            "last": "Wm. Heinemann Ltd.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Gabriel Wells", 
+            "first": null, 
+            "fullname": "Gabriel Wells", 
             "irn": 3048, 
-            "name": "Gabriel Wells"
+            "last": "Gabriel Wells", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

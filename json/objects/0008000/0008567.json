@@ -2,21 +2,43 @@
     "accession_number": "24.290", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Jongkind, Johan Barthold", 
+                "UlanIdNo": "500028269"
+            }, 
             "after_follower": null, 
             "birth_date": "1819", 
+            "collaboration": null, 
             "death_date": "1891", 
+            "display_name": "Jongkind, Johan Barthold", 
+            "first": "Johan", 
+            "fullname": "Johan B. Jongkind", 
             "irn": 627663, 
-            "name": "Jongkind, Johan Barthold", 
+            "last": "Jongkind", 
+            "middle": "Barthold", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Del\u00e2tre, Auguste", 
+                "UlanIdNo": "500026951"
+            }, 
             "after_follower": null, 
             "birth_date": "1822", 
+            "collaboration": null, 
             "death_date": "1907", 
+            "display_name": "Del\u00e2tre, Auguste", 
+            "first": "Auguste", 
+            "fullname": "Auguste Del\u00e2tre", 
             "irn": 626365, 
-            "name": "Del\u00e2tre, Auguste", 
+            "last": "Del\u00e2tre", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 8567, 
     "materials": "etching chine coll\u00e9", 
     "on_view": false, 

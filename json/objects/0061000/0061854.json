@@ -2,12 +2,23 @@
     "accession_number": "LH2003.36A-H", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1836", 
+            "collaboration": null, 
             "death_date": "1907", 
+            "display_name": "Thomas B. Aldrich", 
+            "first": "Thomas", 
+            "fullname": "Thomas B. Aldrich", 
             "irn": 2810, 
-            "name": "Thomas B. Aldrich", 
+            "last": "Aldrich", 
+            "middle": "Bailey", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Library of Congress", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 5/8 x 5 1/4 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61854, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Houghton Mifflin Company", 
+            "first": null, 
+            "fullname": "Houghton Mifflin Company", 
             "irn": 3015, 
-            "name": "Houghton Mifflin Company"
+            "last": "Houghton Mifflin Company", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

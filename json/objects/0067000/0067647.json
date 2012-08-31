@@ -2,21 +2,43 @@
     "accession_number": "2009.345A-B", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Citterio, Antonio", 
+                "UlanIdNo": "500056901"
+            }, 
             "after_follower": null, 
             "birth_date": "1950", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Citterio, Antonio", 
+            "first": "Antonio", 
+            "fullname": "Antonio Citterio", 
             "irn": 653793, 
-            "name": "Citterio, Antonio", 
+            "last": "Citterio", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "B&B Italia, S.p.A.", 
+            "first": null, 
+            "fullname": "B&B Italia, S.p.A.", 
             "irn": 6507, 
-            "name": "B&B Italia, S.p.A.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "B&B Italia, S.p.A.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "35 1/8 x 34 x 38 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67647, 
     "materials": "fabric and wood", 
     "on_view": false, 

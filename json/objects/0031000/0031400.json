@@ -2,12 +2,23 @@
     "accession_number": "1984.354", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Escher, M. C.", 
+                "UlanIdNo": "500007222"
+            }, 
             "after_follower": null, 
             "birth_date": "1898", 
+            "collaboration": null, 
             "death_date": "1972", 
+            "display_name": "Escher, M. C.", 
+            "first": "M", 
+            "fullname": "M C. Escher", 
             "irn": 607041, 
-            "name": "Escher, M. C.", 
+            "last": "Escher", 
+            "middle": "C.", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "17 3/4 x 15 1/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 31400, 
     "materials": "lithograph", 
     "on_view": false, 

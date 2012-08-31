@@ -2,30 +2,63 @@
     "accession_number": "80.809.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Nixon, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Nixon, John", 
+            "first": null, 
+            "fullname": "Nixon, John", 
             "irn": 1758, 
-            "name": "Nixon, John", 
+            "last": "Nixon, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Walker, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Walker, John", 
+            "first": null, 
+            "fullname": "Walker, John", 
             "irn": 1754, 
-            "name": "Walker, John", 
+            "last": "Walker, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }, 
         {
+            "ULAN": {
+                "Name": "Storer, James", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1771", 
+            "collaboration": null, 
             "death_date": "1853", 
+            "display_name": "Storer, James", 
+            "first": null, 
+            "fullname": "Storer, James", 
             "irn": 1527, 
-            "name": "Storer, James", 
+            "last": "Storer, James", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -34,6 +67,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 37730, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "LH2003.82AA-CC", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1828", 
+            "collaboration": null, 
             "death_date": "1909", 
+            "display_name": "Meredith George", 
+            "first": "Meredith", 
+            "fullname": "Meredith George", 
             "irn": 2750, 
-            "name": "Meredith George", 
+            "last": "George", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Library of Congress", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 5/8 x 5 3/5 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 63057, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Charles Scribner's Sons", 
+            "first": null, 
+            "fullname": "Charles Scribner's Sons", 
             "irn": 2996, 
-            "name": "Charles Scribner's Sons"
+            "last": "Charles Scribner's Sons", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

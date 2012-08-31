@@ -2,21 +2,43 @@
     "accession_number": "80.1365", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Brandard, Robert", 
+                "UlanIdNo": "500019365"
+            }, 
             "after_follower": null, 
             "birth_date": "1805", 
+            "collaboration": null, 
             "death_date": "1862", 
+            "display_name": "Brandard, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Brandard", 
             "irn": 618940, 
-            "name": "Brandard, Robert", 
+            "last": "Brandard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "3 5/8 x 5 3/8 in. (image)\n11 7/8 x 17 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 40376, 
     "materials": "engraving", 
     "on_view": false, 

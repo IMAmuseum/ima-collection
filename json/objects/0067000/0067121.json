@@ -2,21 +2,43 @@
     "accession_number": "2008.359.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gauguin, Paul", 
+                "UlanIdNo": "500011421"
+            }, 
             "after_follower": null, 
             "birth_date": "1848", 
+            "collaboration": null, 
             "death_date": "1903", 
+            "display_name": "Gauguin, Paul", 
+            "first": "Paul", 
+            "fullname": "Paul Gauguin", 
             "irn": 611152, 
-            "name": "Gauguin, Paul", 
+            "last": "Gauguin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Edward Ancourt", 
+            "first": "Edward", 
+            "fullname": "Edward Ancourt", 
             "irn": 3283, 
-            "name": "Edward Ancourt", 
+            "last": "Ancourt", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 x 9 1/2 in. (image)\n19 5/8 x 25 1/2 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67121, 
     "materials": "Zincograph on canary yellow wove paper", 
     "on_view": false, 

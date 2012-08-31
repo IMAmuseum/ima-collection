@@ -2,12 +2,23 @@
     "accession_number": "LH2003.37C-J", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Jane Austen", 
+            "first": "Jane", 
+            "fullname": "Jane Austen", 
             "irn": 3016, 
-            "name": "Jane Austen", 
+            "last": "Austen", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/2 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61855, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Frank S. Holby", 
+            "first": null, 
+            "fullname": "Frank S. Holby", 
             "irn": 3017, 
-            "name": "Frank S. Holby"
+            "last": "Frank S. Holby", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

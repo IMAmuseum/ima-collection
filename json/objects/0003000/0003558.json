@@ -2,12 +2,23 @@
     "accession_number": "S1426.76.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Channing, Walter", 
+                "UlanIdNo": "500062500"
+            }, 
             "after_follower": null, 
             "birth_date": "1940", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Channing, Walter", 
+            "first": "Walter", 
+            "fullname": "Walter Channing", 
             "irn": 659283, 
-            "name": "Channing, Walter", 
+            "last": "Channing", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 3558, 
     "materials": "wood and paint", 
     "on_view": false, 

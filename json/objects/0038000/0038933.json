@@ -2,12 +2,23 @@
     "accession_number": "2000.102", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Custis, Eleanor Parke", 
+                "UlanIdNo": "500061990"
+            }, 
             "after_follower": null, 
             "birth_date": "1779", 
+            "collaboration": null, 
             "death_date": "1852", 
+            "display_name": "Custis, Eleanor Parke", 
+            "first": "Eleanor", 
+            "fullname": "Eleanor P. Custis", 
             "irn": 658777, 
-            "name": "Custis, Eleanor Parke", 
+            "last": "Custis", 
+            "middle": "Parke", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 38933, 
     "materials": "watercolor and gouache over charcoal on gray paper", 
     "on_view": false, 

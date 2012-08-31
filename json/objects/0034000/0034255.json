@@ -2,21 +2,43 @@
     "accession_number": "49.61", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bonnard, Pierre", 
+                "UlanIdNo": "500115555"
+            }, 
             "after_follower": null, 
             "birth_date": "1867", 
+            "collaboration": null, 
             "death_date": "1947", 
+            "display_name": "Bonnard, Pierre", 
+            "first": "Pierre", 
+            "fullname": "Pierre Bonnard", 
             "irn": 710447, 
-            "name": "Bonnard, Pierre", 
+            "last": "Bonnard", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Clot, Auguste", 
+                "UlanIdNo": "500058534"
+            }, 
             "after_follower": null, 
             "birth_date": "1858", 
+            "collaboration": null, 
             "death_date": "1936", 
+            "display_name": "Clot, Auguste", 
+            "first": "Auguste", 
+            "fullname": "Auguste Clot", 
             "irn": 2093, 
-            "name": "Clot, Auguste", 
+            "last": "Clot", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "17 1/2 x 11 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34255, 
     "materials": "color lithograph", 
     "on_view": true, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": "1890", 
+            "collaboration": null, 
+            "death_date": "1935", 
+            "display_name": "Ambrose Vollard", 
+            "first": "Ambrose", 
+            "fullname": "Ambrose Vollard", 
             "irn": 5022, 
-            "name": "Ambrose Vollard"
+            "last": "Vollard", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Artists Rights Society (ARS)", 

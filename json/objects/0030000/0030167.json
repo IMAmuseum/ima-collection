@@ -2,12 +2,23 @@
     "accession_number": "72.131.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Le Corbusier (Charles Eouard Jeanneret)", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Le Corbusier (Charles Eouard Jeanneret)", 
+            "first": null, 
+            "fullname": "Le Corbusier (Charles Eouard Jeanneret)", 
             "irn": 1254, 
-            "name": "Le Corbusier (Charles Eouard Jeanneret)", 
+            "last": "Le Corbusier (Charles Eouard Jeanneret)", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 30167, 
     "materials": "lithograph", 
     "on_view": false, 

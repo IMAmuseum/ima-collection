@@ -2,12 +2,23 @@
     "accession_number": "71.48", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smithson, Robert", 
+                "UlanIdNo": "500015753"
+            }, 
             "after_follower": null, 
             "birth_date": "1938", 
+            "collaboration": null, 
             "death_date": "1973", 
+            "display_name": "Smithson, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Smithson", 
             "irn": 615398, 
-            "name": "Smithson, Robert", 
+            "last": "Smithson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "4 7/8 x 8 1/2 x 8 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 27869, 
     "materials": "glass, mirrors", 
     "on_view": false, 

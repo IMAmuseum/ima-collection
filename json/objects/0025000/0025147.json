@@ -2,12 +2,23 @@
     "accession_number": "08.57", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lasne, Michel", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "bef 1590", 
+            "collaboration": null, 
             "death_date": "1667", 
+            "display_name": "Lasne, Michel", 
+            "first": null, 
+            "fullname": "Lasne, Michel", 
             "irn": 1505, 
-            "name": "Lasne, Michel", 
+            "last": "Lasne, Michel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 25147, 
     "materials": "engraving", 
     "on_view": false, 

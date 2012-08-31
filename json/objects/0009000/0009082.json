@@ -2,21 +2,43 @@
     "accession_number": "73.2.48", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Boucher, Juste-Nathan", 
+                "UlanIdNo": "500028922"
+            }, 
             "after_follower": null, 
             "birth_date": "1736", 
+            "collaboration": null, 
             "death_date": "1782", 
+            "display_name": "Boucher, Juste-Nathan", 
+            "first": "Juste", 
+            "fullname": "Juste -. Boucher", 
             "irn": 628299, 
-            "name": "Boucher, Juste-Nathan", 
+            "last": "Boucher", 
+            "middle": "-Nathan", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Dupin le Jeune", 
+                "UlanIdNo": "500041151"
+            }, 
             "after_follower": null, 
             "birth_date": "1753", 
+            "collaboration": null, 
             "death_date": "1853", 
+            "display_name": "Dupin le Jeune", 
+            "first": null, 
+            "fullname": "Dupin le Jeune", 
             "irn": 640286, 
-            "name": "Dupin le Jeune", 
+            "last": "Dupin le Jeune", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "7 3/8 X 12 1/4 in. (image)\n8 1/2 X 14 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9082, 
     "materials": "engraving", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "S3622.81.27", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Annesley, David", 
+                "UlanIdNo": "500105282"
+            }, 
             "after_follower": null, 
             "birth_date": "1936", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Annesley, David", 
+            "first": "David", 
+            "fullname": "David Annesley", 
             "irn": 701637, 
-            "name": "Annesley, David", 
+            "last": "Annesley", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 4411, 
     "materials": "screenprint", 
     "on_view": false, 

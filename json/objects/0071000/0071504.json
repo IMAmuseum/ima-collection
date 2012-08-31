@@ -2,21 +2,43 @@
     "accession_number": "2011.63", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1957", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Nathalie du Pasquier", 
+            "first": "Nathalie", 
+            "fullname": "Nathalie du Pasquier", 
             "irn": 7005, 
-            "name": "Nathalie du Pasquier", 
+            "last": "du Pasquier", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Allessio S. Ceramiche", 
+            "first": "Allessio", 
+            "fullname": "Allessio S. Ceramiche", 
             "irn": 7006, 
-            "name": "Allessio S. Ceramiche", 
+            "last": "Ceramiche", 
+            "middle": "Sarri", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "11 3/4 x 6 1/2 x 4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 71504, 
     "materials": "ceramic", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "66.21A", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Ramsay, Allan", 
+                "UlanIdNo": "500019302"
+            }, 
             "after_follower": null, 
             "birth_date": "1713", 
+            "collaboration": null, 
             "death_date": "1784", 
+            "display_name": "Ramsay, Allan", 
+            "first": "Allan", 
+            "fullname": "Allan Ramsay", 
             "irn": 618877, 
-            "name": "Ramsay, Allan", 
+            "last": "Ramsay", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "97 x 63 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30185, 
     "materials": "oil on canvas", 
     "on_view": true, 

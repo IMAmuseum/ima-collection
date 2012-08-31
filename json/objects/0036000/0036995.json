@@ -2,12 +2,23 @@
     "accession_number": "72.18", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Romanelli, Giovanni Francesco", 
+                "UlanIdNo": "500007779"
+            }, 
             "after_follower": null, 
             "birth_date": "1610", 
+            "collaboration": null, 
             "death_date": "1662", 
+            "display_name": "Romanelli, Giovanni Francesco", 
+            "first": "Giovanni", 
+            "fullname": "Giovanni F. Romanelli", 
             "irn": 607587, 
-            "name": "Romanelli, Giovanni Francesco", 
+            "last": "Romanelli", 
+            "middle": "Francesco", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "34 x 45 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 36995, 
     "materials": "oil on canvas", 
     "on_view": true, 

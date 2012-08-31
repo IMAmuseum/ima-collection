@@ -2,21 +2,43 @@
     "accession_number": "2009.355", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1963", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "\u00d3lafur Th\u00f3rdarson", 
+            "first": "\u00d3lafur", 
+            "fullname": "\u00d3lafur Th\u00f3rdarson", 
             "irn": 6546, 
-            "name": "\u00d3lafur Th\u00f3rdarson", 
+            "last": "Th\u00f3rdarson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Person", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Dingaling Studio", 
+            "first": null, 
+            "fullname": "Dingaling Studio", 
             "irn": 6548, 
-            "name": "Dingaling Studio", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Dingaling Studio", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "24 \u00d7 13 \u00d7 13 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 64829, 
     "materials": "resin", 
     "on_view": false, 

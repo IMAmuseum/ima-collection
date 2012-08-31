@@ -2,12 +2,23 @@
     "accession_number": "1991.132", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Genoels, Abraham", 
+                "UlanIdNo": "500026618"
+            }, 
             "after_follower": null, 
             "birth_date": "1640", 
+            "collaboration": null, 
             "death_date": "1723", 
+            "display_name": "Genoels, Abraham", 
+            "first": "Abraham", 
+            "fullname": "Abraham Genoels", 
             "irn": 626038, 
-            "name": "Genoels, Abraham", 
+            "last": "Genoels", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/4 x 10 7/8 in. (image)\n8 5/8 x 11 1/4 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11268, 
     "materials": "etching", 
     "on_view": false, 

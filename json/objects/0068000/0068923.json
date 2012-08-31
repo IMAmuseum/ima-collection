@@ -2,21 +2,43 @@
     "accession_number": "2010.244", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hollein, Hans", 
+                "UlanIdNo": "500030211"
+            }, 
             "after_follower": null, 
             "birth_date": "1934", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hollein, Hans", 
+            "first": "Hans", 
+            "fullname": "Hans Hollein", 
             "irn": 629562, 
-            "name": "Hollein, Hans", 
+            "last": "Hollein", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Rossi & Arcandi S.r.L.", 
+            "first": null, 
+            "fullname": "Rossi & Arcandi S.r.L.", 
             "irn": 7377, 
-            "name": "Rossi & Arcandi S.r.L.", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Rossi & Arcandi S.r.L.", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "8 1/4 x 18 (diam.) in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 68923, 
     "materials": "silver", 
     "on_view": false, 

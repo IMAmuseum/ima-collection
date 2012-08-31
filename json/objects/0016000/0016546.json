@@ -2,21 +2,43 @@
     "accession_number": "32.261", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Blake, William", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1757", 
+            "collaboration": null, 
             "death_date": "1827", 
+            "display_name": "Blake, William", 
+            "first": null, 
+            "fullname": "Blake, William", 
             "irn": 1266, 
-            "name": "Blake, William", 
+            "last": "Blake, William", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Schiavonetti, Luigi", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1765", 
+            "collaboration": null, 
             "death_date": "1810", 
+            "display_name": "Schiavonetti, Luigi", 
+            "first": null, 
+            "fullname": "Schiavonetti, Luigi", 
             "irn": 1156, 
-            "name": "Schiavonetti, Luigi", 
+            "last": "Schiavonetti, Luigi", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16546, 
     "materials": "paper", 
     "on_view": false, 

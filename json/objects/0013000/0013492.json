@@ -2,12 +2,23 @@
     "accession_number": "1985.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bertin, Jean Victor", 
+                "UlanIdNo": "500019040"
+            }, 
             "after_follower": null, 
             "birth_date": "1767", 
+            "collaboration": null, 
             "death_date": "1842", 
+            "display_name": "Bertin, Jean Victor", 
+            "first": "Jean", 
+            "fullname": "Jean V. Bertin", 
             "irn": 618619, 
-            "name": "Bertin, Jean Victor", 
+            "last": "Bertin", 
+            "middle": "Victor", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 15/16 x 12 13/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 13492, 
     "materials": "oil on canvas", 
     "on_view": true, 

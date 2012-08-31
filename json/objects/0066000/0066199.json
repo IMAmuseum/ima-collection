@@ -2,12 +2,23 @@
     "accession_number": "2008.284", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Barry, Robert", 
+                "UlanIdNo": "500053936"
+            }, 
             "after_follower": null, 
             "birth_date": "1936", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Barry, Robert", 
+            "first": "Robert", 
+            "fullname": "Robert Barry", 
             "irn": 651133, 
-            "name": "Barry, Robert", 
+            "last": "Barry", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "26 1/4 x 26 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 66199, 
     "materials": "acrylic on paper", 
     "on_view": true, 

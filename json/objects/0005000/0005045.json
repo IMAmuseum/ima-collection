@@ -2,12 +2,23 @@
     "accession_number": "70.45.20", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Stoop, Dirck", 
+                "UlanIdNo": "500018396"
+            }, 
             "after_follower": null, 
             "birth_date": "1608", 
+            "collaboration": null, 
             "death_date": "1681", 
+            "display_name": "Stoop, Dirck", 
+            "first": "Dirck", 
+            "fullname": "Dirck Stoop", 
             "irn": 617988, 
-            "name": "Stoop, Dirck", 
+            "last": "Stoop", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 5045, 
     "materials": "etching", 
     "on_view": false, 

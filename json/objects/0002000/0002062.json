@@ -2,12 +2,23 @@
     "accession_number": "1996.154", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, John Thomas", 
+                "UlanIdNo": "500027815"
+            }, 
             "after_follower": null, 
             "birth_date": "1776", 
+            "collaboration": null, 
             "death_date": "1833", 
+            "display_name": "Smith, John Thomas", 
+            "first": "John", 
+            "fullname": "John T. Smith", 
             "irn": 627215, 
-            "name": "Smith, John Thomas", 
+            "last": "Smith", 
+            "middle": "Thomas", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 7 13/16 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2062, 
     "materials": "brown and gray ink washes over pencil on white paper", 
     "on_view": true, 

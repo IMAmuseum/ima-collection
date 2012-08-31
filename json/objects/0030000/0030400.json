@@ -2,12 +2,23 @@
     "accession_number": "S5022.83.17", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tiffany and Company", 
+            "first": null, 
+            "fullname": "Tiffany and Company", 
             "irn": 1085, 
-            "name": "Tiffany and Company", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Tiffany and Company", 
+            "party_type": "Organisation", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 1/4 L", 
     "dynasty": null, 
+    "images": [], 
     "irn": 30400, 
     "materials": null, 
     "on_view": false, 

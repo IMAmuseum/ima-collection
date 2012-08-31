@@ -2,21 +2,43 @@
     "accession_number": "2003.114", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Brown, Roger", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1941", 
+            "collaboration": null, 
             "death_date": "1998", 
+            "display_name": "Brown, Roger", 
+            "first": "Roger", 
+            "fullname": "Roger Brown", 
             "irn": 558, 
-            "name": "Brown, Roger", 
+            "last": "Brown", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Oxbow Press", 
+            "first": null, 
+            "fullname": "Oxbow Press", 
             "irn": 2761, 
-            "name": "Oxbow Press", 
+            "last": "Oxbow Press", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "13 x 13 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 60964, 
     "materials": "lithograph", 
     "on_view": false, 

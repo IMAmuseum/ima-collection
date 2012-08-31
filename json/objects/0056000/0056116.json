@@ -2,12 +2,23 @@
     "accession_number": "1994.386", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Tyler, Kenneth", 
+                "UlanIdNo": "500106651"
+            }, 
             "after_follower": null, 
             "birth_date": "1931", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Tyler, Kenneth", 
+            "first": "Kenneth", 
+            "fullname": "Kenneth Tyler", 
             "irn": 702993, 
-            "name": "Tyler, Kenneth", 
+            "last": "Tyler", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 22 1/8 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 56116, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Tamarind Lithography Workshop, Inc.", 
+            "first": null, 
+            "fullname": "Tamarind Lithography Workshop, Inc.", 
             "irn": 5014, 
-            "name": "Tamarind Lithography Workshop, Inc."
+            "last": "Tamarind Lithography Workshop, Inc.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 Kenneth Tyler", 

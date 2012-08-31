@@ -2,12 +2,23 @@
     "accession_number": "59.27", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Falk, J.", 
+                "UlanIdNo": "500045356"
+            }, 
             "after_follower": null, 
             "birth_date": "1600", 
+            "collaboration": null, 
             "death_date": "1699", 
+            "display_name": "Falk, J.", 
+            "first": "J", 
+            "fullname": "J Falk", 
             "irn": 644167, 
-            "name": "Falk, J.", 
+            "last": "Falk", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,9 +27,10 @@
     "cultures": [], 
     "dimensions": "18 1/8 x 15 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 3850, 
     "materials": "oil on wood", 
-    "on_view": false, 
+    "on_view": true, 
     "period": null, 
     "printers": [], 
     "publishers": [], 

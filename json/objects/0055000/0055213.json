@@ -2,12 +2,23 @@
     "accession_number": "72.43.19", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gautier, Armand", 
+                "UlanIdNo": "500011846"
+            }, 
             "after_follower": null, 
             "birth_date": "1825", 
+            "collaboration": null, 
             "death_date": "1894", 
+            "display_name": "Gautier, Armand", 
+            "first": "Armand", 
+            "fullname": "Armand Gautier", 
             "irn": 611566, 
-            "name": "Gautier, Armand", 
+            "last": "Gautier", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 55213, 
     "materials": "etching", 
     "on_view": false, 

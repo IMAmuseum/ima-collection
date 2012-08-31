@@ -2,21 +2,43 @@
     "accession_number": "80.1320.115", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Lawrence, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1769", 
+            "collaboration": null, 
             "death_date": "1830", 
+            "display_name": "Lawrence, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Lawrence", 
             "irn": 1087, 
-            "name": "Lawrence, Thomas", 
+            "last": "Lawrence", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Finden, Edward", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1791", 
+            "collaboration": null, 
             "death_date": "1857", 
+            "display_name": "Finden, Edward", 
+            "first": null, 
+            "fullname": "Finden, Edward", 
             "irn": 533, 
-            "name": "Finden, Edward", 
+            "last": "Finden, Edward", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 40219, 
     "materials": "engraving on plain paper", 
     "on_view": false, 

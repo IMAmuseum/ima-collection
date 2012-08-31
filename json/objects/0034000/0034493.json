@@ -2,12 +2,23 @@
     "accession_number": "09.200", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hall, John", 
+                "UlanIdNo": "500019144"
+            }, 
             "after_follower": null, 
             "birth_date": "1739", 
+            "collaboration": null, 
             "death_date": "1797", 
+            "display_name": "Hall, John", 
+            "first": "John", 
+            "fullname": "John Hall", 
             "irn": 618721, 
-            "name": "Hall, John", 
+            "last": "Hall", 
+            "middle": null, 
             "nationality": "English", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 5/8 x 7 7/8 in. (image)\n16 3/8 x 11 7/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 34493, 
     "materials": "engraving", 
     "on_view": false, 

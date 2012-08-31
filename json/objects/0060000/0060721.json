@@ -2,12 +2,23 @@
     "accession_number": "2003.40", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Kert\u00e9sz, Andr\u00e9", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1894-1985", 
+            "collaboration": null, 
             "death_date": "1894-1985", 
+            "display_name": "Kert\u00e9sz, Andr\u00e9", 
+            "first": null, 
+            "fullname": "Kert\u00e9sz, Andr\u00e9", 
             "irn": 2557, 
-            "name": "Kert\u00e9sz, Andr\u00e9", 
+            "last": "Kert\u00e9sz, Andr\u00e9", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 60721, 
     "materials": "gelatin silver print", 
     "on_view": false, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Vu", 
+            "first": null, 
+            "fullname": "Vu", 
             "irn": 2536, 
-            "name": "Vu"
+            "last": "Vu", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": "\u00a9 The Estate of Andre Kertesz", 

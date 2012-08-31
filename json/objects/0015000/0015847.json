@@ -2,12 +2,23 @@
     "accession_number": "72.90.16", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Visscher, Nicolas", 
+                "UlanIdNo": "500105321"
+            }, 
             "after_follower": null, 
             "birth_date": "1618", 
+            "collaboration": null, 
             "death_date": "1709", 
+            "display_name": "Visscher, Nicolas", 
+            "first": "Nicolas", 
+            "fullname": "Nicolas Visscher", 
             "irn": 701674, 
-            "name": "Visscher, Nicolas", 
+            "last": "Visscher", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 15847, 
     "materials": "engraving", 
     "on_view": false, 

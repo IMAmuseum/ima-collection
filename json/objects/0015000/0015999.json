@@ -2,12 +2,23 @@
     "accession_number": "40.251", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Smith, Samuel", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Smith, Samuel", 
+            "first": null, 
+            "fullname": "Smith, Samuel", 
             "irn": 1543, 
-            "name": "Smith, Samuel", 
+            "last": "Smith, Samuel", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 15999, 
     "materials": "hand-colored engraving", 
     "on_view": false, 

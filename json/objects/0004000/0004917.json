@@ -2,12 +2,23 @@
     "accession_number": "80.367", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Taylor, Fred", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Taylor, Fred", 
+            "first": null, 
+            "fullname": "Taylor, Fred", 
             "irn": 295, 
-            "name": "Taylor, Fred", 
+            "last": "Taylor, Fred", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 4917, 
     "materials": "lithograph", 
     "on_view": false, 

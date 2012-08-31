@@ -2,12 +2,23 @@
     "accession_number": "59.37", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Waugh, Frederick Judd", 
+                "UlanIdNo": "500010898"
+            }, 
             "after_follower": null, 
             "birth_date": "1861", 
+            "collaboration": null, 
             "death_date": "1940", 
+            "display_name": "Waugh, Frederick Judd", 
+            "first": "Frederick", 
+            "fullname": "Frederick J. Waugh", 
             "irn": 610640, 
-            "name": "Waugh, Frederick Judd", 
+            "last": "Waugh", 
+            "middle": "Judd", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 40 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 4203, 
     "materials": "oil on plywood", 
     "on_view": false, 

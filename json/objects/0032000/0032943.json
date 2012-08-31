@@ -2,12 +2,23 @@
     "accession_number": "13.444", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hearne, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1744", 
+            "collaboration": null, 
             "death_date": "1817", 
+            "display_name": "Hearne, Thomas", 
+            "first": null, 
+            "fullname": "Hearne, Thomas", 
             "irn": 238, 
-            "name": "Hearne, Thomas", 
+            "last": "Hearne, Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 32943, 
     "materials": "gray ink washes over pencil on off-white laid paper", 
     "on_view": false, 

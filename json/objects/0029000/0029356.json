@@ -2,12 +2,23 @@
     "accession_number": "67.10.118", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Riggs, S.", 
+                "UlanIdNo": "500045148"
+            }, 
             "after_follower": null, 
             "birth_date": "1820", 
+            "collaboration": null, 
             "death_date": "1900", 
+            "display_name": "Riggs, S.", 
+            "first": "S", 
+            "fullname": "S Riggs", 
             "irn": 643975, 
-            "name": "Riggs, S.", 
+            "last": "Riggs", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 7/8 x 12 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 29356, 
     "materials": "oil on wood", 
     "on_view": false, 

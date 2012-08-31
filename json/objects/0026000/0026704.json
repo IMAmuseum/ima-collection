@@ -2,12 +2,23 @@
     "accession_number": "1996.155", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Monro, Thomas", 
+                "UlanIdNo": "500016870"
+            }, 
             "after_follower": null, 
             "birth_date": "1759", 
+            "collaboration": null, 
             "death_date": "1833", 
+            "display_name": "Monro, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Monro", 
             "irn": 616494, 
-            "name": "Monro, Thomas", 
+            "last": "Monro", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "7 1/8 x 6 1/4 in", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26704, 
     "materials": "pencil on off-white laid paper", 
     "on_view": false, 

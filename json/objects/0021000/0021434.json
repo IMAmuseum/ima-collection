@@ -2,12 +2,23 @@
     "accession_number": "06.120", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "French, Daniel Chester", 
+                "UlanIdNo": "500009434"
+            }, 
             "after_follower": null, 
             "birth_date": "1850", 
+            "collaboration": null, 
             "death_date": "1931", 
+            "display_name": "French, Daniel Chester", 
+            "first": "Daniel", 
+            "fullname": "Daniel C. French", 
             "irn": 609207, 
-            "name": "French, Daniel Chester", 
+            "last": "French", 
+            "middle": "Chester", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "3' 10' x 5' 6'", 
     "dynasty": null, 
+    "images": [], 
     "irn": 21434, 
     "materials": "Plaster Cast", 
     "on_view": false, 

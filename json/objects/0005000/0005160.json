@@ -2,21 +2,43 @@
     "accession_number": "1994.203", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1870", 
+            "collaboration": null, 
             "death_date": "1965", 
+            "display_name": "Brandt Steele", 
+            "first": "Brandt", 
+            "fullname": "Brandt Steele", 
             "irn": 3577, 
-            "name": "Brandt Steele", 
+            "last": "Steele", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Helen M. Steele", 
+            "first": "Helen", 
+            "fullname": "Helen M. Steele", 
             "irn": 3690, 
-            "name": "Helen M. Steele", 
+            "last": "Steele", 
+            "middle": "McKay", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Curatorial--not verified", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "22 1/2 x 14 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 5160, 
     "materials": "color lithograph", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "The Hollenbeck Press", 
+            "first": null, 
+            "fullname": "The Hollenbeck Press", 
             "irn": 6487, 
-            "name": "The Hollenbeck Press"
+            "last": null, 
+            "middle": null, 
+            "organization": "The Hollenbeck Press", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": null, 

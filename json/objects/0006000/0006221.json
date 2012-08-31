@@ -2,12 +2,23 @@
     "accession_number": "55.214", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Callot, Jacques", 
+                "UlanIdNo": "500021688"
+            }, 
             "after_follower": null, 
             "birth_date": "1592", 
+            "collaboration": null, 
             "death_date": "1635", 
+            "display_name": "Callot, Jacques", 
+            "first": "Jacques", 
+            "fullname": "Jacques Callot", 
             "irn": 621223, 
-            "name": "Callot, Jacques", 
+            "last": "Callot", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 6221, 
     "materials": "engraving", 
     "on_view": false, 

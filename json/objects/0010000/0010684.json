@@ -2,21 +2,43 @@
     "accession_number": "79.1081", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Saint Laurent, Yves", 
+                "UlanIdNo": "500023723"
+            }, 
             "after_follower": null, 
             "birth_date": "1936", 
+            "collaboration": null, 
             "death_date": "2008", 
+            "display_name": "Saint Laurent, Yves", 
+            "first": "Yves", 
+            "fullname": "Yves Saint Laurent", 
             "irn": 623216, 
-            "name": "Saint Laurent, Yves", 
+            "last": "Saint Laurent", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Christian Dior Couture", 
+            "first": null, 
+            "fullname": "Christian Dior Couture", 
             "irn": 5276, 
-            "name": "Christian Dior Couture", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Christian Dior Couture", 
+            "party_type": "Organisation", 
             "role": "Retailer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "L: 34 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 10684, 
     "materials": "Silk Taffeta", 
     "on_view": false, 

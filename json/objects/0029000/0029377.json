@@ -2,12 +2,23 @@
     "accession_number": "80.246", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Moran, Thomas", 
+                "UlanIdNo": null
+            }, 
             "after_follower": "After", 
             "birth_date": "1837", 
+            "collaboration": null, 
             "death_date": "1926", 
+            "display_name": "Moran, Thomas", 
+            "first": null, 
+            "fullname": "Moran, Thomas", 
             "irn": 1669, 
-            "name": "Moran, Thomas", 
+            "last": "Moran, Thomas", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 11/16 x 14 in (image)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 29377, 
     "materials": "chromolithograph on paper", 
     "on_view": false, 

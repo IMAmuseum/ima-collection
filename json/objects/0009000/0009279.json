@@ -2,12 +2,23 @@
     "accession_number": "73.2.33", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Pineau, Nicolas", 
+                "UlanIdNo": "500024501"
+            }, 
             "after_follower": null, 
             "birth_date": "1684", 
+            "collaboration": null, 
             "death_date": "1754", 
+            "display_name": "Pineau, Nicolas", 
+            "first": "Nicolas", 
+            "fullname": "Nicolas Pineau", 
             "irn": 623971, 
-            "name": "Pineau, Nicolas", 
+            "last": "Pineau", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "12 1/2 X 8 1/4 in. (image)\n15 X 10 3/8 in. (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 9279, 
     "materials": "engraving", 
     "on_view": false, 

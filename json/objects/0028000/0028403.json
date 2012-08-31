@@ -2,12 +2,23 @@
     "accession_number": "79.275", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Meteyard, Thomas Buford", 
+                "UlanIdNo": "500032378"
+            }, 
             "after_follower": null, 
             "birth_date": "1865", 
+            "collaboration": null, 
             "death_date": "1928", 
+            "display_name": "Meteyard, Thomas Buford", 
+            "first": "Thomas", 
+            "fullname": "Thomas B. Meteyard", 
             "irn": 631680, 
-            "name": "Meteyard, Thomas Buford", 
+            "last": "Meteyard", 
+            "middle": "Buford", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 3/4 x 21 13/16 in.\n23 7/8 x 30 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 28403, 
     "materials": "oil on canvas", 
     "on_view": false, 

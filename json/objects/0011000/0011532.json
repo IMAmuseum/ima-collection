@@ -2,12 +2,23 @@
     "accession_number": "71.40.2", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Guillaumin, Armand", 
+                "UlanIdNo": "500003107"
+            }, 
             "after_follower": null, 
             "birth_date": "1841", 
+            "collaboration": null, 
             "death_date": "1927", 
+            "display_name": "Guillaumin, Armand", 
+            "first": "Armand", 
+            "fullname": "Armand Guillaumin", 
             "irn": 603034, 
-            "name": "Guillaumin, Armand", 
+            "last": "Guillaumin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "25 3/4 x 32 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 11532, 
     "materials": "oil on canvas", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "79.347", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Maes, Nicolaes", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1634", 
+            "collaboration": null, 
             "death_date": "1693", 
+            "display_name": "Maes, Nicolaes", 
+            "first": "Nicolaes", 
+            "fullname": "Nicolaes Maes", 
             "irn": 1241, 
-            "name": "Maes, Nicolaes", 
+            "last": "Maes", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 x 12 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 18485, 
     "materials": "oil on wood", 
     "on_view": false, 

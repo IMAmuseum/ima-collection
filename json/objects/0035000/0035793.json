@@ -2,12 +2,23 @@
     "accession_number": "1988.226", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Meidner, Ludwig", 
+                "UlanIdNo": "500016886"
+            }, 
             "after_follower": null, 
             "birth_date": "1884", 
+            "collaboration": null, 
             "death_date": "1966", 
+            "display_name": "Meidner, Ludwig", 
+            "first": "Ludwig", 
+            "fullname": "Ludwig Meidner", 
             "irn": 616510, 
-            "name": "Meidner, Ludwig", 
+            "last": "Meidner", 
+            "middle": null, 
             "nationality": "German", 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "8 1/8 x 7 1/2 in (image)\n14 1/4 x 10 3/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 35793, 
     "materials": "etching", 
     "on_view": false, 

@@ -2,12 +2,23 @@
     "accession_number": "48.18", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Goltzius, Hendrick", 
+                "UlanIdNo": "500023327"
+            }, 
             "after_follower": null, 
             "birth_date": "1558", 
+            "collaboration": null, 
             "death_date": "1617", 
+            "display_name": "Goltzius, Hendrick", 
+            "first": "Hendrick", 
+            "fullname": "Hendrick Goltzius", 
             "irn": 622830, 
-            "name": "Goltzius, Hendrick", 
+            "last": "Goltzius", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "16 1/4 x 13 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 10433, 
     "materials": "Chiaroscuro woodblock print", 
     "on_view": false, 

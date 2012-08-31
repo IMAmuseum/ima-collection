@@ -2,12 +2,23 @@
     "accession_number": "73.52.14", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Wilke, Ulfert S.", 
+                "UlanIdNo": "500031333"
+            }, 
             "after_follower": null, 
             "birth_date": "1907", 
+            "collaboration": null, 
             "death_date": "1988", 
+            "display_name": "Wilke, Ulfert S.", 
+            "first": "Ulfert", 
+            "fullname": "Ulfert S. Wilke", 
             "irn": 630660, 
-            "name": "Wilke, Ulfert S.", 
+            "last": "Wilke", 
+            "middle": "S", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 27753, 
     "materials": "lithograph", 
     "on_view": false, 

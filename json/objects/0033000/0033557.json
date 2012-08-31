@@ -2,12 +2,23 @@
     "accession_number": "09.207", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Houbraken, Jacobus", 
+                "UlanIdNo": "500007033"
+            }, 
             "after_follower": null, 
             "birth_date": "1698", 
+            "collaboration": null, 
             "death_date": "1780", 
+            "display_name": "Houbraken, Jacobus", 
+            "first": "Jacobus", 
+            "fullname": "Jacobus Houbraken", 
             "irn": 606855, 
-            "name": "Houbraken, Jacobus", 
+            "last": "Houbraken", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 33557, 
     "materials": "ink", 
     "on_view": false, 

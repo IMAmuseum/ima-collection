@@ -2,12 +2,23 @@
     "accession_number": "78.271", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Gall\u00e9, Emile", 
+                "UlanIdNo": "500094535"
+            }, 
             "after_follower": null, 
             "birth_date": "1846", 
+            "collaboration": null, 
             "death_date": "1904", 
+            "display_name": "Gall\u00e9, Emile", 
+            "first": "Emile", 
+            "fullname": "Emile Gall\u00e9", 
             "irn": 690997, 
-            "name": "Gall\u00e9, Emile", 
+            "last": "Gall\u00e9", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 19200, 
     "materials": "glass", 
     "on_view": true, 

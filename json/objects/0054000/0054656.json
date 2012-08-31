@@ -2,12 +2,23 @@
     "accession_number": "2001.349", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Haan, Meyer Isaac de", 
+                "UlanIdNo": "500029945"
+            }, 
             "after_follower": null, 
             "birth_date": "1852", 
+            "collaboration": null, 
             "death_date": "1895", 
+            "display_name": "Haan, Meyer Isaac de", 
+            "first": "Meyer", 
+            "fullname": "Meyer I. Haan", 
             "irn": 629303, 
-            "name": "Haan, Meyer Isaac de", 
+            "last": "Haan", 
+            "middle": "Isaac de", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "14 x 11 3/8 in.\n20 1/4 x 18 x 2 1/2 in. (framed)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 54656, 
     "materials": "oil on canvas", 
     "on_view": false, 

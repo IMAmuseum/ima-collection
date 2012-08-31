@@ -2,21 +2,43 @@
     "accession_number": "80.798", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Walker, John", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Walker, John", 
+            "first": null, 
+            "fullname": "Walker, John", 
             "irn": 1754, 
-            "name": "Walker, John", 
+            "last": "Walker, John", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Engraver"
         }, 
         {
+            "ULAN": {
+                "Name": "Storer, James", 
+                "UlanIdNo": "500030751"
+            }, 
             "after_follower": null, 
             "birth_date": "1771", 
+            "collaboration": null, 
             "death_date": "1852", 
+            "display_name": "Storer, James", 
+            "first": "James", 
+            "fullname": "James Storer", 
             "irn": 630093, 
-            "name": "Storer, James", 
+            "last": "Storer", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Engraver"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "6 1/16 x 7 7/8 in (plate) \n8 1/8 x 10 3/4 in (sheet)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 22478, 
     "materials": "engraving", 
     "on_view": false, 

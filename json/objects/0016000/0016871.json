@@ -2,21 +2,43 @@
     "accession_number": "73.84.60", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Goodwin, Francis", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Goodwin, Francis", 
+            "first": null, 
+            "fullname": "Goodwin, Francis", 
             "irn": 1086, 
-            "name": "Goodwin, Francis", 
+            "last": "Goodwin, Francis", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Havell, Robert", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1793-1878", 
+            "collaboration": null, 
             "death_date": "1793-1878", 
+            "display_name": "Havell, Robert", 
+            "first": null, 
+            "fullname": "Havell, Robert", 
             "irn": 560, 
-            "name": "Havell, Robert", 
+            "last": "Havell, Robert", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 16871, 
     "materials": "hand-colored aquatint", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": "Goodwin, Francis", 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Goodwin, Francis", 
+            "first": null, 
+            "fullname": "Goodwin, Francis", 
             "irn": 1086, 
-            "name": "Goodwin, Francis"
+            "last": "Goodwin, Francis", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "ULAN"
         }
     ], 
     "rights": null, 

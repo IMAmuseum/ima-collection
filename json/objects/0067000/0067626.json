@@ -2,21 +2,43 @@
     "accession_number": "2009.645A-D", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bellini, Mario", 
+                "UlanIdNo": "500014815"
+            }, 
             "after_follower": null, 
             "birth_date": "1935", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Bellini, Mario", 
+            "first": "Mario", 
+            "fullname": "Mario Bellini", 
             "irn": 614478, 
-            "name": "Bellini, Mario", 
+            "last": "Bellini", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Designer"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "C & B Italia", 
+            "first": null, 
+            "fullname": "C & B Italia", 
             "irn": 76, 
-            "name": "C & B Italia", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "C & B Italia", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "chair: 23 1/4 x 30 11/16 x 28 1/4 in. (w/out cushion)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 67626, 
     "materials": "plastic and leather", 
     "on_view": false, 

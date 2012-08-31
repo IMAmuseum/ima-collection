@@ -2,12 +2,23 @@
     "accession_number": "17.1", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Scudder, Janet", 
+                "UlanIdNo": "500004026"
+            }, 
             "after_follower": null, 
             "birth_date": "1873", 
+            "collaboration": null, 
             "death_date": "1940", 
+            "display_name": "Scudder, Janet", 
+            "first": "Janet", 
+            "fullname": "Janet Scudder", 
             "irn": 603920, 
-            "name": "Scudder, Janet", 
+            "last": "Scudder", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "2 1/2 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 50210, 
     "materials": null, 
     "on_view": false, 

@@ -1,11 +1,33 @@
 {
     "accession_number": "MH2010.89", 
-    "actors": [], 
+    "actors": [
+        {
+            "ULAN": {
+                "Name": "Offner, Elliot", 
+                "UlanIdNo": "500001702"
+            }, 
+            "after_follower": null, 
+            "birth_date": "1931", 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Offner, Elliot", 
+            "first": "Elliot", 
+            "fullname": "Elliot Offner", 
+            "irn": 601660, 
+            "last": "Offner", 
+            "middle": null, 
+            "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
+            "role": "Artist"
+        }
+    ], 
     "creation_date": null, 
     "credit_line": "Gift of Margaret, Catherine, Elizabeth and Will Miller", 
     "cultures": [], 
     "dimensions": "7 1/4 x 5 1/2 x 4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69314, 
     "materials": "bronze", 
     "on_view": false, 

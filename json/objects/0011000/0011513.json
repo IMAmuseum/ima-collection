@@ -2,12 +2,23 @@
     "accession_number": "09.51", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Boland, Johannes Arnoldus", 
+                "UlanIdNo": "500004188"
+            }, 
             "after_follower": null, 
             "birth_date": "1838", 
+            "collaboration": null, 
             "death_date": "1922", 
+            "display_name": "Boland, Johannes Arnoldus", 
+            "first": "Johannes", 
+            "fullname": "Johannes A. Boland", 
             "irn": 604076, 
-            "name": "Boland, Johannes Arnoldus", 
+            "last": "Boland", 
+            "middle": "Arnoldus", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 11513, 
     "materials": "etching", 
     "on_view": false, 

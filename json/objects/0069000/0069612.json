@@ -2,12 +2,23 @@
     "accession_number": "MH2010.188", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Fitz and Floyd", 
+            "first": null, 
+            "fullname": null, 
             "irn": 8576, 
-            "name": "Fitz and Floyd", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Fitz and Floyd", 
+            "party_type": "Organisation", 
             "role": "Manufacturer"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "1 1/2 x 5 x 5 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 69612, 
     "materials": "glazed ceramic", 
     "on_view": true, 
@@ -23,5 +35,5 @@
     "printers": [], 
     "publishers": [], 
     "rights": null, 
-    "title": "Bowl"
+    "title": "bowl"
 }

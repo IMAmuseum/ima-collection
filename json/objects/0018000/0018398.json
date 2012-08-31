@@ -2,12 +2,23 @@
     "accession_number": "S3622.81.48", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hayden, Henri", 
+                "UlanIdNo": "500006216"
+            }, 
             "after_follower": null, 
             "birth_date": "1883", 
+            "collaboration": null, 
             "death_date": "1970", 
+            "display_name": "Hayden, Henri", 
+            "first": "Henri", 
+            "fullname": "Henri Hayden", 
             "irn": 606053, 
-            "name": "Hayden, Henri", 
+            "last": "Hayden", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 18398, 
     "materials": "color lithograph", 
     "on_view": false, 

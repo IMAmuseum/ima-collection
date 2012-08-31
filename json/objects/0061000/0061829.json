@@ -2,12 +2,23 @@
     "accession_number": "LH2003.11A-KK", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Charles Lever", 
+            "first": "Charles", 
+            "fullname": "Charles Lever", 
             "irn": 2977, 
-            "name": "Charles Lever", 
+            "last": "Lever", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 6 3/8 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61829, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Downey & Co.", 
+            "first": null, 
+            "fullname": "Downey & Co.", 
             "irn": 2978, 
-            "name": "Downey & Co."
+            "last": "Downey & Co.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

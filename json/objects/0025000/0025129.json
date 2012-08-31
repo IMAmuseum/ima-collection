@@ -2,21 +2,43 @@
     "accession_number": "13.441", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Joseph Mallord William Turner", 
+                "UlanIdNo": "500026846"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1851", 
+            "display_name": "Joseph Mallord William Turner", 
+            "first": "Joseph", 
+            "fullname": "Joseph M. Turner", 
             "irn": 626263, 
-            "name": "Joseph Mallord William Turner", 
+            "last": "Turner", 
+            "middle": "Mallord William", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Girtin, Thomas", 
+                "UlanIdNo": "500009169"
+            }, 
             "after_follower": null, 
             "birth_date": "1775", 
+            "collaboration": null, 
             "death_date": "1802", 
+            "display_name": "Girtin, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Girtin", 
             "irn": 608944, 
-            "name": "Girtin, Thomas", 
+            "last": "Girtin", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": "9 1/2 x 14 3/4 in", 
     "dynasty": null, 
+    "images": [], 
     "irn": 25129, 
     "materials": "gray ink washes over pencil on white paper", 
     "on_view": false, 

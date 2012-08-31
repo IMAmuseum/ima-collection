@@ -2,12 +2,23 @@
     "accession_number": "C10077", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Uccello, Paolo", 
+                "UlanIdNo": "500003110"
+            }, 
             "after_follower": null, 
             "birth_date": "1397", 
+            "collaboration": null, 
             "death_date": "1475", 
+            "display_name": "Uccello, Paolo", 
+            "first": "Paolo", 
+            "fullname": "Paolo Uccello", 
             "irn": 603037, 
-            "name": "Uccello, Paolo", 
+            "last": "Uccello", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "Diam: 22 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 26105, 
     "materials": "oil on wood", 
     "on_view": true, 

@@ -2,12 +2,23 @@
     "accession_number": "LH2003.64A-C", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1728", 
+            "collaboration": null, 
             "death_date": "1774", 
+            "display_name": "Oliver Goldsmith", 
+            "first": "Oliver", 
+            "fullname": "Oliver Goldsmith", 
             "irn": 2809, 
-            "name": "Oliver Goldsmith", 
+            "last": "Goldsmith", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Library of Congress", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 6 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61886, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,12 +35,38 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Peter Cunningham, F.S.A.", 
+            "first": null, 
+            "fullname": "Peter Cunningham, F.S.A.", 
             "irn": 3052, 
-            "name": "Peter Cunningham, F.S.A."
+            "last": "Peter Cunningham, F.S.A.", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "John Murray", 
+            "first": "John", 
+            "fullname": "John Murray", 
             "irn": 3034, 
-            "name": "John Murray"
+            "last": "Murray", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

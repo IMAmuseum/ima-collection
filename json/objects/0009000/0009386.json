@@ -2,12 +2,23 @@
     "accession_number": "31.12", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Roth, Ernest David", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1879", 
+            "collaboration": null, 
             "death_date": "1964", 
+            "display_name": "Roth, Ernest David", 
+            "first": null, 
+            "fullname": "Roth, Ernest David", 
             "irn": 1017, 
-            "name": "Roth, Ernest David", 
+            "last": "Roth, Ernest David", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 9386, 
     "materials": "etching", 
     "on_view": false, 

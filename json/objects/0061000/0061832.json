@@ -2,12 +2,23 @@
     "accession_number": "LH2003.14A-Q", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "GuyDe Maupassant", 
+            "first": "GuyDe", 
+            "fullname": "GuyDe Maupassant", 
             "irn": 2982, 
-            "name": "GuyDe Maupassant", 
+            "last": "Maupassant", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Author"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "9 x 6 1/2 in. (each)", 
     "dynasty": null, 
+    "images": [], 
     "irn": 61832, 
     "materials": "ink, paper, leather", 
     "on_view": true, 
@@ -23,8 +35,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Dingwell-Rock", 
+            "first": null, 
+            "fullname": "Dingwell-Rock", 
             "irn": 2983, 
-            "name": "Dingwell-Rock"
+            "last": "Dingwell-Rock", 
+            "middle": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified"
         }
     ], 
     "rights": null, 

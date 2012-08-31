@@ -2,21 +2,43 @@
     "accession_number": "62.130", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Bracquemond, F\u00e9lix", 
+                "UlanIdNo": "500023048"
+            }, 
             "after_follower": null, 
             "birth_date": "1833", 
+            "collaboration": null, 
             "death_date": "1914", 
+            "display_name": "Bracquemond, F\u00e9lix", 
+            "first": "F\u00e9lix", 
+            "fullname": "F\u00e9lix Bracquemond", 
             "irn": 954, 
-            "name": "Bracquemond, F\u00e9lix", 
+            "last": "Bracquemond", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": "Del\u00e2tre, Auguste", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1822", 
+            "collaboration": null, 
             "death_date": "1907", 
+            "display_name": "Del\u00e2tre, Auguste", 
+            "first": null, 
+            "fullname": "Del\u00e2tre, Auguste", 
             "irn": 2047, 
-            "name": "Del\u00e2tre, Auguste", 
+            "last": "Del\u00e2tre, Auguste", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 35942, 
     "materials": "etching", 
     "on_view": false, 

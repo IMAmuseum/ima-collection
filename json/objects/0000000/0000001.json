@@ -2,21 +2,43 @@
     "accession_number": "71.194", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Robert Rauschenberg", 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1925", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Robert Rauschenberg", 
+            "first": null, 
+            "fullname": "Robert Rauschenberg", 
             "irn": 1554, 
-            "name": "Robert Rauschenberg", 
+            "last": "Robert Rauschenberg", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "ULAN", 
             "role": "Artist"
         }, 
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": null, 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Styria Studio", 
+            "first": null, 
+            "fullname": null, 
             "irn": 5072, 
-            "name": "Styria Studio", 
+            "last": null, 
+            "middle": null, 
             "nationality": null, 
+            "organization": "Styria Studio", 
+            "party_type": "Curatorial Not Verified", 
             "role": "Printer"
         }
     ], 
@@ -25,6 +47,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 1, 
     "materials": "photoscreenprint and collage", 
     "on_view": false, 
@@ -32,8 +55,21 @@
     "printers": [], 
     "publishers": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
+            "birth_date": null, 
+            "collaboration": null, 
+            "death_date": null, 
+            "display_name": "Walker Art Center", 
+            "first": "Gwen", 
+            "fullname": "Walker Art Center", 
             "irn": 4182, 
-            "name": "Walker Art Center"
+            "last": "Bitz", 
+            "middle": null, 
+            "organization": "Walker Art Center", 
+            "party_type": "Organisation"
         }
     ], 
     "rights": "\u00a9 Estate of Robert Rauschenberg/ Licensed by VAGA, New York, NY", 

@@ -2,12 +2,23 @@
     "accession_number": "56.66", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Rowlandson, Thomas", 
+                "UlanIdNo": "500006930"
+            }, 
             "after_follower": null, 
             "birth_date": "1756", 
+            "collaboration": null, 
             "death_date": "1827", 
+            "display_name": "Rowlandson, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Rowlandson", 
             "irn": 606754, 
-            "name": "Rowlandson, Thomas", 
+            "last": "Rowlandson", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 34408, 
     "materials": "pen, ink, and watercolor wash on off-white paper", 
     "on_view": false, 

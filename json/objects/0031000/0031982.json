@@ -2,12 +2,23 @@
     "accession_number": "24.4", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Sellaio, Jacopo del", 
+                "UlanIdNo": "500023242"
+            }, 
             "after_follower": "Workshop of", 
             "birth_date": "1441", 
+            "collaboration": null, 
             "death_date": "1493", 
+            "display_name": "Sellaio, Jacopo del", 
+            "first": "Jacopo", 
+            "fullname": "Jacopo d. Sellaio", 
             "irn": 622745, 
-            "name": "Sellaio, Jacopo del", 
+            "last": "Sellaio", 
+            "middle": "del", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "32 x 20 3/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 31982, 
     "materials": "oil on wood", 
     "on_view": false, 

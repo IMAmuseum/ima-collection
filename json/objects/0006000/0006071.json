@@ -2,12 +2,23 @@
     "accession_number": "09.143", 
     "actors": [
         {
+            "ULAN": {
+                "Name": null, 
+                "UlanIdNo": null
+            }, 
             "after_follower": null, 
             "birth_date": "1756", 
+            "collaboration": null, 
             "death_date": "1823", 
+            "display_name": "Charles Taylor", 
+            "first": "Charles", 
+            "fullname": "Charles Taylor", 
             "irn": 1748, 
-            "name": "Charles Taylor", 
+            "last": "Taylor", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Registration-Verified", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": null, 
     "dynasty": null, 
+    "images": [], 
     "irn": 6071, 
     "materials": "engraving", 
     "on_view": false, 

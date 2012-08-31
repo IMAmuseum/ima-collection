@@ -2,12 +2,23 @@
     "accession_number": "78.6", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Cole, Thomas", 
+                "UlanIdNo": "500028323"
+            }, 
             "after_follower": null, 
             "birth_date": "1801", 
+            "collaboration": null, 
             "death_date": "1848", 
+            "display_name": "Cole, Thomas", 
+            "first": "Thomas", 
+            "fullname": "Thomas Cole", 
             "irn": 627713, 
-            "name": "Cole, Thomas", 
+            "last": "Cole", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "30 x 40 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 2383, 
     "materials": "oil on canvas", 
     "on_view": false, 

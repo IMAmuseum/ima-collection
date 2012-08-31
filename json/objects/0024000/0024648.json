@@ -2,12 +2,23 @@
     "accession_number": "1985.182", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hockney, David", 
+                "UlanIdNo": "500017273"
+            }, 
             "after_follower": null, 
             "birth_date": "1937", 
+            "collaboration": null, 
             "death_date": null, 
+            "display_name": "Hockney, David", 
+            "first": "David", 
+            "fullname": "David Hockney", 
             "irn": 616887, 
-            "name": "Hockney, David", 
+            "last": "Hockney", 
+            "middle": null, 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "40 1/4 x 29 1/4 in.", 
     "dynasty": null, 
+    "images": [], 
     "irn": 24648, 
     "materials": "lithograph", 
     "on_view": false, 

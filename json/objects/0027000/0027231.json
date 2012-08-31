@@ -2,12 +2,23 @@
     "accession_number": "1984.41", 
     "actors": [
         {
+            "ULAN": {
+                "Name": "Hancock, Walker Kirtland", 
+                "UlanIdNo": "500037126"
+            }, 
             "after_follower": null, 
             "birth_date": "1901", 
+            "collaboration": null, 
             "death_date": "1998", 
+            "display_name": "Hancock, Walker Kirtland", 
+            "first": "Walker", 
+            "fullname": "Walker K. Hancock", 
             "irn": 636327, 
-            "name": "Hancock, Walker Kirtland", 
+            "last": "Hancock", 
+            "middle": "Kirtland", 
             "nationality": null, 
+            "organization": null, 
+            "party_type": "Ulan", 
             "role": "Artist"
         }
     ], 
@@ -16,6 +27,7 @@
     "cultures": [], 
     "dimensions": "22 1/4 H", 
     "dynasty": null, 
+    "images": [], 
     "irn": 27231, 
     "materials": "aquatint", 
     "on_view": false, 
