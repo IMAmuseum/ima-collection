@@ -1,3 +1,5 @@
+all: actors csv glossary
+
 actors:
 
 	bin/export-actors.py
