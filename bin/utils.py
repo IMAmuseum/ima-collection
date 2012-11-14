@@ -6,6 +6,7 @@ import unicodedata
 import logging
 import json
 import csv
+import types
 
 def dumper(data):
     print pprint.pformat(data)
@@ -83,10 +84,11 @@ def utf8ify_dict(stuff):
     
     for k, v in stuff.items():
 
-        if v:
+        if v and type(v) == types.UnicodeType:
             try:
                 v = v.encode('utf8')
             except Exception, e:
+                logging.error(e)
                 v = ''
 
         stuff[k] = v
