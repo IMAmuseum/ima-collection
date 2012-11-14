@@ -6,10 +6,7 @@ import os.path
 import json
 import utils
 
-def crawl(options) :
-
-    objects = os.path.abspath(options.objects)
-    actors = os.path.abspath(options.actors)
+def crawl(objects, actors) :
 
     for root, dirs, files in os.walk(objects):
 
@@ -89,18 +86,12 @@ def crawl(options) :
 
 if __name__ == '__main__':
 
-    import optparse
+    whoami = os.path.abspath(sys.argv[0])
 
-    parser = optparse.OptionParser(usage="...")
+    bindir = os.path.dirname(whoami)
+    rootdir = os.path.dirname(bindir)
 
-    parser.add_option('--objects', dest='objects',
-                        help='The path to your collection objects',
-                        action='store')
+    objects_dir = os.path.join(rootdir, 'json/objects')
+    actors_dir = os.path.join(rootdir, 'json/actors')
 
-    parser.add_option('--actors', dest='actors',
-                        help="The path to your collection actors",
-                        action='store')
-
-    options, args = parser.parse_args()
-
-    crawl(options)
+    crawl(objects_dir, actors_dir)
