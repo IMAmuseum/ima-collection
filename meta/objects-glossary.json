@@ -64,11 +64,6 @@
     "notes": [], 
     "description": ""
   }, 
-  "printers.party_type": {
-    "sameas": [], 
-    "notes": [], 
-    "description": ""
-  }, 
   "actors.ULAN": {
     "sameas": [], 
     "notes": [], 
@@ -80,11 +75,6 @@
     "description": ""
   }, 
   "publishers.irn": {
-    "sameas": [], 
-    "notes": [], 
-    "description": ""
-  }, 
-  "actors.middle": {
     "sameas": [], 
     "notes": [], 
     "description": ""
@@ -104,6 +94,11 @@
     "notes": [], 
     "description": ""
   }, 
+  "rights": {
+    "sameas": [], 
+    "notes": [], 
+    "description": ""
+  }, 
   "actors.ULAN.UlanIdNo": {
     "sameas": [], 
     "notes": [], 
@@ -115,11 +110,6 @@
     "description": ""
   }, 
   "title": {
-    "sameas": [], 
-    "notes": [], 
-    "description": ""
-  }, 
-  "printers.first": {
     "sameas": [], 
     "notes": [], 
     "description": ""
@@ -139,7 +129,7 @@
     "notes": [], 
     "description": ""
   }, 
-  "printers.middle": {
+  "materials": {
     "sameas": [], 
     "notes": [], 
     "description": ""
@@ -199,7 +189,7 @@
     "notes": [], 
     "description": ""
   }, 
-  "actors.birth_date": {
+  "dynasty": {
     "sameas": [], 
     "notes": [], 
     "description": ""
@@ -224,12 +214,22 @@
     "notes": [], 
     "description": ""
   }, 
-  "dynasty": {
+  "publishers.collaboration": {
+    "sameas": [], 
+    "notes": [], 
+    "description": ""
+  }, 
+  "printers.party_type": {
     "sameas": [], 
     "notes": [], 
     "description": ""
   }, 
   "printers.display_name": {
+    "sameas": [], 
+    "notes": [], 
+    "description": ""
+  }, 
+  "actors.collaboration": {
     "sameas": [], 
     "notes": [], 
     "description": ""
@@ -254,7 +254,7 @@
     "notes": [], 
     "description": ""
   }, 
-  "rights": {
+  "printers.first": {
     "sameas": [], 
     "notes": [], 
     "description": ""
@@ -264,7 +264,7 @@
     "notes": [], 
     "description": ""
   }, 
-  "actors.collaboration": {
+  "actors.birth_date": {
     "sameas": [], 
     "notes": [], 
     "description": ""
@@ -279,12 +279,12 @@
     "notes": [], 
     "description": ""
   }, 
-  "publishers.collaboration": {
+  "actors.middle": {
     "sameas": [], 
     "notes": [], 
     "description": ""
   }, 
-  "materials": {
+  "printers.middle": {
     "sameas": [], 
     "notes": [], 
     "description": ""

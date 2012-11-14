@@ -21,98 +21,34 @@ def crawl(objects, actors) :
             fh = open(path, 'r')
             data = json.load(fh)
 
-            if not data.get('actors', False):
-                continue
+            for role in ('actors', 'printers', 'publishers') :
 
-            for a in data['actors']:
-
-                id = a.get('irn', None)
-
-                if not id:
+                if not data.get(role, False):
                     continue
 
-                role = a.get('role', 'unknown')
+                for a in data[ role ]:
 
-                if not role:
-                    role = 'unknown'
+                    id = a.get('irn', None)
 
-                role = utils.clean_meta_name(role)
+                    if not id:
+                        continue
 
-                dirname = os.path.join(actors, role)
+                    parent = utils.id2path(id)
+                    dirname = os.path.join(actors, parent)
 
-                if not os.path.exists(dirname):
-                    os.makedirs(dirname)
+                    if not os.path.exists(dirname):
+                        os.makedirs(dirname)
 
-                fname = "%s.json" % id
+                    fname = "%s.json" % id
 
-                apath = os.path.join(dirname, fname)
+                    path = os.path.join(dirname, fname)
 
-                if os.path.exists(apath):
-                    continue
+                    if os.path.exists(path):
+                        continue
 
-                fh = open(apath, 'w')
-                json.dump(a, fh, indent=2)
-                fh.close()
-
-            for p in data['publishers']:
-
-                id = p.get('irn', None)
-
-                if not id:
-                    continue
-
-                role = a.get('role', 'unknown')
-
-                if not role:
-                    role = 'unknown'
-
-                role = 'publisher'
-
-                dirname = os.path.join(actors, role)
-
-                if not os.path.exists(dirname):
-                    os.makedirs(dirname)
-
-                fname = "%s.json" % id
-
-                ppath = os.path.join(dirname, fname)
-
-                if os.path.exists(ppath):
-                    continue
-
-                fh = open(ppath, 'w')
-                json.dump(p, fh, indent=2)
-                fh.close()
-
-            for p in data['printers']:
-
-                id = p.get('irn', None)
-
-                if not id:
-                    continue
-
-                role = a.get('role', 'unknown')
-
-                if not role:
-                    role = 'unknown'
-
-                role = 'printer'
-
-                dirname = os.path.join(actors, role)
-
-                if not os.path.exists(dirname):
-                    os.makedirs(dirname)
-
-                fname = "%s.json" % id
-
-                ppath = os.path.join(dirname, fname)
-
-                if os.path.exists(ppath):
-                    continue
-
-                fh = open(ppath, 'w')
-                json.dump(p, fh, indent=2)
-                fh.close()
+                    fh = open(path, 'w')
+                    json.dump(a, fh, indent=2)
+                    fh.close()
 
 if __name__ == '__main__':
 
