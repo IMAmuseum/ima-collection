@@ -84,6 +84,36 @@ def crawl(objects, actors) :
                 json.dump(p, fh, indent=2)
                 fh.close()
 
+            for p in data['printers']:
+
+                id = p.get('irn', None)
+
+                if not id:
+                    continue
+
+                role = a.get('role', 'unknown')
+
+                if not role:
+                    role = 'unknown'
+
+                role = 'printer'
+
+                dirname = os.path.join(actors, role)
+
+                if not os.path.exists(dirname):
+                    os.makedirs(dirname)
+
+                fname = "%s.json" % id
+
+                ppath = os.path.join(dirname, fname)
+
+                if os.path.exists(ppath):
+                    continue
+
+                fh = open(ppath, 'w')
+                json.dump(p, fh, indent=2)
+                fh.close()
+
 if __name__ == '__main__':
 
     whoami = os.path.abspath(sys.argv[0])
