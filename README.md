@@ -4,7 +4,7 @@ What you see before you is the attempt to make the collection metadata for the I
 
 Each json file represents a single work of art. The objects are sorted into folders by zero-padding their unique identifiers (`irn`).
 
-Given an objects unique identifier, you can load its webpage with the following URL template:
+Given an object's unique identifier, you can load its webpage with the following URL template:
 
     http://imamuseum.org/mercury/load-artwork/{irn}
 
