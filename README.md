@@ -1,3 +1,5 @@
+# This project is no longer active, and the repo has been archived.
+
 ## Collection Metadata for the Indianapolis Museum of Art
 
 What you see before you is the attempt to make the collection metadata for the IMA accessible in an extremely simple format.
